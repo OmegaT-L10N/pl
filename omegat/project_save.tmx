@@ -20,9 +20,9 @@
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria" changedate="20210220T000900Z" creationid="Maria" creationdate="20210220T000900Z">
-        <seg>Options:
-	None: Launch GUI
+      <tuv lang="PL" changeid="Maria" changedate="20210220T002411Z" creationid="Maria" creationdate="20210220T000900Z">
+        <seg>Opcje:
+	Żadna: Uruchomić GUI
 	Project path only: Launch GUI and load specified project
 	team
 		Team project tool.</seg>
