@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>Invoke `team -h` for details.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria" changedate="20210220T003415Z" creationid="Maria" creationdate="20210220T003415Z">
+        <seg>Invoke `team -h` for details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="PL" changeid="Maria" changedate="20210216T214122Z" creationid="Maria" creationdate="20210216T214122Z">
