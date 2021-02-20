@@ -14,10 +14,27 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	team
+		Team project tool.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria" changedate="20210220T000900Z" creationid="Maria" creationdate="20210220T000900Z">
+        <seg>Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	team
+		Team project tool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>do weryfikacji</note>
+      <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria" changedate="20210219T234842Z" creationid="Maria" creationdate="20210219T234842Z">
-        <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
+      <tuv lang="PL" changeid="Maria" changedate="20210220T002017Z" creationid="Maria" creationdate="20210219T234842Z">
+        <seg>Składnia wywołania: java -jar OmegaT.jar [&lt;opcje&gt;] [&lt;ścieżka do projektu&gt;]</seg>
       </tuv>
     </tu>
     <tu>
