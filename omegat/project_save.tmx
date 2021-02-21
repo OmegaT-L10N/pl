@@ -38,10 +38,10 @@
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria" changedate="20210220T003414Z" creationid="Maria" creationdate="20210220T000900Z">
+      <tuv lang="PL" changeid="Maria" changedate="20210221T235307Z" creationid="Maria" creationdate="20210220T000900Z">
         <seg>Opcje:
-	Żadna: Uruchom GUI
-	Tylko ścieżka do projektu: Uruchom GUI i załącz określony zespół projektowy
+	Żadna: Uruchom graficzny interfejs użytkownika
+	Tylko ścieżka do projektu: Uruchom graficzny interfejs użytkownika i załącz określony zespół projektowy
 		Narzędzie projektu zespołowego.</seg>
       </tuv>
     </tu>
@@ -50,8 +50,8 @@
       <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria" changedate="20210220T002017Z" creationid="Maria" creationdate="20210219T234842Z">
-        <seg>Składnia wywołania: java -jar OmegaT.jar [&lt;opcje&gt;] [&lt;ścieżka do projektu&gt;]</seg>
+      <tuv lang="PL" changeid="Maria" changedate="20210221T235019Z" creationid="Maria" creationdate="20210219T234842Z">
+        <seg>Użycie: java -jar OmegaT.jar [&lt;opcje&gt;] [&lt;ścieżka do projektu&gt;]</seg>
       </tuv>
     </tu>
     <tu>
