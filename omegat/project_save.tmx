@@ -6,12 +6,24 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>--remote-project
+		Download an omegat.project file from the URL given as &lt;project
+		path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria" changedate="20210222T000425Z" creationid="Maria" creationdate="20210222T000425Z">
+        <seg>--remote-project
+		Download an omegat.project file from the URL given as &lt;project
+		path&gt; and load the project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria" changedate="20210220T003559Z" creationid="Maria" creationdate="20210220T003559Z">
+      <tuv lang="PL" changeid="Maria" changedate="20210222T000255Z" creationid="Maria" creationdate="20210220T003559Z">
         <seg>-h, --help
-		Show usage information.</seg>
+		Pokaż informację o użyciu.</seg>
       </tuv>
     </tu>
     <tu>
