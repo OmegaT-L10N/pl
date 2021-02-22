@@ -15,6 +15,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>!!!</note>
       <tuv lang="EN">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
@@ -31,6 +32,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>do weryfikacji</note>
       <tuv lang="EN">
         <seg>Options:
 	None: Launch GUI
@@ -46,7 +48,6 @@
       </tuv>
     </tu>
     <tu>
-      <note>do weryfikacji</note>
       <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
