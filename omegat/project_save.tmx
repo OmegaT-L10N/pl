@@ -18,37 +18,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>-h, --help
-		Show usage information.</seg>
-      </tuv>
-      <tuv lang="PL" changeid="Maria" changedate="20210222T000255Z" creationid="Maria" creationdate="20210220T003559Z">
-        <seg>-h, --help
-		Pokaż informację o użyciu.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <note>!!!</note>
-      <tuv lang="EN">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria" changedate="20210220T003415Z" creationid="Maria" creationdate="20210220T003415Z">
+      <tuv lang="PL" changeid="Maria" changedate="20210228T042450Z" creationid="Maria" creationdate="20210220T003415Z">
         <seg>Invoke `team -h` for details.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Options:
-	None: Launch GUI
-	Project path only: Launch GUI and load specified project
-	team
-		Team project tool.</seg>
-      </tuv>
-      <tuv lang="PL" changeid="Maria" changedate="20210228T042405Z" creationid="Maria" creationdate="20210220T000900Z">
-        <seg>Options:
-	None: Launch GUI
-	Project path only: Launch GUI and load specified project
-	team
-		Team project tool.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
