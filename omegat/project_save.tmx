@@ -4,54 +4,6 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
-    <tu>
-      <tuv lang="EN">
-        <seg>OmegaT</seg>
-      </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20210309T214229Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210309T214229Z">
-        <seg>OmegaT</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Options:
-	None: Launch GUI
-	Project path only: Launch GUI and load specified project
-	team
-		Team project tool.</seg>
-      </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20210309T222659Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210309T222659Z">
-        <seg>Options:
-	None: Launch GUI
-	Project path only: Launch GUI and load specified project
-	team
-		Team project tool.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
-      </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20210309T222656Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210309T222656Z">
-        <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>{0} {1}_{2}</seg>
-      </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20210309T225938Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210309T225938Z">
-        <seg>{0} {1}_{2}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>{0}_{1}_{2}</seg>
-      </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20210309T222641Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210309T222641Z">
-        <seg>{0}_{1}_{2}</seg>
-      </tuv>
-    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
