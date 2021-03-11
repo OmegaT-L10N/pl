@@ -58,6 +58,9 @@
             <repository type="http" url="https://github.com/OmegaT-L10N/es/raw/master/">
                 <mapping local="tm/tmx2source/ES.tmx" repository="omegat/project_save.tmx"/>
             </repository>
+            <repository type="http" url="https://github.com/OmegaT-L10N/de/raw/master/">
+                <mapping local="tm/tmx2source/DE.tmx" repository="omegat/project_save.tmx"/>
+            </repository>            
         </repositories>
     </project>
 </omegat>
