@@ -122,6 +122,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exception while parsing:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172758Z" creationid="magdaradka" creationdate="20210317T172758Z">
+        <seg>Exception while parsing:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exciting help page
 Gossamer threads hold you back
 404 not found</seg>
@@ -138,6 +146,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171117Z" creationid="magdaradka" creationdate="20210317T171117Z">
         <seg>Exclude orphan segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to back up preferences file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172749Z" creationid="magdaradka" creationdate="20210317T172749Z">
+        <seg>Failed to back up preferences file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -246,6 +262,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reading TMX file {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172754Z" creationid="magdaradka" creationdate="20210317T172754Z">
+        <seg>Reading TMX file {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171004Z" creationid="magdaradka" creationdate="20210317T171004Z">
@@ -278,6 +302,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source language: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172757Z" creationid="magdaradka" creationdate="20210317T172757Z">
+        <seg>Source language: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text Replace</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171052Z" creationid="magdaradka" creationdate="20210317T171052Z">
@@ -302,6 +334,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to read file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172746Z" creationid="magdaradka" creationdate="20210317T172746Z">
+        <seg>Unable to read file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unsupported file encoding</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171503Z" creationid="magdaradka" creationdate="20210317T171503Z">
@@ -310,10 +350,34 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unsupported project file version ({0})!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172751Z" creationid="magdaradka" creationdate="20210317T172751Z">
+        <seg>Unsupported project file version ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="PL" changeid="agata" changedate="20210317T171827Z" creationid="agata" creationdate="20210317T171827Z">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172755Z" creationid="magdaradka" creationdate="20210317T172755Z">
+        <seg>Version: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172843Z" creationid="magdaradka" creationdate="20210317T172843Z">
+        <seg>Warning on line {0}, column {1} while parsing:</seg>
       </tuv>
     </tu>
     <tu>
