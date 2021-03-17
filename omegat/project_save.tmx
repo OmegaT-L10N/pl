@@ -14,10 +14,46 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Replace Next</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171319Z" creationid="jnnas10" creationdate="20210317T171319Z">
+        <seg>&amp;Replace Next</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reset Options</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171050Z" creationid="magdaradka" creationdate="20210317T171050Z">
         <seg>&amp;Reset Options</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Skip</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171315Z" creationid="jnnas10" creationdate="20210317T171315Z">
+        <seg>&amp;Skip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--disable-location-save
+		Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171302Z" creationid="jnnas10" creationdate="20210317T171302Z">
+        <seg>--disable-location-save
+		Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171148Z" creationid="jnnas10" creationdate="20210317T171148Z">
+        <seg>-h, --help
+		Show usage information.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50,6 +86,14 @@
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171137Z" creationid="magdaradka" creationdate="20210317T171137Z">
         <seg>Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210317T172309Z" creationid="jnnas10" creationdate="20210317T172309Z">
+        <seg>Error</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +150,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invoke `team -h` for details.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171254Z" creationid="jnnas10" creationdate="20210317T171254Z">
+        <seg>Invoke `team -h` for details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Italian</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171045Z" creationid="magdaradka" creationdate="20210317T171045Z">
@@ -134,6 +186,22 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20210317T170358Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210317T170358Z">
         <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	team
+		Team project tool.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171139Z" creationid="jnnas10" creationdate="20210317T171139Z">
+        <seg>Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	team
+		Team project tool.</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,6 +242,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171004Z" creationid="magdaradka" creationdate="20210317T171004Z">
         <seg>Register Identical Translation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See below for details.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171201Z" creationid="jnnas10" creationdate="20210317T171201Z">
+        <seg>See below for details.</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,6 +314,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171055Z" creationid="magdaradka" creationdate="20210317T171055Z">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171202Z" creationid="jnnas10" creationdate="20210317T171202Z">
+        <seg>{0}-{1}_{2}_{3}</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
