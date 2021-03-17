@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>How To...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210317T170140Z" creationid="Komputer" creationdate="20210317T170140Z">
+        <seg>How To...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20210317T170358Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210317T170358Z">
