@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174345Z" creationid="AgataWojtera" creationdate="20210317T174345Z">
+        <seg>&amp;Allow translation to be equal to source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back in History</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171014Z" creationid="magdaradka" creationdate="20210317T171014Z">
         <seg>&amp;Back in History</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Minimal similarity:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174327Z" creationid="AgataWojtera" creationdate="20210317T174327Z">
+        <seg>&amp;Minimal similarity:</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,6 +70,14 @@
       <tuv lang="PL" changeid="jnnas10" changedate="20210317T171148Z" creationid="jnnas10" creationdate="20210317T171148Z">
         <seg>-h, --help
 		Show usage information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174601Z" creationid="AgataWojtera" creationdate="20210317T174601Z">
+        <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
     </tu>
     <tu>
@@ -386,6 +410,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171055Z" creationid="magdaradka" creationdate="20210317T171055Z">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[fuzzy]</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174335Z" creationid="AgataWojtera" creationdate="20210317T174335Z">
+        <seg>[fuzzy]</seg>
       </tuv>
     </tu>
     <tu>
