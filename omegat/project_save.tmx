@@ -66,6 +66,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bad regular expression</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T172632Z" creationid="AgataWojtera" creationdate="20210317T172632Z">
+        <seg>Bad regular expression</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171002Z" creationid="magdaradka" creationdate="20210317T171002Z">
