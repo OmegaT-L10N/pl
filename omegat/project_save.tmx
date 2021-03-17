@@ -64,6 +64,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--script=&lt;path&gt;
+		A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174803Z" creationid="AgataWojtera" creationdate="20210317T174803Z">
+        <seg>--script=&lt;path&gt;
+		A script file to be executed on project events.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
@@ -346,6 +356,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171153Z" creationid="magdaradka" creationdate="20210317T171153Z">
         <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174746Z" creationid="AgataWojtera" creationdate="20210317T174746Z">
+        <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
       </tuv>
     </tu>
     <tu>
