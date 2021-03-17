@@ -6,6 +6,98 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Back in History</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171014Z" creationid="magdaradka" creationdate="20210317T171014Z">
+        <seg>&amp;Back in History</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Reset Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171050Z" creationid="magdaradka" creationdate="20210317T171050Z">
+        <seg>&amp;Reset Options</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Back to the initial segment on close</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171113Z" creationid="magdaradka" creationdate="20210317T171113Z">
+        <seg>Back to the initial segment on close</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create &amp;Glossary Entry...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171002Z" creationid="magdaradka" creationdate="20210317T171002Z">
+        <seg>Create &amp;Glossary Entry...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to create it?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171039Z" creationid="magdaradka" creationdate="20210317T171039Z">
+        <seg>Do you want to create it?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171137Z" creationid="magdaradka" creationdate="20210317T171137Z">
+        <seg>Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171059Z" creationid="magdaradka" creationdate="20210317T171059Z">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error searching directory tree!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171101Z" creationid="magdaradka" creationdate="20210317T171101Z">
+        <seg>Error searching directory tree!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exciting help page
+Gossamer threads hold you back
+404 not found</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171035Z" creationid="magdaradka" creationdate="20210317T171035Z">
+        <seg>Exciting help page
+Gossamer threads hold you back
+404 not found</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exclude orphan segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171117Z" creationid="magdaradka" creationdate="20210317T171117Z">
+        <seg>Exclude orphan segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171158Z" creationid="magdaradka" creationdate="20210317T171158Z">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How To...</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210317T170140Z" creationid="Komputer" creationdate="20210317T170140Z">
@@ -14,10 +106,114 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171045Z" creationid="magdaradka" creationdate="20210317T171045Z">
+        <seg>Italian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading glossary {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171139Z" creationid="magdaradka" creationdate="20210317T171139Z">
+        <seg>Loading glossary {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maximum number of finds has been reached ({0})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171128Z" creationid="magdaradka" creationdate="20210317T171128Z">
+        <seg>Maximum number of finds has been reached ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20210317T170358Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210317T170358Z">
         <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please close search window.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171057Z" creationid="magdaradka" creationdate="20210317T171057Z">
+        <seg>Please close search window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plugin successfully loaded from class '{0}'</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171216Z" creationid="magdaradka" creationdate="20210317T171216Z">
+        <seg>Plugin successfully loaded from class '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171154Z" creationid="magdaradka" creationdate="20210317T171154Z">
+        <seg>Pro&amp;ject</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Register Identical Translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171004Z" creationid="magdaradka" creationdate="20210317T171004Z">
+        <seg>Register Identical Translation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment source text into paragraphs on:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171215Z" creationid="magdaradka" creationdate="20210317T171215Z">
+        <seg>Segment source text into paragraphs on:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation method: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171218Z" creationid="magdaradka" creationdate="20210317T171218Z">
+        <seg>Segmentation method: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Replace</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171052Z" creationid="magdaradka" creationdate="20210317T171052Z">
+        <seg>Text Replace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171153Z" creationid="magdaradka" creationdate="20210317T171153Z">
+        <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation unit encountered before TMX header.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171221Z" creationid="magdaradka" creationdate="20210317T171221Z">
+        <seg>Translation unit encountered before TMX header.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171055Z" creationid="magdaradka" creationdate="20210317T171055Z">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
