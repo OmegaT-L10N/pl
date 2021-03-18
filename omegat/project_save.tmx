@@ -240,6 +240,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20210318T002646Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210318T002646Z">
+        <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options:
 	None: Launch GUI
 	Project path only: Launch GUI and load specified project
