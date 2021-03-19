@@ -1,266 +1,266 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174345Z" creationid="AgataWojtera" creationdate="20210317T174345Z">
+      <tuv lang="pl" changeid="AgataWojtera" changedate="20210317T174345Z" creationid="AgataWojtera" creationdate="20210317T174345Z">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>&amp;Back in History</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171014Z" creationid="magdaradka" creationdate="20210317T171014Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171014Z" creationid="magdaradka" creationdate="20210317T171014Z">
         <seg>&amp;Back in History</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>&amp;Minimal similarity:</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174327Z" creationid="AgataWojtera" creationdate="20210317T174327Z">
+      <tuv lang="pl" changeid="AgataWojtera" changedate="20210317T174327Z" creationid="AgataWojtera" creationdate="20210317T174327Z">
         <seg>&amp;Minimal similarity:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>&amp;Replace Next</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171319Z" creationid="jnnas10" creationdate="20210317T171319Z">
+      <tuv lang="pl" changeid="jnnas10" changedate="20210317T171319Z" creationid="jnnas10" creationdate="20210317T171319Z">
         <seg>&amp;Replace Next</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>&amp;Reset Options</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171050Z" creationid="magdaradka" creationdate="20210317T171050Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171050Z" creationid="magdaradka" creationdate="20210317T171050Z">
         <seg>&amp;Reset Options</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>&amp;Skip</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171315Z" creationid="jnnas10" creationdate="20210317T171315Z">
+      <tuv lang="pl" changeid="jnnas10" changedate="20210317T171315Z" creationid="jnnas10" creationdate="20210317T171315Z">
         <seg>&amp;Skip</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171302Z" creationid="jnnas10" creationdate="20210317T171302Z">
+      <tuv lang="pl" changeid="jnnas10" changedate="20210317T171302Z" creationid="jnnas10" creationdate="20210317T171302Z">
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174803Z" creationid="AgataWojtera" creationdate="20210317T174803Z">
+      <tuv lang="pl" changeid="AgataWojtera" changedate="20210317T174803Z" creationid="AgataWojtera" creationdate="20210317T174803Z">
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171148Z" creationid="jnnas10" creationdate="20210317T171148Z">
+      <tuv lang="pl" changeid="jnnas10" changedate="20210317T171148Z" creationid="jnnas10" creationdate="20210317T171148Z">
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174601Z" creationid="AgataWojtera" creationdate="20210317T174601Z">
+      <tuv lang="pl" changeid="AgataWojtera" changedate="20210317T174601Z" creationid="AgataWojtera" creationdate="20210317T174601Z">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Back to the initial segment on close</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171113Z" creationid="magdaradka" creationdate="20210317T171113Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171113Z" creationid="magdaradka" creationdate="20210317T171113Z">
         <seg>Back to the initial segment on close</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Bad regular expression</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T172632Z" creationid="AgataWojtera" creationdate="20210317T172632Z">
+      <tuv lang="pl" changeid="AgataWojtera" changedate="20210317T172632Z" creationid="AgataWojtera" creationdate="20210317T172632Z">
         <seg>Bad regular expression</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171002Z" creationid="magdaradka" creationdate="20210317T171002Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171002Z" creationid="magdaradka" creationdate="20210317T171002Z">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Do you want to create it?</seg>
       </tuv>
-      <tuv lang="PL" changeid="monika" changedate="20210319T115410Z" creationid="magdaradka" creationdate="20210317T171039Z">
+      <tuv lang="pl" changeid="monika" changedate="20210319T115410Z" creationid="magdaradka" creationdate="20210317T171039Z">
         <seg>Czy chcesz utworzyć folder?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Edit</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171137Z" creationid="magdaradka" creationdate="20210317T171137Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171137Z" creationid="magdaradka" creationdate="20210317T171137Z">
         <seg>Edit</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210317T172309Z" creationid="jnnas10" creationdate="20210317T172309Z">
+      <tuv lang="pl" changeid="jnnas10" changedate="20210317T172309Z" creationid="jnnas10" creationdate="20210317T172309Z">
         <seg>Error</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Error during regular expression replacement:</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171059Z" creationid="magdaradka" creationdate="20210317T171059Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171059Z" creationid="magdaradka" creationdate="20210317T171059Z">
         <seg>Error during regular expression replacement:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Error searching directory tree!</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171101Z" creationid="magdaradka" creationdate="20210317T171101Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171101Z" creationid="magdaradka" creationdate="20210317T171101Z">
         <seg>Error searching directory tree!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Exception while parsing:</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172758Z" creationid="magdaradka" creationdate="20210317T172758Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T172758Z" creationid="magdaradka" creationdate="20210317T172758Z">
         <seg>Exception while parsing:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Exciting help page
 Gossamer threads hold you back
 404 not found</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171035Z" creationid="magdaradka" creationdate="20210317T171035Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171035Z" creationid="magdaradka" creationdate="20210317T171035Z">
         <seg>Exciting help page
 Gossamer threads hold you back
 404 not found</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Exclude orphan segments</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171117Z" creationid="magdaradka" creationdate="20210317T171117Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171117Z" creationid="magdaradka" creationdate="20210317T171117Z">
         <seg>Exclude orphan segments</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172749Z" creationid="magdaradka" creationdate="20210317T172749Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T172749Z" creationid="magdaradka" creationdate="20210317T172749Z">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Group {0} does not exist in search expression</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171158Z" creationid="magdaradka" creationdate="20210317T171158Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171158Z" creationid="magdaradka" creationdate="20210317T171158Z">
         <seg>Group {0} does not exist in search expression</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>How To...</seg>
       </tuv>
-      <tuv lang="PL" changeid="Komputer" changedate="20210317T170140Z" creationid="Komputer" creationdate="20210317T170140Z">
+      <tuv lang="pl" changeid="Komputer" changedate="20210317T170140Z" creationid="Komputer" creationdate="20210317T170140Z">
         <seg>How To...</seg>
       </tuv>
     </tu>
     <tu>
       <note>&lt;DE&gt; Segment	segment</note>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171254Z" creationid="jnnas10" creationdate="20210317T171254Z">
+      <tuv lang="pl" changeid="jnnas10" changedate="20210317T171254Z" creationid="jnnas10" creationdate="20210317T171254Z">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Italian</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171045Z" creationid="magdaradka" creationdate="20210317T171045Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171045Z" creationid="magdaradka" creationdate="20210317T171045Z">
         <seg>Italian</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Loading glossary {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171139Z" creationid="magdaradka" creationdate="20210317T171139Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171139Z" creationid="magdaradka" creationdate="20210317T171139Z">
         <seg>Loading glossary {0}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Maximum number of finds has been reached ({0})</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171128Z" creationid="magdaradka" creationdate="20210317T171128Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171128Z" creationid="magdaradka" creationdate="20210317T171128Z">
         <seg>Maximum number of finds has been reached ({0})</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>OmegaT</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20210318T002646Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210318T002646Z">
+      <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20210318T002646Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210318T002646Z">
         <seg>OmegaT</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Options:
 	None: Launch GUI
 	Project path only: Launch GUI and load specified project
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171139Z" creationid="jnnas10" creationdate="20210317T171139Z">
+      <tuv lang="pl" changeid="jnnas10" changedate="20210317T171139Z" creationid="jnnas10" creationdate="20210317T171139Z">
         <seg>Options:
 	None: Launch GUI
 	Project path only: Launch GUI and load specified project
@@ -269,186 +269,186 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171935Z" creationid="magdaradka" creationdate="20210317T171935Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171935Z" creationid="magdaradka" creationdate="20210317T171935Z">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Please close search window.</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171057Z" creationid="magdaradka" creationdate="20210317T171057Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171057Z" creationid="magdaradka" creationdate="20210317T171057Z">
         <seg>Please close search window.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171216Z" creationid="magdaradka" creationdate="20210317T171216Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171216Z" creationid="magdaradka" creationdate="20210317T171216Z">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Pro&amp;ject</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171154Z" creationid="magdaradka" creationdate="20210317T171154Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171154Z" creationid="magdaradka" creationdate="20210317T171154Z">
         <seg>Pro&amp;ject</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Reading TMX file {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172754Z" creationid="magdaradka" creationdate="20210317T172754Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T172754Z" creationid="magdaradka" creationdate="20210317T172754Z">
         <seg>Reading TMX file {0}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Register Identical Translation</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171004Z" creationid="magdaradka" creationdate="20210317T171004Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171004Z" creationid="magdaradka" creationdate="20210317T171004Z">
         <seg>Register Identical Translation</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>See below for details.</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171201Z" creationid="jnnas10" creationdate="20210317T171201Z">
+      <tuv lang="pl" changeid="jnnas10" changedate="20210317T171201Z" creationid="jnnas10" creationdate="20210317T171201Z">
         <seg>See below for details.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Segment source text into paragraphs on:</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171215Z" creationid="magdaradka" creationdate="20210317T171215Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171215Z" creationid="magdaradka" creationdate="20210317T171215Z">
         <seg>Segment source text into paragraphs on:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Segmentation method: {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171218Z" creationid="magdaradka" creationdate="20210317T171218Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171218Z" creationid="magdaradka" creationdate="20210317T171218Z">
         <seg>Segmentation method: {0}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Source language: {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172757Z" creationid="magdaradka" creationdate="20210317T172757Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T172757Z" creationid="magdaradka" creationdate="20210317T172757Z">
         <seg>Source language: {0}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Text Replace</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171052Z" creationid="magdaradka" creationdate="20210317T171052Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171052Z" creationid="magdaradka" creationdate="20210317T171052Z">
         <seg>Text Replace</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171153Z" creationid="magdaradka" creationdate="20210317T171153Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171153Z" creationid="magdaradka" creationdate="20210317T171153Z">
         <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174746Z" creationid="AgataWojtera" creationdate="20210317T174746Z">
+      <tuv lang="pl" changeid="AgataWojtera" changedate="20210317T174746Z" creationid="AgataWojtera" creationdate="20210317T174746Z">
         <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Translation unit encountered before TMX header.</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171221Z" creationid="magdaradka" creationdate="20210317T171221Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171221Z" creationid="magdaradka" creationdate="20210317T171221Z">
         <seg>Translation unit encountered before TMX header.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Unable to read file</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172746Z" creationid="magdaradka" creationdate="20210317T172746Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T172746Z" creationid="magdaradka" creationdate="20210317T172746Z">
         <seg>Unable to read file</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Unsupported file encoding</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171503Z" creationid="magdaradka" creationdate="20210317T171503Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171503Z" creationid="magdaradka" creationdate="20210317T171503Z">
         <seg>Unsupported file encoding</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Unsupported project file version ({0})!</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172751Z" creationid="magdaradka" creationdate="20210317T172751Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T172751Z" creationid="magdaradka" creationdate="20210317T172751Z">
         <seg>Unsupported project file version ({0})!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="PL" changeid="agata" changedate="20210317T171827Z" creationid="agata" creationdate="20210317T171827Z">
+      <tuv lang="pl" changeid="agata" changedate="20210317T171827Z" creationid="agata" creationdate="20210317T171827Z">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Version: {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172755Z" creationid="magdaradka" creationdate="20210317T172755Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T172755Z" creationid="magdaradka" creationdate="20210317T172755Z">
         <seg>Version: {0}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Warning on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172843Z" creationid="magdaradka" creationdate="20210317T172843Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T172843Z" creationid="magdaradka" creationdate="20210317T172843Z">
         <seg>Warning on line {0}, column {1} while parsing:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171055Z" creationid="magdaradka" creationdate="20210317T171055Z">
+      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171055Z" creationid="magdaradka" creationdate="20210317T171055Z">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>[fuzzy]</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174335Z" creationid="AgataWojtera" creationdate="20210317T174335Z">
+      <tuv lang="pl" changeid="AgataWojtera" changedate="20210317T174335Z" creationid="AgataWojtera" creationdate="20210317T174335Z">
         <seg>[fuzzy]</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>{0}-{1}_{2}_{3}</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171202Z" creationid="jnnas10" creationdate="20210317T171202Z">
+      <tuv lang="pl" changeid="jnnas10" changedate="20210317T171202Z" creationid="jnnas10" creationdate="20210317T171202Z">
         <seg>{0}-{1}_{2}_{3}</seg>
       </tuv>
     </tu>
