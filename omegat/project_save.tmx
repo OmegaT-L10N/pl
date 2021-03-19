@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-5.3.0" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18,6 +18,14 @@
       </tuv>
       <tuv lang="pl" changeid="magdaradka" changedate="20210317T171014Z" creationid="magdaradka" creationdate="20210317T171014Z">
         <seg>&amp;Back in History</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Enable autotext</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210319T115410Z" creationid="magdalenaklocek" creationdate="20210319T115410Z">
+        <seg>Włączyć autotekst</seg>
       </tuv>
     </tu>
     <tu>
