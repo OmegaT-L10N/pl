@@ -344,6 +344,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary auto-completer options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210322T123623Z" creationid="paulina" creationdate="20210322T123623Z">
+        <seg>Opcje autouzupełniania słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary entries</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T134107Z" creationid="paulina" creationdate="20210320T134107Z">
@@ -380,6 +388,22 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210317T170140Z" creationid="Komputer" creationdate="20210317T170140Z">
         <seg>How To...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the entries are sorted alphabetically.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210322T123553Z" creationid="paulina" creationdate="20210322T123553Z">
+        <seg>Jeżeli jest zaznaczone, wpisy są posortowane alfabetycznie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the longer entries are placed on the list first.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210322T123357Z" creationid="paulina" creationdate="20210322T123357Z">
+        <seg>Jeśli jest zaznaczone, dłuższe wpisy są umieszczane na liście jako pierwsze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -654,10 +678,42 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show &amp;longer target terms first</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210322T123244Z" creationid="paulina" creationdate="20210322T123244Z">
+        <seg>Pokaż &amp; dłuższe terminy docelowe w pierwszej kolejności</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show &amp;target term first</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210322T123717Z" creationid="paulina" creationdate="20210322T123717Z">
+        <seg>Pokaż termin docelowy najpierw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skipping.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T132657Z" creationid="paulina" creationdate="20210320T132657Z">
         <seg>Pomijanie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by source term &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210322T123425Z" creationid="paulina" creationdate="20210322T123425Z">
+        <seg>Sortuj według terminu źródłowego &amp;alfabetycznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort tar&amp;get terms alphabetically</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210322T123733Z" creationid="paulina" creationdate="20210322T123524Z">
+        <seg>Sortowanie terminów docelowych alfabetycznie</seg>
       </tuv>
     </tu>
     <tu>
@@ -850,6 +906,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T172843Z" creationid="magdaradka" creationdate="20210317T172843Z">
         <seg>Warning on line {0}, column {1} while parsing:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210322T123128Z" creationid="paulina" creationdate="20210322T123128Z">
+        <seg>Jeżeli jest zaznaczone, elementy w widoku autouzupełniania słownika będą zawierały również tekst źródłowy.</seg>
       </tuv>
     </tu>
     <tu>
