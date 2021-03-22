@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133208Z" creationid="paulina" creationdate="20210320T133208Z">
+        <seg>&amp;Zezwalaj także na zewnętrzne polecenia  przedprojektowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back in History</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171014Z" creationid="magdaradka" creationdate="20210317T171014Z">
@@ -92,10 +100,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;No suggestions&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133915Z" creationid="paulina" creationdate="20210320T133915Z">
+        <seg>&lt;Brak sugestii&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred when trying to detect the project file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T130512Z" creationid="paulina" creationdate="20210320T130512Z">
+        <seg>Wystąpił błąd podczas próby wykrycia pliku projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174601Z" creationid="AgataWojtera" creationdate="20210317T174601Z">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Autotext entries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T134135Z" creationid="paulina" creationdate="20210320T134135Z">
+        <seg>Wpisy autotekstowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -108,10 +140,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bad nesting</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133438Z" creationid="paulina" creationdate="20210320T133438Z">
+        <seg>Złe zagnieżdżenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad regular expression</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T172632Z" creationid="AgataWojtera" creationdate="20210317T172632Z">
         <seg>Bad regular expression</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancelled creating new team project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T130013Z" creationid="paulina" creationdate="20210320T130013Z">
+        <seg>Anulowanie tworzenia nowego projektu zepsołowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character table</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T134154Z" creationid="paulina" creationdate="20210320T134154Z">
+        <seg>Tabela znaków</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not save credentials to text file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T130139Z" creationid="paulina" creationdate="20210320T130139Z">
+        <seg>Nie można zapisać danych uwierzytelniających do pliku tekstowego</seg>
       </tuv>
     </tu>
     <tu>
@@ -124,6 +188,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detecting...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T130222Z" creationid="paulina" creationdate="20210320T130222Z">
+        <seg>Wykrywanie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displa&amp;y source terms</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T134316Z" creationid="paulina" creationdate="20210320T134316Z">
+        <seg>Wyświetlanie terminu źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you want to create it?</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210319T115410Z" creationid="magdaradka" creationdate="20210317T171039Z">
@@ -132,10 +212,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Duplicate</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133455Z" creationid="paulina" creationdate="20210320T133418Z">
+        <seg>Duplikacjaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171137Z" creationid="magdaradka" creationdate="20210317T171137Z">
         <seg>Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End rebase</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T131716Z" creationid="paulina" creationdate="20210320T131716Z">
+        <seg>Zakończ rebase</seg>
       </tuv>
     </tu>
     <tu>
@@ -156,10 +252,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error fixing tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133815Z" creationid="paulina" creationdate="20210320T133815Z">
+        <seg>Błędy w znacznikach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error retrieve {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132339Z" creationid="paulina" creationdate="20210320T132339Z">
+        <seg>Błąd pobierania {0} jako zdalnego pliku projektu </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error searching directory tree!</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171101Z" creationid="magdaradka" creationdate="20210317T171101Z">
         <seg>Error searching directory tree!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error updating repository.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132637Z" creationid="paulina" creationdate="20210320T132637Z">
+        <seg>Błąd aktualizacji repozytorium.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132708Z" creationid="paulina" creationdate="20210320T132708Z">
+        <seg>Błąd: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -192,6 +320,22 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Post-processing Command</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133034Z" creationid="paulina" creationdate="20210320T133034Z">
+        <seg>Polecenie dalszego zewnętrznego przetwarzania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extraneous</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133521Z" creationid="paulina" creationdate="20210320T133521Z">
+        <seg>Zewnętrzny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T172749Z" creationid="magdaradka" creationdate="20210317T172749Z">
@@ -200,10 +344,34 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary entries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T134107Z" creationid="paulina" creationdate="20210320T134107Z">
+        <seg>Słowniczek pojęć</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Group {0} does not exist in search expression</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171158Z" creationid="magdaradka" creationdate="20210317T171158Z">
         <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Completions</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T134221Z" creationid="paulina" creationdate="20210320T134221Z">
+        <seg>Historia uzupełnienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Predictions</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T134252Z" creationid="paulina" creationdate="20210320T134252Z">
+        <seg>Historia przewidywania</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,6 +422,46 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Minutes:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132836Z" creationid="paulina" creationdate="20210320T132836Z">
+        <seg>Minuty:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Missing</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133445Z" creationid="paulina" creationdate="20210320T133445Z">
+        <seg>Pominięcie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Missing tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T134042Z" creationid="paulina" creationdate="20210320T134042Z">
+        <seg>Brakujące znaczniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-breakable space</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133259Z" creationid="paulina" creationdate="20210320T133259Z">
+        <seg>Spacja niełamiąca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening team project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132529Z" creationid="paulina" creationdate="20210320T132529Z">
+        <seg>Otwarcie projektu zespołowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options:
 	None: Launch GUI
 	Project path only: Launch GUI and load specified project
@@ -266,6 +474,22 @@ Gossamer threads hold you back
 	Project path only: Launch GUI and load specified project
 	team
 		Team project tool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Orphaned</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133703Z" creationid="paulina" creationdate="20210320T133703Z">
+        <seg>Osamotniony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Out-of-order</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133605Z" creationid="paulina" creationdate="20210320T133605Z">
+        <seg>Niesprawny</seg>
       </tuv>
     </tu>
     <tu>
@@ -286,10 +510,58 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please double-check it.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T131433Z" creationid="paulina" creationdate="20210320T131433Z">
+        <seg>Proszę sprawdzić jeszcze raz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please redo tag validation.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133857Z" creationid="paulina" creationdate="20210320T133857Z">
+        <seg>Proszę powtórzyć walidację tagów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select the interval at which the project should be saved automatically, in minutes and seconds.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132828Z" creationid="paulina" creationdate="20210320T132828Z">
+        <seg>Proszę wybrać interwał, w którym projekt powinien być zapisywany automatycznie, w minutach i sekundach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171216Z" creationid="magdaradka" creationdate="20210317T171216Z">
         <seg>Plugin successfully loaded from class '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Predefined credentials was not passed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132125Z" creationid="paulina" creationdate="20210320T132125Z">
+        <seg>Uprzednio zdefiniowane dane uwierzytelniające nie zostały przekazane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T134025Z" creationid="paulina" creationdate="20210320T134025Z">
+        <seg>Naciśnij &lt;u&gt;{0}&lt;/u&gt; aby przejść do &lt;b&gt;{1}&lt;/b&gt; sugestii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133959Z" creationid="paulina" creationdate="20210320T133959Z">
+        <seg>Naciśnij&lt;u&gt;{0}&lt;/u&gt; aby powrócić do &lt;b&gt;{1}&lt;/b&gt; sugestii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,6 +590,46 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote repository network communication error: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132608Z" creationid="paulina" creationdate="20210320T132608Z">
+        <seg>Błąd komunikacji sieciowej zdalnego repozytorium: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository Credentials</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132424Z" creationid="paulina" creationdate="20210320T132424Z">
+        <seg>Dane uwierzytelniające repozytorium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving and Output</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132750Z" creationid="paulina" creationdate="20210320T132750Z">
+        <seg>Zapisywanie i wyjściet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving and Output Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132731Z" creationid="paulina" creationdate="20210320T132731Z">
+        <seg>Opcje zapisu i wyjścia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Seconds:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132843Z" creationid="paulina" creationdate="20210320T132843Z">
+        <seg>Sekundy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See below for details.</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210317T171201Z" creationid="jnnas10" creationdate="20210317T171201Z">
@@ -342,10 +654,50 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skipping.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132657Z" creationid="paulina" creationdate="20210320T132657Z">
+        <seg>Pomijanie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source language: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T172757Z" creationid="magdaradka" creationdate="20210317T172757Z">
         <seg>Source language: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start rebase</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T131643Z" creationid="paulina" creationdate="20210320T131643Z">
+        <seg>Uruchom rebase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synchronisation of repositories</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132455Z" creationid="paulina" creationdate="20210320T132455Z">
+        <seg>Synchronizacja repozytoriów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133317Z" creationid="paulina" creationdate="20210320T133317Z">
+        <seg>Tabulator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133354Z" creationid="paulina" creationdate="20210320T133354Z">
+        <seg>Znacznik</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,10 +710,66 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text to be removed</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133409Z" creationid="paulina" creationdate="20210320T133409Z">
+        <seg>Tekst do usunięcia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171153Z" creationid="magdaradka" creationdate="20210317T171153Z">
         <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translation has changed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133830Z" creationid="paulina" creationdate="20210320T133830Z">
+        <seg>Tłumaczeie zostało zmienione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This URL appears to be invalid.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T131410Z" creationid="paulina" creationdate="20210320T131410Z">
+        <seg>Ten adres URL wydaje się nieprawidłowy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This command will be executed after Creating Translated Documents.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133102Z" creationid="paulina" creationdate="20210320T133102Z">
+        <seg>To polecenie zostanie wykonane po utworzeniu przetłumaczonych dokumentów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a Git repository.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T130905Z" creationid="paulina" creationdate="20210320T130624Z">
+        <seg>To jest repozytorium Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a Subversion repository.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T130853Z" creationid="paulina" creationdate="20210320T130853Z">
+        <seg>To jest repozytorium Subversion. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a valid project file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T131330Z" creationid="paulina" creationdate="20210320T131330Z">
+        <seg>To jest prawidłowy plik projektu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -390,6 +798,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unspecified</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133726Z" creationid="paulina" creationdate="20210320T133726Z">
+        <seg>Nieokreślony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unsupported file encoding</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171503Z" creationid="magdaradka" creationdate="20210317T171503Z">
@@ -410,6 +826,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="agata" changedate="20210317T171827Z" creationid="agata" creationdate="20210317T171827Z">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User denied credentials</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210320T130058Z" creationid="paulina" creationdate="20210320T130058Z">
+        <seg>Odmowa uwierzytelnienia użytkowanika</seg>
       </tuv>
     </tu>
     <tu>
