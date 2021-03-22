@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Download</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211545Z" creationid="magdalenaklocek" creationdate="20210322T211545Z">
+        <seg>&amp;Pobieranie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Enable autotext</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T205517Z" creationid="magdalenaklocek" creationdate="20210319T115410Z">
@@ -94,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211520Z" creationid="magdalenaklocek" creationdate="20210322T211520Z">
+        <seg>&amp;Wybierz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Skip</seg>
       </tuv>
       <tuv lang="pl" changeid="jnnas10" changedate="20210317T171315Z" creationid="jnnas10" creationdate="20210317T171315Z">
@@ -136,6 +152,14 @@
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T133915Z" creationid="paulina" creationdate="20210320T133915Z">
         <seg>&lt;Brak sugestii&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All domains</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211535Z" creationid="magdalenaklocek" creationdate="20210322T211535Z">
+        <seg>Wszystkie domeny </seg>
       </tuv>
     </tu>
     <tu>
@@ -308,6 +332,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Domains</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211603Z" creationid="magdalenaklocek" creationdate="20210322T211603Z">
+        <seg>Domeny </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Duplicate</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T133455Z" creationid="paulina" creationdate="20210320T133418Z">
@@ -456,6 +488,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211615Z" creationid="magdalenaklocek" creationdate="20210322T211615Z">
+        <seg>Pliki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full text</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210400Z" creationid="magdalenaklocek" creationdate="20210322T210400Z">
@@ -590,6 +630,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211621Z" creationid="magdalenaklocek" creationdate="20210322T211621Z">
+        <seg>Następne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-breakable space</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T133259Z" creationid="paulina" creationdate="20210320T133259Z">
@@ -710,6 +758,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211642Z" creationid="magdalenaklocek" creationdate="20210322T211642Z">
+        <seg>Poprzednie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pro&amp;ject</seg>
       </tuv>
       <tuv lang="pl" changeid="magdaradka" changedate="20210317T171154Z" creationid="magdaradka" creationdate="20210317T171154Z">
@@ -746,6 +802,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T132424Z" creationid="paulina" creationdate="20210320T132424Z">
         <seg>Dane uwierzytelniające repozytorium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Request error: {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211357Z" creationid="magdalenaklocek" creationdate="20210322T211357Z">
+        <seg>Błąd żądania {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1074,6 +1138,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="magdaradka" changedate="20210317T172751Z" creationid="magdaradka" creationdate="20210317T172751Z">
         <seg>Unsupported project file version ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Updated</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211554Z" creationid="magdalenaklocek" creationdate="20210322T211554Z">
+        <seg>Zaktualizowanod</seg>
       </tuv>
     </tu>
     <tu>
