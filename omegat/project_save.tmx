@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable glossary suggestions</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210322T124128Z" creationid="paulina" creationdate="20210322T124128Z">
+        <seg>&amp;Włącz sugerowanie słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Minimal similarity:</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174327Z" creationid="AgataWojtera" creationdate="20210317T174327Z">
@@ -778,6 +786,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T133354Z" creationid="paulina" creationdate="20210320T133354Z">
         <seg>Znacznik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terms with multiple targets</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210322T124158Z" creationid="paulina" creationdate="20210322T124158Z">
+        <seg>Terminy z kilkoma celami</seg>
       </tuv>
     </tu>
     <tu>
