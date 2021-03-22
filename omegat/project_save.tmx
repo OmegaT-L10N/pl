@@ -380,6 +380,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error updating glossary file</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210953Z" creationid="magdalenaklocek" creationdate="20210322T210953Z">
+        <seg>Błąd aktualizacji pliku słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error updating repository.</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T132637Z" creationid="paulina" creationdate="20210320T132637Z">
@@ -1098,6 +1106,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="magdaradka" changedate="20210317T171055Z" creationid="magdaradka" creationdate="20210317T171055Z">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong response format from TaaS service</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211107Z" creationid="magdalenaklocek" creationdate="20210322T211107Z">
+        <seg>Nieprawidłowy format odpowiedzi usługi TaaS</seg>
       </tuv>
     </tu>
     <tu>
