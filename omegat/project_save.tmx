@@ -156,6 +156,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Added: {1}, Deleted: {2}, Modified: {3} (Conflicts: {0})</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211730Z" creationid="magdalenaklocek" creationdate="20210322T211730Z">
+        <seg>Dodane: {1}, Usunięte: {2}, Zmodyfikowane: {3} (Konflikty: {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All domains</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211535Z" creationid="magdalenaklocek" creationdate="20210322T211535Z">
@@ -244,6 +252,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change date</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211911Z" creationid="magdalenaklocek" creationdate="20210322T211911Z">
+        <seg>Data zmiany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changer</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211903Z" creationid="magdalenaklocek" creationdate="20210322T211903Z">
+        <seg>Edytor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Character table</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T134154Z" creationid="paulina" creationdate="20210320T134154Z">
@@ -280,6 +304,14 @@
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210658Z" creationid="magdalenaklocek" creationdate="20210322T210658Z">
         <seg>Stwórz swój własny klucz i wpisz go poniżej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creator</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211812Z" creationid="magdalenaklocek" creationdate="20210322T211812Z">
+        <seg>Autor</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,10 +670,26 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next →</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211922Z" creationid="magdalenaklocek" creationdate="20210322T211922Z">
+        <seg>Następne→</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-breakable space</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T133259Z" creationid="paulina" creationdate="20210320T133259Z">
         <seg>Spacja niełamiąca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211804Z" creationid="magdalenaklocek" creationdate="20210322T211804Z">
+        <seg>Notatka</seg>
       </tuv>
     </tu>
     <tu>
@@ -950,6 +998,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211756Z" creationid="magdalenaklocek" creationdate="20210322T211756Z">
+        <seg>Źródło</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source language: {0}</seg>
       </tuv>
       <tuv lang="pl" changeid="magdaradka" changedate="20210317T172757Z" creationid="magdaradka" creationdate="20210317T172757Z">
@@ -1086,6 +1142,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211745Z" creationid="magdalenaklocek" creationdate="20210322T211745Z">
+        <seg>Tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation unit encountered before TMX header.</seg>
       </tuv>
       <tuv lang="pl" changeid="magdaradka" changedate="20210317T171221Z" creationid="magdaradka" creationdate="20210317T171221Z">
@@ -1218,6 +1282,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="jnnas10" changedate="20210317T171202Z" creationid="jnnas10" creationdate="20210317T171202Z">
         <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>← Back</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211932Z" creationid="magdalenaklocek" creationdate="20210322T211932Z">
+        <seg>← Wstecz</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
