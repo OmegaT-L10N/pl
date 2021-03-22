@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Load...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210127Z" creationid="magdalenaklocek" creationdate="20210322T210127Z">
+        <seg>&amp;Wczytywanie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Minimal similarity:</seg>
       </tuv>
       <tuv lang="pl" changeid="AgataWojtera" changedate="20210317T174327Z" creationid="AgataWojtera" creationdate="20210317T174327Z">
@@ -66,6 +74,14 @@
       </tuv>
       <tuv lang="pl" changeid="magdaradka" changedate="20210317T171050Z" creationid="magdaradka" creationdate="20210317T171050Z">
         <seg>&amp;Reset Options</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210137Z" creationid="magdalenaklocek" creationdate="20210322T210137Z">
+        <seg>&amp;Zapisywanie...</seg>
       </tuv>
     </tu>
     <tu>
@@ -220,6 +236,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210003Z" creationid="magdalenaklocek" creationdate="20210322T210003Z">
+        <seg>Wyświetlacz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210322T124057Z" creationid="paulina" creationdate="20210322T124057Z">
@@ -264,6 +288,14 @@
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T131716Z" creationid="paulina" creationdate="20210320T131716Z">
         <seg>Zakończ rebase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Entries</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210055Z" creationid="magdalenaklocek" creationdate="20210322T210055Z">
+        <seg>Wejście</seg>
       </tuv>
     </tu>
     <tu>
