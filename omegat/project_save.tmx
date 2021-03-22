@@ -132,6 +132,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-text configuration</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T205950Z" creationid="magdalenaklocek" creationdate="20210322T205950Z">
+        <seg>Konfiguracja auto-textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Autotext entries</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T134135Z" creationid="paulina" creationdate="20210320T134135Z">
@@ -730,6 +738,22 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T132657Z" creationid="paulina" creationdate="20210320T132657Z">
         <seg>Pomijanie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T205657Z" creationid="magdalenaklocek" creationdate="20210322T205657Z">
+        <seg>Sortować według &amp;alfabetu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by &amp;full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T205830Z" creationid="magdalenaklocek" creationdate="20210322T205830Z">
+        <seg>Sortować według &amp;całego textu, nie wed&amp;ug skrótów</seg>
       </tuv>
     </tu>
     <tu>
