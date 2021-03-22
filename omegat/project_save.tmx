@@ -204,6 +204,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210322T124057Z" creationid="paulina" creationdate="20210322T124057Z">
+        <seg>Wyświetla wpisy jako "&lt;źródło&gt; → &lt;cel&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210322T124001Z" creationid="paulina" creationdate="20210322T124001Z">
+        <seg>Wyświetla wpisy jako "&lt;docelowe&gt; → &lt;źródło&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you want to create it?</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210319T115410Z" creationid="magdaradka" creationdate="20210317T171039Z">
@@ -682,6 +698,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210322T123244Z" creationid="paulina" creationdate="20210322T123244Z">
         <seg>Pokaż &amp; dłuższe terminy docelowe w pierwszej kolejności</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show &amp;source term first</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210322T124031Z" creationid="paulina" creationdate="20210322T124031Z">
+        <seg>Pokaż najpierw termin wyjściowy</seg>
       </tuv>
     </tu>
     <tu>
