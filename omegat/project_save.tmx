@@ -838,6 +838,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211215Z" creationid="magdalenaklocek" creationdate="20210322T211215Z">
+        <seg>Coś poszło nie tak,  abz poznać szczegóły odwiedź Tilde Terminology.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sort &amp;alphabetically</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T205657Z" creationid="magdalenaklocek" creationdate="20210322T205657Z">
@@ -1034,6 +1042,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210314Z" creationid="magdalenaklocek" creationdate="20210322T210314Z">
         <seg>Błąd przy zapiszwaniu pliku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unauthorized request to TaaS service.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211337Z" creationid="magdalenaklocek" creationdate="20210322T211337Z">
+        <seg>Nieautoryzowane ządanie usługi TaaS.</seg>
       </tuv>
     </tu>
     <tu>
