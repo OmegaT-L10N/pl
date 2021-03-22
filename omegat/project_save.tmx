@@ -316,6 +316,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deleted</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T212029Z" creationid="magdalenaklocek" creationdate="20210322T212029Z">
+        <seg>Usunięte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Detail View</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211949Z" creationid="magdalenaklocek" creationdate="20210322T211949Z">
+        <seg>Widok szczegółowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Detecting...</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T130222Z" creationid="paulina" creationdate="20210320T130222Z">
@@ -618,6 +634,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="magdaradka" changedate="20210317T171045Z" creationid="magdaradka" creationdate="20210317T171045Z">
         <seg>Italian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>List View</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T212016Z" creationid="magdalenaklocek" creationdate="20210322T212016Z">
+        <seg>Widok listy</seg>
       </tuv>
     </tu>
     <tu>
