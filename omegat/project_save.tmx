@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Enable character table</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210442Z" creationid="magdalenaklocek" creationdate="20210322T210442Z">
+        <seg>&amp;Włączyć tabele znaków</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210322T124128Z" creationid="paulina" creationdate="20210322T124128Z">
@@ -150,8 +158,24 @@
       <tuv lang="en">
         <seg>Auto-text configuration</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T205950Z" creationid="magdalenaklocek" creationdate="20210322T205950Z">
-        <seg>Konfiguracja auto-textu</seg>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210226Z" creationid="magdalenaklocek" creationdate="20210322T205950Z">
+        <seg>Konfiguracja autotekstu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-text file (*.autotext)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210211Z" creationid="magdalenaklocek" creationdate="20210322T210211Z">
+        <seg>Pliki autotekstu (*.autotext)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Autotext</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210414Z" creationid="magdalenaklocek" creationdate="20210322T210414Z">
+        <seg>Autotekst</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,6 +224,14 @@
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T134154Z" creationid="paulina" creationdate="20210320T134154Z">
         <seg>Tabela znaków</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210409Z" creationid="magdalenaklocek" creationdate="20210322T210409Z">
+        <seg>Komentarz</seg>
       </tuv>
     </tu>
     <tu>
@@ -404,6 +436,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="magdaradka" changedate="20210317T172749Z" creationid="magdaradka" creationdate="20210317T172749Z">
         <seg>Failed to back up preferences file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210400Z" creationid="magdalenaklocek" creationdate="20210322T210400Z">
+        <seg>Całość tekstu</seg>
       </tuv>
     </tu>
     <tu>
@@ -742,6 +782,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210327Z" creationid="magdalenaklocek" creationdate="20210322T210327Z">
+        <seg>Skrót</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210322T123244Z" creationid="paulina" creationdate="20210322T123244Z">
@@ -954,6 +1002,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="magdaradka" changedate="20210317T172746Z" creationid="magdaradka" creationdate="20210317T172746Z">
         <seg>Unable to read file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to save data.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210314Z" creationid="magdalenaklocek" creationdate="20210322T210314Z">
+        <seg>Błąd przy zapiszwaniu pliku.</seg>
       </tuv>
     </tu>
     <tu>
