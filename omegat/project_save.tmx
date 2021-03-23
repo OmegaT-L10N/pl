@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow only unique characters</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143857Z" creationid="magdalenaklocek" creationdate="20210323T143857Z">
+        <seg>&amp;Zezwalać tylko znaki niepowtarzalne </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
       <tuv lang="pl" changeid="AgataWojtera" changedate="20210317T174345Z" creationid="AgataWojtera" creationdate="20210317T174345Z">
@@ -284,6 +292,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C&amp;lear</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143922Z" creationid="magdalenaklocek" creationdate="20210323T143922Z">
+        <seg>Pu&amp;te</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancelled creating new team project</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T130013Z" creationid="paulina" creationdate="20210320T130013Z">
@@ -312,6 +328,14 @@
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211903Z" creationid="magdalenaklocek" creationdate="20210322T211903Z">
         <seg>Edytor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Character Table</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143933Z" creationid="magdalenaklocek" creationdate="20210323T143933Z">
+        <seg>Tabela znaków</seg>
       </tuv>
     </tu>
     <tu>
@@ -384,6 +408,22 @@
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211812Z" creationid="magdalenaklocek" creationdate="20210322T211812Z">
         <seg>Autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom table</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143753Z" creationid="magdalenaklocek" creationdate="20210323T143753Z">
+        <seg>Tabela niestandardowa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customize character &amp;table</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144035Z" creationid="magdalenaklocek" creationdate="20210323T144035Z">
+        <seg>Dostosowywać znanki &amp;tabele</seg>
       </tuv>
     </tu>
     <tu>
