@@ -820,6 +820,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Escaped binary char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T165417Z" creationid="magdaradka" creationdate="20210323T165417Z">
+        <seg>Znak binarny zawierający niewłaściwe dane ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escaped character never terminated!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T165351Z" creationid="magdaradka" creationdate="20210323T165351Z">
+        <seg>Niezamknięty znak modyfikacji!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escaped decimal char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T165441Z" creationid="magdaradka" creationdate="20210323T165441Z">
+        <seg>Znak dziesiętny zawierający niewłaściwe dane ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception while editing options:</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140703Z" creationid="AgataWojtera" creationdate="20210323T140703Z">
