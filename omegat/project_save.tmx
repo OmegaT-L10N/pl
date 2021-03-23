@@ -324,6 +324,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Character table auto-completer options</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143711Z" creationid="magdalenaklocek" creationdate="20210323T143711Z">
+        <seg>Tabela znaków - opcja automatycznego uzupełniania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Chinese</seg>
       </tuv>
       <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T142003Z" creationid="AgataWojtera" creationdate="20210323T142003Z">
@@ -700,6 +708,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141930Z" creationid="AgataWojtera" creationdate="20210323T141930Z">
         <seg>Fiński</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143508Z" creationid="magdalenaklocek" creationdate="20210323T143508Z">
+        <seg>Aby uzyskać najlepsze wyniki, należy zainstalować odpowiednie słowniki poprzez Ustawienia &gt; Sprawdzanie pisowni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1754,6 +1770,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141212Z" creationid="AgataWojtera" creationdate="20210323T141212Z">
         <seg>Opcje filtrowania XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143434Z" creationid="magdalenaklocek" creationdate="20210323T143434Z">
+        <seg>Próbujesz użyć HunspellTokenizer z językiem {0}, ale nie ma zainstalowanych słowników ortograficznych dla tego języka.</seg>
       </tuv>
     </tu>
     <tu>
