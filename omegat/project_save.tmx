@@ -164,6 +164,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;&amp;br&gt; (breaks)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140555Z" creationid="AgataWojtera" creationdate="20210323T140555Z">
+        <seg>&lt;&amp;br&gt; (nowy wiersz)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;No suggestions&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T133915Z" creationid="paulina" creationdate="20210320T133915Z">
@@ -524,6 +532,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exception while editing options:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140703Z" creationid="AgataWojtera" creationdate="20210323T140703Z">
+        <seg>Błąd przy edycji opcji:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception while parsing:</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T172758Z" creationid="magdaradka" creationdate="20210317T172758Z">
@@ -612,6 +628,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171158Z" creationid="magdaradka" creationdate="20210317T171158Z">
         <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML Help Compiler</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140800Z" creationid="AgataWojtera" creationdate="20210323T140800Z">
+        <seg>Pomoc Kompilatora HTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -918,6 +942,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove HTML comments in translated document</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140457Z" creationid="AgataWojtera" creationdate="20210323T140457Z">
+        <seg>Usuń komentarze HTML w przetłumaczonym dokumencie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repository Credentials</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T132424Z" creationid="paulina" creationdate="20210320T132424Z">
@@ -1082,6 +1114,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T172757Z" creationid="magdaradka" creationdate="20210317T172757Z">
         <seg>Source language: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start a new paragraph on:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140538Z" creationid="AgataWojtera" creationdate="20210323T140538Z">
+        <seg>Rozpocznij nowy akapit po:</seg>
       </tuv>
     </tu>
     <tu>
