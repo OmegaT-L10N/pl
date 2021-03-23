@@ -870,8 +870,8 @@
       <tuv lang="EN">
         <seg>Exception while parsing:</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172758Z" creationid="magdaradka" creationdate="20210317T172758Z">
-        <seg>Exception while parsing:</seg>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T170119Z" creationid="magdaradka" creationdate="20210317T172758Z">
+        <seg>Błąd analizy składniowej:</seg>
       </tuv>
     </tu>
     <tu>
@@ -924,6 +924,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T165901Z" creationid="magdaradka" creationdate="20210317T172749Z">
         <seg>Błąd zapisu pliku z preferencjami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fatal error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T170236Z" creationid="magdaradka" creationdate="20210323T170236Z">
+        <seg>Błąd krytyczny przy linijce {0}, kolumna {1} podczas analizy:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2040,8 +2048,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Translation unit encountered before TMX header.</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171221Z" creationid="magdaradka" creationdate="20210317T171221Z">
-        <seg>Translation unit encountered before TMX header.</seg>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T170339Z" creationid="magdaradka" creationdate="20210317T171221Z">
+        <seg>Napotkano jednostkę tłumaczeniową przed nagłówkiem TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2168,8 +2176,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Warning on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172843Z" creationid="magdaradka" creationdate="20210317T172843Z">
-        <seg>Warning on line {0}, column {1} while parsing:</seg>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T170200Z" creationid="magdaradka" creationdate="20210317T172843Z">
+        <seg>Ostrzeżenie przy linijce {0}, kolumna {1} podczas analizy:</seg>
       </tuv>
     </tu>
     <tu>
