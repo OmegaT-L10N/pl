@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;value (of form input, including button, submit and reset)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140230Z" creationid="AgataWojtera" creationdate="20210323T140230Z">
+        <seg>&amp;value (wartość formy inputu, w tym "button", "submit" i "reset")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
@@ -288,6 +296,14 @@
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210409Z" creationid="magdalenaklocek" creationdate="20210322T210409Z">
         <seg>Komentarz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Compress whitespace in translated document</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140438Z" creationid="AgataWojtera" creationdate="20210323T140438Z">
+        <seg>Skompresuj białe znaki w przetłumaczonym dokumencie</seg>
       </tuv>
     </tu>
     <tu>
@@ -1370,6 +1386,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140052Z" creationid="AgataWojtera" creationdate="20210323T140052Z">
         <seg>src (URL obrazów)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>value (of button, &amp;submit and reset input)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140327Z" creationid="AgataWojtera" creationdate="20210323T140327Z">
+        <seg>value (wartość inputu "button", "&amp;submit" i "reset")</seg>
       </tuv>
     </tu>
     <tu>
