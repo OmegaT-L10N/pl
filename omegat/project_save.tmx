@@ -174,10 +174,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(close tag)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T164709Z" creationid="magdaradka" creationdate="20210323T164709Z">
+        <seg>(znacznik zamknięcia)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(comment tag)</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T164443Z" creationid="magdaradka" creationdate="20210323T164443Z">
         <seg>(znacznik komentarza)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(empty tag)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T164657Z" creationid="magdaradka" creationdate="20210323T164657Z">
+        <seg>(pusty znacznik)</seg>
       </tuv>
     </tu>
     <tu>
@@ -696,6 +712,14 @@
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163956Z" creationid="magdaradka" creationdate="20210317T171137Z">
         <seg>Edycja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End of stream encountered without finding close block!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T165257Z" creationid="magdaradka" creationdate="20210323T165257Z">
+        <seg>Brak bloku końcowego przy zamykaniu pliku!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2150,6 +2174,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>attributes.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T164744Z" creationid="magdaradka" creationdate="20210323T164744Z">
+        <seg>atrybuty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>h&amp;reflang (language of links)</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140124Z" creationid="AgataWojtera" creationdate="20210323T140124Z">
@@ -2170,6 +2202,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140103Z" creationid="AgataWojtera" creationdate="20210323T140103Z">
         <seg>lan&amp;g (atrybuty języka)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>loaded</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T164730Z" creationid="magdaradka" creationdate="20210323T164730Z">
+        <seg>Załadowano</seg>
       </tuv>
     </tu>
     <tu>
