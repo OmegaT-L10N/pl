@@ -632,6 +632,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HHC file too big!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140811Z" creationid="AgataWojtera" creationdate="20210323T140811Z">
+        <seg>Zbyt duży plik HHC!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTML Help Compiler</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140800Z" creationid="AgataWojtera" creationdate="20210323T140800Z">
@@ -778,6 +786,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211804Z" creationid="magdalenaklocek" creationdate="20210322T211804Z">
         <seg>Notatka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141022Z" creationid="AgataWojtera" creationdate="20210323T140935Z">
+        <seg>Uwaga: Ustawienia źródłowego pliku kodowania dotyczą wyłącznie plików HHC i HHK, które nie zawierają deklaracji kodowania.</seg>
       </tuv>
     </tu>
     <tu>
