@@ -894,6 +894,22 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Merge</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143147Z" creationid="magdalenaklocek" creationdate="20210323T143147Z">
+        <seg>Scalanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143127Z" creationid="magdalenaklocek" creationdate="20210323T143127Z">
+        <seg>Moje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Minutes:</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T132836Z" creationid="paulina" creationdate="20210320T132836Z">
@@ -1258,6 +1274,22 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="magdaradka" changedate="20210317T171218Z" creationid="magdaradka" creationdate="20210317T171218Z">
         <seg>Segmentation method: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Server (original)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143230Z" creationid="magdalenaklocek" creationdate="20210323T143230Z">
+        <seg>Serwer (oryginalny)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Server (updated)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143138Z" creationid="magdalenaklocek" creationdate="20210323T143138Z">
+        <seg>Serwer (zaktualizowany)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1678,6 +1710,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Warning!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143317Z" creationid="magdalenaklocek" creationdate="20210323T143317Z">
+        <seg>Uwaga!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210322T123128Z" creationid="paulina" creationdate="20210322T123128Z">
@@ -1762,6 +1802,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T140327Z" creationid="AgataWojtera" creationdate="20210323T140327Z">
         <seg>value (wartość inputu "button", "&amp;submit" i "reset")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143116Z" creationid="magdalenaklocek" creationdate="20210323T143116Z">
+        <seg>{0} segmenty</seg>
       </tuv>
     </tu>
     <tu>
