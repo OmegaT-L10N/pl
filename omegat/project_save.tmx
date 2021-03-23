@@ -1,1178 +1,1178 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-5.3.0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>&amp;Allow only unique characters</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143857Z" creationid="magdalenaklocek" creationdate="20210323T143857Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143857Z" creationid="magdalenaklocek" creationdate="20210323T143857Z">
         <seg>&amp;Zezwalać tylko znaki niepowtarzalne </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210317T174345Z" creationid="AgataWojtera" creationdate="20210317T174345Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174345Z" creationid="AgataWojtera" creationdate="20210317T174345Z">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>&amp;Also allow per-project external commands</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T133208Z" creationid="paulina" creationdate="20210320T133208Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133208Z" creationid="paulina" creationdate="20210320T133208Z">
         <seg>&amp;Zezwalaj także na zewnętrzne polecenia  przedprojektowe</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>&amp;Back in History</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171014Z" creationid="magdaradka" creationdate="20210317T171014Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171014Z" creationid="magdaradka" creationdate="20210317T171014Z">
         <seg>&amp;Back in History</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>&amp;Browse TaaS Collections...</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144351Z" creationid="magdalenaklocek" creationdate="20210323T144351Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144351Z" creationid="magdalenaklocek" creationdate="20210323T144351Z">
         <seg>&amp;Przegląd kolekcji TaaS...</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>&amp;Download</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211545Z" creationid="magdalenaklocek" creationdate="20210322T211545Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211545Z" creationid="magdalenaklocek" creationdate="20210322T211545Z">
         <seg>&amp;Pobieranie</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>&amp;Enable autotext</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T205517Z" creationid="magdalenaklocek" creationdate="20210319T115410Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T205517Z" creationid="magdalenaklocek" creationdate="20210319T115410Z">
         <seg>&amp;Włączyć autotekst</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>&amp;Enable character table</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210442Z" creationid="magdalenaklocek" creationdate="20210322T210442Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210442Z" creationid="magdalenaklocek" creationdate="20210322T210442Z">
         <seg>&amp;Włączyć tabele znaków</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210322T124128Z" creationid="paulina" creationdate="20210322T124128Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210322T124128Z" creationid="paulina" creationdate="20210322T124128Z">
         <seg>&amp;Włącz sugerowanie słownika</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>&amp;Load...</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210127Z" creationid="magdalenaklocek" creationdate="20210322T210127Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210127Z" creationid="magdalenaklocek" creationdate="20210322T210127Z">
         <seg>&amp;Wczytywanie...</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>&amp;Minimal similarity:</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210317T174327Z" creationid="AgataWojtera" creationdate="20210317T174327Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174327Z" creationid="AgataWojtera" creationdate="20210317T174327Z">
         <seg>&amp;Minimal similarity:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>&amp;Never</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T135933Z" creationid="AgataWojtera" creationdate="20210323T135933Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T135933Z" creationid="AgataWojtera" creationdate="20210323T135933Z">
         <seg>&amp;Nigdy</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>&amp;Replace Next</seg>
       </tuv>
-      <tuv lang="pl" changeid="jnnas10" changedate="20210317T171319Z" creationid="jnnas10" creationdate="20210317T171319Z">
+      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171319Z" creationid="jnnas10" creationdate="20210317T171319Z">
         <seg>&amp;Replace Next</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>&amp;Reset Options</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171050Z" creationid="magdaradka" creationdate="20210317T171050Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171050Z" creationid="magdaradka" creationdate="20210317T171050Z">
         <seg>&amp;Reset Options</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>&amp;Save...</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210137Z" creationid="magdalenaklocek" creationdate="20210322T210137Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210137Z" creationid="magdalenaklocek" creationdate="20210322T210137Z">
         <seg>&amp;Zapisywanie...</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>&amp;Select</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211520Z" creationid="magdalenaklocek" creationdate="20210322T211520Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211520Z" creationid="magdalenaklocek" creationdate="20210322T211520Z">
         <seg>&amp;Wybierz</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>&amp;Skip</seg>
       </tuv>
-      <tuv lang="pl" changeid="jnnas10" changedate="20210317T171315Z" creationid="jnnas10" creationdate="20210317T171315Z">
+      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171315Z" creationid="jnnas10" creationdate="20210317T171315Z">
         <seg>&amp;Skip</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>&amp;TaaS Terminology Lookup</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144937Z" creationid="magdalenaklocek" creationdate="20210323T144937Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144937Z" creationid="magdalenaklocek" creationdate="20210323T144937Z">
         <seg>&amp;sprawdzić terminologie TaaS </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>&amp;value (of form input, including button, submit and reset)</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T140230Z" creationid="AgataWojtera" creationdate="20210323T140230Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140230Z" creationid="AgataWojtera" creationdate="20210323T140230Z">
         <seg>&amp;value (wartość formy inputu, w tym "button", "submit" i "reset")</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
-      <tuv lang="pl" changeid="jnnas10" changedate="20210317T171302Z" creationid="jnnas10" creationdate="20210317T171302Z">
+      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171302Z" creationid="jnnas10" creationdate="20210317T171302Z">
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210317T174803Z" creationid="AgataWojtera" creationdate="20210317T174803Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174803Z" creationid="AgataWojtera" creationdate="20210317T174803Z">
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="pl" changeid="jnnas10" changedate="20210317T171148Z" creationid="jnnas10" creationdate="20210317T171148Z">
+      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171148Z" creationid="jnnas10" creationdate="20210317T171148Z">
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>1 conflict</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T145255Z" creationid="magdalenaklocek" creationdate="20210323T145255Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T145255Z" creationid="magdalenaklocek" creationdate="20210323T145255Z">
         <seg>1 Konflikt</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>1 segment</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143108Z" creationid="magdalenaklocek" creationdate="20210323T143108Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143108Z" creationid="magdalenaklocek" creationdate="20210323T143108Z">
         <seg>Segment 1</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>&lt;&amp;br&gt; (breaks)</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T140555Z" creationid="AgataWojtera" creationdate="20210323T140555Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140555Z" creationid="AgataWojtera" creationdate="20210323T140555Z">
         <seg>&lt;&amp;br&gt; (nowy wiersz)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>&lt;No suggestions&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T133915Z" creationid="paulina" creationdate="20210320T133915Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133915Z" creationid="paulina" creationdate="20210320T133915Z">
         <seg>&lt;Brak sugestii&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T145555Z" creationid="magdalenaklocek" creationdate="20210323T145555Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T145555Z" creationid="magdalenaklocek" creationdate="20210323T145555Z">
         <seg>Kliknij dwukrotnie lub podświetl pole znaków i naciśnij klawisz Insert aby wstawić znaki do tabeli niestandardowej.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Added: {1}, Deleted: {2}, Modified: {3} (Conflicts: {0})</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211730Z" creationid="magdalenaklocek" creationdate="20210322T211730Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211730Z" creationid="magdalenaklocek" creationdate="20210322T211730Z">
         <seg>Dodane: {1}, Usunięte: {2}, Zmodyfikowane: {3} (Konflikty: {0})</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>All domains</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211535Z" creationid="magdalenaklocek" creationdate="20210322T211535Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211535Z" creationid="magdalenaklocek" creationdate="20210322T211535Z">
         <seg>Wszystkie domeny </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T130512Z" creationid="paulina" creationdate="20210320T130512Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T130512Z" creationid="paulina" creationdate="20210320T130512Z">
         <seg>Wystąpił błąd podczas próby wykrycia pliku projektu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210317T174601Z" creationid="AgataWojtera" creationdate="20210317T174601Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174601Z" creationid="AgataWojtera" creationdate="20210317T174601Z">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Auto-text configuration</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210226Z" creationid="magdalenaklocek" creationdate="20210322T205950Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210226Z" creationid="magdalenaklocek" creationdate="20210322T205950Z">
         <seg>Konfiguracja autotekstu</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Auto-text file (*.autotext)</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210211Z" creationid="magdalenaklocek" creationdate="20210322T210211Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210211Z" creationid="magdalenaklocek" creationdate="20210322T210211Z">
         <seg>Pliki autotekstu (*.autotext)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Autotext</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210414Z" creationid="magdalenaklocek" creationdate="20210322T210414Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210414Z" creationid="magdalenaklocek" creationdate="20210322T210414Z">
         <seg>Autotekst</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Autotext entries</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T134135Z" creationid="paulina" creationdate="20210320T134135Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T134135Z" creationid="paulina" creationdate="20210320T134135Z">
         <seg>Wpisy autotekstowe</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Back to the initial segment on close</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171113Z" creationid="magdaradka" creationdate="20210317T171113Z">
-        <seg>Back to the initial segment on close</seg>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T162817Z" creationid="magdaradka" creationdate="20210317T171113Z">
+        <seg>Powrót do początkowego segmentu po zamknięciu okna</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Bad nesting</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T133438Z" creationid="paulina" creationdate="20210320T133438Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133438Z" creationid="paulina" creationdate="20210320T133438Z">
         <seg>Złe zagnieżdżenie</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Bad regular expression</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T135325Z" creationid="AgataWojtera" creationdate="20210317T172632Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T135325Z" creationid="AgataWojtera" creationdate="20210317T172632Z">
         <seg>Błędne wyrażenie regularne</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Break/Exception</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141757Z" creationid="AgataWojtera" creationdate="20210323T141553Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141757Z" creationid="AgataWojtera" creationdate="20210323T141553Z">
         <seg>Segmentacja/Błąd</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>C&amp;lear</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143922Z" creationid="magdalenaklocek" creationdate="20210323T143922Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143922Z" creationid="magdalenaklocek" creationdate="20210323T143922Z">
         <seg>Pu&amp;te</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Cancelled creating new team project</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T130013Z" creationid="paulina" creationdate="20210320T130013Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T130013Z" creationid="paulina" creationdate="20210320T130013Z">
         <seg>Anulowanie tworzenia nowego projektu zepsołowego</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Catalan</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141920Z" creationid="AgataWojtera" creationdate="20210323T141920Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141920Z" creationid="AgataWojtera" creationdate="20210323T141920Z">
         <seg>Kataloński</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Change date</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211911Z" creationid="magdalenaklocek" creationdate="20210322T211911Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211911Z" creationid="magdalenaklocek" creationdate="20210322T211911Z">
         <seg>Data zmiany</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Changer</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211903Z" creationid="magdalenaklocek" creationdate="20210322T211903Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211903Z" creationid="magdalenaklocek" creationdate="20210322T211903Z">
         <seg>Edytor</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Character Table</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143933Z" creationid="magdalenaklocek" creationdate="20210323T143933Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143933Z" creationid="magdalenaklocek" creationdate="20210323T143933Z">
         <seg>Tabela znaków</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Character table</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T134154Z" creationid="paulina" creationdate="20210320T134154Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T134154Z" creationid="paulina" creationdate="20210320T134154Z">
         <seg>Tabela znaków</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Character table auto-completer options</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143711Z" creationid="magdalenaklocek" creationdate="20210323T143711Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143711Z" creationid="magdalenaklocek" creationdate="20210323T143711Z">
         <seg>Tabela znaków - opcja automatycznego uzupełniania</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Chinese</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T142003Z" creationid="AgataWojtera" creationdate="20210323T142003Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142003Z" creationid="AgataWojtera" creationdate="20210323T142003Z">
         <seg>Chiński</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Comment</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210409Z" creationid="magdalenaklocek" creationdate="20210322T210409Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210409Z" creationid="magdalenaklocek" creationdate="20210322T210409Z">
         <seg>Komentarz</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T140438Z" creationid="AgataWojtera" creationdate="20210323T140438Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140438Z" creationid="AgataWojtera" creationdate="20210323T140438Z">
         <seg>Skompresuj białe znaki w przetłumaczonym dokumencie</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Conflict resolution</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T145242Z" creationid="magdalenaklocek" creationdate="20210323T145242Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T145242Z" creationid="magdalenaklocek" creationdate="20210323T145242Z">
         <seg>Rozwiązywanie konfliktu</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Conflict {0} of {1}</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T145216Z" creationid="magdalenaklocek" creationdate="20210323T145216Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T145216Z" creationid="magdalenaklocek" creationdate="20210323T145216Z">
         <seg>Konflikt  {0} z {1}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Could not save credentials to text file</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T130139Z" creationid="paulina" creationdate="20210320T130139Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T130139Z" creationid="paulina" creationdate="20210320T130139Z">
         <seg>Nie można zapisać danych uwierzytelniających do pliku tekstowego</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171002Z" creationid="magdaradka" creationdate="20210317T171002Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171002Z" creationid="magdaradka" creationdate="20210317T171002Z">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Create your own key then input it below.</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210658Z" creationid="magdalenaklocek" creationdate="20210322T210658Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210658Z" creationid="magdalenaklocek" creationdate="20210322T210658Z">
         <seg>Stwórz swój własny klucz i wpisz go poniżej.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Creation date</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144200Z" creationid="magdalenaklocek" creationdate="20210323T144200Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144200Z" creationid="magdalenaklocek" creationdate="20210323T144200Z">
         <seg>Data utworzenia</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Creator</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211812Z" creationid="magdalenaklocek" creationdate="20210322T211812Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211812Z" creationid="magdalenaklocek" creationdate="20210322T211812Z">
         <seg>Autor</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Custom table</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143753Z" creationid="magdalenaklocek" creationdate="20210323T143753Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143753Z" creationid="magdalenaklocek" creationdate="20210323T143753Z">
         <seg>Tabela niestandardowa</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Customize character &amp;table</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T145617Z" creationid="magdalenaklocek" creationdate="20210323T144035Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T145617Z" creationid="magdalenaklocek" creationdate="20210323T144035Z">
         <seg>Dostosowywać znanki oraz &amp;tabele</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Czech</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141921Z" creationid="AgataWojtera" creationdate="20210323T141921Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141921Z" creationid="AgataWojtera" creationdate="20210323T141921Z">
         <seg>Czeski</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Default</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T142006Z" creationid="AgataWojtera" creationdate="20210323T142006Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142006Z" creationid="AgataWojtera" creationdate="20210323T142006Z">
         <seg>Domyślny</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Deleted</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T212029Z" creationid="magdalenaklocek" creationdate="20210322T212029Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T212029Z" creationid="magdalenaklocek" creationdate="20210322T212029Z">
         <seg>Usunięte</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Description</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144413Z" creationid="magdalenaklocek" creationdate="20210323T144413Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144413Z" creationid="magdalenaklocek" creationdate="20210323T144413Z">
         <seg>Opis</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Detail View</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211949Z" creationid="magdalenaklocek" creationdate="20210322T211949Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211949Z" creationid="magdalenaklocek" creationdate="20210322T211949Z">
         <seg>Widok szczegółowy</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Details unavailable</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143021Z" creationid="magdalenaklocek" creationdate="20210323T143010Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143021Z" creationid="magdalenaklocek" creationdate="20210323T143010Z">
         <seg>Szczegóły niedostępne</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Detecting...</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T130222Z" creationid="paulina" creationdate="20210320T130222Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T130222Z" creationid="paulina" creationdate="20210320T130222Z">
         <seg>Wykrywanie...</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T134316Z" creationid="paulina" creationdate="20210320T134316Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T134316Z" creationid="paulina" creationdate="20210320T134316Z">
         <seg>Wyświetlanie terminu źródłowego</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Display</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210003Z" creationid="magdalenaklocek" creationdate="20210322T210003Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210003Z" creationid="magdalenaklocek" creationdate="20210322T210003Z">
         <seg>Wyświetlacz</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210322T124057Z" creationid="paulina" creationdate="20210322T124057Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210322T124057Z" creationid="paulina" creationdate="20210322T124057Z">
         <seg>Wyświetla wpisy jako "&lt;źródło&gt; → &lt;cel&gt;".</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210322T124001Z" creationid="paulina" creationdate="20210322T124001Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210322T124001Z" creationid="paulina" creationdate="20210322T124001Z">
         <seg>Wyświetla wpisy jako "&lt;docelowe&gt; → &lt;źródło&gt;".</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T135714Z" creationid="AgataWojtera" creationdate="20210323T135714Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T135714Z" creationid="AgataWojtera" creationdate="20210323T135714Z">
         <seg>Nie tłumacz atrybutu zawartości metatagów przez następujące pary atrybutów klucz-wartość (rozdzielić przecinkami):</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Do not translate the content of tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T135802Z" creationid="AgataWojtera" creationdate="20210323T135802Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T135802Z" creationid="AgataWojtera" creationdate="20210323T135802Z">
         <seg>Nie tłumacz zawartości tagów przez następujące pary atrybutów klucz-wartość (rozdzielić przecinkami):</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Do you want to create it?</seg>
       </tuv>
-      <tuv lang="pl" changeid="monika" changedate="20210319T115410Z" creationid="magdaradka" creationdate="20210317T171039Z">
+      <tuv lang="PL" changeid="monika" changedate="20210319T115410Z" creationid="magdaradka" creationdate="20210317T171039Z">
         <seg>Czy chcesz utworzyć folder?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Domains</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211603Z" creationid="magdalenaklocek" creationdate="20210322T211603Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211603Z" creationid="magdalenaklocek" creationdate="20210322T211603Z">
         <seg>Domeny </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Done</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T142807Z" creationid="magdalenaklocek" creationdate="20210323T142807Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T142807Z" creationid="magdalenaklocek" creationdate="20210323T142807Z">
         <seg>Zgoda</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Download collection {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144731Z" creationid="magdalenaklocek" creationdate="20210323T144731Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144731Z" creationid="magdalenaklocek" creationdate="20210323T144731Z">
         <seg>Ściągnąć liste pobrań {0}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Duplicate</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T133455Z" creationid="paulina" creationdate="20210320T133418Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133455Z" creationid="paulina" creationdate="20210320T133418Z">
         <seg>Duplikacjaj</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Dutch</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141938Z" creationid="AgataWojtera" creationdate="20210323T141938Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141938Z" creationid="AgataWojtera" creationdate="20210323T141938Z">
         <seg>Holenderski</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Edit</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171137Z" creationid="magdaradka" creationdate="20210317T171137Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171137Z" creationid="magdaradka" creationdate="20210317T171137Z">
         <seg>Edit</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>End rebase</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T131716Z" creationid="paulina" creationdate="20210320T131716Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T131716Z" creationid="paulina" creationdate="20210320T131716Z">
         <seg>Zakończ rebase</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>English</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141925Z" creationid="AgataWojtera" creationdate="20210323T141925Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141925Z" creationid="AgataWojtera" creationdate="20210323T141925Z">
         <seg>Angielski</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Entries</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210055Z" creationid="magdalenaklocek" creationdate="20210322T210055Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210055Z" creationid="magdalenaklocek" creationdate="20210322T210055Z">
         <seg>Wejście</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Error</seg>
       </tuv>
-      <tuv lang="pl" changeid="jnnas10" changedate="20210317T172309Z" creationid="jnnas10" creationdate="20210317T172309Z">
+      <tuv lang="PL" changeid="jnnas10" changedate="20210317T172309Z" creationid="jnnas10" creationdate="20210317T172309Z">
         <seg>Error</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Error during regular expression replacement:</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171059Z" creationid="magdaradka" creationdate="20210317T171059Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171059Z" creationid="magdaradka" creationdate="20210317T171059Z">
         <seg>Error during regular expression replacement:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Error fixing tags</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T133815Z" creationid="paulina" creationdate="20210320T133815Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133815Z" creationid="paulina" creationdate="20210320T133815Z">
         <seg>Błędy w znacznikach</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Error retrieve {0} as remote project file</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T132339Z" creationid="paulina" creationdate="20210320T132339Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132339Z" creationid="paulina" creationdate="20210320T132339Z">
         <seg>Błąd pobierania {0} jako zdalnego pliku projektu </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Error saving segmentation rules configuration:</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141436Z" creationid="AgataWojtera" creationdate="20210323T141436Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141436Z" creationid="AgataWojtera" creationdate="20210323T141436Z">
         <seg>Błąd przy zapisywaniu konfiguracji segmentacji:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Error searching directory tree!</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171101Z" creationid="magdaradka" creationdate="20210317T171101Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171101Z" creationid="magdaradka" creationdate="20210317T171101Z">
         <seg>Error searching directory tree!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Error updating glossary file</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210953Z" creationid="magdalenaklocek" creationdate="20210322T210953Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210953Z" creationid="magdalenaklocek" creationdate="20210322T210953Z">
         <seg>Błąd aktualizacji pliku słownika</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Error updating repository.</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T132637Z" creationid="paulina" creationdate="20210320T132637Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132637Z" creationid="paulina" creationdate="20210320T132637Z">
         <seg>Błąd aktualizacji repozytorium.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Error: {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T132708Z" creationid="paulina" creationdate="20210320T132708Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132708Z" creationid="paulina" creationdate="20210320T132708Z">
         <seg>Błąd: {0}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Exception while editing options:</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T140703Z" creationid="AgataWojtera" creationdate="20210323T140703Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140703Z" creationid="AgataWojtera" creationdate="20210323T140703Z">
         <seg>Błąd przy edycji opcji:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Exception while parsing:</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T172758Z" creationid="magdaradka" creationdate="20210317T172758Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172758Z" creationid="magdaradka" creationdate="20210317T172758Z">
         <seg>Exception while parsing:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Exceptions occurred while loading segmentation rules:</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141409Z" creationid="AgataWojtera" creationdate="20210323T141409Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141409Z" creationid="AgataWojtera" creationdate="20210323T141409Z">
         <seg>Błąd przy ładowaniu opcji segmentacji:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Exciting help page
 Gossamer threads hold you back
 404 not found</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171035Z" creationid="magdaradka" creationdate="20210317T171035Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171035Z" creationid="magdaradka" creationdate="20210317T171035Z">
         <seg>Exciting help page
 Gossamer threads hold you back
 404 not found</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Exclude orphan segments</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171117Z" creationid="magdaradka" creationdate="20210317T171117Z">
-        <seg>Exclude orphan segments</seg>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T163133Z" creationid="magdaradka" creationdate="20210317T171117Z">
+        <seg>Opuść segmenty osamotnione</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>External Post-processing Command</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T133034Z" creationid="paulina" creationdate="20210320T133034Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133034Z" creationid="paulina" creationdate="20210320T133034Z">
         <seg>Polecenie dalszego zewnętrznego przetwarzania</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Extraneous</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T133521Z" creationid="paulina" creationdate="20210320T133521Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133521Z" creationid="paulina" creationdate="20210320T133521Z">
         <seg>Zewnętrzny</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T172749Z" creationid="magdaradka" creationdate="20210317T172749Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172749Z" creationid="magdaradka" creationdate="20210317T172749Z">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>File</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211615Z" creationid="magdalenaklocek" creationdate="20210322T211615Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211615Z" creationid="magdalenaklocek" creationdate="20210322T211615Z">
         <seg>Pliki</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Finnish</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141930Z" creationid="AgataWojtera" creationdate="20210323T141930Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141930Z" creationid="AgataWojtera" creationdate="20210323T141930Z">
         <seg>Fiński</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143508Z" creationid="magdalenaklocek" creationdate="20210323T143508Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143508Z" creationid="magdalenaklocek" creationdate="20210323T143508Z">
         <seg>Aby uzyskać najlepsze wyniki, należy zainstalować odpowiednie słowniki poprzez Ustawienia &gt; Sprawdzanie pisowni.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>French</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141932Z" creationid="AgataWojtera" creationdate="20210323T141932Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141932Z" creationid="AgataWojtera" creationdate="20210323T141932Z">
         <seg>Francuski</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Full table</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144108Z" creationid="magdalenaklocek" creationdate="20210323T144108Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144108Z" creationid="magdalenaklocek" creationdate="20210323T144108Z">
         <seg>Cała tabela</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Full text</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210400Z" creationid="magdalenaklocek" creationdate="20210322T210400Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210400Z" creationid="magdalenaklocek" creationdate="20210322T210400Z">
         <seg>Całość tekstu</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>German</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141923Z" creationid="AgataWojtera" creationdate="20210323T141923Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141923Z" creationid="AgataWojtera" creationdate="20210323T141923Z">
         <seg>Niemiecki</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Get API Key</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144819Z" creationid="magdalenaklocek" creationdate="20210323T144819Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144819Z" creationid="magdalenaklocek" creationdate="20210323T144819Z">
         <seg>Pobrać klucz interfejsu API</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Glossary auto-completer options</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210322T123623Z" creationid="paulina" creationdate="20210322T123623Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210322T123623Z" creationid="paulina" creationdate="20210322T123623Z">
         <seg>Opcje autouzupełniania słownika</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Glossary entries</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T134107Z" creationid="paulina" creationdate="20210320T134107Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T134107Z" creationid="paulina" creationdate="20210320T134107Z">
         <seg>Słowniczek pojęć</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Group {0} does not exist in search expression</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171158Z" creationid="magdaradka" creationdate="20210317T171158Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171158Z" creationid="magdaradka" creationdate="20210317T171158Z">
         <seg>Group {0} does not exist in search expression</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>HHC file too big!</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T140811Z" creationid="AgataWojtera" creationdate="20210323T140811Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140811Z" creationid="AgataWojtera" creationdate="20210323T140811Z">
         <seg>Zbyt duży plik HHC!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>HTML Help Compiler</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T140800Z" creationid="AgataWojtera" creationdate="20210323T140800Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140800Z" creationid="AgataWojtera" creationdate="20210323T140800Z">
         <seg>Pomoc Kompilatora HTML</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>HTML, XHTML, ODF and Infix segmentation</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T142107Z" creationid="AgataWojtera" creationdate="20210323T142107Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142107Z" creationid="AgataWojtera" creationdate="20210323T142107Z">
         <seg>Segmentacja HTML, XHTML, ODF i Infix</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>History Completions</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T134221Z" creationid="paulina" creationdate="20210320T134221Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T134221Z" creationid="paulina" creationdate="20210320T134221Z">
         <seg>Historia uzupełnienia</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>History Predictions</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T134252Z" creationid="paulina" creationdate="20210320T134252Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T134252Z" creationid="paulina" creationdate="20210320T134252Z">
         <seg>Historia przewidywania</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>How To...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Komputer" changedate="20210317T170140Z" creationid="Komputer" creationdate="20210317T170140Z">
+      <tuv lang="PL" changeid="Komputer" changedate="20210317T170140Z" creationid="Komputer" creationdate="20210317T170140Z">
         <seg>How To...</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141200Z" creationid="AgataWojtera" creationdate="20210323T141200Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141200Z" creationid="AgataWojtera" creationdate="20210323T141200Z">
         <seg>Jeśli plik HHC lub HHK posiada dekarację kodowania, będzie ono użyte niezależnie od wartości podanych w tym oknie.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210322T123553Z" creationid="paulina" creationdate="20210322T123553Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210322T123553Z" creationid="paulina" creationdate="20210322T123553Z">
         <seg>Jeżeli jest zaznaczone, wpisy są posortowane alfabetycznie.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>If checked, the longer entries are placed on the list first.</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210322T123357Z" creationid="paulina" creationdate="20210322T123357Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210322T123357Z" creationid="paulina" creationdate="20210322T123357Z">
         <seg>Jeśli jest zaznaczone, dłuższe wpisy są umieszczane na liście jako pierwsze.</seg>
       </tuv>
     </tu>
     <tu>
       <note>&lt;DE&gt; Segment	segment</note>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
-      <tuv lang="pl" changeid="jnnas10" changedate="20210317T171254Z" creationid="jnnas10" creationdate="20210317T171254Z">
+      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171254Z" creationid="jnnas10" creationdate="20210317T171254Z">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Is default translation</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144225Z" creationid="magdalenaklocek" creationdate="20210323T144225Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144225Z" creationid="magdalenaklocek" creationdate="20210323T144225Z">
         <seg>Tłumaczenie standardowe</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Italian</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171045Z" creationid="magdaradka" creationdate="20210317T171045Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171045Z" creationid="magdaradka" creationdate="20210317T171045Z">
         <seg>Italian</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Japanese</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141935Z" creationid="AgataWojtera" creationdate="20210323T141935Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141935Z" creationid="AgataWojtera" creationdate="20210323T141935Z">
         <seg>Japoński</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Language Name</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141446Z" creationid="AgataWojtera" creationdate="20210323T141446Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141446Z" creationid="AgataWojtera" creationdate="20210323T141446Z">
         <seg>Język</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Language Pattern</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141548Z" creationid="AgataWojtera" creationdate="20210323T141548Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141548Z" creationid="AgataWojtera" creationdate="20210323T141548Z">
         <seg>Wzorzec języka</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>List View</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T212016Z" creationid="magdalenaklocek" creationdate="20210322T212016Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T212016Z" creationid="magdalenaklocek" creationdate="20210322T212016Z">
         <seg>Widok listy</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Loading glossary {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171139Z" creationid="magdaradka" creationdate="20210317T171139Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171139Z" creationid="magdaradka" creationdate="20210317T171139Z">
         <seg>Loading glossary {0}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Maximum number of finds has been reached ({0})</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171128Z" creationid="magdaradka" creationdate="20210317T171128Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171128Z" creationid="magdaradka" creationdate="20210317T171128Z">
         <seg>Maximum number of finds has been reached ({0})</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Merge</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143147Z" creationid="magdalenaklocek" creationdate="20210323T143147Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143147Z" creationid="magdalenaklocek" creationdate="20210323T143147Z">
         <seg>Scalanie</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Mine</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143127Z" creationid="magdalenaklocek" creationdate="20210323T143127Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143127Z" creationid="magdalenaklocek" creationdate="20210323T143127Z">
         <seg>Moje</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Minutes:</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T132836Z" creationid="paulina" creationdate="20210320T132836Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132836Z" creationid="paulina" creationdate="20210320T132836Z">
         <seg>Minuty:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Missing</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T133445Z" creationid="paulina" creationdate="20210320T133445Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133445Z" creationid="paulina" creationdate="20210320T133445Z">
         <seg>Pominięcie</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Missing tags</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T134042Z" creationid="paulina" creationdate="20210320T134042Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T134042Z" creationid="paulina" creationdate="20210320T134042Z">
         <seg>Brakujące znaczniki</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Name</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144407Z" creationid="magdalenaklocek" creationdate="20210323T144407Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144407Z" creationid="magdalenaklocek" creationdate="20210323T144407Z">
         <seg>Nazwa</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Next</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211621Z" creationid="magdalenaklocek" creationdate="20210322T211621Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211621Z" creationid="magdalenaklocek" creationdate="20210322T211621Z">
         <seg>Następne</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Next →</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211922Z" creationid="magdalenaklocek" creationdate="20210322T211922Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211922Z" creationid="magdalenaklocek" creationdate="20210322T211922Z">
         <seg>Następne→</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Non-breakable space</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T133259Z" creationid="paulina" creationdate="20210320T133259Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133259Z" creationid="paulina" creationdate="20210320T133259Z">
         <seg>Spacja niełamiąca</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Not present</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T142627Z" creationid="magdalenaklocek" creationdate="20210323T142627Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T142627Z" creationid="magdalenaklocek" creationdate="20210323T142627Z">
         <seg>Niedostępny</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Note</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211804Z" creationid="magdalenaklocek" creationdate="20210322T211804Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211804Z" creationid="magdalenaklocek" creationdate="20210322T211804Z">
         <seg>Notatka</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T142437Z" creationid="AgataWojtera" creationdate="20210323T142311Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142437Z" creationid="AgataWojtera" creationdate="20210323T142311Z">
         <seg>Uwaga: jeśli kilka grup zasad segmentacji z tym samym wzorcem języka nakładają się na siebie, będą one stosowane w podanej kolejności.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141022Z" creationid="AgataWojtera" creationdate="20210323T140935Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141022Z" creationid="AgataWojtera" creationdate="20210323T140935Z">
         <seg>Uwaga: Ustawienia źródłowego pliku kodowania dotyczą wyłącznie plików HHC i HHK, które nie zawierają deklaracji kodowania.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T135927Z" creationid="AgataWojtera" creationdate="20210323T135927Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T135927Z" creationid="AgataWojtera" creationdate="20210323T135927Z">
         <seg>Tylko jeśli plik (X)HTML posiada deklarację kodowania</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Opening team project</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T132529Z" creationid="paulina" creationdate="20210320T132529Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132529Z" creationid="paulina" creationdate="20210320T132529Z">
         <seg>Otwarcie projektu zespołowego</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Options:
 	None: Launch GUI
 	Project path only: Launch GUI and load specified project
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="pl" changeid="jnnas10" changedate="20210317T171139Z" creationid="jnnas10" creationdate="20210317T171139Z">
+      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171139Z" creationid="jnnas10" creationdate="20210317T171139Z">
         <seg>Options:
 	None: Launch GUI
 	Project path only: Launch GUI and load specified project
@@ -1181,898 +1181,898 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Orphaned</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T133703Z" creationid="paulina" creationdate="20210320T133703Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133703Z" creationid="paulina" creationdate="20210320T133703Z">
         <seg>Osamotniony</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Out-of-order</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T133605Z" creationid="paulina" creationdate="20210320T133605Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133605Z" creationid="paulina" creationdate="20210320T133605Z">
         <seg>Niesprawny</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171935Z" creationid="magdaradka" creationdate="20210317T171935Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171935Z" creationid="magdaradka" creationdate="20210317T171935Z">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Pattern After</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141916Z" creationid="AgataWojtera" creationdate="20210323T141916Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141916Z" creationid="AgataWojtera" creationdate="20210323T141916Z">
         <seg>Wzorzec po</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Pattern Before</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141913Z" creationid="AgataWojtera" creationdate="20210323T141913Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141913Z" creationid="AgataWojtera" creationdate="20210323T141913Z">
         <seg>Wzorzec przed</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Please close search window.</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171057Z" creationid="magdaradka" creationdate="20210317T171057Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171057Z" creationid="magdaradka" creationdate="20210317T171057Z">
         <seg>Please close search window.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Please double-check it.</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T131433Z" creationid="paulina" creationdate="20210320T131433Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T131433Z" creationid="paulina" creationdate="20210320T131433Z">
         <seg>Proszę sprawdzić jeszcze raz.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Please redo tag validation.</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T133857Z" creationid="paulina" creationdate="20210320T133857Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133857Z" creationid="paulina" creationdate="20210320T133857Z">
         <seg>Proszę powtórzyć walidację tagów.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Please resolve the conflicts by choosing a translation for each segment below.</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T145425Z" creationid="magdalenaklocek" creationdate="20210323T145425Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T145425Z" creationid="magdalenaklocek" creationdate="20210323T145425Z">
         <seg>Proszę rozwiązać konflikty poprzez wybranie tłumaczenia do segmentu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Please select the interval at which the project should be saved automatically, in minutes and seconds.</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T132828Z" creationid="paulina" creationdate="20210320T132828Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132828Z" creationid="paulina" creationdate="20210320T132828Z">
         <seg>Proszę wybrać interwał, w którym projekt powinien być zapisywany automatycznie, w minutach i sekundach.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171216Z" creationid="magdaradka" creationdate="20210317T171216Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171216Z" creationid="magdaradka" creationdate="20210317T171216Z">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Polish</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141939Z" creationid="AgataWojtera" creationdate="20210323T141939Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141939Z" creationid="AgataWojtera" creationdate="20210323T141939Z">
         <seg>Polski</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Predefined credentials was not passed.</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T132125Z" creationid="paulina" creationdate="20210320T132125Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132125Z" creationid="paulina" creationdate="20210320T132125Z">
         <seg>Uprzednio zdefiniowane dane uwierzytelniające nie zostały przekazane.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T134025Z" creationid="paulina" creationdate="20210320T134025Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T134025Z" creationid="paulina" creationdate="20210320T134025Z">
         <seg>Naciśnij &lt;u&gt;{0}&lt;/u&gt; aby przejść do &lt;b&gt;{1}&lt;/b&gt; sugestii.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T133959Z" creationid="paulina" creationdate="20210320T133959Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133959Z" creationid="paulina" creationdate="20210320T133959Z">
         <seg>Naciśnij&lt;u&gt;{0}&lt;/u&gt; aby powrócić do &lt;b&gt;{1}&lt;/b&gt; sugestii.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Previous</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211642Z" creationid="magdalenaklocek" creationdate="20210322T211642Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211642Z" creationid="magdalenaklocek" creationdate="20210322T211642Z">
         <seg>Poprzednie</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Pro&amp;ject</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171154Z" creationid="magdaradka" creationdate="20210317T171154Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171154Z" creationid="magdaradka" creationdate="20210317T171154Z">
         <seg>Pro&amp;ject</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Processing...</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T142831Z" creationid="magdalenaklocek" creationdate="20210323T142831Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T142831Z" creationid="magdalenaklocek" creationdate="20210323T142831Z">
         <seg>Przetwarzanie...</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Project Specific Segmentation Setup</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T142146Z" creationid="AgataWojtera" creationdate="20210323T142146Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142146Z" creationid="AgataWojtera" creationdate="20210323T142146Z">
         <seg>Konfiguracja segmentacji specyficznej dla projektu</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Reading TMX file {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T172754Z" creationid="magdaradka" creationdate="20210317T172754Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172754Z" creationid="magdaradka" creationdate="20210317T172754Z">
         <seg>Reading TMX file {0}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171004Z" creationid="magdaradka" creationdate="20210317T171004Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171004Z" creationid="magdaradka" creationdate="20210317T171004Z">
         <seg>Register Identical Translation</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T132608Z" creationid="paulina" creationdate="20210320T132608Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132608Z" creationid="paulina" creationdate="20210320T132608Z">
         <seg>Błąd komunikacji sieciowej zdalnego repozytorium: {0}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T140457Z" creationid="AgataWojtera" creationdate="20210323T140457Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140457Z" creationid="AgataWojtera" creationdate="20210323T140457Z">
         <seg>Usuń komentarze HTML w przetłumaczonym dokumencie</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Repository Credentials</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T132424Z" creationid="paulina" creationdate="20210320T132424Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132424Z" creationid="paulina" creationdate="20210320T132424Z">
         <seg>Dane uwierzytelniające repozytorium</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Request error: {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211357Z" creationid="magdalenaklocek" creationdate="20210322T211357Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211357Z" creationid="magdalenaklocek" creationdate="20210322T211357Z">
         <seg>Błąd żądania {0}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Request to TaaS: {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144325Z" creationid="magdalenaklocek" creationdate="20210323T144325Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144325Z" creationid="magdalenaklocek" creationdate="20210323T144325Z">
         <seg>Żądanie TaaS: {0}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Retrieve collection list...</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144534Z" creationid="magdalenaklocek" creationdate="20210323T144534Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144534Z" creationid="magdalenaklocek" creationdate="20210323T144534Z">
         <seg>Przywróć listę zbiorów...</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Retrieve domain list...</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144636Z" creationid="magdalenaklocek" creationdate="20210323T144636Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144636Z" creationid="magdalenaklocek" creationdate="20210323T144636Z">
         <seg>Przywróć listę domeny...</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Russian</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141957Z" creationid="AgataWojtera" creationdate="20210323T141957Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141957Z" creationid="AgataWojtera" creationdate="20210323T141957Z">
         <seg>Rosyjski</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Saving and Output</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T132750Z" creationid="paulina" creationdate="20210320T132750Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132750Z" creationid="paulina" creationdate="20210320T132750Z">
         <seg>Zapisywanie i wyjściet</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Saving and Output Options</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T132731Z" creationid="paulina" creationdate="20210320T132731Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132731Z" creationid="paulina" creationdate="20210320T132731Z">
         <seg>Opcje zapisu i wyjścia</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Seconds:</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T132843Z" creationid="paulina" creationdate="20210320T132843Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132843Z" creationid="paulina" creationdate="20210320T132843Z">
         <seg>Sekundy:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>See below for details.</seg>
       </tuv>
-      <tuv lang="pl" changeid="jnnas10" changedate="20210317T171201Z" creationid="jnnas10" creationdate="20210317T171201Z">
+      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171201Z" creationid="jnnas10" creationdate="20210317T171201Z">
         <seg>See below for details.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Segment source text into paragraphs on:</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171215Z" creationid="magdaradka" creationdate="20210317T171215Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171215Z" creationid="magdaradka" creationdate="20210317T171215Z">
         <seg>Segment source text into paragraphs on:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Segmentation Setup</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T142123Z" creationid="AgataWojtera" creationdate="20210323T142123Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142123Z" creationid="AgataWojtera" creationdate="20210323T142123Z">
         <seg>Konfiguracja segmentacji</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Segmentation method: {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171218Z" creationid="magdaradka" creationdate="20210317T171218Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171218Z" creationid="magdaradka" creationdate="20210317T171218Z">
         <seg>Segmentation method: {0}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Select TaaS Terminology &amp;Lookup Domain...</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T145022Z" creationid="magdalenaklocek" creationdate="20210323T145022Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T145022Z" creationid="magdalenaklocek" creationdate="20210323T145022Z">
         <seg>Wybrać glosariusz TaaS &amp; domenę...</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Select TaaS domain</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144554Z" creationid="magdalenaklocek" creationdate="20210323T144554Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144554Z" creationid="magdalenaklocek" creationdate="20210323T144554Z">
         <seg>Wybierz domene TaaS</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Server (original)</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143230Z" creationid="magdalenaklocek" creationdate="20210323T143230Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143230Z" creationid="magdalenaklocek" creationdate="20210323T143230Z">
         <seg>Serwer (oryginalny)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Server (updated)</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143138Z" creationid="magdalenaklocek" creationdate="20210323T143138Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143138Z" creationid="magdalenaklocek" creationdate="20210323T143138Z">
         <seg>Serwer (zaktualizowany)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Shortcut</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210327Z" creationid="magdalenaklocek" creationdate="20210322T210327Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210327Z" creationid="magdalenaklocek" creationdate="20210322T210327Z">
         <seg>Skrót</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210322T123244Z" creationid="paulina" creationdate="20210322T123244Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210322T123244Z" creationid="paulina" creationdate="20210322T123244Z">
         <seg>Pokaż &amp; dłuższe terminy docelowe w pierwszej kolejności</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Show &amp;source term first</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210322T124031Z" creationid="paulina" creationdate="20210322T124031Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210322T124031Z" creationid="paulina" creationdate="20210322T124031Z">
         <seg>Pokaż najpierw termin wyjściowy</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Show &amp;target term first</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210322T123717Z" creationid="paulina" creationdate="20210322T123717Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210322T123717Z" creationid="paulina" creationdate="20210322T123717Z">
         <seg>Pokaż termin docelowy najpierw</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Skipping.</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T132657Z" creationid="paulina" creationdate="20210320T132657Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132657Z" creationid="paulina" creationdate="20210320T132657Z">
         <seg>Pomijanie.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Slovak</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T142001Z" creationid="AgataWojtera" creationdate="20210323T142001Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142001Z" creationid="AgataWojtera" creationdate="20210323T142001Z">
         <seg>Słowacki</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211215Z" creationid="magdalenaklocek" creationdate="20210322T211215Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211215Z" creationid="magdalenaklocek" creationdate="20210322T211215Z">
         <seg>Coś poszło nie tak,  abz poznać szczegóły odwiedź Tilde Terminology.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Sort &amp;alphabetically</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T205657Z" creationid="magdalenaklocek" creationdate="20210322T205657Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T205657Z" creationid="magdalenaklocek" creationdate="20210322T205657Z">
         <seg>Sortować według &amp;alfabetu</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Sort by &amp;full text, not shortcut</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T205830Z" creationid="magdalenaklocek" creationdate="20210322T205830Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T205830Z" creationid="magdalenaklocek" creationdate="20210322T205830Z">
         <seg>Sortować według &amp;całego textu, nie wed&amp;ug skrótów</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Sort by len&amp;gth</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T205623Z" creationid="magdalenaklocek" creationdate="20210322T205623Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T205623Z" creationid="magdalenaklocek" creationdate="20210322T205623Z">
         <seg>Sortować według d&amp;ugości</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Sort by source term &amp;alphabetically</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210322T123425Z" creationid="paulina" creationdate="20210322T123425Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210322T123425Z" creationid="paulina" creationdate="20210322T123425Z">
         <seg>Sortuj według terminu źródłowego &amp;alfabetycznie</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Sort tar&amp;get terms alphabetically</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210322T123733Z" creationid="paulina" creationdate="20210322T123524Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210322T123733Z" creationid="paulina" creationdate="20210322T123524Z">
         <seg>Sortowanie terminów docelowych alfabetycznie</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Source</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211756Z" creationid="magdalenaklocek" creationdate="20210322T211756Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211756Z" creationid="magdalenaklocek" creationdate="20210322T211756Z">
         <seg>Źródło</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Source count</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144432Z" creationid="magdalenaklocek" creationdate="20210323T144432Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144432Z" creationid="magdalenaklocek" creationdate="20210323T144432Z">
         <seg>Liczba źródeł</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Source language: {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T172757Z" creationid="magdaradka" creationdate="20210317T172757Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172757Z" creationid="magdaradka" creationdate="20210317T172757Z">
         <seg>Source language: {0}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Spanish</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141927Z" creationid="AgataWojtera" creationdate="20210323T141927Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141927Z" creationid="AgataWojtera" creationdate="20210323T141927Z">
         <seg>Hiszpański</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Start a new paragraph on:</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T140538Z" creationid="AgataWojtera" creationdate="20210323T140538Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140538Z" creationid="AgataWojtera" creationdate="20210323T140538Z">
         <seg>Rozpocznij nowy akapit po:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Start rebase</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T131643Z" creationid="paulina" creationdate="20210320T131643Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T131643Z" creationid="paulina" creationdate="20210320T131643Z">
         <seg>Uruchom rebase</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Swedish</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141959Z" creationid="AgataWojtera" creationdate="20210323T141959Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141959Z" creationid="AgataWojtera" creationdate="20210323T141959Z">
         <seg>Szwedzki</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Synchronisation of repositories</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T132455Z" creationid="paulina" creationdate="20210320T132455Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T132455Z" creationid="paulina" creationdate="20210320T132455Z">
         <seg>Synchronizacja repozytoriów</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>TaaS API key not set.</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210851Z" creationid="magdalenaklocek" creationdate="20210322T210851Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210851Z" creationid="magdalenaklocek" creationdate="20210322T210851Z">
         <seg>Klucz interfejsu API nie został ustawiony.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>TaaS Collections</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144402Z" creationid="magdalenaklocek" creationdate="20210323T144402Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144402Z" creationid="magdalenaklocek" creationdate="20210323T144402Z">
         <seg>Kolekcja TaaS</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Tab</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T133317Z" creationid="paulina" creationdate="20210320T133317Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133317Z" creationid="paulina" creationdate="20210320T133317Z">
         <seg>Tabulator</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Tag</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T133354Z" creationid="paulina" creationdate="20210320T133354Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133354Z" creationid="paulina" creationdate="20210320T133354Z">
         <seg>Znacznik</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Target count</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144452Z" creationid="magdalenaklocek" creationdate="20210323T144452Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144452Z" creationid="magdalenaklocek" creationdate="20210323T144452Z">
         <seg>Liczba celi</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Terms with multiple targets</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210322T124158Z" creationid="paulina" creationdate="20210322T124158Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210322T124158Z" creationid="paulina" creationdate="20210322T124158Z">
         <seg>Terminy z kilkoma celami</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Text Replace</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171052Z" creationid="magdaradka" creationdate="20210317T171052Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171052Z" creationid="magdaradka" creationdate="20210317T171052Z">
         <seg>Text Replace</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Text files segmentation</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T142046Z" creationid="AgataWojtera" creationdate="20210323T142046Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142046Z" creationid="AgataWojtera" creationdate="20210323T142046Z">
         <seg>Segmentacja plików tekstowych</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Text to be removed</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T133409Z" creationid="paulina" creationdate="20210320T133409Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133409Z" creationid="paulina" creationdate="20210320T133409Z">
         <seg>Tekst do usunięcia</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171153Z" creationid="magdaradka" creationdate="20210317T171153Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171153Z" creationid="magdaradka" creationdate="20210317T171153Z">
         <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>The translation has changed.</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T133830Z" creationid="paulina" creationdate="20210320T133830Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133830Z" creationid="paulina" creationdate="20210320T133830Z">
         <seg>Tłumaczeie zostało zmienione.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T142709Z" creationid="AgataWojtera" creationdate="20210323T142709Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142709Z" creationid="AgataWojtera" creationdate="20210323T142709Z">
         <seg>A więc później, przy tłumaczeniu z francuskiego kanadyjskiego projekt będzie stosował wszystkie zasady zdefiniowane dla wszystkich języków w odpowiedniej kolejności.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>This URL appears to be invalid.</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T131410Z" creationid="paulina" creationdate="20210320T131410Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T131410Z" creationid="paulina" creationdate="20210320T131410Z">
         <seg>Ten adres URL wydaje się nieprawidłowy.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>This command will be executed after Creating Translated Documents.</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T133102Z" creationid="paulina" creationdate="20210320T133102Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133102Z" creationid="paulina" creationdate="20210320T133102Z">
         <seg>To polecenie zostanie wykonane po utworzeniu przetłumaczonych dokumentów.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>This is a Git repository.</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T130905Z" creationid="paulina" creationdate="20210320T130624Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T130905Z" creationid="paulina" creationdate="20210320T130624Z">
         <seg>To jest repozytorium Git.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>This is a Subversion repository.</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T130853Z" creationid="paulina" creationdate="20210320T130853Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T130853Z" creationid="paulina" creationdate="20210320T130853Z">
         <seg>To jest repozytorium Subversion. </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>This is a valid project file.</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T131330Z" creationid="paulina" creationdate="20210320T131330Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T131330Z" creationid="paulina" creationdate="20210320T131330Z">
         <seg>To jest prawidłowy plik projektu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T142551Z" creationid="AgataWojtera" creationdate="20210323T142551Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142551Z" creationid="AgataWojtera" creationdate="20210323T142551Z">
         <seg>Na przykład zasady segmentacji dla francuskiego kanadyjskiego (FR-CA) będą wyżej niż zasady dla francuskiego (FR.*) i wyżej niż zasady domyślne (.*). </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210317T174746Z" creationid="AgataWojtera" creationdate="20210317T174746Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174746Z" creationid="AgataWojtera" creationdate="20210317T174746Z">
         <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Translate the following attributes:</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T140023Z" creationid="AgataWojtera" creationdate="20210323T140023Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140023Z" creationid="AgataWojtera" creationdate="20210323T140023Z">
         <seg>Przetłumacz następujące atrybuty:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Translation</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211745Z" creationid="magdalenaklocek" creationdate="20210322T211745Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211745Z" creationid="magdalenaklocek" creationdate="20210322T211745Z">
         <seg>Tłumaczenie</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Translation unit encountered before TMX header.</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171221Z" creationid="magdaradka" creationdate="20210317T171221Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171221Z" creationid="magdaradka" creationdate="20210317T171221Z">
         <seg>Translation unit encountered before TMX header.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Unable to read file</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T172746Z" creationid="magdaradka" creationdate="20210317T172746Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172746Z" creationid="magdaradka" creationdate="20210317T172746Z">
         <seg>Unable to read file</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Unable to save data.</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210314Z" creationid="magdalenaklocek" creationdate="20210322T210314Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210314Z" creationid="magdalenaklocek" creationdate="20210322T210314Z">
         <seg>Błąd przy zapiszwaniu pliku.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Unauthorized request to TaaS service.</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211337Z" creationid="magdalenaklocek" creationdate="20210322T211337Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211337Z" creationid="magdalenaklocek" creationdate="20210322T211337Z">
         <seg>Nieautoryzowane ządanie usługi TaaS.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Unspecified</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T133726Z" creationid="paulina" creationdate="20210320T133726Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T133726Z" creationid="paulina" creationdate="20210320T133726Z">
         <seg>Nieokreślony</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Unsupported file encoding</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171503Z" creationid="magdaradka" creationdate="20210317T171503Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171503Z" creationid="magdaradka" creationdate="20210317T171503Z">
         <seg>Unsupported file encoding</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Unsupported project file version ({0})!</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T172751Z" creationid="magdaradka" creationdate="20210317T172751Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172751Z" creationid="magdaradka" creationdate="20210317T172751Z">
         <seg>Unsupported project file version ({0})!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Updated</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211554Z" creationid="magdalenaklocek" creationdate="20210322T211554Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211554Z" creationid="magdalenaklocek" creationdate="20210322T211554Z">
         <seg>Zaktualizowanod</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="pl" changeid="agata" changedate="20210317T171827Z" creationid="agata" creationdate="20210317T171827Z">
+      <tuv lang="PL" changeid="agata" changedate="20210317T171827Z" creationid="agata" creationdate="20210317T171827Z">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Use all original</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T142948Z" creationid="magdalenaklocek" creationdate="20210323T142948Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T142948Z" creationid="magdalenaklocek" creationdate="20210323T142948Z">
         <seg>Wykorzystać wszystkie oryginalne</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Use all updated</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T142925Z" creationid="magdalenaklocek" creationdate="20210323T142925Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T142925Z" creationid="magdalenaklocek" creationdate="20210323T142925Z">
         <seg>Wykorzystać wszystkie zaktualizowane</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>User denied credentials</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210320T130058Z" creationid="paulina" creationdate="20210320T130058Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210320T130058Z" creationid="paulina" creationdate="20210320T130058Z">
         <seg>Odmowa uwierzytelnienia użytkowanika</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Version: {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T172755Z" creationid="magdaradka" creationdate="20210317T172755Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172755Z" creationid="magdaradka" creationdate="20210317T172755Z">
         <seg>Version: {0}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Warning on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T172843Z" creationid="magdaradka" creationdate="20210317T172843Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172843Z" creationid="magdaradka" creationdate="20210317T172843Z">
         <seg>Warning on line {0}, column {1} while parsing:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Warning!</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143317Z" creationid="magdalenaklocek" creationdate="20210323T143317Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143317Z" creationid="magdalenaklocek" creationdate="20210323T143317Z">
         <seg>Uwaga!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
-      <tuv lang="pl" changeid="paulina" changedate="20210322T123128Z" creationid="paulina" creationdate="20210322T123128Z">
+      <tuv lang="PL" changeid="paulina" changedate="20210322T123128Z" creationid="paulina" creationdate="20210322T123128Z">
         <seg>Jeżeli jest zaznaczone, elementy w widoku autouzupełniania słownika będą zawierały również tekst źródłowy.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdaradka" changedate="20210317T171055Z" creationid="magdaradka" creationdate="20210317T171055Z">
+      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171055Z" creationid="magdaradka" creationdate="20210317T171055Z">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>Wrong response format from TaaS service</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211107Z" creationid="magdalenaklocek" creationdate="20210322T211107Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211107Z" creationid="magdalenaklocek" creationdate="20210322T211107Z">
         <seg>Nieprawidłowy format odpowiedzi usługi TaaS</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>XHTML</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141203Z" creationid="AgataWojtera" creationdate="20210323T141203Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141203Z" creationid="AgataWojtera" creationdate="20210323T141203Z">
         <seg>XHTML</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>XHTML Filter Options</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141212Z" creationid="AgataWojtera" creationdate="20210323T141212Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141212Z" creationid="AgataWojtera" creationdate="20210323T141212Z">
         <seg>Opcje filtrowania XHTML</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143434Z" creationid="magdalenaklocek" creationdate="20210323T143434Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143434Z" creationid="magdalenaklocek" creationdate="20210323T143434Z">
         <seg>Próbujesz użyć HunspellTokenizer z językiem {0}, ale nie ma zainstalowanych słowników ortograficznych dla tego języka.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>[fuzzy]</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210317T174335Z" creationid="AgataWojtera" creationdate="20210317T174335Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174335Z" creationid="AgataWojtera" creationdate="20210317T174335Z">
         <seg>[fuzzy]</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>h&amp;reflang (language of links)</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T140124Z" creationid="AgataWojtera" creationdate="20210323T140124Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140124Z" creationid="AgataWojtera" creationdate="20210323T140124Z">
         <seg>h&amp;reflang (język linków)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>href (URL of &amp;links)</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T140043Z" creationid="AgataWojtera" creationdate="20210323T140043Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140043Z" creationid="AgataWojtera" creationdate="20210323T140043Z">
         <seg>href (URL linków)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>lan&amp;g (language attribute)</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T140103Z" creationid="AgataWojtera" creationdate="20210323T140103Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140103Z" creationid="AgataWojtera" creationdate="20210323T140103Z">
         <seg>lan&amp;g (atrybuty języka)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>src (URL of &amp;images)</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T140052Z" creationid="AgataWojtera" creationdate="20210323T140052Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140052Z" creationid="AgataWojtera" creationdate="20210323T140052Z">
         <seg>src (URL obrazów)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>value (of button, &amp;submit and reset input)</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T140327Z" creationid="AgataWojtera" creationdate="20210323T140327Z">
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140327Z" creationid="AgataWojtera" creationdate="20210323T140327Z">
         <seg>value (wartość inputu "button", "&amp;submit" i "reset")</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>{0} conflicts</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T145309Z" creationid="magdalenaklocek" creationdate="20210323T145309Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T145309Z" creationid="magdalenaklocek" creationdate="20210323T145309Z">
         <seg>{0} Konflikty</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>{0} segments</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143116Z" creationid="magdalenaklocek" creationdate="20210323T143116Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143116Z" creationid="magdalenaklocek" creationdate="20210323T143116Z">
         <seg>{0} segmenty</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>{0}-{1}_{2}_{3}</seg>
       </tuv>
-      <tuv lang="pl" changeid="jnnas10" changedate="20210317T171202Z" creationid="jnnas10" creationdate="20210317T171202Z">
+      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171202Z" creationid="jnnas10" creationdate="20210317T171202Z">
         <seg>{0}-{1}_{2}_{3}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
+      <tuv lang="EN">
         <seg>← Back</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211932Z" creationid="magdalenaklocek" creationdate="20210322T211932Z">
+      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211932Z" creationid="magdalenaklocek" creationdate="20210322T211932Z">
         <seg>← Wstecz</seg>
       </tuv>
     </tu>
