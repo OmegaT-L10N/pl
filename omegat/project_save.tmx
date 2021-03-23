@@ -348,6 +348,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backed up preferences to {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T165842Z" creationid="magdaradka" creationdate="20210323T165842Z">
+        <seg>Zapis preferencji w {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad folder name {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163515Z" creationid="magdaradka" creationdate="20210323T163515Z">
@@ -520,6 +528,14 @@
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210658Z" creationid="magdalenaklocek" creationdate="20210322T210658Z">
         <seg>Stwórz swój własny klucz i wpisz go poniżej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Created by: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T170002Z" creationid="magdaradka" creationdate="20210323T170002Z">
+        <seg>Utworzono przez: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -906,8 +922,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172749Z" creationid="magdaradka" creationdate="20210317T172749Z">
-        <seg>Failed to back up preferences file.</seg>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T165901Z" creationid="magdaradka" creationdate="20210317T172749Z">
+        <seg>Błąd zapisu pliku z preferencjami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1504,8 +1520,16 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Reading TMX file {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172754Z" creationid="magdaradka" creationdate="20210317T172754Z">
-        <seg>Reading TMX file {0}</seg>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T165931Z" creationid="magdaradka" creationdate="20210317T172754Z">
+        <seg>Odczyt pliku TMX {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reading of TMX file complete</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T165943Z" creationid="magdaradka" creationdate="20210323T165943Z">
+        <seg>Odczyt pliku TMX zakończony</seg>
       </tuv>
     </tu>
     <tu>
@@ -1640,8 +1664,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Segmentation method: {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171218Z" creationid="magdaradka" creationdate="20210317T171218Z">
-        <seg>Segmentation method: {0}</seg>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T170022Z" creationid="magdaradka" creationdate="20210317T171218Z">
+        <seg>Metoda segmentacji: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1792,8 +1816,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Source language: {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172757Z" creationid="magdaradka" creationdate="20210317T172757Z">
-        <seg>Source language: {0}</seg>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T170032Z" creationid="magdaradka" creationdate="20210317T172757Z">
+        <seg>Język źródłowy: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2032,8 +2056,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Unable to read file</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172746Z" creationid="magdaradka" creationdate="20210317T172746Z">
-        <seg>Unable to read file</seg>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T165804Z" creationid="magdaradka" creationdate="20210317T172746Z">
+        <seg>Odczytanie pliku jest niemożliwe</seg>
       </tuv>
     </tu>
     <tu>
@@ -2080,16 +2104,16 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Unsupported file encoding</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171503Z" creationid="magdaradka" creationdate="20210317T171503Z">
-        <seg>Unsupported file encoding</seg>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T165751Z" creationid="magdaradka" creationdate="20210317T171503Z">
+        <seg>Niewspierane kodowanie pliku</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Unsupported project file version ({0})!</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172751Z" creationid="magdaradka" creationdate="20210317T172751Z">
-        <seg>Unsupported project file version ({0})!</seg>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T165916Z" creationid="magdaradka" creationdate="20210317T172751Z">
+        <seg>Niewspierana wersja pliku z projektem ({0})!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2136,8 +2160,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Version: {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T172755Z" creationid="magdaradka" creationdate="20210317T172755Z">
-        <seg>Version: {0}</seg>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T170006Z" creationid="magdaradka" creationdate="20210317T172755Z">
+        <seg>Wersja: {0}</seg>
       </tuv>
     </tu>
     <tu>
