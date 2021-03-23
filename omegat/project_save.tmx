@@ -920,6 +920,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File {0} does not exist!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T165518Z" creationid="magdaradka" creationdate="20210323T165518Z">
+        <seg>Plik {0} nie istnieje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finnish</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141930Z" creationid="AgataWojtera" creationdate="20210323T141930Z">
@@ -1352,8 +1360,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171935Z" creationid="magdaradka" creationdate="20210317T171935Z">
-        <seg>Parse error encountered reading preferences file!</seg>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T165736Z" creationid="magdaradka" creationdate="20210317T171935Z">
+        <seg>Błąd odczytu pliku preferencji!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1434,6 +1442,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T132125Z" creationid="paulina" creationdate="20210320T132125Z">
         <seg>Uprzednio zdefiniowane dane uwierzytelniające nie zostały przekazane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences system save operation failed!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T165657Z" creationid="magdaradka" creationdate="20210323T165657Z">
+        <seg>Zapisanie preferencji systemowych jest niemożliwe!</seg>
       </tuv>
     </tu>
     <tu>
