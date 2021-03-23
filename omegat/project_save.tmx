@@ -548,6 +548,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exceptions occurred while loading segmentation rules:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141409Z" creationid="AgataWojtera" creationdate="20210323T141409Z">
+        <seg>Błąd przy ładowaniu opcji segmentacji:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exciting help page
 Gossamer threads hold you back
 404 not found</seg>
@@ -668,6 +676,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210317T170140Z" creationid="Komputer" creationdate="20210317T170140Z">
         <seg>How To...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141200Z" creationid="AgataWojtera" creationdate="20210323T141200Z">
+        <seg>Jeśli plik HHC lub HHK posiada dekarację kodowania, będzie ono użyte niezależnie od wartości podanych w tym oknie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1402,6 +1418,22 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211107Z" creationid="magdalenaklocek" creationdate="20210322T211107Z">
         <seg>Nieprawidłowy format odpowiedzi usługi TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141203Z" creationid="AgataWojtera" creationdate="20210323T141203Z">
+        <seg>XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML Filter Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141212Z" creationid="AgataWojtera" creationdate="20210323T141212Z">
+        <seg>Opcje filtrowania XHTML</seg>
       </tuv>
     </tu>
     <tu>
