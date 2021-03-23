@@ -1182,6 +1182,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Language not specified for translation unit variant.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T170550Z" creationid="magdaradka" creationdate="20210323T170550Z">
+        <seg>Nie określono języka dla wariantu jednostki tłumaczeniowej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>List View</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T212016Z" creationid="magdalenaklocek" creationdate="20210322T212016Z">
@@ -1830,6 +1838,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source segment could not be located for certain translation units.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T170725Z" creationid="magdaradka" creationdate="20210323T170725Z">
+        <seg>Nie odnaleziono segmentu źródłowego dla niektórych jednostek tłumaczeniowych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spanish</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141927Z" creationid="AgataWojtera" creationdate="20210323T141927Z">
@@ -2162,6 +2178,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T130058Z" creationid="paulina" creationdate="20210320T130058Z">
         <seg>Odmowa uwierzytelnienia użytkowanika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Variant skipped.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T170624Z" creationid="magdaradka" creationdate="20210323T170624Z">
+        <seg>Wariant pominięto.</seg>
       </tuv>
     </tu>
     <tu>
