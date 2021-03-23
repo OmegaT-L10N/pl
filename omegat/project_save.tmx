@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Never</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T135933Z" creationid="AgataWojtera" creationdate="20210323T135933Z">
+        <seg>&amp;Nigdy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Replace Next</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210317T171319Z" creationid="jnnas10" creationdate="20210317T171319Z">
@@ -1190,6 +1198,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translate the following attributes:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140023Z" creationid="AgataWojtera" creationdate="20210323T140023Z">
+        <seg>Przetłumacz następujące atrybuty:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211745Z" creationid="magdalenaklocek" creationdate="20210322T211745Z">
@@ -1322,6 +1338,38 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174335Z" creationid="AgataWojtera" creationdate="20210317T174335Z">
         <seg>[fuzzy]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>h&amp;reflang (language of links)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140124Z" creationid="AgataWojtera" creationdate="20210323T140124Z">
+        <seg>h&amp;reflang (język linków)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>href (URL of &amp;links)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140043Z" creationid="AgataWojtera" creationdate="20210323T140043Z">
+        <seg>href (URL linków)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lan&amp;g (language attribute)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140103Z" creationid="AgataWojtera" creationdate="20210323T140103Z">
+        <seg>lan&amp;g (atrybuty języka)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>src (URL of &amp;images)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140052Z" creationid="AgataWojtera" creationdate="20210323T140052Z">
+        <seg>src (URL obrazów)</seg>
       </tuv>
     </tu>
     <tu>
