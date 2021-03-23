@@ -404,6 +404,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creation date</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144200Z" creationid="magdalenaklocek" creationdate="20210323T144200Z">
+        <seg>Data utworzenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creator</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211812Z" creationid="magdalenaklocek" creationdate="20210322T211812Z">
@@ -768,6 +776,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full table</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144108Z" creationid="magdalenaklocek" creationdate="20210323T144108Z">
+        <seg>Cała tabela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full text</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210400Z" creationid="magdalenaklocek" creationdate="20210322T210400Z">
@@ -890,6 +906,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="jnnas10" changedate="20210317T171254Z" creationid="jnnas10" creationdate="20210317T171254Z">
         <seg>Invoke `team -h` for details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is default translation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144225Z" creationid="magdalenaklocek" creationdate="20210323T144225Z">
+        <seg>Tłumaczenie standardowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -1266,6 +1290,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211357Z" creationid="magdalenaklocek" creationdate="20210322T211357Z">
         <seg>Błąd żądania {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Request to TaaS: {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144325Z" creationid="magdalenaklocek" creationdate="20210323T144325Z">
+        <seg>Żądanie TaaS: {0}</seg>
       </tuv>
     </tu>
     <tu>
