@@ -380,6 +380,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not translate the content of tags with the following attribute key-value pairs (separate with commas):</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T135802Z" creationid="AgataWojtera" creationdate="20210323T135802Z">
+        <seg>Nie tłumacz zawartości tagów przez następujące pary atrybutów klucz-wartość (rozdzielić przecinkami):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you want to create it?</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210319T115410Z" creationid="magdaradka" creationdate="20210317T171039Z">
@@ -722,6 +730,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211804Z" creationid="magdalenaklocek" creationdate="20210322T211804Z">
         <seg>Notatka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T135927Z" creationid="AgataWojtera" creationdate="20210323T135927Z">
+        <seg>Tylko jeśli plik (X)HTML posiada deklarację kodowania</seg>
       </tuv>
     </tu>
     <tu>
