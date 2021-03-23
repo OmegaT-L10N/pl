@@ -300,6 +300,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bad folder name {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T163515Z" creationid="magdaradka" creationdate="20210323T163515Z">
+        <seg>Błędna nazwa folderu {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad nesting</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T133438Z" creationid="paulina" creationdate="20210320T133438Z">
@@ -311,6 +319,14 @@
         <seg>Bad regular expression</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T135325Z" creationid="AgataWojtera" creationdate="20210317T172632Z">
+        <seg>Błędne wyrażenie regularne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bad regular expression!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T163338Z" creationid="magdaradka" creationdate="20210323T163338Z">
         <seg>Błędne wyrażenie regularne</seg>
       </tuv>
     </tu>
@@ -678,8 +694,8 @@
       <tuv lang="EN">
         <seg>Error during regular expression replacement:</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171059Z" creationid="magdaradka" creationdate="20210317T171059Z">
-        <seg>Error during regular expression replacement:</seg>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T163409Z" creationid="magdaradka" creationdate="20210317T171059Z">
+        <seg>Błąd przy zastępowaniu wyrażenia regularnego:</seg>
       </tuv>
     </tu>
     <tu>
@@ -890,8 +906,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Group {0} does not exist in search expression</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171158Z" creationid="magdaradka" creationdate="20210317T171158Z">
-        <seg>Group {0} does not exist in search expression</seg>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T163501Z" creationid="magdaradka" creationdate="20210317T171158Z">
+        <seg>Grupa {0} nie istnieje w wyszukiwanej frazie</seg>
       </tuv>
     </tu>
     <tu>
@@ -1426,6 +1442,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T132731Z" creationid="paulina" creationdate="20210320T132731Z">
         <seg>Opcje zapisu i wyjścia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search thread died unexpectedly!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T163624Z" creationid="magdaradka" creationdate="20210323T163624Z">
+        <seg>Wyszukiwanie zostało zatrzymane</seg>
       </tuv>
     </tu>
     <tu>
