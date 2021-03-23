@@ -270,8 +270,8 @@
       <tuv lang="EN">
         <seg>Break/Exception</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141553Z" creationid="AgataWojtera" creationdate="20210323T141553Z">
-        <seg>Break/Exception</seg>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141757Z" creationid="AgataWojtera" creationdate="20210323T141553Z">
+        <seg>Segmentacja/Błąd</seg>
       </tuv>
     </tu>
     <tu>
@@ -280,6 +280,14 @@
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T130013Z" creationid="paulina" creationdate="20210320T130013Z">
         <seg>Anulowanie tworzenia nowego projektu zepsołowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Catalan</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141920Z" creationid="AgataWojtera" creationdate="20210323T141920Z">
+        <seg>Kataloński</seg>
       </tuv>
     </tu>
     <tu>
@@ -304,6 +312,14 @@
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T134154Z" creationid="paulina" creationdate="20210320T134154Z">
         <seg>Tabela znaków</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chinese</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142003Z" creationid="AgataWojtera" creationdate="20210323T142003Z">
+        <seg>Chiński</seg>
       </tuv>
     </tu>
     <tu>
@@ -352,6 +368,22 @@
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211812Z" creationid="magdalenaklocek" creationdate="20210322T211812Z">
         <seg>Autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141921Z" creationid="AgataWojtera" creationdate="20210323T141921Z">
+        <seg>Czeski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142006Z" creationid="AgataWojtera" creationdate="20210323T142006Z">
+        <seg>Domyślny</seg>
       </tuv>
     </tu>
     <tu>
@@ -452,6 +484,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dutch</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141938Z" creationid="AgataWojtera" creationdate="20210323T141938Z">
+        <seg>Holenderski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171137Z" creationid="magdaradka" creationdate="20210317T171137Z">
@@ -464,6 +504,14 @@
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T131716Z" creationid="paulina" creationdate="20210320T131716Z">
         <seg>Zakończ rebase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141925Z" creationid="AgataWojtera" creationdate="20210323T141925Z">
+        <seg>Angielski</seg>
       </tuv>
     </tu>
     <tu>
@@ -624,10 +672,34 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finnish</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141930Z" creationid="AgataWojtera" creationdate="20210323T141930Z">
+        <seg>Fiński</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>French</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141932Z" creationid="AgataWojtera" creationdate="20210323T141932Z">
+        <seg>Francuski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Full text</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210400Z" creationid="magdalenaklocek" creationdate="20210322T210400Z">
         <seg>Całość tekstu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>German</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141923Z" creationid="AgataWojtera" creationdate="20210323T141923Z">
+        <seg>Niemiecki</seg>
       </tuv>
     </tu>
     <tu>
@@ -668,6 +740,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140800Z" creationid="AgataWojtera" creationdate="20210323T140800Z">
         <seg>Pomoc Kompilatora HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML, XHTML, ODF and Infix segmentation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142107Z" creationid="AgataWojtera" creationdate="20210323T142107Z">
+        <seg>Segmentacja HTML, XHTML, ODF i Infix</seg>
       </tuv>
     </tu>
     <tu>
@@ -738,6 +818,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171045Z" creationid="magdaradka" creationdate="20210317T171045Z">
         <seg>Italian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Japanese</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141935Z" creationid="AgataWojtera" creationdate="20210323T141935Z">
+        <seg>Japoński</seg>
       </tuv>
     </tu>
     <tu>
@@ -838,6 +926,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142437Z" creationid="AgataWojtera" creationdate="20210323T142311Z">
+        <seg>Uwaga: jeśli kilka grup zasad segmentacji z tym samym wzorcem języka nakładają się na siebie, będą one stosowane w podanej kolejności.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141022Z" creationid="AgataWojtera" creationdate="20210323T140935Z">
@@ -902,6 +998,22 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pattern After</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141916Z" creationid="AgataWojtera" creationdate="20210323T141916Z">
+        <seg>Wzorzec po</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pattern Before</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141913Z" creationid="AgataWojtera" creationdate="20210323T141913Z">
+        <seg>Wzorzec przed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please close search window.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171057Z" creationid="magdaradka" creationdate="20210317T171057Z">
@@ -942,6 +1054,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141939Z" creationid="AgataWojtera" creationdate="20210323T141939Z">
+        <seg>Polski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Predefined credentials was not passed.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T132125Z" creationid="paulina" creationdate="20210320T132125Z">
@@ -978,6 +1098,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171154Z" creationid="magdaradka" creationdate="20210317T171154Z">
         <seg>Pro&amp;ject</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Specific Segmentation Setup</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142146Z" creationid="AgataWojtera" creationdate="20210323T142146Z">
+        <seg>Konfiguracja segmentacji specyficznej dla projektu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1030,6 +1158,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Russian</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141957Z" creationid="AgataWojtera" creationdate="20210323T141957Z">
+        <seg>Rosyjski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving and Output</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T132750Z" creationid="paulina" creationdate="20210320T132750Z">
@@ -1066,6 +1202,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171215Z" creationid="magdaradka" creationdate="20210317T171215Z">
         <seg>Segment source text into paragraphs on:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation Setup</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142123Z" creationid="AgataWojtera" creationdate="20210323T142123Z">
+        <seg>Konfiguracja segmentacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -1114,6 +1258,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T132657Z" creationid="paulina" creationdate="20210320T132657Z">
         <seg>Pomijanie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142001Z" creationid="AgataWojtera" creationdate="20210323T142001Z">
+        <seg>Słowacki</seg>
       </tuv>
     </tu>
     <tu>
@@ -1182,6 +1334,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141927Z" creationid="AgataWojtera" creationdate="20210323T141927Z">
+        <seg>Hiszpański</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start a new paragraph on:</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140538Z" creationid="AgataWojtera" creationdate="20210323T140538Z">
@@ -1194,6 +1354,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T131643Z" creationid="paulina" creationdate="20210320T131643Z">
         <seg>Uruchom rebase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Swedish</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141959Z" creationid="AgataWojtera" creationdate="20210323T141959Z">
+        <seg>Szwedzki</seg>
       </tuv>
     </tu>
     <tu>
@@ -1242,6 +1410,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171052Z" creationid="magdaradka" creationdate="20210317T171052Z">
         <seg>Text Replace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text files segmentation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142046Z" creationid="AgataWojtera" creationdate="20210323T142046Z">
+        <seg>Segmentacja plików tekstowych</seg>
       </tuv>
     </tu>
     <tu>
@@ -1306,6 +1482,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T131330Z" creationid="paulina" creationdate="20210320T131330Z">
         <seg>To jest prawidłowy plik projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142551Z" creationid="AgataWojtera" creationdate="20210323T142551Z">
+        <seg>Na przykład zasady segmentacji dla francuskiego kanadyjskiego (FR-CA) będą wyżej niż zasady dla francuskiego (FR.*) i wyżej niż zasady domyślne (.*). </seg>
       </tuv>
     </tu>
     <tu>
