@@ -268,6 +268,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Break/Exception</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141553Z" creationid="AgataWojtera" creationdate="20210323T141553Z">
+        <seg>Break/Exception</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cancelled creating new team project</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T130013Z" creationid="paulina" creationdate="20210320T130013Z">
@@ -500,6 +508,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error saving segmentation rules configuration:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141436Z" creationid="AgataWojtera" creationdate="20210323T141436Z">
+        <seg>Błąd przy zapisywaniu konfiguracji segmentacji:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error searching directory tree!</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171101Z" creationid="magdaradka" creationdate="20210317T171101Z">
@@ -722,6 +738,22 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171045Z" creationid="magdaradka" creationdate="20210317T171045Z">
         <seg>Italian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language Name</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141446Z" creationid="AgataWojtera" creationdate="20210323T141446Z">
+        <seg>Język</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language Pattern</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141548Z" creationid="AgataWojtera" creationdate="20210323T141548Z">
+        <seg>Wzorzec języka</seg>
       </tuv>
     </tu>
     <tu>
