@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>+{0} more</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T163730Z" creationid="magdaradka" creationdate="20210323T163730Z">
+        <seg>+{0} więcej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
@@ -826,8 +834,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>File</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211615Z" creationid="magdalenaklocek" creationdate="20210322T211615Z">
-        <seg>Pliki</seg>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T163928Z" creationid="magdalenaklocek" creationdate="20210322T211615Z">
+        <seg>Plik</seg>
       </tuv>
     </tu>
     <tu>
@@ -884,6 +892,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144819Z" creationid="magdalenaklocek" creationdate="20210323T144819Z">
         <seg>Pobrać klucz interfejsu API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T163723Z" creationid="magdaradka" creationdate="20210323T163723Z">
+        <seg>Glosariusz</seg>
       </tuv>
     </tu>
     <tu>
@@ -1126,6 +1142,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No matches returned by search.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T163700Z" creationid="magdaradka" creationdate="20210323T163700Z">
+        <seg>Brak wyników wyszukiwania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-breakable space</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T133259Z" creationid="paulina" creationdate="20210320T133259Z">
@@ -1162,6 +1186,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141022Z" creationid="AgataWojtera" creationdate="20210323T140935Z">
         <seg>Uwaga: Ustawienia źródłowego pliku kodowania dotyczą wyłącznie plików HHC i HHK, które nie zawierają deklaracji kodowania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nr of matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T163717Z" creationid="magdaradka" creationdate="20210323T163717Z">
+        <seg>Liczba pasujących segmentów: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1240,8 +1272,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Please close search window.</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171057Z" creationid="magdaradka" creationdate="20210317T171057Z">
-        <seg>Please close search window.</seg>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T163647Z" creationid="magdaradka" creationdate="20210317T171057Z">
+        <seg>Proszę zamknąć okno wyszukiwania.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2066,6 +2098,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140327Z" creationid="AgataWojtera" creationdate="20210323T140327Z">
         <seg>value (wartość inputu "button", "&amp;submit" i "reset")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} +{1} more</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T163758Z" creationid="magdaradka" creationdate="20210323T163758Z">
+        <seg>{0} + {1} więcej</seg>
       </tuv>
     </tu>
     <tu>
