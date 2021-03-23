@@ -188,6 +188,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1 conflict</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T145255Z" creationid="magdalenaklocek" creationdate="20210323T145255Z">
+        <seg>1 Konflikt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1 segment</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143108Z" creationid="magdalenaklocek" creationdate="20210323T143108Z">
@@ -208,6 +216,14 @@
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T133915Z" creationid="paulina" creationdate="20210320T133915Z">
         <seg>&lt;Brak sugestii&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T145555Z" creationid="magdalenaklocek" creationdate="20210323T145555Z">
+        <seg>Kliknij dwukrotnie lub podświetl pole znaków i naciśnij klawisz Insert aby wstawić znaki do tabeli niestandardowej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -392,6 +408,14 @@
       </tuv>
       <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T140438Z" creationid="AgataWojtera" creationdate="20210323T140438Z">
         <seg>Skompresuj białe znaki w przetłumaczonym dokumencie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Conflict resolution</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T145242Z" creationid="magdalenaklocek" creationdate="20210323T145242Z">
+        <seg>Rozwiązywanie konfliktu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1222,6 +1246,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please resolve the conflicts by choosing a translation for each segment below.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T145425Z" creationid="magdalenaklocek" creationdate="20210323T145425Z">
+        <seg>Proszę rozwiązać konflikty poprzez wybranie tłumaczenia do segmentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please select the interval at which the project should be saved automatically, in minutes and seconds.</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T132828Z" creationid="paulina" creationdate="20210320T132828Z">
@@ -2010,6 +2042,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T140327Z" creationid="AgataWojtera" creationdate="20210323T140327Z">
         <seg>value (wartość inputu "button", "&amp;submit" i "reset")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} conflicts</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T145309Z" creationid="magdalenaklocek" creationdate="20210323T145309Z">
+        <seg>{0} Konflikty</seg>
       </tuv>
     </tu>
     <tu>
