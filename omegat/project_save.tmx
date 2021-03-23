@@ -1966,10 +1966,18 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The TMX file will continue to be loaded.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T170834Z" creationid="magdaradka" creationdate="20210323T170834Z">
+        <seg>The TMX file will continue to be loaded.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171153Z" creationid="magdaradka" creationdate="20210317T171153Z">
-        <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T170830Z" creationid="magdaradka" creationdate="20210317T171153Z">
+        <seg>Język źródłowy TMX ({0}) jest inny niż język źródłowy projektu ({1}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1986,6 +1994,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142709Z" creationid="AgataWojtera" creationdate="20210323T142709Z">
         <seg>A więc później, przy tłumaczeniu z francuskiego kanadyjskiego projekt będzie stosował wszystkie zasady zdefiniowane dla wszystkich języków w odpowiedniej kolejności.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These units have been skipped.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T170742Z" creationid="magdaradka" creationdate="20210323T170742Z">
+        <seg>Te jednostki zostały pominięte.</seg>
       </tuv>
     </tu>
     <tu>
