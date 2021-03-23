@@ -1,1 +1,4 @@
 encoding declaration	deklaracja kodowania
+segmentation	segmentacja
+Note:	Uwaga:
+Language Pattern	Wzorzec języka
