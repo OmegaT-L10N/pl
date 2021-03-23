@@ -1,0 +1,1 @@
+encoding declaration	deklaracja kodowania
