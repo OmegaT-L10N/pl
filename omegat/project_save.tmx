@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T163935Z" creationid="magdaradka" creationdate="20210323T163935Z">
+        <seg>&amp;Zamknij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Download</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211545Z" creationid="magdalenaklocek" creationdate="20210322T211545Z">
@@ -112,8 +120,8 @@
       <tuv lang="EN">
         <seg>&amp;Reset Options</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171050Z" creationid="magdaradka" creationdate="20210317T171050Z">
-        <seg>&amp;Reset Options</seg>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T164036Z" creationid="magdaradka" creationdate="20210317T171050Z">
+        <seg>&amp;Zresetuj opcje</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210137Z" creationid="magdalenaklocek" creationdate="20210322T210137Z">
         <seg>&amp;Zapisywanie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Search for Selection</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T163951Z" creationid="magdaradka" creationdate="20210323T163951Z">
+        <seg>&amp;Szukaj zaznaczenia</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,8 +678,8 @@
       <tuv lang="EN">
         <seg>Edit</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171137Z" creationid="magdaradka" creationdate="20210317T171137Z">
-        <seg>Edit</seg>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T163956Z" creationid="magdaradka" creationdate="20210317T171137Z">
+        <seg>Edycja</seg>
       </tuv>
     </tu>
     <tu>
@@ -976,6 +992,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IOException encountered:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T164216Z" creationid="magdaradka" creationdate="20210323T164216Z">
+        <seg>Błąd wejścia/wyjścia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141200Z" creationid="AgataWojtera" creationdate="20210323T141200Z">
@@ -1154,6 +1178,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T133259Z" creationid="paulina" creationdate="20210320T133259Z">
         <seg>Spacja niełamiąca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not a valid XML file!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T164153Z" creationid="magdaradka" creationdate="20210323T164153Z">
+        <seg>Nieprawidłowy plik XML!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1894,6 +1926,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to initialize read of XML file!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T164124Z" creationid="magdaradka" creationdate="20210323T164124Z">
+        <seg>Rozpoczęcie odczytu pliku XML jest niemożliwe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to read file</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T172746Z" creationid="magdaradka" creationdate="20210317T172746Z">
@@ -1918,10 +1958,26 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unexpected char {0} ({1})!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T164301Z" creationid="magdaradka" creationdate="20210323T164301Z">
+        <seg>Niewłaściwy znak {0} ({1})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unspecified</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T133726Z" creationid="paulina" creationdate="20210320T133726Z">
         <seg>Nieokreślony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported XML version {0}!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magdaradka" changedate="20210323T164138Z" creationid="magdaradka" creationdate="20210323T164138Z">
+        <seg>Niewspierana wersja XML {0}!</seg>
       </tuv>
     </tu>
     <tu>
