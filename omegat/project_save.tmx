@@ -829,6 +829,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T201242Z" creationid="beataporodzynska" creationdate="20210325T201242Z">
+        <seg>Komentarze do aktywnego segmentu są wyświetlane, jeżeli znajdują się w pliku źródłowym i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
       <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T133023Z" creationid="beataporodzynska" creationdate="20210325T133023Z">
