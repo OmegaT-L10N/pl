@@ -1855,6 +1855,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notify Me When a Segment Has Comments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T203832Z" creationid="beataporodzynska" creationdate="20210325T203832Z">
+        <seg>Poinformuj mnie, gdy segment zawiera komentarze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Nr of matching segments: {0}</seg>
       </tuv>
       <tuv lang="pl" changeid="magdaradka" changedate="20210323T163717Z" creationid="magdaradka" creationdate="20210323T163717Z">
