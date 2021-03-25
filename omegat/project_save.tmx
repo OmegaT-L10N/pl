@@ -333,6 +333,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A note is just a comment regarding this set of source text and translation.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T195516Z" creationid="beataporodzynska" creationdate="20210325T195516Z">
+        <seg>Notatka jest tylko komentarzem do tego segmentu składającego się z tekstu źródłowego i tłumaczenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Glossary Entry</seg>
       </tuv>
       <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T121855Z" creationid="beataporodzynska" creationdate="20210325T121440Z">
