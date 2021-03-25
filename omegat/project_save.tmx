@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Source (segment {0}):</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T121031Z" creationid="monika" creationdate="20210325T121031Z">
+        <seg>&amp;Źródło (segment {0}):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;TaaS Terminology Lookup</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144937Z" creationid="magdalenaklocek" creationdate="20210323T144937Z">
@@ -296,6 +304,14 @@
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T130512Z" creationid="paulina" creationdate="20210320T130512Z">
         <seg>Wystąpił błąd podczas próby wykrycia pliku projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while downloading the dictionary.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T120945Z" creationid="monika" creationdate="20210325T120945Z">
+        <seg>Podczas pobierania słownika wystąpił błąd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -520,6 +536,14 @@
       </tuv>
       <tuv lang="pl" changeid="magdaradka" changedate="20210323T164422Z" creationid="magdaradka" creationdate="20210323T164422Z">
         <seg>Błąd wywołany niewłaściwym znacznikiem początkowym komentarza!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Could not create the specified folder.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T120924Z" creationid="monika" creationdate="20210325T120924Z">
+        <seg>Nie udało się utworzyć danego folderu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1206,6 +1230,22 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LanguageTool server started</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T121112Z" creationid="monika" creationdate="20210325T121112Z">
+        <seg>Serwer LanguageTool został uruchomiony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool server terminated</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T121141Z" creationid="monika" creationdate="20210325T121141Z">
+        <seg>Serwer LanguageTool zakończył pracę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>List View</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T212016Z" creationid="magdalenaklocek" creationdate="20210322T212016Z">
@@ -1490,6 +1530,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T132828Z" creationid="paulina" creationdate="20210320T132828Z">
         <seg>Proszę wybrać interwał, w którym projekt powinien być zapisywany automatycznie, w minutach i sekundach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please try again.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T121020Z" creationid="monika" creationdate="20210325T121020Z">
+        <seg>Proszę spróbować ponownie.</seg>
       </tuv>
     </tu>
     <tu>
