@@ -332,6 +332,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow to save password as plain text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T125158Z" creationid="magda" creationdate="20210325T125158Z">
+        <seg>Pozwól na zapisanie hasło jako zwykły tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T130512Z" creationid="paulina" creationdate="20210320T130512Z">
@@ -576,6 +584,14 @@
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T164422Z" creationid="magdaradka" creationdate="20210323T164422Z">
         <seg>Błąd wywołany niewłaściwym znacznikiem początkowym komentarza!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Connection available, the project is in team project mode.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T125253Z" creationid="magda" creationdate="20210325T125253Z">
+        <seg>Połączono, projekt jest w trybie projektu zespołowego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1128,6 +1144,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Git '{0}' error: {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T125027Z" creationid="magda" creationdate="20210325T125027Z">
+        <seg>Błąd Git:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Git '{0}' execution finished successfully</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T124939Z" creationid="magda" creationdate="20210325T124939Z">
@@ -1582,6 +1606,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No connection available, the project is in offline mode.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T125227Z" creationid="magda" creationdate="20210325T125227Z">
+        <seg>Brak połączenia, projekt jest w trybie offline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No matches returned by search.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163700Z" creationid="magdaradka" creationdate="20210323T163700Z">
@@ -1866,6 +1898,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T124320Z" creationid="magda" creationdate="20210325T124320Z">
         <seg>Projekt jest zablokowany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Push failed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T125123Z" creationid="magda" creationdate="20210325T125123Z">
+        <seg>Push się nie powiódł.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2386,6 +2426,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T170830Z" creationid="magdaradka" creationdate="20210317T171153Z">
         <seg>Język źródłowy TMX ({0}) jest inny niż język źródłowy projektu ({1}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified project is an OmegaT 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T125348Z" creationid="magda" creationdate="20210325T125348Z">
+        <seg>Ten konkretny projekt jest w dziełem zespołowym w stylu OmegaT 3.6. </seg>
       </tuv>
     </tu>
     <tu>
