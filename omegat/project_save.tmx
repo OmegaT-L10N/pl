@@ -373,6 +373,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T194527Z" creationid="beataporodzynska" creationdate="20210325T194527Z">
+        <seg>Umożliwia przeglądanie, dodawanie, usuwanie lub edycję notatki w aktywnym segmencie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T130512Z" creationid="paulina" creationdate="20210320T130512Z">
