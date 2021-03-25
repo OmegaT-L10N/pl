@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -804,6 +804,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T122419Z" creationid="monika" creationdate="20210325T122419Z">
+        <seg>Należy upewnić się o określaniu właściwej wersji API (adres URL powinien zawierać "/v2/").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Entries</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210055Z" creationid="magdalenaklocek" creationdate="20210322T210055Z">
@@ -1282,6 +1290,22 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="monika" changedate="20210325T121949Z" creationid="monika" creationdate="20210325T121949Z">
         <seg>LanguageTool: niewłaściwa ścieżka lokalna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool: local port is unavailable</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T122159Z" creationid="monika" creationdate="20210325T122159Z">
+        <seg>LanguageTool: niedostępny port lokalny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool: server returned XML when JSON was expected.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T122315Z" creationid="monika" creationdate="20210325T122315Z">
+        <seg>LanguageTool: serwer zwrócił XML zamiast oczekiwanego JSON.</seg>
       </tuv>
     </tu>
     <tu>
