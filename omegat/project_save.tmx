@@ -1870,6 +1870,23 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press 'Cancel' to leave the project unmodified and load it as a local
+project without team functionality.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T130243Z" creationid="magda" creationdate="20210325T130243Z">
+        <seg>Naciśnij "Anuluj", aby zamknąć projekt bez zmian i załadować go jako projekt lokalny bez udziału zespołu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press 'OK' to convert the project into a 4.x-style team project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T125959Z" creationid="magda" creationdate="20210325T125959Z">
+        <seg>Naciśnij OK w celu przekonwertowania projektu w projekt zespołowy w stlyu 4.x.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T134025Z" creationid="paulina" creationdate="20210320T134025Z">
@@ -2506,6 +2523,16 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T170742Z" creationid="magdaradka" creationdate="20210323T170742Z">
         <seg>Te jednostki zostały pominięte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This
+will delete your local data and re-download the project contents from
+the server.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T130127Z" creationid="magda" creationdate="20210325T130012Z">
+        <seg>Usunie to lokalne dane i załaduje od nowa pliki projektu z serweru. </seg>
       </tuv>
     </tu>
     <tu>
