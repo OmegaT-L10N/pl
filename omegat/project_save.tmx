@@ -1120,6 +1120,30 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Git '{0}' did nothing because there were no changes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T125013Z" creationid="magda" creationdate="20210325T125013Z">
+        <seg>Git nic zmienił, ponieważ nie wprowadzono zmian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git '{0}' execution finished successfully</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T124939Z" creationid="magda" creationdate="20210325T124939Z">
+        <seg>Wykonani Git ukończono pomyślnie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git '{0}' execution start</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T124916Z" creationid="magda" creationdate="20210325T124916Z">
+        <seg>Wykonanie Git rozpoczęste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163723Z" creationid="magdaradka" creationdate="20210323T163723Z">
@@ -2674,6 +2698,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171055Z" creationid="magdaradka" creationdate="20210317T171055Z">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Will be synchronized next time.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T124849Z" creationid="magda" creationdate="20210325T124849Z">
+        <seg>Następnym razem nastąpi synchronizacja.</seg>
       </tuv>
     </tu>
     <tu>
