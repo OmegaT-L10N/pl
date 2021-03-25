@@ -1286,6 +1286,30 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LanguageTool: An error occurred during check.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T122650Z" creationid="monika" creationdate="20210325T122650Z">
+        <seg>LanguageTool: Przy sprawdzaniu wystąpił błąd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool: Bad URL</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T122551Z" creationid="monika" creationdate="20210325T122551Z">
+        <seg>LanguageTool: Niewłaściwy adres URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool: Server start timeout</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T122634Z" creationid="monika" creationdate="20210325T122634Z">
+        <seg>LanguageTool: Przekroczenie czasu uruchomiania serwera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LanguageTool: bad local path</seg>
       </tuv>
       <tuv lang="pl" changeid="monika" changedate="20210325T121949Z" creationid="monika" creationdate="20210325T121949Z">
