@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -777,6 +777,14 @@
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T130222Z" creationid="paulina" creationdate="20210320T130222Z">
         <seg>Wykrywanie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionary</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T124915Z" creationid="beataporodzynska" creationdate="20210325T124915Z">
+        <seg>Słownik</seg>
       </tuv>
     </tu>
     <tu>
@@ -3007,6 +3015,14 @@ the server.</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143434Z" creationid="magdalenaklocek" creationdate="20210323T143434Z">
         <seg>Próbujesz użyć HunspellTokenizer z językiem {0}, ale nie ma zainstalowanych słowników ortograficznych dla tego języka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T131927Z" creationid="beataporodzynska" creationdate="20210325T131801Z">
+        <seg>Hasła do glosariusza można dodawać za pomocą opcji "Dodaj nowe hasło do glosariusza" w menu "Edytuj".</seg>
       </tuv>
     </tu>
     <tu>
