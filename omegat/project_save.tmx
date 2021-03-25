@@ -3059,6 +3059,15 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Your operating system refused to let OmegaT
+create its configuration folder.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T134722Z" creationid="beataporodzynska" creationdate="20210325T134722Z">
+        <seg>Twój system operacyjny nie pozwolił OmegaT na utworzenie folderu konfiguracyjnego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[fuzzy]</seg>
       </tuv>
       <tuv lang="pl" changeid="AgataWojtera" changedate="20210317T174335Z" creationid="AgataWojtera" creationdate="20210317T174335Z">
