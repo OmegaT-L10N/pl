@@ -1302,6 +1302,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LanguageTool is not available for your target language.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T124012Z" creationid="monika" creationdate="20210325T124012Z">
+        <seg>LanguageTool nie jest dostęony dla twojego języka docelowego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LanguageTool server started</seg>
       </tuv>
       <tuv lang="pl" changeid="monika" changedate="20210325T121112Z" creationid="monika" creationdate="20210325T121112Z">
@@ -2294,10 +2302,26 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There was an error initializing LanguageTool.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T124028Z" creationid="monika" creationdate="20210325T124028Z">
+        <seg>Podczas instalacji LanguageTool wystąpił błąd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These units have been skipped.</seg>
       </tuv>
       <tuv lang="pl" changeid="magdaradka" changedate="20210323T170742Z" creationid="magdaradka" creationdate="20210323T170742Z">
         <seg>Te jednostki zostały pominięte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This ID is already being used.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T123916Z" creationid="monika" creationdate="20210325T123916Z">
+        <seg>To ID znajduję się już w użyciu.</seg>
       </tuv>
     </tu>
     <tu>
