@@ -1310,6 +1310,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T125625Z" creationid="magda" creationdate="20210325T125625Z">
+        <seg>Musi on zostać zmieniony na nowy projekt zespołowy, ale nie można tego zrobić w trybie pulpitu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Italian</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171045Z" creationid="magdaradka" creationdate="20210317T171045Z">
