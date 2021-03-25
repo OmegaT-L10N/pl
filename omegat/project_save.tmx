@@ -1839,6 +1839,16 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T135515Z" creationid="beataporodzynska" creationdate="20210325T135515Z">
+        <seg>OmegaT nie ma dostępu do właściwości systemu zawierających nazwę systemu operacyjnego i/lub nazwę katalogu domowego użytkownika. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
       </tuv>
       <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T135927Z" creationid="AgataWojtera" creationdate="20210323T135927Z">
