@@ -1831,6 +1831,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T132753Z" creationid="beataporodzynska" creationdate="20210325T132753Z">
+        <seg>Otwórz zapisywalny plik glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opening team project</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T132529Z" creationid="paulina" creationdate="20210320T132529Z">
