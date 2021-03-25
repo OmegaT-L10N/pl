@@ -309,6 +309,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T130755Z" creationid="magda" creationdate="20210325T130755Z">
+        <seg>&lt;html&gt; adres URL:&lt;/html&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add Glossary Entry</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T121855Z" creationid="beataporodzynska" creationdate="20210325T121440Z">
@@ -369,6 +377,14 @@
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174601Z" creationid="AgataWojtera" creationdate="20210317T174601Z">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Authentication</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T130558Z" creationid="magda" creationdate="20210325T130558Z">
+        <seg>Uwierzytelnienie</seg>
       </tuv>
     </tu>
     <tu>
@@ -817,6 +833,14 @@
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T142807Z" creationid="magdalenaklocek" creationdate="20210323T142807Z">
         <seg>Zgoda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Team Project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T130806Z" creationid="magda" creationdate="20210325T130806Z">
+        <seg>Pobierz projekt zespołowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -1615,6 +1639,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New Local Project Folder:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T130836Z" creationid="magda" creationdate="20210325T130836Z">
+        <seg>Nowy lokalny folder projektu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211621Z" creationid="magdalenaklocek" creationdate="20210322T211621Z">
@@ -1820,6 +1852,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T131433Z" creationid="paulina" creationdate="20210320T131433Z">
         <seg>Proszę sprawdzić jeszcze raz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter username/password for {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T130622Z" creationid="magda" creationdate="20210325T130622Z">
+        <seg>Proszę wpisać nazwę użtkownika/hasło</seg>
       </tuv>
     </tu>
     <tu>
@@ -2847,6 +2887,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211107Z" creationid="magdalenaklocek" creationdate="20210322T211107Z">
         <seg>Nieprawidłowy format odpowiedzi usługi TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wrong username/password for {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T130643Z" creationid="magda" creationdate="20210325T130643Z">
+        <seg>Nieprawidłowa nazwa użytkownika/hasło</seg>
       </tuv>
     </tu>
     <tu>
