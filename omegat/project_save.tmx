@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Browse...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T123700Z" creationid="monika" creationdate="20210325T123700Z">
+        <seg>&amp;Przeglądaj...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Built-in (LanguageTool {0})</seg>
       </tuv>
       <tuv lang="pl" changeid="monika" changedate="20210325T123217Z" creationid="monika" creationdate="20210325T123217Z">
@@ -1390,6 +1398,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local installation path:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T123639Z" creationid="monika" creationdate="20210325T123639Z">
+        <seg>Ścieżka lokalnej instalacji:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Machine Translation</seg>
       </tuv>
       <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T115937Z" creationid="beataporodzynska" creationdate="20210325T115937Z">
@@ -1790,6 +1806,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote &amp;server</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T123330Z" creationid="monika" creationdate="20210325T123330Z">
+        <seg>Zdalny &amp;serwer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T132608Z" creationid="paulina" creationdate="20210320T132608Z">
@@ -1842,6 +1866,22 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144636Z" creationid="magdalenaklocek" creationdate="20210323T144636Z">
         <seg>Przywróć listę domeny...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T123856Z" creationid="monika" creationdate="20210325T123856Z">
+        <seg>Reguła ID może zawierać wyłącznie litery alfabetu łacińskiego, znaki podkreślenia oraz kropki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rules</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T123717Z" creationid="monika" creationdate="20210325T123717Z">
+        <seg>Reguły</seg>
       </tuv>
     </tu>
     <tu>
@@ -1954,6 +1994,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143138Z" creationid="magdalenaklocek" creationdate="20210323T143138Z">
         <seg>Serwer (zaktualizowany)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Service type</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T123415Z" creationid="monika" creationdate="20210325T123415Z">
+        <seg>Tryb pracy</seg>
       </tuv>
     </tu>
     <tu>
@@ -2346,6 +2394,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="monika" changedate="20210325T123120Z" creationid="monika" creationdate="20210325T123120Z">
         <seg>Wpisz nową regułę ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T123709Z" creationid="monika" creationdate="20210325T123709Z">
+        <seg>Ardes URL:</seg>
       </tuv>
     </tu>
     <tu>
