@@ -813,6 +813,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T133023Z" creationid="beataporodzynska" creationdate="20210325T133023Z">
+        <seg>Pokaż hasła ze słownika znajdującego się w folderze /dictionary/, które odpowiadają hasłom w tekście źródłowym aktywnego segmentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210322T124057Z" creationid="paulina" creationdate="20210322T124057Z">
