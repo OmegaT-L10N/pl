@@ -1230,6 +1230,22 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LanguageTool API version mismatch</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T121329Z" creationid="monika" creationdate="20210325T121329Z">
+        <seg>Niezgodność wersji API LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool is misconfigured.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T121401Z" creationid="monika" creationdate="20210325T121401Z">
+        <seg>LanguageTool jest niepoprawnie skonfigurowany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LanguageTool server started</seg>
       </tuv>
       <tuv lang="pl" changeid="monika" changedate="20210325T121112Z" creationid="monika" creationdate="20210325T121112Z">
@@ -1962,6 +1978,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141959Z" creationid="AgataWojtera" creationdate="20210323T141959Z">
         <seg>Szwedzki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switching to built-in version.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T121809Z" creationid="monika" creationdate="20210325T121809Z">
+        <seg>Przełączenie do wersji wbudowanej.</seg>
       </tuv>
     </tu>
     <tu>
