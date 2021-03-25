@@ -1366,6 +1366,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T120312Z" creationid="beataporodzynska" creationdate="20210325T120312Z">
+        <seg>Notatki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Nr of matching segments: {0}</seg>
       </tuv>
       <tuv lang="pl" changeid="magdaradka" changedate="20210323T163717Z" creationid="magdaradka" creationdate="20210323T163717Z">
