@@ -476,6 +476,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comment:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T115838Z" creationid="beataporodzynska" creationdate="20210325T115829Z">
+        <seg>Komentarz:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comments</seg>
       </tuv>
       <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T115511Z" creationid="beataporodzynska" creationdate="20210325T115511Z">
@@ -1210,6 +1218,22 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="magdaradka" changedate="20210317T171139Z" creationid="magdaradka" creationdate="20210317T171139Z">
         <seg>Loading glossary {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Machine Translation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T115937Z" creationid="beataporodzynska" creationdate="20210325T115937Z">
+        <seg>Tłumaczenie maszynowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Machine Translation Options</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T120300Z" creationid="beataporodzynska" creationdate="20210325T120300Z">
+        <seg>Opcje tłumaczenia maszynowego</seg>
       </tuv>
     </tu>
     <tu>
@@ -2090,6 +2114,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="magdaradka" changedate="20210323T170339Z" creationid="magdaradka" creationdate="20210317T171221Z">
         <seg>Napotkano jednostkę tłumaczeniową przed nagłówkiem TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T115855Z" creationid="beataporodzynska" creationdate="20210325T115855Z">
+        <seg>Tłumaczenie:</seg>
       </tuv>
     </tu>
     <tu>
