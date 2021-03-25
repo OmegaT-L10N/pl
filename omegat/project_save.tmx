@@ -1423,6 +1423,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Instant Start</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T203630Z" creationid="beataporodzynska" creationdate="20210325T203630Z">
+        <seg>Szybki start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
       <tuv lang="pl" changeid="jnnas10" changedate="20210317T171254Z" creationid="jnnas10" creationdate="20210317T171254Z">
