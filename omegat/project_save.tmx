@@ -806,8 +806,8 @@
       <tuv lang="en">
         <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
       </tuv>
-      <tuv lang="pl" changeid="monika" changedate="20210325T122419Z" creationid="monika" creationdate="20210325T122419Z">
-        <seg>Należy upewnić się o określaniu właściwej wersji API (adres URL powinien zawierać "/v2/").</seg>
+      <tuv lang="pl" changeid="monika" changedate="20210325T122942Z" creationid="monika" creationdate="20210325T122419Z">
+        <seg>Upewnij się czy została podana właściwa wersja API (adres URL powinien zawierać "/v2/").</seg>
       </tuv>
     </tu>
     <tu>
@@ -1286,6 +1286,22 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LanguageTool settings</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T122755Z" creationid="monika" creationdate="20210325T122755Z">
+        <seg>Ustawienia LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool will be disabled until the project is closed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T122745Z" creationid="monika" creationdate="20210325T122745Z">
+        <seg>LanguageTool zostanie zablokowany do momentu zamknięcia projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LanguageTool: An error occurred during check.</seg>
       </tuv>
       <tuv lang="pl" changeid="monika" changedate="20210325T122650Z" creationid="monika" creationdate="20210325T122650Z">
@@ -1624,8 +1640,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Please try again.</seg>
       </tuv>
-      <tuv lang="pl" changeid="monika" changedate="20210325T121020Z" creationid="monika" creationdate="20210325T121020Z">
-        <seg>Proszę spróbować ponownie.</seg>
+      <tuv lang="pl" changeid="monika" changedate="20210325T122827Z" creationid="monika" creationdate="20210325T121020Z">
+        <seg>Spróbuj ponownie.</seg>
       </tuv>
     </tu>
     <tu>
