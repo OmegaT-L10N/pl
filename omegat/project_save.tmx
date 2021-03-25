@@ -1262,6 +1262,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LanguageTool: bad local path</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T121949Z" creationid="monika" creationdate="20210325T121949Z">
+        <seg>LanguageTool: niewłaściwa ścieżka lokalna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>List View</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T212016Z" creationid="magdalenaklocek" creationdate="20210322T212016Z">
