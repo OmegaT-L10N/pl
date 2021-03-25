@@ -2227,6 +2227,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restore</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T202218Z" creationid="beataporodzynska" creationdate="20210325T202218Z">
+        <seg>Przywróć</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Retrieve collection list...</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144534Z" creationid="magdalenaklocek" creationdate="20210323T144534Z">
