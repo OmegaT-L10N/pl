@@ -2747,6 +2747,15 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Therefore, the location of OmegaT's
+configuration folder cannot be reliably determined.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T201457Z" creationid="beataporodzynska" creationdate="20210325T201457Z">
+        <seg>Z tego powodu nie można dokładnie określić lokalizacji folderu konfiguracyjnego programu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These units have been skipped.</seg>
       </tuv>
       <tuv lang="pl" changeid="magdaradka" changedate="20210323T170742Z" creationid="magdaradka" creationdate="20210323T170742Z">
