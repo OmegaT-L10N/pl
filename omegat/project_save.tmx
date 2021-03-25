@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Built-in (LanguageTool {0})</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T123217Z" creationid="monika" creationdate="20210325T123217Z">
+        <seg>&amp;Wbudowana wersja (LanguageTool {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Close</seg>
       </tuv>
       <tuv lang="pl" changeid="magdaradka" changedate="20210323T163935Z" creationid="magdaradka" creationdate="20210323T163935Z">
@@ -82,6 +90,14 @@
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210322T124128Z" creationid="paulina" creationdate="20210322T124128Z">
         <seg>&amp;Włącz sugerowanie słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Launch local server</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T123308Z" creationid="monika" creationdate="20210325T123232Z">
+        <seg>&amp;Uruchomienie lokalnego serwera</seg>
       </tuv>
     </tu>
     <tu>
@@ -1222,6 +1238,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>JAR files</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T123001Z" creationid="monika" creationdate="20210325T123001Z">
+        <seg>Pliki JAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Japanese</seg>
       </tuv>
       <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141935Z" creationid="AgataWojtera" creationdate="20210323T141935Z">
@@ -1382,6 +1406,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Manually defined rules</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T123051Z" creationid="monika" creationdate="20210325T123051Z">
+        <seg>Reguły ustalone manualnie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Maximum number of finds has been reached ({0})</seg>
       </tuv>
       <tuv lang="pl" changeid="magdaradka" changedate="20210323T163151Z" creationid="magdaradka" creationdate="20210317T171128Z">
@@ -1434,6 +1466,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144407Z" creationid="magdalenaklocek" creationdate="20210323T144407Z">
         <seg>Nazwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New LanguageTool rule</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T123132Z" creationid="monika" creationdate="20210325T123132Z">
+        <seg>Nowa reguła LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -1894,6 +1934,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select languagetool-server.jar</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T122954Z" creationid="monika" creationdate="20210325T122954Z">
+        <seg>Wybierz languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Server (original)</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T143230Z" creationid="magdalenaklocek" creationdate="20210323T143230Z">
@@ -2290,6 +2338,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T115855Z" creationid="beataporodzynska" creationdate="20210325T115855Z">
         <seg>Tłumaczenie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type in new rule ID</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210325T123120Z" creationid="monika" creationdate="20210325T123120Z">
+        <seg>Wpisz nową regułę ID</seg>
       </tuv>
     </tu>
     <tu>
