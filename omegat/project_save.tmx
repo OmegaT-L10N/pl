@@ -206,6 +206,15 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(You will still able to use OmegaT
+3.6 to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T130346Z" creationid="magda" creationdate="20210325T130346Z">
+        <seg>(Nada będzie można uzywać OmegaT 3.6 do zmiany projektu w projekt zespołowy).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(close tag)</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T164709Z" creationid="magdaradka" creationdate="20210323T164709Z">
@@ -1798,6 +1807,15 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T130529Z" creationid="magda" creationdate="20210325T130529Z">
+        <seg>W celu zdobcia informacji na temat możliwych dodatkowych krtoków, które należy podjąć, prosimy o kontakt z administratorm projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please double-check it.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T131433Z" creationid="paulina" creationdate="20210320T131433Z">
@@ -2467,6 +2485,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T170830Z" creationid="magdaradka" creationdate="20210317T171153Z">
         <seg>Język źródłowy TMX ({0}) jest inny niż język źródłowy projektu ({1}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The project was converted successfully.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T130405Z" creationid="magda" creationdate="20210325T130405Z">
+        <seg>Projekt został pomyślnie zmieniony.</seg>
       </tuv>
     </tu>
     <tu>
