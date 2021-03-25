@@ -596,6 +596,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert Old Team Project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T125823Z" creationid="magda" creationdate="20210325T125823Z">
+        <seg>Konwertuj stary projekt zespołowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not create the specified folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T120924Z" creationid="monika" creationdate="20210325T120924Z">
@@ -1694,6 +1702,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has detected a 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T125908Z" creationid="magda" creationdate="20210325T125908Z">
+        <seg>Program OmegaT wykrył styl projektu zespołowego 3.6. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T135927Z" creationid="AgataWojtera" creationdate="20210323T135927Z">
@@ -2434,6 +2450,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T170830Z" creationid="magdaradka" creationdate="20210317T171153Z">
         <seg>Język źródłowy TMX ({0}) jest inny niż język źródłowy projektu ({1}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The project will be loaded as a local project without team functionality.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210325T125751Z" creationid="magda" creationdate="20210325T125751Z">
+        <seg>Projekt zostanie załadowany jako projekt lokalny bez udziału zespołu.</seg>
       </tuv>
     </tu>
     <tu>
