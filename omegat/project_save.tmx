@@ -883,6 +883,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Create Alternative Translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T113435Z" creationid="Agata Kaczmarska" creationdate="20210326T113435Z">
+        <seg>Utwórz alternatywne tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>What is a pseudo-translate TMX and what purpose does it serve?</note>
       <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
@@ -3622,8 +3630,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Use as Default Translation</seg>
       </tuv>
-      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002212Z" creationid="Agata Kaczmarska" creationdate="20210326T002212Z">
-        <seg>Używaj jako standardowe tłumaczenie</seg>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T113406Z" creationid="Agata Kaczmarska" creationdate="20210326T002212Z">
+        <seg>Użyj jako standardowe tłumaczenie</seg>
       </tuv>
     </tu>
     <tu>
