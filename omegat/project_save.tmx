@@ -1644,9 +1644,11 @@ Gossamer threads hold you back
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210326T100231Z" creationid="Kasia Mędrzycka" creationdate="20210326T100231Z">
-        <seg>Jeżeli później zostanie zapewniony dostęp do wymaganego położenia,
-położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawienia powrócą do wartości domyślnych.</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210326T111849Z" creationid="Kasia Mędrzycka" creationdate="20210326T100231Z">
+        <seg>Jeżeli później zostanie zapewniony dostęp do
+wymaganego położenia, położenie to zostanie użyte,
+a w wyniku zmiany położenia wszystkie ustawienia
+powrócą do wartości domyślnych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3242,8 +3244,9 @@ instead.</seg>
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210326T100512Z" creationid="Kasia Mędrzycka" creationdate="20210326T100512Z">
-        <seg>Zamiast tego zostanie użyty bieżący katalog.</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210326T111730Z" creationid="Kasia Mędrzycka" creationdate="20210326T100512Z">
+        <seg>Zamiast tego zostanie użyty
+bieżący katalog.</seg>
       </tuv>
     </tu>
     <tu>
