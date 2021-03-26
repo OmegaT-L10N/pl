@@ -3859,6 +3859,7 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>What does executed refer to?</note>
       <tuv lang="EN">
         <seg>{1}, executed from '{2}'</seg>
       </tuv>
