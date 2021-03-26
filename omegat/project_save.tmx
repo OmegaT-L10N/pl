@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Open Script...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002638Z" creationid="Agata Kaczmarska" creationdate="20210326T002638Z">
+        <seg>&amp;Otwórz skrypt...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Replace Next</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210317T171319Z" creationid="jnnas10" creationdate="20210317T171319Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T164036Z" creationid="magdaradka" creationdate="20210317T171050Z">
         <seg>&amp;Zresetuj opcje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Run</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002752Z" creationid="Agata Kaczmarska" creationdate="20210326T002752Z">
+        <seg>&amp;Wykonać</seg>
       </tuv>
     </tu>
     <tu>
@@ -529,6 +545,22 @@
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143922Z" creationid="magdalenaklocek" creationdate="20210323T143922Z">
         <seg>Pu&amp;te</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002759Z" creationid="Agata Kaczmarska" creationdate="20210326T002759Z">
+        <seg>Anuluj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002907Z" creationid="Agata Kaczmarska" creationdate="20210326T002907Z">
+        <seg>Anuluj działa tylko w skryptach, które jawnie zaznaczają możliwość anulowania.</seg>
       </tuv>
     </tu>
     <tu>
