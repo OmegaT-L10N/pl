@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Sentence Case</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210326T115706Z" creationid="monika" creationdate="20210326T115706Z">
+        <seg>&amp;Pisanie zdaniami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Skip</seg>
       </tuv>
       <tuv lang="pl" changeid="jnnas10" changedate="20210317T171315Z" creationid="jnnas10" creationdate="20210317T171315Z">
