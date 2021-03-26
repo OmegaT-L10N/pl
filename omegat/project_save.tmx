@@ -525,6 +525,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred while processing a project change event:
+{0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210326T104629Z" creationid="Kasia Mędrzycka" creationdate="20210326T104538Z">
+        <seg>Wystąpił błąd podczas próby przetworzenia zdarzenia zmiana projektu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred while trying to run console process: {0}</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Kaczmarska" changedate="20210326T004622Z" creationid="Agata Kaczmarska" creationdate="20210326T004622Z">
