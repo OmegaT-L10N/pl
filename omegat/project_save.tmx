@@ -517,6 +517,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Attribute:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004220Z" creationid="Agata Kaczmarska" creationdate="20210326T004220Z">
+        <seg>Atrybuty:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Authentication</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T130558Z" creationid="magda" creationdate="20210325T130558Z">
@@ -1345,6 +1353,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finished</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004341Z" creationid="Agata Kaczmarska" creationdate="20210326T004341Z">
+        <seg>Zakończono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finnish</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141930Z" creationid="AgataWojtera" creationdate="20210323T141930Z">
@@ -1563,6 +1579,14 @@ Gossamer threads hold you back
       <note>&lt;DE&gt; Segment	segment</note>
       <tuv lang="EN">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initializing</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004246Z" creationid="Agata Kaczmarska" creationdate="20210326T004246Z">
+        <seg>Inicjalizacja</seg>
       </tuv>
     </tu>
     <tu>
@@ -2250,6 +2274,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please translate this plural as plural form #{0}.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004207Z" creationid="Agata Kaczmarska" creationdate="20210326T004207Z">
+        <seg>Przetłumacz tę liczbę mnogą jako formę liczby mnogiej #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please try again.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T122827Z" creationid="monika" creationdate="20210325T121020Z">
@@ -2383,6 +2415,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T165943Z" creationid="magdaradka" creationdate="20210323T165943Z">
         <seg>Odczyt pliku TMX zakończony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>References:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004130Z" creationid="Agata Kaczmarska" creationdate="20210326T004130Z">
+        <seg>Odniesienia:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2995,6 +3035,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag validation failed</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004322Z" creationid="Agata Kaczmarska" creationdate="20210326T004322Z">
+        <seg>Weryfikacja znacznika nie powiodła się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target count</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144452Z" creationid="magdalenaklocek" creationdate="20210323T144452Z">
@@ -3222,6 +3270,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translating Project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004334Z" creationid="Agata Kaczmarska" creationdate="20210326T004334Z">
+        <seg>Przetłumacz projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211745Z" creationid="magdalenaklocek" creationdate="20210322T211745Z">
@@ -3386,6 +3442,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T130058Z" creationid="paulina" creationdate="20210320T130058Z">
         <seg>Odmowa uwierzytelnienia użytkowanika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validating tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004354Z" creationid="Agata Kaczmarska" creationdate="20210326T004354Z">
+        <seg>Weryfikacja znaczników</seg>
       </tuv>
     </tu>
     <tu>
