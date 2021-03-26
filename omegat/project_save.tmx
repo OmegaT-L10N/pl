@@ -469,8 +469,8 @@
       <tuv lang="EN">
         <seg>Align project against {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T113944Z" creationid="Agata Kaczmarska" creationdate="20210326T004523Z">
-        <seg>Zestaw projekt z {0}</seg>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T114119Z" creationid="Agata Kaczmarska" creationdate="20210326T004523Z">
+        <seg>Dopasuj projekt z {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1379,6 +1379,12 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163133Z" creationid="magdaradka" creationdate="20210317T171117Z">
         <seg>Opuść segmenty osamotnione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>What does it mean to execute script?</note>
+      <tuv lang="EN">
+        <seg>Executing script {0} (event {1})</seg>
       </tuv>
     </tu>
     <tu>
