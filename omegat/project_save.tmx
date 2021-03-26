@@ -1650,7 +1650,6 @@ położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawien
       </tuv>
     </tu>
     <tu>
-      <note>&lt;DE&gt; Segment	segment</note>
       <tuv lang="EN">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
