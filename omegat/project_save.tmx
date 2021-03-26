@@ -1190,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drop glossary files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210326T120107Z" creationid="wciecierska" creationdate="20210326T120107Z">
+        <seg>Upuść pliki glosariusza tutaj, aby dodać je do projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Duplicate</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T133455Z" creationid="paulina" creationdate="20210320T133418Z">
