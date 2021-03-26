@@ -597,6 +597,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot read selected script file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003237Z" creationid="Agata Kaczmarska" creationdate="20210326T003237Z">
+        <seg>Odczytanie wybranego pliku skryptu jest niemożliwe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Catalan</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141920Z" creationid="AgataWojtera" creationdate="20210323T141920Z">
@@ -1129,6 +1137,14 @@
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T132637Z" creationid="paulina" creationdate="20210320T132637Z">
         <seg>Błąd aktualizacji repozytorium.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error while trying to save script.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003348Z" creationid="Agata Kaczmarska" creationdate="20210326T003348Z">
+        <seg>Wystąpił błąd podczas próby zapisu skryptu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1871,6 +1887,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No script selected.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003206Z" creationid="Agata Kaczmarska" creationdate="20210326T003206Z">
+        <seg>Nie wybrano skryptu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-breakable space</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T133259Z" creationid="paulina" creationdate="20210320T133259Z">
@@ -2267,6 +2291,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Refreshing script folder "{0}"</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003317Z" creationid="Agata Kaczmarska" creationdate="20210326T003317Z">
+        <seg>Odświeżanie folderu skryptu "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002507Z" creationid="magdaradka" creationdate="20210317T171004Z">
@@ -2379,6 +2411,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Run script on slot #{0}.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003455Z" creationid="Agata Kaczmarska" creationdate="20210326T003455Z">
+        <seg>Otwórz skrypt na slocie #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Russian</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141957Z" creationid="AgataWojtera" creationdate="20210323T141957Z">
@@ -2419,6 +2459,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save Script</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003323Z" creationid="Agata Kaczmarska" creationdate="20210326T003323Z">
+        <seg>Zapisz skrypt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving and Output</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T132750Z" creationid="paulina" creationdate="20210320T132750Z">
@@ -2431,6 +2479,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T132731Z" creationid="paulina" creationdate="20210320T132731Z">
         <seg>Opcje zapisu i wyjścia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script "{0}" saved.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003403Z" creationid="Agata Kaczmarska" creationdate="20210326T003403Z">
+        <seg>Zapisano skrypt "{0}".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script Result</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003302Z" creationid="Agata Kaczmarska" creationdate="20210326T003302Z">
+        <seg>Wynik skryptu</seg>
       </tuv>
     </tu>
     <tu>
@@ -2515,10 +2579,26 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a Script File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003155Z" creationid="Agata Kaczmarska" creationdate="20210326T003155Z">
+        <seg>Wybierz folder skryptu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select languagetool-server.jar</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T122954Z" creationid="monika" creationdate="20210325T122954Z">
         <seg>Wybierz languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selected Engine: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003246Z" creationid="Agata Kaczmarska" creationdate="20210326T003246Z">
+        <seg>Wybrany silnik: {0}</seg>
       </tuv>
     </tu>
     <tu>
