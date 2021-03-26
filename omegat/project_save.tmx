@@ -2704,8 +2704,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>SVN '{0}' execution start</seg>
       </tuv>
-      <tuv lang="PL" changeid="magda" changedate="20210325T124543Z" creationid="magda" creationdate="20210325T124543Z">
-        <seg>Wykonanie SVN rozpocząte</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210326T111138Z" creationid="magda" creationdate="20210325T124543Z">
+        <seg>Wykonanie SVN '{0}' rozpocząte</seg>
       </tuv>
     </tu>
     <tu>
