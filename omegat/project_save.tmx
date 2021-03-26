@@ -208,8 +208,8 @@
       <tuv lang="EN">
         <seg>&amp;Run</seg>
       </tuv>
-      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002752Z" creationid="Agata Kaczmarska" creationdate="20210326T002752Z">
-        <seg>&amp;Wykonać</seg>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T113524Z" creationid="Agata Kaczmarska" creationdate="20210326T002752Z">
+        <seg>&amp;Otwórz</seg>
       </tuv>
     </tu>
     <tu>
@@ -2893,6 +2893,8 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>What is the "engine"? Why is it translated as "Sprache" in German?
+</note>
       <tuv lang="EN">
         <seg>Selected Engine: {0}</seg>
       </tuv>
@@ -3630,8 +3632,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Use as Default Translation</seg>
       </tuv>
-      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T113406Z" creationid="Agata Kaczmarska" creationdate="20210326T002212Z">
-        <seg>Użyj jako standardowe tłumaczenie</seg>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T113441Z" creationid="Agata Kaczmarska" creationdate="20210326T002212Z">
+        <seg>Użyj jako standardowego tłumaczenia</seg>
       </tuv>
     </tu>
     <tu>
@@ -3796,6 +3798,7 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Should "ms elapsed" be translated?</note>
       <tuv lang="EN">
         <seg>done ({0} ms elapsed)</seg>
       </tuv>
