@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Edit</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003803Z" creationid="Agata Kaczmarska" creationdate="20210326T003803Z">
+        <seg>&amp;Edytuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable autotext</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T205517Z" creationid="magdalenaklocek" creationdate="20210319T115410Z">
@@ -98,6 +106,22 @@
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210322T124128Z" creationid="paulina" creationdate="20210322T124128Z">
         <seg>&amp;Włącz sugerowanie słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Find...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003815Z" creationid="Agata Kaczmarska" creationdate="20210326T003815Z">
+        <seg>&amp;Znajdź...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003951Z" creationid="Agata Kaczmarska" creationdate="20210326T003951Z">
+        <seg>&amp;Pomoc</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +186,14 @@
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210317T171319Z" creationid="jnnas10" creationdate="20210317T171319Z">
         <seg>&amp;Replace Next</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003822Z" creationid="Agata Kaczmarska" creationdate="20210326T003822Z">
+        <seg>&amp;Zamień...</seg>
       </tuv>
     </tu>
     <tu>
@@ -377,6 +409,14 @@
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T195516Z" creationid="beataporodzynska" creationdate="20210325T195516Z">
         <seg>Notatka jest tylko komentarzem do tego segmentu składającego się z tekstu źródłowego i tłumaczenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Scripts Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003756Z" creationid="Agata Kaczmarska" creationdate="20210326T003756Z">
+        <seg>Otwórz katalog skryptu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1253,6 +1293,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T133034Z" creationid="paulina" creationdate="20210320T133034Z">
         <seg>Polecenie dalszego zewnętrznego przetwarzania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extracted comments:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004103Z" creationid="Agata Kaczmarska" creationdate="20210326T004103Z">
+        <seg>Wyodrębnione komentarze:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2154,6 +2202,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003946Z" creationid="Agata Kaczmarska" creationdate="20210326T003946Z">
+        <seg>Wpisz nazwę setu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please enter username/password for {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T130622Z" creationid="magda" creationdate="20210325T130622Z">
@@ -2507,6 +2563,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save Current Set...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003924Z" creationid="Agata Kaczmarska" creationdate="20210326T003924Z">
+        <seg>Ustaw obecny set...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Script</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003323Z" creationid="Agata Kaczmarska" creationdate="20210326T003323Z">
@@ -2735,6 +2799,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210322T123717Z" creationid="paulina" creationdate="20210322T123717Z">
         <seg>Pokaż termin docelowy najpierw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Find Search Bar</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003853Z" creationid="Agata Kaczmarska" creationdate="20210326T003853Z">
+        <seg>Otwórz pasek wyszukiwania</seg>
       </tuv>
     </tu>
     <tu>
@@ -3170,6 +3242,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T115855Z" creationid="beataporodzynska" creationdate="20210325T115855Z">
         <seg>Tłumaczenie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translator comments:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004024Z" creationid="Agata Kaczmarska" creationdate="20210326T004024Z">
+        <seg>Komentarze tłumacza:</seg>
       </tuv>
     </tu>
     <tu>
