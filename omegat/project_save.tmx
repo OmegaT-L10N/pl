@@ -877,6 +877,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>What is a pseudo-translate TMX and what purpose does it serve?</note>
+      <tuv lang="EN">
+        <seg>Create pseudo-translate TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Create your own key then input it below.</seg>
       </tuv>
