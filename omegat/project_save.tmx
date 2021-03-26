@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Title Case</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210326T115538Z" creationid="monika" creationdate="20210326T115538Z">
+        <seg>&amp;Jak nazwy własne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Upper Case</seg>
       </tuv>
       <tuv lang="pl" changeid="monika" changedate="20210325T131321Z" creationid="monika" creationdate="20210325T131321Z">
@@ -1208,8 +1216,8 @@
       <tuv lang="en">
         <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
       </tuv>
-      <tuv lang="pl" changeid="monika" changedate="20210325T122942Z" creationid="monika" creationdate="20210325T122419Z">
-        <seg>Upewnij się czy została podana właściwa wersja API (adres URL powinien zawierać "/v2/").</seg>
+      <tuv lang="pl" changeid="monika" changedate="20210326T115236Z" creationid="monika" creationdate="20210325T122419Z">
+        <seg>Upewnij się, że została podana właściwa wersja API (adres URL powinien zawierać "/v2/").</seg>
       </tuv>
     </tu>
     <tu>
@@ -1854,8 +1862,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="en">
         <seg>LanguageTool is not available for your target language.</seg>
       </tuv>
-      <tuv lang="pl" changeid="monika" changedate="20210325T124012Z" creationid="monika" creationdate="20210325T124012Z">
-        <seg>LanguageTool nie jest dostęony dla twojego języka docelowego.</seg>
+      <tuv lang="pl" changeid="monika" changedate="20210326T115341Z" creationid="monika" creationdate="20210325T124012Z">
+        <seg>Program LanguageTool nie jest dostępny dla twojego języka docelowego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1886,8 +1894,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="en">
         <seg>LanguageTool will be disabled until the project is closed.</seg>
       </tuv>
-      <tuv lang="pl" changeid="monika" changedate="20210325T122745Z" creationid="monika" creationdate="20210325T122745Z">
-        <seg>LanguageTool zostanie zablokowany do momentu zamknięcia projektu.</seg>
+      <tuv lang="pl" changeid="monika" changedate="20210326T115300Z" creationid="monika" creationdate="20210325T122745Z">
+        <seg>Program LanguageTool zostanie zablokowany do momentu zamknięcia projektu.</seg>
       </tuv>
     </tu>
     <tu>
