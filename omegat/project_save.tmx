@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-5.3.0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -425,6 +425,12 @@
       </tuv>
       <tuv lang="pl" changeid="Agata Kaczmarska" changedate="20210326T003756Z" creationid="Agata Kaczmarska" creationdate="20210326T003756Z">
         <seg>Otwórz katalog skryptu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Aktionen? </note>
+      <tuv lang="en">
+        <seg>Actions &amp; Settings</seg>
       </tuv>
     </tu>
     <tu>
@@ -1080,6 +1086,14 @@
       </tuv>
       <tuv lang="pl" changeid="monika" changedate="20210319T115410Z" creationid="magdaradka" creationdate="20210317T171039Z">
         <seg>Czy chcesz utworzyć folder?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dock</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210326T112600Z" creationid="beataporodzynska" creationdate="20210326T112600Z">
+        <seg>Dołącz</seg>
       </tuv>
     </tu>
     <tu>
@@ -3522,6 +3536,14 @@ the server.</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211337Z" creationid="magdalenaklocek" creationdate="20210322T211337Z">
         <seg>Nieautoryzowane ządanie usługi TaaS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Undock</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210326T112823Z" creationid="beataporodzynska" creationdate="20210326T112823Z">
+        <seg>Odłącz</seg>
       </tuv>
     </tu>
     <tu>
