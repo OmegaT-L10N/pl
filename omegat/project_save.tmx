@@ -1285,6 +1285,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Event: project change - "{0}"</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210326T104334Z" creationid="Kasia Mędrzycka" creationdate="20210326T104334Z">
+        <seg>Zdarzenie: zmiana projektu - "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception while editing options:</seg>
       </tuv>
       <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T140703Z" creationid="AgataWojtera" creationdate="20210323T140703Z">
