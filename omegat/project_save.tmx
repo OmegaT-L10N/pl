@@ -317,6 +317,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;EMPTY&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002558Z" creationid="Agata Kaczmarska" creationdate="20210326T002558Z">
+        <seg>&lt;PUSTE&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;No suggestions&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T133915Z" creationid="paulina" creationdate="20210320T133915Z">
@@ -1313,6 +1321,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go To Segment Source</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002313Z" creationid="Agata Kaczmarska" creationdate="20210326T002313Z">
+        <seg>Przejdź do segmentu "Źródło"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Group {0} does not exist in search expression</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163501Z" creationid="magdaradka" creationdate="20210317T171158Z">
@@ -1863,6 +1879,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Multiple Translations</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002349Z" creationid="Agata Kaczmarska" creationdate="20210326T002349Z">
+        <seg>Poinformuj mnie, gdy segment ma więcej niż jedno tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nr of matching segments: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163717Z" creationid="magdaradka" creationdate="20210323T163717Z">
@@ -2189,8 +2213,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171004Z" creationid="magdaradka" creationdate="20210317T171004Z">
-        <seg>Register Identical Translation</seg>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002507Z" creationid="magdaradka" creationdate="20210317T171004Z">
+        <seg>Oznacz jako identyczne tłumaczenie</seg>
       </tuv>
     </tu>
     <tu>
@@ -2215,6 +2239,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140457Z" creationid="AgataWojtera" creationdate="20210323T140457Z">
         <seg>Usuń komentarze HTML w przetłumaczonym dokumencie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002432Z" creationid="Agata Kaczmarska" creationdate="20210326T002432Z">
+        <seg>Usuń tłumaczenie</seg>
       </tuv>
     </tu>
     <tu>
@@ -2439,6 +2471,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T123415Z" creationid="monika" creationdate="20210325T123415Z">
         <seg>Tryb pracy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set empty translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002422Z" creationid="Agata Kaczmarska" creationdate="20210326T002422Z">
+        <seg>Ustaw puste tłumaczenie</seg>
       </tuv>
     </tu>
     <tu>
