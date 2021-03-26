@@ -469,8 +469,8 @@
       <tuv lang="EN">
         <seg>Align project against {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004523Z" creationid="Agata Kaczmarska" creationdate="20210326T004523Z">
-        <seg>Zestaw projekt z{0}</seg>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T113944Z" creationid="Agata Kaczmarska" creationdate="20210326T004523Z">
+        <seg>Zestaw projekt z {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2968,6 +2968,13 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>What are "sets"? 
+</note>
+      <tuv lang="EN">
+        <seg>Sets</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Shortcut</seg>
       </tuv>
@@ -3005,6 +3012,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003853Z" creationid="Agata Kaczmarska" creationdate="20210326T003853Z">
         <seg>Otwórz pasek wyszukiwania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Replace Search Bar</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T113855Z" creationid="Agata Kaczmarska" creationdate="20210326T113855Z">
+        <seg>Pokaż narzędzie "Znajdź i zamień"</seg>
       </tuv>
     </tu>
     <tu>
