@@ -568,8 +568,8 @@
       <tuv lang="EN">
         <seg>Active segment target text</seg>
       </tuv>
-      <tuv lang="PL" changeid="wciecierska" changedate="20210327T204043Z" creationid="wciecierska" creationdate="20210327T204043Z">
-        <seg>Aktywuj plik tekstowy </seg>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210327T204100Z" creationid="wciecierska" creationdate="20210327T204043Z">
+        <seg>Aktywuj plik tekstowy segmentu docelowego </seg>
       </tuv>
     </tu>
     <tu>
