@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Browse Online</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T183651Z" creationid="monika" creationdate="20210327T183651Z">
+        <seg>&amp;Szukaj online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Browse TaaS Collections...</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210323T144351Z" creationid="magdalenaklocek" creationdate="20210323T144351Z">
@@ -647,6 +655,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T183842Z" creationid="monika" creationdate="20210327T183842Z">
+        <seg>Autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-text configuration</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210226Z" creationid="magdalenaklocek" creationdate="20210322T205950Z">
@@ -843,6 +859,14 @@
       </tuv>
       <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T142003Z" creationid="AgataWojtera" creationdate="20210323T142003Z">
         <seg>Chiński</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T183828Z" creationid="monika" creationdate="20210327T183828Z">
+        <seg>Klasa</seg>
       </tuv>
     </tu>
     <tu>
@@ -1906,6 +1930,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installed plugins:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T183823Z" creationid="monika" creationdate="20210327T183823Z">
+        <seg>Zainstalowane wtyczki:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Instant Start</seg>
       </tuv>
       <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T203630Z" creationid="beataporodzynska" creationdate="20210325T203630Z">
@@ -2699,6 +2731,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="pl" changeid="magdaradka" changedate="20210317T171216Z" creationid="magdaradka" creationdate="20210317T171216Z">
         <seg>Plugin successfully loaded from class '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugins</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T183642Z" creationid="monika" creationdate="20210327T183642Z">
+        <seg>Wtyczki</seg>
       </tuv>
     </tu>
     <tu>
@@ -3660,6 +3700,14 @@ bieżący katalog.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are many plugins available for OmegaT online.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T183759Z" creationid="monika" creationdate="20210327T183759Z">
+        <seg>Online dostępnych jest wiele wtyczek dla programu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There was an error initializing LanguageTool.</seg>
       </tuv>
       <tuv lang="pl" changeid="monika" changedate="20210325T124028Z" creationid="monika" creationdate="20210325T124028Z">
@@ -3988,6 +4036,14 @@ the server.</seg>
       </tuv>
       <tuv lang="pl" changeid="magdaradka" changedate="20210323T170624Z" creationid="magdaradka" creationdate="20210323T170624Z">
         <seg>Wariant pominięto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T183835Z" creationid="monika" creationdate="20210327T183835Z">
+        <seg>Wersja</seg>
       </tuv>
     </tu>
     <tu>
