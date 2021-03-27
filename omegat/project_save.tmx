@@ -1616,6 +1616,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Found in:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T183000Z" creationid="monika" creationdate="20210327T183000Z">
+        <seg>Znajduje się w:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>French</seg>
       </tuv>
       <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141932Z" creationid="AgataWojtera" creationdate="20210323T141932Z">
@@ -1862,6 +1870,14 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Kaczmarska" changedate="20210326T004246Z" creationid="Agata Kaczmarska" creationdate="20210326T004246Z">
         <seg>Inicjalizacja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Match or Selection Into Translation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T182751Z" creationid="monika" creationdate="20210327T182751Z">
+        <seg>Wstaw wynik lub dopasowanie do tłumaczenia</seg>
       </tuv>
     </tu>
     <tu>
@@ -2184,6 +2200,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="pl" changeid="monika" changedate="20210327T182239Z" creationid="monika" creationdate="20210327T182239Z">
         <seg>Zaznacz &amp;spacje niełamiące</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Glossary Matches</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T182725Z" creationid="monika" creationdate="20210327T182725Z">
+        <seg>Zaznacz wyniki z glosariusza</seg>
       </tuv>
     </tu>
     <tu>
@@ -2860,6 +2884,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Kaczmarska" changedate="20210326T002432Z" creationid="Agata Kaczmarska" creationdate="20210326T002432Z">
         <seg>Usuń tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace Translation with Match or Selection</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T182810Z" creationid="monika" creationdate="20210327T182810Z">
+        <seg>Zastąp tłumaczenie wynikiem lub dopasowaniem</seg>
       </tuv>
     </tu>
     <tu>
@@ -4052,6 +4084,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T134722Z" creationid="beataporodzynska" creationdate="20210325T134722Z">
         <seg>Twój system operacyjny nie pozwolił OmegaT na utworzenie folderu konfiguracyjnego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[Fuzzy]</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T182937Z" creationid="monika" creationdate="20210327T182937Z">
+        <seg>[Dopasowanie rozmyte]</seg>
       </tuv>
     </tu>
     <tu>
