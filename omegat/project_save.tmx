@@ -1029,6 +1029,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionaries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210317T170023Z" creationid="Aleksandra" creationdate="20210317T170023Z">
+        <seg>Dictionaries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionary</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T124915Z" creationid="beataporodzynska" creationdate="20210325T124915Z">
@@ -1556,6 +1564,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210400Z" creationid="magdalenaklocek" creationdate="20210322T210400Z">
         <seg>Całość tekstu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General Preferences</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210317T170025Z" creationid="Aleksandra" creationdate="20210317T170025Z">
+        <seg>General Preferences</seg>
       </tuv>
     </tu>
     <tu>
@@ -2584,6 +2600,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Prevent data loss</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210317T171136Z" creationid="Aleksandra" creationdate="20210317T171136Z">
+        <seg>Prevent data loss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211642Z" creationid="magdalenaklocek" creationdate="20210322T211642Z">
@@ -3053,6 +3077,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210327Z" creationid="magdalenaklocek" creationdate="20210322T210327Z">
         <seg>Skrót</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shortcuts customization</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210317T170022Z" creationid="Aleksandra" creationdate="20210317T170022Z">
+        <seg>Shortcuts customization</seg>
       </tuv>
     </tu>
     <tu>
