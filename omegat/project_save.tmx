@@ -1222,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not hesitate to post in the language you feel the most familiar with.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T190419Z" creationid="Aleksandra" creationdate="20210327T190419Z">
+        <seg>Pisz śmiało w języku, w którym czujesz się najlepiej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T135714Z" creationid="AgataWojtera" creationdate="20210323T135714Z">
@@ -1918,6 +1926,14 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004246Z" creationid="Agata Kaczmarska" creationdate="20210326T004246Z">
         <seg>Inicjalizacja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initially, that is when the project is created, the main TM of the project, &lt;f0&gt;project_save.tmx&lt;/f0&gt; is empty.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T190641Z" creationid="Aleksandra" creationdate="20210327T190641Z">
+        <seg>Initially, that is when the project is created, the main TM of the project, &lt;f0&gt;project_save.tmx&lt;/f0&gt; is empty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3032,6 +3048,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reuse Translation Memories</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T190502Z" creationid="Aleksandra" creationdate="20210327T190502Z">
+        <seg>Ponowne wykorzystanie pamięci tłumaczeniowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T123856Z" creationid="monika" creationdate="20210325T123856Z">
@@ -3325,6 +3349,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210317T170022Z" creationid="Aleksandra" creationdate="20210317T170022Z">
         <seg>Shortcuts customization</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Should you run into problems, post a message in the &lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; user group&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T190337Z" creationid="Aleksandra" creationdate="20210327T190337Z">
+        <seg>W razie problemu napisz wiadomość w &lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; user group&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4072,6 +4104,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use these Help texts to get started.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T190314Z" creationid="Aleksandra" creationdate="20210327T190314Z">
+        <seg>Żeby rozpocząć, skorzystaj z tych tekstów pomocniczych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User denied credentials</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T130058Z" creationid="paulina" creationdate="20210320T130058Z">
@@ -4302,6 +4342,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140043Z" creationid="AgataWojtera" creationdate="20210323T140043Z">
         <seg>href (URL linków)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.org/support</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T190245Z" creationid="Aleksandra" creationdate="20210327T190245Z">
+        <seg>https://omegat.org/support</seg>
       </tuv>
     </tu>
     <tu>
