@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(+{0} more)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T183102Z" creationid="monika" creationdate="20210327T183102Z">
+        <seg>(+{0} więcej)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(You will still able to use OmegaT
 3.6 to edit this project as a team project.)</seg>
       </tuv>
@@ -3723,6 +3731,15 @@ the server.</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T131330Z" creationid="paulina" creationdate="20210320T131330Z">
         <seg>To jest prawidłowy plik projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>czy jest to nawiązanie do poprzedniego segemntu (found in) i czy trzeba w związku z tym odmienić?</note>
+      <tuv lang="en">
+        <seg>This project</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T183054Z" creationid="monika" creationdate="20210327T183054Z">
+        <seg>Tym projekcie</seg>
       </tuv>
     </tu>
     <tu>
