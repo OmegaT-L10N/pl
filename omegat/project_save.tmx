@@ -2540,6 +2540,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modification info</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210327T215348Z" creationid="wciecierska" creationdate="20210327T215348Z">
+        <seg>Informacje o modyfikacjach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144407Z" creationid="magdalenaklocek" creationdate="20210323T144407Z">
@@ -2632,6 +2640,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T133259Z" creationid="paulina" creationdate="20210320T133259Z">
         <seg>Spacja niełamiąca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-unique segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210327T215331Z" creationid="wciecierska" creationdate="20210327T215331Z">
+        <seg>Segmenty powtarzające się</seg>
       </tuv>
     </tu>
     <tu>
