@@ -3561,6 +3561,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Take particular care when making changes to the files in &lt;l0&gt;/source&lt;/l0&gt; while in the middle of a project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T185943Z" creationid="Aleksandra" creationdate="20210327T185819Z">
+        <seg>Zachowaj szczególną ostrożność podczas wprowadzania zmian do plików w folderze &lt;l0&gt;/source&lt;/l0&gt; gdy jesteś w samym środku projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target count</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144452Z" creationid="magdalenaklocek" creationdate="20210323T144452Z">
@@ -4004,6 +4012,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T165916Z" creationid="magdaradka" creationdate="20210317T172751Z">
         <seg>Niewspierana wersja pliku z projektem ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Until you are familiar with &lt;a0&gt;OmegaT&lt;/a0&gt;, create translated files at regular intervals and check that the translated file contains the latest version of your translation.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T185829Z" creationid="Aleksandra" creationdate="20210327T185804Z">
+        <seg>Dopóki nie zapoznasz się z programem &lt;a0&gt;OmegaT&lt;/a0&gt;, tłumacz pliki w regularnych odstępach czasu i sprawdzaj, czy tłumaczony plik zawiera ostatnią wersję twojego tłumaczenia.</seg>
       </tuv>
     </tu>
     <tu>
