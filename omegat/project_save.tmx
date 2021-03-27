@@ -3737,6 +3737,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210327T220003Z" creationid="wciecierska" creationdate="20210327T220003Z">
+        <seg>Segmenty źródłowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spanish</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141927Z" creationid="AgataWojtera" creationdate="20210323T141927Z">
@@ -4340,6 +4348,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T185829Z" creationid="Aleksandra" creationdate="20210327T185804Z">
         <seg>Dopóki nie zapoznasz się z programem &lt;a0&gt;OmegaT&lt;/a0&gt;, tłumacz pliki w regularnych odstępach czasu i sprawdzaj, czy tłumaczony plik zawiera ostatnią wersję twojego tłumaczenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210327T215951Z" creationid="wciecierska" creationdate="20210327T215951Z">
+        <seg>Segmenty nieprzetłumaczone</seg>
       </tuv>
     </tu>
     <tu>
