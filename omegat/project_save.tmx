@@ -3588,6 +3588,14 @@ bieżący katalog.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The current project must be reloaded in order to apply these changes</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T183622Z" creationid="monika" creationdate="20210327T183622Z">
+        <seg>W celu wprowadzenia tych zmian konieczne jest ponowne załadowanie bieżącego projektuchanges</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project cannot be verified</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Kaczmarska" changedate="20210326T004546Z" creationid="Agata Kaczmarska" creationdate="20210326T004546Z">
