@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T182657Z" creationid="monika" creationdate="20210327T182657Z">
+        <seg>Wymuszona &amp;zmiana czcionki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Kaczmarska" changedate="20210326T114119Z" creationid="Agata Kaczmarska" creationdate="20210326T004523Z">
@@ -2152,6 +2160,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="pl" changeid="monika" changedate="20210327T182332Z" creationid="monika" creationdate="20210327T182332Z">
         <seg>Zazn&amp;acz znaki niedrukowane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T182501Z" creationid="monika" creationdate="20210327T182501Z">
+        <seg>Zaznacz &amp;segmenty wypełnione automatycznie</seg>
       </tuv>
     </tu>
     <tu>
