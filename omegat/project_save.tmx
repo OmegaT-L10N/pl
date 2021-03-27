@@ -461,6 +461,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210327T202235Z" creationid="wciecierska" creationdate="20210327T195231Z">
+        <seg>&lt;html&gt;Dodaj wzory używając (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T130923Z" creationid="magda" creationdate="20210325T130755Z">
@@ -2328,6 +2336,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T182001Z" creationid="monika" creationdate="20210327T182001Z">
         <seg>Zaznacz segmenty &amp;z notatkami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mask</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210327T195111Z" creationid="wciecierska" creationdate="20210327T195111Z">
+        <seg>Maska</seg>
       </tuv>
     </tu>
     <tu>
