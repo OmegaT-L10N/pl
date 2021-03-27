@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable TaaS terminology lookup</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210327T194725Z" creationid="wciecierska" creationdate="20210327T194725Z">
+        <seg>&amp;Zezwól na sprawdzanie terminologii TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable autotext</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T205517Z" creationid="magdalenaklocek" creationdate="20210319T115410Z">
@@ -473,6 +481,14 @@
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T195516Z" creationid="beataporodzynska" creationdate="20210325T195516Z">
         <seg>Notatka jest tylko komentarzem do tego segmentu składającego się z tekstu źródłowego i tłumaczenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>API Key:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210327T194102Z" creationid="wciecierska" creationdate="20210327T194102Z">
+        <seg>Klucz API:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3565,6 +3581,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144402Z" creationid="magdalenaklocek" creationdate="20210323T144402Z">
         <seg>Kolekcja TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS Terminology</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210327T194110Z" creationid="wciecierska" creationdate="20210327T194110Z">
+        <seg>Terminologia TaaS</seg>
       </tuv>
     </tu>
     <tu>
