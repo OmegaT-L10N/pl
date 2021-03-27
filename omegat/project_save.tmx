@@ -1103,8 +1103,8 @@
       <tuv lang="en">
         <seg>Display &amp;None</seg>
       </tuv>
-      <tuv lang="pl" changeid="monika" changedate="20210327T182049Z" creationid="monika" creationdate="20210327T182049Z">
-        <seg>Nie wyświetlaj &amp;żadnego</seg>
+      <tuv lang="pl" changeid="monika" changedate="20210327T182100Z" creationid="monika" creationdate="20210327T182049Z">
+        <seg>Nie wyświetlaj &amp;niczego</seg>
       </tuv>
     </tu>
     <tu>
@@ -1113,6 +1113,22 @@
       </tuv>
       <tuv lang="pl" changeid="monika" changedate="20210327T181910Z" creationid="monika" creationdate="20210327T181910Z">
         <seg>Pokaż &amp;Segmenty Źródłowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display for &amp;All Segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T182150Z" creationid="monika" creationdate="20210327T182150Z">
+        <seg>Wyświetl dla &amp;wszystkich segmentów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display for Current &amp;Segment</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T182134Z" creationid="monika" creationdate="20210327T182134Z">
+        <seg>Wyświetl dla aktywnych &amp;segmentów</seg>
       </tuv>
     </tu>
     <tu>
@@ -2128,6 +2144,30 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="pl" changeid="monika" changedate="20210325T123051Z" creationid="monika" creationdate="20210325T123051Z">
         <seg>Reguły ustalone manualnie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mar&amp;k Whitespace</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T182332Z" creationid="monika" creationdate="20210327T182332Z">
+        <seg>Zazn&amp;acz znaki niedrukowane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T182443Z" creationid="monika" creationdate="20210327T182443Z">
+        <seg>Zaznacz &amp;znaki kontroli algorytmu BiDi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark &amp;Non-breakable Spaces</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T182239Z" creationid="monika" creationdate="20210327T182239Z">
+        <seg>Zaznacz &amp;spacje niełamiące</seg>
       </tuv>
     </tu>
     <tu>
