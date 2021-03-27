@@ -2212,6 +2212,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make regular copies of the file /omegat/project_save.tmx to backup media, such as CD or DVD.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T185654Z" creationid="Aleksandra" creationdate="20210327T185654Z">
+        <seg>Rób regularne kopie pliku /omegat/project_save.tmx na nośnikach zapasowych, takich jak CD albo DVD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manually defined rules</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T123051Z" creationid="monika" creationdate="20210325T123051Z">
@@ -3824,6 +3832,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To avoid losing important data:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T185557Z" creationid="Aleksandra" creationdate="20210327T185557Z">
+        <seg>Aby uniknąć utraty ważnych danych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174746Z" creationid="AgataWojtera" creationdate="20210317T174746Z">
@@ -4278,6 +4294,38 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T164730Z" creationid="magdaradka" creationdate="20210323T164730Z">
         <seg>Załadowano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>open the project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T185543Z" creationid="Aleksandra" creationdate="20210327T185543Z">
+        <seg>otwórz projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rename it &lt;l0&gt;project_save.tmx&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T185535Z" creationid="Aleksandra" creationdate="20210327T185535Z">
+        <seg>zmień nazwę na&lt;l0&gt;project_save.tmx&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rename the current &lt;f0&gt;project_save.tmx &lt;/f0&gt;file (e.g. to &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T185435Z" creationid="Aleksandra" creationdate="20210327T185435Z">
+        <seg>zmień nazwę pliku &lt;f0&gt;project_save.tmx &lt;/f0&gt; (np. na &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>select the backup translation memory that is the most likely to contain the data you are looking for</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T185522Z" creationid="Aleksandra" creationdate="20210327T185522Z">
+        <seg>wybierz tę kopię pamięci tłumaczeniowej, która najprawdopodobniej zawiera dane, jakich szukasz</seg>
       </tuv>
     </tu>
     <tu>
