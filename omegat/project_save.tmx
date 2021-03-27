@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Remove</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210327T202338Z" creationid="wciecierska" creationdate="20210327T202338Z">
+        <seg>&amp;Usuń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Replace Next</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210317T171319Z" creationid="jnnas10" creationdate="20210317T171319Z">
@@ -755,6 +763,14 @@
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T165842Z" creationid="magdaradka" creationdate="20210323T165842Z">
         <seg>Zapis preferencji w {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210327T202342Z" creationid="wciecierska" creationdate="20210327T202342Z">
+        <seg>Tło</seg>
       </tuv>
     </tu>
     <tu>
@@ -3693,6 +3709,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210322T124158Z" creationid="paulina" creationdate="20210322T124158Z">
         <seg>Terminy z kilkoma celami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210327T202350Z" creationid="wciecierska" creationdate="20210327T202350Z">
+        <seg>Pliki tekstowe</seg>
       </tuv>
     </tu>
     <tu>
