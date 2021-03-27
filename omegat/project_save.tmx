@@ -3823,6 +3823,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This TM gradually becomes filled during the translation.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T191027Z" creationid="Aleksandra" creationdate="20210327T191027Z">
+        <seg>This TM gradually becomes filled during the translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This URL appears to be invalid.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T131410Z" creationid="paulina" creationdate="20210320T131410Z">
