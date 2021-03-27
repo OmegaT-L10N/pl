@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210327T202329Z" creationid="wciecierska" creationdate="20210327T202329Z">
+        <seg>&amp;Dodaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Allow only unique characters</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143857Z" creationid="magdalenaklocek" creationdate="20210323T143857Z">
