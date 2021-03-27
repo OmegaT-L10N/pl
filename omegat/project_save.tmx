@@ -248,8 +248,8 @@
       <tuv lang="en">
         <seg>&amp;Sentence Case</seg>
       </tuv>
-      <tuv lang="pl" changeid="monika" changedate="20210326T115706Z" creationid="monika" creationdate="20210326T115706Z">
-        <seg>&amp;Pisanie zdaniami</seg>
+      <tuv lang="pl" changeid="monika" changedate="20210327T181828Z" creationid="monika" creationdate="20210326T115706Z">
+        <seg>&amp;Duża pierwsza litera zdania</seg>
       </tuv>
     </tu>
     <tu>
@@ -280,8 +280,8 @@
       <tuv lang="en">
         <seg>&amp;Title Case</seg>
       </tuv>
-      <tuv lang="pl" changeid="monika" changedate="20210327T181345Z" creationid="monika" creationdate="20210326T115538Z">
-        <seg>&amp;Duża pierwsza litera</seg>
+      <tuv lang="pl" changeid="monika" changedate="20210327T181743Z" creationid="monika" creationdate="20210326T115538Z">
+        <seg>&amp;Duża pierwsza litera nazw własnych</seg>
       </tuv>
     </tu>
     <tu>
