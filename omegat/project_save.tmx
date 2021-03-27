@@ -4224,6 +4224,14 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>close the project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T185352Z" creationid="Aleksandra" creationdate="20210327T185352Z">
+        <seg>zamknij projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Should "ms elapsed" be translated?</note>
       <tuv lang="EN">
         <seg>done ({0} ms elapsed)</seg>
