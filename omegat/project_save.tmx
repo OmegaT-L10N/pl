@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T182026Z" creationid="monika" creationdate="20210327T182026Z">
+        <seg>&amp;Informacja dotycząca modyfikacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Never</seg>
       </tuv>
       <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T135933Z" creationid="AgataWojtera" creationdate="20210323T135933Z">
@@ -290,6 +298,14 @@
       </tuv>
       <tuv lang="pl" changeid="monika" changedate="20210325T131321Z" creationid="monika" creationdate="20210325T131321Z">
         <seg>&amp;Duże litery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;View</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T181837Z" creationid="monika" creationdate="20210327T181837Z">
+        <seg>&amp;Widok</seg>
       </tuv>
     </tu>
     <tu>
@@ -1081,6 +1097,22 @@
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210003Z" creationid="magdalenaklocek" creationdate="20210322T210003Z">
         <seg>Wyświetlacz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;None</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T182049Z" creationid="monika" creationdate="20210327T182049Z">
+        <seg>Nie wyświetlaj &amp;żadnego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Source Segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T181910Z" creationid="monika" creationdate="20210327T181910Z">
+        <seg>Pokaż &amp;Segmenty Źródłowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -2096,6 +2128,22 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="pl" changeid="monika" changedate="20210325T123051Z" creationid="monika" creationdate="20210325T123051Z">
         <seg>Reguły ustalone manualnie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Non-Unique Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T181938Z" creationid="monika" creationdate="20210327T181938Z">
+        <seg>Zaznacz powtarzające się se&amp;gmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Segments &amp;with Notes</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210327T182001Z" creationid="monika" creationdate="20210327T182001Z">
+        <seg>Zaznacz segmenty &amp;z notatkami</seg>
       </tuv>
     </tu>
     <tu>
