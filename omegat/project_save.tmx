@@ -1885,6 +1885,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the source file is modified after you have begun translating, &lt;a1&gt;OmegaT&lt;/a1&gt; may be unable to find a segment that you have already translated.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T190241Z" creationid="Aleksandra" creationdate="20210327T190241Z">
+        <seg>Jeśli plik źródłowy został zmieniony po tym, jak już zacząłeś tłumaczenie, możliwe, że &lt;a1&gt;OmegaT&lt;/a1&gt; nie znajdzie tego przetłumaczonego segmentu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you believe that you have lost translation data, you can use the following procedure to restore the project to its most recently saved state, usually not older than approximately 10 minutes or so:</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T185123Z" creationid="Aleksandra" creationdate="20210327T185123Z">
