@@ -405,6 +405,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a robust application.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T175754Z" creationid="Aleksandra" creationdate="20210327T175754Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a robust application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T130923Z" creationid="magda" creationdate="20210325T130755Z">
@@ -1716,6 +1724,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210317T170140Z" creationid="Komputer" creationdate="20210317T170140Z">
         <seg>How To...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T180129Z" creationid="Aleksandra" creationdate="20210327T180129Z">
+        <seg>Korzystając z programu  &lt;a1&gt;OmegaT&lt;/a1&gt;, tak jak z każdej innej aplikacji, powinieneś zachować środki ostrożności, by zapobiec utracie danych.</seg>
       </tuv>
     </tu>
     <tu>
