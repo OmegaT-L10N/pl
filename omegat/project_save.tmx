@@ -479,8 +479,8 @@
       <tuv lang="EN">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="PL" changeid="wciecierska" changedate="20210327T202235Z" creationid="wciecierska" creationdate="20210327T195231Z">
-        <seg>&lt;html&gt;Dodaj wzory używając (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210327T204633Z" creationid="wciecierska" creationdate="20210327T195231Z">
+        <seg>&lt;html&gt;Dodaj wzorce używając symboli wieloznacznych (styl Apache Ant): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1109,6 +1109,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom Colours Selection</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210327T204819Z" creationid="wciecierska" creationdate="20210327T204819Z">
+        <seg>Zaznaczenie dostosowanych kolorów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom table</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143753Z" creationid="magdalenaklocek" creationdate="20210323T143753Z">
@@ -1644,8 +1652,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Exclusion Patterns</seg>
       </tuv>
-      <tuv lang="PL" changeid="wciecierska" changedate="20210327T195058Z" creationid="wciecierska" creationdate="20210327T195058Z">
-        <seg>Wzory wykluczeń</seg>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210327T204642Z" creationid="wciecierska" creationdate="20210327T195058Z">
+        <seg>Wzorce wykluczeń</seg>
       </tuv>
     </tu>
     <tu>
@@ -3649,6 +3657,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TaaS</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210327T204515Z" creationid="wciecierska" creationdate="20210327T204515Z">
+        <seg>TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TaaS API key not set.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210851Z" creationid="magdalenaklocek" creationdate="20210322T210851Z">
@@ -3701,6 +3717,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004322Z" creationid="Agata Kaczmarska" creationdate="20210326T004322Z">
         <seg>Weryfikacja znacznika nie powiodła się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210327T204445Z" creationid="wciecierska" creationdate="20210327T204445Z">
+        <seg>Znaczniki</seg>
       </tuv>
     </tu>
     <tu>
@@ -4028,6 +4052,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004503Z" creationid="Agata Kaczmarska" creationdate="20210326T004503Z">
         <seg>Nie odnaleziono lokalizacji przetłumaczonych plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210327T204417Z" creationid="wciecierska" creationdate="20210327T204417Z">
+        <seg>Segmenty przetłumaczone</seg>
       </tuv>
     </tu>
     <tu>
