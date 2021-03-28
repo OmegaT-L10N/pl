@@ -1717,6 +1717,9 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Executing script {0} (event {1})</seg>
       </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T191116Z">
+        <seg>Executing script {0} (event {1})</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -4184,6 +4187,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To speed up this process, existing translations can be reused.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T191033Z" creationid="Aleksandra" creationdate="20210327T191033Z">
+        <seg>To speed up this process, existing translations can be reused.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translate the following attributes:</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140023Z" creationid="AgataWojtera" creationdate="20210323T140023Z">
@@ -4500,6 +4511,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T183115Z" creationid="Aleksandra" creationdate="20210327T180136Z">
         <seg>Kiedy tłumaczysz plik, &lt;a2&gt;OmegaT&lt;/a2&gt; przechowuje go w pamięci tłumaczeniowej &lt;l3&gt;project_save.tmx&lt;/l3&gt;, który znajduje się w podfolderze &lt;l4&gt;/omegat&lt;/l4&gt; projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T191135Z" creationid="Aleksandra" creationdate="20210327T191135Z">
+        <seg>Whitespace</seg>
       </tuv>
     </tu>
     <tu>
