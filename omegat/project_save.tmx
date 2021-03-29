@@ -4343,6 +4343,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T180817Z" creationid="Paula" creationdate="20210329T180817Z">
+        <seg>Niektóre słowniki są dostępne bez jakichkolwiek warunków (lub są tzw. "swobodnego użytku") jednak inne (jak te z powyższej listy) podlegają licencji GMU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211215Z" creationid="magdalenaklocek" creationdate="20210322T211215Z">
