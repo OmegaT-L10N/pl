@@ -48,8 +48,8 @@
       <tuv lang="EN">
         <seg>&amp;Always Confirm Quit</seg>
       </tuv>
-      <tuv lang="PL" changeid="Paula" changedate="20210329T223036Z" creationid="Paula" creationdate="20210329T223036Z">
-        <seg>Zawsze potwierdzać przed wyjściem</seg>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T231756Z" creationid="Paula" creationdate="20210329T223036Z">
+        <seg>Zawsze potwierdzaj przed wyjściem</seg>
       </tuv>
     </tu>
     <tu>
@@ -4666,6 +4666,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171215Z" creationid="magdaradka" creationdate="20210317T171215Z">
         <seg>Segment source text into paragraphs on:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment {0,number,#}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T231823Z" creationid="Paula" creationdate="20210329T231823Z">
+        <seg>Segment {0,numer,#}</seg>
       </tuv>
     </tu>
     <tu>
