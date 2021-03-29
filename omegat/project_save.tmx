@@ -5266,6 +5266,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T175711Z" creationid="Paula" creationdate="20210329T175711Z">
+        <seg>Użyj narzędzia "untar" do rozpakowywania plików (lub jego odpowiednik, np.&lt;f0&gt; winrar&lt;/f0&gt;dla Windows), aby rozpakować zawartość pliku do folderu "dictionnary" (słownik) projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User denied credentials</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T130058Z" creationid="paulina" creationdate="20210320T130058Z">
