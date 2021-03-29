@@ -3178,6 +3178,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T180250Z" creationid="Paula" creationdate="20210329T180250Z">
+        <seg>Uwaga: Oprócz dostępu do słowników "źródło-cel", korzystając z funkcji Słownik można uzyskać dostęp do informacji takich jak:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142437Z" creationid="AgataWojtera" creationdate="20210323T142311Z">
@@ -4840,6 +4848,14 @@ bieżący katalog.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T183759Z" creationid="monika" creationdate="20210327T183759Z">
         <seg>Online dostępnych jest wiele wtyczek dla programu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T175825Z" creationid="Paula" creationdate="20210329T175825Z">
+        <seg>Powinny się w nim znajdować trzy pliki z rozszerzeniami &lt;e1&gt;dz, idx &lt;/e1&gt;oraz&lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
