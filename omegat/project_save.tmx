@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210329T101146Z" creationid="Komputer" creationdate="20210329T101146Z">
+        <seg>[fuzzy]&amp;Przeglądaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Browse Online</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T183651Z" creationid="monika" creationdate="20210327T183651Z">
@@ -3223,6 +3231,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003601Z" creationid="Agata Kaczmarska" creationdate="20210326T003601Z">
         <seg>Usuń skrypt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove Ta&amp;gs</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210329T101202Z" creationid="Komputer" creationdate="20210329T101202Z">
+        <seg>Remove Ta&amp;gs</seg>
       </tuv>
     </tu>
     <tu>
