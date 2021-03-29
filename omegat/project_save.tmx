@@ -4054,6 +4054,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T174715Z" creationid="Paula" creationdate="20210329T174715Z">
+        <seg>Wyszukaj żądaną kombinację językową , np. klikając w linki do &lt;u0&gt;słowników proponowanych przez OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search thread died unexpectedly!</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163624Z" creationid="magdaradka" creationdate="20210323T163624Z">
