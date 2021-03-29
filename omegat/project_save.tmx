@@ -930,6 +930,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-Completion</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T222243Z" creationid="Paula" creationdate="20210329T222243Z">
+        <seg>Automatyczne wpisywanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-text configuration</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210226Z" creationid="magdalenaklocek" creationdate="20210322T205950Z">
@@ -2466,6 +2474,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173907Z" creationid="AgatoZiemniak" creationdate="20210322T173907Z">
         <seg>Wzór wyróznienia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Completion</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T222537Z" creationid="Paula" creationdate="20210329T222537Z">
+        <seg>Wpisywanie z historii</seg>
       </tuv>
     </tu>
     <tu>
@@ -4739,6 +4755,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141959Z" creationid="AgataWojtera" creationdate="20210323T141959Z">
         <seg>Szwedzki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch views with {0} and {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T222222Z" creationid="Paula" creationdate="20210329T222222Z">
+        <seg>Zmiana widoku za pomocą {0} i {1}</seg>
       </tuv>
     </tu>
     <tu>
