@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T221939Z" creationid="Paula" creationdate="20210329T221939Z">
+        <seg>Automatyczne wyświetlanie istotnych sugestii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Show in Editor context menu</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210026Z" creationid="Aleksandra" creationdate="20210329T210026Z">
@@ -4234,6 +4242,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003124Z" creationid="Agata Kaczmarska" creationdate="20210326T003124Z">
         <seg>Katalog skryptów:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T221757Z" creationid="Paula" creationdate="20210329T221757Z">
+        <seg>Wyszukiwanie w słownikach</seg>
       </tuv>
     </tu>
     <tu>
