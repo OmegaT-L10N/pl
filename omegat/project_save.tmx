@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>&amp;About...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T223521Z" creationid="Paula" creationdate="20210329T223521Z">
+        <seg>O programie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Add</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210327T202329Z" creationid="wciecierska" creationdate="20210327T202329Z">
@@ -110,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T223636Z" creationid="Paula" creationdate="20210329T223636Z">
+        <seg>Wyszukiwanie aktualizacji...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163935Z" creationid="magdaradka" creationdate="20210323T163935Z">
@@ -208,8 +224,16 @@
       <tuv lang="EN">
         <seg>&amp;Help</seg>
       </tuv>
-      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003951Z" creationid="Agata Kaczmarska" creationdate="20210326T003951Z">
-        <seg>&amp;Pomoc</seg>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T223350Z" creationid="Agata Kaczmarska" creationdate="20210326T003951Z">
+        <seg>Pomoc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Last Changes...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T223533Z" creationid="Paula" creationdate="20210329T223533Z">
+        <seg>Ostatnie zmiany...</seg>
       </tuv>
     </tu>
     <tu>
@@ -274,6 +298,14 @@
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002638Z" creationid="Agata Kaczmarska" creationdate="20210326T002638Z">
         <seg>&amp;Otwórz skrypt...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Preferences...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T223338Z" creationid="Paula" creationdate="20210329T223338Z">
+        <seg>Preferencje...</seg>
       </tuv>
     </tu>
     <tu>
@@ -442,6 +474,14 @@
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T131321Z" creationid="monika" creationdate="20210325T131321Z">
         <seg>&amp;Duże litery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;User's Manual...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T223432Z" creationid="Paula" creationdate="20210329T223432Z">
+        <seg>Przewodnik użytkownika</seg>
       </tuv>
     </tu>
     <tu>
@@ -2870,6 +2910,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T133403Z" creationid="beataporodzynska" creationdate="20210325T133403Z">
         <seg>Klucz:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>L&amp;og...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T223553Z" creationid="Paula" creationdate="20210329T223553Z">
+        <seg>Dziennik...</seg>
       </tuv>
     </tu>
     <tu>
