@@ -3781,6 +3781,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T224908Z" creationid="Paula" creationdate="20210329T224908Z">
+        <seg>Rozwiąż problemy z tagami przed ponownym skorzystaniem z funkcji Utwórz przetłumaczone dokumenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please double-check it.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T131433Z" creationid="paulina" creationdate="20210320T131433Z">
