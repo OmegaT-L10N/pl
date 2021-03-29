@@ -1466,8 +1466,8 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       <tuv lang="EN">
         <seg>Dictionaries</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aleksandra" changedate="20210317T170023Z" creationid="Aleksandra" creationdate="20210317T170023Z">
-        <seg>Dictionaries</seg>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T172613Z" creationid="Aleksandra" creationdate="20210317T170023Z">
+        <seg>Słowniki</seg>
       </tuv>
     </tu>
     <tu>
@@ -2354,6 +2354,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210317T170140Z" creationid="Komputer" creationdate="20210317T170140Z">
         <seg>How To...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to download and install dictionaries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T172737Z" creationid="Paula" creationdate="20210329T172737Z">
+        <seg>Jak ściągać i instalować słowniki</seg>
       </tuv>
     </tu>
     <tu>
