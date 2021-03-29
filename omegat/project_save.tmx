@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T221715Z" creationid="Paula" creationdate="20210329T221715Z">
+        <seg>Automatyczne wyszukiwanie tekstu segmentu w słowniku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back in History</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171014Z" creationid="magdaradka" creationdate="20210317T171014Z">
