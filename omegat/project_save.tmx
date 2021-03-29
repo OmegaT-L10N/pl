@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Show relevant suggestions automatically</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T222128Z" creationid="Paula" creationdate="20210329T222128Z">
+        <seg>Wyświetlaj istotne sugestie automatycznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Skip</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210317T171315Z" creationid="jnnas10" creationdate="20210317T171315Z">
@@ -609,6 +617,14 @@
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T195516Z" creationid="beataporodzynska" creationdate="20210325T195516Z">
         <seg>Notatka jest tylko komentarzem do tego segmentu składającego się z tekstu źródłowego i tłumaczenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&amp;uto-completion</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T222013Z" creationid="Paula" creationdate="20210329T222013Z">
+        <seg>Automatyczne wpisywanie</seg>
       </tuv>
     </tu>
     <tu>
