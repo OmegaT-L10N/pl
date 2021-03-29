@@ -4960,6 +4960,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T174016Z" creationid="Paula" creationdate="20210329T174016Z">
+        <seg>Aby zainstalować niezbędne pliki w formacie StarDict należy postępować następująco:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To speed up this process, existing translations can be reused.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T191033Z" creationid="Aleksandra" creationdate="20210327T191033Z">
