@@ -509,10 +509,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T164553Z" creationid="AgatoZiemniak" creationdate="20210322T164553Z">
+        <seg>&lt;html&gt;&lt;i&gt;Ustawienia&lt;/i&gt; &amp;gt; &lt;i&gt;Ogólne&lt;/i&gt; &amp;gt; &lt;i&gt;Wciśnij TAB aby przejść dalej&lt;/i&gt; zaznaczone&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210327T204633Z" creationid="wciecierska" creationdate="20210327T195231Z">
         <seg>&lt;html&gt;Dodaj wzorce używając symboli wieloznacznych (styl Apache Ant): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Place the caret at the location where you want to split the text.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T175042Z" creationid="AgatoZiemniak" creationdate="20210322T175042Z">
+        <seg>&lt;html&gt;Umieść kursor w miejscu, w którym chcesz podzielić tekst.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -646,6 +662,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Algorithm:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174242Z" creationid="AgatoZiemniak" creationdate="20210322T174242Z">
+        <seg>Algorytm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Align</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174233Z" creationid="AgatoZiemniak" creationdate="20210322T174233Z">
+        <seg>Dopasuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Align Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172217Z" creationid="AgatoZiemniak" creationdate="20210322T172217Z">
+        <seg>Dopasuj pliki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T114119Z" creationid="Agata Kaczmarska" creationdate="20210326T004523Z">
@@ -694,6 +734,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when loading the source files.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172552Z" creationid="AgatoZiemniak" creationdate="20210322T172552Z">
+        <seg>Wystąpił błąd podczas ładowania plików źródłowych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred when saving the TMX.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174855Z" creationid="AgatoZiemniak" creationdate="20210322T174855Z">
+        <seg>Podczas zapisywania TMX wystąpił błąd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T130512Z" creationid="paulina" creationdate="20210320T130512Z">
@@ -735,10 +791,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An existing translation was changed to something different from what you chose.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T165953Z" creationid="AgatoZiemniak" creationdate="20210322T165953Z">
+        <seg>Istniejące tłumaczenie zostało zmienione na inne niż to, które wybrałeś.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210326T114413Z" creationid="wciecierska" creationdate="20210326T114413Z">
         <seg>Plik o nazwie "{0}" już istnieje w tej lokalizacji. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An item of the name "{0}" already exists at this location.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174811Z" creationid="AgatoZiemniak" creationdate="20210322T174811Z">
+        <seg>Element o nazwie "{0}" już istnieje w tym miejscu..</seg>
       </tuv>
     </tu>
     <tu>
@@ -823,6 +895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Average Score: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174317Z" creationid="AgatoZiemniak" creationdate="20210322T174317Z">
+        <seg>Średni wynik: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Back to the initial segment on close</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T162817Z" creationid="magdaradka" creationdate="20210317T171113Z">
@@ -887,6 +967,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172406Z" creationid="AgatoZiemniak" creationdate="20210322T172350Z">
+        <seg>Szukaj...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;lear</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143922Z" creationid="magdalenaklocek" creationdate="20210323T143922Z">
@@ -895,10 +983,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calculator:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174248Z" creationid="AgatoZiemniak" creationdate="20210322T174248Z">
+        <seg>Kalkulator:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002759Z" creationid="Agata Kaczmarska" creationdate="20210326T002759Z">
         <seg>Anuluj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174203Z" creationid="AgatoZiemniak" creationdate="20210322T173809Z">
+        <seg>Anuluj dopasowanie punktowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -943,6 +1047,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changed by</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T171538Z" creationid="AgatoZiemniak" creationdate="20210322T171500Z">
+        <seg>Zmiany wprowadzone przez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed on</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T171555Z" creationid="AgatoZiemniak" creationdate="20210322T171528Z">
+        <seg>Zmiany wprowadzone dnia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changer</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211903Z" creationid="magdalenaklocek" creationdate="20210322T211903Z">
@@ -983,6 +1103,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose Source File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172606Z" creationid="AgatoZiemniak" creationdate="20210322T172606Z">
+        <seg>Wybierz plik źródłowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose Target File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172614Z" creationid="AgatoZiemniak" creationdate="20210322T172614Z">
+        <seg>Wybierz plik docelowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Class</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T183828Z" creationid="monika" creationdate="20210327T183828Z">
@@ -991,10 +1127,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clear Mark</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173219Z" creationid="AgatoZiemniak" creationdate="20210322T173219Z">
+        <seg>Odznacz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210326T100920Z" creationid="Kasia Mędrzycka" creationdate="20210326T100726Z">
         <seg>Kliknij pozycję menu '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172927Z" creationid="AgatoZiemniak" creationdate="20210322T172927Z">
+        <seg>Zamknij</seg>
       </tuv>
     </tu>
     <tu>
@@ -1039,6 +1191,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comparison Mode:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174304Z" creationid="AgatoZiemniak" creationdate="20210322T174304Z">
+        <seg>Tryb porównawczy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140438Z" creationid="AgataWojtera" creationdate="20210323T140438Z">
@@ -1079,6 +1239,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174406Z" creationid="AgatoZiemniak" creationdate="20210322T174406Z">
+        <seg>Kontynuuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Continue?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174919Z" creationid="AgatoZiemniak" creationdate="20210322T174919Z">
+        <seg>Kontynować?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T125823Z" creationid="magda" creationdate="20210325T125823Z">
@@ -1107,6 +1283,14 @@
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T130139Z" creationid="paulina" creationdate="20210320T130139Z">
         <seg>Nie można zapisać danych uwierzytelniających do pliku tekstowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Counter:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174253Z" creationid="AgatoZiemniak" creationdate="20210322T174253Z">
+        <seg>Licznik:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1141,10 +1325,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Created by</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T171614Z" creationid="AgatoZiemniak" creationdate="20210322T171614Z">
+        <seg>Utworzone przez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Created by: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T170002Z" creationid="magdaradka" creationdate="20210323T170002Z">
         <seg>Utworzono przez: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Created on</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T171622Z" creationid="AgatoZiemniak" creationdate="20210322T171622Z">
+        <seg>Utworzone dnia</seg>
       </tuv>
     </tu>
     <tu>
@@ -1374,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Distance</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174713Z" creationid="AgatoZiemniak" creationdate="20210322T174713Z">
+        <seg>Odległość</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not hesitate to post in the language you feel the most familiar with.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T190419Z" creationid="Aleksandra" creationdate="20210327T190419Z">
@@ -1402,6 +1610,14 @@
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210319T115410Z" creationid="magdaradka" creationdate="20210317T171039Z">
         <seg>Czy chcesz utworzyć folder?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to overwrite it?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174841Z" creationid="AgatoZiemniak" creationdate="20210322T174841Z">
+        <seg>Czy chcesz go zastąpić?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1504,8 +1720,24 @@
       <tuv lang="EN">
         <seg>Edit</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210323T163956Z" creationid="magdaradka" creationdate="20210317T171137Z">
-        <seg>Edycja</seg>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172940Z" creationid="magdaradka" creationdate="20210317T171137Z">
+        <seg>Edytuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Highlight Pattern</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T175508Z" creationid="AgatoZiemniak" creationdate="20210322T175013Z">
+        <seg>Edytuj wzór wyróżnienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174930Z" creationid="AgatoZiemniak" creationdate="20210322T174930Z">
+        <seg>Edytuj tekst</seg>
       </tuv>
     </tu>
     <tu>
@@ -1522,6 +1754,14 @@
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210329T101137Z" creationid="Komputer" creationdate="20210329T101137Z">
         <seg>Aktywacja w &lt;b&gt;Preferencje &gt; Zapisz i  Modyfikuj...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174227Z" creationid="AgatoZiemniak" creationdate="20210322T173754Z">
+        <seg>Zakończ dopasowanie punktowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -1803,10 +2043,26 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File Filters...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174021Z" creationid="AgatoZiemniak" creationdate="20210322T174021Z">
+        <seg>Filtruj pliki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File {0} does not exist!</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T165518Z" creationid="magdaradka" creationdate="20210323T165518Z">
         <seg>Plik {0} nie istnieje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filters...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174350Z" creationid="AgatoZiemniak" creationdate="20210322T174350Z">
+        <seg>Filtry...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2027,6 +2283,30 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Has note</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T171851Z" creationid="AgatoZiemniak" creationdate="20210322T171851Z">
+        <seg>Zawiera komentarz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlight</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173820Z" creationid="AgatoZiemniak" creationdate="20210322T173820Z">
+        <seg>Wyróżnij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlight Pattern...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173907Z" creationid="AgatoZiemniak" creationdate="20210322T173907Z">
+        <seg>Wzór wyróznienia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>History Completions</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T134221Z" creationid="paulina" creationdate="20210320T134221Z">
@@ -2197,10 +2477,26 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Is alternative</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172144Z" creationid="AgatoZiemniak" creationdate="20210322T172144Z">
+        <seg>Jest opcjonalny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Is default translation</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144225Z" creationid="magdalenaklocek" creationdate="20210323T144225Z">
         <seg>Tłumaczenie standardowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Is duplicate</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T171820Z" creationid="AgatoZiemniak" creationdate="20210322T171820Z">
+        <seg>Duplikat</seg>
       </tuv>
     </tu>
     <tu>
@@ -2259,6 +2555,46 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210326T100654Z" creationid="Kasia Mędrzycka" creationdate="20210326T100654Z">
         <seg>Java: wersja {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174721Z" creationid="AgatoZiemniak" creationdate="20210322T174721Z">
+        <seg>Zachowaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep All</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173412Z" creationid="AgatoZiemniak" creationdate="20210322T173412Z">
+        <seg>Zachowaj wszystko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep Mine</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T170220Z" creationid="AgatoZiemniak" creationdate="20210322T170220Z">
+        <seg>Zachowaj moją wersję</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep None</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173423Z" creationid="AgatoZiemniak" creationdate="20210322T173423Z">
+        <seg>Usuń wszystko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep Other</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T170242Z" creationid="AgatoZiemniak" creationdate="20210322T170242Z">
+        <seg>Zachowaj inną</seg>
       </tuv>
     </tu>
     <tu>
@@ -2503,10 +2839,26 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Accepted</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173106Z" creationid="AgatoZiemniak" creationdate="20210322T173106Z">
+        <seg>Zaznacz jako zatwierdzone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Glossary Matches</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T182725Z" creationid="monika" creationdate="20210327T182725Z">
         <seg>Zaznacz wyniki z glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Needs Review</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173205Z" creationid="AgatoZiemniak" creationdate="20210322T173205Z">
+        <seg>Zaznaczenie wymaga weryfikacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -2535,6 +2887,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match type</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172156Z" creationid="AgatoZiemniak" creationdate="20210322T172156Z">
+        <seg>Rodzaj dopasowania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maximize</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T124455Z" creationid="beataporodzynska" creationdate="20210325T124455Z">
@@ -2553,16 +2913,16 @@ w katalogu konfiguracji.</seg>
       <tuv lang="EN">
         <seg>Merge</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143147Z" creationid="magdalenaklocek" creationdate="20210323T143147Z">
-        <seg>Scalanie</seg>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173025Z" creationid="AgatoZiemniak" creationdate="20210322T173025Z">
+        <seg>Połącz</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Mine</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143127Z" creationid="magdalenaklocek" creationdate="20210323T143127Z">
-        <seg>Moje</seg>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T170233Z" creationid="AgatoZiemniak" creationdate="20210322T170048Z">
+        <seg>Moją</seg>
       </tuv>
     </tu>
     <tu>
@@ -2607,6 +2967,22 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move Down</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174119Z" creationid="AgatoZiemniak" creationdate="20210322T173000Z">
+        <seg>Przenieś w dół</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move Up</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174149Z" creationid="AgatoZiemniak" creationdate="20210322T174149Z">
+        <seg>Przenieś w górę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144407Z" creationid="magdalenaklocek" creationdate="20210323T144407Z">
@@ -2633,8 +3009,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="EN">
         <seg>Next</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211621Z" creationid="magdalenaklocek" creationdate="20210322T211621Z">
-        <seg>Następne</seg>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T171426Z" creationid="AgatoZiemniak" creationdate="20210322T171402Z">
+        <seg>Dalej</seg>
       </tuv>
     </tu>
     <tu>
@@ -2767,6 +3143,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has "{0}"</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T171216Z" creationid="AgatoZiemniak" creationdate="20210322T171216Z">
+        <seg>Powiadom mnie jeśli segment zawiera "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notify Me When a Segment Has Comments</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T203832Z" creationid="beataporodzynska" creationdate="20210325T203832Z">
@@ -2873,6 +3257,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173913Z" creationid="AgatoZiemniak" creationdate="20210322T173913Z">
+        <seg>Opcje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options:
 	None: Launch GUI
 	Project path only: Launch GUI and load specified project
@@ -2897,6 +3289,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T170156Z" creationid="AgatoZiemniak" creationdate="20210322T170156Z">
+        <seg>Inną</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Out-of-order</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210326T112955Z" creationid="paulina" creationdate="20210320T133605Z">
@@ -2909,6 +3309,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T165736Z" creationid="magdaradka" creationdate="20210317T171935Z">
         <seg>Błąd odczytu pliku preferencji!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Path</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T171441Z" creationid="AgatoZiemniak" creationdate="20210322T171441Z">
+        <seg>Ścieżka</seg>
       </tuv>
     </tu>
     <tu>
@@ -2941,6 +3349,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T124422Z" creationid="magda" creationdate="20210325T124422Z">
         <seg>Istnieje możliwość, że jest już otwarty w innym oknie programu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pinpoint Align: Select corresponding cell</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174700Z" creationid="AgatoZiemniak" creationdate="20210322T174700Z">
+        <seg>Dopasowanie punktowe: Wybierz odpowiednią komórkę</seg>
       </tuv>
     </tu>
     <tu>
@@ -3117,8 +3533,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Previous</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211642Z" creationid="magdalenaklocek" creationdate="20210322T211642Z">
-        <seg>Poprzednie</seg>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T171432Z" creationid="AgatoZiemniak" creationdate="20210322T170028Z">
+        <seg>Wstecz</seg>
       </tuv>
     </tu>
     <tu>
@@ -3179,6 +3595,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Realign Pending</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173401Z" creationid="AgatoZiemniak" creationdate="20210322T173401Z">
+        <seg>Oznacz jako nieukończone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>References:</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004130Z" creationid="Agata Kaczmarska" creationdate="20210326T004130Z">
@@ -3199,6 +3623,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002507Z" creationid="magdaradka" creationdate="20210317T171004Z">
         <seg>Oznacz jako identyczne tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reload</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172922Z" creationid="AgatoZiemniak" creationdate="20210322T172922Z">
+        <seg>Wczytaj ponownie</seg>
       </tuv>
     </tu>
     <tu>
@@ -3239,6 +3671,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210329T101202Z" creationid="Komputer" creationdate="20210329T101202Z">
         <seg>Remove Ta&amp;gs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove Tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173923Z" creationid="AgatoZiemniak" creationdate="20210322T173923Z">
+        <seg>Usuń znaczniki</seg>
       </tuv>
     </tu>
     <tu>
@@ -3299,10 +3739,26 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172913Z" creationid="AgatoZiemniak" creationdate="20210322T172913Z">
+        <seg>Resetuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Resolve Conflicts</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210327T205502Z" creationid="wciecierska" creationdate="20210327T205502Z">
         <seg>Rozwiąż konflikty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resource name</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T171715Z" creationid="AgatoZiemniak" creationdate="20210322T171715Z">
+        <seg>Nazwa źródła</seg>
       </tuv>
     </tu>
     <tu>
@@ -3339,6 +3795,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Row</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174707Z" creationid="AgatoZiemniak" creationdate="20210322T174707Z">
+        <seg>Wiersz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T123856Z" creationid="monika" creationdate="20210325T123856Z">
@@ -3351,6 +3815,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T123717Z" creationid="monika" creationdate="20210325T123717Z">
         <seg>Reguły</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rules...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174341Z" creationid="AgatoZiemniak" creationdate="20210322T174341Z">
+        <seg>Zasady...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3403,6 +3875,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save Alignment Results</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174754Z" creationid="AgatoZiemniak" creationdate="20210322T174754Z">
+        <seg>Zachowaj dopasowania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Current Set...</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003924Z" creationid="Agata Kaczmarska" creationdate="20210326T003924Z">
@@ -3415,6 +3895,30 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003323Z" creationid="Agata Kaczmarska" creationdate="20210326T003323Z">
         <seg>Zapisz skrypt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save TMX...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172705Z" creationid="AgatoZiemniak" creationdate="20210322T172705Z">
+        <seg>Zapisz TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save changes to filter settings?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T175224Z" creationid="AgatoZiemniak" creationdate="20210322T175224Z">
+        <seg>Czy chcesz zachować zmiany w ustawieniach filtra??</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save changes to segmentation rules?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T175129Z" creationid="AgatoZiemniak" creationdate="20210322T175129Z">
+        <seg>Czy chcesz zachować zmiany w regułach segmentacji?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3499,10 +4003,26 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment Properties</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T170300Z" creationid="AgatoZiemniak" creationdate="20210322T170300Z">
+        <seg>Wsłaściwości segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment source text into paragraphs on:</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171215Z" creationid="magdaradka" creationdate="20210317T171215Z">
         <seg>Segment source text into paragraphs on:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174005Z" creationid="AgatoZiemniak" creationdate="20210322T174005Z">
+        <seg>Reguły segmentacji...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3684,6 +4204,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show Raw Key Names</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T171135Z" creationid="AgatoZiemniak" creationdate="20210322T171135Z">
+        <seg>Pokaż nazwy przycisków w RAW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show Replace Search Bar</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T113855Z" creationid="Agata Kaczmarska" creationdate="20210326T113855Z">
@@ -3812,6 +4340,30 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Split</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173008Z" creationid="AgatoZiemniak" creationdate="20210322T173008Z">
+        <seg>Podziel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Split Text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T175020Z" creationid="AgatoZiemniak" creationdate="20210322T175020Z">
+        <seg>Podziel tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174217Z" creationid="AgatoZiemniak" creationdate="20210322T173742Z">
+        <seg>Rozpocznij dopasowanie punktowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start a new paragraph on:</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140538Z" creationid="AgataWojtera" creationdate="20210323T140538Z">
@@ -3824,6 +4376,30 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T131643Z" creationid="paulina" creationdate="20210320T131643Z">
         <seg>Uruchom rebase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 1: Adjust alignment parameters</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174507Z" creationid="AgatoZiemniak" creationdate="20210322T174507Z">
+        <seg>Krok 1: Dostosuj parametry dopasowania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 2: Make manual corrections</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174607Z" creationid="AgatoZiemniak" creationdate="20210322T174607Z">
+        <seg>Krok 2: Wprowadź zmiany ręcznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Supported Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172654Z" creationid="AgatoZiemniak" creationdate="20210322T172654Z">
+        <seg>Obsługiwane pliki</seg>
       </tuv>
     </tu>
     <tu>
@@ -3892,6 +4468,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table View</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T170318Z" creationid="AgatoZiemniak" creationdate="20210322T170318Z">
+        <seg>Widok tabeli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T133354Z" creationid="paulina" creationdate="20210320T133354Z">
@@ -3928,6 +4512,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T185943Z" creationid="Aleksandra" creationdate="20210327T185819Z">
         <seg>Zachowaj szczególną ostrożność podczas wprowadzania zmian do plików w folderze &lt;l0&gt;/source&lt;/l0&gt; gdy jesteś w samym środku projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172358Z" creationid="AgatoZiemniak" creationdate="20210322T172331Z">
+        <seg>Plik docelowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -4039,6 +4631,14 @@ bieżący katalog.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The file "{0}" is not supported.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172434Z" creationid="AgatoZiemniak" creationdate="20210322T172434Z">
+        <seg>Plik "{0}" nie jest obsługiwany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project cannot be verified</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004546Z" creationid="Agata Kaczmarska" creationdate="20210326T004546Z">
@@ -4067,6 +4667,14 @@ bieżący katalog.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002928Z" creationid="Agata Kaczmarska" creationdate="20210326T002928Z">
         <seg>Skrypt "{0}" działa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified files are not supported.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172446Z" creationid="AgatoZiemniak" creationdate="20210322T172446Z">
+        <seg>Wybrane pliki nie są obsługiwane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4211,6 +4819,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will discard all changes you have made so far.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174913Z" creationid="AgatoZiemniak" creationdate="20210322T174913Z">
+        <seg>Spowoduje to odrzucenie wszystkich zmian, które zostały wprowadzone do tej pory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142551Z" creationid="AgataWojtera" creationdate="20210323T142551Z">
@@ -4239,6 +4855,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T191033Z" creationid="Aleksandra" creationdate="20210327T191033Z">
         <seg>To speed up this process, existing translations can be reused.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toggle Selected</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173614Z" creationid="AgatoZiemniak" creationdate="20210322T173614Z">
+        <seg>Wybrano przełącznik</seg>
       </tuv>
     </tu>
     <tu>
@@ -4289,6 +4913,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211745Z" creationid="magdalenaklocek" creationdate="20210322T211745Z">
         <seg>Tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation is fuzzy</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T171351Z" creationid="AgatoZiemniak" creationdate="20210322T171351Z">
+        <seg>Tłumaczenie jest niedokładne</seg>
       </tuv>
     </tu>
     <tu>
@@ -4509,6 +5141,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T171238Z" creationid="AgatoZiemniak" creationdate="20210322T171238Z">
+        <seg>Wartość</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Variant skipped.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T170624Z" creationid="magdaradka" creationdate="20210323T170624Z">
@@ -4529,6 +5169,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T170006Z" creationid="magdaradka" creationdate="20210317T172755Z">
         <seg>Wersja: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173813Z" creationid="AgatoZiemniak" creationdate="20210322T173813Z">
+        <seg>Widok</seg>
       </tuv>
     </tu>
     <tu>
@@ -4577,6 +5225,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T183115Z" creationid="Aleksandra" creationdate="20210327T180136Z">
         <seg>Kiedy tłumaczysz plik, &lt;a2&gt;OmegaT&lt;/a2&gt; przechowuje go w pamięci tłumaczeniowej &lt;l3&gt;project_save.tmx&lt;/l3&gt;, który znajduje się w podfolderze &lt;l4&gt;/omegat&lt;/l4&gt; projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Which version do you want to keep?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T170011Z" creationid="AgatoZiemniak" creationdate="20210322T170011Z">
+        <seg>Którą wersję chcesz zachować?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4827,6 +5483,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143116Z" creationid="magdalenaklocek" creationdate="20210323T143116Z">
         <seg>{0} segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T164816Z" creationid="AgatoZiemniak" creationdate="20210322T164816Z">
+        <seg>{0}przełącza pomiędzy LTR (od lewej do prawej), RTL (od prawej do lewej) i orientacją zależną od języka</seg>
       </tuv>
     </tu>
     <tu>
