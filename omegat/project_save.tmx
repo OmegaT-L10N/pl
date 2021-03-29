@@ -1472,6 +1472,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T173755Z" creationid="Paula" creationdate="20210329T173755Z">
+        <seg>Słowniki w &lt;a0&gt;OmegaT&lt;/a0&gt; używają formatów StarDict lub Lingvo DSL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionary</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T124915Z" creationid="beataporodzynska" creationdate="20210325T124915Z">
