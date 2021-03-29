@@ -1079,6 +1079,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210329T100502Z" creationid="Komputer" creationdate="20210329T100502Z">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not create the specified folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T120924Z" creationid="monika" creationdate="20210325T120924Z">
@@ -1757,8 +1765,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Failed to create project!</seg>
       </tuv>
-      <tuv lang="PL" changeid="Komputer" changedate="20210329T095702Z" creationid="Komputer" creationdate="20210329T095702Z">
-        <seg>[fuzzy]Utworzenie nowego projektu nie powiodło się!</seg>
+      <tuv lang="PL" changeid="Komputer" changedate="20210329T100511Z" creationid="Komputer" creationdate="20210329T095702Z">
+        <seg>Utworzenie nowego projektu nie powiodło się!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4311,8 +4319,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Unable to build new TMX file!</seg>
       </tuv>
-      <tuv lang="PL" changeid="Komputer" changedate="20210329T095521Z" creationid="Komputer" creationdate="20210329T095521Z">
-        <seg>Unable to build new TMX file!</seg>
+      <tuv lang="PL" changeid="Komputer" changedate="20210329T100443Z" creationid="Komputer" creationdate="20210329T095521Z">
+        <seg>Utworzenie nowego pliku TMX nie powiodło się!</seg>
       </tuv>
     </tu>
     <tu>
