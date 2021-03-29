@@ -1755,6 +1755,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to create project!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210329T095702Z" creationid="Komputer" creationdate="20210329T095702Z">
+        <seg>[fuzzy]Utworzenie nowego projektu nie powiodło się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fatal error on line {0}, column {1} while parsing:</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T170236Z" creationid="magdaradka" creationdate="20210323T170236Z">
