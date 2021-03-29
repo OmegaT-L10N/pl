@@ -2494,6 +2494,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>History Prediction</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T222737Z" creationid="Paula" creationdate="20210329T222737Z">
+        <seg>Przewidywanie historii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>History Predictions</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T134252Z" creationid="paulina" creationdate="20210320T134252Z">
