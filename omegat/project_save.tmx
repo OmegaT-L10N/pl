@@ -2406,6 +2406,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T231120Z" creationid="Paula" creationdate="20210329T231120Z">
+        <seg>Plik: jedynie przetłumaczono % (jedynie pozostało) / projekt: jedynie przetłumaczono % (jedynie pozostało), całkowita liczba segmentów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filters...</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174350Z" creationid="AgatoZiemniak" creationdate="20210322T174350Z">
