@@ -2783,6 +2783,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210329T094721Z" creationid="Komputer" creationdate="20210329T094721Z">
+        <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT also backs up the translation memory to project_save.tmx.YEARMMDDHHNN.bak in the same subfolder each time a project is opened or reloaded.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T183628Z" creationid="Aleksandra" creationdate="20210327T183628Z">
