@@ -2262,6 +2262,22 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to load specified project!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T224013Z" creationid="Paula" creationdate="20210329T224013Z">
+        <seg>Nie udało się załadować projektu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to load translation memory {0} for project!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T223911Z" creationid="Paula" creationdate="20210329T223911Z">
+        <seg>Nie udało się załadować pamięci tłumaczeniowej {0} dla projektu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fatal error on line {0}, column {1} while parsing:</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T170236Z" creationid="magdaradka" creationdate="20210323T170236Z">
@@ -2703,6 +2719,14 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T185123Z" creationid="Aleksandra" creationdate="20210327T185123Z">
         <seg>Jeśli twoje tłumaczenie przepadło, możesz skorzystać z poniższych czynności, aby odzyskać najbardziej aktualną wersję projektu, zazwyczaj sprzed około 10 minut:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T223749Z" creationid="Paula" creationdate="20210329T223749Z">
+        <seg>Aby zastosować wprowadzone zmiany, należy zamknąć i ponownie otworzyć projekt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4082,6 +4106,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002432Z" creationid="Agata Kaczmarska" creationdate="20210326T002432Z">
         <seg>Usuń tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reopen the project now?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T223812Z" creationid="Paula" creationdate="20210329T223812Z">
+        <seg>Otworzyć ponownie projekt?</seg>
       </tuv>
     </tu>
     <tu>
