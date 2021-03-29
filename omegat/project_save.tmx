@@ -6156,8 +6156,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>You must enter a number between 1 and {0}.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Paula" changedate="20210329T225530Z" creationid="Paula" creationdate="20210329T225530Z">
-        <seg>Wpisz numer między 1 a {0}.</seg>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T231846Z" creationid="Paula" creationdate="20210329T225530Z">
+        <seg>Wpisz liczbę między 1 a {0}.</seg>
       </tuv>
     </tu>
     <tu>
