@@ -1817,6 +1817,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Entries from the writeable glossary are in bold.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210329T164509Z" creationid="beataporodzynska" creationdate="20210329T164509Z">
+        <seg>Hasła z zapisywalnego glosariusza są pogrubione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
       <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210326T100431Z" creationid="jnnas10" creationdate="20210317T172309Z">
