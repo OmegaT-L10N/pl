@@ -1394,6 +1394,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Committing target files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T225209Z" creationid="Paula" creationdate="20210329T225209Z">
+        <seg>Wyślij pliki docelowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comparison Mode:</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174304Z" creationid="AgatoZiemniak" creationdate="20210322T174304Z">
@@ -1937,6 +1945,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Duplicate segments: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T225433Z" creationid="Paula" creationdate="20210329T225433Z">
+        <seg>Powielone segmenty: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dutch</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141938Z" creationid="AgataWojtera" creationdate="20210323T141938Z">
@@ -2029,6 +2045,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210326T115236Z" creationid="monika" creationdate="20210325T122419Z">
         <seg>Upewnij się, że została podana właściwa wersja API (adres URL powinien zawierać "/v2/").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the segment number:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T225338Z" creationid="Paula" creationdate="20210329T225338Z">
+        <seg>Wpisz numer segmentu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2310,6 +2334,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to update project properties</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T225321Z" creationid="Paula" creationdate="20210329T225321Z">
+        <seg>Nie udało się otworzyć właściwości projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fatal error on line {0}, column {1} while parsing:</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T170236Z" creationid="magdaradka" creationdate="20210323T170236Z">
@@ -2530,6 +2562,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004755Z" creationid="Agata Kaczmarska" creationdate="20210326T004755Z">
         <seg>Katalog glosariusza {0} nie istnieje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go To Segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T225357Z" creationid="Paula" creationdate="20210329T225357Z">
+        <seg>Idź do segmentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5083,6 +5123,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144452Z" creationid="magdalenaklocek" creationdate="20210323T144452Z">
         <seg>Liczba celi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target files committed</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T225225Z" creationid="Paula" creationdate="20210329T225225Z">
+        <seg>Pliki docelowe wysłane</seg>
       </tuv>
     </tu>
     <tu>
