@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Always Confirm Quit</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T223036Z" creationid="Paula" creationdate="20210329T223036Z">
+        <seg>Zawsze potwierdzać przed wyjściem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Apply to all</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210327T205718Z" creationid="wciecierska" creationdate="20210327T205718Z">
@@ -162,6 +170,14 @@
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210322T124128Z" creationid="paulina" creationdate="20210322T124128Z">
         <seg>&amp;Włącz sugerowanie słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Enable history completion</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T222826Z" creationid="Paula" creationdate="20210329T222826Z">
+        <seg>Uruchomić wpisywanie z historii</seg>
       </tuv>
     </tu>
     <tu>
@@ -1897,6 +1913,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable history &amp;prediction</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T222908Z" creationid="Paula" creationdate="20210329T222908Z">
+        <seg>Uruchomić przewidywanie historii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210329T101137Z" creationid="Komputer" creationdate="20210329T101137Z">
@@ -2474,6 +2498,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173907Z" creationid="AgatoZiemniak" creationdate="20210322T173907Z">
         <seg>Wzór wyróznienia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T222918Z" creationid="Paula" creationdate="20210329T222918Z">
+        <seg>Historia</seg>
       </tuv>
     </tu>
     <tu>
