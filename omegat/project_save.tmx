@@ -2400,8 +2400,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
-      <tuv lang="PL" changeid="Paula" changedate="20210329T230644Z" creationid="Paula" creationdate="20210329T230546Z">
-        <seg>Plik: przetłumaczony/ ilość segmentów (projekt: jedyny przetłumaczony / jedyny, całkowita liczba segmentów)</seg>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T231144Z" creationid="Paula" creationdate="20210329T230546Z">
+        <seg>Plik: przetłumaczono/ ilość segmentów (projekt: jedyny przetłumaczony / jedyny, całkowita liczba segmentów)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3014,6 +3014,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210326T100654Z" creationid="Kasia Mędrzycka" creationdate="20210326T100654Z">
         <seg>Java: wersja {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jumping to last edited segment...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T231233Z" creationid="Paula" creationdate="20210329T231233Z">
+        <seg>Przejdź do ostatnio modyfikowanego segmentu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5662,6 +5670,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T171351Z" creationid="AgatoZiemniak" creationdate="20210322T171351Z">
         <seg>Tłumaczenie jest niedokładne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation last modified by {0} on {1} at {2}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T231325Z" creationid="Paula" creationdate="20210329T231325Z">
+        <seg>Ostatnia zmiana w tłumaczeniu wprowadzona przez {0} dnia {1} o {2}</seg>
       </tuv>
     </tu>
     <tu>
