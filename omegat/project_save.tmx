@@ -1576,6 +1576,22 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cursor locked</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T225721Z" creationid="Paula" creationdate="20210329T225721Z">
+        <seg>Kursor zablokowany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T225740Z" creationid="Paula" creationdate="20210329T225740Z">
+        <seg>Kursor odblokowany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom Colours</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210327T204826Z" creationid="wciecierska" creationdate="20210327T204826Z">
@@ -3410,6 +3426,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T225501Z" creationid="Paula" creationdate="20210329T225501Z">
+        <seg>Więcej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move Down</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174119Z" creationid="AgatoZiemniak" creationdate="20210322T173000Z">
@@ -4062,6 +4086,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project saved</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T225644Z" creationid="Paula" creationdate="20210329T225644Z">
+        <seg>Projekt zapisany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Push failed.</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T125123Z" creationid="magda" creationdate="20210325T125123Z">
@@ -4202,6 +4234,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T223812Z" creationid="Paula" creationdate="20210329T223812Z">
         <seg>Otworzyć ponownie projekt?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reopen the project?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T225608Z" creationid="Paula" creationdate="20210329T225608Z">
+        <seg>Ponownie otworzyć projekt?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4458,6 +4498,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T132731Z" creationid="paulina" creationdate="20210320T132731Z">
         <seg>Opcje zapisu i wyjścia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving project...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T225629Z" creationid="Paula" creationdate="20210329T225629Z">
+        <seg>Zapisywanie projektu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5998,6 +6046,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T131927Z" creationid="beataporodzynska" creationdate="20210325T131801Z">
         <seg>Hasła do glosariusza można dodawać za pomocą opcji "Dodaj nowe hasło do glosariusza" w menu "Edytuj".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must enter a number between 1 and {0}.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T225530Z" creationid="Paula" creationdate="20210329T225530Z">
+        <seg>Wpisz numer między 1 a {0}.</seg>
       </tuv>
     </tu>
     <tu>
