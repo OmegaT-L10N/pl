@@ -158,10 +158,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Endnotes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T211015Z" creationid="Aleksandra" creationdate="20210329T211015Z">
+        <seg>&amp;Przypisy końcowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Find...</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003815Z" creationid="Agata Kaczmarska" creationdate="20210326T003815Z">
         <seg>&amp;Znajdź...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Footnotes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T211007Z" creationid="Aleksandra" creationdate="20210329T211007Z">
+        <seg>&amp;Przypisy</seg>
       </tuv>
     </tu>
     <tu>
@@ -1206,6 +1222,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172927Z" creationid="AgatoZiemniak" creationdate="20210322T172927Z">
         <seg>Zamknij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Co&amp;mments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210958Z" creationid="Aleksandra" creationdate="20210329T210958Z">
+        <seg>Ko&amp;mentarze</seg>
       </tuv>
     </tu>
     <tu>
@@ -2390,6 +2414,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>He&amp;aders</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T211028Z" creationid="Aleksandra" creationdate="20210329T211028Z">
+        <seg>Gł&amp;ówka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Highlight</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173820Z" creationid="AgatoZiemniak" creationdate="20210322T173820Z">
@@ -3252,8 +3284,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="EN">
         <seg>Non-visible Instruction Te&amp;xt</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210829Z" creationid="Aleksandra" creationdate="20210329T210829Z">
-        <seg>Non-visible Instruction Te&amp;xt</seg>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210946Z" creationid="Aleksandra" creationdate="20210329T210829Z">
+        <seg>Niewidzialny Te&amp;kst instrukcji </seg>
       </tuv>
     </tu>
     <tu>
@@ -5099,6 +5131,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T131330Z" creationid="paulina" creationdate="20210320T131330Z">
         <seg>To jest prawidłowy plik projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210900Z" creationid="Aleksandra" creationdate="20210329T210900Z">
+        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
       </tuv>
     </tu>
     <tu>
