@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Quit</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210006Z" creationid="Aleksandra" creationdate="20210329T210006Z">
+        <seg>&amp;Quit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Remove</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210327T202338Z" creationid="wciecierska" creationdate="20210327T202338Z">
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T181828Z" creationid="monika" creationdate="20210326T115706Z">
         <seg>&amp;Duża pierwsza litera zdania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show in Editor context menu</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210026Z" creationid="Aleksandra" creationdate="20210329T210026Z">
+        <seg>&amp;Show in Editor context menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -521,6 +537,14 @@
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210327T204633Z" creationid="wciecierska" creationdate="20210327T195231Z">
         <seg>&lt;html&gt;Dodaj wzorce używając symboli wieloznacznych (styl Apache Ant): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210020Z" creationid="Aleksandra" creationdate="20210329T210020Z">
+        <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2414,6 +2438,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IBM Watson not available.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210012Z" creationid="Aleksandra" creationdate="20210329T210012Z">
+        <seg>IBM Watson not available.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IOException encountered:</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T164216Z" creationid="magdaradka" creationdate="20210323T164216Z">
@@ -3710,6 +3742,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>R&amp;emove</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210004Z" creationid="Aleksandra" creationdate="20210329T210004Z">
+        <seg>R&amp;emove</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reading TMX file {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T165931Z" creationid="magdaradka" creationdate="20210317T172754Z">
@@ -4202,6 +4242,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210327T220020Z" creationid="wciecierska" creationdate="20210327T220020Z">
         <seg>Segmenty z notatkami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Fol&amp;der</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210009Z" creationid="Aleksandra" creationdate="20210329T210009Z">
+        <seg>Select Fol&amp;der</seg>
       </tuv>
     </tu>
     <tu>
