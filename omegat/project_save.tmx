@@ -1386,6 +1386,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Committing source files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T225121Z" creationid="Paula" creationdate="20210329T225121Z">
+        <seg>Wyślij pliki źródłowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comparison Mode:</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174304Z" creationid="AgatoZiemniak" creationdate="20210322T174304Z">
@@ -2254,6 +2262,22 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to commit source files!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T225012Z" creationid="Paula" creationdate="20210329T225012Z">
+        <seg>Nie udało się wysłać plików źródłowych!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit target files!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T225055Z" creationid="Paula" creationdate="20210329T225055Z">
+        <seg>Nie udało się wysłać plików docelowych!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to compile project files!</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T224209Z" creationid="Paula" creationdate="20210329T224209Z">
@@ -2860,8 +2884,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="EN">
         <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Paula" changedate="20210329T224535Z" creationid="Paula" creationdate="20210329T224535Z">
-        <seg>Stworzenie przetłumaczonych dokumentów nie powiodło się, ponieważ brakuje niektórych tagów lub są one uszkodzone.</seg>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T224926Z" creationid="Paula" creationdate="20210329T224535Z">
+        <seg>Utworzenie przetłumaczonych dokumentów nie powiodło się, ponieważ brakuje niektórych tagów lub są one uszkodzone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4795,6 +4819,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144432Z" creationid="magdalenaklocek" creationdate="20210323T144432Z">
         <seg>Liczba źródeł</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source files committed</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T225135Z" creationid="Paula" creationdate="20210329T225135Z">
+        <seg>Pliki źródłowe wysłane</seg>
       </tuv>
     </tu>
     <tu>
