@@ -1082,6 +1082,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change to "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210601Z" creationid="Aleksandra" creationdate="20210329T210601Z">
+        <seg>Zmień na "tłumaczenie wymagające sprawdzenia" zamiast "przetłumaczone"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed by</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T171538Z" creationid="AgatoZiemniak" creationdate="20210322T171500Z">
