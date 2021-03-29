@@ -3066,6 +3066,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Open XML</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210605Z" creationid="Aleksandra" creationdate="20210329T210605Z">
+        <seg>Microsoft Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mine</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T170233Z" creationid="AgatoZiemniak" creationdate="20210322T170048Z">
@@ -3242,6 +3250,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-visible Instruction Te&amp;xt</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210829Z" creationid="Aleksandra" creationdate="20210329T210829Z">
+        <seg>Non-visible Instruction Te&amp;xt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not a valid XML file!</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T164153Z" creationid="magdaradka" creationdate="20210323T164153Z">
@@ -3400,6 +3416,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T132753Z" creationid="beataporodzynska" creationdate="20210325T132753Z">
         <seg>Otwórz zapisywalny plik glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open XML Filter Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210702Z" creationid="Aleksandra" creationdate="20210329T210702Z">
+        <seg>Otwórz Opcje filtra XML </seg>
       </tuv>
     </tu>
     <tu>
@@ -5566,6 +5590,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210329T170617Z" creationid="Aleksandra" creationdate="20210329T170617Z">
         <seg>Windows and dialogs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210704Z" creationid="Aleksandra" creationdate="20210329T210704Z">
+        <seg>Word</seg>
       </tuv>
     </tu>
     <tu>
