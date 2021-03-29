@@ -2446,6 +2446,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T181834Z" creationid="Paula" creationdate="20210329T181834Z">
+        <seg>Jeśli rozszerzeniem jest&lt;e0&gt;tar.bz&lt;/e0&gt;, oznacza to, że plik nie został rozpakowany. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If later access to the desired location is granted
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
