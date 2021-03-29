@@ -2254,6 +2254,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to compile project files!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T224209Z" creationid="Paula" creationdate="20210329T224209Z">
+        <seg>Nie udało się skompilować plików projektu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to create project!</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210329T100511Z" creationid="Komputer" creationdate="20210329T095702Z">
@@ -2846,6 +2854,14 @@ inside the configuration folder.</seg>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210326T100342Z" creationid="Kasia Mędrzycka" creationdate="20210326T100342Z">
         <seg>Nie było możliwe utworzenie katalogu skryptów
 w katalogu konfiguracji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T224535Z" creationid="Paula" creationdate="20210329T224535Z">
+        <seg>Stworzenie przetłumaczonych dokumentów nie powiodło się, ponieważ brakuje niektórych tagów lub są one uszkodzone.</seg>
       </tuv>
     </tu>
     <tu>
