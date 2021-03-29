@@ -1106,6 +1106,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T181224Z" creationid="Paula" creationdate="20210329T181224Z">
+        <seg>Sprawdź czy pliki słownikowe znajdują sie we właściwym folderze (lub wewnątrz tego folderu w podfolderze).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chinese</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142003Z" creationid="AgataWojtera" creationdate="20210323T142003Z">
@@ -2978,6 +2986,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Merriam Webster dictionary - use</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T180950Z" creationid="Paula" creationdate="20210329T180950Z">
+        <seg>Użycie słownika Merriam Webster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mine</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T170233Z" creationid="AgatoZiemniak" creationdate="20210322T170048Z">
@@ -3610,6 +3626,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171154Z" creationid="magdaradka" creationdate="20210317T171154Z">
         <seg>Pro&amp;ject</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Problems with dictionaries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T181035Z" creationid="Paula" creationdate="20210329T181013Z">
+        <seg>Problemy ze słownikami</seg>
       </tuv>
     </tu>
     <tu>
