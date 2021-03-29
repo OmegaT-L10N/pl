@@ -2446,6 +2446,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T231419Z" creationid="Paula" creationdate="20210329T231419Z">
+        <seg>Czcionka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143508Z" creationid="magdalenaklocek" creationdate="20210323T143508Z">
@@ -3206,6 +3214,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210326T115149Z" creationid="monika" creationdate="20210325T122315Z">
         <seg>LanguageTool: serwer zwrócił XML zamiast oczekiwanego formatu JSON.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Last modified by {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T231402Z" creationid="Paula" creationdate="20210329T231402Z">
+        <seg>Ostatnia zmiana wprowadzona przez{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4871,6 +4887,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T231430Z" creationid="Paula" creationdate="20210329T231430Z">
+        <seg>Rozmiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skipping.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T132657Z" creationid="paulina" creationdate="20210320T132657Z">
@@ -5539,6 +5563,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T131330Z" creationid="paulina" creationdate="20210320T131330Z">
         <seg>To jest prawidłowy plik projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the way text will look when displayed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T231518Z" creationid="Paula" creationdate="20210329T231518Z">
+        <seg>Tak będzie wyglądał wyświetlony tekst.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6280,6 +6312,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140052Z" creationid="AgataWojtera" creationdate="20210323T140052Z">
         <seg>src (URL obrazów)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>unknown</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Paula" changedate="20210329T231410Z" creationid="Paula" creationdate="20210329T231410Z">
+        <seg>nieznany</seg>
       </tuv>
     </tu>
     <tu>
