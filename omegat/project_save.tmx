@@ -918,6 +918,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aligner "Needs Review" Group</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T170752Z" creationid="wciecierska" creationdate="20210330T170752Z">
+        <seg>Dopasowywanie: grupa wymagająca weryfikacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aligner Highlight</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T170806Z" creationid="wciecierska" creationdate="20210330T170806Z">
+        <seg>Dopasowywanie: wyróżnienie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aligner Table Row Highlight</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T170826Z" creationid="wciecierska" creationdate="20210330T170826Z">
+        <seg>Dopasowywanie: wyróżnienie wiersza tabeli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All domains</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211535Z" creationid="magdalenaklocek" creationdate="20210322T211535Z">
@@ -6081,6 +6105,22 @@ bieżący katalog.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T170830Z" creationid="magdaradka" creationdate="20210317T171153Z">
         <seg>Język źródłowy TMX ({0}) jest inny niż język źródłowy projektu ({1}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T171011Z" creationid="wciecierska" creationdate="20210330T170955Z">
+        <seg>Adres URL musi zawierać "{target}", co zostanie zastąpione wyszukiwaną frazą.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The command must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T171036Z" creationid="wciecierska" creationdate="20210330T171036Z">
+        <seg>Polecenie musi zawierać "{target}", co zostanie zastąpione wyszukiwaną frazą.</seg>
       </tuv>
     </tu>
     <tu>
