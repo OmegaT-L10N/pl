@@ -2201,6 +2201,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error in file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145623Z" creationid="Aleksandra" creationdate="20210330T145623Z">
+        <seg>Błąd w pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error retrieve {0} as remote project file</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T132339Z" creationid="paulina" creationdate="20210320T132339Z">
@@ -6536,6 +6544,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T164816Z" creationid="AgatoZiemniak" creationdate="20210322T164816Z">
         <seg>{0}przełącza pomiędzy LTR (od lewej do prawej), RTL (od prawej do lewej) i orientacją zależną od języka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} version {1} ({2})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145634Z" creationid="Aleksandra" creationdate="20210330T145627Z">
+        <seg>Wersja: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} version {1}, update {2} ({3})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145705Z" creationid="Aleksandra" creationdate="20210330T145630Z">
+        <seg>{0} wersja {1},aktualizacja {2} ({3})</seg>
       </tuv>
     </tu>
     <tu>
