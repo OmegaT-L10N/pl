@@ -4794,6 +4794,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210330T204825Z" creationid="monika" creationdate="20210330T204825Z">
+        <seg>Komendy programujące są wyłączone ze względów bezpieczeństwa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project locked.</seg>
       </tuv>
       <tuv lang="pl" changeid="magda" changedate="20210325T124320Z" creationid="magda" creationdate="20210325T124320Z">
