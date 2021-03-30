@@ -2888,6 +2888,30 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary note</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T170332Z" creationid="wciecierska" creationdate="20210330T170332Z">
+        <seg>Notatki glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary source</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T170316Z" creationid="wciecierska" creationdate="20210330T170316Z">
+        <seg>Źródło glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T170322Z" creationid="wciecierska" creationdate="20210330T170322Z">
+        <seg>Tłumaczenie glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T225357Z" creationid="Paula" creationdate="20210329T225357Z">
@@ -3044,6 +3068,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T181201Z" creationid="Aleksandra" creationdate="20210327T180129Z">
         <seg>Korzystając z programu  &lt;a1&gt;OmegaT&lt;/a1&gt;, tak jak z każdego innego, powinieneś zachować środki ostrożności, by zapobiec utracie danych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hyperlinks</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T170334Z" creationid="wciecierska" creationdate="20210330T170334Z">
+        <seg>Hiperlinki</seg>
       </tuv>
     </tu>
     <tu>
@@ -3756,6 +3788,38 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Matches Deleted Active</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T170241Z" creationid="wciecierska" creationdate="20210330T170241Z">
+        <seg>Dopasowania usunięcie: aktywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Deleted Inactive</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T170255Z" creationid="wciecierska" creationdate="20210330T170255Z">
+        <seg>Dopasowania usunięte: nieaktywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Inserted Active</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T170304Z" creationid="wciecierska" creationdate="20210330T170304Z">
+        <seg>Wstawione dopasowania: aktywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Inserted Inactive</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T170232Z" creationid="wciecierska" creationdate="20210330T170232Z">
+        <seg>Wstawione dopasowania: aktywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Matches Unchanged</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210330T165219Z" creationid="wciecierska" creationdate="20210330T165219Z">
@@ -4072,6 +4136,22 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T120312Z" creationid="beataporodzynska" creationdate="20210325T120312Z">
         <seg>Notatki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notification (flash)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T170432Z" creationid="wciecierska" creationdate="20210330T170432Z">
+        <seg>Powiadomienie (przełączane)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notification (steady)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T170414Z" creationid="wciecierska" creationdate="20210330T170414Z">
+        <seg>Powiadomienie (normalne)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5142,6 +5222,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T221757Z" creationid="Paula" creationdate="20210329T221757Z">
         <seg>Wyszukiwanie w słownikach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Found Mark</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T170353Z" creationid="wciecierska" creationdate="20210330T170353Z">
+        <seg>Przeszukaj znalezione zaznaczenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Replaced Mark</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T170400Z" creationid="wciecierska" creationdate="20210330T170400Z">
+        <seg>Przeszukaj zastąpione zaznaczenia</seg>
       </tuv>
     </tu>
     <tu>
