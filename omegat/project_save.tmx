@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Sheet Names</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144320Z" creationid="Aleksandra" creationdate="20210330T144320Z">
+        <seg>&amp;Nazwy strony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Show Relevant Suggestions Automatically</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T221939Z" creationid="Paula" creationdate="20210329T221939Z">
@@ -1354,6 +1362,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comme&amp;nts</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144304Z" creationid="Aleksandra" creationdate="20210330T144304Z">
+        <seg>Ko&amp;mentarze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comment</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210409Z" creationid="magdalenaklocek" creationdate="20210322T210409Z">
@@ -1875,8 +1891,8 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       <tuv lang="EN">
         <seg>Doc&amp;ument properties</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144130Z" creationid="Aleksandra" creationdate="20210330T144130Z">
-        <seg>Właściwości dok&amp;mentu</seg>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144214Z" creationid="Aleksandra" creationdate="20210330T144130Z">
+        <seg>Właściwości dok&amp;umentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -2229,6 +2245,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210326T104334Z" creationid="Kasia Mędrzycka" creationdate="20210326T104334Z">
         <seg>Zdarzenie: zmiana projektu - "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Excel</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144212Z" creationid="Aleksandra" creationdate="20210330T144212Z">
+        <seg>Excel</seg>
       </tuv>
     </tu>
     <tu>
@@ -4061,6 +4085,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Power Point</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144323Z" creationid="Aleksandra" creationdate="20210330T144323Z">
+        <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Predefined credentials was not passed.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T132125Z" creationid="paulina" creationdate="20210320T132125Z">
@@ -4482,6 +4514,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141957Z" creationid="AgataWojtera" creationdate="20210323T141957Z">
         <seg>Rosyjski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>S&amp;lide Comments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144612Z" creationid="Aleksandra" creationdate="20210330T144612Z">
+        <seg>S&amp;lide Comments</seg>
       </tuv>
     </tu>
     <tu>
