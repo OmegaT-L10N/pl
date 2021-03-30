@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Copy Support Info</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T151220Z" creationid="Aleksandra" creationdate="20210330T151220Z">
+        <seg>&amp;Kopiować informacje o pomocy technicznej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cycle</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T181312Z" creationid="monika" creationdate="20210327T181312Z">
@@ -1786,6 +1794,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DictZip from JDict (GPL)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150945Z" creationid="Aleksandra" creationdate="20210330T150945Z">
+        <seg>DictZip z JDict (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionaries</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T172613Z" creationid="Aleksandra" creationdate="20210317T170023Z">
@@ -2804,6 +2820,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002313Z" creationid="Agata Kaczmarska" creationdate="20210326T002313Z">
         <seg>Przejdź do segmentu "Źródło"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Groovy (Apache Licence 2.0)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150927Z" creationid="Aleksandra" creationdate="20210330T150927Z">
+        <seg>Groovy (licencja Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4124,6 +4148,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T225838Z" creationid="Paula" creationdate="20210329T225838Z">
         <seg>Tryb zastępowania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDFBox (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150910Z" creationid="Aleksandra" creationdate="20210330T150910Z">
+        <seg>PDFBox (licencja Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5451,6 +5483,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150920Z" creationid="Aleksandra" creationdate="20210330T150920Z">
+        <seg>SuperTMXMerge (licencja Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Supported Files</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172654Z" creationid="AgatoZiemniak" creationdate="20210322T172654Z">
@@ -6632,6 +6672,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>juniversalchardet (GPL)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150938Z" creationid="Aleksandra" creationdate="20210330T150938Z">
+        <seg>juniversalchardet (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>lan&amp;g (language attribute)</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140103Z" creationid="AgataWojtera" creationdate="20210323T140103Z">
@@ -6644,6 +6692,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T164730Z" creationid="magdaradka" creationdate="20210323T164730Z">
         <seg>Załadowano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mALIGNa (MIT License)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150953Z" creationid="Aleksandra" creationdate="20210330T150953Z">
+        <seg>mALIGNa (licencja MIT)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6680,10 +6736,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>slf4j (MIT License)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150934Z" creationid="Aleksandra" creationdate="20210330T150934Z">
+        <seg>slf4j (licencja MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>src (URL of &amp;images)</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140052Z" creationid="AgataWojtera" creationdate="20210323T140052Z">
         <seg>src (URL obrazów)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trie4j (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T151004Z" creationid="Aleksandra" creationdate="20210330T151004Z">
+        <seg>trie4j (licencja Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
