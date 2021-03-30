@@ -3796,6 +3796,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modification info text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T164338Z" creationid="wciecierska" creationdate="20210330T164338Z">
+        <seg>Treść informacji o modyfikacjach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T225501Z" creationid="Paula" creationdate="20210329T225501Z">
@@ -4694,6 +4702,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173923Z" creationid="AgatoZiemniak" creationdate="20210322T173923Z">
         <seg>Usuń znaczniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove text target</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T164400Z" creationid="wciecierska" creationdate="20210330T164400Z">
+        <seg>Usuń tekst docelowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -6642,6 +6658,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T191135Z" creationid="Aleksandra" creationdate="20210327T191135Z">
         <seg>Whitespace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespaces</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T165049Z" creationid="wciecierska" creationdate="20210330T165049Z">
+        <seg>Znaki niedrukowane</seg>
       </tuv>
     </tu>
     <tu>
