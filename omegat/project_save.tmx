@@ -1146,6 +1146,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;harts</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145102Z" creationid="Aleksandra" creationdate="20210330T145102Z">
+        <seg>Wykresy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;lear</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143922Z" creationid="magdalenaklocek" creationdate="20210323T143922Z">
@@ -2318,6 +2326,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145019Z" creationid="Aleksandra" creationdate="20210330T145019Z">
+        <seg>Linki z&amp;ewnętrzne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Post-processing Command</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T133034Z" creationid="paulina" creationdate="20210320T133034Z">
@@ -2618,6 +2634,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210326T113904Z" creationid="magda" creationdate="20210325T124916Z">
         <seg>Wykonanie Git "{0}" rozpoczęste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Global</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144958Z" creationid="Aleksandra" creationdate="20210330T144958Z">
+        <seg>Całościowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -4979,6 +5003,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144903Z" creationid="Aleksandra" creationdate="20210330T144903Z">
         <seg>Wzorce slajdów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slide La&amp;youts</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144936Z" creationid="Aleksandra" creationdate="20210330T144936Z">
+        <seg>Układ slajdu</seg>
       </tuv>
     </tu>
     <tu>
