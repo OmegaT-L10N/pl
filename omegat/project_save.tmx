@@ -1969,6 +1969,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Duplicate Fallbac&amp;k Text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144113Z" creationid="Aleksandra" creationdate="20210330T143620Z">
+        <seg>Kopia tekstu zas&amp;tępczego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Duplicate segments: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T225433Z" creationid="Paula" creationdate="20210329T225433Z">
@@ -2450,6 +2458,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T231419Z" creationid="Paula" creationdate="20210329T231419Z">
         <seg>Czcionka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Foote&amp;rs</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T211038Z" creationid="Aleksandra" creationdate="20210329T211038Z">
+        <seg>Stop&amp;ki</seg>
       </tuv>
     </tu>
     <tu>
@@ -3620,8 +3636,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="EN">
         <seg>Non-visible Instruction Te&amp;xt</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210946Z" creationid="Aleksandra" creationdate="20210329T210829Z">
-        <seg>Niewidzialny Te&amp;kst instrukcji </seg>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T143626Z" creationid="Aleksandra" creationdate="20210329T210829Z">
+        <seg>Niewidoczny Te&amp;kst instrukcji </seg>
       </tuv>
     </tu>
     <tu>
