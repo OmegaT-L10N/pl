@@ -3756,6 +3756,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move &amp;First</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T152053Z" creationid="Aleksandra" creationdate="20210330T152053Z">
+        <seg>Move &amp;First</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move Down</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174119Z" creationid="AgatoZiemniak" creationdate="20210322T173000Z">
@@ -4016,6 +4024,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T183628Z" creationid="Aleksandra" creationdate="20210327T183628Z">
         <seg>OmegaT robi również kopię pamięci tłumaczeniowej w formie pliku o nazwie project_save.tmx.YEARMMDDHHNN.bak in w tym samym podfolderze, za każdym razem, kiedy projekt jest otwarty lub odświeżony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT does not have read and write permissions to this folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T152002Z" creationid="Aleksandra" creationdate="20210330T152002Z">
+        <seg>OmegaT does not have read and write permissions to this folder.</seg>
       </tuv>
     </tu>
     <tu>
