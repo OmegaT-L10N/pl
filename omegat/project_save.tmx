@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Preserve spaces for all tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145303Z" creationid="Aleksandra" creationdate="20210330T145303Z">
+        <seg>&amp;Zostaw miejsce dla wszystkich tagów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Quit</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210006Z" creationid="Aleksandra" creationdate="20210329T210006Z">
@@ -689,6 +697,14 @@
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T195516Z" creationid="beataporodzynska" creationdate="20210325T195516Z">
         <seg>Notatka jest tylko komentarzem do tego segmentu składającego się z tekstu źródłowego i tłumaczenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&amp;ggregate Tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145231Z" creationid="Aleksandra" creationdate="20210330T145231Z">
+        <seg>Połączyć tagi </seg>
       </tuv>
     </tu>
     <tu>
@@ -1656,6 +1672,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>D&amp;iagrams</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145108Z" creationid="Aleksandra" creationdate="20210330T145108Z">
+        <seg>Giagramy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142006Z" creationid="AgataWojtera" creationdate="20210323T142006Z">
@@ -1957,6 +1981,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T175042Z" creationid="Paula" creationdate="20210329T175042Z">
         <seg>Pobierz plik. Powinien to być plik archiwalny  &lt;f0&gt;tarball&lt;/f0&gt;  (rozszerzenie &lt;e1&gt;tar.bz&lt;/e1&gt; lub &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dra&amp;wings</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145114Z" creationid="Aleksandra" creationdate="20210330T145114Z">
+        <seg>Rysunki</seg>
       </tuv>
     </tu>
     <tu>
@@ -3916,6 +3948,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other Options:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145132Z" creationid="Aleksandra" creationdate="20210330T145132Z">
+        <seg>Inne opcje:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Out-of-order</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210326T112955Z" creationid="paulina" creationdate="20210320T133605Z">
@@ -5183,6 +5223,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145616Z" creationid="Aleksandra" creationdate="20210330T145616Z">
+        <seg>Rozpocznij nowy ustęp używając miękkich zwrotów w Wordzie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start a new paragraph on:</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140538Z" creationid="AgataWojtera" creationdate="20210323T140538Z">
@@ -6198,6 +6246,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210704Z" creationid="Aleksandra" creationdate="20210329T210704Z">
         <seg>Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordAr&amp;t</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145118Z" creationid="Aleksandra" creationdate="20210330T145118Z">
+        <seg>WordAr&amp;t</seg>
       </tuv>
     </tu>
     <tu>
