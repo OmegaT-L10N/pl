@@ -733,6 +733,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150210Z" creationid="Aleksandra" creationdate="20210330T150210Z">
+        <seg>Aaron Madlon-Kay jest kierownikiem projektu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aborted.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004402Z" creationid="Agata Kaczmarska" creationdate="20210326T004402Z">
@@ -1390,6 +1398,16 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210958Z" creationid="Aleksandra" creationdate="20210329T210958Z">
         <seg>Ko&amp;mentarze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by:
+{0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150403Z" creationid="Aleksandra" creationdate="20210330T150403Z">
+        <seg>Kod został stworzony przez:
+{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3912,6 +3930,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T135515Z" creationid="beataporodzynska" creationdate="20210325T135515Z">
         <seg>OmegaT nie ma dostępu do właściwości systemu zawierających nazwę systemu operacyjnego i/lub nazwę katalogu domowego użytkownika. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is the original work of Keith Godfrey.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150135Z" creationid="Aleksandra" creationdate="20210330T150135Z">
+        <seg>OmegaT jest dziełem Keith Godfrey.</seg>
       </tuv>
     </tu>
     <tu>
