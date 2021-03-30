@@ -416,8 +416,8 @@
       <tuv lang="EN">
         <seg>&amp;Sheet Names</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144320Z" creationid="Aleksandra" creationdate="20210330T144320Z">
-        <seg>&amp;Nazwy strony</seg>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144622Z" creationid="Aleksandra" creationdate="20210330T144320Z">
+        <seg>&amp;Nazwy arkuszy</seg>
       </tuv>
     </tu>
     <tu>
@@ -4520,8 +4520,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>S&amp;lide Comments</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144612Z" creationid="Aleksandra" creationdate="20210330T144612Z">
-        <seg>S&amp;lide Comments</seg>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144659Z" creationid="Aleksandra" creationdate="20210330T144612Z">
+        <seg>Komentarze do s&amp;lajdów</seg>
       </tuv>
     </tu>
     <tu>
@@ -4971,6 +4971,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T132657Z" creationid="paulina" creationdate="20210320T132657Z">
         <seg>Pomijanie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sli&amp;de Masters</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144903Z" creationid="Aleksandra" creationdate="20210330T144903Z">
+        <seg>Wzorce slajdów</seg>
       </tuv>
     </tu>
     <tu>
