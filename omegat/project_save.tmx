@@ -1460,6 +1460,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Commands</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210330T154306Z" creationid="beataporodzynska" creationdate="20210330T154306Z">
+        <seg>Komendy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comme&amp;nts</seg>
       </tuv>
       <tuv lang="pl" changeid="Aleksandra" changedate="20210330T144304Z" creationid="Aleksandra" creationdate="20210330T144304Z">
@@ -5034,6 +5042,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Se&amp;t</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210330T154358Z" creationid="beataporodzynska" creationdate="20210330T154358Z">
+        <seg>Usta&amp;w</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search Dictionaries</seg>
       </tuv>
       <tuv lang="pl" changeid="Paula" changedate="20210329T221757Z" creationid="Paula" creationdate="20210329T221757Z">
@@ -5263,6 +5279,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T210327Z" creationid="magdalenaklocek" creationdate="20210322T210327Z">
         <seg>Skrót</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shortcut:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210330T154257Z" creationid="beataporodzynska" creationdate="20210330T154257Z">
+        <seg>Skrót klawiszowy:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6250,6 +6274,14 @@ the server.</seg>
       </tuv>
       <tuv lang="pl" changeid="monika" changedate="20210325T123709Z" creationid="monika" creationdate="20210325T123709Z">
         <seg>Ardes URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URLs</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210330T154331Z" creationid="beataporodzynska" creationdate="20210330T154331Z">
+        <seg>Adresy URL</seg>
       </tuv>
     </tu>
     <tu>
