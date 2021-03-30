@@ -1873,6 +1873,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Doc&amp;ument properties</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144130Z" creationid="Aleksandra" creationdate="20210330T144130Z">
+        <seg>Właściwości dok&amp;mentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dock</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210326T112600Z" creationid="beataporodzynska" creationdate="20210326T112600Z">
