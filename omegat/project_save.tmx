@@ -136,8 +136,8 @@
       <tuv lang="EN">
         <seg>&amp;Copy Support Info</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T151220Z" creationid="Aleksandra" creationdate="20210330T151220Z">
-        <seg>&amp;Kopiować informacje o pomocy technicznej</seg>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T151247Z" creationid="Aleksandra" creationdate="20210330T151220Z">
+        <seg>&amp;Kopiuj informacje o pomocy technicznej</seg>
       </tuv>
     </tu>
     <tu>
@@ -719,8 +719,8 @@
       <tuv lang="EN">
         <seg>A&amp;ggregate Tags</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145231Z" creationid="Aleksandra" creationdate="20210330T145231Z">
-        <seg>Połączyć tagi </seg>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T151223Z" creationid="Aleksandra" creationdate="20210330T145231Z">
+        <seg>Połącz tagi </seg>
       </tuv>
     </tu>
     <tu>
@@ -3460,6 +3460,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Last changes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T151310Z" creationid="Aleksandra" creationdate="20210330T151310Z">
+        <seg>Ostatnie zmiany </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Last modified by {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T231402Z" creationid="Paula" creationdate="20210329T231402Z">
@@ -3504,6 +3512,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T123639Z" creationid="monika" creationdate="20210325T123639Z">
         <seg>Ścieżka lokalnej instalacji:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Log:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T151439Z" creationid="Aleksandra" creationdate="20210330T151439Z">
+        <seg>Dziennik:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4034,6 +4050,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150135Z" creationid="Aleksandra" creationdate="20210330T150135Z">
         <seg>OmegaT jest dziełem Keith Godfrey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT license</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T151302Z" creationid="Aleksandra" creationdate="20210330T151302Z">
+        <seg>OmegaT, licencja</seg>
       </tuv>
     </tu>
     <tu>
@@ -5965,8 +5989,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210900Z" creationid="Aleksandra" creationdate="20210329T210900Z">
-        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T151759Z" creationid="Aleksandra" creationdate="20210329T210900Z">
+        <seg>Ten program jest wolnym oprogramowaniem; możesz go rozprowadzać dalej i/lub modyfikować zgodnie z warunkami Powszechnej Licencji Publicznej GNU opublikowanej przez Free Software Foundation; albo w wersji 3. tej Licencji, albo (według Twojego uznania) w każdej późniejszej wersji.</seg>
       </tuv>
     </tu>
     <tu>
