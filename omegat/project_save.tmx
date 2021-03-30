@@ -5130,6 +5130,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sample Output</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T171216Z" creationid="wciecierska" creationdate="20210330T171216Z">
+        <seg>Przykładowy wynik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Alignment Results</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174754Z" creationid="AgatoZiemniak" creationdate="20210322T174754Z">
@@ -6047,6 +6055,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210322T124158Z" creationid="paulina" creationdate="20210322T124158Z">
         <seg>Terminy z kilkoma celami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T171224Z" creationid="wciecierska" creationdate="20210330T171224Z">
+        <seg>Test</seg>
       </tuv>
     </tu>
     <tu>
