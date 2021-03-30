@@ -749,6 +749,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ASCII Only</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210330T204106Z" creationid="monika" creationdate="20210330T204106Z">
+        <seg>Tylko ASCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
       </tuv>
       <tuv lang="pl" changeid="Aleksandra" changedate="20210330T150210Z" creationid="Aleksandra" creationdate="20210330T150210Z">
@@ -1238,6 +1246,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="pl" changeid="wciecierska" changedate="20210330T165058Z" creationid="wciecierska" creationdate="20210330T165058Z">
         <seg>Dwukierunkowe znaki kontrolne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Both</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210330T204113Z" creationid="monika" creationdate="20210330T204113Z">
+        <seg>Oba</seg>
       </tuv>
     </tu>
     <tu>
@@ -2439,6 +2455,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T132708Z" creationid="paulina" creationdate="20210320T132708Z">
         <seg>Błąd: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Escape</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210330T204027Z" creationid="monika" creationdate="20210330T204027Z">
+        <seg>Wyjdź</seg>
       </tuv>
     </tu>
     <tu>
@@ -4084,6 +4108,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-ASCII Only</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210330T204405Z" creationid="monika" creationdate="20210330T204405Z">
+        <seg>Jedynie bez ASCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-breakable space</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T133259Z" creationid="paulina" creationdate="20210320T133259Z">
@@ -4120,6 +4152,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="pl" changeid="Aleksandra" changedate="20210330T143626Z" creationid="Aleksandra" creationdate="20210329T210829Z">
         <seg>Niewidoczny Te&amp;kst instrukcji </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210330T204056Z" creationid="monika" creationdate="20210330T204056Z">
+        <seg>Brak</seg>
       </tuv>
     </tu>
     <tu>
