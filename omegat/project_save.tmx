@@ -1452,6 +1452,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Command:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210330T154127Z" creationid="beataporodzynska" creationdate="20210330T154127Z">
+        <seg>Komenda:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comme&amp;nts</seg>
       </tuv>
       <tuv lang="pl" changeid="Aleksandra" changedate="20210330T144304Z" creationid="Aleksandra" creationdate="20210330T144304Z">
@@ -2163,10 +2171,18 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit External Search Command</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210330T154036Z" creationid="beataporodzynska" creationdate="20210330T154036Z">
+        <seg>Edytuj komendę wyszukiwania zewnętrznego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit External Search URL</seg>
       </tuv>
-      <tuv lang="pl" changeid="beataporodzynska" changedate="20210330T153914Z" creationid="beataporodzynska" creationdate="20210330T153914Z">
-        <seg>Edytuj adres URL wyszukiwarki zewnętrznejńń</seg>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210330T153927Z" creationid="beataporodzynska" creationdate="20210330T153914Z">
+        <seg>Edytuj adres URL wyszukiwarki zewnętrznej</seg>
       </tuv>
     </tu>
     <tu>
