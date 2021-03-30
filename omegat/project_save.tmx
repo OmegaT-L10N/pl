@@ -725,6 +725,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ANTLR (ANTLR 3 License)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150744Z" creationid="Aleksandra" creationdate="20210330T150744Z">
+        <seg>ANTLR (licencja ANTLR 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>API Key:</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210327T194102Z" creationid="wciecierska" creationdate="20210327T194102Z">
@@ -1003,6 +1011,14 @@
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174811Z" creationid="AgatoZiemniak" creationdate="20210322T174811Z">
         <seg>Element o nazwie "{0}" już istnieje w tym miejscu..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apache Commons (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150853Z" creationid="Aleksandra" creationdate="20210330T150853Z">
+        <seg>Apache Commons (licencja Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1798,6 +1814,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T131045Z" creationid="monika" creationdate="20210325T131045Z">
         <seg>Instalator słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Diff (GPL)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150816Z" creationid="Aleksandra" creationdate="20210330T150816Z">
+        <seg>Diff (GPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3172,6 +3196,22 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JGit (Eclipse Distribution License)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150759Z" creationid="Aleksandra" creationdate="20210330T150759Z">
+        <seg>JGit (licencja Eclipse Distribution)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>JSch (JSch License)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150805Z" creationid="Aleksandra" creationdate="20210330T150805Z">
+        <seg>JSch (licencja JSch)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Japanese</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141935Z" creationid="AgataWojtera" creationdate="20210323T141935Z">
@@ -3184,6 +3224,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210326T100654Z" creationid="Kasia Mędrzycka" creationdate="20210326T100654Z">
         <seg>Java: wersja {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jmyspell (LGPL License)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150717Z" creationid="Aleksandra" creationdate="20210330T150717Z">
+        <seg>Jmyspell (licencja LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3272,6 +3320,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T170550Z" creationid="magdaradka" creationdate="20210323T170550Z">
         <seg>Nie określono języka dla wariantu jednostki tłumaczeniowej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool (LGPL License and others)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150903Z" creationid="Aleksandra" creationdate="20210330T150903Z">
+        <seg>LanguageTool (licencja LGPL i inne)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3424,6 +3480,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T123639Z" creationid="monika" creationdate="20210325T123639Z">
         <seg>Ścieżka lokalnej instalacji:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lucene (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150837Z" creationid="Aleksandra" creationdate="20210330T150837Z">
+        <seg>Lucene (licencja Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4690,6 +4754,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SQLJet (GPL License)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150751Z" creationid="Aleksandra" creationdate="20210330T150751Z">
+        <seg>SQLJet (licencja GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SVN '{0}' error: {1}</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210326T113853Z" creationid="magda" creationdate="20210325T124642Z">
@@ -4718,6 +4790,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210329T170619Z" creationid="Aleksandra" creationdate="20210329T170619Z">
         <seg>SVN - Cleanup (recursive)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVNKit (TMate License)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150727Z" creationid="Aleksandra" creationdate="20210330T150727Z">
+        <seg>SVNKit (licencja TMate)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4992,6 +5072,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003246Z" creationid="Agata Kaczmarska" creationdate="20210326T003246Z">
         <seg>Wybrany silnik: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sequence Library (Sequence Library License)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150737Z" creationid="Aleksandra" creationdate="20210330T150737Z">
+        <seg>Sequence Library (licencja Sequence Library)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6214,6 +6302,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VLDocking Framework (LGPL License)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150706Z" creationid="Aleksandra" creationdate="20210330T150706Z">
+        <seg>VLDocking Framework (licencja LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Validating tags</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004354Z" creationid="Agata Kaczmarska" creationdate="20210326T004354Z">
@@ -6528,6 +6624,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>jsch-agent-proxy (jsch-agent-proxy License)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150813Z" creationid="Aleksandra" creationdate="20210330T150813Z">
+        <seg>jsch-agent-proxy (licencja jsch-agent-proxy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>lan&amp;g (language attribute)</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140103Z" creationid="AgataWojtera" creationdate="20210323T140103Z">
@@ -6580,6 +6684,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140052Z" creationid="AgataWojtera" creationdate="20210323T140052Z">
         <seg>src (URL obrazów)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trilead-ssh2 (Trilead SSH license)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150822Z" creationid="Aleksandra" creationdate="20210330T150822Z">
+        <seg>trilead-ssh2 (licencja Trilead SSH)</seg>
       </tuv>
     </tu>
     <tu>
