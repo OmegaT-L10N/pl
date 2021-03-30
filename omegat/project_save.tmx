@@ -1202,6 +1202,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bidirectional control characters</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T165058Z" creationid="wciecierska" creationdate="20210330T165058Z">
+        <seg>Dwukierunkowe znaki kontrolne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Break/Exception</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141757Z" creationid="AgataWojtera" creationdate="20210323T141553Z">
@@ -2728,6 +2736,22 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From auto memory</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T165111Z" creationid="wciecierska" creationdate="20210330T165111Z">
+        <seg>Z pamięci automatycznej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From enforced memory</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T165115Z" creationid="wciecierska" creationdate="20210330T165115Z">
+        <seg>Z pamięci wymuszonej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From memory</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210327T215445Z" creationid="wciecierska" creationdate="20210327T215445Z">
@@ -2828,6 +2852,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163723Z" creationid="magdaradka" creationdate="20210323T163723Z">
         <seg>Glosariusz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary Matches</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T165156Z" creationid="wciecierska" creationdate="20210330T165156Z">
+        <seg>Dopasowania glosariusza</seg>
       </tuv>
     </tu>
     <tu>
@@ -3372,6 +3404,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Language Checker</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T165146Z" creationid="wciecierska" creationdate="20210330T165146Z">
+        <seg>Kontrola językowa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Language Name</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141446Z" creationid="AgataWojtera" creationdate="20210323T141446Z">
@@ -3704,6 +3744,22 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172156Z" creationid="AgatoZiemniak" creationdate="20210322T172156Z">
         <seg>Rodzaj dopasowania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Changed</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T165214Z" creationid="wciecierska" creationdate="20210330T165214Z">
+        <seg>Dopasowania zmienione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Unchanged</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T165219Z" creationid="wciecierska" creationdate="20210330T165219Z">
+        <seg>Dopasowania niezmienione</seg>
       </tuv>
     </tu>
     <tu>
@@ -4260,6 +4316,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150910Z" creationid="Aleksandra" creationdate="20210330T150910Z">
         <seg>PDFBox (licencja Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph delimitation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T165124Z" creationid="wciecierska" creationdate="20210330T165124Z">
+        <seg>Ograniczenie akapitu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5587,6 +5651,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spellcheck</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T165200Z" creationid="wciecierska" creationdate="20210330T165200Z">
+        <seg>Sprawdzanie pisowni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Split</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173008Z" creationid="AgatoZiemniak" creationdate="20210322T173008Z">
@@ -5831,6 +5903,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T131147Z" creationid="magda" creationdate="20210325T131147Z">
         <seg>Synchronizacja zespołowa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terminology</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210330T165205Z" creationid="wciecierska" creationdate="20210330T165205Z">
+        <seg>Terminologia</seg>
       </tuv>
     </tu>
     <tu>
