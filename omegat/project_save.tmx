@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;License</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145753Z" creationid="Aleksandra" creationdate="20210330T145753Z">
+        <seg>&amp;Licencja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Load...</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210127Z" creationid="magdalenaklocek" creationdate="20210322T210127Z">
@@ -729,6 +737,14 @@
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004402Z" creationid="Agata Kaczmarska" creationdate="20210326T004402Z">
         <seg>Przerwano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>About OmegaT</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145712Z" creationid="Aleksandra" creationdate="20210330T145712Z">
+        <seg>O programie OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -1510,6 +1526,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T125823Z" creationid="magda" creationdate="20210325T125823Z">
         <seg>Konwertuj stary projekt zespołowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145748Z" creationid="Aleksandra" creationdate="20210330T145748Z">
+        <seg>Prawa autorskie © 2000-2019 Keith Godfrey, Maxym Mykhalchuk i inni</seg>
       </tuv>
     </tu>
     <tu>
@@ -3870,6 +3894,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T125908Z" creationid="magda" creationdate="20210325T125908Z">
         <seg>Program OmegaT wykrył styl projektu zespołowego 3.6. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150101Z" creationid="Aleksandra" creationdate="20210330T150101Z">
+        <seg>OmegaT to darmowe i otwarte wieloplatformowe narzędzie do tłumaczenia wspomaganego komputerowo z funkcją dopasowywania rozmytego, pamięcią tłumaczeniową, wyszukiwaniem słów kluczowych, glosariuszami i wykorzystaniem tłumaczeń do aktualizowanych projektów..</seg>
       </tuv>
     </tu>
     <tu>
