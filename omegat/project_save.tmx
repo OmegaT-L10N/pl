@@ -1732,6 +1732,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create &amp;Translated Documents</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T114438Z" creationid="annagorska" creationdate="20210331T114438Z">
+        <seg>Stwórz tłumaczenie </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create Alternative Translation</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T113435Z" creationid="Agata Kaczmarska" creationdate="20210326T113435Z">
