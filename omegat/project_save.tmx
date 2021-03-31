@@ -2162,6 +2162,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DeepL Api key not available.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T121031Z" creationid="Anna Zaręba" creationdate="20210331T121031Z">
+        <seg>Klucz API DeepL nie jest dostępny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142006Z" creationid="AgataWojtera" creationdate="20210323T142006Z">
@@ -2679,6 +2687,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141925Z" creationid="AgataWojtera" creationdate="20210323T141925Z">
         <seg>Angielski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ensure the URL is correct.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T120734Z" creationid="Anna Zaręba" creationdate="20210331T120734Z">
+        <seg>Upewnij się, że adres URL jest prawidłowy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3388,6 +3404,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002313Z" creationid="Agata Kaczmarska" creationdate="20210326T002313Z">
         <seg>Przejdź do segmentu "Źródło"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Google Api key not available.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T120832Z" creationid="Anna Zaręba" creationdate="20210331T120832Z">
+        <seg>Klucz Google Api nie jest dostępny..</seg>
       </tuv>
     </tu>
     <tu>
@@ -4328,6 +4352,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T182001Z" creationid="monika" creationdate="20210327T182001Z">
         <seg>Zaznacz segmenty &amp;z notatkami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark unknown words</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T120751Z" creationid="Anna Zaręba" creationdate="20210331T120751Z">
+        <seg>Zaznacz nieznane wyrazy</seg>
       </tuv>
     </tu>
     <tu>
@@ -5281,6 +5313,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Premium Edition</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T120802Z" creationid="Anna Zaręba" creationdate="20210331T120802Z">
+        <seg>Edycja Premium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
@@ -6054,6 +6094,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150542Z" creationid="Aleksandra" creationdate="20210330T150542Z">
         <seg>Zobacz /docs/contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See OmegaT manual for instructions.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T120948Z" creationid="Anna Zaręba" creationdate="20210331T120948Z">
+        <seg>Instrukcje znajdują się w podręczniku użytkownika programu OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
