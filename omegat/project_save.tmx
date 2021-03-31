@@ -246,10 +246,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Forward in History</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T120008Z" creationid="annagorska" creationdate="20210331T120008Z">
+        <seg>Wprzód w historii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Glossaries</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T114843Z" creationid="annagorska" creationdate="20210331T114843Z">
         <seg>&amp;glosariusze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Go To</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115836Z" creationid="annagorska" creationdate="20210331T115836Z">
+        <seg>Przejdź do</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Next Segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115849Z" creationid="annagorska" creationdate="20210331T115849Z">
+        <seg>Kolejny segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Open Script...</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002638Z" creationid="Agata Kaczmarska" creationdate="20210326T002638Z">
@@ -362,6 +386,14 @@
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145303Z" creationid="Aleksandra" creationdate="20210330T145303Z">
         <seg>&amp;Zostaw miejsce dla wszystkich tagów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Previous Segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115918Z" creationid="annagorska" creationdate="20210331T115918Z">
+        <seg>&amp;Poprzedni Segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -482,6 +514,14 @@
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163951Z" creationid="magdaradka" creationdate="20210323T163951Z">
         <seg>&amp;Szukaj zaznaczenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Segment Number...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115934Z" creationid="annagorska" creationdate="20210331T115934Z">
+        <seg>Numer segmentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4284,6 +4324,30 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next &amp;Translated Segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115915Z" creationid="annagorska" creationdate="20210331T115915Z">
+        <seg>Kolejny przetłumaczony Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next &amp;Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115903Z" creationid="annagorska" creationdate="20210331T115903Z">
+        <seg>Kolejny nieprzetłumaczony Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next N&amp;ote</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115856Z" creationid="annagorska" creationdate="20210331T115856Z">
+        <seg>Kolejna notatka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next →</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211922Z" creationid="magdalenaklocek" creationdate="20210322T211922Z">
@@ -4990,6 +5054,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T171432Z" creationid="AgatoZiemniak" creationdate="20210322T170028Z">
         <seg>Wstecz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous No&amp;te</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115928Z" creationid="annagorska" creationdate="20210331T115928Z">
+        <seg>Poprzednia notatka </seg>
       </tuv>
     </tu>
     <tu>
@@ -5764,8 +5836,16 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Select &amp;Next Match</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115650Z" creationid="annagorska" creationdate="20210331T115636Z">
-        <seg>Zaznacz </seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115705Z" creationid="annagorska" creationdate="20210331T115636Z">
+        <seg>Zaznacz kolejny odpowiednik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &amp;Previous Match</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115714Z" creationid="annagorska" creationdate="20210331T115714Z">
+        <seg>Zaznacz poprzendi odpowiednik</seg>
       </tuv>
     </tu>
     <tu>
@@ -5780,8 +5860,48 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115642Z" creationid="annagorska" creationdate="20210331T115628Z">
-        <seg>Zaznacz dobór</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115656Z" creationid="annagorska" creationdate="20210331T115628Z">
+        <seg>Zaznacz odpowiednik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;1</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115730Z" creationid="annagorska" creationdate="20210331T115730Z">
+        <seg>Zaznacz odpowiednik #&amp;1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;2</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115734Z" creationid="annagorska" creationdate="20210331T115734Z">
+        <seg>Zaznacz odpowiednik #&amp;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;3</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115737Z" creationid="annagorska" creationdate="20210331T115737Z">
+        <seg>Zaznacz odpowiednik #&amp;3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;4</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115740Z" creationid="annagorska" creationdate="20210331T115740Z">
+        <seg>Zaznacz odpowiednik#&amp;4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;5</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115744Z" creationid="annagorska" creationdate="20210331T115744Z">
+        <seg>Zaznacz odpowiednik #&amp;5</seg>
       </tuv>
     </tu>
     <tu>
