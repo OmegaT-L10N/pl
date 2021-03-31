@@ -3474,6 +3474,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Missing Source &amp;Tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115543Z" creationid="annagorska" creationdate="20210331T115543Z">
+        <seg>Wprowadź brakujący tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Mode</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T225910Z" creationid="Paula" creationdate="20210329T225910Z">
@@ -3482,10 +3490,26 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Next Missing Tag</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115604Z" creationid="annagorska" creationdate="20210331T115604Z">
+        <seg>wprowadź kolejny brakujący tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Selection</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T120432Z" creationid="beataporodzynska" creationdate="20210325T120432Z">
         <seg>Wstaw dopasowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Tag {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115615Z" creationid="annagorska" creationdate="20210331T115615Z">
+        <seg>IWprowadź tag {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5738,10 +5762,26 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &amp;Next Match</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115650Z" creationid="annagorska" creationdate="20210331T115636Z">
+        <seg>Zaznacz </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Fol&amp;der</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210009Z" creationid="Aleksandra" creationdate="20210329T210009Z">
         <seg>Select Fol&amp;der</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Mat&amp;ch</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115642Z" creationid="annagorska" creationdate="20210331T115628Z">
+        <seg>Zaznacz dobór</seg>
       </tuv>
     </tu>
     <tu>
