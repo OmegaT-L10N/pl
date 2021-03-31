@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -282,6 +282,14 @@
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T115301Z" creationid="annagorska" creationdate="20210331T115301Z">
         <seg>Wprowadź odpowiednik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Keyword search</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T120247Z" creationid="annap" creationdate="20210331T120247Z">
+        <seg>Szukaj za pomocą słów kluczowych</seg>
       </tuv>
     </tu>
     <tu>
@@ -1254,6 +1262,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T222243Z" creationid="Paula" creationdate="20210329T222243Z">
         <seg>Automatyczne wpisywanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-sync with Editor</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T115425Z" creationid="annap" creationdate="20210331T115425Z">
+        <seg>Auto-sync with Editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -4630,8 +4646,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="EN">
         <seg>OmegaT does not have read and write permissions to this folder.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T152002Z" creationid="Aleksandra" creationdate="20210330T152002Z">
-        <seg>OmegaT does not have read and write permissions to this folder.</seg>
+      <tuv lang="PL" changeid="annap" changedate="20210331T120119Z" creationid="Aleksandra" creationdate="20210330T152002Z">
+        <seg>OmegaT nie ma pozwoleń na dostęp do odczytu i zapisu dla tego folderu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4941,6 +4957,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T145425Z" creationid="magdalenaklocek" creationdate="20210323T145425Z">
         <seg>Proszę rozwiązać konflikty poprzez wybranie tłumaczenia do segmentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select a different folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T120129Z" creationid="annap" creationdate="20210331T115846Z">
+        <seg>Proszę wybrać inny folder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5386,6 +5410,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T120149Z" creationid="annap" creationdate="20210331T120139Z">
+        <seg>Zamień na:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repository Credentials</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T132424Z" creationid="paulina" creationdate="20210320T132424Z">
@@ -5742,6 +5774,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T174715Z" creationid="Paula" creationdate="20210329T174715Z">
         <seg>Wyszukaj żądaną kombinację językową , np. klikając w linki do &lt;u0&gt;słowników proponowanych przez OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search for:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T120143Z" creationid="annap" creationdate="20210331T120137Z">
+        <seg>Szukaj:</seg>
       </tuv>
     </tu>
     <tu>
