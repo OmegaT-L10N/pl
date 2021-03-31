@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-5.3.0" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1512,6 +1512,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="pl" changeid="wciecierska" changedate="20210327T205808Z" creationid="wciecierska" creationdate="20210327T205808Z">
         <seg>Kolory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command is missing delimiter</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210331T100047Z" creationid="magdalenaklocek" creationdate="20210331T100047Z">
+        <seg>Komenda nie ma ynaku dzielącego </seg>
       </tuv>
     </tu>
     <tu>
