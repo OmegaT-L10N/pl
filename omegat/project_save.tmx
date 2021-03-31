@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -806,6 +806,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T124224Z" creationid="annap" creationdate="20210331T124224Z">
+        <seg>Znak '*' nie pasuje do żadnych lub pasuje do wielu znaków ('bieg*' pasuje do 'bieg', 'biegnie', 'biegnąć', itd.)
+Znak '?' pasuje do jednego znaku ('bieg?' pasuje do 'biegi', ale nie do 'biegnąć' czy 'biegnie').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(+{0} more)</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T183102Z" creationid="monika" creationdate="20210327T183102Z">
@@ -1485,8 +1495,8 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       <tuv lang="EN">
         <seg>Auto-sync with Editor</seg>
       </tuv>
-      <tuv lang="PL" changeid="annap" changedate="20210331T115425Z" creationid="annap" creationdate="20210331T115425Z">
-        <seg>Auto-sync with Editor</seg>
+      <tuv lang="PL" changeid="annap" changedate="20210331T123316Z" creationid="annap" creationdate="20210331T115425Z">
+        <seg>Automatyczna synchronizacja z edytorem</seg>
       </tuv>
     </tu>
     <tu>
@@ -4325,6 +4335,22 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyword searches are not available in the search string.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T123735Z" creationid="annap" creationdate="20210331T123735Z">
+        <seg>Wyszukiwanie poprzez słowa-klucze nie jest możliwe w wyszukiwanej frazie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T123206Z" creationid="annap" creationdate="20210331T123206Z">
+        <seg>Wyszukiwania przez słowa-klucze pasują do wszystkich słów-kluczy oddzielonych spacjami, niezależnie od ich kolejności.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>L&amp;og...</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T223553Z" creationid="Paula" creationdate="20210329T223553Z">
@@ -6099,6 +6125,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T123219Z" creationid="annap" creationdate="20210331T123219Z">
+        <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regular expressions</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210329T170546Z" creationid="Aleksandra" creationdate="20210329T170546Z">
@@ -7598,6 +7632,16 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text Replace:
+The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T123916Z" creationid="annap" creationdate="20210331T123916Z">
+        <seg>Zamiana tekstu:
+Tekst ma być zamieniany na segmenty docelowe, niezależnie od tego, czy są już przetłumaczone, czy nie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text Search</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T121833Z" creationid="annap" creationdate="20210331T121833Z">
@@ -8364,6 +8408,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T123356Z" creationid="annap" creationdate="20210331T123356Z">
+        <seg>Prosze użyć $n w przypadku odnoszenia się do grupy o numerze n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T120407Z" creationid="annagorska" creationdate="20210331T120407Z">
@@ -8542,8 +8594,8 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       <tuv lang="EN">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171055Z" creationid="magdaradka" creationdate="20210317T171055Z">
-        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      <tuv lang="PL" changeid="annap" changedate="20210331T123612Z" creationid="magdaradka" creationdate="20210317T171055Z">
+        <seg>W przypadku używania wyrażeń regularnych, zamieniona fraza umożliwia odniesienie się do grup określonych tą samą frazą.</seg>
       </tuv>
     </tu>
     <tu>
