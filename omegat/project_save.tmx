@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -280,8 +280,8 @@
       <tuv lang="EN">
         <seg>&amp;Glossaries</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T114843Z" creationid="annagorska" creationdate="20210331T114843Z">
-        <seg>&amp;glosariusze</seg>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121317Z" creationid="annagorska" creationdate="20210331T114843Z">
+        <seg>Glosariusze</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,6 +306,14 @@
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T223350Z" creationid="Agata Kaczmarska" creationdate="20210326T003951Z">
         <seg>Pomoc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;In translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121422Z" creationid="annap" creationdate="20210331T121422Z">
+        <seg>W tłumaczeniu</seg>
       </tuv>
     </tu>
     <tu>
@@ -706,6 +714,14 @@
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T120102Z" creationid="annagorska" creationdate="20210331T120102Z">
         <seg>Narzędzia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Translated</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121340Z" creationid="annap" creationdate="20210331T121340Z">
+        <seg>Przetłumaczone</seg>
       </tuv>
     </tu>
     <tu>
@@ -3749,6 +3765,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In so&amp;urce</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121408Z" creationid="annap" creationdate="20210331T121408Z">
+        <seg>W oryginale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
     </tu>
@@ -4488,6 +4512,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163151Z" creationid="magdaradka" creationdate="20210317T171128Z">
         <seg>Osiągnięto maksymalną liczbę wyników ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121256Z" creationid="annap" creationdate="20210331T121256Z">
+        <seg>Pamięć</seg>
       </tuv>
     </tu>
     <tu>
@@ -6154,6 +6186,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search in</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121246Z" creationid="annap" creationdate="20210331T121246Z">
+        <seg>Szukaj w:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search thread died unexpectedly!</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163624Z" creationid="magdaradka" creationdate="20210323T163624Z">
@@ -6877,8 +6917,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>T&amp;Ms</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T114858Z" creationid="annagorska" creationdate="20210331T114858Z">
-        <seg>pamięć tłumaczeniowas</seg>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121308Z" creationid="annagorska" creationdate="20210331T114858Z">
+        <seg>Pamięć tłumaczeniowa</seg>
       </tuv>
     </tu>
     <tu>
@@ -7444,6 +7484,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Trans&amp;lated or untranslated</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121433Z" creationid="annap" creationdate="20210331T121433Z">
+        <seg>Przetłumaczone lub nieprzetłumaczone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translate the following attributes:</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140023Z" creationid="AgataWojtera" creationdate="20210323T140023Z">
@@ -7562,6 +7610,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T123120Z" creationid="monika" creationdate="20210325T123120Z">
         <seg>Wpisz nową regułę ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>U&amp;ntranslated</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121351Z" creationid="annap" creationdate="20210331T121351Z">
+        <seg>Nieprzetłumaczone</seg>
       </tuv>
     </tu>
     <tu>
