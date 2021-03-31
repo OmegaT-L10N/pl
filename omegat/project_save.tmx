@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Access Project Contents</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T114825Z" creationid="annagorska" creationdate="20210331T114825Z">
+        <seg>Dostęp do treści projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Add</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210327T202329Z" creationid="wciecierska" creationdate="20210327T202329Z">
@@ -330,6 +338,14 @@
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145303Z" creationid="Aleksandra" creationdate="20210330T145303Z">
         <seg>&amp;Zostaw miejsce dla wszystkich tagów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Properties...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T114624Z" creationid="annagorska" creationdate="20210331T114624Z">
+        <seg>Właściwości</seg>
       </tuv>
     </tu>
     <tu>
@@ -1747,6 +1763,22 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Create Current Translated &amp;Document</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T114500Z" creationid="annagorska" creationdate="20210331T114500Z">
+        <seg>PL: Stwórz tłumaczenie </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create MED Project...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T114613Z" creationid="annagorska" creationdate="20210331T114613Z">
+        <seg>Otwórcz projekt MED</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>What is a pseudo-translate TMX and what purpose does it serve?</note>
       <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
@@ -2724,6 +2756,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163928Z" creationid="magdalenaklocek" creationdate="20210322T211615Z">
         <seg>Plik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T114636Z" creationid="annagorska" creationdate="20210331T114636Z">
+        <seg>Dokumenty i filtry</seg>
       </tuv>
     </tu>
     <tu>
@@ -4456,6 +4496,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open MED Project...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T114552Z" creationid="annagorska" creationdate="20210331T114552Z">
+        <seg>Otwórz projekt MED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open Writable Glossary File</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T132753Z" creationid="beataporodzynska" creationdate="20210325T132753Z">
@@ -4846,6 +4894,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T142831Z" creationid="magdalenaklocek" creationdate="20210323T142831Z">
         <seg>Przetwarzanie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project &amp;Files...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T114706Z" creationid="annagorska" creationdate="20210331T114706Z">
+        <seg>Dokumenty projektu</seg>
       </tuv>
     </tu>
     <tu>
