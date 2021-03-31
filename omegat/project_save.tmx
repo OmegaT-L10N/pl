@@ -1518,16 +1518,16 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       <tuv lang="en">
         <seg>Command delimiter is empty</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210331T100208Z" creationid="magdalenaklocek" creationdate="20210331T100208Z">
-        <seg>Ogranicynik polecen jest pusty</seg>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210331T100218Z" creationid="magdalenaklocek" creationdate="20210331T100208Z">
+        <seg>Ogranicznik polecen jest pusty</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Command is missing delimiter</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210331T100054Z" creationid="magdalenaklocek" creationdate="20210331T100047Z">
-        <seg>Komenda nie ma znaku dzielącego </seg>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210331T100232Z" creationid="magdalenaklocek" creationdate="20210331T100047Z">
+        <seg>Polecenie nie ma znaku dzielącego </seg>
       </tuv>
     </tu>
     <tu>
@@ -1542,8 +1542,8 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       <tuv lang="en">
         <seg>Commands</seg>
       </tuv>
-      <tuv lang="pl" changeid="beataporodzynska" changedate="20210330T154306Z" creationid="beataporodzynska" creationdate="20210330T154306Z">
-        <seg>Komendy</seg>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210331T100248Z" creationid="beataporodzynska" creationdate="20210330T154306Z">
+        <seg>Polecenia</seg>
       </tuv>
     </tu>
     <tu>
@@ -2596,6 +2596,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T133034Z" creationid="paulina" creationdate="20210320T133034Z">
         <seg>Polecenie dalszego zewnętrznego przetwarzania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210331T100310Z" creationid="magdalenaklocek" creationdate="20210331T100310Z">
+        <seg>Wyszukiwanie zewnętrzne</seg>
       </tuv>
     </tu>
     <tu>
@@ -4798,6 +4806,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="pl" changeid="Aleksandra" changedate="20210329T170540Z" creationid="Aleksandra" creationdate="20210329T170540Z">
         <seg>Project Properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project Specific External Search</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210331T100448Z" creationid="magdalenaklocek" creationdate="20210331T100448Z">
+        <seg>Charakterystyczne dla projektu wyszukiwanie</seg>
       </tuv>
     </tu>
     <tu>
