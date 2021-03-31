@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Exact search</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T120355Z" creationid="annap" creationdate="20210331T120301Z">
+        <seg>Dokładne wyszukiwanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Find...</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003815Z" creationid="Agata Kaczmarska" creationdate="20210326T003815Z">
@@ -296,8 +304,8 @@
       <tuv lang="EN">
         <seg>&amp;Keyword search</seg>
       </tuv>
-      <tuv lang="PL" changeid="annap" changedate="20210331T120247Z" creationid="annap" creationdate="20210331T120247Z">
-        <seg>Szukaj za pomocą słów kluczowych</seg>
+      <tuv lang="PL" changeid="annap" changedate="20210331T120332Z" creationid="annap" creationdate="20210331T120247Z">
+        <seg>Wyszukiwanie za pomocą słów kluczowych</seg>
       </tuv>
     </tu>
     <tu>
@@ -450,6 +458,14 @@
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T115205Z" creationid="annagorska" creationdate="20210331T115205Z">
         <seg>Ponów ostatnią czynność</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Regular expressions</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T120422Z" creationid="annap" creationdate="20210331T120422Z">
+        <seg>Wyrażenia regularne</seg>
       </tuv>
     </tu>
     <tu>
@@ -1286,6 +1302,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004220Z" creationid="Agata Kaczmarska" creationdate="20210326T004220Z">
         <seg>Atrybuty:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aut&amp;hor:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T120523Z" creationid="annap" creationdate="20210331T120523Z">
+        <seg>Aut&amp;hor:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3384,6 +3408,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hide Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T120521Z" creationid="annap" creationdate="20210331T120521Z">
+        <seg>Ukryj opcje zaawansowane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Highlight</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173820Z" creationid="AgatoZiemniak" creationdate="20210322T173820Z">
@@ -3569,6 +3601,22 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210331T100542Z" creationid="magdalenaklocek" creationdate="20210331T100542Z">
         <seg>W Edytorze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In comments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T120432Z" creationid="annap" creationdate="20210331T120432Z">
+        <seg>Komentarze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In notes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T120428Z" creationid="annap" creationdate="20210331T120428Z">
+        <seg>Notatki</seg>
       </tuv>
     </tu>
     <tu>
@@ -6247,6 +6295,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210322T123717Z" creationid="paulina" creationdate="20210322T123717Z">
         <seg>Pokaż termin docelowy najpierw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T120512Z" creationid="annap" creationdate="20210331T120512Z">
+        <seg>Pokaż opcje zaawansowane</seg>
       </tuv>
     </tu>
     <tu>
