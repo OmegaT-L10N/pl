@@ -3104,6 +3104,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hide '{0}'</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T112428Z" creationid="Anna Zaręba" creationdate="20210331T112428Z">
+        <seg>Ukryj '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Highlight</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173820Z" creationid="AgatoZiemniak" creationdate="20210322T173820Z">
@@ -6055,6 +6063,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T132455Z" creationid="paulina" creationdate="20210320T132455Z">
         <seg>Synchronizacja repozytoriów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TM Matching Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T112403Z" creationid="Anna Zaręba" creationdate="20210331T112403Z">
+        <seg>Opcje dopasowania pamięci tłumaczeniowej</seg>
       </tuv>
     </tu>
     <tu>
