@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Make the segmentation rules project specific</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T150325Z" creationid="Komputer" creationdate="20210331T150325Z">
+        <seg>Włącz zasady segmentacji charakterystyczne dla projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Match Statistics</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T120215Z" creationid="annagorska" creationdate="20210331T120215Z">
@@ -2318,6 +2326,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Create New Project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T150329Z" creationid="Komputer" creationdate="20210331T150329Z">
+        <seg>Utwórz nowy projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>What is a pseudo-translate TMX and what purpose does it serve?</note>
       <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
@@ -3587,6 +3603,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File locations</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T150137Z" creationid="Komputer" creationdate="20210331T150137Z">
+        <seg>Lokalizacja pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File {0} does not exist!</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T165518Z" creationid="magdaradka" creationdate="20210323T165518Z">
@@ -3855,6 +3879,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163723Z" creationid="magdaradka" creationdate="20210323T163723Z">
         <seg>Glosariusz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary Folder:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T150412Z" creationid="Komputer" creationdate="20210331T150353Z">
+        <seg>Folder glosariuszy:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4755,6 +4787,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210326T115149Z" creationid="monika" creationdate="20210325T122315Z">
         <seg>LanguageTool: serwer zwrócił XML zamiast oczekiwanego formatu JSON.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Languages</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T150126Z" creationid="Komputer" creationdate="20210331T150126Z">
+        <seg>Języki</seg>
       </tuv>
     </tu>
     <tu>
@@ -5735,6 +5775,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T114552Z" creationid="annagorska" creationdate="20210331T114552Z">
         <seg>Otwórz projekt MED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T150334Z" creationid="Komputer" creationdate="20210331T150334Z">
+        <seg>Otwórz projekt</seg>
       </tuv>
     </tu>
     <tu>
@@ -7584,6 +7632,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source Files Folder:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T150404Z" creationid="Komputer" creationdate="20210331T150339Z">
+        <seg>Folder plików źródłowych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source count</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144432Z" creationid="magdalenaklocek" creationdate="20210323T144432Z">
@@ -8524,6 +8580,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated Files Folder:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T150352Z" creationid="Komputer" creationdate="20210331T150352Z">
+        <seg>Folder plików docelowych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
@@ -9214,6 +9278,14 @@ Znaki wieloznaczne " * " i " ? " mogą być użyte w dokładnym wyszukiwaniu i w
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T141817Z" creationid="Komputer" creationdate="20210331T141817Z">
         <seg>Wyrazy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writeable Glossary File:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T150519Z" creationid="Komputer" creationdate="20210331T150519Z">
+        <seg>Plik glosariusza z możliwością zapisu:</seg>
       </tuv>
     </tu>
     <tu>
