@@ -2307,6 +2307,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable project-specific commands</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210331T100721Z" creationid="magdalenaklocek" creationdate="20210331T100721Z">
+        <seg>Włączenie poleceń charakterystycznych dla projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Komputer" changedate="20210329T101137Z" creationid="Komputer" creationdate="20210329T101137Z">
@@ -3253,6 +3261,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In Editor</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210331T100542Z" creationid="magdalenaklocek" creationdate="20210331T100542Z">
+        <seg>W Edytorze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
       </tuv>
       <tuv lang="pl" changeid="Paula" changedate="20210329T223749Z" creationid="Paula" creationdate="20210329T223749Z">
@@ -3408,6 +3424,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="pl" changeid="wciecierska" changedate="20210327T205853Z" creationid="wciecierska" creationdate="20210327T205853Z">
         <seg>Element:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Items</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210331T100503Z" creationid="magdalenaklocek" creationdate="20210331T100503Z">
+        <seg>Elementy</seg>
       </tuv>
     </tu>
     <tu>
@@ -4812,8 +4836,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Project Specific External Search</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210331T100448Z" creationid="magdalenaklocek" creationdate="20210331T100448Z">
-        <seg>Charakterystyczne dla projektu wyszukiwanie</seg>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210331T100454Z" creationid="magdalenaklocek" creationdate="20210331T100448Z">
+        <seg>Charakterystyczne dla projektu wyszukiwanie zewnętrzne</seg>
       </tuv>
     </tu>
     <tu>
@@ -5959,6 +5983,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="pl" changeid="AgatoZiemniak" changedate="20210322T174607Z" creationid="AgatoZiemniak" creationdate="20210322T174607Z">
         <seg>Krok 2: Wprowadź zmiany ręcznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210331T100512Z" creationid="magdalenaklocek" creationdate="20210331T100512Z">
+        <seg>Podsumowanie</seg>
       </tuv>
     </tu>
     <tu>
