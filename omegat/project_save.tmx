@@ -6325,6 +6325,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remaining Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T144909Z" creationid="Komputer" creationdate="20210331T144909Z">
+        <seg>Pozostałe znaki (bez spacji)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remaining Segments</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T144055Z" creationid="Komputer" creationdate="20210331T144055Z">
@@ -8612,6 +8620,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210331T123437Z" creationid="Kasia Mędrzycka" creationdate="20210331T123437Z">
         <seg>Odinstalowanie nie powiodło się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T144931Z" creationid="Komputer" creationdate="20210331T144931Z">
+        <seg>Niepowtarzające się znaki (bez spacji)</seg>
       </tuv>
     </tu>
     <tu>
