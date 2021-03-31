@@ -3291,6 +3291,22 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exit code {0}: "{1}"</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T141436Z" creationid="Komputer" creationdate="20210331T141436Z">
+        <seg>Kod wyjścia: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exit code: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T141424Z" creationid="Komputer" creationdate="20210331T141424Z">
+        <seg>Kod wyjścia: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Lin&amp;ks</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145019Z" creationid="Aleksandra" creationdate="20210330T145019Z">
@@ -3317,8 +3333,24 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>External command completed.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Komputer" changedate="20210331T141325Z" creationid="Komputer" creationdate="20210331T141325Z">
-        <seg>Zakończono wykonywanie polecenia zewnętrznego</seg>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T141523Z" creationid="Komputer" creationdate="20210331T141325Z">
+        <seg>Zakończono wykonywanie polecenia zewnętrznego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External command failed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T141511Z" creationid="Komputer" creationdate="20210331T141511Z">
+        <seg>Wykonanie polecenia zewnętrznego nie powiodło się.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External command was interrupted.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T141609Z" creationid="Komputer" creationdate="20210331T141609Z">
+        <seg>Wykonanie polecenia zewnętrznego zostało przerwane.</seg>
       </tuv>
     </tu>
     <tu>
