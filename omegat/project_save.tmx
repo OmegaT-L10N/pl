@@ -2475,6 +2475,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error on application startup</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T114741Z" creationid="Anna Zaręba" creationdate="20210331T114741Z">
+        <seg>Błąd przy uruchamianiu aplikacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error retrieve {0} as remote project file</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T132339Z" creationid="paulina" creationdate="20210320T132339Z">
@@ -7226,6 +7234,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T231846Z" creationid="Paula" creationdate="20210329T225530Z">
         <seg>Wpisz liczbę między 1 a {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T114940Z" creationid="Anna Zaręba" creationdate="20210331T114940Z">
+        <seg>Należy zaktualizować JDK 1.6 do najnowszej wersji lub po prostu usunąć pliki jaxb-*.jar z katalogu OmegaT /lib  </seg>
       </tuv>
     </tu>
     <tu>
