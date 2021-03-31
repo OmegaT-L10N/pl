@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -250,6 +250,14 @@
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T120355Z" creationid="annap" creationdate="20210331T120301Z">
         <seg>Dokładne wyszukiwanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121625Z" creationid="annap" creationdate="20210331T121625Z">
+        <seg>Pliki</seg>
       </tuv>
     </tu>
     <tu>
@@ -2435,6 +2443,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121456Z" creationid="annap" creationdate="20210331T121456Z">
+        <seg>Pokaż:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T122757Z" creationid="Anna Zaręba" creationdate="20210331T122757Z">
@@ -2528,6 +2544,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T230027Z" creationid="Paula" creationdate="20210329T230027Z">
         <seg>Czy na pewno chcesz wyjść?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to continue?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121938Z" creationid="annap" creationdate="20210331T121938Z">
+        <seg>Czy chcesz kontynuować?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4397,6 +4421,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121606Z" creationid="annap" creationdate="20210331T121606Z">
+        <seg>Lokalizacja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Log:</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T151439Z" creationid="Aleksandra" creationdate="20210330T151439Z">
@@ -5165,6 +5197,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Number of matching segments:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121955Z" creationid="annap" creationdate="20210331T121950Z">
+        <seg>Liczba pasujących segmentów:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OAuth token</seg>
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T121532Z" creationid="Anna Zaręba" creationdate="20210331T121532Z">
@@ -5677,8 +5717,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Pro&amp;ject</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171154Z" creationid="magdaradka" creationdate="20210317T171154Z">
-        <seg>Pro&amp;ject</seg>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121635Z" creationid="magdaradka" creationdate="20210317T171154Z">
+        <seg>Projekt</seg>
       </tuv>
     </tu>
     <tu>
@@ -5827,6 +5867,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T122903Z" creationid="annap" creationdate="20210331T122903Z">
+        <seg>Wyszukiwanie w projekcie odbywa się domyślnie w oryginale i w tłumaczeniu, w pamięci tłumaczeniowej, glosariuszach, notatkach i komentarzach do projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Push failed.</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T125123Z" creationid="magda" creationdate="20210325T125123Z">
@@ -5879,6 +5927,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173401Z" creationid="AgatoZiemniak" creationdate="20210322T173401Z">
         <seg>Oznacz jako nieukończone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recursi&amp;ve search</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121721Z" creationid="annap" creationdate="20210331T121637Z">
+        <seg>Wyszukiwanie rekurencyjne</seg>
       </tuv>
     </tu>
     <tu>
@@ -6339,6 +6395,16 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scope:
+The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T122612Z" creationid="annap" creationdate="20210331T121952Z">
+        <seg>Cel:
+Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuowany w określonej hierarchii folderów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Script "{0}" bound to slot #{1}.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003620Z" creationid="Agata Kaczmarska" creationdate="20210326T003620Z">
@@ -6589,8 +6655,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Select Fol&amp;der</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210009Z" creationid="Aleksandra" creationdate="20210329T210009Z">
-        <seg>Select Fol&amp;der</seg>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121612Z" creationid="Aleksandra" creationdate="20210329T210009Z">
+        <seg>Wybierz folder</seg>
       </tuv>
     </tu>
     <tu>
@@ -7374,8 +7440,16 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Text Replace</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171052Z" creationid="magdaradka" creationdate="20210317T171052Z">
-        <seg>Text Replace</seg>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121856Z" creationid="magdaradka" creationdate="20210317T171052Z">
+        <seg>Zamiana tekstu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Search</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121833Z" creationid="annap" creationdate="20210331T121833Z">
+        <seg>Wyszukiwanie tekstowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -7912,6 +7986,16 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Types:
+Exact searches match the whole search string.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T123039Z" creationid="annap" creationdate="20210331T123039Z">
+        <seg>Rodzaje:
+Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>U&amp;ntranslated</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T121351Z" creationid="annap" creationdate="20210331T121351Z">
@@ -8392,6 +8476,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You are going to modify {0} segments.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121930Z" creationid="annap" creationdate="20210331T121930Z">
+        <seg>Za chwilę zmienisz segmenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143434Z" creationid="magdalenaklocek" creationdate="20210323T143434Z">
@@ -8449,6 +8541,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>all matching segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121517Z" creationid="annap" creationdate="20210331T121517Z">
+        <seg>wszystkie pasujące elementy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>attributes.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T164744Z" creationid="magdaradka" creationdate="20210323T164744Z">
@@ -8502,6 +8602,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003713Z" creationid="Agata Kaczmarska" creationdate="20210326T003713Z">
         <seg>rozszerzenia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>file names</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121535Z" creationid="annap" creationdate="20210331T121535Z">
+        <seg>nazwy plików</seg>
       </tuv>
     </tu>
     <tu>
