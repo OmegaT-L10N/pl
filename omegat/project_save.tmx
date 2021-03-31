@@ -3080,8 +3080,8 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       <tuv lang="EN">
         <seg>Error starting external command: {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="Komputer" changedate="20210331T140922Z" creationid="Komputer" creationdate="20210331T140017Z">
-        <seg>Błąd starting external command: {0}</seg>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T141252Z" creationid="Komputer" creationdate="20210331T140017Z">
+        <seg>Błąd podczas aktywacji polecenia zewnętrznego: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3311,6 +3311,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210331T100310Z" creationid="magdalenaklocek" creationdate="20210331T100310Z">
         <seg>Wyszukiwanie zewnętrzne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External command completed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T141325Z" creationid="Komputer" creationdate="20210331T141325Z">
+        <seg>Zakończono wykonywanie polecenia zewnętrznego</seg>
       </tuv>
     </tu>
     <tu>
