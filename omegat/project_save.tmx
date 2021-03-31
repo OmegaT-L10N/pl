@@ -2218,6 +2218,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionar&amp;y</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T120754Z" creationid="annagorska" creationdate="20210331T120754Z">
+        <seg>Słownik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionaries</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T172613Z" creationid="Aleksandra" creationdate="20210317T170023Z">
@@ -5606,6 +5614,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210327T204940Z" creationid="wciecierska" creationdate="20210327T204940Z">
         <seg>Zamień</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace &amp;glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T120707Z" creationid="annagorska" creationdate="20210331T120707Z">
+        <seg>Wprowadź brakujący znacznik źródłowy</seg>
       </tuv>
     </tu>
     <tu>
