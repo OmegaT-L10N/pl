@@ -4733,6 +4733,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moses Server URL:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T122434Z" creationid="Anna Zaręba" creationdate="20210331T122434Z">
+        <seg>Adres URL serwera Moses:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move &amp;First</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T152053Z" creationid="Aleksandra" creationdate="20210330T152053Z">
@@ -7228,6 +7236,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Testing...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T122514Z" creationid="Anna Zaręba" creationdate="20210331T122514Z">
+        <seg>Testowanie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210327T202350Z" creationid="wciecierska" creationdate="20210327T202350Z">
@@ -7266,6 +7282,14 @@ current folder will be used instead.</seg>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210329T152759Z" creationid="beataporodzynska" creationdate="20210329T152759Z">
         <seg>Zamiast tego zostanie użyty
 bieżący katalog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moses server URL is not set</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T122507Z" creationid="Anna Zaręba" creationdate="20210331T122507Z">
+        <seg>Adres URL serwera Moses nie jest ustawiony</seg>
       </tuv>
     </tu>
     <tu>
@@ -7809,8 +7833,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Unable to parse IAM service response</seg>
       </tuv>
-      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T122054Z" creationid="Anna Zaręba" creationdate="20210331T122054Z">
-        <seg>Odpowiedź usługi IAM nie może zostać odczytana</seg>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T122414Z" creationid="Anna Zaręba" creationdate="20210331T122054Z">
+        <seg>Nie można odczytać odpowiedzi usługi IAM</seg>
       </tuv>
     </tu>
     <tu>
@@ -7825,8 +7849,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Unable to parse translate service response</seg>
       </tuv>
-      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T122235Z" creationid="Anna Zaręba" creationdate="20210331T122235Z">
-        <seg>Odpowiedź serwisu tłumaczeniowego nie może zostać odczytana</seg>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T122348Z" creationid="Anna Zaręba" creationdate="20210331T122235Z">
+        <seg>Nie można odczytać odpowiedzi serwisu tłumaczeniowego</seg>
       </tuv>
     </tu>
     <tu>
