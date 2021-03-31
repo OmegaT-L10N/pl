@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115301Z" creationid="annagorska" creationdate="20210331T115301Z">
+        <seg>Wprowadź odpowiednik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Last Changes...</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T223533Z" creationid="Paula" creationdate="20210329T223533Z">
@@ -368,8 +376,16 @@
       <tuv lang="EN">
         <seg>&amp;Quit</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210006Z" creationid="Aleksandra" creationdate="20210329T210006Z">
-        <seg>&amp;Quit</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115141Z" creationid="Aleksandra" creationdate="20210329T210006Z">
+        <seg>Zamknij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Redo Last Action</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115205Z" creationid="annagorska" creationdate="20210331T115205Z">
+        <seg>Ponów ostatnią czynność</seg>
       </tuv>
     </tu>
     <tu>
@@ -450,6 +466,14 @@
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210137Z" creationid="magdalenaklocek" creationdate="20210322T210137Z">
         <seg>&amp;Zapisywanie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Search Project...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115210Z" creationid="annagorska" creationdate="20210331T115210Z">
+        <seg>Szukaj projektu</seg>
       </tuv>
     </tu>
     <tu>
@@ -554,6 +578,14 @@
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T181743Z" creationid="monika" creationdate="20210326T115538Z">
         <seg>&amp;Duża pierwsza litera nazw własnych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Undo Last Action</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115156Z" creationid="annagorska" creationdate="20210331T115156Z">
+        <seg>Cofnij ostatnią czynność</seg>
       </tuv>
     </tu>
     <tu>
@@ -2331,6 +2363,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E&amp;xport Selection</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115439Z" creationid="annagorska" creationdate="20210331T115439Z">
+        <seg>eksportuj </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ed&amp;it</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210330T153421Z" creationid="beataporodzynska" creationdate="20210330T153421Z">
@@ -3284,6 +3324,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210330T170334Z" creationid="wciecierska" creationdate="20210330T170334Z">
         <seg>Hiperlinki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I&amp;nsert Source</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115331Z" creationid="annagorska" creationdate="20210331T115331Z">
+        <seg>wprowadź źródło</seg>
       </tuv>
     </tu>
     <tu>
@@ -5018,6 +5066,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>R&amp;eplace with Match or Selection</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115309Z" creationid="annagorska" creationdate="20210331T115309Z">
+        <seg>zamień odpowiednikiem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;place with Source</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115340Z" creationid="annagorska" creationdate="20210331T115340Z">
+        <seg>zamień źródłem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reading TMX file {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T165931Z" creationid="magdaradka" creationdate="20210317T172754Z">
@@ -5190,6 +5254,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002230Z" creationid="Agata Kaczmarska" creationdate="20210326T002230Z">
         <seg>Zamień tłumaczenie na tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace with &amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115322Z" creationid="annagorska" creationdate="20210331T115322Z">
+        <seg>zamień tłumaczeniem maszynowym</seg>
       </tuv>
     </tu>
     <tu>
@@ -5534,6 +5606,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210330T170400Z" creationid="wciecierska" creationdate="20210330T170400Z">
         <seg>Przeszukaj zastąpione zaznaczenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search and Replace...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T115217Z" creationid="annagorska" creationdate="20210331T115217Z">
+        <seg>Szukaj i zamień</seg>
       </tuv>
     </tu>
     <tu>
