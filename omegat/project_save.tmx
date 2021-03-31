@@ -935,6 +935,38 @@ Znak "? " pasuje do jednego znaku ("bieg?" pasuje do "biegi", ale nie do "biegn�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>50%-74%:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T145457Z" creationid="Komputer" creationdate="20210331T145457Z">
+        <seg>50%-74%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>75%-84%:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T145454Z" creationid="Komputer" creationdate="20210331T145454Z">
+        <seg>75%-84%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>85%-94%:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T145453Z" creationid="Komputer" creationdate="20210331T145453Z">
+        <seg>85%-94%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>95%-100%:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T145450Z" creationid="Komputer" creationdate="20210331T145450Z">
+        <seg>95%-100%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;&amp;br&gt; (breaks)</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140555Z" creationid="AgataWojtera" creationdate="20210323T140555Z">
@@ -1705,6 +1737,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143922Z" creationid="magdalenaklocek" creationdate="20210323T143922Z">
         <seg>Pu&amp;te</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>C&amp;opy All Data to Clipboard</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T145256Z" creationid="Komputer" creationdate="20210331T145256Z">
+        <seg>Należy skopiować wszystkie dane do schowka</seg>
       </tuv>
     </tu>
     <tu>
@@ -3246,6 +3286,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exact match:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T145444Z" creationid="Komputer" creationdate="20210331T145444Z">
+        <seg>Dokładne dopasowania:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Excel</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144212Z" creationid="Aleksandra" creationdate="20210330T144212Z">
@@ -3515,6 +3563,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File {0}: {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T145509Z" creationid="Komputer" creationdate="20210331T145509Z">
+        <seg>Plik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T231144Z" creationid="Paula" creationdate="20210329T230546Z">
@@ -3591,6 +3647,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210329T211038Z" creationid="Aleksandra" creationdate="20210329T211038Z">
         <seg>Stop&amp;ki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For all files:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T145525Z" creationid="Komputer" creationdate="20210331T145525Z">
+        <seg>Dla wszystkich plików:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4895,10 +4959,26 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match Statistics</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T145332Z" creationid="Komputer" creationdate="20210331T145332Z">
+        <seg>Statystyka dopasowań</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match Statistics per &amp;File</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T120227Z" creationid="annagorska" creationdate="20210331T120227Z">
         <seg>Statystyki dopasowań dla pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match Statistics per File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T145350Z" creationid="Komputer" creationdate="20210331T145350Z">
+        <seg>Statystyka dopasowań według pliku</seg>
       </tuv>
     </tu>
     <tu>
@@ -5259,6 +5339,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T121731Z" creationid="Anna Zaręba" creationdate="20210331T121731Z">
         <seg>Nie określono ID folderu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No match:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T145502Z" creationid="Komputer" creationdate="20210331T145502Z">
+        <seg>Brak dopasowania:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6453,6 +6541,30 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repetitions from other files:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T145438Z" creationid="Komputer" creationdate="20210331T145438Z">
+        <seg>Powtórzenia w innych plikach:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions within this file:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T145420Z" creationid="Komputer" creationdate="20210331T145420Z">
+        <seg>Powtórzenia w tym pliku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T145354Z" creationid="Komputer" creationdate="20210331T145354Z">
+        <seg>Powtórzenia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210327T204940Z" creationid="wciecierska" creationdate="20210327T204940Z">
@@ -7596,6 +7708,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T131643Z" creationid="paulina" creationdate="20210320T131643Z">
         <seg>Uruchom rebase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Statistics</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T145302Z" creationid="Komputer" creationdate="20210331T145302Z">
+        <seg>Statystyka</seg>
       </tuv>
     </tu>
     <tu>
