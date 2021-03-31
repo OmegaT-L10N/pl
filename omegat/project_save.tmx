@@ -4157,6 +4157,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Individual File Statistics:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T142926Z" creationid="Komputer" creationdate="20210331T142926Z">
+        <seg>[fuzzy]Statystyka poszczególnych plików:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Info</seg>
       </tuv>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210326T100615Z" creationid="Kasia Mędrzycka" creationdate="20210326T100615Z">
@@ -8562,8 +8570,16 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       <tuv lang="EN">
         <seg>Unique Remaining:</seg>
       </tuv>
-      <tuv lang="PL" changeid="Komputer" changedate="20210331T142912Z" creationid="Komputer" creationdate="20210331T142912Z">
-        <seg>Niepowtarzających się pozostało:	</seg>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T143038Z" creationid="Komputer" creationdate="20210331T142912Z">
+        <seg>Pozostałe niepowtarzające się segmenty:	</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T144003Z" creationid="Komputer" creationdate="20210331T142924Z">
+        <seg>Niepowtarzające się segmenty:</seg>
       </tuv>
     </tu>
     <tu>
