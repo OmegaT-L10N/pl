@@ -1506,6 +1506,14 @@ Znak "? " pasuje do jednego znaku ("bieg?" pasuje do "biegi", ale nie do "biegn�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Arrays must not be null</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T150049Z" creationid="Komputer" creationdate="20210331T150049Z">
+        <seg>Matryca nie może pozostać pusta!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As a result of this,
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
