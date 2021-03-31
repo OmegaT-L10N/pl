@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Auto-propagation of Translations</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T150908Z" creationid="Komputer" creationdate="20210331T150908Z">
+        <seg>Automatyczne zatwierdzanie tłumaczeń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Automatically Fetch Translations</seg>
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T120212Z" creationid="Anna Zaręba" creationdate="20210331T120212Z">
@@ -770,6 +778,14 @@
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T114921Z" creationid="annagorska" creationdate="20210331T114921Z">
         <seg>dokumenty docelowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Target Language Tokenizer:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T150812Z" creationid="Komputer" creationdate="20210331T150812Z">
+        <seg>Tokenizacja języka docelowego:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2605,6 +2621,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionary Folder:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T150821Z" creationid="Komputer" creationdate="20210331T150821Z">
+        <seg>Folder słowników:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionary Installer</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T131045Z" creationid="monika" creationdate="20210325T131045Z">
@@ -3471,6 +3495,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T133034Z" creationid="paulina" creationdate="20210320T133034Z">
         <seg>Polecenie dalszego zewnętrznego przetwarzania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Post-processing Command:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T151103Z" creationid="Komputer" creationdate="20210331T151103Z">
+        <seg>Polecenie zewnętrznego przetwarzania końcowego</seg>
       </tuv>
     </tu>
     <tu>
@@ -6599,8 +6631,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
-      <tuv lang="PL" changeid="Komputer" changedate="20210329T101202Z" creationid="Komputer" creationdate="20210329T101202Z">
-        <seg>Remove Ta&amp;gs</seg>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T150928Z" creationid="Komputer" creationdate="20210329T101202Z">
+        <seg>Usuń znaczniki</seg>
       </tuv>
     </tu>
     <tu>
