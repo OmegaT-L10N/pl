@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -762,6 +762,14 @@
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T183102Z" creationid="monika" creationdate="20210327T183102Z">
         <seg>(+{0} więcej)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Leave the Password empty if you are using an API Key.)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T121158Z" creationid="Anna Zaręba" creationdate="20210331T121158Z">
+        <seg>(Pozostaw hasło puste, jeżeli używasz klucza API.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4508,6 +4516,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Translator Subscription Key not available.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T121401Z" creationid="Anna Zaręba" creationdate="20210331T121401Z">
+        <seg>Klucz subskrypcji programu Microsoft Transaltor nie jest dostępny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mine</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T170233Z" creationid="AgatoZiemniak" creationdate="20210322T170048Z">
@@ -4544,6 +4560,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T134042Z" creationid="paulina" creationdate="20210320T134042Z">
         <seg>Brakujące znaczniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Model Id:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T121117Z" creationid="Anna Zaręba" creationdate="20210331T121117Z">
+        <seg>ID modelu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5140,6 +5164,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T165736Z" creationid="magdaradka" creationdate="20210317T171935Z">
         <seg>Błąd odczytu pliku preferencji!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T121049Z" creationid="Anna Zaręba" creationdate="20210331T121049Z">
+        <seg>Hasło:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6779,6 +6811,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subscription Key:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T121234Z" creationid="Anna Zaręba" creationdate="20210331T121234Z">
+        <seg>Klucz subskrypcji:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Summary</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210331T100512Z" creationid="magdalenaklocek" creationdate="20210331T100512Z">
@@ -7750,6 +7790,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Username or API Key:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T121043Z" creationid="Anna Zaręba" creationdate="20210331T121043Z">
+        <seg>Nazwa użytkownika lub klucz API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VLDocking Framework (LGPL License)</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150706Z" creationid="Aleksandra" creationdate="20210330T150706Z">
@@ -7914,6 +7962,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211107Z" creationid="magdalenaklocek" creationdate="20210322T211107Z">
         <seg>Nieprawidłowy format odpowiedzi usługi TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wrong response from engine</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T121316Z" creationid="Anna Zaręba" creationdate="20210331T121316Z">
+        <seg>Błędna odpowiedź silnika tłumaczeniowego</seg>
       </tuv>
     </tu>
     <tu>
