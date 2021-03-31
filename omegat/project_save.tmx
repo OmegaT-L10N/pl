@@ -6325,6 +6325,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remaining Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T145024Z" creationid="Komputer" creationdate="20210331T145024Z">
+        <seg>Pozostałe znaki (ze spacjami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remaining Characters (without spaces)</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T144909Z" creationid="Komputer" creationdate="20210331T144909Z">
@@ -8308,6 +8316,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Total Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T144958Z" creationid="Komputer" creationdate="20210331T144958Z">
+        <seg>Całkowita liczba znaków (ze spacjami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Total Characters (without spaces)</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T144856Z" creationid="Komputer" creationdate="20210331T144856Z">
@@ -8624,10 +8640,34 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unique Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T145130Z" creationid="Komputer" creationdate="20210331T145130Z">
+        <seg>Niepowtarzające się znaki (ze spacjami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unique Characters (without spaces)</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T144931Z" creationid="Komputer" creationdate="20210331T144931Z">
         <seg>Niepowtarzające się znaki (bez spacji)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T145225Z" creationid="Komputer" creationdate="20210331T145225Z">
+        <seg>Pozostałe niepowtarzające się znaki (ze spacjami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T144950Z" creationid="Komputer" creationdate="20210331T144950Z">
+        <seg>Pozostałe niepowtarzające się znaki (bez spacji)</seg>
       </tuv>
     </tu>
     <tu>
