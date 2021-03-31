@@ -965,6 +965,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>API Key (optional)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T120539Z" creationid="Anna Zaręba" creationdate="20210331T120539Z">
+        <seg>Klucz API (opcjonalnie)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>API Key:</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210327T194102Z" creationid="wciecierska" creationdate="20210327T194102Z">
@@ -2106,6 +2114,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom server URL</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T120516Z" creationid="Anna Zaręba" creationdate="20210331T120516Z">
+        <seg>Niestandardowy adres URL serwera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom table</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143753Z" creationid="magdalenaklocek" creationdate="20210323T143753Z">
@@ -2655,6 +2671,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141925Z" creationid="AgataWojtera" creationdate="20210323T141925Z">
         <seg>Angielski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ensure the server URL is correct.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T120620Z" creationid="Anna Zaręba" creationdate="20210331T120620Z">
+        <seg>Upewnij się, że adres URL serwera jest prawidłowy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7024,6 +7048,14 @@ bieżący katalog.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The server is not a valid Apertium server.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T120723Z" creationid="Anna Zaręba" creationdate="20210331T120723Z">
+        <seg>Serwer nie jest prawidłowym serwerem Apertium.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The specified files are not supported.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172446Z" creationid="AgatoZiemniak" creationdate="20210322T172446Z">
@@ -7402,6 +7434,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210329T100443Z" creationid="Komputer" creationdate="20210329T095521Z">
         <seg>Utworzenie nowego pliku TMX nie powiodło się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to connect to server.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T120555Z" creationid="Anna Zaręba" creationdate="20210331T120555Z">
+        <seg>Nie można połączyć się z serwerem.</seg>
       </tuv>
     </tu>
     <tu>
