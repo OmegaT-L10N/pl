@@ -1073,8 +1073,8 @@ Znak "? " pasuje do jednego znaku ("bieg?" pasuje do "biegi", ale nie do "biegn�
       <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Komputer" changedate="20210331T130618Z" creationid="Komputer" creationdate="20210331T130618Z">
-        <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T151228Z" creationid="Komputer" creationdate="20210331T130618Z">
+        <seg>&lt;html&gt;Zewnętrzne polecenia dla projektu są wyłączone i nie będą wykonywane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3495,6 +3495,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T133034Z" creationid="paulina" creationdate="20210320T133034Z">
         <seg>Polecenie dalszego zewnętrznego przetwarzania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Post-processing Command (Disabled):</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T151128Z" creationid="Komputer" creationdate="20210331T151128Z">
+        <seg>Uniemożliwione polecenie zewnętrznego przetwarzania końcowego</seg>
       </tuv>
     </tu>
     <tu>
