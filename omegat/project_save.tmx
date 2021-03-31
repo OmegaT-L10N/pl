@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Editor...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T120457Z" creationid="annagorska" creationdate="20210331T120457Z">
+        <seg>Edytuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable TaaS terminology lookup</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210327T194725Z" creationid="wciecierska" creationdate="20210327T194725Z">
@@ -274,6 +282,14 @@
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T114843Z" creationid="annagorska" creationdate="20210331T114843Z">
         <seg>&amp;glosariusze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Glossary</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T120519Z" creationid="annagorska" creationdate="20210331T120519Z">
+        <seg>&amp;Glosariusz</seg>
       </tuv>
     </tu>
     <tu>
@@ -570,6 +586,14 @@
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T115934Z" creationid="annagorska" creationdate="20210331T115934Z">
         <seg>Numer segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Segmentation...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T120504Z" creationid="annagorska" creationdate="20210331T120504Z">
+        <seg>Segmentacja</seg>
       </tuv>
     </tu>
     <tu>
@@ -4140,6 +4164,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mac&amp;hine Translate</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T120515Z" creationid="annagorska" creationdate="20210331T120515Z">
+        <seg>Tłumaczenie maszynowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Machine Translation</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T115937Z" creationid="beataporodzynska" creationdate="20210325T115937Z">
@@ -4208,6 +4240,22 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T182239Z" creationid="monika" creationdate="20210327T182239Z">
         <seg>Zaznacz &amp;spacje niełamiące</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T120421Z" creationid="annagorska" creationdate="20210331T120421Z">
+        <seg>Zaznacz pretłumaczone segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T120438Z" creationid="annagorska" creationdate="20210331T120438Z">
+        <seg>Zaznacz nieprzetłumaczone segmenty</seg>
       </tuv>
     </tu>
     <tu>
@@ -7474,6 +7522,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="agata" changedate="20210317T171827Z" creationid="agata" creationdate="20210317T171827Z">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;TAB to Advance</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T120407Z" creationid="annagorska" creationdate="20210331T120407Z">
+        <seg>Użtj TAB</seg>
       </tuv>
     </tu>
     <tu>
