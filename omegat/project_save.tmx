@@ -817,9 +817,9 @@
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
-      <tuv lang="PL" changeid="annap" changedate="20210331T124354Z" creationid="annap" creationdate="20210331T124224Z">
-        <seg>Znak " * " nie pasuje do żadnych lub pasuje do wielu znaków ('bieg*' pasuje do 'bieg', 'biegnie', 'biegnąć', itd.)
-Znak "? " pasuje do jednego znaku ('bieg?' pasuje do 'biegi', ale nie do 'biegnąć' czy 'biegnie').</seg>
+      <tuv lang="PL" changeid="annap" changedate="20210331T124855Z" creationid="annap" creationdate="20210331T124224Z">
+        <seg>Znak " * " nie pasuje do żadnych lub pasuje do wielu znaków ("bieg*" pasuje do "bieg", "biegnie", "biegnąć", itd.)
+Znak "? " pasuje do jednego znaku ("bieg?" pasuje do "biegi", ale nie do "biegnąć" czy "biegnie").</seg>
       </tuv>
     </tu>
     <tu>
