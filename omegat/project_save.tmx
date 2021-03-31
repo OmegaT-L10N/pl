@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1340,8 +1340,8 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       <tuv lang="EN">
         <seg>Aut&amp;hor:</seg>
       </tuv>
-      <tuv lang="PL" changeid="annap" changedate="20210331T120523Z" creationid="annap" creationdate="20210331T120523Z">
-        <seg>Aut&amp;hor:</seg>
+      <tuv lang="PL" changeid="annap" changedate="20210331T120553Z" creationid="annap" creationdate="20210331T120523Z">
+        <seg>Autor:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1522,6 +1522,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;ase sensitive</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T120759Z" creationid="annap" creationdate="20210331T120759Z">
+        <seg>Uwzględnij wielkość liter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;harts</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145102Z" creationid="Aleksandra" creationdate="20210330T145102Z">
@@ -1606,6 +1614,22 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210601Z" creationid="Aleksandra" creationdate="20210329T210601Z">
         <seg>Zmień na "tłumaczenie wymagające sprawdzenia" zamiast "przetłumaczone"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed &amp;before:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T120638Z" creationid="annap" creationdate="20210331T120638Z">
+        <seg>Zmieniono przed:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed after:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T120631Z" creationid="annap" creationdate="20210331T120631Z">
+        <seg>Zmieniono po:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3256,6 +3280,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Full/Half &amp;width char insensitive</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121119Z" creationid="annap" creationdate="20210331T121119Z">
+        <seg>Nie uwzględniaj różnic pomiędzy znakami o pełnej szerokości i o połowie szerokości</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>General Preferences</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210317T170025Z" creationid="Aleksandra" creationdate="20210317T170025Z">
@@ -4884,6 +4916,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T120557Z" creationid="annap" creationdate="20210331T120557Z">
+        <seg>Teraz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nr of matching segments: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163717Z" creationid="magdaradka" creationdate="20210323T163717Z">
@@ -5830,6 +5870,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144659Z" creationid="Aleksandra" creationdate="20210330T144612Z">
         <seg>Komentarze do s&amp;lajdów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>S&amp;pace matches nbsp</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210331T121238Z" creationid="annap" creationdate="20210331T121238Z">
+        <seg>Spacja zawiera spację niełamiącą</seg>
       </tuv>
     </tu>
     <tu>
