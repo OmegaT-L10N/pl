@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3208,6 +3208,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Folder ID</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T121512Z" creationid="Anna Zaręba" creationdate="20210331T121512Z">
+        <seg>ID folderu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T231419Z" creationid="Paula" creationdate="20210329T231419Z">
@@ -4052,6 +4060,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep tags in translated text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T121555Z" creationid="Anna Zaręba" creationdate="20210331T121555Z">
+        <seg>Zachowaj tagi w przetłumaczonym tekście</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Key:</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T133403Z" creationid="beataporodzynska" creationdate="20210325T133403Z">
@@ -4676,6 +4692,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Neural machine translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T121449Z" creationid="Anna Zaręba" creationdate="20210331T121449Z">
+        <seg>Neuronowe tłumaczenie maszynowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New LanguageTool rule</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T123132Z" creationid="monika" creationdate="20210325T123132Z">
@@ -4736,6 +4760,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211922Z" creationid="magdalenaklocek" creationdate="20210322T211922Z">
         <seg>Następne→</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No OAuth token specified</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T121706Z" creationid="Anna Zaręba" creationdate="20210331T121706Z">
+        <seg>Nie określono tokena OAuth</seg>
       </tuv>
     </tu>
     <tu>
@@ -4984,6 +5016,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163717Z" creationid="magdaradka" creationdate="20210323T163717Z">
         <seg>Liczba pasujących segmentów: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OAuth token</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T121532Z" creationid="Anna Zaręba" creationdate="20210331T121532Z">
+        <seg>Token OAuth</seg>
       </tuv>
     </tu>
     <tu>
@@ -7802,6 +7842,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T113441Z" creationid="Agata Kaczmarska" creationdate="20210326T002212Z">
         <seg>Użyj jako standardowego tłumaczenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use glossary terms</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T121624Z" creationid="Anna Zaręba" creationdate="20210331T121624Z">
+        <seg>Używaj terminów słownikowych</seg>
       </tuv>
     </tu>
     <tu>
