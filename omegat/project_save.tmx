@@ -1516,10 +1516,18 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Command delimiter is empty</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210331T100208Z" creationid="magdalenaklocek" creationdate="20210331T100208Z">
+        <seg>Ogranicynik polecen jest pusty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Command is missing delimiter</seg>
       </tuv>
-      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210331T100047Z" creationid="magdalenaklocek" creationdate="20210331T100047Z">
-        <seg>Komenda nie ma ynaku dzielącego </seg>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210331T100054Z" creationid="magdalenaklocek" creationdate="20210331T100047Z">
+        <seg>Komenda nie ma znaku dzielącego </seg>
       </tuv>
     </tu>
     <tu>
