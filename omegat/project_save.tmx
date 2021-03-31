@@ -2910,6 +2910,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E&amp;nable Sentence-level Segmenting</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T150109Z" creationid="Komputer" creationdate="20210331T150109Z">
+        <seg>Segmentuj na poziomie zdań.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E&amp;xport Selection</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T115439Z" creationid="annagorska" creationdate="20210331T115439Z">
@@ -2958,10 +2966,26 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit Project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T150114Z" creationid="Komputer" creationdate="20210331T150114Z">
+        <seg>Edytuj projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Text</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174930Z" creationid="AgatoZiemniak" creationdate="20210322T174930Z">
         <seg>Edytuj tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit project properties here.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T150118Z" creationid="Komputer" creationdate="20210331T150118Z">
+        <seg>Zmień właściwości projektu.</seg>
       </tuv>
     </tu>
     <tu>
