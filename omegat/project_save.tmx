@@ -3499,6 +3499,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T144018Z" creationid="Komputer" creationdate="20210331T144018Z">
+        <seg>Nazwa pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File {0} does not exist!</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T165518Z" creationid="magdaradka" creationdate="20210323T165518Z">
@@ -4159,8 +4167,8 @@ powrócą do wartości domyślnych.</seg>
       <tuv lang="EN">
         <seg>Individual File Statistics:</seg>
       </tuv>
-      <tuv lang="PL" changeid="Komputer" changedate="20210331T142926Z" creationid="Komputer" creationdate="20210331T142926Z">
-        <seg>[fuzzy]Statystyka poszczególnych plików:</seg>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T144012Z" creationid="Komputer" creationdate="20210331T142926Z">
+        <seg>Statystyka poszczególnych plików:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6317,6 +6325,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remaining Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T144055Z" creationid="Komputer" creationdate="20210331T144055Z">
+        <seg>Pozostałe segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Words</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T144251Z" creationid="Komputer" creationdate="20210331T144251Z">
+        <seg>Pozostałe wyrazy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remaining:</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T141846Z" creationid="Komputer" creationdate="20210331T141846Z">
@@ -8276,6 +8300,22 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Total Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T144040Z" creationid="Komputer" creationdate="20210331T144040Z">
+        <seg>Łączna liczba segmentów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Words</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T144231Z" creationid="Komputer" creationdate="20210331T144231Z">
+        <seg>Całkowita liczba wyrazów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Total:</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T141748Z" creationid="Komputer" creationdate="20210331T141748Z">
@@ -8568,10 +8608,34 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unique Remaining Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T144224Z" creationid="Komputer" creationdate="20210331T144144Z">
+        <seg>Pozostałe niepowtarzające się segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unique Remaining:</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T143038Z" creationid="Komputer" creationdate="20210331T142912Z">
         <seg>Pozostałe niepowtarzające się segmenty:	</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T144209Z" creationid="Komputer" creationdate="20210331T144107Z">
+        <seg>Niepowtarzające sie segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Words</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T144309Z" creationid="Komputer" creationdate="20210331T144309Z">
+        <seg>Niepowtarzające się wyrazy</seg>
       </tuv>
     </tu>
     <tu>
