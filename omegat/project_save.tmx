@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>#Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T141838Z" creationid="Komputer" creationdate="20210331T141838Z">
+        <seg>Pliki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;About...</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T223521Z" creationid="Paula" creationdate="20210329T223521Z">
@@ -1861,6 +1869,22 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T141834Z" creationid="Komputer" creationdate="20210331T141834Z">
+        <seg>Znaki (ze spacjami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T141826Z" creationid="Komputer" creationdate="20210331T141826Z">
+        <seg>Znaki (bez spacji)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T181414Z" creationid="Paula" creationdate="20210329T181414Z">
@@ -3042,6 +3066,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145623Z" creationid="Aleksandra" creationdate="20210330T145623Z">
         <seg>Błąd w pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error monitoring external command!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T141658Z" creationid="Komputer" creationdate="20210331T141658Z">
+        <seg>Błąd w monitorowaniu polecenia zewnętrznego!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6053,6 +6085,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Statistics</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T141731Z" creationid="Komputer" creationdate="20210331T141731Z">
+        <seg>Dane projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project closed</seg>
       </tuv>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210331T122356Z" creationid="Kasia Mędrzycka" creationdate="20210331T122356Z">
@@ -6265,6 +6305,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172922Z" creationid="AgatoZiemniak" creationdate="20210322T172922Z">
         <seg>Wczytaj ponownie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T141846Z" creationid="Komputer" creationdate="20210331T141846Z">
+        <seg>Pozostałe:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6915,6 +6963,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T170022Z" creationid="magdaradka" creationdate="20210317T171218Z">
         <seg>Metoda segmentacji: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T141811Z" creationid="Komputer" creationdate="20210331T141811Z">
+        <seg>Segmenty</seg>
       </tuv>
     </tu>
     <tu>
@@ -8212,6 +8268,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Total:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T141748Z" creationid="Komputer" creationdate="20210331T141748Z">
+        <seg>Całkowita liczba:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Trans&amp;lated or untranslated</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T121433Z" creationid="annap" creationdate="20210331T121433Z">
@@ -8492,6 +8556,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210331T123437Z" creationid="Kasia Mędrzycka" creationdate="20210331T123437Z">
         <seg>Odinstalowanie nie powiodło się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T142912Z" creationid="Komputer" creationdate="20210331T142912Z">
+        <seg>Niepowtarzających się pozostało:	</seg>
       </tuv>
     </tu>
     <tu>
@@ -8830,6 +8902,14 @@ Znaki wieloznaczne " * " i " ? " mogą być użyte w dokładnym wyszukiwaniu i w
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145118Z" creationid="Aleksandra" creationdate="20210330T145118Z">
         <seg>WordAr&amp;t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Words</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T141817Z" creationid="Komputer" creationdate="20210331T141817Z">
+        <seg>Wyrazy</seg>
       </tuv>
     </tu>
     <tu>
