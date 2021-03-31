@@ -3078,6 +3078,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error starting external command: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T140922Z" creationid="Komputer" creationdate="20210331T140017Z">
+        <seg>Błąd starting external command: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error updating glossary file</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210953Z" creationid="magdalenaklocek" creationdate="20210322T210953Z">
@@ -5573,8 +5581,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Orphan segments</seg>
       </tuv>
-      <tuv lang="PL" changeid="Komputer" changedate="20210331T135458Z" creationid="Komputer" creationdate="20210331T135458Z">
-        <seg>[fuzzy]Segmenty osierocone</seg>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T140024Z" creationid="Komputer" creationdate="20210331T135458Z">
+        <seg>Segmenty osierocone</seg>
       </tuv>
     </tu>
     <tu>
