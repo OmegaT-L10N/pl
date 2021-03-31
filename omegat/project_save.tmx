@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Dictionaries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T114839Z" creationid="annagorska" creationdate="20210331T114839Z">
+        <seg>&amp;słowinki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Download</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211545Z" creationid="magdalenaklocek" creationdate="20210322T211545Z">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210329T211007Z" creationid="Aleksandra" creationdate="20210329T211007Z">
         <seg>&amp;Przypisy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Glossaries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T114843Z" creationid="annagorska" creationdate="20210331T114843Z">
+        <seg>&amp;glosariusze</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Root</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T114833Z" creationid="annagorska" creationdate="20210331T114833Z">
+        <seg>&amp;źródło</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Run</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T113524Z" creationid="Agata Kaczmarska" creationdate="20210326T002752Z">
@@ -502,10 +526,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T114910Z" creationid="annagorska" creationdate="20210331T114910Z">
+        <seg>dokumenty źródłowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;TaaS Terminology Lookup</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144937Z" creationid="magdalenaklocek" creationdate="20210323T144937Z">
         <seg>&amp;sprawdzić terminologie TaaS </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Target Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T114921Z" creationid="annagorska" creationdate="20210331T114921Z">
+        <seg>dokumenty docelowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -6127,6 +6167,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T132455Z" creationid="paulina" creationdate="20210320T132455Z">
         <seg>Synchronizacja repozytoriów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210331T114858Z" creationid="annagorska" creationdate="20210331T114858Z">
+        <seg>pamięć tłumaczeniowas</seg>
       </tuv>
     </tu>
     <tu>
