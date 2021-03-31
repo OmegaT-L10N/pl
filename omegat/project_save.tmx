@@ -726,6 +726,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source Files Language:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T150550Z" creationid="Komputer" creationdate="20210331T150550Z">
+        <seg>Język plików źródłowych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Source Language Tokenizer:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T150755Z" creationid="Komputer" creationdate="20210331T150755Z">
+        <seg>Tokenizacja języka źródłowego:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Statistics</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T120200Z" creationid="annagorska" creationdate="20210331T120200Z">
@@ -778,6 +794,14 @@
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T121340Z" creationid="annap" creationdate="20210331T121340Z">
         <seg>Przetłumaczone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Translated Files Language:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T150605Z" creationid="Komputer" creationdate="20210331T150605Z">
+        <seg>Język plików docelowych:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8634,6 +8658,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211745Z" creationid="magdalenaklocek" creationdate="20210322T211745Z">
         <seg>Tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation Memory Folder:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T150529Z" creationid="Komputer" creationdate="20210331T150529Z">
+        <seg>Folder pamięci tłumaczeniowych:</seg>
       </tuv>
     </tu>
     <tu>
