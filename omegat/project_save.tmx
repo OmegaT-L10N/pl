@@ -1812,6 +1812,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T114955Z" creationid="Anna Zaręba" creationdate="20210331T114955Z">
+        <seg>Kopiuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145748Z" creationid="Aleksandra" creationdate="20210330T145748Z">
@@ -1990,6 +1998,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T145617Z" creationid="magdalenaklocek" creationdate="20210323T144035Z">
         <seg>Dostosowywać znanki oraz &amp;tabele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T114951Z" creationid="Anna Zaręba" creationdate="20210331T114951Z">
+        <seg>Wytnij</seg>
       </tuv>
     </tu>
     <tu>
@@ -4804,6 +4820,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T165736Z" creationid="magdaradka" creationdate="20210317T171935Z">
         <seg>Błąd odczytu pliku preferencji!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T114959Z" creationid="Anna Zaręba" creationdate="20210331T114959Z">
+        <seg>Wklej</seg>
       </tuv>
     </tu>
     <tu>
