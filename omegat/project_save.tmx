@@ -3265,6 +3265,14 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Executing external command...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T135917Z" creationid="Komputer" creationdate="20210331T135917Z">
+        <seg>Wykonywanie polecenia zewnętrznego...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>What does it mean to execute script?</note>
       <tuv lang="EN">
         <seg>Executing script {0} (event {1})</seg>
