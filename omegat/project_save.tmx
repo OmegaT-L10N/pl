@@ -1652,6 +1652,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Context Menu Priority:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210331T100852Z" creationid="magdalenaklocek" creationdate="20210331T100852Z">
+        <seg>Priorytet kontekstowego menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Continue</seg>
       </tuv>
       <tuv lang="pl" changeid="AgatoZiemniak" changedate="20210322T174406Z" creationid="AgatoZiemniak" creationdate="20210322T174406Z">
