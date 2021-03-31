@@ -1741,6 +1741,22 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot access glossary folder!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T131007Z" creationid="Komputer" creationdate="20210331T131007Z">
+        <seg>Folder glosariusza niedostępny!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot create folder for translated files:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T131127Z" creationid="Komputer" creationdate="20210331T131014Z">
+        <seg>Nie można utworzyć katalogu dla plików docelowych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cannot install</seg>
       </tuv>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210331T123456Z" creationid="Kasia Mędrzycka" creationdate="20210331T123456Z">
@@ -4149,6 +4165,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T131032Z" creationid="Komputer" creationdate="20210331T131032Z">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210317T171254Z" creationid="jnnas10" creationdate="20210317T171254Z">
@@ -5535,6 +5559,14 @@ your home folder.</seg>
 	Project path only: Launch GUI and load specified project
 	team
 		Team project tool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Orphan segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Komputer" changedate="20210331T135458Z" creationid="Komputer" creationdate="20210331T135458Z">
+        <seg>[fuzzy]Segmenty osierocone</seg>
       </tuv>
     </tu>
     <tu>
