@@ -9104,6 +9104,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Updates</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210401T091022Z" creationid="AgatoZiemniak" creationdate="20210401T091022Z">
+        <seg>Aktualizacje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="PL" changeid="agata" changedate="20210317T171827Z" creationid="agata" creationdate="20210317T171827Z">
