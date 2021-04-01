@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Go To Downloads</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210401T090646Z" creationid="AgatoZiemniak" creationdate="20210401T090646Z">
+        <seg>&amp;Przejdź do pobranych plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Help</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T223350Z" creationid="Agata Kaczmarska" creationdate="20210326T003951Z">
@@ -1977,6 +1985,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T141826Z" creationid="Komputer" creationdate="20210331T141826Z">
         <seg>Znaki (bez spacji)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check &amp;automatically</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210401T090555Z" creationid="AgatoZiemniak" creationdate="20210401T090555Z">
+        <seg>Sprawdź &amp;automatycznie</seg>
       </tuv>
     </tu>
     <tu>
@@ -5827,6 +5843,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT {0} is now available.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210401T090508Z" creationid="AgatoZiemniak" creationdate="20210401T090508Z">
+        <seg>OmegaT {0} jest gotowy do użycia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T135927Z" creationid="AgataWojtera" creationdate="20210323T135927Z">
@@ -9446,6 +9470,14 @@ Znaki wieloznaczne " * " i " ? " mogą być użyte w dokładnym wyszukiwaniu i w
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T131927Z" creationid="beataporodzynska" creationdate="20210325T131801Z">
         <seg>Hasła do glosariusza można dodawać za pomocą opcji "Dodaj nowe hasło do glosariusza" w menu "Edytuj".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You currently have {1}.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210401T090530Z" creationid="AgatoZiemniak" creationdate="20210401T090530Z">
+        <seg>Obecnie masz {1}.</seg>
       </tuv>
     </tu>
     <tu>
