@@ -3619,6 +3619,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to fetch latest version info: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210401T090959Z" creationid="AgatoZiemniak" creationdate="20210401T090959Z">
+        <seg>Nie udalo się pobrać informacji o najnowszej wersji: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to load specified project!</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T224013Z" creationid="Paula" creationdate="20210329T224013Z">
