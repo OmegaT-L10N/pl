@@ -9410,6 +9410,14 @@ Znaki wieloznaczne " * " i " ? " mogą być użyte w dokładnym wyszukiwaniu i w
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You already have the latest version.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210401T090424Z" creationid="AgatoZiemniak" creationdate="20210401T090424Z">
+        <seg>Posiadasz najnnowszą wersję programu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are going to modify {0} segments.</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T121930Z" creationid="annap" creationdate="20210331T121930Z">
