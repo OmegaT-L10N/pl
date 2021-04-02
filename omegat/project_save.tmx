@@ -8532,8 +8532,8 @@ bieżący katalog.</seg>
       <tuv lang="EN">
         <seg>The current project must be reloaded in order to apply these changes</seg>
       </tuv>
-      <tuv lang="PL" changeid="monika" changedate="20210327T183622Z" creationid="monika" creationdate="20210327T183622Z">
-        <seg>W celu wprowadzenia tych zmian konieczne jest ponowne załadowanie bieżącego projektuchanges</seg>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T142503Z" creationid="monika" creationdate="20210327T183622Z">
+        <seg>W celu wprowadzenia tych zmian konieczne jest ponowne załadowanie bieżącego projektu </seg>
       </tuv>
     </tu>
     <tu>
@@ -8652,8 +8652,8 @@ bieżący katalog.</seg>
       <tuv lang="EN">
         <seg>There are many plugins available for OmegaT online.</seg>
       </tuv>
-      <tuv lang="PL" changeid="monika" changedate="20210327T183759Z" creationid="monika" creationdate="20210327T183759Z">
-        <seg>Online dostępnych jest wiele wtyczek dla programu OmegaT.</seg>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T142523Z" creationid="monika" creationdate="20210327T183759Z">
+        <seg>Dostępnych jest wiele wtyczek dla programu OmegaT online.</seg>
       </tuv>
     </tu>
     <tu>
