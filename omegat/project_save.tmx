@@ -5316,8 +5316,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="EN">
         <seg>Modification info template</seg>
       </tuv>
-      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T134543Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T134543Z">
-        <seg>vovytlkyou</seg>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T135918Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T134543Z">
+        <seg>Wyświetlanie informacji o modyfikacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -7637,8 +7637,8 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="EN">
         <seg>Simplify &amp;tooltips on protected parts</seg>
       </tuv>
-      <tuv lang="PL" changeid="nbarn" changedate="20210401T133138Z" creationid="nbarn" creationdate="20210401T133138Z">
-        <seg>gjukyv &amp;tooltips on protected parts</seg>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T135846Z" creationid="nbarn" creationdate="20210401T133138Z">
+        <seg>Uprość etykiety narzędzi &amp;Tooltips dla chronionych częścis</seg>
       </tuv>
     </tu>
     <tu>
@@ -9175,6 +9175,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T113441Z" creationid="Agata Kaczmarska" creationdate="20210326T002212Z">
         <seg>Użyj jako standardowego tłumaczenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use custom templates for modification &amp;info</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T140133Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140133Z">
+        <seg>Użyj zdefiniowanego przez użytkownika trybu wyświetlania dla &amp;informacji o modyfikacji</seg>
       </tuv>
     </tu>
     <tu>
