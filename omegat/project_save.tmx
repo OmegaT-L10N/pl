@@ -1400,6 +1400,14 @@ Znak "? " pasuje do jednego znaku ("bieg?" pasuje do "biegi", ale nie do "biegn�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow translated tags to be in a di&amp;fferent order</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T141426Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T141426Z">
+        <seg>Pozwól, aby przetłumaczone znaczniki były w in&amp;nej kolejności</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T194527Z" creationid="beataporodzynska" creationdate="20210325T194527Z">
@@ -2826,6 +2834,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174713Z" creationid="AgatoZiemniak" creationdate="20210322T174713Z">
         <seg>Odległość</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not allow creating translated documents with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T141709Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T141709Z">
+        <seg>Nie zezwalaj na tworzenie przetłumaczonych dokumentów ze znacznikiem &amp;issues</seg>
       </tuv>
     </tu>
     <tu>
@@ -6688,6 +6704,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regular expression for custom tags:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T141306Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T141306Z">
+        <seg>Wyrażenie zwykłe dla niestandardowych znaczników:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expression for fragments that should be removed from translation:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T141344Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T141344Z">
+        <seg>Wyrażenie zwykłe dla fragmentów, które mają zostać usunięte z tłumaczenia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T124756Z" creationid="annap" creationdate="20210331T123219Z">
@@ -9471,6 +9503,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143317Z" creationid="magdalenaklocek" creationdate="20210323T143317Z">
         <seg>Uwaga!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning: Changing tag order may break the translated document!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T141500Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T141500Z">
+        <seg>Uwaga: Zmiana kolejności znaczników może spowodować, że przetłumaczony dokument nie będzie nadawał się do użytku!</seg>
       </tuv>
     </tu>
     <tu>
