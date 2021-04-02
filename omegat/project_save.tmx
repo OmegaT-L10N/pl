@@ -2375,6 +2375,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Glossary Entry</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T140208Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140208Z">
+        <seg>Utwórz wpis do słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create MED Project...</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T114613Z" creationid="annagorska" creationdate="20210331T114613Z">
@@ -3154,6 +3162,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210326T115236Z" creationid="monika" creationdate="20210325T122419Z">
         <seg>Upewnij się, że została podana właściwa wersja API (adres URL powinien zawierać "/v2/").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter a source term, a target term and a comment:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T140231Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140231Z">
+        <seg>Wprowadź termin źródłowy, termin docelowy i komentarz:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7819,6 +7835,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source term:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T140250Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140250Z">
+        <seg>Termin źródłowy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source/translation lengths (characters)</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T230126Z" creationid="Paula" creationdate="20210329T230126Z">
@@ -8147,10 +8171,26 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target term:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T140302Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140302Z">
+        <seg>Termin docelowy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Team synchronization...</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T131147Z" creationid="magda" creationdate="20210325T131147Z">
         <seg>Synchronizacja zespołowa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Template variables:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T140152Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140152Z">
+        <seg>Zmienne szablonu:</seg>
       </tuv>
     </tu>
     <tu>
