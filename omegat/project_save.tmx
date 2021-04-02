@@ -2828,6 +2828,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Displays the translation memories segments that match the source segment.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T141835Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T141835Z">
+        <seg>Wyświetla segmenty pamięci tłumaczeniowych, które pasują do segmentu źródłowego.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Was "zeigt" die Übersetzung? </note>
       <tuv lang="EN">
         <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
@@ -5314,6 +5322,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T141919Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T141919Z">
+        <seg>Dopasowania można znaleźć w bieżącym tłumaczeniu lub w plikach TMX, umieszczonych w folderze /tm/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maximize</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T124455Z" creationid="beataporodzynska" creationdate="20210325T124455Z">
@@ -5430,6 +5446,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T135918Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T134543Z">
         <seg>Wyświetlanie informacji o modyfikacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification info template for segments without date</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T142031Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T142031Z">
+        <seg>Wyświetlanie informacji o modyfikacjach dla segmentów bez daty</seg>
       </tuv>
     </tu>
     <tu>
@@ -5846,6 +5870,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210326T113847Z" creationid="beataporodzynska" creationdate="20210326T113847Z">
         <seg>Poinformuj mnie, gdy segment zawiera hasła ze słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T141959Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T141959Z">
+        <seg>Powiadom mnie, gdy segment zawiera dopasowania rozmyte</seg>
       </tuv>
     </tu>
     <tu>
