@@ -4378,6 +4378,9 @@ powrócą do wartości domyślnych.</seg>
       <tuv lang="EN">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T135757Z">
+        <seg>&amp;Uwzględnij pierwszy nie-unikalny segment podczas wyróżniania nie-unikalnych segmentów</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
