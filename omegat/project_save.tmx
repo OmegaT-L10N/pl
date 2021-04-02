@@ -3214,6 +3214,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error decoding user and password.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T140449Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140449Z">
+        <seg>Błąd dekodowania nazwy użytkownika i hasła.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error during regular expression replacement:</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163409Z" creationid="magdaradka" creationdate="20210317T171059Z">
@@ -4019,6 +4027,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary file: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T140325Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140325Z">
+        <seg>Plik słownikowy: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary folder {0} does not exist.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004755Z" creationid="Agata Kaczmarska" creationdate="20210326T004755Z">
@@ -4332,6 +4348,14 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T190241Z" creationid="Aleksandra" creationdate="20210327T190241Z">
         <seg>Jeśli plik źródłowy został zmieniony po tym, jak już zacząłeś tłumaczenie, możliwe, że &lt;a1&gt;OmegaT&lt;/a1&gt; nie znajdzie tego przetłumaczonego segmentu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T140419Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140419Z">
+        <seg>Jeśli korzystasz z uwierzytelnionego serwera proxy, wprowadź tutaj swoją nazwę użytkownika i hasło.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6191,6 +6215,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please select which behaviour is appropriate.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T140624Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140624Z">
+        <seg>Proszę wskazać odpowiednie działanie..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please translate this plural as plural form #{0}.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004207Z" creationid="Agata Kaczmarska" creationdate="20210326T004207Z">
@@ -6500,6 +6532,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T122903Z" creationid="annap" creationdate="20210331T122903Z">
         <seg>Wyszukiwanie w projekcie odbywa się domyślnie w oryginale i w tłumaczeniu, w pamięci tłumaczeniowej, glosariuszach, notatkach i komentarzach do projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Proxy Login</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T140334Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140334Z">
+        <seg>Login Proxy:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8099,6 +8139,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag Processing</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T140539Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140539Z">
+        <seg>Przetwarzanie znaczników</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag name:</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T164431Z" creationid="magdaradka" creationdate="20210323T164431Z">
@@ -9271,6 +9319,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210329T170623Z" creationid="Aleksandra" creationdate="20210329T170623Z">
         <seg>User manuals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T140458Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140458Z">
+        <seg>Użytkownik:</seg>
       </tuv>
     </tu>
     <tu>
