@@ -3891,6 +3891,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Full checking can lead to false positives in normal texts and the PO filter already detects them.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T140942Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140942Z">
+        <seg>W przypadku normalnych tekstów pełne sprawdzenie może prowadzić do fałszywych wyników pozytywnych, a ponadto filtr PO już je wykrywa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Full table</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144108Z" creationid="magdalenaklocek" creationdate="20210323T144108Z">
@@ -5842,6 +5850,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T140707Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140707Z">
+        <seg>OmegaT może również wyszukiwać zmienne programistyczne (zmienne funkcji printf), takie jak '%s'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT does not have read and write permissions to this folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T120119Z" creationid="Aleksandra" creationdate="20210330T152002Z">
@@ -6217,8 +6233,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please select which behaviour is appropriate.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T140624Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140624Z">
-        <seg>Proszę wskazać odpowiednie działanie..</seg>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T140711Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140624Z">
+        <seg>Proszę wskazać odpowiednie działanie.</seg>
       </tuv>
     </tu>
     <tu>
