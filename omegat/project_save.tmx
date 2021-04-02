@@ -5311,6 +5311,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modification info template</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T134543Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T134543Z">
+        <seg>vovytlkyou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modification info text</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210330T164338Z" creationid="wciecierska" creationdate="20210330T164338Z">
