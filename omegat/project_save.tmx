@@ -7624,6 +7624,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simplify &amp;tooltips on protected parts</seg>
+      </tuv>
+      <tuv lang="PL" changeid="nbarn" changedate="20210401T133138Z" creationid="nbarn" creationdate="20210401T133138Z">
+        <seg>gjukyv &amp;tooltips on protected parts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Size</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T231430Z" creationid="Paula" creationdate="20210329T231430Z">
