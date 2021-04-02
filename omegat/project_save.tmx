@@ -2375,6 +2375,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Count &amp;protected text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T141744Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T141744Z">
+        <seg>Policz &amp;zabezpieczony tekst i niestandardowe znaczniki w statystykach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Counter:</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174253Z" creationid="AgatoZiemniak" creationdate="20210322T174253Z">
@@ -3967,6 +3975,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T121119Z" creationid="annap" creationdate="20210331T121119Z">
         <seg>Nie uwzględniaj różnic pomiędzy znakami o pełnej szerokości i o połowie szerokości</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T141803Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T141803Z">
+        <seg>Dopasowania rozmyte</seg>
       </tuv>
     </tu>
     <tu>
