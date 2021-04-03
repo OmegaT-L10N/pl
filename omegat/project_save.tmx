@@ -3947,6 +3947,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Folder {0} was automatically created for team mode project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T151931Z" creationid="cezarykotowicz" creationdate="20210403T151931Z">
+        <seg>Folder {0} został automatycznie utworzony do projektu zespołowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T231419Z" creationid="Paula" creationdate="20210329T231419Z">
@@ -5150,6 +5158,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T151251Z" creationid="cezarykotowicz" creationdate="20210403T151251Z">
         <seg>Ładowanie projektu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T151944Z" creationid="cezarykotowicz" creationdate="20210403T151944Z">
+        <seg>Ładowanie : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8161,6 +8177,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144432Z" creationid="magdalenaklocek" creationdate="20210323T144432Z">
         <seg>Liczba źródeł</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source file loading complete</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T152009Z" creationid="cezarykotowicz" creationdate="20210403T152009Z">
+        <seg>Ładowanie pliku źródłowego zakończone</seg>
       </tuv>
     </tu>
     <tu>
