@@ -3324,6 +3324,17 @@ brak strony...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ephemeral page
+I am the Blue Screen of Death
+No one hears your screams</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T152921Z" creationid="cezarykotowicz" creationdate="20210403T152921Z">
+        <seg>Brak strony
+nikt nie słyszy twojego płaczu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error</seg>
       </tuv>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210326T100431Z" creationid="jnnas10" creationdate="20210317T172309Z">
@@ -4356,6 +4367,17 @@ przykro...</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210329T211028Z" creationid="Aleksandra" creationdate="20210329T211028Z">
         <seg>Gł&amp;ówka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help you are seeking
+From your path it is fleeing
+Its winter has come</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T153032Z" creationid="cezarykotowicz" creationdate="20210403T153032Z">
+        <seg>Pomocy, której szukasz,
+nie ma...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5627,6 +5649,16 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T122434Z" creationid="Anna Zaręba" creationdate="20210331T122434Z">
         <seg>Adres URL serwera Moses:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mourning and sorrow
+404 not with us now
+Lost to paradise</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T153016Z" creationid="cezarykotowicz" creationdate="20210403T153016Z">
+        <seg>Ta strona wybrała drogę w kierunku raju...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6949,6 +6981,16 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T115309Z" creationid="annagorska" creationdate="20210331T115309Z">
         <seg>zamień odpowiednikiem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather than beep
+Or a rude error message
+These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T152957Z" creationid="cezarykotowicz" creationdate="20210403T152957Z">
+        <seg>Bezdźwięcznie brzmią te słowa: "brak strony"...</seg>
       </tuv>
     </tu>
     <tu>
