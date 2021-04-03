@@ -1773,6 +1773,17 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bartender yells loud:
+Your page cannot be found, boy
+Buy another drink</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T152621Z" creationid="cezarykotowicz" creationdate="20210403T152621Z">
+        <seg>Strony nie ma
+opuść kolejkę...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bidirectional control characters</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210330T165058Z" creationid="wciecierska" creationdate="20210330T165058Z">
@@ -3586,10 +3597,9 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
 Gossamer threads hold you back
 404 not found</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171035Z" creationid="magdaradka" creationdate="20210317T171035Z">
-        <seg>Exciting help page
-Gossamer threads hold you back
-404 not found</seg>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T152413Z" creationid="magdaradka" creationdate="20210317T171035Z">
+        <seg>Brak strony z pomocą
+przykro...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9915,6 +9925,16 @@ Znaki wieloznaczne " * " i " ? " mogą być użyte w dokładnym wyszukiwaniu i w
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T124849Z" creationid="magda" creationdate="20210325T124849Z">
         <seg>Następnym razem nastąpi synchronizacja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wind catches lily
+Scatt'ring petals to the wind:
+Your page is not found</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T152508Z" creationid="cezarykotowicz" creationdate="20210403T152508Z">
+        <seg>Przeminęło ze stroną...</seg>
       </tuv>
     </tu>
     <tu>
