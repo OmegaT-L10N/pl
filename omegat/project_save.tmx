@@ -3006,6 +3006,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Downloading project...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T151243Z" creationid="cezarykotowicz" creationdate="20210403T151243Z">
+        <seg>Pobieranie projektu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dra&amp;wings</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145114Z" creationid="Aleksandra" creationdate="20210330T145114Z">
@@ -3302,6 +3310,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error creating project!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T151352Z" creationid="cezarykotowicz" creationdate="20210403T151352Z">
+        <seg>Błąd tworzenia projektu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error decoding user and password.</seg>
       </tuv>
       <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T140449Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140449Z">
@@ -3354,6 +3370,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T132339Z" creationid="paulina" creationdate="20210320T132339Z">
         <seg>Błąd pobierania {0} jako zdalnego pliku projektu </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error saving project file!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T151337Z" creationid="cezarykotowicz" creationdate="20210403T151337Z">
+        <seg>Bład zapisu projektu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5098,10 +5122,26 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Loading glossaries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T151304Z" creationid="cezarykotowicz" creationdate="20210403T151304Z">
+        <seg>Ładowanie glosariuszy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading glossary {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210317T171139Z" creationid="magdaradka" creationdate="20210317T171139Z">
         <seg>Loading glossary {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading project...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T151251Z" creationid="cezarykotowicz" creationdate="20210403T151251Z">
+        <seg>Ładowanie projektu...</seg>
       </tuv>
     </tu>
     <tu>
