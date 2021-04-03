@@ -6002,6 +6002,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Number of unique segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T150952Z" creationid="cezarykotowicz" creationdate="20210403T150932Z">
+        <seg>Liczba niepowtarzających się segmentów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OAuth token</seg>
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T121532Z" creationid="Anna Zaręba" creationdate="20210331T121532Z">
@@ -6150,6 +6158,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Target File Location</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T150905Z" creationid="cezarykotowicz" creationdate="20210403T150905Z">
+        <seg>Otwórz lokalizację pliku docelowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open Writable Glossary File</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T132753Z" creationid="beataporodzynska" creationdate="20210325T132753Z">
@@ -6170,6 +6186,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T150707Z" creationid="cezarykotowicz" creationdate="20210403T150707Z">
         <seg>Otwórz {0} pliki źródłowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Target Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T150825Z" creationid="cezarykotowicz" creationdate="20210403T150825Z">
+        <seg>Otwórz pliki docelowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -9023,6 +9047,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Total number of segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T150917Z" creationid="cezarykotowicz" creationdate="20210403T150917Z">
+        <seg>Łączna liczba segmentów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Total:</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T141748Z" creationid="Komputer" creationdate="20210331T141748Z">
@@ -9085,6 +9117,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210330T164313Z" creationid="wciecierska" creationdate="20210330T164313Z">
         <seg>Tekst segmentów przetłumaczonych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated unique segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T151027Z" creationid="cezarykotowicz" creationdate="20210403T151027Z">
+        <seg>Liczba przetłumaczonych segmentów niepowtarzających się</seg>
       </tuv>
     </tu>
     <tu>
