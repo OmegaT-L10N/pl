@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -66,6 +66,14 @@
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T231756Z" creationid="Paula" creationdate="20210329T223036Z">
         <seg>Zawsze potwierdzaj przed wyjściem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T145756Z" creationid="cezarykotowicz" creationdate="20210403T145756Z">
+        <seg>Dostosuj czcionkę do danych w tabeli (pliku projektu, dane statystyczne itp.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2109,6 +2117,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clo&amp;se</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T150524Z" creationid="cezarykotowicz" creationdate="20210403T150524Z">
+        <seg>Zam&amp;knij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Close</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172927Z" creationid="AgatoZiemniak" creationdate="20210322T172927Z">
@@ -3174,6 +3190,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Encoding</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T145855Z" creationid="cezarykotowicz" creationdate="20210403T145855Z">
+        <seg>Szyfrowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>End Pinpoint Align</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174227Z" creationid="AgatoZiemniak" creationdate="20210322T173754Z">
@@ -3815,6 +3839,30 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T231120Z" creationid="Paula" creationdate="20210329T231120Z">
         <seg>Plik: jedynie przetłumaczono % (jedynie pozostało) / projekt: jedynie przetłumaczono % (jedynie pozostało), całkowita liczba segmentów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filename</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T145836Z" creationid="cezarykotowicz" creationdate="20210403T145836Z">
+        <seg>Nazwa pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T145842Z" creationid="cezarykotowicz" creationdate="20210403T145842Z">
+        <seg>Filtr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T150519Z" creationid="cezarykotowicz" creationdate="20210403T150519Z">
+        <seg>Filtr:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5482,10 +5530,34 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move &amp;Down</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T150507Z" creationid="cezarykotowicz" creationdate="20210403T150507Z">
+        <seg>Przenieś &amp;w dół</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move &amp;First</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T152053Z" creationid="Aleksandra" creationdate="20210330T152053Z">
-        <seg>Move &amp;First</seg>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T150136Z" creationid="Aleksandra" creationdate="20210330T152053Z">
+        <seg>Przenieś &amp;na początek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;Last</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T150514Z" creationid="cezarykotowicz" creationdate="20210403T150514Z">
+        <seg>Przenieś &amp;na koniec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;Up</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T150153Z" creationid="cezarykotowicz" creationdate="20210403T150153Z">
+        <seg>Przenieś &amp;w górę</seg>
       </tuv>
     </tu>
     <tu>
@@ -6054,6 +6126,30 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Source File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T150641Z" creationid="cezarykotowicz" creationdate="20210403T150641Z">
+        <seg>Otwórz plik źródłowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Source File Location</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T150723Z" creationid="cezarykotowicz" creationdate="20210403T150723Z">
+        <seg>Otwórz lokalizację pliku źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Target File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T150744Z" creationid="cezarykotowicz" creationdate="20210403T150744Z">
+        <seg>Otwórz plik docelowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open Writable Glossary File</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T132753Z" creationid="beataporodzynska" creationdate="20210325T132753Z">
@@ -6066,6 +6162,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210702Z" creationid="Aleksandra" creationdate="20210329T210702Z">
         <seg>Otwórz Opcje filtra XML </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Source Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T150707Z" creationid="cezarykotowicz" creationdate="20210403T150707Z">
+        <seg>Otwórz {0} pliki źródłowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -6516,6 +6620,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T114706Z" creationid="annagorska" creationdate="20210331T114706Z">
         <seg>Dokumenty projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T145831Z" creationid="cezarykotowicz" creationdate="20210403T145831Z">
+        <seg>Pliki projektu ({0} of {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Files ({0})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T145821Z" creationid="cezarykotowicz" creationdate="20210403T145821Z">
+        <seg>Pliki projektu ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -7204,6 +7324,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210330T171216Z" creationid="wciecierska" creationdate="20210330T171216Z">
         <seg>Przykładowy wynik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sample Text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T145630Z" creationid="cezarykotowicz" creationdate="20210403T145630Z">
+        <seg>Przykładowy tekst</seg>
       </tuv>
     </tu>
     <tu>
@@ -9275,6 +9403,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unique segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T150029Z" creationid="cezarykotowicz" creationdate="20210403T150029Z">
+        <seg>Pojedyncze segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unique:</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T144003Z" creationid="Komputer" creationdate="20210331T142924Z">
@@ -9753,6 +9889,16 @@ Znaki wieloznaczne " * " i " ? " mogą być użyte w dokładnym wyszukiwaniu i w
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T131927Z" creationid="beataporodzynska" creationdate="20210325T131801Z">
         <seg>Hasła do glosariusza można dodawać za pomocą opcji "Dodaj nowe hasło do glosariusza" w menu "Edytuj".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can find detailed statistic information in the file:
+{0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T150046Z" creationid="cezarykotowicz" creationdate="20210403T150046Z">
+        <seg>Szczegółowe dane statystyczne możesz znaleść w pliku:
+{0}</seg>
       </tuv>
     </tu>
     <tu>
