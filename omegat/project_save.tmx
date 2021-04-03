@@ -9654,8 +9654,8 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       <tuv lang="EN">
         <seg>Unique segments</seg>
       </tuv>
-      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T150029Z" creationid="cezarykotowicz" creationdate="20210403T150029Z">
-        <seg>Pojedyncze segmenty</seg>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T153123Z" creationid="cezarykotowicz" creationdate="20210403T150029Z">
+        <seg>Segmenty niepowtarzające się</seg>
       </tuv>
     </tu>
     <tu>
