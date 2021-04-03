@@ -2501,6 +2501,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating translated documents: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T152033Z" creationid="cezarykotowicz" creationdate="20210403T152033Z">
+        <seg>Tworzenie przetłumaczonych dokumentów: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creation date</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144200Z" creationid="magdalenaklocek" creationdate="20210323T144200Z">
@@ -5134,6 +5142,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004533Z" creationid="Agata Kaczmarska" creationdate="20210326T004533Z">
         <seg>Załaduj projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading TMX files...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T152020Z" creationid="cezarykotowicz" creationdate="20210403T152020Z">
+        <seg>Ładowanie plików TMX...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9165,6 +9181,22 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T150352Z" creationid="Komputer" creationdate="20210331T150352Z">
         <seg>Folder plików docelowych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated document created</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T152106Z" creationid="cezarykotowicz" creationdate="20210403T152106Z">
+        <seg>Przetłumaczony dokument utworzony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated documents created</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T152049Z" creationid="cezarykotowicz" creationdate="20210403T152049Z">
+        <seg>Przetłumaczone dokumenty utworzone</seg>
       </tuv>
     </tu>
     <tu>
