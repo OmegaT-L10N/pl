@@ -3193,6 +3193,17 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Emptiness of soul
+Forever aching blackness
+Your help page not found</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T152902Z" creationid="cezarykotowicz" creationdate="20210403T152902Z">
+        <seg>Ekran tak pusty jak wyraz twojej twarzy
+brak strony...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable history &amp;prediction</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T222908Z" creationid="Paula" creationdate="20210329T222908Z">
@@ -6384,6 +6395,16 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page slips through fingers
+Pulse pounding hard and frantic
+Vanishing like mist</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T152707Z" creationid="cezarykotowicz" creationdate="20210403T152707Z">
+        <seg>Strona mgliste złudzenie, nie ma strony...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paragraph delimitation</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210330T165124Z" creationid="wciecierska" creationdate="20210330T165124Z">
@@ -8814,6 +8835,17 @@ bieżący katalog.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The help page you seek
+Lies beyond our perception
+But others await</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T152823Z" creationid="cezarykotowicz" creationdate="20210403T152823Z">
+        <seg>Strony, której szukasz tu nie ma, 
+ale są inne...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project cannot be verified</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004546Z" creationid="Agata Kaczmarska" creationdate="20210326T004546Z">
@@ -8939,6 +8971,17 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T201457Z" creationid="beataporodzynska" creationdate="20210325T201457Z">
         <seg>Z tego powodu nie można dokładnie określić lokalizacji folderu konfiguracyjnego programu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These three are certain:
+Death, taxes, and page not found
+You, victim of one</seg>
+      </tuv>
+      <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T152756Z" creationid="cezarykotowicz" creationdate="20210403T152756Z">
+        <seg>Padłeś ofiarą klątwy
+braku strony...</seg>
       </tuv>
     </tu>
     <tu>
