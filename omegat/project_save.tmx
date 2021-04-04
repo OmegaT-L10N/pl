@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3141,6 +3141,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210330T154036Z" creationid="beataporodzynska" creationdate="20210330T154036Z">
         <seg>Edytuj komendę wyszukiwania zewnętrznego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search Item</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210404T115949Z" creationid="paulina" creationdate="20210404T115949Z">
+        <seg>Edytuj element wyszukiwania zewnętrznego</seg>
       </tuv>
     </tu>
     <tu>
