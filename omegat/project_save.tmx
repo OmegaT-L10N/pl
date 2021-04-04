@@ -2170,6 +2170,14 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210404T120114Z" creationid="paulina" creationdate="20210404T120114Z">
+        <seg>Polecenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Command delimiter is empty</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210331T100218Z" creationid="magdalenaklocek" creationdate="20210331T100208Z">
@@ -2636,6 +2644,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T212029Z" creationid="magdalenaklocek" creationdate="20210322T212029Z">
         <seg>Usunięte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delimiter</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210404T120205Z" creationid="paulina" creationdate="20210404T120205Z">
+        <seg>Separator</seg>
       </tuv>
     </tu>
     <tu>
@@ -5755,6 +5771,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T144407Z" creationid="magdalenaklocek" creationdate="20210323T144407Z">
         <seg>Nazwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210404T120213Z" creationid="paulina" creationdate="20210404T120213Z">
+        <seg>Nazwa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9448,6 +9472,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T121351Z" creationid="annap" creationdate="20210331T121351Z">
         <seg>Nieprzetłumaczone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210404T120010Z" creationid="paulina" creationdate="20210404T120010Z">
+        <seg>adres URL</seg>
       </tuv>
     </tu>
     <tu>
