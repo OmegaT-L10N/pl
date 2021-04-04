@@ -720,8 +720,8 @@
       <tuv lang="EN">
         <seg>&amp;Show in Editor context menu</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210026Z" creationid="Aleksandra" creationdate="20210329T210026Z">
-        <seg>&amp;Show in Editor context menu</seg>
+      <tuv lang="PL" changeid="paulina" changedate="20210404T120316Z" creationid="Aleksandra" creationdate="20210329T210026Z">
+        <seg>&amp;Pokaż w menu kontekstowym edytora</seg>
       </tuv>
     </tu>
     <tu>
@@ -8386,6 +8386,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141927Z" creationid="AgataWojtera" creationdate="20210323T141927Z">
         <seg>Hiszpański</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210404T120440Z" creationid="paulina" creationdate="20210404T120440Z">
+        <seg>Określ mnemonik z "&amp;": "F&amp;oobar", aby użyć O</seg>
       </tuv>
     </tu>
     <tu>
