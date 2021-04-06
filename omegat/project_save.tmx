@@ -4957,8 +4957,8 @@ powrócą do wartości domyślnych.</seg>
       <tuv lang="EN">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171254Z" creationid="jnnas10" creationdate="20210317T171254Z">
-        <seg>Invoke `team -h` for details.</seg>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T182923Z" creationid="jnnas10" creationdate="20210317T171254Z">
+        <seg>Aby uzyskać szczegółowe informacje, użyj „team -h”..</seg>
       </tuv>
     </tu>
     <tu>
@@ -6673,12 +6673,12 @@ your home folder.</seg>
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171139Z" creationid="jnnas10" creationdate="20210317T171139Z">
-        <seg>Options:
-	None: Launch GUI
-	Project path only: Launch GUI and load specified project
-	team
-		Team project tool.</seg>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T182732Z" creationid="jnnas10" creationdate="20210317T171139Z">
+        <seg>Opcje:
+	Żadna: uruchom interfejs użytkownika
+	Tylko ścieżka projektu: uruchom interfejs użytkownika i załaduj
+określony projekt zespołowy
+		Narzędzie do projektów zespołowych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10262,8 +10262,8 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="PL" changeid="agata" changedate="20210317T171827Z" creationid="agata" creationdate="20210317T171827Z">
-        <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T182406Z" creationid="agata" creationdate="20210317T171827Z">
+        <seg>Użytkowanie: java -jar OmegaT.jar [&lt;optcje&gt;] [&lt;ścieżka projektu&gt;</seg>
       </tuv>
     </tu>
     <tu>
