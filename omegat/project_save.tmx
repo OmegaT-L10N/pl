@@ -584,8 +584,8 @@
       <tuv lang="EN">
         <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210406T124600Z" creationid="jnnas10" creationdate="20210406T124600Z">
-        <seg>&amp;Remove untranslated strings in the target files</seg>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T125545Z" creationid="jnnas10" creationdate="20210406T124600Z">
+        <seg>&amp;Usuń nieprzetłumaczone ciągi znaków w pliku docelowym</seg>
       </tuv>
     </tu>
     <tu>
@@ -5859,6 +5859,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210406T124051Z" creationid="jnnas10" creationdate="20210406T124051Z">
         <seg>Mozilla FTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla FTL Filter Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T125107Z" creationid="jnnas10" creationdate="20210406T125107Z">
+        <seg>Opcje filtra Mozilla FTL</seg>
       </tuv>
     </tu>
     <tu>
