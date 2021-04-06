@@ -2218,6 +2218,14 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Column Index must be equal to 1</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T145027Z" creationid="jnnas10" creationdate="20210406T145027Z">
+        <seg>Indeks kolumny musi być równy 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Command</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210404T120114Z" creationid="paulina" creationdate="20210404T120114Z">
@@ -8570,6 +8578,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211756Z" creationid="magdalenaklocek" creationdate="20210322T211756Z">
         <seg>Źródło</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Filename Pattern</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T145257Z" creationid="jnnas10" creationdate="20210406T145257Z">
+        <seg>Wzór nazwy pliku źródłowego</seg>
       </tuv>
     </tu>
     <tu>
