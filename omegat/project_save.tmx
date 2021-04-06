@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T183715Z" creationid="adurk" creationdate="20210406T183715Z">
+        <seg>&amp;Zakończ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Footnotes</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210329T211007Z" creationid="Aleksandra" creationdate="20210329T211007Z">
@@ -598,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Remove Filter</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T183804Z" creationid="adurk" creationdate="20210406T183804Z">
+        <seg>&amp;Usuń filtr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210406T150312Z" creationid="jnnas10" creationdate="20210406T124600Z">
@@ -616,8 +632,8 @@
       <tuv lang="EN">
         <seg>&amp;Replace Next</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171319Z" creationid="jnnas10" creationdate="20210317T171319Z">
-        <seg>&amp;Replace Next</seg>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T183705Z" creationid="jnnas10" creationdate="20210317T171319Z">
+        <seg>&amp;Zastąp następny</seg>
       </tuv>
     </tu>
     <tu>
@@ -674,6 +690,14 @@
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T113524Z" creationid="Agata Kaczmarska" creationdate="20210326T002752Z">
         <seg>&amp;Otwórz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Save As...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T183816Z" creationid="adurk" creationdate="20210406T183816Z">
+        <seg>&amp;Zapisz jako...</seg>
       </tuv>
     </tu>
     <tu>
@@ -768,8 +792,8 @@
       <tuv lang="EN">
         <seg>&amp;Skip</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171315Z" creationid="jnnas10" creationdate="20210317T171315Z">
-        <seg>&amp;Skip</seg>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T183642Z" creationid="jnnas10" creationdate="20210317T171315Z">
+        <seg>&amp;Pomiń</seg>
       </tuv>
     </tu>
     <tu>
@@ -2398,6 +2422,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140438Z" creationid="AgataWojtera" creationdate="20210323T140438Z">
         <seg>Skompresuj białe znaki w przetłumaczonym dokumencie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T183916Z" creationid="adurk" creationdate="20210406T183916Z">
+        <seg>Potwierdź</seg>
       </tuv>
     </tu>
     <tu>
@@ -6571,8 +6603,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210406T111617Z" creationid="jnnas10" creationdate="20210406T111617Z">
-        <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T184231Z" creationid="jnnas10" creationdate="20210406T111617Z">
+        <seg>Brak pamięci w OmegaT, naciśnij OK, aby zakończyć pracę..</seg>
       </tuv>
     </tu>
     <tu>
