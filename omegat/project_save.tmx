@@ -1096,6 +1096,16 @@ Znak "? " pasuje do jednego znaku ("bieg?" pasuje do "biegi", ale nie do "biegn�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--pseudotranslatetype=[equal|empty]
+		What to fill the pseudotranslated TMX with.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T190618Z" creationid="Werciks" creationdate="20210406T190618Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+		Treść do dołączenia do pseudo-przetłumaczonego pliku TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
@@ -1135,9 +1145,9 @@ Znak "? " pasuje do jednego znaku ("bieg?" pasuje do "biegi", ale nie do "biegn�
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Werciks" changedate="20210406T185916Z" creationid="Werciks" creationdate="20210406T185916Z">
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T185949Z" creationid="Werciks" creationdate="20210406T185916Z">
         <seg>--tag-validation=[abort|warn]
-		Sprawdź poprawność tagów..</seg>
+		Sprawdź poprawność tagów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1375,6 +1385,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150210Z" creationid="Aleksandra" creationdate="20210330T150210Z">
         <seg>Aaron Madlon-Kay jest kierownikiem projektu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Abort: Exit with an error if tags invalid.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T190050Z" creationid="Werciks" creationdate="20210406T190050Z">
+        <seg>Abort: zakończ z błędem, jeśli są jakieś nieprawidłowe tagi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2562,6 +2580,30 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T125253Z" creationid="magda" creationdate="20210325T125253Z">
         <seg>Połączono, projekt jest w trybie projektu zespołowego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Console-pseudotranslatetmx mode:
+	--pseudotranslatetmx=&lt;path&gt;
+		The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T190444Z" creationid="Werciks" creationdate="20210406T190444Z">
+        <seg>Konsola-pseudotranslatetmx tryb:
+	--pseudotranslatetmx=&lt;ścieżka&gt;
+		Wyjściowy plik TMX zawierający pseudotłumaczenie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Console-translate mode:
+	--source-pattern=&lt;pattern&gt;
+		A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T190329Z" creationid="Werciks" creationdate="20210406T190329Z">
+        <seg>Tryb konsoli - tłumaczenie:
+	--source-pattern = &lt;model&gt;
+		Biała lista wyrażeń regularnych plików źródłowych do przetworzenia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10664,6 +10706,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173813Z" creationid="AgatoZiemniak" creationdate="20210322T173813Z">
         <seg>Widok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warn: Report invalid tags to stdout.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T190229Z" creationid="Werciks" creationdate="20210406T190229Z">
+        <seg>Warn: zgłoś nieprawidłowe tagi przy stdout.</seg>
       </tuv>
     </tu>
     <tu>
