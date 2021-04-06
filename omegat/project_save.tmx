@@ -1685,6 +1685,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T144349Z" creationid="jnnas10" creationdate="20210406T144349Z">
+        <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-Completion</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T222243Z" creationid="Paula" creationdate="20210329T222243Z">
@@ -9148,8 +9156,8 @@ bieżący katalog.</seg>
       <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210406T134121Z" creationid="jnnas10" creationdate="20210406T134121Z">
-        <seg>The PO filter threw an exception:</seg>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T144323Z" creationid="jnnas10" creationdate="20210406T134121Z">
+        <seg>Filtr PO zgłosił wyjątek:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9878,8 +9886,8 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       <tuv lang="EN">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210406T124006Z" creationid="jnnas10" creationdate="20210406T124006Z">
-        <seg>Unable to parse filters configuration file</seg>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T144537Z" creationid="jnnas10" creationdate="20210406T124006Z">
+        <seg>Nie można odczytać pliku konfiguracyjnego filtrów</seg>
       </tuv>
     </tu>
     <tu>
