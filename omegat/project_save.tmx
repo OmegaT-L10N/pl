@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow blank translations in the target files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T145804Z" creationid="jnnas10" creationdate="20210406T145804Z">
+        <seg>&amp;Zezwalaj na pozostawienie nieprzetetłumaczonych fragmentów w plikach docelowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Allow only unique characters</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143857Z" creationid="magdalenaklocek" creationdate="20210323T143857Z">
@@ -6723,6 +6731,22 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PO</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T145458Z" creationid="jnnas10" creationdate="20210406T145458Z">
+        <seg>PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PO Filter Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T145518Z" creationid="jnnas10" creationdate="20210406T145518Z">
+        <seg>Opcje filtrowania PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page slips through fingers
 Pulse pounding hard and frantic
 Vanishing like mist</seg>
@@ -9682,8 +9706,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Translated File Encoding</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210406T145359Z" creationid="jnnas10" creationdate="20210406T145359Z">
-        <seg>Kodowanie plików docelowych</seg>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T145453Z" creationid="jnnas10" creationdate="20210406T145359Z">
+        <seg>Kodowanie pliku docelowego</seg>
       </tuv>
     </tu>
     <tu>
