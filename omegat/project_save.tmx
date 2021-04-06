@@ -8648,8 +8648,8 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="EN">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210406T112454Z" creationid="jnnas10" creationdate="20210406T111930Z">
-        <seg>TMX file was created by OmegaT 1.4.x or earlier.Plik został utworzony w programie OmegaT 1.4.x lub w starszej wersji programu.</seg>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T112529Z" creationid="jnnas10" creationdate="20210406T111930Z">
+        <seg>Plik został utworzony w programie OmegaT 1.4.x lub w starszej wersji programu.</seg>
       </tuv>
     </tu>
     <tu>
