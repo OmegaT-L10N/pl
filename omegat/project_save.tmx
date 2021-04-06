@@ -5733,6 +5733,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T124038Z" creationid="jnnas10" creationdate="20210406T124038Z">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T225501Z" creationid="Paula" creationdate="20210329T225501Z">
@@ -5811,6 +5819,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174149Z" creationid="AgatoZiemniak" creationdate="20210322T174149Z">
         <seg>Przenieś w górę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T124051Z" creationid="jnnas10" creationdate="20210406T124051Z">
+        <seg>Mozilla FTL</seg>
       </tuv>
     </tu>
     <tu>
@@ -6577,6 +6593,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T165736Z" creationid="magdaradka" creationdate="20210317T171935Z">
         <seg>Błąd odczytu pliku preferencji!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password-protected PDF files are not supported: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T124029Z" creationid="jnnas10" creationdate="20210406T124029Z">
+        <seg>Password-protected PDF files are not supported: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9704,6 +9728,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T122414Z" creationid="Anna Zaręba" creationdate="20210331T122054Z">
         <seg>Nie można odczytać odpowiedzi usługi IAM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to parse filters configuration file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T124006Z" creationid="jnnas10" creationdate="20210406T124006Z">
+        <seg>Unable to parse filters configuration file</seg>
       </tuv>
     </tu>
     <tu>
