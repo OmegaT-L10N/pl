@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Clear Menu</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T192541Z" creationid="adurk" creationdate="20210406T192541Z">
+        <seg>&amp;Wyczyść menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163935Z" creationid="magdaradka" creationdate="20210323T163935Z">
@@ -2746,10 +2754,26 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cop&amp;y Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T192715Z" creationid="adurk" creationdate="20210406T192645Z">
+        <seg>Kop&amp;iuj pliki do foldera źródłowego...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy</seg>
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T114955Z" creationid="Anna Zaręba" creationdate="20210331T114955Z">
         <seg>Kopiuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T192748Z" creationid="adurk" creationdate="20210406T192748Z">
+        <seg>Kopiuj pliki do foldera źródłowego...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3421,6 +3445,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="adurk" changedate="20210406T192315Z" creationid="adurk" creationdate="20210406T192315Z">
         <seg>Pobierz &amp; Projekt Zespołowy...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Media&amp;Wiki Page...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T192807Z" creationid="adurk" creationdate="20210406T192807Z">
+        <seg>Pobierz stronę Media&amp;Wiki...</seg>
       </tuv>
     </tu>
     <tu>
