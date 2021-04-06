@@ -3519,6 +3519,14 @@ nikt nie słyszy twojego płaczu...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error unload plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T121837Z" creationid="jnnas10" creationdate="20210406T121837Z">
+        <seg>[coś w rodzaju]Error load plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error updating glossary file</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210953Z" creationid="magdalenaklocek" creationdate="20210322T210953Z">
