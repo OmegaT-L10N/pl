@@ -1033,6 +1033,19 @@ Znak "? " pasuje do jednego znaku ("bieg?" pasuje do "biegi", ale nie do "biegn�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+		Source- or target-language tokenizer to use (overrides project
+		settings).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T185230Z" creationid="Werciks" creationdate="20210406T185230Z">
+        <seg>--ITokenizer=&lt;nazwa klasy&gt;
+	--ITokenizerTarget=&lt;nazwa klasy&gt;
+		Źródłowy lub docelowy lematyzator do użycia (zastępuje ustawienia projektu)..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
@@ -1069,6 +1082,16 @@ Znak "? " pasuje do jednego znaku ("bieg?" pasuje do "biegi", ale nie do "biegn�
       <tuv lang="PL" changeid="Werciks" changedate="20210406T183632Z" creationid="Werciks" creationdate="20210406T183546Z">
         <seg>--tryb = [console-translate | console-pseudotranslatetmx | console-align]
 		Określ tryb inny niż domyślny (interfejs użytkownika).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--no-team
+		Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T184652Z" creationid="Werciks" creationdate="20210406T184652Z">
+        <seg>--brak zepsołu
+		Dezaktywuj funkcję projektów zespołowych..</seg>
       </tuv>
     </tu>
     <tu>
