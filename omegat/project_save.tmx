@@ -1024,9 +1024,9 @@ Znak "? " pasuje do jednego znaku ("bieg?" pasuje do "biegi", ale nie do "biegn�
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171148Z" creationid="jnnas10" creationdate="20210317T171148Z">
-        <seg>-h, --help
-		Show usage information.</seg>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T183226Z" creationid="jnnas10" creationdate="20210317T171148Z">
+        <seg>-p, --pomoc
+		Wyświetl informacje o użytkowaniu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4957,8 +4957,8 @@ powrócą do wartości domyślnych.</seg>
       <tuv lang="EN">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Werciks" changedate="20210406T182923Z" creationid="jnnas10" creationdate="20210317T171254Z">
-        <seg>Aby uzyskać szczegółowe informacje, użyj „team -h”..</seg>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T183115Z" creationid="jnnas10" creationdate="20210317T171254Z">
+        <seg>Aby uzyskać szczegółowe informacje, użyj „team -p”..</seg>
       </tuv>
     </tu>
     <tu>
@@ -10262,8 +10262,8 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="PL" changeid="Werciks" changedate="20210406T182406Z" creationid="agata" creationdate="20210317T171827Z">
-        <seg>Użytkowanie: java -jar OmegaT.jar [&lt;optcje&gt;] [&lt;ścieżka projektu&gt;</seg>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T183127Z" creationid="agata" creationdate="20210317T171827Z">
+        <seg>Użytkowanie: java -jar OmegaT.jar [&lt;opcje&gt;] [&lt;ścieżka projektu&gt;</seg>
       </tuv>
     </tu>
     <tu>
