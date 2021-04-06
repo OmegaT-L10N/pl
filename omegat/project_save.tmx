@@ -2456,6 +2456,18 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commands:
+	-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T190917Z" creationid="Werciks" creationdate="20210406T190917Z">
+        <seg>Polecenie:
+	-p, --pomoc
+		Wyświetl informacje o użytkowaniu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comme&amp;nts</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144304Z" creationid="Aleksandra" creationdate="20210330T144304Z">
@@ -2580,6 +2592,18 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T125253Z" creationid="magda" creationdate="20210325T125253Z">
         <seg>Połączono, projekt jest w trybie projektu zespołowego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Console-align mode:
+	--alignDir=&lt;path&gt;
+		A directory containing the translated files.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T190700Z" creationid="Werciks" creationdate="20210406T190700Z">
+        <seg>Tryb wyrównywania- konsola:
+	--alignDir=&lt;ścieżka&gt;
+		Katalog zawierający przetłumaczone pliki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8375,6 +8399,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Help &gt; User's Manual for more information.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T190721Z" creationid="Werciks" creationdate="20210406T190721Z">
+        <seg>Aby uzyskać więcej informacji, zobacz Pomoc&gt; Podręcznik użytkownika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See OmegaT manual for instructions.</seg>
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T120948Z" creationid="Anna Zaręba" creationdate="20210331T120948Z">
@@ -10538,6 +10570,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="PL" changeid="Werciks" changedate="20210406T183127Z" creationid="agata" creationdate="20210317T171827Z">
         <seg>Użytkowanie: java -jar OmegaT.jar [&lt;opcje&gt;] [&lt;ścieżka projektu&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar team &lt;command&gt; [&lt;options&gt;]]</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T190837Z" creationid="Werciks" creationdate="20210406T190837Z">
+        <seg>Użytkowanie: java -jar OmegaT.jar team &lt;polecenie&gt; [&lt;opcje&gt;]]</seg>
       </tuv>
     </tu>
     <tu>
