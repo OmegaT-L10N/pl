@@ -5885,6 +5885,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moses</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T150502Z" creationid="jnnas10" creationdate="20210406T150502Z">
+        <seg>Moses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moses Server URL:</seg>
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T122434Z" creationid="Anna Zaręba" creationdate="20210331T122434Z">
@@ -9896,6 +9904,14 @@ Exact searches match the whole search string.</seg>
       <tuv lang="PL" changeid="annap" changedate="20210331T123039Z" creationid="annap" creationdate="20210331T123039Z">
         <seg>Rodzaje:
 Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typo3 l10nmgr</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T150425Z" creationid="jnnas10" creationdate="20210406T150425Z">
+        <seg>Typo3 l10nmgr</seg>
       </tuv>
     </tu>
     <tu>
