@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Insert</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T183621Z" creationid="adurk" creationdate="20210406T183621Z">
+        <seg>&amp;Wstaw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Insert Match or Selection</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T115301Z" creationid="annagorska" creationdate="20210331T115301Z">
@@ -7249,6 +7257,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project is Empty</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T182341Z" creationid="adurk" creationdate="20210406T182341Z">
+        <seg>Project is Empty </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project loading end</seg>
       </tuv>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210331T122237Z" creationid="Kasia Mędrzycka" creationdate="20210331T122237Z">
@@ -7719,6 +7735,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T202218Z" creationid="beataporodzynska" creationdate="20210325T202218Z">
         <seg>Przywróć</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore De&amp;faults</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T183105Z" creationid="adurk" creationdate="20210406T183105Z">
+        <seg>Przywróć domyślne</seg>
       </tuv>
     </tu>
     <tu>
