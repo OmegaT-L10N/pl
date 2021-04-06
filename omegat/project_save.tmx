@@ -1009,12 +1009,44 @@ Znak "? " pasuje do jednego znaku ("bieg?" pasuje do "biegi", ale nie do "biegn�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--config-file=&lt;path&gt;
+		A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T183852Z" creationid="Werciks" creationdate="20210406T183852Z">
+        <seg>--config - file = &lt;ścieżka&gt;
+		Java. plik właściwości, z którego mają zostać załadowane ustawienia domyślne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210317T171302Z" creationid="jnnas10" creationdate="20210317T171302Z">
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Specify a mode other than default (GUI).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T183632Z" creationid="Werciks" creationdate="20210406T183546Z">
+        <seg>--tryb = [console-translate | console-pseudotranslatetmx | console-align]
+		Określ tryb inny niż domyślny (interfejs użytkownika).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--remote-project
+		Download an omegat.project file from the URL given as &lt;project
+		path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T183339Z" creationid="Werciks" creationdate="20210406T183339Z">
+        <seg>--projekt zdalny
+		Pobierz plik omegat.project z adresu URL podanego jako &lt;ścieżka
+		projektu&gt; i wczytaj projekt..</seg>
       </tuv>
     </tu>
     <tu>
@@ -8143,8 +8175,8 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="EN">
         <seg>See below for details.</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210317T171201Z" creationid="jnnas10" creationdate="20210317T171201Z">
-        <seg>See below for details.</seg>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T183706Z" creationid="jnnas10" creationdate="20210317T171201Z">
+        <seg>Szczegółowe informacje znajdują się poniżej.</seg>
       </tuv>
     </tu>
     <tu>
