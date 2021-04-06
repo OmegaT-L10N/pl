@@ -40,8 +40,8 @@
       <tuv lang="EN">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210406T145804Z" creationid="jnnas10" creationdate="20210406T145804Z">
-        <seg>&amp;Zezwalaj na pozostawienie nieprzetetłumaczonych fragmentów w plikach docelowych</seg>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T145956Z" creationid="jnnas10" creationdate="20210406T145804Z">
+        <seg>&amp;Zezwól na pozostawienie nieprzetłumaczonych segmentów w plikach docelowych</seg>
       </tuv>
     </tu>
     <tu>
@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Skip PO header</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T150118Z" creationid="jnnas10" creationdate="20210406T145950Z">
+        <seg>&amp;Pomiń PO header</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Source (segment {0}):</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T121031Z" creationid="monika" creationdate="20210325T121031Z">
@@ -1460,6 +1468,14 @@ Znak "? " pasuje do jednego znaku ("bieg?" pasuje do "biegi", ale nie do "biegn�
       </tuv>
       <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T141426Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T141426Z">
         <seg>Pozwól, aby przetłumaczone znaczniki były w in&amp;nej kolejności</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allow translating &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T145947Z" creationid="jnnas10" creationdate="20210406T145809Z">
+        <seg>Zezwól na tłumaczenie nieprzetłumaczonych segmentów </seg>
       </tuv>
     </tu>
     <tu>
