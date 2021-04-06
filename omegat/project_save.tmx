@@ -6377,6 +6377,18 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-GUI mode options:
+	--quiet
+		Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T185706Z" creationid="Werciks" creationdate="20210406T185706Z">
+        <seg>Opcje niezwiązane z interfejsem użytkownika:
+	--cichy
+		Zmniejsz wyjście do stdout z wiersza poleceń..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-breakable space</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T133259Z" creationid="paulina" creationdate="20210320T133259Z">
@@ -8283,6 +8295,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T120948Z" creationid="Anna Zaręba" creationdate="20210331T120948Z">
         <seg>Instrukcje znajdują się w podręczniku użytkownika programu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T185550Z" creationid="Werciks" creationdate="20210406T185550Z">
+        <seg>Sprawdź dostępne wartości w OmegaT.jar / META-INF / MANIFEST.MF.</seg>
       </tuv>
     </tu>
     <tu>
