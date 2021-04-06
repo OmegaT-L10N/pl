@@ -8582,6 +8582,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source File Encoding</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T145446Z" creationid="jnnas10" creationdate="20210406T145327Z">
+        <seg>Kodowanie pliku źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source Filename Pattern</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210406T145257Z" creationid="jnnas10" creationdate="20210406T145257Z">
@@ -9672,10 +9680,18 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated File Encoding</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T145359Z" creationid="jnnas10" creationdate="20210406T145359Z">
+        <seg>Kodowanie plików docelowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated Filename Pattern</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210406T120721Z" creationid="jnnas10" creationdate="20210406T120721Z">
-        <seg>Translated Filename Pattern</seg>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T145432Z" creationid="jnnas10" creationdate="20210406T120721Z">
+        <seg>Wzór nazwy pliku docelowego</seg>
       </tuv>
     </tu>
     <tu>
