@@ -3441,8 +3441,8 @@ nikt nie słyszy twojego płaczu...</seg>
       <tuv lang="EN">
         <seg>Error initializing marker '{0}'</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210406T120646Z" creationid="jnnas10" creationdate="20210406T120646Z">
-        <seg>Error initializing marker '{0}'</seg>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T121231Z" creationid="jnnas10" creationdate="20210406T120646Z">
+        <seg>Błąd inicjalizacji znacznika '{0}'</seg>
       </tuv>
     </tu>
     <tu>
