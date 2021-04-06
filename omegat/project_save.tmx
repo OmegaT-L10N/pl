@@ -2848,6 +2848,14 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display &amp;active source segment in bold</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210406T140718Z" creationid="studentka" creationdate="20210406T140718Z">
+        <seg>Display &amp;active source segment in bold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display for &amp;All Segments</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T182150Z" creationid="monika" creationdate="20210327T182150Z">
