@@ -3316,6 +3316,14 @@ brak strony...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T144923Z" creationid="jnnas10" creationdate="20210406T144923Z">
+        <seg>Włączony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Encoding</seg>
       </tuv>
       <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T145855Z" creationid="cezarykotowicz" creationdate="20210403T145855Z">
@@ -3987,6 +3995,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File Format</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T144822Z" creationid="jnnas10" creationdate="20210406T144822Z">
+        <seg>Format pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File Name</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T144018Z" creationid="Komputer" creationdate="20210331T144018Z">
@@ -4047,6 +4063,14 @@ przykro...</seg>
       </tuv>
       <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T145842Z" creationid="cezarykotowicz" creationdate="20210403T145842Z">
         <seg>Filtr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter '{0}' could not be loaded from '{1}'</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T144628Z" creationid="jnnas10" creationdate="20210406T144628Z">
+        <seg>Filtr '{0}' nie może zostać załadowany z '{1}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -9667,8 +9691,8 @@ the server.</seg>
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="Komputer" changedate="20210329T094800Z" creationid="Komputer" creationdate="20210329T094800Z">
-        <seg>Translated file path cannot be identical to the source file path:
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T144810Z" creationid="Komputer" creationdate="20210329T094800Z">
+        <seg>Ścieżka tłumaczonego pliku nie może być taka sama jak ścieżka pliku źródłowego:
 {0}</seg>
       </tuv>
     </tu>
@@ -9920,6 +9944,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210314Z" creationid="magdalenaklocek" creationdate="20210322T210314Z">
         <seg>Błąd przy zapiszwaniu pliku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to save filters configuration file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T144601Z" creationid="jnnas10" creationdate="20210406T144601Z">
+        <seg>Nie można zapisać pliku konfiguracyjnego filtrów</seg>
       </tuv>
     </tu>
     <tu>
