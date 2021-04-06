@@ -5765,6 +5765,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moodle PHP</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T130634Z" creationid="jnnas10" creationdate="20210406T130634Z">
+        <seg>Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moodle PHP Filter Options</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210406T124038Z" creationid="jnnas10" creationdate="20210406T124038Z">
@@ -6663,8 +6671,8 @@ Vanishing like mist</seg>
       <tuv lang="EN">
         <seg>Password-protected PDF files are not supported: {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210406T124029Z" creationid="jnnas10" creationdate="20210406T124029Z">
-        <seg>Password-protected PDF files are not supported: {0}</seg>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T131051Z" creationid="jnnas10" creationdate="20210406T124029Z">
+        <seg>Pliki PDF chronione hasłem nie są obsługiwane: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -10356,6 +10364,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T152508Z" creationid="cezarykotowicz" creationdate="20210403T152508Z">
         <seg>Przeminęło ze stroną...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows Resources</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T130802Z" creationid="jnnas10" creationdate="20210406T130802Z">
+        <seg>Zasoby programu Windows</seg>
       </tuv>
     </tu>
     <tu>
