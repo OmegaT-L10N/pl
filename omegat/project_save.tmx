@@ -9068,8 +9068,8 @@ bieżący katalog.</seg>
       <tuv lang="EN">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210406T130430Z" creationid="jnnas10" creationdate="20210406T130430Z">
-        <seg>The Moodle PHP filter threw an exception:</seg>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T130630Z" creationid="jnnas10" creationdate="20210406T130430Z">
+        <seg>Filtr Moodle PHP zgłosił wyjątek:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9082,10 +9082,18 @@ bieżący katalog.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Mozilla DTD filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T130504Z" creationid="jnnas10" creationdate="20210406T130504Z">
+        <seg>Filtr Mozilla DTD zgłosił wyjątek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Mozilla FTL filter threw an exception:</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210406T113427Z" creationid="jnnas10" creationdate="20210406T113427Z">
-        <seg>The Mozilla FTL filter threw an exception:</seg>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T130557Z" creationid="jnnas10" creationdate="20210406T113427Z">
+        <seg>Filtr Mozilla FTL zgłosił wyjątek:</seg>
       </tuv>
     </tu>
     <tu>
