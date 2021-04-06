@@ -3521,8 +3521,8 @@ nikt nie słyszy twojego płaczu...</seg>
       <tuv lang="EN">
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210406T121837Z" creationid="jnnas10" creationdate="20210406T121837Z">
-        <seg>[coś w rodzaju]Error load plugin from class '{0}': {1}: {2}</seg>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T123420Z" creationid="jnnas10" creationdate="20210406T121837Z">
+        <seg>Błąd wypakowywania rozszerzenia z klasy '{0}': {1}: {2}</seg>
       </tuv>
     </tu>
     <tu>
