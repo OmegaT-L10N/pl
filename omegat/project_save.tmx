@@ -5855,6 +5855,22 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mozilla DTD</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T125956Z" creationid="jnnas10" creationdate="20210406T125956Z">
+        <seg>Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla DTD Filter Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T125945Z" creationid="jnnas10" creationdate="20210406T125945Z">
+        <seg>Opcje filtra DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mozilla FTL</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210406T124051Z" creationid="jnnas10" creationdate="20210406T124051Z">
@@ -9046,6 +9062,14 @@ current folder will be used instead.</seg>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210329T152759Z" creationid="beataporodzynska" creationdate="20210329T152759Z">
         <seg>Zamiast tego zostanie użyty
 bieżący katalog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moodle PHP filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T130430Z" creationid="jnnas10" creationdate="20210406T130430Z">
+        <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
     </tu>
     <tu>
