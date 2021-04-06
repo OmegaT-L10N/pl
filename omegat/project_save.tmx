@@ -3449,8 +3449,8 @@ nikt nie słyszy twojego płaczu...</seg>
       <tuv lang="EN">
         <seg>Error load plugin from class '{0}': {1}: {2}</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210406T120945Z" creationid="jnnas10" creationdate="20210406T120945Z">
-        <seg>Error load plugin from class '{0}': {1}: {2}</seg>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T123231Z" creationid="jnnas10" creationdate="20210406T120945Z">
+        <seg>Błąd ładowania rozszerzenia z klasy '{0}': {1}: {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9854,8 +9854,8 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       <tuv lang="EN">
         <seg>Unknown plugin type '{0}' in '{1}'</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210406T120623Z" creationid="jnnas10" creationdate="20210406T112154Z">
-        <seg>Nieznana wtyczka '{0}' w '{1}'</seg>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T122423Z" creationid="jnnas10" creationdate="20210406T112154Z">
+        <seg>Nieznane rozszerzenie '{0}' w '{1}'</seg>
       </tuv>
     </tu>
     <tu>
