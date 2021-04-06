@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Line breaks</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T124555Z" creationid="jnnas10" creationdate="20210406T124555Z">
+        <seg>&amp;Line breaks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Load...</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210127Z" creationid="magdalenaklocek" creationdate="20210322T210127Z">
@@ -570,6 +578,14 @@
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210327T202338Z" creationid="wciecierska" creationdate="20210327T202338Z">
         <seg>&amp;Usuń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T124600Z" creationid="jnnas10" creationdate="20210406T124600Z">
+        <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
     </tu>
     <tu>
@@ -957,6 +973,14 @@ Znak "? " pasuje do jednego znaku ("bieg?" pasuje do "biegi", ale nie do "biegn�
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163730Z" creationid="magdaradka" creationdate="20210323T163730Z">
         <seg>+{0} więcej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>---- Localization Notes ----</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T124801Z" creationid="jnnas10" creationdate="20210406T124801Z">
+        <seg>---- Uwagi dotyczące lokalizacji ----</seg>
       </tuv>
     </tu>
     <tu>
@@ -5093,6 +5117,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LaTeX</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T124552Z" creationid="jnnas10" creationdate="20210406T124552Z">
+        <seg>LaTeX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Language Checker</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210330T165146Z" creationid="wciecierska" creationdate="20210330T165146Z">
@@ -5827,6 +5859,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210406T124051Z" creationid="jnnas10" creationdate="20210406T124051Z">
         <seg>Mozilla FTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla Lang</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T124615Z" creationid="jnnas10" creationdate="20210406T124615Z">
+        <seg>Mozilla Lang</seg>
       </tuv>
     </tu>
     <tu>
@@ -7751,6 +7791,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T225629Z" creationid="Paula" creationdate="20210329T225629Z">
         <seg>Zapisywanie projektu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Schematron</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T124547Z" creationid="jnnas10" creationdate="20210406T124547Z">
+        <seg>Schematron</seg>
       </tuv>
     </tu>
     <tu>
