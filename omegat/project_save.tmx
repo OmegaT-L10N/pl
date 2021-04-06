@@ -1038,10 +1038,10 @@ Znak "? " pasuje do jednego znaku ("bieg?" pasuje do "biegi", ale nie do "biegn�
 		Source- or target-language tokenizer to use (overrides project
 		settings).</seg>
       </tuv>
-      <tuv lang="PL" changeid="Werciks" changedate="20210406T185230Z" creationid="Werciks" creationdate="20210406T185230Z">
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T185930Z" creationid="Werciks" creationdate="20210406T185230Z">
         <seg>--ITokenizer=&lt;nazwa klasy&gt;
 	--ITokenizerTarget=&lt;nazwa klasy&gt;
-		Źródłowy lub docelowy lematyzator do użycia (zastępuje ustawienia projektu)..</seg>
+		Źródłowy lub docelowy lematyzator do użycia (zastępuje ustawienia projektu).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1089,9 +1089,9 @@ Znak "? " pasuje do jednego znaku ("bieg?" pasuje do "biegi", ale nie do "biegn�
         <seg>--no-team
 		Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Werciks" changedate="20210406T184652Z" creationid="Werciks" creationdate="20210406T184652Z">
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T185941Z" creationid="Werciks" creationdate="20210406T184652Z">
         <seg>--brak zepsołu
-		Dezaktywuj funkcję projektów zespołowych..</seg>
+		Dezaktywuj funkcję projektów zespołowych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1125,9 +1125,19 @@ Znak "? " pasuje do jednego znaku ("bieg?" pasuje do "biegi", ale nie do "biegn�
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174803Z" creationid="AgataWojtera" creationdate="20210317T174803Z">
-        <seg>--script=&lt;path&gt;
-		A script file to be executed on project events.</seg>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T185756Z" creationid="AgataWojtera" creationdate="20210317T174803Z">
+        <seg>--script=&lt;ścieżka&gt;
+		Plik skryptu do wykonania podczas zdarzeń występujących w projekcie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--tag-validation=[abort|warn]
+		Validate tags.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T185916Z" creationid="Werciks" creationdate="20210406T185916Z">
+        <seg>--tag-validation=[abort|warn]
+		Sprawdź poprawność tagów..</seg>
       </tuv>
     </tu>
     <tu>
@@ -6381,10 +6391,10 @@ Lost to paradise</seg>
 	--quiet
 		Reduce output to command line stdout.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Werciks" changedate="20210406T185706Z" creationid="Werciks" creationdate="20210406T185706Z">
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T185925Z" creationid="Werciks" creationdate="20210406T185706Z">
         <seg>Opcje niezwiązane z interfejsem użytkownika:
 	--cichy
-		Zmniejsz wyjście do stdout z wiersza poleceń..</seg>
+		Zmniejsz wyjście do stdout z wiersza poleceń.</seg>
       </tuv>
     </tu>
     <tu>
