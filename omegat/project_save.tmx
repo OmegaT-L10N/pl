@@ -6770,8 +6770,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171216Z" creationid="magdaradka" creationdate="20210317T171216Z">
-        <seg>Plugin successfully loaded from class '{0}'</seg>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T123852Z" creationid="magdaradka" creationdate="20210317T171216Z">
+        <seg>Pomyślnie załadowano rozszerzenie z klasy '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -8290,6 +8290,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T231430Z" creationid="Paula" creationdate="20210329T231430Z">
         <seg>Rozmiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T123734Z" creationid="jnnas10" creationdate="20210406T123734Z">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
     </tu>
     <tu>
