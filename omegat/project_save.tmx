@@ -3439,6 +3439,22 @@ nikt nie słyszy twojego płaczu...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error initializing marker '{0}'</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T120646Z" creationid="jnnas10" creationdate="20210406T120646Z">
+        <seg>Error initializing marker '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error load plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T120945Z" creationid="jnnas10" creationdate="20210406T120945Z">
+        <seg>Error load plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T141658Z" creationid="Komputer" creationdate="20210331T141658Z">
@@ -9412,6 +9428,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140023Z" creationid="AgataWojtera" creationdate="20210323T140023Z">
         <seg>Przetłumacz następujące atrybuty:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated Filename Pattern</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T120721Z" creationid="jnnas10" creationdate="20210406T120721Z">
+        <seg>Translated Filename Pattern</seg>
       </tuv>
     </tu>
     <tu>
