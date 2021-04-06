@@ -1296,6 +1296,14 @@ Znak "? " pasuje do jednego znaku ("bieg?" pasuje do "biegi", ale nie do "biegn�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add To Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T111856Z" creationid="jnnas10" creationdate="20210406T111856Z">
+        <seg>[coś w rodzaju]Dodaj do słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T145555Z" creationid="magdalenaklocek" creationdate="20210323T145555Z">
@@ -3177,6 +3185,14 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit Filter</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T111925Z" creationid="jnnas10" creationdate="20210406T111925Z">
+        <seg>Edit Filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Highlight Pattern</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T175508Z" creationid="AgatoZiemniak" creationdate="20210322T175013Z">
@@ -4619,6 +4635,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore: “{0}”</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T111900Z" creationid="jnnas10" creationdate="20210406T111900Z">
+        <seg>Ignore: “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Editor</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210331T100542Z" creationid="magdalenaklocek" creationdate="20210331T100542Z">
@@ -5723,6 +5747,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174119Z" creationid="AgatoZiemniak" creationdate="20210322T173000Z">
         <seg>Przenieś w dół</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move U&amp;p</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T111914Z" creationid="jnnas10" creationdate="20210406T111914Z">
+        <seg>Move U&amp;p</seg>
       </tuv>
     </tu>
     <tu>
@@ -8438,6 +8470,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spelling</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T111909Z" creationid="jnnas10" creationdate="20210406T111909Z">
+        <seg>Spelling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Split</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173008Z" creationid="AgatoZiemniak" creationdate="20210322T173008Z">
@@ -8594,6 +8634,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T112403Z" creationid="Anna Zaręba" creationdate="20210331T112403Z">
         <seg>Opcje dopasowania pamięci tłumaczeniowej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T111930Z" creationid="jnnas10" creationdate="20210406T111930Z">
+        <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
     </tu>
     <tu>
