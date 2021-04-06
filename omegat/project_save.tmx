@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Save</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T193113Z" creationid="adurk" creationdate="20210406T193113Z">
+        <seg>&amp;]Zapisz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Save As...</seg>
       </tuv>
       <tuv lang="PL" changeid="adurk" changedate="20210406T183816Z" creationid="adurk" creationdate="20210406T183816Z">
