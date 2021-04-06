@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;New...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T192108Z" creationid="adurk" creationdate="20210406T192108Z">
+        <seg>&amp;Nowy...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Next Segment</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T115849Z" creationid="annagorska" creationdate="20210331T115849Z">
@@ -594,6 +602,14 @@
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T115918Z" creationid="annagorska" creationdate="20210331T115918Z">
         <seg>&amp;Poprzedni Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T192100Z" creationid="adurk" creationdate="20210406T192100Z">
+        <seg>&amp;Projekt</seg>
       </tuv>
     </tu>
     <tu>
@@ -1012,6 +1028,16 @@ Znak "? " pasuje do jednego znaku ("bieg?" pasuje do "biegi", ale nie do "biegn�
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T183102Z" creationid="monika" creationdate="20210327T183102Z">
         <seg>(+{0} więcej)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
+To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T191415Z" creationid="adurk" creationdate="20210406T191415Z">
+        <seg>(Otwórz instrukcję obsługi i wejdź w 'Pliki do tłumaczenia' &gt; 'Formaty plików', aby wyświetlić listę obsługiwanych formatów.)
+Aby dodać pliki do projektu, kliknij przycisk Kopiuj pliki do foldera źródłowego w oknie Pliki projektu lub wybierz tę opcję w menu Projektu i zaznacz pliki, które chce skopiować.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3379,6 +3405,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T142807Z" creationid="magdalenaklocek" creationdate="20210323T142807Z">
         <seg>Zgoda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download &amp;Team Project...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T192315Z" creationid="adurk" creationdate="20210406T192315Z">
+        <seg>Pobierz &amp; Projekt Zespołowy...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6803,6 +6837,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has chosen option 'Yes' automatically.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T192043Z" creationid="adurk" creationdate="20210406T192043Z">
+        <seg>OmegaT automatycznie zaznaczył opcję "Tak".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has detected a 3.6-style team project.</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T125908Z" creationid="magda" creationdate="20210325T125908Z">
@@ -7586,8 +7628,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Project is Empty</seg>
       </tuv>
-      <tuv lang="PL" changeid="adurk" changedate="20210406T182341Z" creationid="adurk" creationdate="20210406T182341Z">
-        <seg>Project is Empty </seg>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T191833Z" creationid="adurk" creationdate="20210406T182341Z">
+        <seg>Projekt jest pusty </seg>
       </tuv>
     </tu>
     <tu>
@@ -11113,6 +11155,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T191817Z" creationid="adurk" creationdate="20210406T191742Z">
+        <seg>Możesz także skopiować pliki do foldera źródłowego twojego projektu, używając swojego ulubionego menedżera plików i załaduj ponownie projekt używając opcji Załaduj ponownie w menu Projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may try to solve this problem in one of the following ways:</seg>
       </tuv>
       <tuv lang="PL" changeid="adurk" changedate="20210406T184307Z" creationid="adurk" creationdate="20210406T184307Z">
@@ -11150,6 +11200,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T134722Z" creationid="beataporodzynska" creationdate="20210325T134722Z">
         <seg>Twój system operacyjny nie pozwolił OmegaT na utworzenie folderu konfiguracyjnego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your project does not contain any files in a supported file format.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T190442Z" creationid="adurk" creationdate="20210406T190442Z">
+        <seg>Twój projekt nie zawiera żadnych plików w obsługiwanym formacie.</seg>
       </tuv>
     </tu>
     <tu>
