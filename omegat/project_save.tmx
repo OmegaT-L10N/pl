@@ -1314,8 +1314,8 @@ Znak "? " pasuje do jednego znaku ("bieg?" pasuje do "biegi", ale nie do "biegn�
       <tuv lang="EN">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210406T113707Z" creationid="jnnas10" creationdate="20210406T113707Z">
-        <seg>Added {0} glossary entries from {1}</seg>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T120332Z" creationid="jnnas10" creationdate="20210406T113707Z">
+        <seg>Dodano {0} wpis do słownika z {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5271,8 +5271,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="EN">
         <seg>Loading glossary {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdaradka" changedate="20210317T171139Z" creationid="magdaradka" creationdate="20210317T171139Z">
-        <seg>Loading glossary {0}</seg>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T120024Z" creationid="magdaradka" creationdate="20210317T171139Z">
+        <seg>Ładowanie glosariusza {0}</seg>
       </tuv>
     </tu>
     <tu>
