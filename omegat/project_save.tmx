@@ -6635,6 +6635,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PDF Input</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T133946Z" creationid="jnnas10" creationdate="20210406T133946Z">
+        <seg>PDF Input</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PDFBox (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150910Z" creationid="Aleksandra" creationdate="20210330T150910Z">
