@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reload</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T193022Z" creationid="adurk" creationdate="20210406T193022Z">
+        <seg>&amp;Załaduj ponownie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Remove</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210327T202338Z" creationid="wciecierska" creationdate="20210327T202338Z">
@@ -2590,6 +2598,22 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commit Source Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T193046Z" creationid="adurk" creationdate="20210406T193046Z">
+        <seg>Wyślij pliki źródłowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commit Target Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T193104Z" creationid="adurk" creationdate="20210406T193104Z">
+        <seg>Wyślij pliki docelowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commit not possible because somebody else changed remote translation.</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T124814Z" creationid="magda" creationdate="20210325T124814Z">
@@ -3453,6 +3477,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="adurk" changedate="20210406T192807Z" creationid="adurk" creationdate="20210406T192807Z">
         <seg>Pobierz stronę Media&amp;Wiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T192832Z" creationid="adurk" creationdate="20210406T192832Z">
+        <seg>Pobierz stronę  MediaWiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -4371,6 +4403,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File Copy Failed</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T193011Z" creationid="adurk" creationdate="20210406T193011Z">
+        <seg>Kopiowanie pliku nie powiodło się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File Filters...</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174021Z" creationid="AgatoZiemniak" creationdate="20210322T174021Z">
@@ -5145,6 +5185,14 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210406T111900Z" creationid="jnnas10" creationdate="20210406T111900Z">
         <seg>Ignore: “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Importing Wiki Page Failed</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T192950Z" creationid="adurk" creationdate="20210406T192950Z">
+        <seg>Importowanie strony Wiki nie powiodło się</seg>
       </tuv>
     </tu>
     <tu>
@@ -7413,6 +7461,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T122827Z" creationid="monika" creationdate="20210325T121020Z">
         <seg>Spróbuj ponownie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please type or paste the URL of the mediawiki page</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T192913Z" creationid="adurk" creationdate="20210406T192913Z">
+        <seg>Wpisz lub wklej adres URL strony MediaWiki</seg>
       </tuv>
     </tu>
     <tu>
