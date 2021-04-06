@@ -5091,6 +5091,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initialized {0}-{1} team project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T191327Z" creationid="Werciks" creationdate="20210406T191327Z">
+        <seg>Zainicjowano {0} - {1}. {0}-{1} projekt zespołowy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initializing</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004246Z" creationid="Agata Kaczmarska" creationdate="20210326T004246Z">
@@ -7133,6 +7141,17 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174700Z" creationid="AgatoZiemniak" creationdate="20210322T174700Z">
         <seg>Dopasowanie punktowe: Wybierz odpowiednią komórkę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place source files in ./source and supplemental
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Werciks" changedate="20210406T191417Z" creationid="Werciks" creationdate="20210406T191417Z">
+        <seg>Umieść pliki ./source i dodatkowe materiały w formacie
+./tm, ./glossary i ./dictionary według potrzeb, a następnie zatwierdź.</seg>
       </tuv>
     </tu>
     <tu>
