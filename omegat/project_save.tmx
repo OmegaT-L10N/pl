@@ -1251,6 +1251,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T190350Z" creationid="adurk" creationdate="20210406T190350Z">
+        <seg>&lt;automatyczne&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T164553Z" creationid="AgatoZiemniak" creationdate="20210322T164553Z">
@@ -2768,6 +2776,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211812Z" creationid="magdalenaklocek" creationdate="20210322T211812Z">
         <seg>Autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T190221Z" creationid="adurk" creationdate="20210406T190221Z">
+        <seg>Aktualne wykorzystanie pamięci przez VM: {0}MB;wolne miejsce: {1}MB; maksymalna pojemność: {2}MB</seg>
       </tuv>
     </tu>
     <tu>
@@ -6715,6 +6731,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will now terminate.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T185350Z" creationid="adurk" creationdate="20210406T185350Z">
+        <seg>OmegaT zostanie teraz zamknięty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will try to resegment the TMX file...</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210406T115319Z" creationid="jnnas10" creationdate="20210406T112145Z">
@@ -7967,6 +7991,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003455Z" creationid="Agata Kaczmarska" creationdate="20210326T003455Z">
         <seg>Otwórz skrypt na slocie #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running on Java {0} ({1}-bit)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T185841Z" creationid="adurk" creationdate="20210406T185813Z">
+        <seg>Praca z Java {0} ({1}-bit)</seg>
       </tuv>
     </tu>
     <tu>
