@@ -4139,6 +4139,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Format:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T134050Z" creationid="jnnas10" creationdate="20210406T134050Z">
+        <seg>Format:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Found in:</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T183000Z" creationid="monika" creationdate="20210327T183000Z">
@@ -4871,6 +4879,14 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T141008Z" creationid="Komputer" creationdate="20210331T131032Z">
         <seg>Brak uprawnień do projektu {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid file format</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T134037Z" creationid="jnnas10" creationdate="20210406T134037Z">
+        <seg>Niepoprawny format pliku</seg>
       </tuv>
     </tu>
     <tu>
@@ -5769,6 +5785,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210330T164338Z" creationid="wciecierska" creationdate="20210330T164338Z">
         <seg>Treść informacji o modyfikacjach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Monolingual</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T134116Z" creationid="jnnas10" creationdate="20210406T134116Z">
+        <seg>Jednojęzyczny</seg>
       </tuv>
     </tu>
     <tu>
@@ -8688,8 +8712,8 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="EN">
         <seg>Standard</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210406T111854Z" creationid="jnnas10" creationdate="20210406T111854Z">
-        <seg>Standard</seg>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T134144Z" creationid="jnnas10" creationdate="20210406T111854Z">
+        <seg>Standardowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -9118,6 +9142,14 @@ bieżący katalog.</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210406T130557Z" creationid="jnnas10" creationdate="20210406T113427Z">
         <seg>Filtr Mozilla FTL zgłosił wyjątek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The PO filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210406T134121Z" creationid="jnnas10" creationdate="20210406T134121Z">
+        <seg>The PO filter threw an exception:</seg>
       </tuv>
     </tu>
     <tu>
