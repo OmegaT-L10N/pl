@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Open...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T192325Z" creationid="adurk" creationdate="20210406T192325Z">
+        <seg>&amp;Otwórz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Options</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T120400Z" creationid="annagorska" creationdate="20210331T120400Z">
@@ -6949,6 +6957,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T150334Z" creationid="Komputer" creationdate="20210331T150334Z">
         <seg>Otwórz projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Recent Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="PL" changeid="adurk" changedate="20210406T192517Z" creationid="adurk" creationdate="20210406T192517Z">
+        <seg>Otwórz ostatni Pro&amp;jekt</seg>
       </tuv>
     </tu>
     <tu>
