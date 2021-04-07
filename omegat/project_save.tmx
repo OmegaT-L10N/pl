@@ -3328,6 +3328,14 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display &amp;tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T090851Z" creationid="studentka" creationdate="20210407T090851Z">
+        <seg>Wyświetl &amp;znaczniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display for &amp;All Segments</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T182150Z" creationid="monika" creationdate="20210327T182150Z">
@@ -5337,6 +5345,14 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T121408Z" creationid="annap" creationdate="20210331T121408Z">
         <seg>W oryginale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Include matches from &amp;other languages</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T091045Z" creationid="studentka" creationdate="20210407T091045Z">
+        <seg>Uwzględnij dopasowania z  &amp;innych języków</seg>
       </tuv>
     </tu>
     <tu>
@@ -11049,6 +11065,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T120407Z" creationid="annagorska" creationdate="20210331T120407Z">
         <seg>Użtj TAB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T090944Z" creationid="studentka" creationdate="20210407T090944Z">
+        <seg>Użyj &amp; XML dla samodzielnych znaczników  (n.p., &lt;i/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
