@@ -4795,6 +4795,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Full text, including tags and numbers</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T093500Z" creationid="studentka" creationdate="20210407T093500Z">
+        <seg>Cały tekst, włączając znaczniki i liczby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Full/Half &amp;width char insensitive</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T121119Z" creationid="annap" creationdate="20210331T121119Z">
@@ -6821,6 +6829,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003508Z" creationid="Agata Kaczmarska" creationdate="20210326T003508Z">
         <seg>Nie ustawiono skryptu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No tags and no numbers</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T093422Z" creationid="studentka" creationdate="20210407T093422Z">
+        <seg>Brak znaczników i lczb</seg>
       </tuv>
     </tu>
     <tu>
