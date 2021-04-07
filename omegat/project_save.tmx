@@ -64,8 +64,8 @@
       <tuv lang="EN">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174345Z" creationid="AgataWojtera" creationdate="20210317T174345Z">
-        <seg>&amp;Allow translation to be equal to source</seg>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T081310Z" creationid="AgataWojtera" creationdate="20210317T174345Z">
+        <seg>&amp;Zezwól, aby tłumaczenie było t&amp;akie samo jak źródło</seg>
       </tuv>
     </tu>
     <tu>
@@ -480,8 +480,8 @@
       <tuv lang="EN">
         <seg>&amp;Leave the segment empty</seg>
       </tuv>
-      <tuv lang="PL" changeid="studentka" changedate="20210407T080757Z" creationid="studentka" creationdate="20210407T080757Z">
-        <seg>[coś w rodzaju]&amp;Zostaw segment pusty</seg>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T081144Z" creationid="studentka" creationdate="20210407T080757Z">
+        <seg>&amp;Zostaw segment pusty</seg>
       </tuv>
     </tu>
     <tu>
@@ -626,6 +626,14 @@
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T223338Z" creationid="Paula" creationdate="20210329T223338Z">
         <seg>Preferencje...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Prefix:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T081215Z" creationid="studentka" creationdate="20210407T081215Z">
+        <seg>Tekst &amp;przed dopasowaniem:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3649,6 +3657,14 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E&amp;xport the segment to text files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T081318Z" creationid="studentka" creationdate="20210407T081318Z">
+        <seg>E&amp;xport the segment to text files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ed&amp;it</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210330T153421Z" creationid="beataporodzynska" creationdate="20210330T153421Z">
@@ -5385,6 +5401,14 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T115615Z" creationid="annagorska" creationdate="20210331T115615Z">
         <seg>IWprowadź tag {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert the &amp;best fuzzy match</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T081157Z" creationid="studentka" creationdate="20210407T081157Z">
+        <seg>Wstaw najlepsze &amp;dopasowanie rozmyte</seg>
       </tuv>
     </tu>
     <tu>
@@ -11454,8 +11478,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>[fuzzy]</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174335Z" creationid="AgataWojtera" creationdate="20210317T174335Z">
-        <seg>[fuzzy]</seg>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T081241Z" creationid="AgataWojtera" creationdate="20210317T174335Z">
+        <seg>[dopasowanie]</seg>
       </tuv>
     </tu>
     <tu>
