@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Move Down</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T074716Z" creationid="studentka" creationdate="20210407T074716Z">
+        <seg>[coś w rodzaju]Przesuń n&amp;iżej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Never</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T135933Z" creationid="AgataWojtera" creationdate="20210323T135933Z">
@@ -6377,6 +6385,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move Do&amp;wn</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T074655Z" creationid="studentka" creationdate="20210407T074655Z">
+        <seg>Przesuń &amp;niżej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move Down</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174119Z" creationid="AgatoZiemniak" creationdate="20210322T173000Z">
@@ -8734,6 +8750,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segmentation rules are applied in the following order:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T074928Z" creationid="studentka" creationdate="20210407T074928Z">
+        <seg>Zasady segmentacji stosowane są w następującej kolejności:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segments</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T141811Z" creationid="Komputer" creationdate="20210331T141811Z">
@@ -8971,6 +8995,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
 </note>
       <tuv lang="EN">
         <seg>Sets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sets of segmentation rules:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T074736Z" creationid="studentka" creationdate="20210407T074736Z">
+        <seg>Zestawy zasad segmentacji:</seg>
       </tuv>
     </tu>
     <tu>
