@@ -11621,8 +11621,8 @@ Your page is not found</seg>
       <tuv lang="EN">
         <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210406T115134Z" creationid="jnnas10" creationdate="20210406T112129Z">
-        <seg>W projekcie wykorzystywana jest segmentacja zdaniowa, natomiast plik TMX wykorzystuje segmentację akapitową.</seg>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210407T155605Z" creationid="jnnas10" creationdate="20210406T112129Z">
+        <seg>W projekcie użyto segmentacji zdaniowej, jednak plik TMX używa segmentacji akapitowej.</seg>
       </tuv>
     </tu>
     <tu>
