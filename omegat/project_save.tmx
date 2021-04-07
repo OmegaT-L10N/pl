@@ -3322,8 +3322,8 @@ opuść kolejkę...</seg>
       <tuv lang="EN">
         <seg>Display &amp;active source segment in bold</seg>
       </tuv>
-      <tuv lang="PL" changeid="studentka" changedate="20210406T140718Z" creationid="studentka" creationdate="20210406T140718Z">
-        <seg>Display &amp;active source segment in bold</seg>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T094412Z" creationid="studentka" creationdate="20210406T140718Z">
+        <seg>Wyświetl &amp;aktywne segmenty źródłowe pogrubioną czcionką</seg>
       </tuv>
     </tu>
     <tu>
@@ -3332,6 +3332,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="studentka" changedate="20210407T090851Z" creationid="studentka" creationdate="20210407T090851Z">
         <seg>Wyświetl &amp;znaczniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display all &amp;source segments in bold</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T094216Z" creationid="studentka" creationdate="20210407T094216Z">
+        <seg>Wyświetl wszystkie &amp;źródła pogrubioną czcionką </seg>
       </tuv>
     </tu>
     <tu>
