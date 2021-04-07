@@ -5375,7 +5375,7 @@ powrócą do wartości domyślnych.</seg>
       <tuv lang="EN">
         <seg>Initially load this many segments:</seg>
       </tuv>
-      <tuv lang="PL" changeid="studentka" changedate="20210407T084415Z" creationid="studentka" creationdate="20210407T084415Z">
+      <tuv lang="PL" changeid="studentka" changedate="20210407T085216Z" creationid="studentka" creationdate="20210407T084415Z">
         <seg>Najpierw załaduj wiele segmentów:</seg>
       </tuv>
     </tu>
@@ -7391,6 +7391,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210330T165124Z" creationid="wciecierska" creationdate="20210330T165124Z">
         <seg>Ograniczenie akapitu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph delimitation format:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T085001Z" creationid="studentka" creationdate="20210407T085001Z">
+        <seg>Paragraph delimitation format:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11223,8 +11231,8 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       <tuv lang="EN">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
-      <tuv lang="PL" changeid="studentka" changedate="20210407T084958Z" creationid="studentka" creationdate="20210407T084958Z">
-        <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T085322Z" creationid="studentka" creationdate="20210407T084958Z">
+        <seg>Gdy pojedynczy plik ma więcej segmentów, dodatkowe segmenty będą ładowane na żądanie w czasie przewijania .</seg>
       </tuv>
     </tu>
     <tu>
