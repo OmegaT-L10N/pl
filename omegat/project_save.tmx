@@ -6231,6 +6231,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match display template</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T091758Z" creationid="studentka" creationdate="20210407T091758Z">
+        <seg>Dopasuj szablon wyświetlania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match type</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172156Z" creationid="AgatoZiemniak" creationdate="20210322T172156Z">
@@ -9387,6 +9395,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210322T123425Z" creationid="paulina" creationdate="20210322T123425Z">
         <seg>Sortuj według terminu źródłowego &amp;alfabetycznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort fuzzy matches by:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T092108Z" creationid="studentka" creationdate="20210407T092108Z">
+        <seg>Sortuj dopasowania rozmyte według:</seg>
       </tuv>
     </tu>
     <tu>
