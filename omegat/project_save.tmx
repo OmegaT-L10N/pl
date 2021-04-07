@@ -7491,6 +7491,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Penalty for matches in other languages:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T091612Z" creationid="studentka" creationdate="20210407T091612Z">
+        <seg>Kara za dopasowania w innych językach:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Perhaps it is already opened in another OmegaT instance</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T124422Z" creationid="magda" creationdate="20210325T124422Z">
