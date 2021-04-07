@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Name/ID:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T075540Z" creationid="studentka" creationdate="20210407T075540Z">
+        <seg>Imię i &amp;nazwisko/ID:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Never</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T135933Z" creationid="AgataWojtera" creationdate="20210323T135933Z">
@@ -3713,10 +3721,26 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T080537Z" creationid="studentka" creationdate="20210407T075556Z">
+        <seg>[coś w rodzaju]Edytor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editor - {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T123915Z" creationid="beataporodzynska" creationdate="20210325T123915Z">
         <seg>Edytor - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editor Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T075710Z" creationid="studentka" creationdate="20210407T075550Z">
+        <seg>Opcje Edytora</seg>
       </tuv>
     </tu>
     <tu>
