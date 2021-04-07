@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T082112Z" creationid="studentka" creationdate="20210407T082112Z">
+        <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Help</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T223350Z" creationid="Agata Kaczmarska" creationdate="20210326T003951Z">
@@ -536,8 +544,8 @@
       <tuv lang="EN">
         <seg>&amp;Minimal similarity:</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174327Z" creationid="AgataWojtera" creationdate="20210317T174327Z">
-        <seg>&amp;Minimal similarity:</seg>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T082159Z" creationid="AgataWojtera" creationdate="20210317T174327Z">
+        <seg>&amp;Minimalna zgodność:</seg>
       </tuv>
     </tu>
     <tu>
