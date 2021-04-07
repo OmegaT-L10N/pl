@@ -416,8 +416,8 @@
       <tuv lang="EN">
         <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
       </tuv>
-      <tuv lang="PL" changeid="studentka" changedate="20210407T082112Z" creationid="studentka" creationdate="20210407T082112Z">
-        <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T082526Z" creationid="studentka" creationdate="20210407T082112Z">
+        <seg>&amp;Idź do kolejnego nieprzetłumaczonego segmentu i zatrzymaj się na nim, gdy istnieje przynajmniej jedno alternatywne tłumaczenie</seg>
       </tuv>
     </tu>
     <tu>
