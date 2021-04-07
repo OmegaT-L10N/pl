@@ -5437,6 +5437,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is used to mark your translations.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T075527Z" creationid="studentka" creationdate="20210407T075431Z">
+        <seg>Jest ono używane do oznaczenia twoich tłumaczeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T125625Z" creationid="magda" creationdate="20210325T125625Z">
@@ -7443,8 +7451,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please enter your name/ID.</seg>
       </tuv>
-      <tuv lang="PL" changeid="studentka" changedate="20210407T075422Z" creationid="studentka" creationdate="20210407T075422Z">
-        <seg>[coś w rodzaju]Podaj swoje imię i nazwisko/ID.</seg>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T075441Z" creationid="studentka" creationdate="20210407T075422Z">
+        <seg>Podaj swoje imię i nazwisko/ID.</seg>
       </tuv>
     </tu>
     <tu>
