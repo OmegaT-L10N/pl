@@ -5581,6 +5581,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Issues ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jnnas10" changedate="20210407T172002Z" creationid="jnnas10" creationdate="20210407T172002Z">
+        <seg>Issues ({0} of {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is used to mark your translations.</seg>
       </tuv>
       <tuv lang="PL" changeid="studentka" changedate="20210407T075527Z" creationid="studentka" creationdate="20210407T075431Z">
