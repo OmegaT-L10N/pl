@@ -6375,6 +6375,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Minimal threshold to show a fuzzy match:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T093847Z" creationid="studentka" creationdate="20210407T093847Z">
+        <seg>Minimalna granica do pokazania dopasowania rozmytego:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Minimize</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T124541Z" creationid="beataporodzynska" creationdate="20210325T124541Z">
