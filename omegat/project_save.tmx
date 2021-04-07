@@ -4355,6 +4355,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External TMX Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T090437Z" creationid="studentka" creationdate="20210407T090437Z">
+        <seg>Opcje zewnętrzne TMX </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External command completed.</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T141523Z" creationid="Komputer" creationdate="20210331T141325Z">
@@ -7397,8 +7405,8 @@ Vanishing like mist</seg>
       <tuv lang="EN">
         <seg>Paragraph delimitation format:</seg>
       </tuv>
-      <tuv lang="PL" changeid="studentka" changedate="20210407T085001Z" creationid="studentka" creationdate="20210407T085001Z">
-        <seg>Paragraph delimitation format:</seg>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T085534Z" creationid="studentka" creationdate="20210407T085001Z">
+        <seg>Ograniczenie formatu akapitu:</seg>
       </tuv>
     </tu>
     <tu>
