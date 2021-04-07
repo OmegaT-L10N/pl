@@ -1922,6 +1922,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T075030Z" creationid="studentka" creationdate="20210407T074954Z">
+        <seg>Czy jesteś pewien, że chcesz usunąć zestaw zasad segmentacji {0}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure you want to reset the master password?</seg>
       </tuv>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210331T124323Z" creationid="Kasia Mędrzycka" creationdate="20210331T124323Z">
@@ -6521,6 +6529,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New Language and Country</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T075053Z" creationid="studentka" creationdate="20210407T075002Z">
+        <seg>Nowy język i kraj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New LanguageTool rule</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T123132Z" creationid="monika" creationdate="20210325T123132Z">
@@ -7421,6 +7437,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T130622Z" creationid="magda" creationdate="20210325T130622Z">
         <seg>Proszę wpisać nazwę użtkownika/hasło</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter your name/ID.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T075422Z" creationid="studentka" creationdate="20210407T075422Z">
+        <seg>[coś w rodzaju]Podaj swoje imię i nazwisko/ID.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9691,6 +9715,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T140302Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140302Z">
         <seg>Termin docelowy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T075110Z" creationid="studentka" creationdate="20210407T075110Z">
+        <seg>Zespół</seg>
       </tuv>
     </tu>
     <tu>
