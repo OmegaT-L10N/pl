@@ -9775,6 +9775,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TM Matches</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T094040Z" creationid="studentka" creationdate="20210407T094040Z">
+        <seg>Dopasowania pamięci tłumaczeniowej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TM Matching Options</seg>
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T112403Z" creationid="Anna Zaręba" creationdate="20210331T112403Z">
