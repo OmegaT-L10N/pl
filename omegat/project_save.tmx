@@ -5373,6 +5373,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initially load this many segments:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T084415Z" creationid="studentka" creationdate="20210407T084415Z">
+        <seg>Najpierw załaduj wiele segmentów:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initially, that is when the project is created, the main TM of the project, &lt;f0&gt;project_save.tmx&lt;/f0&gt; is empty.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T190641Z" creationid="Aleksandra" creationdate="20210327T190641Z">
