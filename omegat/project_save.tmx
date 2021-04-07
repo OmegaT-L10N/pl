@@ -416,8 +416,8 @@
       <tuv lang="EN">
         <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
       </tuv>
-      <tuv lang="PL" changeid="studentka" changedate="20210407T082526Z" creationid="studentka" creationdate="20210407T082112Z">
-        <seg>&amp;Idź do kolejnego nieprzetłumaczonego segmentu i zatrzymaj się na nim, gdy istnieje przynajmniej jedno alternatywne tłumaczenie</seg>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T082627Z" creationid="studentka" creationdate="20210407T082112Z">
+        <seg>&amp;Idź do kolejnego nieprzetłumaczonego segmentu i pozostań tam, gdy istnieje przynajmniej jedno alternatywne tłumaczenie</seg>
       </tuv>
     </tu>
     <tu>
@@ -1991,8 +1991,8 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       <tuv lang="EN">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174601Z" creationid="AgataWojtera" creationdate="20210317T174601Z">
-        <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T082736Z" creationid="AgataWojtera" creationdate="20210317T174601Z">
+        <seg>Spróbuj przekonwertować &amp;liczby podczas wstawiania dopasowania rozmytego </seg>
       </tuv>
     </tu>
     <tu>
