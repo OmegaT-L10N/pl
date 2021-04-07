@@ -3723,8 +3723,8 @@ opuść kolejkę...</seg>
       <tuv lang="EN">
         <seg>Editor</seg>
       </tuv>
-      <tuv lang="PL" changeid="studentka" changedate="20210407T080537Z" creationid="studentka" creationdate="20210407T075556Z">
-        <seg>[coś w rodzaju]Edytor</seg>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T080618Z" creationid="studentka" creationdate="20210407T075556Z">
+        <seg>Edytor</seg>
       </tuv>
     </tu>
     <tu>
@@ -5377,6 +5377,14 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T115615Z" creationid="annagorska" creationdate="20210331T115615Z">
         <seg>IWprowadź tag {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert the &amp;source text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T080607Z" creationid="studentka" creationdate="20210407T080607Z">
+        <seg>Insert the &amp;source text</seg>
       </tuv>
     </tu>
     <tu>
@@ -7517,6 +7525,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T132828Z" creationid="paulina" creationdate="20210320T132828Z">
         <seg>Proszę wybrać interwał, w którym projekt powinien być zapisywany automatycznie, w minutach i sekundach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T080703Z" creationid="studentka" creationdate="20210407T080601Z">
+        <seg>Wybierz, jaki tekst ma być wstawiony do nieprzetłumaczonego segmentu, gdy do niego przechodzisz.</seg>
       </tuv>
     </tu>
     <tu>
