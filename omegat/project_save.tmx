@@ -7593,6 +7593,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T090805Z" creationid="studentka" creationdate="20210407T090442Z">
+        <seg>Wybierz sposób wyświetlania znaczników TMX innych niż OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please select the dictionaries you want to install and press the Install button.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T131130Z" creationid="monika" creationdate="20210325T131130Z">
