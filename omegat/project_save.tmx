@@ -1070,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T083106Z" creationid="studentka" creationdate="20210407T083106Z">
+        <seg>&amp;Validate tags when leaving a segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;View</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T181837Z" creationid="monika" creationdate="20210327T181837Z">
@@ -1764,6 +1772,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210331T124547Z" creationid="Kasia Mędrzycka" creationdate="20210331T124536Z">
         <seg>Wszystkie ustawienia zabezpieczone hasłem głównym zostaną zresetowane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allo&amp;w tag editing</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T083201Z" creationid="studentka" creationdate="20210407T083103Z">
+        <seg>Pozwó&amp;l na edycję tagów</seg>
       </tuv>
     </tu>
     <tu>
