@@ -9655,6 +9655,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Stemming, no tags and no numbers</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T093357Z" creationid="studentka" creationdate="20210407T092113Z">
+        <seg>Tematyzacja, brak znaczników i liczb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 1: Adjust alignment parameters</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174507Z" creationid="AgatoZiemniak" creationdate="20210322T174507Z">
