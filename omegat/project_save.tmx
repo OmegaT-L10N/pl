@@ -1072,8 +1072,8 @@
       <tuv lang="EN">
         <seg>&amp;Validate tags when leaving a segment</seg>
       </tuv>
-      <tuv lang="PL" changeid="studentka" changedate="20210407T083106Z" creationid="studentka" creationdate="20210407T083106Z">
-        <seg>&amp;Validate tags when leaving a segment</seg>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T083327Z" creationid="studentka" creationdate="20210407T083106Z">
+        <seg>&amp;Sprawdź znaczniki przy opuszczaniu segmentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1778,8 +1778,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
-      <tuv lang="PL" changeid="studentka" changedate="20210407T083201Z" creationid="studentka" creationdate="20210407T083103Z">
-        <seg>Pozwó&amp;l na edycję tagów</seg>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T083233Z" creationid="studentka" creationdate="20210407T083103Z">
+        <seg>Pozwó&amp;l na edycję znaczników</seg>
       </tuv>
     </tu>
     <tu>
@@ -8576,6 +8576,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172705Z" creationid="AgatoZiemniak" creationdate="20210322T172705Z">
         <seg>Zapisz TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save aut&amp;o-populated status</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T083905Z" creationid="studentka" creationdate="20210407T083905Z">
+        <seg>Zapisz stan wypełnienia automatycznego </seg>
       </tuv>
     </tu>
     <tu>
