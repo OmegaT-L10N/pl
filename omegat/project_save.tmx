@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Leave the segment empty</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T080757Z" creationid="studentka" creationdate="20210407T080757Z">
+        <seg>[coś w rodzaju]&amp;Zostaw segment pusty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;License</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145753Z" creationid="Aleksandra" creationdate="20210330T145753Z">
@@ -5383,8 +5391,8 @@ powrócą do wartości domyślnych.</seg>
       <tuv lang="EN">
         <seg>Insert the &amp;source text</seg>
       </tuv>
-      <tuv lang="PL" changeid="studentka" changedate="20210407T080607Z" creationid="studentka" creationdate="20210407T080607Z">
-        <seg>Insert the &amp;source text</seg>
+      <tuv lang="PL" changeid="studentka" changedate="20210407T080754Z" creationid="studentka" creationdate="20210407T080607Z">
+        <seg>Wprowadź &amp;tekst źródłowy</seg>
       </tuv>
     </tu>
     <tu>
