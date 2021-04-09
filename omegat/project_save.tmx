@@ -3860,6 +3860,14 @@ brak strony...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210409T110048Z" creationid="magda" creationdate="20210409T110048Z">
+        <seg>Szyfrowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>End Pinpoint Align</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174227Z" creationid="AgatoZiemniak" creationdate="20210322T173754Z">
@@ -9974,6 +9982,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T140302Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140302Z">
         <seg>Termin docelowy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210409T110043Z" creationid="magda" creationdate="20210409T110043Z">
+        <seg>Plik docelowy</seg>
       </tuv>
     </tu>
     <tu>
