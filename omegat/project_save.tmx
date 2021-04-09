@@ -2964,8 +2964,8 @@ opuść kolejkę...</seg>
       <tuv lang="en">
         <seg>Create Glossary Entry</seg>
       </tuv>
-      <tuv lang="pl" changeid="beataporodzynska" changedate="20210409T103343Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140208Z">
-        <seg>Utwórz wpis do glosariusza</seg>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210409T103418Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140208Z">
+        <seg>Wprowadź hasło do glosariusza</seg>
       </tuv>
     </tu>
     <tu>
@@ -4949,8 +4949,8 @@ przykro...</seg>
       <tuv lang="en">
         <seg>Glossary file: {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="Barnaba Nowakiewicz" changedate="20210402T140325Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140325Z">
-        <seg>Plik słownikowy: {0}</seg>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210409T103637Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140325Z">
+        <seg>Plik glosariusza:{0}</seg>
       </tuv>
     </tu>
     <tu>
