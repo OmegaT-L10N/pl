@@ -2916,8 +2916,8 @@ opuść kolejkę...</seg>
       <tuv lang="en">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
       </tuv>
-      <tuv lang="pl" changeid="Barnaba Nowakiewicz" changedate="20210402T141744Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T141744Z">
-        <seg>Policz &amp;zabezpieczony tekst i niestandardowe znaczniki w statystykach</seg>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210409T105331Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T141744Z">
+        <seg>Uwzględnij &amp;zabezpieczone teksty i niestandardowe znaczniki w statystykach</seg>
       </tuv>
     </tu>
     <tu>
