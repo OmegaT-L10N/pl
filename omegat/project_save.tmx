@@ -8776,8 +8776,8 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="EN">
         <seg>Script "{0}" unbound from slot #{1}.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003657Z" creationid="Agata Kaczmarska" creationdate="20210326T003657Z">
-        <seg>Skrypt "{0}" został odłączony od slotu #{1}.</seg>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210409T104834Z" creationid="Agata Kaczmarska" creationdate="20210326T003657Z">
+        <seg>Skrypt "{0}" powiązany ze slotem #{1}.</seg>
       </tuv>
     </tu>
     <tu>
