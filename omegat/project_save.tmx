@@ -7665,6 +7665,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please select a different folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20210412T074331Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210412T074331Z">
+        <seg>Please select a different folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
       </tuv>
       <tuv lang="PL" changeid="studentka" changedate="20210407T090805Z" creationid="studentka" creationdate="20210407T090442Z">
