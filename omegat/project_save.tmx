@@ -1842,8 +1842,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>An error occurred when saving the TMX.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174855Z" creationid="AgatoZiemniak" creationdate="20210322T174855Z">
-        <seg>Podczas zapisywania TMX wystąpił błąd.</seg>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210413T165532Z" creationid="AgatoZiemniak" creationdate="20210322T174855Z">
+        <seg>Podczas zapisywania pliku TMX wystąpił błąd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2845,8 +2845,8 @@ opuść kolejkę...</seg>
       <tuv lang="EN">
         <seg>Continue?</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174919Z" creationid="AgatoZiemniak" creationdate="20210322T174919Z">
-        <seg>Kontynować?</seg>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210413T165430Z" creationid="AgatoZiemniak" creationdate="20210322T174919Z">
+        <seg>Kontynuować?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4511,8 +4511,8 @@ przykro...</seg>
       <tuv lang="EN">
         <seg>Failed to fetch latest version info: {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210401T090959Z" creationid="AgatoZiemniak" creationdate="20210401T090959Z">
-        <seg>Nie udalo się pobrać informacji o najnowszej wersji: {0}</seg>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210413T165724Z" creationid="AgatoZiemniak" creationdate="20210401T090959Z">
+        <seg>Nie udało się pobrać informacji o najnowszej wersji: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11697,8 +11697,8 @@ Your page is not found</seg>
       <tuv lang="EN">
         <seg>You already have the latest version.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210401T090424Z" creationid="AgatoZiemniak" creationdate="20210401T090424Z">
-        <seg>Posiadasz najnnowszą wersję programu.</seg>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210413T165640Z" creationid="AgatoZiemniak" creationdate="20210401T090424Z">
+        <seg>Już posiadasz najnowszą wersję.</seg>
       </tuv>
     </tu>
     <tu>
