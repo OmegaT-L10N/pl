@@ -3689,6 +3689,14 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E&amp;xclusions...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210413T090821Z" creationid="Anasti-M" creationdate="20210413T090715Z">
+        <seg>&amp;Eksportuj...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E&amp;xport Selection</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T115439Z" creationid="annagorska" creationdate="20210331T115439Z">
