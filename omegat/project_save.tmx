@@ -1998,9 +1998,10 @@ The current setting is {0}MB;</seg>
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
       </tuv>
-      <tuv lang="pl" changeid="beataporodzynska" changedate="20210329T163907Z" creationid="beataporodzynska" creationdate="20210329T163907Z">
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210413T143343Z" creationid="beataporodzynska" creationdate="20210329T163907Z">
         <seg>Spowoduje to 
-przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować nieoczekiwanym, ale prawidłowym działaniem.</seg>
+przywrócenie wszystkich ustawień do ustawień domyślnych,
+co może skutkować nieoczekiwanym, ale prawidłowym działaniem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10259,9 +10260,9 @@ instead.</seg>
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20210326T111730Z" creationid="Kasia Mędrzycka" creationdate="20210326T100512Z">
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210413T143731Z" creationid="Kasia Mędrzycka" creationdate="20210326T100512Z">
         <seg>Zamiast tego zostanie użyty
-bieżący katalog.</seg>
+bieżący folder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11771,8 +11772,9 @@ Your page is not found</seg>
         <seg>Your operating system refused to let OmegaT
 create its configuration folder.</seg>
       </tuv>
-      <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T134722Z" creationid="beataporodzynska" creationdate="20210325T134722Z">
-        <seg>Twój system operacyjny nie pozwolił OmegaT na utworzenie folderu konfiguracyjnego.</seg>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210413T143439Z" creationid="beataporodzynska" creationdate="20210325T134722Z">
+        <seg>Twój system operacyjny nie pozwolił OmegaT
+na utworzenie folderu konfiguracyjnego.</seg>
       </tuv>
     </tu>
     <tu>
