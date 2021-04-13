@@ -144,8 +144,8 @@
       <tuv lang="EN">
         <seg>&amp;Browse</seg>
       </tuv>
-      <tuv lang="PL" changeid="Anasti-M" changedate="20210412T111917Z" creationid="Anasti-M" creationdate="20210412T111917Z">
-        <seg>&amp;Szukaj</seg>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210413T092545Z" creationid="Anasti-M" creationdate="20210412T111917Z">
+        <seg>&amp;Przeglądaj</seg>
       </tuv>
     </tu>
     <tu>
@@ -2121,6 +2121,14 @@ przywrócenie wszystkich ustawień do ustawień domyślnych, co może skutkować
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174317Z" creationid="AgatoZiemniak" creationdate="20210322T174317Z">
         <seg>Średni wynik: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>B&amp;rowse</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210413T092601Z" creationid="Anasti-M" creationdate="20210413T092601Z">
+        <seg>&amp;Przeglądaj</seg>
       </tuv>
     </tu>
     <tu>
@@ -10360,6 +10368,14 @@ ale są inne...</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T125348Z" creationid="magda" creationdate="20210325T125348Z">
         <seg>Ten konkretny projekt jest w dziełem zespołowym w stylu OmegaT 3.6. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translated file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210413T092406Z" creationid="Anasti-M" creationdate="20210413T092406Z">
+        <seg>Podany język tłumaczenia pliku jest nieprawidłowy!</seg>
       </tuv>
     </tu>
     <tu>
