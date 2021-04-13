@@ -3394,8 +3394,9 @@ opuść kolejkę...</seg>
       <tuv lang="en">
         <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
       </tuv>
-      <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T201242Z" creationid="beataporodzynska" creationdate="20210325T201242Z">
-        <seg>Komentarze do aktywnego segmentu są wyświetlane, jeżeli znajdują się w pliku źródłowym i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210413T140300Z" creationid="beataporodzynska" creationdate="20210325T201242Z">
+        <seg>Komentarze do aktywnego segmentu są wyświetlane, jeżeli znajdują się w pliku źródłowym
+i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
       </tuv>
     </tu>
     <tu>
