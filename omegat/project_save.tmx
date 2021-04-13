@@ -5178,8 +5178,8 @@ nie ma...</seg>
       <tuv lang="EN">
         <seg>Highlight Pattern...</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173907Z" creationid="AgatoZiemniak" creationdate="20210322T173907Z">
-        <seg>Wzór wyróznienia...</seg>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210413T165011Z" creationid="AgatoZiemniak" creationdate="20210322T173907Z">
+        <seg>Wzór wyróżnienia...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9016,6 +9016,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210413T165048Z" creationid="wciecierska" creationdate="20210413T165048Z">
+        <seg>Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment Properties</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210413T133252Z" creationid="AgatoZiemniak" creationdate="20210322T170300Z">
@@ -9758,8 +9766,8 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="EN">
         <seg>Start Pinpoint Align</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174217Z" creationid="AgatoZiemniak" creationdate="20210322T173742Z">
-        <seg>Rozpocznij dopasowanie punktowe</seg>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210413T165041Z" creationid="AgatoZiemniak" creationdate="20210322T173742Z">
+        <seg>Rozpocznij dopasowanie punktów</seg>
       </tuv>
     </tu>
     <tu>
@@ -10641,8 +10649,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Toggle Selected</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173614Z" creationid="AgatoZiemniak" creationdate="20210322T173614Z">
-        <seg>Wybrano przełącznik</seg>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210413T164933Z" creationid="AgatoZiemniak" creationdate="20210322T173614Z">
+        <seg>Przełącz wybrane</seg>
       </tuv>
     </tu>
     <tu>
@@ -12115,6 +12123,22 @@ na utworzenie folderu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211932Z" creationid="magdalenaklocek" creationdate="20210322T211932Z">
         <seg>← Wstecz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▲</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210413T165112Z" creationid="wciecierska" creationdate="20210413T165112Z">
+        <seg>▲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▼</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210413T165115Z" creationid="wciecierska" creationdate="20210413T165115Z">
+        <seg>▼</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
