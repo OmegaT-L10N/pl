@@ -7621,6 +7621,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pattern...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210413T165238Z" creationid="wciecierska" creationdate="20210413T165238Z">
+        <seg>Wzór...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Penalty for matches in other languages:</seg>
       </tuv>
       <tuv lang="PL" changeid="studentka" changedate="20210407T091612Z" creationid="studentka" creationdate="20210407T091612Z">
@@ -8736,8 +8744,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Save Alignment Results</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174754Z" creationid="AgatoZiemniak" creationdate="20210322T174754Z">
-        <seg>Zachowaj dopasowania</seg>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210413T165338Z" creationid="AgatoZiemniak" creationdate="20210322T174754Z">
+        <seg>Zapisz wyniki dopasowania</seg>
       </tuv>
     </tu>
     <tu>
