@@ -11573,6 +11573,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Writeable glossary file folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210413T092047Z" creationid="Anasti-M" creationdate="20210413T092047Z">
+        <seg>Podany folder zapisywanego glosariusza nie istnieje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Wrong response format from TaaS service</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211107Z" creationid="magdalenaklocek" creationdate="20210322T211107Z">
