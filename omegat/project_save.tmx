@@ -5641,8 +5641,8 @@ powrócą do wartości domyślnych.</seg>
       <tuv lang="EN">
         <seg>Is duplicate</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T171820Z" creationid="AgatoZiemniak" creationdate="20210322T171820Z">
-        <seg>Duplikat</seg>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210413T164623Z" creationid="AgatoZiemniak" creationdate="20210322T171820Z">
+        <seg>Jest duplikatem</seg>
       </tuv>
     </tu>
     <tu>
@@ -6267,8 +6267,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="EN">
         <seg>Mark Needs Review</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173205Z" creationid="AgatoZiemniak" creationdate="20210322T173205Z">
-        <seg>Zaznaczenie wymaga weryfikacji</seg>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210413T164838Z" creationid="AgatoZiemniak" creationdate="20210322T173205Z">
+        <seg>Zaznacz jako wymagające weryfikacji</seg>
       </tuv>
     </tu>
     <tu>
