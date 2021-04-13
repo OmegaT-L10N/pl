@@ -4995,6 +4995,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210413T092152Z" creationid="Anasti-M" creationdate="20210413T092152Z">
+        <seg>Podany folder z plikami glosariusza nie istnieje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary folder {0} does not exist.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004755Z" creationid="Agata Kaczmarska" creationdate="20210326T004755Z">
@@ -9578,6 +9586,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210413T092317Z" creationid="Anasti-M" creationdate="20210413T092317Z">
+        <seg>Podany folder plików źródłowych nie istnieje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source folder {0} does not exist.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004730Z" creationid="Agata Kaczmarska" creationdate="20210326T004704Z">
@@ -10715,6 +10731,14 @@ the server.</seg>
       <tuv lang="PL" changeid="jnnas10" changedate="20210406T144810Z" creationid="Komputer" creationdate="20210329T094800Z">
         <seg>Ścieżka tłumaczonego pliku nie może być taka sama jak ścieżka pliku źródłowego:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210413T092224Z" creationid="Anasti-M" creationdate="20210413T092224Z">
+        <seg>Podany folder plików tłumaczonych nie istnieje!</seg>
       </tuv>
     </tu>
     <tu>
