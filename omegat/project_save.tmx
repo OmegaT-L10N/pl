@@ -4691,6 +4691,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Folder already exists and is not empty.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210413T091047Z" creationid="Anasti-M" creationdate="20210413T091047Z">
+        <seg>Folder już istnieje i nie jest pusty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Folder does not exist</seg>
       </tuv>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210331T123815Z" creationid="Kasia Mędrzycka" creationdate="20210331T123605Z">
