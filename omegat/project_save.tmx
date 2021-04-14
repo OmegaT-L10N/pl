@@ -1062,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Undo Changes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T172048Z" creationid="Wojciech" creationdate="20210414T172048Z">
+        <seg>&amp;Cofnij zmiany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Undo Last Action</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T115156Z" creationid="annagorska" creationdate="20210331T115156Z">
@@ -5488,6 +5496,14 @@ nie ma...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I Understand; Do It Anyway</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T171950Z" creationid="Wojciech" creationdate="20210414T171950Z">
+        <seg>Rozumiem, mimo to zrób to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I&amp;nsert Source</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T115331Z" creationid="annagorska" creationdate="20210331T115331Z">
@@ -8235,6 +8251,22 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preferences</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T172003Z" creationid="Wojciech" creationdate="20210414T172003Z">
+        <seg>Ustawienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences - {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T172011Z" creationid="Wojciech" creationdate="20210414T172011Z">
+        <seg>Ustawienia - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T165657Z" creationid="magdaradka" creationdate="20210323T165657Z">
@@ -9336,6 +9368,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search ({0})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T172017Z" creationid="Wojciech" creationdate="20210414T172017Z">
+        <seg>Szukaj ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search Dictionaries</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T221757Z" creationid="Paula" creationdate="20210329T221757Z">
@@ -9672,6 +9712,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a Category</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T172034Z" creationid="Wojciech" creationdate="20210414T172034Z">
+        <seg>Wybierz kategorię</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a Script File</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003155Z" creationid="Agata Kaczmarska" creationdate="20210326T003155Z">
@@ -9758,6 +9806,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210331T124437Z" creationid="Kasia Mędrzycka" creationdate="20210331T124109Z">
         <seg>Ustalone i zapisane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set My Own Password</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T171931Z" creationid="Wojciech" creationdate="20210414T171931Z">
+        <seg>Ustaw moje własne hasło</seg>
       </tuv>
     </tu>
     <tu>
