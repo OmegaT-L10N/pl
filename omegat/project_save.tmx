@@ -8051,6 +8051,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please double-check.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T163501Z" creationid="Wojciech" creationdate="20210414T163501Z">
+        <seg>Prosze sprawdzić ponownie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please enter the name of this set:</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003946Z" creationid="Agata Kaczmarska" creationdate="20210326T003946Z">
@@ -10851,6 +10859,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="PL" changeid="Wojciech" changedate="20210414T163101Z" creationid="Wojciech" creationdate="20210414T163101Z">
         <seg>Podane hasło nie odpowiada..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The passwords don't match.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T163332Z" creationid="Wojciech" creationdate="20210414T163332Z">
+        <seg>Hasła nie zgadzają się.</seg>
       </tuv>
     </tu>
     <tu>
