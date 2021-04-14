@@ -2521,6 +2521,14 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose MED project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T120039Z" creationid="Anasti-M" creationdate="20210414T120039Z">
+        <seg>Wybierz projekt MED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose Source File</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172606Z" creationid="AgatoZiemniak" creationdate="20210322T172606Z">
@@ -3014,6 +3022,14 @@ opuść kolejkę...</seg>
         <seg>Create New Project</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T150329Z" creationid="Komputer" creationdate="20210331T150329Z">
+        <seg>Utwórz nowy projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a New Project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T115952Z" creationid="Anasti-M" creationdate="20210414T115952Z">
         <seg>Utwórz nowy projekt</seg>
       </tuv>
     </tu>
@@ -7247,6 +7263,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Project Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T120137Z" creationid="Anasti-M" creationdate="20210414T120137Z">
+        <seg>Pliki projektu OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Project Folder</seg>
       </tuv>
       <tuv lang="PL" changeid="Anasti-M" changedate="20210413T091357Z" creationid="Anasti-M" creationdate="20210413T091357Z">
@@ -11147,6 +11171,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to read project file!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T120218Z" creationid="Anasti-M" creationdate="20210414T120218Z">
+        <seg>Nie udało się odczytać pliku projektu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to save data.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210314Z" creationid="magdalenaklocek" creationdate="20210322T210314Z">
@@ -11927,6 +11959,14 @@ na utworzenie folderu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="PL" changeid="adurk" changedate="20210406T190442Z" creationid="adurk" creationdate="20210406T190442Z">
         <seg>Twój projekt nie zawiera żadnych plików w obsługiwanym formacie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ZIP files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T120119Z" creationid="Anasti-M" creationdate="20210414T120119Z">
+        <seg>Pliki ZIP</seg>
       </tuv>
     </tu>
     <tu>
