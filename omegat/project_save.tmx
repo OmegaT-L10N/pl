@@ -10270,8 +10270,8 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="EN">
         <seg>Target</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172358Z" creationid="AgatoZiemniak" creationdate="20210322T172331Z">
-        <seg>Plik docelowy</seg>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210326T115126Z" creationid="Wojciech" creationdate="20210326T115126Z">
+        <seg>Cel</seg>
       </tuv>
     </tu>
     <tu>
