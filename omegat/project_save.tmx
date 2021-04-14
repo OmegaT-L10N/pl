@@ -5200,6 +5200,14 @@ nie ma...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you may also specify custom location of project folders.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T115931Z" creationid="Anasti-M" creationdate="20210414T115931Z">
+        <seg>Możesz tu również określić własne rozmieszczenie folderów projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hide '{0}'</seg>
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T112428Z" creationid="Anna Zaręba" creationdate="20210331T112428Z">
@@ -11891,8 +11899,8 @@ Your page is not found</seg>
       <tuv lang="EN">
         <seg>You should specify their new location or recreate them.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T115446Z" creationid="Anasti-M" creationdate="20210414T115446Z">
-        <seg>Należy wskazać ich nową lokalizację lub odtworzyć je.</seg>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T115839Z" creationid="Anasti-M" creationdate="20210414T115446Z">
+        <seg>Należy wskazać ich nowe rozmieszczenie lub odtworzyć je.</seg>
       </tuv>
     </tu>
     <tu>
