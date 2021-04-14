@@ -1792,6 +1792,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T160158Z" creationid="Wojciech" creationdate="20210414T160158Z">
+        <seg>Wszystko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All domains</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211535Z" creationid="magdalenaklocek" creationdate="20210322T211535Z">
@@ -2549,6 +2557,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T181224Z" creationid="Paula" creationdate="20210329T181224Z">
         <seg>Sprawdź czy pliki słownikowe znajdują sie we właściwym folderze (lub wewnątrz tego folderu w podfolderze).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T160225Z" creationid="Wojciech" creationdate="20210414T160225Z">
+        <seg>Sprawdzanie {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3655,6 +3671,14 @@ i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211603Z" creationid="magdalenaklocek" creationdate="20210322T211603Z">
         <seg>Domeny </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't Ask What to Check First</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T160305Z" creationid="Wojciech" creationdate="20210414T160305Z">
+        <seg>Nie pytaj wcześniej co sprawdzić</seg>
       </tuv>
     </tu>
     <tu>
@@ -10076,6 +10100,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spelling Issues</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T160359Z" creationid="Wojciech" creationdate="20210414T160359Z">
+        <seg>Problemy z poprawną pisownią</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Split</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173008Z" creationid="AgatoZiemniak" creationdate="20210322T173008Z">
@@ -10320,6 +10352,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210414T091345Z" creationid="paulina" creationdate="20210320T133354Z">
         <seg>Tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Issues</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T160431Z" creationid="Wojciech" creationdate="20210414T160431Z">
+        <seg>Problemy z tagowaniem</seg>
       </tuv>
     </tu>
     <tu>
