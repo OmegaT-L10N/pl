@@ -4453,6 +4453,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Search...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T114752Z" creationid="Anasti-M" creationdate="20210414T114752Z">
+        <seg>Wyszukiwanie zewnętrzne...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External TMX Options</seg>
       </tuv>
       <tuv lang="PL" changeid="studentka" changedate="20210407T090437Z" creationid="studentka" creationdate="20210407T090437Z">
@@ -9552,6 +9560,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T180817Z" creationid="Paula" creationdate="20210329T180817Z">
         <seg>Niektóre słowniki są dostępne bez jakichkolwiek warunków (lub są tzw. "swobodnego użytku") jednak inne (jak te z powyższej listy) podlegają licencji GMU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some project folders seem to have been moved.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T115211Z" creationid="Anasti-M" creationdate="20210414T115211Z">
+        <seg>Niektóre foldery projektu zostali przeniesieni.</seg>
       </tuv>
     </tu>
     <tu>
