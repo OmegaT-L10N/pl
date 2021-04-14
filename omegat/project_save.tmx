@@ -4380,6 +4380,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclude Pattern</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T121401Z" creationid="Anasti-M" creationdate="20210414T121312Z">
+        <seg>Pomiń wzorzec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exclude orphan segments</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163133Z" creationid="magdaradka" creationdate="20210317T171117Z">
@@ -5511,6 +5519,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include Pattern</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T121355Z" creationid="Anasti-M" creationdate="20210414T121355Z">
+        <seg>Dołącz wzorzec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Include matches from &amp;other languages</seg>
       </tuv>
       <tuv lang="PL" changeid="studentka" changedate="20210407T091045Z" creationid="studentka" creationdate="20210407T091045Z">
@@ -6193,6 +6209,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local File/Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T121020Z" creationid="Anasti-M" creationdate="20210414T120947Z">
+        <seg>Lokalny plik/folder </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Local installation path:</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T123639Z" creationid="monika" creationdate="20210325T123639Z">
@@ -6269,6 +6293,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T123051Z" creationid="monika" creationdate="20210325T123051Z">
         <seg>Reguły ustalone manualnie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T120903Z" creationid="Anasti-M" creationdate="20210414T120903Z">
+        <seg>Mapowanie folderów lokalnych do folderów zdalnych w Repozytoriach</seg>
       </tuv>
     </tu>
     <tu>
@@ -8446,6 +8478,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote File/Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T121005Z" creationid="Anasti-M" creationdate="20210414T121005Z">
+        <seg>Zdalny plik/folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote Repositories</seg>
       </tuv>
       <tuv lang="PL" changeid="Anasti-M" changedate="20210414T120659Z" creationid="Anasti-M" creationdate="20210414T120659Z">
@@ -8602,6 +8642,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T120149Z" creationid="annap" creationdate="20210331T120139Z">
         <seg>Zamień na:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T120817Z" creationid="Anasti-M" creationdate="20210414T120817Z">
+        <seg>Repozytorium</seg>
       </tuv>
     </tu>
     <tu>
