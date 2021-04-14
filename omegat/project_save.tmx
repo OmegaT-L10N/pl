@@ -5951,6 +5951,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Issues for {0} ({1} of {2})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T172523Z" creationid="Wojciech" creationdate="20210414T172523Z">
+        <seg>Problemy w  {0} ({1} of {2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Issues for {0} ({1})</seg>
       </tuv>
       <tuv lang="PL" changeid="Wojciech" changedate="20210414T142928Z" creationid="Wojciech" creationdate="20210414T142928Z">
