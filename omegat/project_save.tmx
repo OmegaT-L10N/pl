@@ -3902,6 +3902,14 @@ brak strony...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Empty repository URL in the mapping</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T121648Z" creationid="Anasti-M" creationdate="20210414T121648Z">
+        <seg>Pusty adres URL repozytorium w mapowaniu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable history &amp;prediction</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T222908Z" creationid="Paula" creationdate="20210329T222908Z">
@@ -5699,6 +5707,14 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210406T134037Z" creationid="jnnas10" creationdate="20210406T134037Z">
         <seg>Niepoprawny format pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid repository type: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T121442Z" creationid="Anasti-M" creationdate="20210414T121442Z">
+        <seg>Nieprawidłowy rodzaj repozytorium: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8666,6 +8682,22 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="Anasti-M" changedate="20210414T114732Z" creationid="Anasti-M" creationdate="20210414T114732Z">
         <seg>Mapowanie repozytoriów...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository {0} is already present</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T121556Z" creationid="Anasti-M" creationdate="20210414T121556Z">
+        <seg>Repozytorium {0}już istnieje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository {0} unknown</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T121617Z" creationid="Anasti-M" creationdate="20210414T121617Z">
+        <seg>Repozytorium {0} nieznany</seg>
       </tuv>
     </tu>
     <tu>
