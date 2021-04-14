@@ -12348,6 +12348,14 @@ na utworzenie folderu konfiguracyjnego.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T161655Z" creationid="Wojciech" creationdate="20210414T161655Z">
+        <seg>[{0}] “{1}” w źródle; oczekiwane “{2}” na celu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>all matching segments</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T121517Z" creationid="annap" creationdate="20210331T121517Z">
