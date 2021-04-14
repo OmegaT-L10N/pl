@@ -2855,6 +2855,14 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Confirm:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T163116Z" creationid="Wojciech" creationdate="20210414T163116Z">
+        <seg>Potwierdź:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conflict resolution</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T145242Z" creationid="magdalenaklocek" creationdate="20210323T145242Z">
@@ -4130,6 +4138,14 @@ brak strony...</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T225338Z" creationid="Paula" creationdate="20210329T225338Z">
         <seg>Wpisz numer segmentu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter your master password.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T163031Z" creationid="Wojciech" creationdate="20210414T163031Z">
+        <seg>Podaj swoje hasło nadrzędne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10811,6 +10827,22 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="PL" changeid="Anasti-M" changedate="20210414T121853Z" creationid="Anasti-M" creationdate="20210414T121853Z">
         <seg>Kod języka powinien mieć postać xx-YY, xxx-YY, xx_YY lub xxx_YY, gdzie xx lub xxx jest kodem języka, a YY jest kodem regionu lub kraju (opcjonalnie)..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password cannot be empty.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T163233Z" creationid="Wojciech" creationdate="20210414T163233Z">
+        <seg>Hasło nie może być puste. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password you entered did not match.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T163101Z" creationid="Wojciech" creationdate="20210414T163101Z">
+        <seg>Podane hasło nie odpowiada..</seg>
       </tuv>
     </tu>
     <tu>
