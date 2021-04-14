@@ -6601,6 +6601,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Master Password</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T162336Z" creationid="Wojciech" creationdate="20210414T162336Z">
+        <seg>Hasło nadrzędne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T145332Z" creationid="Komputer" creationdate="20210331T145332Z">
@@ -9722,6 +9730,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set a master password to protect your private data.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T162356Z" creationid="Wojciech" creationdate="20210414T162356Z">
+        <seg>Ustaw hasło nadrzędne, aby chronić dane osobowe..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set empty translation</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002422Z" creationid="Agata Kaczmarska" creationdate="20210326T002422Z">
@@ -12334,6 +12350,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="Anasti-M" changedate="20210414T115839Z" creationid="Anasti-M" creationdate="20210414T115446Z">
         <seg>Należy wskazać ich nowe rozmieszczenie lub odtworzyć je.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T162849Z" creationid="Wojciech" creationdate="20210414T162849Z">
+        <seg>Za każdym razem, gdy będziesz otwierać OmegaT, będziesz musiał podać to hasło.</seg>
       </tuv>
     </tu>
     <tu>
