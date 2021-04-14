@@ -7559,6 +7559,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T171909Z" creationid="Wojciech" creationdate="20210414T171909Z">
+        <seg>OmegaT może generować i przechowywać hasło nadrzędne, więc nie musisz go za każdym razem podawać, jednak jest to mniej bezpieczne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT does not have read and write permissions to this folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T120119Z" creationid="Aleksandra" creationdate="20210330T152002Z">
