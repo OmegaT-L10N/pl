@@ -1527,6 +1527,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A restart is required in order to apply these changes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T172458Z" creationid="Wojciech" creationdate="20210414T172458Z">
+        <seg>Wymagany jest ponowny start, w ten sposób zastosujesz zmiany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="PL" changeid="Werciks" changedate="20210406T191714Z" creationid="Werciks" creationdate="20210406T191714Z">
@@ -9026,6 +9034,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T202218Z" creationid="beataporodzynska" creationdate="20210325T202218Z">
         <seg>Przywróć</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore &amp;Defaults</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T172311Z" creationid="Wojciech" creationdate="20210414T172311Z">
+        <seg>Przywróć stan&amp;dard</seg>
       </tuv>
     </tu>
     <tu>
