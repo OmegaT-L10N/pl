@@ -1439,6 +1439,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T160113Z" creationid="Wojciech" creationdate="20210414T160113Z">
+        <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Wskazówka: Zezwól/blokuj kontrolę przez "opcje"w menu w każdym momencie &lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T164553Z" creationid="AgatoZiemniak" creationdate="20210322T164553Z">
