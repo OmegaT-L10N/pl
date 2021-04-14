@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Jump To Segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T142823Z" creationid="Wojciech" creationdate="20210414T142823Z">
+        <seg>&amp;Przejdź do segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Keyword search</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T120332Z" creationid="annap" creationdate="20210331T120247Z">
@@ -694,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Refresh</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T142849Z" creationid="Wojciech" creationdate="20210414T142849Z">
+        <seg>&amp;Aktualizuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Regular expressions</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T120422Z" creationid="annap" creationdate="20210331T120422Z">
@@ -890,6 +906,14 @@
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144622Z" creationid="Aleksandra" creationdate="20210330T144320Z">
         <seg>&amp;Nazwy arkuszy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show All</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T142837Z" creationid="Wojciech" creationdate="20210414T142837Z">
+        <seg>&amp;Pokaż wszystko</seg>
       </tuv>
     </tu>
     <tu>
@@ -5791,10 +5815,34 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Issues</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T142857Z" creationid="Wojciech" creationdate="20210414T142857Z">
+        <seg>Problemy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Issues ({0} of {1})</seg>
       </tuv>
-      <tuv lang="PL" changeid="jnnas10" changedate="20210407T172002Z" creationid="jnnas10" creationdate="20210407T172002Z">
-        <seg>Issues ({0} of {1})</seg>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T142940Z" creationid="jnnas10" creationdate="20210407T172002Z">
+        <seg>Problemy ({0} of {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T142909Z" creationid="Wojciech" creationdate="20210414T142909Z">
+        <seg>Problemy  ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T142928Z" creationid="Wojciech" creationdate="20210414T142928Z">
+        <seg>Problemy w  {0} ({1})</seg>
       </tuv>
     </tu>
     <tu>
