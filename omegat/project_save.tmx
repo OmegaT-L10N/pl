@@ -9708,6 +9708,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some alignments still need review.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T141217Z" creationid="Wojciech" creationdate="20210414T141217Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T180817Z" creationid="Paula" creationdate="20210329T180817Z">
