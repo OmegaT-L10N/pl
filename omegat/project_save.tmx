@@ -3289,6 +3289,14 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionary Files Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T114340Z" creationid="Anasti-M" creationdate="20210414T114340Z">
+        <seg>Folder z plikami słowników</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionary Folder:</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T150821Z" creationid="Komputer" creationdate="20210331T150821Z">
@@ -4991,8 +4999,8 @@ przykro...</seg>
       <tuv lang="EN">
         <seg>Glossary Files Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="Anasti-M" changedate="20210413T092851Z" creationid="Anasti-M" creationdate="20210413T092851Z">
-        <seg>Folder plików glosariusza</seg>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T114233Z" creationid="Anasti-M" creationdate="20210413T092851Z">
+        <seg>Folder z plikami glosariusza</seg>
       </tuv>
     </tu>
     <tu>
@@ -9622,8 +9630,8 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="EN">
         <seg>Source Files Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="Anasti-M" changedate="20210413T092710Z" creationid="Anasti-M" creationdate="20210413T092710Z">
-        <seg>Folder plików źródłowych</seg>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T114314Z" creationid="Anasti-M" creationdate="20210413T092710Z">
+        <seg>Folder z plikami źródłowymi</seg>
       </tuv>
     </tu>
     <tu>
@@ -10785,8 +10793,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Translated Files Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="Anasti-M" changedate="20210413T092801Z" creationid="Anasti-M" creationdate="20210413T092801Z">
-        <seg>Folder plików tłumaczeń</seg>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T114248Z" creationid="Anasti-M" creationdate="20210413T092801Z">
+        <seg>Folder z plikami tłumaczeń</seg>
       </tuv>
     </tu>
     <tu>
@@ -10877,6 +10885,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211745Z" creationid="magdalenaklocek" creationdate="20210322T211745Z">
         <seg>Tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T114142Z" creationid="Anasti-M" creationdate="20210414T114142Z">
+        <seg>Folder z plikami pamięci tłumaczeniowej</seg>
       </tuv>
     </tu>
     <tu>
