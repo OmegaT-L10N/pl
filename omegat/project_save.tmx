@@ -3669,8 +3669,8 @@ i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
       <tuv lang="EN">
         <seg>Duplicate</seg>
       </tuv>
-      <tuv lang="PL" changeid="paulina" changedate="20210320T133455Z" creationid="paulina" creationdate="20210320T133418Z">
-        <seg>Duplikacjaj</seg>
+      <tuv lang="PL" changeid="magda" changedate="20210414T090829Z" creationid="paulina" creationdate="20210320T133418Z">
+        <seg>Duplikacja</seg>
       </tuv>
     </tu>
     <tu>
@@ -11549,8 +11549,8 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       <tuv lang="EN">
         <seg>Whitespace</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T191135Z" creationid="Aleksandra" creationdate="20210327T191135Z">
-        <seg>Whitespace</seg>
+      <tuv lang="PL" changeid="magda" changedate="20210414T091052Z" creationid="Aleksandra" creationdate="20210327T191135Z">
+        <seg>Białe znaki</seg>
       </tuv>
     </tu>
     <tu>
