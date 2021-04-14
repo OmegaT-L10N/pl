@@ -72,8 +72,8 @@
       <tuv lang="EN">
         <seg>&amp;Also allow per-project external commands</seg>
       </tuv>
-      <tuv lang="PL" changeid="paulina" changedate="20210320T133208Z" creationid="paulina" creationdate="20210320T133208Z">
-        <seg>&amp;Zezwalaj także na zewnętrzne polecenia  przedprojektowe</seg>
+      <tuv lang="PL" changeid="magda" changedate="20210414T090613Z" creationid="paulina" creationdate="20210320T133208Z">
+        <seg>&amp;Zezwalaj także na zewnętrzne polecenia przedprojektowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -6961,8 +6961,8 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>Non-breakable space</seg>
       </tuv>
-      <tuv lang="PL" changeid="paulina" changedate="20210320T133259Z" creationid="paulina" creationdate="20210320T133259Z">
-        <seg>Spacja niełamiąca</seg>
+      <tuv lang="PL" changeid="magda" changedate="20210414T090740Z" creationid="paulina" creationdate="20210320T133259Z">
+        <seg>Twarda spacja</seg>
       </tuv>
     </tu>
     <tu>
