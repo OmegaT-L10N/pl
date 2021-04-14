@@ -2425,6 +2425,14 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Character</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T142734Z" creationid="Wojciech" creationdate="20210414T142734Z">
+        <seg>Znak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Character Table</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T143933Z" creationid="magdalenaklocek" creationdate="20210323T143933Z">
