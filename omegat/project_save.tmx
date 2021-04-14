@@ -8446,10 +8446,26 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote Repositories</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T120659Z" creationid="Anasti-M" creationdate="20210414T120659Z">
+        <seg>Repozytoria zdalne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210414T090250Z" creationid="paulina" creationdate="20210320T132608Z">
         <seg>Błąd połączenia sieciowego zdalnego repozytorium: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T120551Z" creationid="Anasti-M" creationdate="20210414T120551Z">
+        <seg>Usuń</seg>
       </tuv>
     </tu>
     <tu>
@@ -10204,6 +10220,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Team Mode Repository Mapping</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T120537Z" creationid="Anasti-M" creationdate="20210414T120537Z">
+        <seg>Mapowanie repozytoriów w trybie zespołowym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Team synchronization...</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T131147Z" creationid="magda" creationdate="20210325T131147Z">
@@ -11029,6 +11053,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210329T170552Z" creationid="Aleksandra" creationdate="20210329T170552Z">
         <seg>Troubleshooting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T120801Z" creationid="Anasti-M" creationdate="20210414T120801Z">
+        <seg>Rodzaj</seg>
       </tuv>
     </tu>
     <tu>
