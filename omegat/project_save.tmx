@@ -11755,8 +11755,8 @@ Your page is not found</seg>
       <tuv lang="EN">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
-      <tuv lang="PL" changeid="adurk" changedate="20210406T191817Z" creationid="adurk" creationdate="20210406T191742Z">
-        <seg>Możesz także skopiować pliki do foldera źródłowego twojego projektu, używając swojego ulubionego menedżera plików i załaduj ponownie projekt używając opcji Załaduj ponownie w menu Projektu.</seg>
+      <tuv lang="PL" changeid="AgataWojtera" changedate="20210414T083305Z" creationid="adurk" creationdate="20210406T191742Z">
+        <seg>Możesz także skopiować pliki do foldera źródłowego twojego projektu, używając swojego ulubionego menedżera plików i załaduj ponownie projekt, używając opcji Załaduj ponownie w menu Projektu.</seg>
       </tuv>
     </tu>
     <tu>
