@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1858,8 +1858,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>An error occurred while downloading the dictionary.</seg>
       </tuv>
-      <tuv lang="PL" changeid="monika" changedate="20210325T120945Z" creationid="monika" creationdate="20210325T120945Z">
-        <seg>Podczas pobierania słownika wystąpił błąd.</seg>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210414T110401Z" creationid="monika" creationdate="20210325T120945Z">
+        <seg>cPodczas pobierania słownika wystąpił błąd.</seg>
       </tuv>
     </tu>
     <tu>
