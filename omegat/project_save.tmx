@@ -8550,6 +8550,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repository Mapping...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T114732Z" creationid="Anasti-M" creationdate="20210414T114732Z">
+        <seg>Mapowanie repozytoriów...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Request error: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211357Z" creationid="magdalenaklocek" creationdate="20210322T211357Z">
@@ -11691,6 +11699,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T141817Z" creationid="Komputer" creationdate="20210331T141817Z">
         <seg>Wyrazy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writeable Glossary File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T114637Z" creationid="Anasti-M" creationdate="20210414T114637Z">
+        <seg>Zapisywany plik glosariusza</seg>
       </tuv>
     </tu>
     <tu>
