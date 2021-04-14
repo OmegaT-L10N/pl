@@ -7827,6 +7827,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T115541Z" creationid="Anasti-M" creationdate="20210414T115541Z">
+        <seg>Proszę wybrać język plików źródłowych i język docelowy, na który ma zostać wykonane tłumaczenie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
       </tuv>
       <tuv lang="PL" changeid="studentka" changedate="20210407T080703Z" creationid="studentka" creationdate="20210407T080601Z">
