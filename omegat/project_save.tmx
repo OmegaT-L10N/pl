@@ -10542,6 +10542,15 @@ ale są inne...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
+xx or xxx is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T121853Z" creationid="Anasti-M" creationdate="20210414T121853Z">
+        <seg>Kod języka powinien mieć postać xx-YY, xxx-YY, xx_YY lub xxx_YY, gdzie xx lub xxx jest kodem języka, a YY jest kodem regionu lub kraju (opcjonalnie)..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project cannot be verified</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004546Z" creationid="Agata Kaczmarska" creationdate="20210326T004546Z">
@@ -10578,6 +10587,14 @@ ale są inne...</seg>
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T120723Z" creationid="Anna Zaręba" creationdate="20210331T120723Z">
         <seg>Serwer nie jest prawidłowym serwerem Apertium.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The source file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T121758Z" creationid="Anasti-M" creationdate="20210414T121758Z">
+        <seg>Wprowadzony język pliku źródłowego jest nieprawidłowy!</seg>
       </tuv>
     </tu>
     <tu>
