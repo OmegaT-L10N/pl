@@ -9908,6 +9908,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skip</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T171545Z" creationid="Wojciech" creationdate="20210414T171545Z">
+        <seg>Przejdź</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210407T155106Z" creationid="jnnas10" creationdate="20210406T123734Z">
