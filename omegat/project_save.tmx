@@ -4861,6 +4861,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Forward-Backward</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T142540Z" creationid="Wojciech" creationdate="20210414T142540Z">
+        <seg>Przód-Tyłd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Found in:</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T183000Z" creationid="monika" creationdate="20210327T183000Z">
@@ -7147,6 +7155,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210330T204056Z" creationid="monika" creationdate="20210330T204056Z">
         <seg>Brak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T142549Z" creationid="Wojciech" creationdate="20210414T142549Z">
+        <seg>Normalny</seg>
       </tuv>
     </tu>
     <tu>
@@ -11784,6 +11800,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173813Z" creationid="AgatoZiemniak" creationdate="20210322T173813Z">
         <seg>Widok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Viterbi</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T142511Z" creationid="Wojciech" creationdate="20210414T142511Z">
+        <seg>Viterbii</seg>
       </tuv>
     </tu>
     <tu>
