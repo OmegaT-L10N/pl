@@ -3707,6 +3707,14 @@ i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Don't ask before checking issues</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T162300Z" creationid="Wojciech" creationdate="20210414T162300Z">
+        <seg>Nie pytaj przed sprawdzeniem problemów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Done</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210323T142807Z" creationid="magdalenaklocek" creationdate="20210323T142807Z">
@@ -5526,6 +5534,14 @@ nie ma...</seg>
       <tuv lang="PL" changeid="Werciks" changedate="20210406T191253Z" creationid="Werciks" creationdate="20210406T191253Z">
         <seg>Jeśli polecenie zostanie uruchomione w git lub kopii roboczej svn, wyniki
 		zostaną zawieszone/ dodane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T162222Z" creationid="Wojciech" creationdate="20210414T162222Z">
+        <seg>Jeśli sprawdzanie problemów jest powolne, spróbuj zdezaktywować wybrane sprawdzanie .</seg>
       </tuv>
     </tu>
     <tu>
