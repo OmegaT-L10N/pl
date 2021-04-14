@@ -12318,10 +12318,34 @@ na utworzenie folderu konfiguracyjnego.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210414T115829Z" creationid="studentka" creationdate="20210414T115829Z">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0}-{1}_{2}_{3}</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210317T171202Z" creationid="jnnas10" creationdate="20210317T171202Z">
         <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}_{1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210414T115753Z" creationid="studentka" creationdate="20210414T115753Z">
+        <seg>{0}_{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}_{1}_{2}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentka" changedate="20210414T115647Z" creationid="studentka" creationdate="20210414T115647Z">
+        <seg>{0}_{1}_{2}</seg>
       </tuv>
     </tu>
     <tu>
