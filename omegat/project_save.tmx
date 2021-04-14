@@ -7773,8 +7773,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please select the interval at which the project should be saved automatically, in minutes and seconds.</seg>
       </tuv>
-      <tuv lang="PL" changeid="paulina" changedate="20210320T132828Z" creationid="paulina" creationdate="20210320T132828Z">
-        <seg>Proszę wybrać interwał, w którym projekt powinien być zapisywany automatycznie, w minutach i sekundach.</seg>
+      <tuv lang="PL" changeid="magda" changedate="20210414T090426Z" creationid="paulina" creationdate="20210320T132828Z">
+        <seg>Proszę wybrać interwał, w którym projekt powinien być zapisywany automatycznie w minutach i sekundach.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8800,8 +8800,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Saving and Output</seg>
       </tuv>
-      <tuv lang="PL" changeid="paulina" changedate="20210320T132750Z" creationid="paulina" creationdate="20210320T132750Z">
-        <seg>Zapisywanie i wyjściet</seg>
+      <tuv lang="PL" changeid="magda" changedate="20210414T090355Z" creationid="paulina" creationdate="20210320T132750Z">
+        <seg>Zapisywanie i wyjście</seg>
       </tuv>
     </tu>
     <tu>
