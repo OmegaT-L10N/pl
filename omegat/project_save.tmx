@@ -8075,6 +8075,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please enter your password again for confirmation.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T163310Z" creationid="Wojciech" creationdate="20210414T163310Z">
+        <seg>Proszę podaj ponownie hasło, aby zatwierdzić. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please redo tag validation.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T133857Z" creationid="paulina" creationdate="20210320T133857Z">
