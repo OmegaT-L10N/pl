@@ -7059,6 +7059,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No Issues Found</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T160139Z" creationid="Wojciech" creationdate="20210414T160139Z">
+        <seg>Nie znaleziono problemu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No OAuth token specified</seg>
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T121706Z" creationid="Anna Zaręba" creationdate="20210331T121706Z">
