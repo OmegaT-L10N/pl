@@ -2010,6 +2010,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apply &amp;Fix</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T160508Z" creationid="Wojciech" creationdate="20210414T160508Z">
+        <seg>Stosowanie &amp; Korekta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
       <tuv lang="PL" changeid="studentka" changedate="20210407T075030Z" creationid="studentka" creationdate="20210407T074954Z">
@@ -3413,6 +3421,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150816Z" creationid="Aleksandra" creationdate="20210330T150816Z">
         <seg>Diff (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Disable rule “{0}”</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T160703Z" creationid="Wojciech" creationdate="20210414T160703Z">
+        <seg>Blokuj regułę “{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -6145,6 +6161,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T160605Z" creationid="Wojciech" creationdate="20210414T160605Z">
+        <seg>Narzędzie Języka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool (LGPL License and others)</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150903Z" creationid="Aleksandra" creationdate="20210330T150903Z">
@@ -6157,6 +6181,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T121329Z" creationid="monika" creationdate="20210325T121329Z">
         <seg>Niezgodność wersji API LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool Issues</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T160550Z" creationid="Wojciech" creationdate="20210414T160550Z">
+        <seg>Problemy z narzędziem języka</seg>
       </tuv>
     </tu>
     <tu>
@@ -10496,6 +10528,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210330T165205Z" creationid="wciecierska" creationdate="20210330T165205Z">
         <seg>Terminologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terminology Issues</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T160718Z" creationid="Wojciech" creationdate="20210414T160718Z">
+        <seg>Problemy z terminologią </seg>
       </tuv>
     </tu>
     <tu>
