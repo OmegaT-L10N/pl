@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2221,6 +2221,30 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141757Z" creationid="AgataWojtera" creationdate="20210323T141553Z">
         <seg>Segmentacja/Błąd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bro&amp;wse</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210413T092625Z" creationid="Anasti-M" creationdate="20210413T092625Z">
+        <seg>&amp;Przeglądaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Brows&amp;e</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210413T092645Z" creationid="Anasti-M" creationdate="20210413T092645Z">
+        <seg>Przeglądaj&amp;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210413T092632Z" creationid="Anasti-M" creationdate="20210413T092632Z">
+        <seg>Przeglądaj</seg>
       </tuv>
     </tu>
     <tu>
@@ -4961,6 +4985,14 @@ przykro...</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163723Z" creationid="magdaradka" creationdate="20210323T163723Z">
         <seg>Glosariusz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary Files Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210413T092851Z" creationid="Anasti-M" creationdate="20210413T092851Z">
+        <seg>Folder plików glosariusza</seg>
       </tuv>
     </tu>
     <tu>
@@ -9588,6 +9620,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source Files Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210413T092710Z" creationid="Anasti-M" creationdate="20210413T092710Z">
+        <seg>Folder plików źródłowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source Files Folder:</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T150404Z" creationid="Komputer" creationdate="20210331T150339Z">
@@ -10739,6 +10779,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210406T145432Z" creationid="jnnas10" creationdate="20210406T120721Z">
         <seg>Wzór nazwy pliku docelowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated Files Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210413T092801Z" creationid="Anasti-M" creationdate="20210413T092801Z">
+        <seg>Folder plików tłumaczeń</seg>
       </tuv>
     </tu>
     <tu>
