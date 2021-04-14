@@ -11881,6 +11881,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You should specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T115446Z" creationid="Anasti-M" creationdate="20210414T115446Z">
+        <seg>Należy wskazać ich nową lokalizację lub odtworzyć je.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210407T155605Z" creationid="jnnas10" creationdate="20210406T112129Z">
