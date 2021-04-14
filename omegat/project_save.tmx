@@ -11123,6 +11123,22 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to convert project!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T120407Z" creationid="Anasti-M" creationdate="20210414T120407Z">
+        <seg>Nie udało się konwertować projekt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to download team project!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anasti-M" changedate="20210414T120507Z" creationid="Anasti-M" creationdate="20210414T120507Z">
+        <seg>Nie udało się pobrać projektu zespołowego!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T164124Z" creationid="magdaradka" creationdate="20210323T164124Z">
