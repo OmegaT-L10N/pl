@@ -4981,6 +4981,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Git</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210414T125805Z" creationid="annap" creationdate="20210414T125805Z">
+        <seg>Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Git '{0}' did nothing because there were no changes</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210413T093902Z" creationid="magda" creationdate="20210325T125013Z">
@@ -5201,6 +5209,14 @@ przykro...</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150615Z" creationid="Aleksandra" creationdate="20210330T150615Z">
         <seg>HTMLParser 1.6 autorstwa Somika Raha, Derricka Oswalda i innych (LGPL License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTTP(S)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210414T125807Z" creationid="annap" creationdate="20210414T125807Z">
+        <seg>HTTP(S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10048,6 +10064,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T121234Z" creationid="Anna Zaręba" creationdate="20210331T121234Z">
         <seg>Klucz subskrypcji:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subversion</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annap" changedate="20210414T125803Z" creationid="annap" creationdate="20210414T125803Z">
+        <seg>Subversion</seg>
       </tuv>
     </tu>
     <tu>
