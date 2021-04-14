@@ -2875,6 +2875,14 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continue anyway?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210414T141242Z" creationid="Wojciech" creationdate="20210414T141242Z">
+        <seg>Kontynuować mimo to?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Continue?</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210413T165430Z" creationid="AgatoZiemniak" creationdate="20210322T174919Z">
