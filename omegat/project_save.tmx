@@ -4043,8 +4043,8 @@ nikt nie słyszy twojego płaczu...</seg>
       <tuv lang="EN">
         <seg>Error fixing tags</seg>
       </tuv>
-      <tuv lang="PL" changeid="paulina" changedate="20210326T113031Z" creationid="paulina" creationdate="20210320T133815Z">
-        <seg>Błędy w umieszczonych znacznikach</seg>
+      <tuv lang="PL" changeid="magda" changedate="20210414T091138Z" creationid="paulina" creationdate="20210320T133815Z">
+        <seg>Błędy w umieszczonych tagach</seg>
       </tuv>
     </tu>
     <tu>
@@ -9982,8 +9982,8 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="EN">
         <seg>Tag</seg>
       </tuv>
-      <tuv lang="PL" changeid="paulina" changedate="20210320T133354Z" creationid="paulina" creationdate="20210320T133354Z">
-        <seg>Znacznik</seg>
+      <tuv lang="PL" changeid="magda" changedate="20210414T091345Z" creationid="paulina" creationdate="20210320T133354Z">
+        <seg>Tag</seg>
       </tuv>
     </tu>
     <tu>
