@@ -5623,6 +5623,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If several translation engines are selected, then &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; is also used to switch between them and insert the last one selected.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210415T094900Z" creationid="Wojciech" creationdate="20210415T094900Z">
+        <seg>Jeśli jest wybranych kilka usług tłumaczeniowych, możesz użyć &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; aby przełączać się między nimi i wstawiać ostatnio wybrane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the source file is modified after you have begun translating, &lt;a1&gt;OmegaT&lt;/a1&gt; may be unable to find a segment that you have already translated.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T190241Z" creationid="Aleksandra" creationdate="20210327T190241Z">
