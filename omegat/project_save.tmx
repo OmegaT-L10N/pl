@@ -2611,8 +2611,8 @@ opuść kolejkę...</seg>
       <tuv lang="EN">
         <seg>Check the &lt;g0&gt;Use Fuzzy Matching for Dictionary Entries&lt;/g0&gt; option if you want dictionaries to display words that have the same root.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Wojciech" changedate="20210415T095948Z" creationid="Wojciech" creationdate="20210415T095948Z">
-        <seg>Aktywuj opcję &lt;g0&gt;Fuzzy Matching for Dictionary Entries&lt;/g0&gt; option if you want dictionaries to display words that have the same root.</seg>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210415T100200Z" creationid="Wojciech" creationdate="20210415T095948Z">
+        <seg>Aktywuj opcję &lt;g0&gt;Fuzzy Matching dla notatek słownikowych&lt;/g0&gt;  jeśli słowniki mają pokazywać słowa, które mają to samo pochodzenie.</seg>
       </tuv>
     </tu>
     <tu>
