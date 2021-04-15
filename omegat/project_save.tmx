@@ -1880,6 +1880,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allows you to activate/deactivate the Machine Translation tools offered.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210415T093827Z" creationid="Wojciech" creationdate="20210415T093827Z">
+        <seg>Umożliwia aktywację/dezaktywacjęjednej lub więcej usług tumaczeń maszynowych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210409T104552Z" creationid="Agata Kaczmarska" creationdate="20210326T003009Z">
