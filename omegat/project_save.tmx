@@ -9664,6 +9664,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;g0&gt;Taas Terminology Lookup&lt;/g0&gt; to activate this lookup.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210415T095217Z" creationid="Wojciech" creationdate="20210415T095217Z">
+        <seg>Wybierz &lt;g0&gt;wyszukiwanie terminologii Taas&lt;/g0&gt; aby aktywować wyszukiwanie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Fol&amp;der</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T121612Z" creationid="Aleksandra" creationdate="20210329T210009Z">
