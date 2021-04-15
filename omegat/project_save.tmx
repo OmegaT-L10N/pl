@@ -2142,6 +2142,14 @@ co może skutkować nieoczekiwanym, ale prawidłowym działaniem.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-completion</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210415T095326Z" creationid="Wojciech" creationdate="20210415T095326Z">
+        <seg>Autouzupełnianie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-sync with Editor</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T123316Z" creationid="annap" creationdate="20210331T115425Z">
@@ -2597,6 +2605,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T181224Z" creationid="Paula" creationdate="20210329T181224Z">
         <seg>Sprawdź czy pliki słownikowe znajdują sie we właściwym folderze (lub wewnątrz tego folderu w podfolderze).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check the &lt;g0&gt;Use Fuzzy Matching for Dictionary Entries&lt;/g0&gt; option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210415T095948Z" creationid="Wojciech" creationdate="20210415T095948Z">
+        <seg>Aktywuj opcję &lt;g0&gt;Fuzzy Matching for Dictionary Entries&lt;/g0&gt; option if you want dictionaries to display words that have the same root.</seg>
       </tuv>
     </tu>
     <tu>
