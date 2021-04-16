@@ -6,11 +6,13 @@ Polish OmegaT Localisation
 
 ## 2. Create target documents
 
-## 3. Go to the target file (`Project → Access Project Contents → Target Files`).
+## 3. Go to the target file
+
+In OmegaT you can click `Project → Access Project Contents → Target Files`.
 
 You will find `Bundle_pl.properties` there. This is the file that contains every GUI string, and you will need its complete path later on.
 
-## 4. Close OmegaT.
+## 4. Close OmegaT
 
 ## 5. Change OmegaT startup instructions
 
@@ -40,7 +42,7 @@ This is how it's done on different operating systems:
 
 * **MacOS**
 
-  To be written
+  _To be written_
 
 ## 6. After modifications start OmegaT with the custom bunlde file
 
@@ -54,5 +56,5 @@ This is how it's done on different operating systems:
 
   * **MacOS**
 
-    To be written
+    _To be written_
 
