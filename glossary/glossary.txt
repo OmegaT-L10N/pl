@@ -3,3 +3,5 @@ segmentation	segmentacja
 Note:	Uwaga:
 Language Pattern	Wzorzec języka
 non-unique	powtarzający się	segment
+modification info	informacji o modyfikacji
+template	wyświetlanie	Schablonenhafte Darstellung von Informationen mit Variablen
