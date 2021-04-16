@@ -5809,8 +5809,8 @@ powrócą do wartości domyślnych.</seg>
       <tuv lang="EN">
         <seg>Insert Match or Selection Into Translation</seg>
       </tuv>
-      <tuv lang="PL" changeid="monika" changedate="20210327T182751Z" creationid="monika" creationdate="20210327T182751Z">
-        <seg>Wstaw wynik lub dopasowanie do tłumaczenia</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210416T105035Z" creationid="monika" creationdate="20210327T182751Z">
+        <seg>Wstaw dopasowanie lub zaznaczenie do tłumaczenia</seg>
       </tuv>
     </tu>
     <tu>
@@ -5841,8 +5841,8 @@ powrócą do wartości domyślnych.</seg>
       <tuv lang="EN">
         <seg>Insert Selection</seg>
       </tuv>
-      <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T120432Z" creationid="beataporodzynska" creationdate="20210325T120432Z">
-        <seg>Wstaw dopasowanie</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210416T104844Z" creationid="beataporodzynska" creationdate="20210325T120432Z">
+        <seg>Wstaw zaznaczenie</seg>
       </tuv>
     </tu>
     <tu>
