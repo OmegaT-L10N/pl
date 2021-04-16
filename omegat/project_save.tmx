@@ -3483,8 +3483,8 @@ opuść kolejkę...</seg>
       <tuv lang="EN">
         <seg>Disable rule “{0}”</seg>
       </tuv>
-      <tuv lang="PL" changeid="Wojciech" changedate="20210414T160703Z" creationid="Wojciech" creationdate="20210414T160703Z">
-        <seg>Blokuj regułę “{0}”</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210416T105708Z" creationid="Wojciech" creationdate="20210414T160703Z">
+        <seg>Blokuj regułę "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12606,16 +12606,16 @@ na utworzenie folderu konfiguracyjnego.</seg>
       <tuv lang="EN">
         <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
       </tuv>
-      <tuv lang="PL" changeid="Wojciech" changedate="20210414T161759Z" creationid="Wojciech" creationdate="20210414T161759Z">
-        <seg>[{0}] “{1}” w źródle; oczekiwane jedno z {2} w celu </seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210416T105720Z" creationid="Wojciech" creationdate="20210414T161759Z">
+        <seg>[{0}] "{1}" w źródle; oczekiwane jedno z {2} w celu </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
       </tuv>
-      <tuv lang="PL" changeid="Wojciech" changedate="20210414T161711Z" creationid="Wojciech" creationdate="20210414T161655Z">
-        <seg>[{0}] “{1}” w źródle; oczekiwane “{2}” w celu</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210416T105715Z" creationid="Wojciech" creationdate="20210414T161655Z">
+        <seg>[{0}] "{1}" w źródle; oczekiwane "{2}" w celu</seg>
       </tuv>
     </tu>
     <tu>
@@ -12948,6 +12948,14 @@ na utworzenie folderu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="PL" changeid="Wojciech" changedate="20210414T161825Z" creationid="Wojciech" creationdate="20210414T161825Z">
         <seg>"{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}” ({1})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="SvK" changedate="20210416T105730Z" creationid="SvK" creationdate="20210416T105730Z">
+        <seg>"{0}" ({1})</seg>
       </tuv>
     </tu>
     <tu>
