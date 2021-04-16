@@ -12482,8 +12482,8 @@ Your page is not found</seg>
       <tuv lang="EN">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
-      <tuv lang="PL" changeid="SvK" changedate="20210416T103110Z" creationid="beataporodzynska" creationdate="20210325T131801Z">
-        <seg>Hasła do glosariusza można dodawać za pomocą opcji „Wprowadź hasło do glosariusza” w menu „Edycja”.</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210416T103324Z" creationid="beataporodzynska" creationdate="20210325T131801Z">
+        <seg>Hasła do glosariusza można dodawać za pomocą opcji „Wprowadź hasło do glosariusza” w menu „Edytuj”.</seg>
       </tuv>
     </tu>
     <tu>
