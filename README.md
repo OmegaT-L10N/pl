@@ -2,7 +2,7 @@
 Polish OmegaT Localisation
 
 # How to test ongoing translation
-## 1. Open your local copy of this project in OmegaT.
+## 1. Open your local copy of this project in OmegaT
 
 ## 2. Create target documents
 
