@@ -12078,8 +12078,8 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       <tuv lang="EN">
         <seg>Use custom templates for modification &amp;info</seg>
       </tuv>
-      <tuv lang="PL" changeid="beataporodzynska" changedate="20210409T102705Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140133Z">
-        <seg>Użyj niestandardowych szablonów do modyfikacji &amp;informacji</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210416T100914Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140133Z">
+        <seg>Użyj zdefiniowanego przez użytkownika szablonu do modyfikacji &amp;informacji</seg>
       </tuv>
     </tu>
     <tu>
