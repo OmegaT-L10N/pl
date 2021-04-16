@@ -4371,8 +4371,8 @@ nikt nie słyszy twojego płaczu...</seg>
       <tuv lang="EN">
         <seg>Error updating glossary file</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210953Z" creationid="magdalenaklocek" creationdate="20210322T210953Z">
-        <seg>Błąd aktualizacji pliku słownika</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210416T104541Z" creationid="magdalenaklocek" creationdate="20210322T210953Z">
+        <seg>Błąd aktualizacji pliku glosariusza</seg>
       </tuv>
     </tu>
     <tu>
@@ -5239,8 +5239,8 @@ przykro...</seg>
       <tuv lang="EN">
         <seg>Glossary auto-completer options</seg>
       </tuv>
-      <tuv lang="PL" changeid="paulina" changedate="20210322T123623Z" creationid="paulina" creationdate="20210322T123623Z">
-        <seg>Opcje autouzupełniania słownika</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210416T104516Z" creationid="paulina" creationdate="20210322T123623Z">
+        <seg>Opcje autouzupełniania glosariusza</seg>
       </tuv>
     </tu>
     <tu>
@@ -12262,8 +12262,8 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       <tuv lang="EN">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
-      <tuv lang="PL" changeid="paulina" changedate="20210322T123128Z" creationid="paulina" creationdate="20210322T123128Z">
-        <seg>Jeżeli jest zaznaczone, elementy w widoku autouzupełniania słownika będą zawierały również tekst źródłowy.</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210416T104523Z" creationid="paulina" creationdate="20210322T123128Z">
+        <seg>Jeżeli jest zaznaczone, elementy w widoku autouzupełniania glosariusza będą zawierały również tekst źródłowy.</seg>
       </tuv>
     </tu>
     <tu>
