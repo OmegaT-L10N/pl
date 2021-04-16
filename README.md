@@ -2,16 +2,19 @@
 Polish OmegaT Localisation
 
 # How to test ongoing translation
-1. Open your local copy of this project in OmegaT.
+## 1. Open your local copy of this project in OmegaT.
 
-2. Create target documents
+## 2. Create target documents
 
-3. Go to the target file (`Project → Access Project Contents → Target Files`).</br>
+## 3. Go to the target file (`Project → Access Project Contents → Target Files`).
+
 You will find `Bundle_pl.properties` there. This is the file that contains every GUI string, and you will need its complete path later on.
 
-4. Close OmegaT.
+## 4. Close OmegaT.
 
-5. Change OmegaT startup instructions to include `Bundle_pl.properties` as a custom resource bundle.</br>
+## 5. Change OmegaT startup instructions
+
+OmegaT startup script/launcher will have to include `Bundle_pl.properties` as a custom resource bundle.</br>
 In essence it boils down to running this command:
 `java -jar OmegaT resource-bundle=/path/to/Bundle_pl.properties`.</br>
 This is how it's done on different operating systems:
@@ -39,7 +42,7 @@ This is how it's done on different operating systems:
 
   To be written
 
-6. After modifications start OmegaT:
+## 6. After modifications start OmegaT with the custom bunlde file
 
   * **Linux/BSD/Haiku**
 
