@@ -1470,6 +1470,8 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;html&gt; Aktualna wersja: &lt;b&gt;(0)&lt;/b&gt;&lt;/html&gt;
+</note>
       <tuv lang="EN">
         <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
