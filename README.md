@@ -28,7 +28,7 @@ This command works on any operating system but some operating system specific fa
 
   * **Linux/BSD/Haiku**
 
-  Edit the `OmegaT` script in the installation folder so that the last line looks like this:<br/>
+    Edit the `OmegaT` script in the installation folder so that the last line looks like this:<br/>
   `"${JAVA}" -jar -Xmx1024M "${REALOMEGATPATH}/@JAR_SUBST@" resource-bundle=/path/to/Bundle_pl.properties "$@"`<br/>
   (**`/path/to/Bundle_pl.properties`** should be the actual path on your computer, of course).
 
@@ -69,9 +69,8 @@ This command works on any operating system but some operating system specific fa
 
   * **MacOS**
   
-  If you used OmegaT_5.5.0_Beta_Without_JRE.zip, just run the following command from the Terminal:
+    If you used OmegaT_5.5.0_Beta_Without_JRE.zip, just run the following command from the Terminal:<br/>
+    `java -jar /path/to/OmegaT.jar resource-bundle=/path/to/Bundle_pl.properties`.
   
-  `java -jar /path/to/OmegaT.jar resource-bundle=/path/to/Bundle_pl.properties`.
-  
-  If you used OmegaT.app, just reopen OmegaT.app
+    If you used OmegaT.app, just reopen OmegaT.app
 
