@@ -1512,6 +1512,13 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Kanał aktualizacji:
+</note>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;none&gt;</seg>
       </tuv>
@@ -2172,6 +2179,13 @@ co może skutkować nieoczekiwanym, ale prawidłowym działaniem.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T210211Z" creationid="magdalenaklocek" creationdate="20210322T210211Z">
         <seg>Pliki autotekstu (*.autotext)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Automatycznie sprawdzaj aktualizacje
+</note>
+      <tuv lang="EN">
+        <seg>Automatically check for updates</seg>
       </tuv>
     </tu>
     <tu>
@@ -6422,6 +6436,13 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T231402Z" creationid="Paula" creationdate="20210329T231402Z">
         <seg>Ostatnia zmiana wprowadzona przez{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Ostatnie
+</note>
+      <tuv lang="EN">
+        <seg>Latest</seg>
       </tuv>
     </tu>
     <tu>
