@@ -2586,6 +2586,13 @@ opuść kolejkę...</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Sprawdź teraz
+</note>
+      <tuv lang="EN">
+        <seg>Check Now</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
