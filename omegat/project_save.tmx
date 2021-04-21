@@ -9922,8 +9922,8 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="EN">
         <seg>Set a master password to protect your private data.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Wojciech" changedate="20210414T162356Z" creationid="Wojciech" creationdate="20210414T162356Z">
-        <seg>Ustaw hasło nadrzędne, aby chronić dane osobowe..</seg>
+      <tuv lang="PL" changeid="paulina" changedate="20210421T140444Z" creationid="Wojciech" creationdate="20210414T162356Z">
+        <seg>Ustaw hasło główne aby chronić dane osobowe.</seg>
       </tuv>
     </tu>
     <tu>
