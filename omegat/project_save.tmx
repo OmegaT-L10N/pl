@@ -4207,8 +4207,8 @@ brak strony...</seg>
       <tuv lang="EN">
         <seg>Enter your master password.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Wojciech" changedate="20210414T163031Z" creationid="Wojciech" creationdate="20210414T163031Z">
-        <seg>Podaj swoje hasło nadrzędne.</seg>
+      <tuv lang="PL" changeid="paulina" changedate="20210421T140509Z" creationid="Wojciech" creationdate="20210414T163031Z">
+        <seg>Podaj swoje hasło główne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7655,8 +7655,8 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Wojciech" changedate="20210414T171909Z" creationid="Wojciech" creationdate="20210414T171909Z">
-        <seg>OmegaT może generować i przechowywać hasło nadrzędne, więc nie musisz go za każdym razem podawać, jednak jest to mniej bezpieczne.</seg>
+      <tuv lang="PL" changeid="paulina" changedate="20210421T140701Z" creationid="Wojciech" creationdate="20210414T171909Z">
+        <seg>OmegaT może generować i przechowywać hasła głównego, więc nie musisz go za każdym razem podawać, jednak jest to mniej bezpieczne.</seg>
       </tuv>
     </tu>
     <tu>
