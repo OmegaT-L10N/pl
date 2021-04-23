@@ -9110,8 +9110,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Restore &amp;Defaults</seg>
       </tuv>
-      <tuv lang="PL" changeid="Wojciech" changedate="20210414T172311Z" creationid="Wojciech" creationdate="20210414T172311Z">
-        <seg>Przywróć stan&amp;dard</seg>
+      <tuv lang="PL" changeid="paulina" changedate="20210423T102457Z" creationid="Wojciech" creationdate="20210414T172311Z">
+        <seg>Restore &amp;DefaultsPrzywróć stan&amp;dard</seg>
       </tuv>
     </tu>
     <tu>
