@@ -57,7 +57,7 @@ This command works on any operating system but some operating system specific fa
   
   and save.
   
-## 6. After modifications start OmegaT with the custom bunlde file
+## 6. After modifications start OmegaT with the custom bundle file
 
   * **Linux/BSD/Haiku**
 
