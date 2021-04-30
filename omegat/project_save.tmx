@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT " o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -232,8 +232,8 @@
       <tuv lang="en">
         <seg>&amp;Dictionaries</seg>
       </tuv>
-      <tuv lang="pl" changeid="annagorska" changedate="20210331T114839Z" creationid="annagorska" creationdate="20210331T114839Z">
-        <seg>&amp;słowinki</seg>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210430T101906Z" creationid="annagorska" creationdate="20210331T114839Z">
+        <seg>&amp;słowniki</seg>
       </tuv>
     </tu>
     <tu>
@@ -4839,8 +4839,8 @@ przykro...</seg>
       <tuv lang="en">
         <seg>File Filters...</seg>
       </tuv>
-      <tuv lang="pl" changeid="AgatoZiemniak" changedate="20210322T174021Z" creationid="AgatoZiemniak" creationdate="20210322T174021Z">
-        <seg>Filtruj pliki...</seg>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210430T102330Z" creationid="AgatoZiemniak" creationdate="20210322T174021Z">
+        <seg>Filtry plików...</seg>
       </tuv>
     </tu>
     <tu>
