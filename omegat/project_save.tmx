@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT " o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -184,8 +184,8 @@
       <tuv lang="en">
         <seg>&amp;Cancel</seg>
       </tuv>
-      <tuv lang="pl" changeid="Werciks" changedate="20210406T191521Z" creationid="Werciks" creationdate="20210406T191521Z">
-        <seg>&amp;Zamknij</seg>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210430T102529Z" creationid="Werciks" creationdate="20210406T191521Z">
+        <seg>&amp;Anuluj</seg>
       </tuv>
     </tu>
     <tu>
@@ -1563,8 +1563,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>A&amp;uto-completion</seg>
       </tuv>
-      <tuv lang="pl" changeid="Paula" changedate="20210329T222013Z" creationid="Paula" creationdate="20210329T222013Z">
-        <seg>Automatyczne wpisywanie</seg>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210430T102227Z" creationid="Paula" creationdate="20210329T222013Z">
+        <seg>A&amp;utouzupełnianie</seg>
       </tuv>
     </tu>
     <tu>
