@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT " o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4128,8 +4128,8 @@ brak strony...</seg>
       <tuv lang="EN">
         <seg>Encoding:</seg>
       </tuv>
-      <tuv lang="PL" changeid="magda" changedate="20210409T110048Z" creationid="magda" creationdate="20210409T110048Z">
-        <seg>Szyfrowanie</seg>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210430T101843Z" creationid="magda" creationdate="20210409T110048Z">
+        <seg>Szyfrowanie:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4615,8 +4615,8 @@ przykro...</seg>
       <tuv lang="EN">
         <seg>Exit code {0}: "{1}"</seg>
       </tuv>
-      <tuv lang="PL" changeid="Komputer" changedate="20210331T141436Z" creationid="Komputer" creationdate="20210331T141436Z">
-        <seg>Kod wyjścia: {0}</seg>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210430T102049Z" creationid="Komputer" creationdate="20210331T141436Z">
+        <seg>Kod wyjścia {0}: "{1}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5729,8 +5729,8 @@ powrócą do wartości domyślnych.</seg>
       <tuv lang="EN">
         <seg>In comments</seg>
       </tuv>
-      <tuv lang="PL" changeid="annap" changedate="20210331T120432Z" creationid="annap" creationdate="20210331T120432Z">
-        <seg>Komentarze</seg>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210430T104053Z" creationid="annap" creationdate="20210331T120432Z">
+        <seg>W komentarzach</seg>
       </tuv>
     </tu>
     <tu>
@@ -6560,6 +6560,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Machine Translate</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210430T104136Z" creationid="wciecierska" creationdate="20210430T104136Z">
+        <seg>Wstaw tłumaczenie maszynowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Machine Translation</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210325T115937Z" creationid="beataporodzynska" creationdate="20210325T115937Z">
@@ -6794,8 +6802,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="EN">
         <seg>Matches Inserted Inactive</seg>
       </tuv>
-      <tuv lang="PL" changeid="wciecierska" changedate="20210330T170232Z" creationid="wciecierska" creationdate="20210330T170232Z">
-        <seg>Wstawione dopasowania: aktywne</seg>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210430T104208Z" creationid="wciecierska" creationdate="20210330T170232Z">
+        <seg>Wstawione dopasowania: nieaktywne</seg>
       </tuv>
     </tu>
     <tu>
