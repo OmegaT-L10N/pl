@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10373,16 +10373,16 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="en">
         <seg>Spellchecker</seg>
       </tuv>
-      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210331T122801Z" creationid="Kasia Mędrzycka" creationdate="20210331T122801Z">
-        <seg>Sprawdzanie pisowni</seg>
+      <tuv lang="pl" changeid="monika" changedate="20210430T105232Z" creationid="Kasia Mędrzycka" creationdate="20210331T122801Z">
+        <seg>Moduł sprawdzania pisowni</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Spellchecker Setup</seg>
       </tuv>
-      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210331T122753Z" creationid="Kasia Mędrzycka" creationdate="20210331T122753Z">
-        <seg>Ustawienia sprawdzania pisowni</seg>
+      <tuv lang="pl" changeid="monika" changedate="20210430T105218Z" creationid="Kasia Mędrzycka" creationdate="20210331T122753Z">
+        <seg>Ustawienia modułu sprawdzania pisowni</seg>
       </tuv>
     </tu>
     <tu>
