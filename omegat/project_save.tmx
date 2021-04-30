@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT " o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7440,8 +7440,8 @@ Lost to paradise</seg>
       <tuv lang="en">
         <seg>Not Set</seg>
       </tuv>
-      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210331T124444Z" creationid="monika" creationdate="20210330T203612Z">
-        <seg>Nieustalone</seg>
+      <tuv lang="pl" changeid="monika" changedate="20210430T102627Z" creationid="monika" creationdate="20210330T203612Z">
+        <seg>Nieustawione</seg>
       </tuv>
     </tu>
     <tu>
@@ -9891,16 +9891,16 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="en">
         <seg>Set</seg>
       </tuv>
-      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210331T124441Z" creationid="Kasia Mędrzycka" creationdate="20210331T124053Z">
-        <seg>Ustalone</seg>
+      <tuv lang="pl" changeid="monika" changedate="20210430T102618Z" creationid="Kasia Mędrzycka" creationdate="20210331T124053Z">
+        <seg>Ustawione</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Set &amp; Stored</seg>
       </tuv>
-      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210331T124437Z" creationid="Kasia Mędrzycka" creationdate="20210331T124109Z">
-        <seg>Ustalone i zapisane</seg>
+      <tuv lang="pl" changeid="monika" changedate="20210430T102636Z" creationid="Kasia Mędrzycka" creationdate="20210331T124109Z">
+        <seg>Ustawione i zapisane</seg>
       </tuv>
     </tu>
     <tu>
