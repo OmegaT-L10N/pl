@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT " o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3973,8 +3973,8 @@ i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
       <tuv lang="EN">
         <seg>Edit</seg>
       </tuv>
-      <tuv lang="PL" changeid="Wojciech" changedate="20210430T104913Z" creationid="magdaradka" creationdate="20210317T171137Z">
-        <seg>Edytowanie</seg>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210430T110638Z" creationid="magdaradka" creationdate="20210317T171137Z">
+        <seg>Edytowanie0</seg>
       </tuv>
     </tu>
     <tu>
