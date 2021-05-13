@@ -12808,8 +12808,8 @@ na utworzenie folderu konfiguracyjnego.</seg>
       <tuv lang="EN">
         <seg>open the project</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aleksandra" changedate="20210327T185543Z" creationid="Aleksandra" creationdate="20210327T185543Z">
-        <seg>otwórz projekt</seg>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210513T175741Z" creationid="Aleksandra" creationdate="20210327T185543Z">
+        <seg>otwórz dany projekt</seg>
       </tuv>
     </tu>
     <tu>
@@ -12928,8 +12928,8 @@ na utworzenie folderu konfiguracyjnego.</seg>
       <tuv lang="EN">
         <seg>{0} version {1} ({2})</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145634Z" creationid="Aleksandra" creationdate="20210330T145627Z">
-        <seg>Wersja: {0}</seg>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210513T175718Z" creationid="Aleksandra" creationdate="20210330T145627Z">
+        <seg>{0} wersja {1} ({2}){0}</seg>
       </tuv>
     </tu>
     <tu>
