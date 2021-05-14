@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT " o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1724,8 +1724,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Add To Dictionary: “{0}”</seg>
       </tuv>
-      <tuv lang="PL" changeid="paulina" changedate="20210421T140000Z" creationid="jnnas10" creationdate="20210406T111856Z">
-        <seg>Dodaj do słownika</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210514T101105Z" creationid="jnnas10" creationdate="20210406T111856Z">
+        <seg>Dodaj do słownika "{0}"</seg>
       </tuv>
     </tu>
     <tu>
