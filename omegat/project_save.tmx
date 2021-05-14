@@ -5802,8 +5802,8 @@ powrócą do wartości domyślnych.</seg>
       <tuv lang="EN">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Werciks" changedate="20210406T191327Z" creationid="Werciks" creationdate="20210406T191327Z">
-        <seg>Zainicjowano {0} - {1}. {0}-{1} projekt zespołowy.</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210514T102201Z" creationid="Werciks" creationdate="20210406T191327Z">
+        <seg>Zainicjowano {0} - {1} projekt zespołowy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12929,8 +12929,8 @@ na utworzenie folderu konfiguracyjnego.</seg>
       <tuv lang="EN">
         <seg>{0} version {1} ({2})</seg>
       </tuv>
-      <tuv lang="PL" changeid="wciecierska" changedate="20210513T175718Z" creationid="Aleksandra" creationdate="20210330T145627Z">
-        <seg>{0} wersja {1} ({2}){0}</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210514T102146Z" creationid="Aleksandra" creationdate="20210330T145627Z">
+        <seg>{0} wersja {1} ({2})</seg>
       </tuv>
     </tu>
     <tu>
