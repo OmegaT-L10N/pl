@@ -10150,8 +10150,8 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="EN">
         <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
       </tuv>
-      <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211215Z" creationid="magdalenaklocek" creationdate="20210322T211215Z">
-        <seg>Coś poszło nie tak,  abz poznać szczegóły odwiedź Tilde Terminology.</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210514T101707Z" creationid="magdalenaklocek" creationdate="20210322T211215Z">
+        <seg>Coś poszło nie tak. Aby poznać szczegóły, odwiedź Tilde Terminology.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12086,8 +12086,8 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       <tuv lang="EN">
         <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
       </tuv>
-      <tuv lang="PL" changeid="studentka" changedate="20210407T090944Z" creationid="studentka" creationdate="20210407T090944Z">
-        <seg>Użyj &amp; XML dla samodzielnych znaczników  (n.p., &lt;i/&gt;)</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210514T101721Z" creationid="studentka" creationdate="20210407T090944Z">
+        <seg>Użyj &amp; XML dla samodzielnych znaczników (n.p., &lt;i/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
