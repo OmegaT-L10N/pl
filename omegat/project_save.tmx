@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT " o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5665,10 +5665,26 @@ nie ma...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, non-unique segments will be marked in pale grey.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210514T104912Z" creationid="monika" creationdate="20210514T104912Z">
+        <seg>Jeżeli zaznaczone, segmenty powtarzające się zostaną zaznaczone na jasnoszaro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, segments with notes will be marked in cyan.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210514T105038Z" creationid="monika" creationdate="20210514T105038Z">
+        <seg>Jeżeli zaznaczone, segmenty z notatkami zostaną oznaczone na błękitno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, source segments will be shown and marked in green.</seg>
       </tuv>
-      <tuv lang="pl" changeid="monika" changedate="20210514T104733Z" creationid="monika" creationdate="20210514T104733Z">
-        <seg>Jeżeli zaznaczone, segmenty źródłowe zostaną pokazane i zaznaczone na zielono.</seg>
+      <tuv lang="pl" changeid="monika" changedate="20210514T104813Z" creationid="monika" creationdate="20210514T104733Z">
+        <seg>Jeżeli zaznaczone, segmenty źródłowe zostaną wyświetlone i zaznaczone na zielono.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5748,6 +5764,14 @@ their defaults as a result of the location change.</seg>
 wymaganego położenia, położenie to zostanie użyte,
 a w wyniku zmiany położenia wszystkie ustawienia
 powrócą do wartości domyślnych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If not checked, source segments will not be shown.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210514T104804Z" creationid="monika" creationdate="20210514T104804Z">
+        <seg>Jeżeli niezaznaczone, segmenty źródłowe nie zostaną wyświetlone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6801,6 +6825,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Non-Unique Segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210514T104836Z" creationid="monika" creationdate="20210514T104836Z">
+        <seg>Zaznacz segmenty powtarzające się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Paragraph delimitations</seg>
       </tuv>
       <tuv lang="pl" changeid="monika" changedate="20210514T104329Z" creationid="monika" creationdate="20210514T104329Z">
@@ -6813,6 +6845,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="pl" changeid="monika" changedate="20210327T182001Z" creationid="monika" creationdate="20210327T182001Z">
         <seg>Zaznacz segmenty &amp;z notatkami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Segments with Notes</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210514T104938Z" creationid="monika" creationdate="20210514T104938Z">
+        <seg>Zaznacz segmenty z notatkami</seg>
       </tuv>
     </tu>
     <tu>
