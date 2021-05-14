@@ -2722,6 +2722,14 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;g0&gt;Edit&lt;/g0&gt; tab on the Wikipedia page.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210514T105601Z" creationid="magda" creationdate="20210514T105601Z">
+        <seg>Kliknij &lt;g0&gt; Edytuj &lt;/g0&gt; na stronie Wikipedia. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking on one will save the current project, close it and open the other project.</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210514T105100Z" creationid="magda" creationdate="20210514T105100Z">
@@ -3088,6 +3096,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="adurk" changedate="20210406T192748Z" creationid="adurk" creationdate="20210406T192748Z">
         <seg>Kopiuj pliki do foldera źródłowego...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy the URL of the page (ending with &lt;g0&gt;action=edit&lt;/g0&gt;) and paste it into &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210514T105737Z" creationid="magda" creationdate="20210514T105737Z">
+        <seg>Kopiuj adres URL strony (kończąć z &lt;g0&gt; akcja=edytuj &lt;/g0&gt;) i wklej do &lt;a1&gt; OmegaT &lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
