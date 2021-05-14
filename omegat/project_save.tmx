@@ -5326,6 +5326,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go To</seg>
+      </tuv>
+      <tuv lang="PL" changeid="SvK" changedate="20210514T103458Z" creationid="SvK" creationdate="20210514T103458Z">
+        <seg>Przejdź do</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T225357Z" creationid="Paula" creationdate="20210329T225357Z">
@@ -7247,6 +7255,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T115856Z" creationid="annagorska" creationdate="20210331T115856Z">
         <seg>Kolejna notatka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Translated Segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="SvK" changedate="20210514T103518Z" creationid="SvK" creationdate="20210514T103518Z">
+        <seg>Kolejny przetłumaczony Segment</seg>
       </tuv>
     </tu>
     <tu>
