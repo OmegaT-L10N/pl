@@ -2618,6 +2618,14 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check for Updates...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210514T105117Z" creationid="AgatoZiemniak" creationdate="20210514T105117Z">
+        <seg>Dostępne aktualizacje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T181414Z" creationid="Paula" creationdate="20210329T181414Z">
@@ -3687,6 +3695,14 @@ i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210514T104423Z" creationid="AgatoZiemniak" creationdate="20210514T104423Z">
         <seg>Wyświetla informacje o prawach autorskich, kredytach i licencji...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the current log file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210514T104911Z" creationid="AgatoZiemniak" creationdate="20210514T104911Z">
+        <seg>Wyświetla bieżący plik dziennika</seg>
       </tuv>
     </tu>
     <tu>
@@ -6725,6 +6741,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T121606Z" creationid="annap" creationdate="20210331T121606Z">
         <seg>Lokalizacja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Log...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210514T104842Z" creationid="AgatoZiemniak" creationdate="20210514T104842Z">
+        <seg>Dziennik...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11523,6 +11547,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T125348Z" creationid="magda" creationdate="20210325T125348Z">
         <seg>Ten konkretny projekt jest w dziełem zespołowym w stylu OmegaT 3.6. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210514T105045Z" creationid="AgatoZiemniak" creationdate="20210514T105045Z">
+        <seg>Tytuł okna dialogowego odzwierciedla aktualnie używany plik (w zależności od tego, ile instancji programu OmegaT jest uruchomionych jednocześnie).</seg>
       </tuv>
     </tu>
     <tu>
