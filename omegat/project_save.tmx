@@ -7915,6 +7915,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens this manual in the default browser.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210514T104226Z" creationid="AgatoZiemniak" creationdate="20210514T104226Z">
+        <seg>Uruchamia podręcznik użytkowania w domyślnej przeglądarce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173913Z" creationid="AgatoZiemniak" creationdate="20210322T173913Z">
@@ -12216,6 +12224,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210329T170623Z" creationid="Aleksandra" creationdate="20210329T170623Z">
         <seg>User manuals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User's Manual...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210514T104146Z" creationid="AgatoZiemniak" creationdate="20210514T104146Z">
+        <seg>Podręcznik użytkowania...</seg>
       </tuv>
     </tu>
     <tu>
