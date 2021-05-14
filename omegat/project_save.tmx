@@ -1967,8 +1967,9 @@ The current setting is {0}MB;</seg>
         <seg>An error occurred while processing a new file event:
 {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210331T121503Z" creationid="Kasia Mędrzycka" creationdate="20210331T121503Z">
-        <seg>Wystąpił błąd podczas próby przetworzenia zdarzenia nowy plik:</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210514T101503Z" creationid="Kasia Mędrzycka" creationdate="20210331T121503Z">
+        <seg>Wystąpił błąd podczas próby przetworzenia zdarzenia nowy plik:
+{0}</seg>
       </tuv>
     </tu>
     <tu>
