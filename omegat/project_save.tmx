@@ -1289,9 +1289,9 @@ Aby dodać pliki do projektu, kliknij przycisk Kopiuj pliki do foldera źródło
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20210516T151124Z" creationid="Werciks" creationdate="20210406T183339Z">
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20210516T151546Z" creationid="Werciks" creationdate="20210406T183339Z">
         <seg>--projekt zdalny
-		Pobierz plik omegat.project z adresu URL podanego jako &lt;ścieżkaprojektu&gt; i wczytaj projekt..</seg>
+		Pobierz plik omegat.project z adresu URL podanego jako &lt;ścieżka projektu&gt; i wczytaj projekt..</seg>
       </tuv>
     </tu>
     <tu>
