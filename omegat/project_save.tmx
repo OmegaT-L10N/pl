@@ -11485,6 +11485,14 @@ ale są inne...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The interval of 3 minutes can be changed in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Preferences&lt;/g3&gt; &lt;g4&gt;Saving and Output&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T213159Z" creationid="magda" creationdate="20210517T213159Z">
+        <seg>Interwał 3 minut może być zmieniony w &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Opcje&lt;/g2&gt; &lt;g3&gt;Właściwości&lt;/g3&gt; &lt;g4&gt;Zapisywanie i Wyjście&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
 xx or xxx is the language code and YY is the region or country code (optional).</seg>
       </tuv>
@@ -12559,6 +12567,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210406T113017Z" creationid="jnnas10" creationdate="20210406T112206Z">
         <seg>Aktualizowanie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uploads to the repository the files that have been added or modified locally in the &lt;f0&gt;source&lt;/f0&gt; directory.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T213319Z" creationid="magda" creationdate="20210517T213319Z">
+        <seg>Przesyła do repozytorium pliki, które zostały dodane lub zmodyfikowane lokalnie w katalogu &lt;f0&gt;source&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
