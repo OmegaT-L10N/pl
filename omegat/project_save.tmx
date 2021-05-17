@@ -3243,6 +3243,14 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Translated Documents</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T213429Z" creationid="magda" creationdate="20210517T213429Z">
+        <seg>Stwórz tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create a New Project</seg>
       </tuv>
       <tuv lang="PL" changeid="Anasti-M" changedate="20210414T115952Z" creationid="Anasti-M" creationdate="20210414T115952Z">
@@ -3301,6 +3309,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210514T104617Z" creationid="magda" creationdate="20210514T103958Z">
         <seg>Stwórz i otwórz nowy projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creates the target documents based on your translation.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T213447Z" creationid="magda" creationdate="20210517T213447Z">
+        <seg>Stwórz dokumety docelowe na podstawie tłumaczenia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11440,6 +11456,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The created target documents are located in the &lt;f0&gt;target&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T213625Z" creationid="magda" creationdate="20210517T213625Z">
+        <seg>Utworzone dokumenty docelowe znajdują się w folderze &lt;f0&gt;target&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
@@ -11762,6 +11786,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T133102Z" creationid="paulina" creationdate="20210320T133102Z">
         <seg>To polecenie zostanie wykonane po utworzeniu przetłumaczonych dokumentów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This function is specific to team projects.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T213346Z" creationid="magda" creationdate="20210517T213346Z">
+        <seg>Ta fukcja dotyczy projektów zespołowych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12575,6 +12607,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210517T213319Z" creationid="magda" creationdate="20210517T213319Z">
         <seg>Przesyła do repozytorium pliki, które zostały dodane lub zmodyfikowane lokalnie w katalogu &lt;f0&gt;source&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uploads to the repository the files that have been created locally in the &lt;f0&gt;target&lt;/f0&gt; directory.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T213408Z" creationid="magda" creationdate="20210517T213408Z">
+        <seg>Przesyła do repozytorium pliki, które zostały utworzone lokalnie w katalogu &lt;f0&gt;target&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
