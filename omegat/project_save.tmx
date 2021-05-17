@@ -3219,6 +3219,14 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Current Translated Document</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T213634Z" creationid="magda" creationdate="20210517T213634Z">
+        <seg>Stwórz aktualnie tłumaczony dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create Glossary Entry</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210409T103418Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140208Z">
@@ -3309,6 +3317,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210514T104617Z" creationid="magda" creationdate="20210514T103958Z">
         <seg>Stwórz i otwórz nowy projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creates the target document corresponding to the current document in translation.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T213814Z" creationid="magda" creationdate="20210517T213814Z">
+        <seg>Stwórz dokument docelowy odpowiadający bieżącemu dokumentowi w tłumaczeniu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8278,6 +8294,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210514T104817Z" creationid="magda" creationdate="20210514T104817Z">
         <seg>Otwórz wcześniej stworzony projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens a project package in the MED format defined by the EU Directorate-General for Translation.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T213858Z" creationid="magda" creationdate="20210517T213858Z">
+        <seg>Otwiera pakiet projektu w formacie MED określonym przez Dyrekcję Generalną UE ds. Tłumaczeń.</seg>
       </tuv>
     </tu>
     <tu>
