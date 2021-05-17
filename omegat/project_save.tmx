@@ -5951,6 +5951,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the documents are not available, the entry is greyed out.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T214606Z" creationid="magda" creationdate="20210517T214547Z">
+        <seg>Jeśli dokumenty nie są dostępne, punkt jest szary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the source file is modified after you have begun translating, &lt;a1&gt;OmegaT&lt;/a1&gt; may be unable to find a segment that you have already translated.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T190241Z" creationid="Aleksandra" creationdate="20210327T190241Z">
@@ -5971,6 +5979,14 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T185123Z" creationid="Aleksandra" creationdate="20210327T185123Z">
         <seg>Jeśli twoje tłumaczenie przepadło, możesz skorzystać z poniższych czynności, aby odzyskać najbardziej aktualną wersję projektu, zazwyczaj sprzed około 10 minut:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you haven't yet saved the project, this manually confirms whether you really wish to quit.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T214744Z" creationid="magda" creationdate="20210517T214744Z">
+        <seg>Jeśli jeszcze nie zapisałeś projektu, ten przycisk ręcznie potwierdza, czy naprawdę chcesz zakończyć pracę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9187,6 +9203,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Quit</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T214617Z" creationid="magda" creationdate="20210517T214617Z">
+        <seg>Zamknij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>R&amp;emove</seg>
       </tuv>
       <tuv lang="PL" changeid="Werciks" changedate="20210406T191656Z" creationid="Aleksandra" creationdate="20210329T210004Z">
@@ -9905,6 +9929,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210517T212543Z" creationid="magda" creationdate="20210517T212543Z">
         <seg>Zapisz wewnętrzą pamięć tłumaczeniową na twardym dysku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saves the project and quits &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T214700Z" creationid="magda" creationdate="20210517T214700Z">
+        <seg>Zapisz projekt i zamknij &lt;a0&gt;OmegaT&lt;/a0&gt;. </seg>
       </tuv>
     </tu>
     <tu>
