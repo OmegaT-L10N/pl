@@ -8006,6 +8006,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT automatically saves translations every 3 minutes as well as when you close the project or quit OmegaT.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T212712Z" creationid="magda" creationdate="20210517T212712Z">
+        <seg>OmegaT automatycznie zapisuje tłumaczenie co trzy minuty oraz w momencie zamknięcia projektu lub zakończenia pracy w programie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
       </tuv>
       <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T140707Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140707Z">
@@ -9717,6 +9725,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T212509Z" creationid="magda" creationdate="20210517T212509Z">
+        <seg>Zapisz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Alignment Results</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210413T165338Z" creationid="AgatoZiemniak" creationdate="20210322T174754Z">
@@ -9769,6 +9785,22 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T175129Z" creationid="AgatoZiemniak" creationdate="20210322T175129Z">
         <seg>Czy chcesz zachować zmiany w regułach segmentacji?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saves the internal translation memory to the hard disk.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T212543Z" creationid="magda" creationdate="20210517T212543Z">
+        <seg>Zapisz wewnętrzą pamięć tłumaczeniową na twardym dysku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saves the translation and closes the project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T212459Z" creationid="magda" creationdate="20210517T212459Z">
+        <seg>Zapisz tłumaczenie i zamknij projekt.</seg>
       </tuv>
     </tu>
     <tu>
