@@ -3083,6 +3083,14 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converts the current project into a MED package.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T213943Z" creationid="magda" creationdate="20210517T213943Z">
+        <seg>Konwertuje bieżący projekt na paczkę MED.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="PL" changeid="adurk" changedate="20210406T192715Z" creationid="adurk" creationdate="20210406T192645Z">
@@ -3239,6 +3247,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T114613Z" creationid="annagorska" creationdate="20210331T114613Z">
         <seg>Otwórcz projekt MED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create MED Projects...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T213917Z" creationid="magda" creationdate="20210517T213917Z">
+        <seg>Otwórz projekt MED...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3709,6 +3725,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T121456Z" creationid="annap" creationdate="20210331T121456Z">
         <seg>Pokaż:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays &lt;l0&gt;Project properties&lt;/l0&gt; dialog to edit project languages and folder locations.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T214111Z" creationid="magda" creationdate="20210517T214111Z">
+        <seg>Wyświetla okno dialogowe &lt;l0&gt;Właściwości projektu&lt;/l0&gt; do edycji języków projektu i lokalizacji folderów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8306,6 +8330,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;Project files&lt;/l0&gt; window.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T214156Z" creationid="magda" creationdate="20210517T214156Z">
+        <seg>Otwiera okno &lt;l0&gt; z plikami&lt;/l0&gt; projektu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens this manual in the default browser.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210514T104226Z" creationid="AgatoZiemniak" creationdate="20210514T104226Z">
@@ -8947,6 +8979,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Files...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T214121Z" creationid="magda" creationdate="20210517T214121Z">
+        <seg>Pliki projektu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Properties</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210329T170540Z" creationid="Aleksandra" creationdate="20210329T170540Z">
@@ -9087,6 +9127,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T122903Z" creationid="annap" creationdate="20210331T122903Z">
         <seg>Wyszukiwanie w projekcie odbywa się domyślnie w oryginale i w tłumaczeniu, w pamięci tłumaczeniowej, glosariuszach, notatkach i komentarzach do projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Properties...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="magda" changedate="20210517T214043Z" creationid="magda" creationdate="20210517T214043Z">
+        <seg>Właściwości...</seg>
       </tuv>
     </tu>
     <tu>
