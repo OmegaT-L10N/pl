@@ -5848,6 +5848,14 @@ nie ma...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210518T170152Z" creationid="monika" creationdate="20210518T170152Z">
+        <seg>Jeżeli zaznaczone, tło wszystkich segmentów w miejscu automatycznego przetłumaczenia segmentu źródłowego (z plików TMX znajdujących się przykładowo w &lt;f0&gt;/tm/auto&lt;/f0&gt;) zostanie wyświetlone w kolorze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210322T123553Z" creationid="paulina" creationdate="20210322T123553Z">
@@ -6996,6 +7004,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="pl" changeid="AgatoZiemniak" changedate="20210322T173106Z" creationid="AgatoZiemniak" creationdate="20210322T173106Z">
         <seg>Zaznacz jako zatwierdzone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210518T165931Z" creationid="monika" creationdate="20210518T165931Z">
+        <seg>Zaznacz segmenty wypwłnione automatycznie</seg>
       </tuv>
     </tu>
     <tu>
@@ -11994,6 +12010,14 @@ the server.</seg>
       </tuv>
       <tuv lang="pl" changeid="beataporodzynska" changedate="20210514T104729Z" creationid="beataporodzynska" creationdate="20210514T104626Z">
         <seg>To menu wyświetla punkty menu tylko wtedy, gdy projekt jest otwarty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210518T165905Z" creationid="monika" creationdate="20210518T165905Z">
+        <seg>Ta opcja wskazuje &lt;u0&gt;dwukierunkowe znaki kontrolne&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
