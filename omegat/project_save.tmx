@@ -5850,16 +5850,16 @@ nie ma...</seg>
       <tuv lang="en">
         <seg>If checked, non-breakable spaces will be displayed with a grey background.</seg>
       </tuv>
-      <tuv lang="pl" changeid="monika" changedate="20210514T105852Z" creationid="monika" creationdate="20210514T105852Z">
-        <seg>Jeżeli zaznaczone, spacje niełamiące zostaną wyświetlone z szarym tłem.</seg>
+      <tuv lang="pl" changeid="monika" changedate="20210518T173020Z" creationid="monika" creationdate="20210514T105852Z">
+        <seg>Jeżeli zaznaczone, twarde spacje zostaną wyświetlone z szarym tłem.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If checked, non-unique segments will be marked in pale grey.</seg>
       </tuv>
-      <tuv lang="pl" changeid="monika" changedate="20210514T105139Z" creationid="monika" creationdate="20210514T104912Z">
-        <seg>Jeżeli zaznaczone, segmenty powtarzające się zostaną oznaczone kolorem jasnoszarym.</seg>
+      <tuv lang="pl" changeid="monika" changedate="20210518T173002Z" creationid="monika" creationdate="20210514T104912Z">
+        <seg>Jeżeli zaznaczone, nieunikalne segmenty zostaną oznaczone kolorem jasnoszarym.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7082,16 +7082,16 @@ w katalogu konfiguracji.</seg>
       <tuv lang="en">
         <seg>Mark Non-Unique Segments</seg>
       </tuv>
-      <tuv lang="pl" changeid="monika" changedate="20210514T104836Z" creationid="monika" creationdate="20210514T104836Z">
-        <seg>Zaznacz segmenty powtarzające się</seg>
+      <tuv lang="pl" changeid="monika" changedate="20210518T172951Z" creationid="monika" creationdate="20210514T104836Z">
+        <seg>Zaznacz nieunikalne segmenty</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Mark Non-breakable Spaces</seg>
       </tuv>
-      <tuv lang="pl" changeid="monika" changedate="20210514T105728Z" creationid="monika" creationdate="20210514T105728Z">
-        <seg>Zaznacz spacje niełamiące</seg>
+      <tuv lang="pl" changeid="monika" changedate="20210518T173014Z" creationid="monika" creationdate="20210514T105728Z">
+        <seg>Zaznacz twarde spacje</seg>
       </tuv>
     </tu>
     <tu>
