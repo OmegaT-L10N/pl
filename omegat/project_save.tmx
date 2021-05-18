@@ -11599,6 +11599,14 @@ bieżący folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210518T170437Z" creationid="monika" creationdate="20210518T170437Z">
+        <seg>Kolory są wyświetlane tak długo, jak zaznaczona jest opcja &lt;l1&gt;&lt;g2&gt;Zapisz status "przetłumaczone automatycznie"&lt;/g2&gt;&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="pl" changeid="wciecierska" changedate="20210330T171036Z" creationid="wciecierska" creationdate="20210330T171036Z">
