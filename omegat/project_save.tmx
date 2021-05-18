@@ -5221,6 +5221,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For technical details, see the &lt;u3&gt;Request For Enhancement&lt;/u3&gt;.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210518T171348Z" creationid="monika" creationdate="20210518T171348Z">
+        <seg>Szczegóły techniczne można znaleźć w tym miejscu: &lt;u3&gt;Request For Enhancement&lt;/u3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Format:</seg>
       </tuv>
       <tuv lang="pl" changeid="jnnas10" changedate="20210406T134050Z" creationid="jnnas10" creationdate="20210406T134050Z">
@@ -8478,6 +8486,14 @@ określony projekt zespołowy
       </tuv>
       <tuv lang="pl" changeid="Aleksandra" changedate="20210330T150515Z" creationid="Aleksandra" creationdate="20210330T150449Z">
         <seg>Inne wkłady zostały wyszczególnione w pliku o nazwie readme.txt file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other translations, identified specifically in the TMX, can be displayed using different colours.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210518T170820Z" creationid="monika" creationdate="20210518T170820Z">
+        <seg>Inne tłumaczenia, określone szczegółowo w pliku TMX, mogą zostać wyświetlone przy użyciu różnych kolorów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12949,8 +12965,8 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       <tuv lang="en">
         <seg>Usual translations inserted from the auto folder are displayed in orange.</seg>
       </tuv>
-      <tuv lang="pl" changeid="monika" changedate="20210518T170628Z" creationid="monika" creationdate="20210518T170628Z">
-        <seg>Zwykłe tłumaczenia wstawiane z folderu "auto" zostaną wyświetlone w kolorze pomarańczowymUsual translations inserted from the auto folder are displayed in orange.</seg>
+      <tuv lang="pl" changeid="monika" changedate="20210518T170646Z" creationid="monika" creationdate="20210518T170628Z">
+        <seg>Zwykłe tłumaczenia wstawione z folderu "auto" zostaną wyświetlone w kolorze pomarańczowym.</seg>
       </tuv>
     </tu>
     <tu>
