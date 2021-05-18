@@ -1785,6 +1785,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aggressive Font Fallback</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210518T171404Z" creationid="monika" creationdate="20210518T171404Z">
+        <seg>Wymuszona zmiana czcionki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Algorithm:</seg>
       </tuv>
       <tuv lang="pl" changeid="AgatoZiemniak" changedate="20210322T174242Z" creationid="AgatoZiemniak" creationdate="20210322T174242Z">
@@ -2669,6 +2677,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="pl" changeid="Wojciech" changedate="20210415T100200Z" creationid="Wojciech" creationdate="20210415T095948Z">
         <seg>Aktywuj opcję &lt;g0&gt;Fuzzy Matching dla notatek słownikowych&lt;/g0&gt;  jeśli słowniki mają pokazywać słowa, które mają to samo pochodzenie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check this option in case &lt;a0&gt;OmegaT&lt;/a0&gt; does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210518T171609Z" creationid="monika" creationdate="20210518T171609Z">
+        <seg>Opcję tę należy zaznaczyć, jeśli program &lt;a0&gt;OmegaT&lt;/a0&gt; nie wyświetla prawidłowo niektórych glifów (nawet, jeśli czcionki zawierające dane glify są zainstalowane na używanym sprzęcie).</seg>
       </tuv>
     </tu>
     <tu>
