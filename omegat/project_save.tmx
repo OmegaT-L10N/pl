@@ -8008,8 +8008,8 @@ Lost to paradise</seg>
       <tuv lang="en">
         <seg>Note: on Windows it seems that this manual font fallback mechanism can interfere with standard font fallback, causing undesirable font substitution.</seg>
       </tuv>
-      <tuv lang="pl" changeid="monika" changedate="20210518T171847Z" creationid="monika" creationdate="20210518T171847Z">
-        <seg>Wskazówka: w systemie Windows ten ręczny mechanizm wymuszenia zmiany czcionki może kolidować ze standardową zmianą czcionkion Windows it seems that this manual font fallback mechanism can interfere with standard font fallback, causing undesirable font substitution.</seg>
+      <tuv lang="pl" changeid="monika" changedate="20210518T172153Z" creationid="monika" creationdate="20210518T171847Z">
+        <seg>Wskazówka: w systemie Windows ten ręczny mechanizm zmiany czcionki może kolidować ze standardową zmianą, co powoduje niepożądaną zamianę czcionek.</seg>
       </tuv>
     </tu>
     <tu>
