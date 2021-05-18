@@ -5245,6 +5245,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For that reason, it is OFF by default.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210518T172216Z" creationid="monika" creationdate="20210518T172216Z">
+        <seg>Z tego powodu opcja ta jest domyślnie wyłączona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Format:</seg>
       </tuv>
       <tuv lang="pl" changeid="jnnas10" changedate="20210406T134050Z" creationid="jnnas10" creationdate="20210406T134050Z">
@@ -7364,6 +7372,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Zaręba" changedate="20210331T121117Z" creationid="Anna Zaręba" creationdate="20210331T121117Z">
         <seg>ID modelu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modification Info</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210518T172240Z" creationid="monika" creationdate="20210518T172240Z">
+        <seg>Informacja o modyfikacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -10647,6 +10663,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="pl" changeid="studentka" changedate="20210407T074736Z" creationid="studentka" creationdate="20210407T074736Z">
         <seg>Zestawy zasad segmentacji:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting the Display Modification option to &lt;g0&gt;Current segment&lt;/g0&gt; will display the time and the author of the last change in the current segment.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="monika" changedate="20210518T172703Z" creationid="monika" creationdate="20210518T172703Z">
+        <seg>Ustawienie opcji modyfikacji wyświetlania &lt;g0&gt;Pokaż tylko dla aktywnego segmentu&lt;/g0&gt; sprawi, że wyświetlany będzie czas i autor ostatniej zmiany dokonanej w aktywnym segmencie.</seg>
       </tuv>
     </tu>
     <tu>
