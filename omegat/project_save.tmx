@@ -1196,6 +1196,14 @@ Aby dodać pliki do projektu, kliknij przycisk Kopiuj pliki do foldera źródło
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(external search commands)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T120722Z" creationid="paulina" creationdate="20210519T120722Z">
+        <seg>(komendy wyszukiwania zewnętrznego)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>+{0} more</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163730Z" creationid="magdaradka" creationdate="20210323T163730Z">
@@ -13619,6 +13627,14 @@ na utworzenie folderu konfiguracyjnego.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>clicking a column header changes the sort order for the column,</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T120837Z" creationid="paulina" creationdate="20210519T120837Z">
+        <seg>kliknięcie nagłówka kolumny powoduje zmianę kolejności sortowania dla danej kolumny,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>close the project</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T185352Z" creationid="Aleksandra" creationdate="20210327T185352Z">
@@ -13794,6 +13810,14 @@ na utworzenie folderu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T185522Z" creationid="Aleksandra" creationdate="20210327T185522Z">
         <seg>wybierz tę kopię pamięci tłumaczeniowej, która najprawdopodobniej zawiera dane, jakich szukasz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>selecting or moving the mouse over a row displays a pop-up menu icon in the last column containing actions for correcting or ignoring the error.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T121013Z" creationid="paulina" creationdate="20210519T121013Z">
+        <seg>wybranie lub przesunięcie myszki nad wiersz powoduje wyświetlenie ikony menu podręcznego w ostatniej kolumnie, zawierającego czynności umożliwiające poprawienie lub zignorowanie błędu.</seg>
       </tuv>
     </tu>
     <tu>
