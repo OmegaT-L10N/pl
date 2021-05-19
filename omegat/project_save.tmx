@@ -10694,6 +10694,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Select the two files to be aligned (the source file and its translation) and click OK to open the &lt;l0&gt;&lt;g1&gt;Align&lt;/g1&gt; window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T132954Z" creationid="paulina" creationdate="20210519T132954Z">
+        <seg>Zaznacz dwa pliki do połączenia (plik źródłowy i jego tłumaczenie) i kliknij OK, aby otworzyć okno &lt;l0&gt;&lt;g1&gt;Połącz/g1&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>What is the "engine"? Why is it translated as "Sprache" in German?
 </note>
       <tuv lang="EN">
@@ -12042,6 +12050,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T125348Z" creationid="magda" creationdate="20210325T125348Z">
         <seg>Ten konkretny projekt jest w dziełem zespołowym w stylu OmegaT 3.6. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The supported file formats are those listed in &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;File Filters&lt;/g3&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T134732Z" creationid="paulina" creationdate="20210519T134732Z">
+        <seg>The supported file formats are those listed in &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;File Filters&lt;/g3&gt; &lt;/m0&gt;.Obsługiwane formaty plików są wymienione w &lt;m0&gt; &lt;g1&gt;Projekt&lt;/g1&gt; &lt;g2&gt;Właściwości&lt;/g2&gt; &lt;g3&gt;Filtry plików&lt;/g3&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
