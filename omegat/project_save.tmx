@@ -2168,6 +2168,14 @@ co może skutkować nieoczekiwanym, ale prawidłowym działaniem.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T121139Z" creationid="paulina" creationdate="20210519T121139Z">
+        <seg>Jak wyżej, ale tylko dla dokumentu aktualnie wyświetlanego w oknie edytora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
       <tuv lang="PL" changeid="studentka" changedate="20210407T082736Z" creationid="AgataWojtera" creationdate="20210317T174601Z">
@@ -2670,6 +2678,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T141031Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T141031Z">
         <seg>Sprawdź &amp;zwykłe zmienne printf (np. %s, %d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Issues for Current Document</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T121107Z" creationid="paulina" creationdate="20210519T121107Z">
+        <seg>Sprawdź problemy dla bieżącego dokumentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3830,6 +3846,14 @@ i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210514T104423Z" creationid="AgatoZiemniak" creationdate="20210514T104423Z">
         <seg>Wyświetla informacje o prawach autorskich, kredytach i licencji...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T121301Z" creationid="paulina" creationdate="20210519T121301Z">
+        <seg>Wyświetla statystyki dopasowania dla projektu: liczbę powtórzeń, dokładnych dopasowań, rozmytych dopasowań i braku dopasowań dla segmentów, słów i znaków.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8494,6 +8518,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T132529Z" creationid="paulina" creationdate="20210320T132529Z">
         <seg>Otwarcie projektu zespołowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens a new window and displays the project statistics, i.e. the project totals and totals for every file in the project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T121219Z" creationid="paulina" creationdate="20210519T121219Z">
+        <seg>Otwiera nowe okno i wyświetla statystyki projektu, tj. sumy projektu i sumy dla każdego pliku w projekcie.</seg>
       </tuv>
     </tu>
     <tu>
