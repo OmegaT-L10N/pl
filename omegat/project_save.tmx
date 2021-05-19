@@ -1455,6 +1455,30 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T120344Z" creationid="paulina" creationdate="20210519T120344Z">
+        <seg>&lt;g0&gt;Problemy z narzędziem języka &lt;/g0&gt; (optional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T120225Z" creationid="paulina" creationdate="20210519T120225Z">
+        <seg>&lt;g0&gt;Problemy z poprawną piwosnią&lt;/g0&gt; (optional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T120321Z" creationid="paulina" creationdate="20210519T120321Z">
+        <seg>&lt;g0&gt;Problemy z terminologią&lt;/g0&gt; (optional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="Wojciech" changedate="20210414T160113Z" creationid="Wojciech" creationdate="20210414T160113Z">
@@ -8330,6 +8354,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only works if a spelling dictionary is installed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T120300Z" creationid="paulina" creationdate="20210519T120300Z">
+        <seg>Działa tylko wtedy, gdy zainstalowany jest słownik ortograficzny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open MED Project...</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T114552Z" creationid="annagorska" creationdate="20210331T114552Z">
@@ -11627,6 +11659,14 @@ current folder will be used instead.</seg>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210413T142830Z" creationid="beataporodzynska" creationdate="20210329T152759Z">
         <seg>Zamiast tego zostanie użyty
 bieżący folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;g1&gt;Tag Issues&lt;/g1&gt; option is always selected.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T120206Z" creationid="paulina" creationdate="20210519T120206Z">
+        <seg>Problemy &lt;g1&gt;z tagowaniem&lt;/g1&gt; opcja jest zawsze aktywna.</seg>
       </tuv>
     </tu>
     <tu>
