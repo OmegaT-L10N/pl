@@ -1841,6 +1841,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align Files...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T120559Z" creationid="paulina" creationdate="20210519T120559Z">
+        <seg>Dopasuj pliki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T114119Z" creationid="Agata Kaczmarska" creationdate="20210326T004523Z">
@@ -10183,6 +10191,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scripting...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T120619Z" creationid="paulina" creationdate="20210519T120619Z">
+        <seg>Tworzenie skryptów...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scripts Folder:</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003124Z" creationid="Agata Kaczmarska" creationdate="20210326T003124Z">
@@ -11882,6 +11898,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T125751Z" creationid="magda" creationdate="20210325T125751Z">
         <seg>Projekt zostanie załadowany jako projekt lokalny bez udziału zespołu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The results window is laid out in the form of a table in which:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T120413Z" creationid="paulina" creationdate="20210519T120413Z">
+        <seg>Okno wyników ułożone jest w formie tabeli, w której:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13612,6 +13636,14 @@ na utworzenie folderu konfiguracyjnego.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>double-clicking a row activates the corresponding segment in the Editor pane,</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T120456Z" creationid="paulina" creationdate="20210519T120456Z">
+        <seg>dwukrotne kliknięcie na wiersz aktywuje odpowiedni segment w oknie edycyjnym,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>en</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210329T170737Z" creationid="Aleksandra" creationdate="20210329T170737Z">
@@ -13722,6 +13754,14 @@ na utworzenie folderu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210519T120123Z" creationid="paulina" creationdate="20210519T120123Z">
         <seg>brakujące lub przestawione tagi, w tym &lt;l0&gt;niestandardowe tagi&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>n - (script name)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T120640Z" creationid="paulina" creationdate="20210519T120640Z">
+        <seg>n - (nazwa skryptu)</seg>
       </tuv>
     </tu>
     <tu>
