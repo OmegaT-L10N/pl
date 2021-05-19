@@ -2176,6 +2176,14 @@ co może skutkować nieoczekiwanym, ale prawidłowym działaniem.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the bottom of the window, right-click on a free number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T135429Z" creationid="paulina" creationdate="20210519T135429Z">
+        <seg>W dolnej części okna kliknij prawym przyciskiem myszy na wolny numer i wybierz &lt;g0&gt;Dodaj skryptt&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
       <tuv lang="PL" changeid="studentka" changedate="20210407T082736Z" creationid="AgataWojtera" creationdate="20210317T174601Z">
