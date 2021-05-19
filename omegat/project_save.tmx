@@ -5285,6 +5285,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Four types of issues are detected:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T115839Z" creationid="paulina" creationdate="20210519T115839Z">
+        <seg>Wykrywane są cztery rodzaje problemów:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>French</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141932Z" creationid="AgataWojtera" creationdate="20210323T141932Z">
@@ -13666,6 +13674,14 @@ na utworzenie folderu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150953Z" creationid="Aleksandra" creationdate="20210330T150953Z">
         <seg>mALIGNa (licencja MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>missing or displaced tags, including &lt;l0&gt;custom tags&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T120123Z" creationid="paulina" creationdate="20210519T120123Z">
+        <seg>brakujące lub przestawione tagi, w tym &lt;l0&gt;niestandardowe tagi&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
