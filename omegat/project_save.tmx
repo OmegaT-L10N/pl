@@ -8498,6 +8498,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the Scripting window</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T122139Z" creationid="paulina" creationdate="20210519T122139Z">
+        <seg>Otwórz okno skryptów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open {0} Source Files</seg>
       </tuv>
       <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T150707Z" creationid="cezarykotowicz" creationdate="20210403T150707Z">
@@ -10662,6 +10670,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Select the script you want from the list on the left</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T122056Z" creationid="paulina" creationdate="20210519T122056Z">
+        <seg>Wybierz żądany skrypt z listy po lewej stronie.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>What is the "engine"? Why is it translated as "Sprache" in German?
 </note>
       <tuv lang="EN">
@@ -12275,6 +12291,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142551Z" creationid="AgataWojtera" creationdate="20210323T142551Z">
         <seg>Na przykład zasady segmentacji dla francuskiego kanadyjskiego (FR-CA) będą wyżej niż zasady dla francuskiego (FR.*) i wyżej niż zasady domyślne (.*). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To associate a script with a number:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T122225Z" creationid="paulina" creationdate="20210519T122225Z">
+        <seg>Aby powiązać skrypt z numerem:</seg>
       </tuv>
     </tu>
     <tu>
