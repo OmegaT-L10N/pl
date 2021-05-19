@@ -8578,6 +8578,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T134932Z" creationid="paulina" creationdate="20210519T134932Z">
+        <seg>Otwiera okno &lt;l0&gt;&lt;g1&gt;Skryptowanie&lt;/g1&gt;&lt;/l0&gt;, w którym można ustawić lokalizację skryptów, a także pisać skrypty, uruchamiać je i łączyć z nimi skróty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens the &lt;l0&gt;Project files&lt;/l0&gt; window.</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210517T214156Z" creationid="magda" creationdate="20210517T214156Z">
@@ -12014,6 +12022,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The source and target files can have different formats (for example, a &lt;f0&gt;.docx&lt;/f0&gt; file can be aligned with a &lt;f1&gt;.pdf&lt;/f1&gt; file).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T134843Z" creationid="paulina" creationdate="20210519T134843Z">
+        <seg>Pliki źródłowe i docelowe mogą mieć różne formaty (np. plik &lt;f0&gt;.docx&lt;/f0&gt; może być wyrównany z plikiem &lt;f1&gt;.pdf&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="PL" changeid="Anasti-M" changedate="20210414T121758Z" creationid="Anasti-M" creationdate="20210414T121758Z">
@@ -12056,8 +12072,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The supported file formats are those listed in &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;File Filters&lt;/g3&gt; &lt;/m0&gt;.</seg>
       </tuv>
-      <tuv lang="PL" changeid="paulina" changedate="20210519T134732Z" creationid="paulina" creationdate="20210519T134732Z">
-        <seg>The supported file formats are those listed in &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;File Filters&lt;/g3&gt; &lt;/m0&gt;.Obsługiwane formaty plików są wymienione w &lt;m0&gt; &lt;g1&gt;Projekt&lt;/g1&gt; &lt;g2&gt;Właściwości&lt;/g2&gt; &lt;g3&gt;Filtry plików&lt;/g3&gt; &lt;/m0&gt;.</seg>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T134753Z" creationid="paulina" creationdate="20210519T134732Z">
+        <seg>Obsługiwane formaty plików są wymienione w &lt;m0&gt; &lt;g1&gt;Projekt&lt;/g1&gt; &lt;g2&gt;Właściwości&lt;/g2&gt; &lt;g3&gt;Filtry plików&lt;/g3&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
