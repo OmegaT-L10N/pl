@@ -6896,6 +6896,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launches scripts that have been associated with a number.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T122257Z" creationid="paulina" creationdate="20210519T122257Z">
+        <seg>Uruchamia skrypty, które zostały skojarzone z numerem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>List View</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T212016Z" creationid="magdalenaklocek" creationdate="20210322T212016Z">
