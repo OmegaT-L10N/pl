@@ -3850,6 +3850,14 @@ i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T121944Z" creationid="paulina" creationdate="20210519T121944Z">
+        <seg>Wyświetla statystyki dopasowania dla każdego pliku projektu: liczbę powtórzeń, dokładnych dopasowań, rozmytych dopasowań i braku dopasowań dla segmentów, słów i znaków.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210519T121301Z" creationid="paulina" creationdate="20210519T121301Z">
