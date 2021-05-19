@@ -6024,6 +6024,14 @@ nie ma...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If commands to perform external searches have been defined in the &lt;l0&gt;Preferences&lt;/l0&gt;, they are listed and accessible here.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="paulina" changedate="20210519T132648Z" creationid="paulina" creationdate="20210519T132648Z">
+        <seg>Jeśli polecenia do wykonania wyszukiwań zewnętrznych zostały zdefiniowane &lt;l0&gt;w preferencjach&lt;/l0&gt;, są one tutaj wymienione i dostępne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If invoked in a git working tree or svn checkout, the results
 		will be staged/added.</seg>
       </tuv>
