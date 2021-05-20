@@ -6207,6 +6207,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you check the corresponding checkbox, the &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; file is modified to use the language selected (see next section for details).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T201154Z" creationid="Agata Kaczmarska" creationdate="20210520T201154Z">
+        <seg>Jeśli zaznaczysz odpowiednie pole wyboru, plik &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; zostanie zmodyfikowany w celu użycia wybranego języka (szczegóły w następnej sekcji).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you haven't yet saved the project, this manually confirms whether you really wish to quit.</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210517T214744Z" creationid="magda" creationdate="20210517T214744Z">
@@ -6283,6 +6291,14 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T121408Z" creationid="annap" creationdate="20210331T121408Z">
         <seg>W oryginale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the following window you can indicate that the language selected is to be used in OmegaT.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T201037Z" creationid="Agata Kaczmarska" creationdate="20210520T201037Z">
+        <seg>W poniższym oknie można wskazać, że wybrany język ma być używany w programie OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
