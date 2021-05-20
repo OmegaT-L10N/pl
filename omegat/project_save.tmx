@@ -12142,6 +12142,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The options for the program start-up in this case will be read from the &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T202059Z" creationid="Agata Kaczmarska" creationdate="20210520T202059Z">
+        <seg>Opcje uruchamiania programu w tym przypadku zostaną odczytane z pliku &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; , który znajduje się w tym samym folderze co plik exe i który możesz edytować, aby dostosować swoją konfigurację.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The password cannot be empty.</seg>
       </tuv>
       <tuv lang="PL" changeid="Wojciech" changedate="20210414T163233Z" creationid="Wojciech" creationdate="20210414T163233Z">
@@ -12226,6 +12234,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210331T120723Z" creationid="Anna Zaręba" creationdate="20210331T120723Z">
         <seg>Serwer nie jest prawidłowym serwerem Apertium.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The simplest way to launch OmegaT, however, is to execute the &lt;f0&gt;OmegaT.exe&lt;/f0&gt; program.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T201957Z" creationid="Agata Kaczmarska" creationdate="20210520T201957Z">
+        <seg>Najprostszym sposobem na uruchomienie programu OmegaT jest jednak skorzystanie z programu &lt;f0&gt;OmegaT.exe&lt;/f0&gt; .</seg>
       </tuv>
     </tu>
     <tu>
