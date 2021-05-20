@@ -1857,6 +1857,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus (KDE) or panels (Gnome)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T204811Z" creationid="Agata Kaczmarska" creationdate="20210520T204811Z">
+        <seg>Dodawanie &lt;a0&gt;OmegaT&lt;/a0&gt; do menu (KDE) lub paneli (Gnome)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advice: if OmegaT works slowly in Remote Desktop sessions under Windows, you may use this option:</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T202235Z" creationid="Agata Kaczmarska" creationdate="20210520T202235Z">
@@ -12707,6 +12715,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T183054Z" creationid="monika" creationdate="20210327T183054Z">
         <seg>Tym projekcie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will create an &lt;f0&gt;omegat/&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T204637Z" creationid="Agata Kaczmarska" creationdate="20210520T204637Z">
+        <seg>Zostanie utworzony folder &lt;f0&gt;omegat/&lt;/f0&gt; folder w folderze roboczym, w którym znajdziesz wszystkie pliki potrzebne do uruchomienia &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
