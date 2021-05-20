@@ -6103,6 +6103,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the current segment is the first one in a file, it moves to the last segment of the previous file.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T175650Z" creationid="beataporodzynska" creationdate="20210520T175650Z">
+        <seg>Jeis the first one in a file, it moves to the last segment of the previous file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the current segment is the last segment in a file, it moves to the first segment of the next file.</seg>
       </tuv>
       <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T174458Z" creationid="beataporodzynska" creationdate="20210520T174458Z">
