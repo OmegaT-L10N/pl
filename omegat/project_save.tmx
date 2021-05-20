@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT " o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_9b014bf3" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT " o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6103,6 +6103,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the current segment is the last segment in a file, it moves to the first segment of the next file.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T174458Z" creationid="beataporodzynska" creationdate="20210520T174458Z">
+        <seg>Jeżeli bieżący segment jest ostatnim segmentem w pliku, to przechodzi do pierwszego segmentu następnego pliku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the documents are not available, the entry is greyed out.</seg>
       </tuv>
       <tuv lang="pl" changeid="magda" changedate="20210517T214606Z" creationid="magda" creationdate="20210517T214547Z">
@@ -8114,6 +8122,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="pl" changeid="Paula" changedate="20210329T180250Z" creationid="Paula" creationdate="20210329T180250Z">
         <seg>Uwaga: Oprócz dostępu do słowników "źródło-cel", korzystając z funkcji Słownik można uzyskać dostęp do informacji takich jak:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: &lt;k0&gt;Enter&lt;/k0&gt; is an alternate shortcut if &lt;l1&gt;Use TAB to Advance&lt;/l1&gt; option is not selected.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T175308Z" creationid="beataporodzynska" creationdate="20210520T175308Z">
+        <seg>Uwaga: &lt;k0&gt;Enter&lt;/k0&gt;może być używany jako alternatywny skrót klawiaturowy jeśli opcja &lt;l1&gt;Naciśnij TAB, aby przejść dalej&lt;/l1&gt; nie została aktywowana.</seg>
       </tuv>
     </tu>
     <tu>
