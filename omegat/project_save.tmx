@@ -2825,6 +2825,14 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Checks to see whether a more recent version of &lt;a0&gt;OmegaT&lt;/a0&gt; has been released.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210520T203956Z" creationid="AgatoZiemniak" creationdate="20210520T203956Z">
+        <seg>Sprawdza dostępność nowych aktualizacji programu &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chinese</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142003Z" creationid="AgataWojtera" creationdate="20210323T142003Z">
