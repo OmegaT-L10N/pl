@@ -6833,6 +6833,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>KDE 4 Users</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T204824Z" creationid="Agata Kaczmarska" creationdate="20210520T204824Z">
+        <seg>Użytkownicy KDE 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174721Z" creationid="AgatoZiemniak" creationdate="20210322T174721Z">
@@ -14043,6 +14051,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210331T123344Z" creationid="Kasia Mędrzycka" creationdate="20210331T123344Z">
         <seg>Odinstalowujesz słownik sprawdzania pisowni, którego twój projekt aktualnie używa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus as follows:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T204849Z" creationid="Agata Kaczmarska" creationdate="20210520T204849Z">
+        <seg>Możesz dodać &lt;a0&gt;OmegaT&lt;/a0&gt; do swoich menu w następujący sposób:</seg>
       </tuv>
     </tu>
     <tu>
