@@ -11983,6 +11983,14 @@ bieżący folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T203053Z" creationid="Agata Kaczmarska" creationdate="20210520T203053Z">
+        <seg>"Stara" wersja programu OmegaT zostanie nadpisana, ale wszystkie ustawienia z niej zostaną zachowane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;g1&gt;Tag Issues&lt;/g1&gt; option is always selected.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210519T120206Z" creationid="paulina" creationdate="20210519T120206Z">
