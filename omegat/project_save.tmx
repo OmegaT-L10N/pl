@@ -1471,6 +1471,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Install to a new folder.&lt;/e0&gt; This will enable you to keep both versions side-by-side, which you may wish to do until you feel comfortable with the new version.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T203606Z" creationid="Agata Kaczmarska" creationdate="20210520T203606Z">
+        <seg>&lt;e0&gt;Instalacja w nowym folderze.&lt;/e0&gt; Pozwoli to na zachowanie obu wersji obok siebie, co warto zrobić do czasu, aż poczujesz się komfortowo z nową wersją.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows.exe&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T195323Z" creationid="Agata Kaczmarska" creationdate="20210520T195323Z">
@@ -13787,6 +13795,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210520T183131Z" creationid="beataporodzynska" creationdate="20210520T183110Z">
         <seg>To polecenie umożliwia przejście do segmentu, który został poprzednio opuszczony, za pomocą polecenia&lt;g1&gt;Wstecz...&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With this method, you may also download the "Windows without JRE" version, since the new installation will use your existing JRE.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T203351Z" creationid="Agata Kaczmarska" creationdate="20210520T203351Z">
+        <seg>Przy tej metodzie można również pobrać wersję "Windows bez JRE", ponieważ nowa instalacja będzie wykorzystywać istniejące JRE..</seg>
       </tuv>
     </tu>
     <tu>
