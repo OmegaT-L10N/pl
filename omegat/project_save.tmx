@@ -6113,8 +6113,8 @@ powrócą do wartości domyślnych.</seg>
       <tuv lang="en">
         <seg>If the current segment is the last segment in a file, it moves to the first segment of the next file.</seg>
       </tuv>
-      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T175942Z" creationid="beataporodzynska" creationdate="20210520T174458Z">
-        <seg>Jeżeli bieżący segment jest ostatnim segmentem w pliku, to przechodzi do pierwszego segmentu następnego pliku.</seg>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T180211Z" creationid="beataporodzynska" creationdate="20210520T174458Z">
+        <seg>Jeżeli bieżący segment jest ostatnim segmentem w pliku, to przechodzi on do pierwszego segmentu następnego pliku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8130,6 +8130,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="pl" changeid="Paula" changedate="20210329T180250Z" creationid="Paula" creationdate="20210329T180250Z">
         <seg>Uwaga: Oprócz dostępu do słowników "źródło-cel", korzystając z funkcji Słownik można uzyskać dostęp do informacji takich jak:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; is an alternate shortcut if &lt;l3&gt;Use TAB to Advance&lt;/l3&gt; option is not selected.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T180307Z" creationid="beataporodzynska" creationdate="20210520T180307Z">
+        <seg>Uwaga: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt;może być używany jako alternatywny skrót klawiaturowy jeśli opcja&lt;l3&gt;Naciśnij TAB, aby przejść dalej&lt;/l3&gt; option is not selected.</seg>
       </tuv>
     </tu>
     <tu>
