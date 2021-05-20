@@ -7716,8 +7716,8 @@ Lost to paradise</seg>
       <tuv lang="en">
         <seg>Moves to the segment that does correspond to the current selected match in the &lt;g0&gt;Fuzzy matches&lt;/g0&gt; pane.</seg>
       </tuv>
-      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T185704Z" creationid="beataporodzynska" creationdate="20210520T185704Z">
-        <seg>Pzechodzi that does correspond to the current selected match in the &lt;g0&gt;Fuzzy matches&lt;/g0&gt; pane.</seg>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T191936Z" creationid="beataporodzynska" creationdate="20210520T185704Z">
+        <seg>Pzechodzi do segmentu odpowiadającego aktualnie wybranemu dopasowaniu w obszarze&lt;g0&gt;Dopasowywanie rozmyte&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
