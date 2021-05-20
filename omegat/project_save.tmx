@@ -2192,6 +2192,14 @@ co może skutkować nieoczekiwanym, ale prawidłowym działaniem.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the beginning of the installation you can select the language to be used during the installation.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T200946Z" creationid="Agata Kaczmarska" creationdate="20210520T200946Z">
+        <seg>Na początku instalacji możesz wybrać język, który będzie używany podczas instalacji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the bottom of the window, right-click on a free number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210519T135429Z" creationid="paulina" creationdate="20210519T135429Z">
@@ -6427,6 +6435,14 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T183823Z" creationid="monika" creationdate="20210327T183823Z">
         <seg>Zainstalowane wtyczki:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing OmegaT</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T200619Z" creationid="Agata Kaczmarska" creationdate="20210520T200619Z">
+        <seg>Instalacja OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -12341,6 +12357,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This JRE will not interfere with other Java implementations that may already be installed on your system.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T200614Z" creationid="Agata Kaczmarska" creationdate="20210520T200614Z">
+        <seg>Ten JRE nie będzie kolidował z innymi wersjami Java, które mogą być już zainstalowane w systemie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This TM gradually becomes filled during the translation.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T191027Z" creationid="Aleksandra" creationdate="20210327T191027Z">
@@ -12515,6 +12539,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210317T174746Z" creationid="AgataWojtera" creationdate="20210317T174746Z">
         <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, double-click on the program you have downloaded.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T200737Z" creationid="Agata Kaczmarska" creationdate="20210520T200737Z">
+        <seg>Aby zainstalować &lt;a0&gt;OmegaT&lt;/a0&gt;, kliknij dwukrotnie na pobrany program.</seg>
       </tuv>
     </tu>
     <tu>
