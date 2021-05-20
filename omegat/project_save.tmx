@@ -7714,6 +7714,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moves to the segment that does correspond to the current selected match in the &lt;g0&gt;Fuzzy matches&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T185704Z" creationid="beataporodzynska" creationdate="20210520T185704Z">
+        <seg>Pzechodzi that does correspond to the current selected match in the &lt;g0&gt;Fuzzy matches&lt;/g0&gt; pane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mozilla DTD</seg>
       </tuv>
       <tuv lang="pl" changeid="jnnas10" changedate="20210406T125956Z" creationid="jnnas10" creationdate="20210406T125956Z">
@@ -12056,8 +12064,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="en">
         <seg>The previous segment with a note will open.</seg>
       </tuv>
-      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T185218Z" creationid="beataporodzynska" creationdate="20210520T185218Z">
-        <seg>Przechodzi do poprzedniego segmentu, który jest opatrzony adnotacją.</seg>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T185432Z" creationid="beataporodzynska" creationdate="20210520T185218Z">
+        <seg>Przechodzi do poprzedniego segmentu, który jest opatrzony notatką.</seg>
       </tuv>
     </tu>
     <tu>
