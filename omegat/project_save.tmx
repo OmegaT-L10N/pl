@@ -1479,6 +1479,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Linux.tar.bz2&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T204431Z" creationid="Agata Kaczmarska" creationdate="20210520T204431Z">
+        <seg>&lt;e0&gt;Nie / Nie wiem:&lt;/e0&gt; pobierz &lt;f1&gt;OmegaT_4.n.n_Linux.tar.bz2&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows.exe&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T195323Z" creationid="Agata Kaczmarska" creationdate="20210520T195323Z">
@@ -1491,6 +1499,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T195302Z" creationid="Agata Kaczmarska" creationdate="20210520T195302Z">
         <seg>&lt;e0&gt;Tak: &lt;/e0&gt;pobierz &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T204415Z" creationid="Agata Kaczmarska" creationdate="20210520T204415Z">
+        <seg>&lt;e0&gt;Tak: &lt;/e0&gt;pobierz &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4227,6 +4243,14 @@ i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Downloading the right package</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T204342Z" creationid="Agata Kaczmarska" creationdate="20210520T204342Z">
+        <seg>Pobranie odpowiedniego pakietu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dra&amp;wings</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145114Z" creationid="Aleksandra" creationdate="20210330T145114Z">
@@ -6271,6 +6295,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If your existing OmegaT installation is a "Windows with JRE" version, the new version must also be a "Windows with JRE" version.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T204241Z" creationid="Agata Kaczmarska" creationdate="20210520T204241Z">
+        <seg>Jeżeli istniejąca instalacja OmegaT jest w wersji "Windows z JRE", nowa wersja musi być również w wersji "Windows z JRE".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore All</seg>
       </tuv>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210331T122729Z" creationid="Kasia Mędrzycka" creationdate="20210331T122729Z">
@@ -7092,6 +7124,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210519T122257Z" creationid="paulina" creationdate="20210519T122257Z">
         <seg>Uruchamia skrypty, które zostały skojarzone z numerem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linux (Intel) Users</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T204315Z" creationid="Agata Kaczmarska" creationdate="20210520T204315Z">
+        <seg>Użytkownicy systemu Linux (Intel)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12743,6 +12783,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To untar the &lt;f2&gt;.tar.gz&lt;/f2&gt; file:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T204515Z" creationid="Agata Kaczmarska" creationdate="20210520T204515Z">
+        <seg>Aby rozpakować plik &lt;f2&gt;.tar.gz&lt;/f2&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210413T164933Z" creationid="AgatoZiemniak" creationdate="20210322T173614Z">
@@ -13335,6 +13383,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210406T122423Z" creationid="jnnas10" creationdate="20210406T112154Z">
         <seg>Nieznane rozszerzenie '{0}' w '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unpack/untar the downloaded file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T204450Z" creationid="Agata Kaczmarska" creationdate="20210520T204450Z">
+        <seg>Rozpakuj pobrany plik.</seg>
       </tuv>
     </tu>
     <tu>
