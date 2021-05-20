@@ -7892,8 +7892,8 @@ Lost to paradise</seg>
       <tuv lang="en">
         <seg>Next Note</seg>
       </tuv>
-      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T181024Z" creationid="beataporodzynska" creationdate="20210520T181024Z">
-        <seg>Kolejna uwaga</seg>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T185228Z" creationid="beataporodzynska" creationdate="20210520T181024Z">
+        <seg>Kolejna notatka</seg>
       </tuv>
     </tu>
     <tu>
@@ -9231,6 +9231,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="pl" changeid="annagorska" changedate="20210331T115928Z" creationid="annagorska" creationdate="20210331T115928Z">
         <seg>Poprzednia notatka </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Previous Note</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T185238Z" creationid="beataporodzynska" creationdate="20210520T185238Z">
+        <seg>Poprzednia notatka</seg>
       </tuv>
     </tu>
     <tu>
@@ -12010,6 +12018,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="pl" changeid="Anasti-M" changedate="20210414T121853Z" creationid="Anasti-M" creationdate="20210414T121853Z">
         <seg>Kod języka powinien mieć postać xx-YY, xxx-YY, xx_YY lub xxx_YY, gdzie xx lub xxx jest kodem języka, a YY jest kodem regionu lub kraju (opcjonalnie)..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The next segment with a note attached to it, will open.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T185423Z" creationid="beataporodzynska" creationdate="20210520T185423Z">
+        <seg>Przechodzi do następnego segmentu, który opatrzony jest notatką.</seg>
       </tuv>
     </tu>
     <tu>
