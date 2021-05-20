@@ -1825,6 +1825,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Advice: if OmegaT works slowly in Remote Desktop sessions under Windows, you may use this option:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T202235Z" creationid="Agata Kaczmarska" creationdate="20210520T202235Z">
+        <seg>Porada: jeśli OmegaT działa wolno w sesjach Remote Desktop w Windows, można skorzystać z tej opcji:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T182657Z" creationid="monika" creationdate="20210327T182657Z">
@@ -6579,6 +6587,14 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="PL" changeid="Wojciech" changedate="20210414T142928Z" creationid="Wojciech" creationdate="20210414T142928Z">
         <seg>Problemy w  {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It does not apply to the Web Start versions, which are upgraded automatically, nor to cross-platform versions installed on Windows.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T202553Z" creationid="Agata Kaczmarska" creationdate="20210520T202553Z">
+        <seg>Nie dotyczy to wersji Web Start, które są aktualizowane automatycznie, ani wersji międzyplatformowych instalowanych w systemie Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12090,6 +12106,14 @@ bieżący folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following example for the INI file reserves 1 GB of memory, requests French as the user language and Canada as the country:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T202135Z" creationid="Agata Kaczmarska" creationdate="20210520T202135Z">
+        <seg>Poniższy przykład dla pliku INI rezerwuje 1 GB pamięci, wymaga języka francuskiego jako języka użytkownika i Kanady jako kraju:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T180921Z" creationid="Paula" creationdate="20210329T180921Z">
@@ -12474,6 +12498,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210517T213346Z" creationid="magda" creationdate="20210517T213346Z">
         <seg>Ta fukcja dotyczy projektów zespołowych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This information applies only to the "Traditional" Windows versions of OmegaT.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T202318Z" creationid="Agata Kaczmarska" creationdate="20210520T202318Z">
+        <seg>Niniejsze informacje dotyczą wyłącznie "tradycyjnych" wersji programu OmegaT dla systemu Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13303,6 +13335,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210401T091022Z" creationid="AgatoZiemniak" creationdate="20210401T091022Z">
         <seg>Aktualizacje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Upgrading OmegaT</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T202251Z" creationid="Agata Kaczmarska" creationdate="20210520T202251Z">
+        <seg>Aktualizacja programu OmegaT</seg>
       </tuv>
     </tu>
     <tu>
