@@ -4005,8 +4005,8 @@ i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
       <tuv lang="EN">
         <seg>Do you have a Java implementation compatible with Oracle's Java 8 JRE?</seg>
       </tuv>
-      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T195249Z" creationid="Agata Kaczmarska" creationdate="20210520T195249Z">
-        <seg>Czy posiadasz wersję programu Java kompatybilną z Oracle's Java 8 JRE?</seg>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T195453Z" creationid="Agata Kaczmarska" creationdate="20210520T195249Z">
+        <seg>Czy posiadasz wersję programu Java kompatybilną z Java 8 JRE firmy Oracle?</seg>
       </tuv>
     </tu>
     <tu>
@@ -12442,6 +12442,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210518T165905Z" creationid="monika" creationdate="20210518T165905Z">
         <seg>Ta opcja wskazuje &lt;u0&gt;dwukierunkowe znaki kontrolne&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This package is bundled with Oracle's Java Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T200532Z" creationid="Agata Kaczmarska" creationdate="20210520T200532Z">
+        <seg>Ten pakiet posiada Java Runtime Environment firmy Oracle.</seg>
       </tuv>
     </tu>
     <tu>
