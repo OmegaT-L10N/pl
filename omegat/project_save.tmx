@@ -8562,6 +8562,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly or you can launch it directly from the command line.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T201908Z" creationid="Agata Kaczmarska" creationdate="20210520T201908Z">
+        <seg>Kiedy program &lt;a0&gt;OmegaT&lt;/a0&gt; zostanie zainstalowany, możesz kliknąć &lt;f1&gt;OmegaT.jar&lt;/f1&gt;, aby uruchomić go bezpośrednio lub możesz uruchomić go bezpośrednio z linii poleceń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T135927Z" creationid="AgataWojtera" creationdate="20210323T135927Z">
@@ -10145,6 +10153,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003455Z" creationid="Agata Kaczmarska" creationdate="20210326T003455Z">
         <seg>Otwórz skrypt na slocie #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T201741Z" creationid="Agata Kaczmarska" creationdate="20210520T201741Z">
+        <seg>Uruchamianie &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12106,6 +12122,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="PL" changeid="Anasti-M" changedate="20210414T121853Z" creationid="Anasti-M" creationdate="20210414T121853Z">
         <seg>Kod języka powinien mieć postać xx-YY, xxx-YY, xx_YY lub xxx_YY, gdzie xx lub xxx jest kodem języka, a YY jest kodem regionu lub kraju (opcjonalnie)..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The last frame offers you to have a look at the readme and changes files for the version you have installed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T201731Z" creationid="Agata Kaczmarska" creationdate="20210520T201731Z">
+        <seg>Ostatnia ramka pozwala na przejrzenie plików readme i zmian dla wersji, która została zainstalowana.</seg>
       </tuv>
     </tu>
     <tu>
