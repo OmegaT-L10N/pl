@@ -12038,6 +12038,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The previous segment with a note will open.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T185218Z" creationid="beataporodzynska" creationdate="20210520T185218Z">
+        <seg>Przechodzi do poprzedniego segmentu, który jest opatrzony adnotacją.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project cannot be verified</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Kaczmarska" changedate="20210326T004546Z" creationid="Agata Kaczmarska" creationdate="20210326T004546Z">
