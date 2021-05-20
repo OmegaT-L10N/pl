@@ -12526,6 +12526,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This includes preferences set from within OmegaT, any changes you have made to your &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (&lt;f2&gt;.bat&lt;/f2&gt; file), if you are using one.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T203322Z" creationid="Agata Kaczmarska" creationdate="20210520T203322Z">
+        <seg>Dotyczy to preferencji ustawionych w programie OmegaT, wszelkich zmian wprowadzonych w pliku  &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;  a także skryptu startowego (plik &lt;f2&gt;.bat&lt;/f2&gt; ), jeżeli jest używany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This information applies only to the "Traditional" Windows versions of OmegaT.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T202318Z" creationid="Agata Kaczmarska" creationdate="20210520T202318Z">
