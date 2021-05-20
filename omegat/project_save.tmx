@@ -1463,6 +1463,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T202908Z" creationid="Agata Kaczmarska" creationdate="20210520T202908Z">
+        <seg>&lt;e0&gt;Instalowanie na istniejącej instalacji.&lt;/e0&gt; Aby to zrobić, wystarczy podczas instalacji nowej wersji wybrać ten sam folder instalacyjny, co w istniejącej instalacji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows.exe&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T195323Z" creationid="Agata Kaczmarska" creationdate="20210520T195323Z">
@@ -6195,6 +6203,14 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T190241Z" creationid="Aleksandra" creationdate="20210327T190241Z">
         <seg>Jeśli plik źródłowy został zmieniony po tym, jak już zacząłeś tłumaczenie, możliwe, że &lt;a1&gt;OmegaT&lt;/a1&gt; nie znajdzie tego przetłumaczonego segmentu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T202639Z" creationid="Agata Kaczmarska" creationdate="20210520T202639Z">
+        <seg>Jeżeli na komputerze jest już zainstalowana wersja programu OmegaT i chcesz ją zaktualizować do nowszej wersji, istnieją dwie możliwości:</seg>
       </tuv>
     </tu>
     <tu>
