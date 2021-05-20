@@ -8136,16 +8136,16 @@ Lost to paradise</seg>
       <tuv lang="en">
         <seg>Note: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; is an alternate shortcut if &lt;l3&gt;Use TAB to Advance&lt;/l3&gt; option is not selected.</seg>
       </tuv>
-      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T180307Z" creationid="beataporodzynska" creationdate="20210520T180307Z">
-        <seg>Uwaga: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt;może być używany jako alternatywny skrót klawiaturowy jeśli opcja&lt;l3&gt;Naciśnij TAB, aby przejść dalej&lt;/l3&gt; option is not selected.</seg>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T180328Z" creationid="beataporodzynska" creationdate="20210520T180307Z">
+        <seg>Uwaga: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt;może być używany jako alternatywny skrót klawiaturowy jeśli opcja&lt;l3&gt;Naciśnij TAB, aby przejść dalej&lt;/l3&gt;nie została aktywowana.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Note: &lt;k0&gt;Enter&lt;/k0&gt; is an alternate shortcut if &lt;l1&gt;Use TAB to Advance&lt;/l1&gt; option is not selected.</seg>
       </tuv>
-      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T175308Z" creationid="beataporodzynska" creationdate="20210520T175308Z">
-        <seg>Uwaga: &lt;k0&gt;Enter&lt;/k0&gt;może być używany jako alternatywny skrót klawiaturowy jeśli opcja &lt;l1&gt;Naciśnij TAB, aby przejść dalej&lt;/l1&gt; nie została aktywowana.</seg>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T180311Z" creationid="beataporodzynska" creationdate="20210520T175308Z">
+        <seg>Uwaga: &lt;k0&gt;Enter&lt;/k0&gt;może być używany jako alternatywny skrót klawiaturowy jeśli opcja &lt;l1&gt;Naciśnij TAB, aby przejść dalej&lt;/l1&gt;nie została aktywowana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12050,6 +12050,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="pl" changeid="Agata Kaczmarska" changedate="20210326T002928Z" creationid="Agata Kaczmarska" creationdate="20210326T002928Z">
         <seg>Skrypt "{0}" działa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The segment is opened when either its segment call-out or segment number is entered.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T180916Z" creationid="beataporodzynska" creationdate="20210520T180916Z">
+        <seg>Segment zostanie otworzony po jego wywołaniu lub wprowadzeniu jego numeru.</seg>
       </tuv>
     </tu>
     <tu>
