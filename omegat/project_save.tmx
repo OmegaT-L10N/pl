@@ -12064,8 +12064,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="en">
         <seg>The previous segment with a note will open.</seg>
       </tuv>
-      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T185432Z" creationid="beataporodzynska" creationdate="20210520T185218Z">
-        <seg>Przechodzi do poprzedniego segmentu, który jest opatrzony notatką.</seg>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T190805Z" creationid="beataporodzynska" creationdate="20210520T185218Z">
+        <seg>Przejście do poprzedniego segmentu, który jest opatrzony adnotacją.</seg>
       </tuv>
     </tu>
     <tu>
