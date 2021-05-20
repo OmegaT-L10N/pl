@@ -5349,6 +5349,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Forward in history...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T181759Z" creationid="beataporodzynska" creationdate="20210520T181759Z">
+        <seg>Dalej...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Forward-Backward</seg>
       </tuv>
       <tuv lang="pl" changeid="Wojciech" changedate="20210414T142540Z" creationid="Wojciech" creationdate="20210414T142540Z">
@@ -7870,6 +7878,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="pl" changeid="annagorska" changedate="20210331T115856Z" creationid="annagorska" creationdate="20210331T115856Z">
         <seg>Kolejna notatka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Note</seg>
+      </tuv>
+      <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T181024Z" creationid="beataporodzynska" creationdate="20210520T181024Z">
+        <seg>Kolejna uwaga</seg>
       </tuv>
     </tu>
     <tu>
