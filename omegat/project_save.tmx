@@ -7008,6 +7008,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Later, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the &lt;e1&gt;Start&lt;/e1&gt; menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging &lt;f2&gt;OmegaT.exe&lt;/f2&gt; to the desktop or to the Start menu to link it from there.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T201644Z" creationid="Agata Kaczmarska" creationdate="20210520T201644Z">
+        <seg>Po zaakceptowaniu umowy licencyjnej, program instalacyjny zapyta, czy chcesz utworzyć folder w menu &lt;e1&gt;Start&lt;/e1&gt; oraz czy chcesz utworzyć skrót na pulpicie i w pasku szybkiego uruchamiania - możesz utworzyć te skróty później, przeciągając &lt;f2&gt;OmegaT.exe&lt;/f2&gt; na pulpit lub do menu Start, aby stamtąd go połączyć.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Ostatnie
 </note>
       <tuv lang="EN">
