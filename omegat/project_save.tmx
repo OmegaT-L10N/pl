@@ -133,6 +133,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>Do ostatnio otwartego segmentu</note>
       <tuv lang="EN">
         <seg>&amp;Back in History</seg>
       </tuv>
@@ -374,11 +375,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Do następnego segmentu</note>
       <tuv lang="EN">
         <seg>&amp;Forward in History</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T120008Z" creationid="annagorska" creationdate="20210331T120008Z">
-        <seg>Wprzód w historii</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210521T101549Z" creationid="annagorska" creationdate="20210331T120008Z">
+        <seg>&amp;Forward in Historia</seg>
       </tuv>
     </tu>
     <tu>
