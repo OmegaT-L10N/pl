@@ -2252,8 +2252,8 @@ co może skutkować nieoczekiwanym, ale prawidłowym działaniem.</seg>
       <tuv lang="EN">
         <seg>At the bottom of the window, right-click on a free number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
       </tuv>
-      <tuv lang="PL" changeid="paulina" changedate="20210519T135429Z" creationid="paulina" creationdate="20210519T135429Z">
-        <seg>W dolnej części okna kliknij prawym przyciskiem myszy na wolny numer i wybierz &lt;g0&gt;Dodaj skryptt&lt;/g0&gt;.</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210521T102548Z" creationid="paulina" creationdate="20210519T135429Z">
+        <seg>W dolnej części okna kliknij prawym przyciskiem myszy na wolny numer i wybierz &lt;g0&gt;Dodaj skrypt&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8872,8 +8872,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
       </tuv>
-      <tuv lang="PL" changeid="paulina" changedate="20210519T134932Z" creationid="paulina" creationdate="20210519T134932Z">
-        <seg>Otwiera okno &lt;l0&gt;&lt;g1&gt;Skryptowanie&lt;/g1&gt;&lt;/l0&gt;, w którym można ustawić lokalizację skryptów, a także pisać skrypty, uruchamiać je i łączyć z nimi skróty.</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210521T102500Z" creationid="paulina" creationdate="20210519T134932Z">
+        <seg>Otwiera okno &lt;l0&gt;&lt;g1&gt;Skrypty&lt;/g1&gt;&lt;/l0&gt;, w którym można ustawić lokalizację skryptów, a także pisać skrypty, uruchamiać je i łączyć z nimi skróty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10573,16 +10573,16 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="EN">
         <seg>Scripting</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210409T103453Z" creationid="AgatoZiemniak" creationdate="20210409T103453Z">
-        <seg>Tworzenie skryptów</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210521T102341Z" creationid="AgatoZiemniak" creationdate="20210409T103453Z">
+        <seg>Skrypty</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Scripting...</seg>
       </tuv>
-      <tuv lang="PL" changeid="paulina" changedate="20210519T120619Z" creationid="paulina" creationdate="20210519T120619Z">
-        <seg>Tworzenie skryptów...</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210521T102425Z" creationid="paulina" creationdate="20210519T120619Z">
+        <seg>Skrypty…</seg>
       </tuv>
     </tu>
     <tu>
