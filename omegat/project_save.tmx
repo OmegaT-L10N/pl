@@ -1516,24 +1516,24 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
-      <tuv lang="PL" changeid="paulina" changedate="20210519T120344Z" creationid="paulina" creationdate="20210519T120344Z">
-        <seg>&lt;g0&gt;Problemy z narzędziem języka &lt;/g0&gt; (optional).</seg>
+      <tuv lang="PL" changeid="paulina" changedate="20210521T095626Z" creationid="paulina" creationdate="20210519T120344Z">
+        <seg>&lt;g0&gt;Problemy z narzędziem języka &lt;/g0&gt; (opcjonalnie).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
-      <tuv lang="PL" changeid="paulina" changedate="20210521T095330Z" creationid="paulina" creationdate="20210519T120225Z">
-        <seg>&lt;g0&gt;Problemy z poprawną piwosnią&lt;/g0&gt; (opcjonalnie).</seg>
+      <tuv lang="PL" changeid="paulina" changedate="20210521T095606Z" creationid="paulina" creationdate="20210519T120225Z">
+        <seg>&lt;g0&gt;Problemy z poprawną pisownią&lt;/g0&gt; (opcjonalnie).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
-      <tuv lang="PL" changeid="paulina" changedate="20210519T120321Z" creationid="paulina" creationdate="20210519T120321Z">
-        <seg>&lt;g0&gt;Problemy z terminologią&lt;/g0&gt; (optional).</seg>
+      <tuv lang="PL" changeid="paulina" changedate="20210521T095618Z" creationid="paulina" creationdate="20210519T120321Z">
+        <seg>&lt;g0&gt;Problemy z terminologią&lt;/g0&gt; (opcjonalnie).</seg>
       </tuv>
     </tu>
     <tu>
