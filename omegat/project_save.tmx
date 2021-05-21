@@ -9415,6 +9415,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press &lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt; to show KRunner.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210521T095114Z" creationid="Agata Kaczmarska" creationdate="20210521T095114Z">
+        <seg>Naciśnij &lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt; , aby otworzyć KRunner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210320T134025Z" creationid="paulina" creationdate="20210320T134025Z">
