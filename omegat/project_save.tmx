@@ -8380,8 +8380,8 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>Note: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; is an alternate shortcut if &lt;l3&gt;Use TAB to Advance&lt;/l3&gt; option is not selected.</seg>
       </tuv>
-      <tuv lang="PL" changeid="beataporodzynska" changedate="20210520T180328Z" creationid="beataporodzynska" creationdate="20210520T180307Z">
-        <seg>Uwaga: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt;może być używany jako alternatywny skrót klawiaturowy jeśli opcja&lt;l3&gt;Naciśnij TAB, aby przejść dalej&lt;/l3&gt;nie została aktywowana.</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210521T101648Z" creationid="beataporodzynska" creationdate="20210520T180307Z">
+        <seg>Uwaga: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt;może być używany jako alternatywny skrót klawiaturowy, jeśli opcja&lt;l3&gt;Naciśnij TAB, aby przejść dalej&lt;/l3&gt;nie została aktywowana.</seg>
       </tuv>
     </tu>
     <tu>
