@@ -5893,6 +5893,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210520T204002Z" creationid="AgatoZiemniak" creationdate="20210520T204002Z">
+        <seg>Pomoc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Help you are seeking
 From your path it is fleeing
 Its winter has come</seg>
