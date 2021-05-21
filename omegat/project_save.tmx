@@ -11013,8 +11013,8 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="EN">
         <seg>Select the two files to be aligned (the source file and its translation) and click OK to open the &lt;l0&gt;&lt;g1&gt;Align&lt;/g1&gt; window&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="PL" changeid="paulina" changedate="20210519T132954Z" creationid="paulina" creationdate="20210519T132954Z">
-        <seg>Zaznacz dwa pliki do połączenia (plik źródłowy i jego tłumaczenie) i kliknij OK, aby otworzyć okno &lt;l0&gt;&lt;g1&gt;Połącz/g1&gt;&lt;/l0&gt;.</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210521T102110Z" creationid="paulina" creationdate="20210519T132954Z">
+        <seg>Zaznacz dwa pliki do połączenia (plik źródłowy i jego tłumaczenie) i kliknij OK, aby otworzyć okno &lt;l0&gt;&lt;g1&gt;Połącz&lt;/g1&gt;&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
