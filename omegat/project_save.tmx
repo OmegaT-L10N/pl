@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1521,8 +1521,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
-      <tuv lang="PL" changeid="paulina" changedate="20210519T120225Z" creationid="paulina" creationdate="20210519T120225Z">
-        <seg>&lt;g0&gt;Problemy z poprawną piwosnią&lt;/g0&gt; (optional).</seg>
+      <tuv lang="PL" changeid="paulina" changedate="20210521T095330Z" creationid="paulina" creationdate="20210519T120225Z">
+        <seg>&lt;g0&gt;Problemy z poprawną piwosnią&lt;/g0&gt; (opcjonalnie).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12833,8 +12833,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Tools</seg>
       </tuv>
-      <tuv lang="PL" changeid="paulina" changedate="20210514T104211Z" creationid="paulina" creationdate="20210514T104211Z">
-        <seg>Narzędnia </seg>
+      <tuv lang="PL" changeid="paulina" changedate="20210521T095318Z" creationid="paulina" creationdate="20210514T104211Z">
+        <seg>Narzędzia</seg>
       </tuv>
     </tu>
     <tu>
