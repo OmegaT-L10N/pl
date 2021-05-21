@@ -1449,8 +1449,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; remembers the segments executed.</seg>
       </tuv>
-      <tuv lang="PL" changeid="beataporodzynska" changedate="20210514T110014Z" creationid="beataporodzynska" creationdate="20210514T110014Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;zapamiętuje ostatnio otwierane segmenty.</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210521T100839Z" creationid="beataporodzynska" creationdate="20210514T110014Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; zapamiętuje ostatnio otwierane segmenty.</seg>
       </tuv>
     </tu>
     <tu>
