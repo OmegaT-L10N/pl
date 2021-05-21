@@ -3967,8 +3967,8 @@ i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
       <tuv lang="EN">
         <seg>Displays the current log file.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210514T104911Z" creationid="AgatoZiemniak" creationdate="20210514T104911Z">
-        <seg>Wyświetla bieżący plik dziennika</seg>
+      <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210521T104550Z" creationid="AgatoZiemniak" creationdate="20210514T104911Z">
+        <seg>Wyświetla bieżący plik dziennika.</seg>
       </tuv>
     </tu>
     <tu>
