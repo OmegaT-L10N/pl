@@ -6356,6 +6356,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In KMenuEditor select &lt;e3&gt;File &gt; New Item.&lt;/e3&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T200142Z" creationid="wciecierska" creationdate="20210524T200142Z">
+        <seg>W KMenuEditor wybierz &lt;e3&gt;Plik &gt; Nowy element.&lt;/e3&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, two menu entries allow opening directly the current source and target documents and the writable glossary.</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210517T214349Z" creationid="magda" creationdate="20210517T214349Z">
@@ -12511,6 +12519,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T142709Z" creationid="AgataWojtera" creationdate="20210323T142709Z">
         <seg>A więc później, przy tłumaczeniu z francuskiego kanadyjskiego projekt będzie stosował wszystkie zasady zdefiniowane dla wszystkich języków w odpowiedniej kolejności.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then, after selecting a suitable menu, add a submenu/item with &lt;e0&gt;File - New&lt;/e0&gt; Submenu and &lt;e1&gt;File - New Item&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T200435Z" creationid="wciecierska" creationdate="20210524T200435Z">
+        <seg>Następnie po wybraniu odpowiedniego menu, dodaj podmenu/element za pomocą &lt;e0&gt;Plik - Nowy&lt;/e0&gt; Podmenu i &lt;e1&gt;Plik - Nowy element&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
