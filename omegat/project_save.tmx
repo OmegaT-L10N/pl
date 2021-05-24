@@ -1868,6 +1868,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding &lt;a0&gt;OmegaT&lt;/a0&gt; to the Dock</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T202451Z" creationid="wciecierska" creationdate="20210524T202451Z">
+        <seg>Dodawanie &lt;a0&gt;OmegaT&lt;/a0&gt; do Docka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus (KDE) or panels (Gnome)</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T204811Z" creationid="Agata Kaczmarska" creationdate="20210520T204811Z">
@@ -3351,6 +3359,14 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy the folder to a suitable folder (e.g. Applications).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T202316Z" creationid="wciecierska" creationdate="20210524T202316Z">
+        <seg>Skopiuj folder do odpowiedniego folderu (np. Programy).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy the text and paste it into the translated version of the Wikipedia page.</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210514T110053Z" creationid="magda" creationdate="20210514T110053Z">
@@ -4215,6 +4231,14 @@ i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T202535Z" creationid="wciecierska" creationdate="20210524T202535Z">
+        <seg>Kliknij dwukrotnie na &lt;f0&gt;OmegaT.app&lt;/f0&gt;  lub kliknij na jego lokalizację w Docku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
       <tuv lang="PL" changeid="adurk" changedate="20210406T192315Z" creationid="adurk" creationdate="20210406T192315Z">
@@ -4315,6 +4339,14 @@ i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145114Z" creationid="Aleksandra" creationdate="20210330T145114Z">
         <seg>Rysunki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drag and drop &lt;f0&gt;OmegaT.app&lt;/f0&gt; onto the Dock.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T202504Z" creationid="wciecierska" creationdate="20210524T202504Z">
+        <seg>Przeciągnij i upuść &lt;f0&gt;OmegaT.app&lt;/f0&gt; na Docku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8831,6 +8863,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once you have done this, you can delete the &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt; file, it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T202417Z" creationid="wciecierska" creationdate="20210524T202417Z">
+        <seg>Następnie możesz usunąć plik &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt;, nie będzie już potrzebny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
       </tuv>
       <tuv lang="PL" changeid="agata" changedate="20210524T101914Z" creationid="AgataWojtera" creationdate="20210323T135927Z">
@@ -12411,6 +12451,14 @@ bieżący folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T172434Z" creationid="AgatoZiemniak" creationdate="20210322T172434Z">
         <seg>Plik "{0}" nie jest obsługiwany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The folder contains 2 files: &lt;f2&gt;index.html&lt;/f2&gt; and &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T202248Z" creationid="wciecierska" creationdate="20210524T202248Z">
+        <seg>Folder zawiera 2 pliki: &lt;f2&gt;index.html&lt;/f2&gt; i &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
