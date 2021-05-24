@@ -5545,6 +5545,22 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch &lt;a4&gt;OmegaT&lt;/a4&gt; with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T203354Z" creationid="wciecierska" creationdate="20210524T203354Z">
+        <seg>Przykładowo, &lt;l2&gt;user.language=ja&lt;/l2&gt; (bez &lt;l3&gt;#&lt;/l3&gt;) spowoduje uruchamianie &lt;a4&gt;OmegaT&lt;/a4&gt; z interfejsem w języku japońskim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For pre-defined options, remove the &lt;l1&gt;#&lt;/l1&gt; before a parameter to enable it.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T203253Z" creationid="wciecierska" creationdate="20210524T203253Z">
+        <seg>Jeśli chcesz skorzystać z opcji predefiniowych, usuń  &lt;l1&gt;#&lt;/l1&gt; przed parametrem, który chcesz aktywować.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For technical details, see the &lt;u3&gt;Request For Enhancement&lt;/u3&gt;.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210518T171348Z" creationid="monika" creationdate="20210518T171348Z">
@@ -13040,6 +13056,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T185557Z" creationid="Aleksandra" creationdate="20210327T185557Z">
         <seg>Aby uniknąć utraty ważnych danych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T203454Z" creationid="wciecierska" creationdate="20210524T203454Z">
+        <seg>By zmienić ilość dostępnej pamięci, edytuj plik &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; i usuń komentarz do wiersza &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; poprzez usunięcie znaków &lt;l2&gt;&lt;!--&lt;/l2&gt; i &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
