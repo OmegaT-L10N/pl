@@ -1524,8 +1524,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
       </tuv>
-      <tuv lang="PL" changeid="wciecierska" changedate="20210524T203956Z" creationid="wciecierska" creationdate="20210524T203956Z">
-        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; pozwala na korzystanie z usług macOS.</seg>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T204104Z" creationid="wciecierska" creationdate="20210524T203956Z">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; pozwala na korzystanie z Usług macOS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14408,6 +14408,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210524T203108Z" creationid="wciecierska" creationdate="20210524T203108Z">
         <seg>Możesz również dostać się tam bezpośrednio z poziomu wiersza polecenia i otworzyć &lt;f4&gt;Configuration.properties&lt;/f4&gt; w edytorze poleceń jak emacs czy vi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also use AppleScript or Automator to create Services or scripts that will automate frequent actions.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T204133Z" creationid="wciecierska" creationdate="20210524T204133Z">
+        <seg>Możesz skorzystać z AppleScript lub Automator, by stworzyć własne Usługi lub skrypty, które zautomatyzują częste czynności.</seg>
       </tuv>
     </tu>
     <tu>
