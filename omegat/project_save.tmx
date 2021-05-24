@@ -1442,6 +1442,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; contains the Java JRE 1.8</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T202130Z" creationid="wciecierska" creationdate="20210524T202130Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; zawiera Java JRE 1.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a robust application.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T181857Z" creationid="Aleksandra" creationdate="20210327T175754Z">
@@ -2746,6 +2754,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T141826Z" creationid="Komputer" creationdate="20210331T141826Z">
         <seg>Znaki (bez spacji)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check "&lt;l3/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T202109Z" creationid="wciecierska" creationdate="20210524T202109Z">
+        <seg>Aby uzyskać więcej informacji, sprawdź "&lt;l3/&gt;" poniżej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4191,10 +4207,26 @@ i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double click on &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt; to unpack it.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T202209Z" creationid="wciecierska" creationdate="20210524T202209Z">
+        <seg>Kliknij dwukrotnie na &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt;, aby rozpakować plik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
       <tuv lang="PL" changeid="adurk" changedate="20210406T192315Z" creationid="adurk" creationdate="20210406T192315Z">
         <seg>Pobierz &amp; Projekt Zespołowy...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T202140Z" creationid="wciecierska" creationdate="20210524T202140Z">
+        <seg>Pobierz &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6632,6 +6664,14 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T183823Z" creationid="monika" creationdate="20210327T183823Z">
         <seg>Zainstalowane wtyczki:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T202148Z" creationid="wciecierska" creationdate="20210524T202148Z">
+        <seg>Instalacja &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12771,6 +12811,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This creates a folder called &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T202227Z" creationid="wciecierska" creationdate="20210524T202227Z">
+        <seg>Zostanie utworzony folder o nazwie &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This function is specific to team projects.</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210517T213346Z" creationid="magda" creationdate="20210517T213346Z">
@@ -14543,6 +14591,14 @@ na utworzenie folderu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150953Z" creationid="Aleksandra" creationdate="20210330T150953Z">
         <seg>mALIGNa (licencja MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>macOS Users</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T202113Z" creationid="wciecierska" creationdate="20210524T202113Z">
+        <seg>Użytkownicy macOS</seg>
       </tuv>
     </tu>
     <tu>
