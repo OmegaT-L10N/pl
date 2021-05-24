@@ -2959,8 +2959,8 @@ opuść kolejkę...</seg>
       <tuv lang="EN">
         <seg>Click on the icon button, then hit &lt;g0&gt;Browse...&lt;/g0&gt; and navigate to the &lt;f1&gt;/images&lt;/f1&gt; subfolder in the &lt;a2&gt;OmegaT&lt;/a2&gt; application folder.</seg>
       </tuv>
-      <tuv lang="PL" changeid="wciecierska" changedate="20210524T201516Z" creationid="wciecierska" creationdate="20210524T201516Z">
-        <seg>Kliknij przycisk ikony, następnie &lt;g0&gt;Przeglądaj...&lt;/g0&gt; i  dotrzyj do podfolderu &lt;f1&gt;/obrazy&lt;/f1&gt; w folderze aplikacji &lt;a2&gt;OmegaT&lt;/a2&gt;. </seg>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T203530Z" creationid="wciecierska" creationdate="20210524T201516Z">
+        <seg>Kliknij przycisk ikony, następnie &lt;g0&gt;Przeglądaj...&lt;/g0&gt; i  dotrzyj do podfolderu &lt;f1&gt;/images&lt;/f1&gt; w folderze aplikacji &lt;a2&gt;OmegaT&lt;/a2&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9137,8 +9137,8 @@ określony projekt zespołowy
       <tuv lang="EN">
         <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;/images&lt;/f0&gt; subfolder in the &lt;a1&gt;OmegaT&lt;/a1&gt; application folder.</seg>
       </tuv>
-      <tuv lang="PL" changeid="wciecierska" changedate="20210524T200953Z" creationid="wciecierska" creationdate="20210524T200953Z">
-        <seg>Wybierz Inne ikony - Przeglądaj i dotrzyj do podfolderu &lt;f0&gt;/obrazy&lt;/f0 w folderze aplikacji &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T203546Z" creationid="wciecierska" creationdate="20210524T200953Z">
+        <seg>Wybierz Inne ikony - Przeglądaj i dotrzyj do podfolderu &lt;f0&gt;/images&lt;/f0 w folderze aplikacji &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13024,6 +13024,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174913Z" creationid="AgatoZiemniak" creationdate="20210322T174913Z">
         <seg>Spowoduje to odrzucenie wszystkich zmian, które zostały wprowadzone do tej pory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will launch OmegaT with 6 GB of memory; change the &lt;l4&gt;6g&lt;/l4&gt; to the desired amount.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T203729Z" creationid="wciecierska" creationdate="20210524T203517Z">
+        <seg>OmegaT uruchomi się z 6 GB dostępnej pamięci; zmienić &lt;l4&gt;6g&lt;/l4&gt; na wybraną ilość.</seg>
       </tuv>
     </tu>
     <tu>
