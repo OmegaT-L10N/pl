@@ -7389,6 +7389,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure that your &lt;v1&gt;PATH&lt;/v1&gt; settings are correct and that &lt;f2&gt;.jar&lt;/f2&gt; files are properly associated with a Java launcher.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T202046Z" creationid="wciecierska" creationdate="20210524T202046Z">
+        <seg>Upewnij się, że twoje ustawienia &lt;v1&gt;PATH&lt;/v1&gt; są poprawne, a pliki &lt;f2&gt;.jar&lt;/f2&gt; są odpowiednio skojarzone z launcherem Javy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manage Right-To-Left languages</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210329T170539Z" creationid="Aleksandra" creationdate="20210329T170539Z">
@@ -7729,6 +7737,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T180950Z" creationid="Paula" creationdate="20210329T180950Z">
         <seg>Użycie słownika Merriam Webster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Methods differ depending on the distribution.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T201851Z" creationid="wciecierska" creationdate="20210524T201851Z">
+        <seg>Metody różnią się w zależności od dystrybucji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14234,6 +14250,14 @@ Your page is not found</seg>
       <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T150046Z" creationid="cezarykotowicz" creationdate="20210403T150046Z">
         <seg>Szczegółowe dane statystyczne możesz znaleść w pliku:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T201838Z" creationid="wciecierska" creationdate="20210524T201838Z">
+        <seg>Możesz uruchomić program OmegaT z poziomu wiersza polecenia za pomocą skryptu zawierającego opcje uruchomieniowe lub możesz kliknąć na &lt;f0&gt;OmegaT.jar&lt;/f0&gt;, aby bezpośrednio uruchomić program. </seg>
       </tuv>
     </tu>
     <tu>
