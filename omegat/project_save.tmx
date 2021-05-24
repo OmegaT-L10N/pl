@@ -4610,6 +4610,14 @@ brak strony...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T201416Z" creationid="wciecierska" creationdate="20210524T201416Z">
+        <seg>W polu "Nazwa" wpisz "&lt;a0&gt;OmegaT&lt;/a0&gt;"; w polu "Polecenie" użyj przycisku nawigacyjnego, by odnaleźć  skrypt uruchamiający program  &lt;a1&gt;OmegaT&lt;/a1&gt; (plik o nazwie &lt;a2&gt;OmegaT&lt;/a2 w nierozpakowanym folderze). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter &lt;a2&gt;OmegaT&lt;/a2&gt; as the name of the new item.</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210524T200458Z" creationid="wciecierska" creationdate="20210524T200458Z">
@@ -5369,6 +5377,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finally, save the changes with &lt;e0&gt;File - Save.&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T201027Z" creationid="wciecierska" creationdate="20210524T201027Z">
+        <seg>Zapisz zmiany za pomocą &lt;e0&gt;Plik - Zapisz.&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finished</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T004341Z" creationid="Agata Kaczmarska" creationdate="20210326T004341Z">
@@ -5606,6 +5622,14 @@ przykro...</seg>
       </tuv>
       <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T141803Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T141803Z">
         <seg>Dopasowania rozmyte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GNOME Users</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T201034Z" creationid="wciecierska" creationdate="20210524T201034Z">
+        <seg>Użytkownicy GNOME</seg>
       </tuv>
     </tu>
     <tu>
@@ -10294,6 +10318,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T190502Z" creationid="Aleksandra" creationdate="20210327T190502Z">
         <seg>Ponowne wykorzystanie pamięci tłumaczeniowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T201306Z" creationid="wciecierska" creationdate="20210524T201306Z">
+        <seg>Kliknij prawym przyciskiem myszy na panel &lt;e0&gt;Dodaj nowy launcher&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
