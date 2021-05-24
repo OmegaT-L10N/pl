@@ -13012,6 +13012,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To access &lt;f0&gt;Configuration.properties&lt;/f0&gt;, right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select "Show Package Contents", then open the file in &lt;f2&gt;Contents/Resources&lt;/f2&gt; by right-clicking on it and selecting your text editor of choice.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T202845Z" creationid="wciecierska" creationdate="20210524T202845Z">
+        <seg>Aby uzyskać dostęp do &lt;f0&gt;Configuration.properties&lt;/f0&gt;, kliknij prawym przyciskiem myszy na &lt;f1&gt;OmegaT.app&lt;/f1&gt;  i wybierz "Pokaż zawartość pakietu", następnie otwórz plik w  &lt;f2&gt;Contents/Resources&lt;/f2&gt; poprzez kliknięcie prawym przyciskiem myszy i wybranie dowolnego edytora tekstu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To associate a script with a number:</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210519T122225Z" creationid="paulina" creationdate="20210519T122225Z">
@@ -14354,6 +14362,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210524T201838Z" creationid="wciecierska" creationdate="20210524T201838Z">
         <seg>Możesz uruchomić program OmegaT z poziomu wiersza polecenia za pomocą skryptu zawierającego opcje uruchomieniowe lub możesz kliknąć na &lt;f0&gt;OmegaT.jar&lt;/f0&gt;, aby bezpośrednio uruchomić program. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;f1&gt;Configuration.properties&lt;/f1&gt; file in the package.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T202651Z" creationid="wciecierska" creationdate="20210524T202651Z">
+        <seg>Możesz edytować zachowanie programu OmegaT poprzez wprowadzanie zmian we &lt;e0&gt;Właściwościach&lt;/e0&gt; lub pliku &lt;f1&gt;Configuration.properties&lt;/f1&gt; w pakiecie. </seg>
       </tuv>
     </tu>
     <tu>
