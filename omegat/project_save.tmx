@@ -2933,6 +2933,14 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the icon button, then hit &lt;g0&gt;Browse...&lt;/g0&gt; and navigate to the &lt;f1&gt;/images&lt;/f1&gt; subfolder in the &lt;a2&gt;OmegaT&lt;/a2&gt; application folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T201516Z" creationid="wciecierska" creationdate="20210524T201516Z">
+        <seg>Kliknij przycisk ikony, następnie &lt;g0&gt;Przeglądaj...&lt;/g0&gt; i  dotrzyj do podfolderu &lt;f1&gt;/obrazy&lt;/f1&gt; w folderze aplikacji &lt;a2&gt;OmegaT&lt;/a2&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;g0&gt;Edit&lt;/g0&gt; tab on the Wikipedia page.</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210514T105601Z" creationid="magda" creationdate="20210514T105601Z">
@@ -5630,6 +5638,14 @@ przykro...</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210524T201034Z" creationid="wciecierska" creationdate="20210524T201034Z">
         <seg>Użytkownicy GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GNOME may fail to display the icon files in the available formats and initially appear to expect an SVG file, but if the folder is selected, the files should appear and &lt;f4&gt;OmegaT.png&lt;/f4&gt; can be selected.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T201712Z" creationid="wciecierska" creationdate="20210524T201712Z">
+        <seg>GNOME może nie wyświetlić plików ikon w dostępnych rozszerzeniach i oczekiwać plików SVG, ale przy zaznaczeniu odpowiedniego folderu, pliki powinny się pojawić i wybranie &lt;f4&gt;OmegaT.png&lt;/f4&gt; powinno być możliwe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11076,6 +11092,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select it and confirm with OK.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T201429Z" creationid="wciecierska" creationdate="20210524T201429Z">
+        <seg>Wybierz go i potwierdź za pomocą OK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select languagetool-server.jar</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T122954Z" creationid="monika" creationdate="20210325T122954Z">
@@ -11088,6 +11112,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210524T201007Z" creationid="wciecierska" creationdate="20210524T201007Z">
         <seg>Wybierz ikonę &lt;f2&gt;OmegaT.png&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the &lt;f3&gt;OmegaT.png&lt;/f3&gt; icon.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T201544Z" creationid="wciecierska" creationdate="20210524T201544Z">
+        <seg>Wybierz ikonę &lt;f3&gt;OmegaT.png&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
