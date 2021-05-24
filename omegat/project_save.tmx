@@ -8705,8 +8705,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T135927Z" creationid="AgataWojtera" creationdate="20210323T135927Z">
-        <seg>Tylko jeśli plik (X)HTML posiada deklarację kodowania</seg>
+      <tuv lang="PL" changeid="agata" changedate="20210524T101914Z" creationid="AgataWojtera" creationdate="20210323T135927Z">
+        <seg>Tylko jeśli plik (X)HTML posiada &amp;deklarację kodowania</seg>
       </tuv>
     </tu>
     <tu>
@@ -14323,8 +14323,8 @@ na utworzenie folderu konfiguracyjnego.</seg>
       <tuv lang="EN">
         <seg>href (URL of &amp;links)</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140043Z" creationid="AgataWojtera" creationdate="20210323T140043Z">
-        <seg>href (URL linków)</seg>
+      <tuv lang="PL" changeid="agata" changedate="20210524T101929Z" creationid="AgataWojtera" creationdate="20210323T140043Z">
+        <seg>href (URL &amp;linków)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14453,8 +14453,8 @@ na utworzenie folderu konfiguracyjnego.</seg>
       <tuv lang="EN">
         <seg>src (URL of &amp;images)</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T140052Z" creationid="AgataWojtera" creationdate="20210323T140052Z">
-        <seg>src (URL obrazów)</seg>
+      <tuv lang="PL" changeid="agata" changedate="20210524T101937Z" creationid="AgataWojtera" creationdate="20210323T140052Z">
+        <seg>src (URL &amp;obrazów)</seg>
       </tuv>
     </tu>
     <tu>
