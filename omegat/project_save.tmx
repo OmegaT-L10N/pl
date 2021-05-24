@@ -1522,6 +1522,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T203956Z" creationid="wciecierska" creationdate="20210524T203956Z">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; pozwala na korzystanie z usług macOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210521T095626Z" creationid="paulina" creationdate="20210519T120344Z">
@@ -13100,6 +13108,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To launch multiple instances of &lt;f0&gt;OmegaT.app&lt;/f0&gt;, double-click the file &lt;e1&gt;OmegaT&lt;/e1&gt; located in &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T203842Z" creationid="wciecierska" creationdate="20210524T203842Z">
+        <seg>Aby uruchomić &lt;f0&gt;OmegaT.app&lt;/f0&gt; kilkukrotnie, kliknij dwukrotnie na plik &lt;e1&gt;OmegaT&lt;/e1&gt; znajdujący się w &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To speed up this process, existing translations can be reused.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T191033Z" creationid="Aleksandra" creationdate="20210327T191033Z">
@@ -13920,6 +13936,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; to launch &lt;a2&gt;OmegaT&lt;/a2&gt; from the command line.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T203921Z" creationid="wciecierska" creationdate="20210524T203921Z">
+        <seg>Użyj pliku &lt;f0&gt;OmegaT.jar&lt;/f0&gt; w &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt;, aby uruchomić &lt;a2&gt;OmegaT&lt;/a2&gt; z poziomu wiersza poleceń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use these Help texts to get started.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T190314Z" creationid="Aleksandra" creationdate="20210327T190314Z">
@@ -14422,6 +14446,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can thus select a word anywhere in &lt;a1&gt;OmegaT&lt;/a1&gt; and use Services to check this word, for instance in Spotlight or in Google.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T204100Z" creationid="wciecierska" creationdate="20210524T204100Z">
+        <seg>Możesz wybrać dowolne słowo w &lt;a1&gt;OmegaT&lt;/a1&gt; i użyć Usług, aby sprawdzić dane słowo np. w Spotlight lub Google.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You currently have {1}.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210401T090530Z" creationid="AgatoZiemniak" creationdate="20210401T090530Z">
@@ -14711,6 +14743,14 @@ na utworzenie folderu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210524T202113Z" creationid="wciecierska" creationdate="20210524T202113Z">
         <seg>Użytkownicy macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>macOS goodies</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T203939Z" creationid="wciecierska" creationdate="20210524T203935Z">
+        <seg>Bonusy macOS</seg>
       </tuv>
     </tu>
     <tu>
