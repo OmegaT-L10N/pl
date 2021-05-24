@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT " o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12108,6 +12108,14 @@ bieżący folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The KMenuEditor appears.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T200105Z" creationid="wciecierska" creationdate="20210524T200105Z">
+        <seg>Uruchomi się KMenuEditor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210406T130630Z" creationid="jnnas10" creationdate="20210406T130430Z">
@@ -13114,6 +13122,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="Anasti-M" changedate="20210414T120801Z" creationid="Anasti-M" creationdate="20210414T120801Z">
         <seg>Rodzaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type &lt;e2&gt;kmenuedit+enter&lt;/e2&gt; to run the command.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T200051Z" creationid="wciecierska" creationdate="20210524T200051Z">
+        <seg>Wprowadź  &lt;e2&gt;kmenuedit+enter&lt;/e2&gt;, aby wykonać polecenie.</seg>
       </tuv>
     </tu>
     <tu>
