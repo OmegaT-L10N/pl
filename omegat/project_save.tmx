@@ -4602,6 +4602,14 @@ brak strony...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter &lt;a2&gt;OmegaT&lt;/a2&gt; as the name of the new item.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T200458Z" creationid="wciecierska" creationdate="20210524T200458Z">
+        <seg>Wprowadź &lt;a2&gt;OmegaT&lt;/a2&gt; jako nazwę nowego elementu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
       <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T140231Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140231Z">
@@ -6400,6 +6408,14 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T121408Z" creationid="annap" creationdate="20210331T121408Z">
         <seg>W oryginale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T200750Z" creationid="wciecierska" creationdate="20210524T200750Z">
+        <seg>W polu "Polecenie", użyj przycisku nawigacyjnego, by odnaleźć skrypt uruchamiający program &lt;a0&gt;OmegaT&lt;/a0&gt; (plik o nazwie &lt;a1&gt;OmegaT&lt;/a1 w nierozpakowanym folderze) i wybierz go.</seg>
       </tuv>
     </tu>
     <tu>
