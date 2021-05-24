@@ -9071,6 +9071,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options are changed by modifying &lt;f0&gt;Configuration.properties&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T203124Z" creationid="wciecierska" creationdate="20210524T203124Z">
+        <seg>Opcje można zmieniać edytując &lt;f0&gt;Configuration.properties&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options:
 	None: Launch GUI
 	Project path only: Launch GUI and load specified project
@@ -14336,6 +14344,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T204849Z" creationid="Agata Kaczmarska" creationdate="20210520T204849Z">
         <seg>Możesz dodać &lt;a0&gt;OmegaT&lt;/a0&gt; do swoich menu w następujący sposób:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also &lt;c3&gt;cd&lt;/c3&gt; there directly from the command line and open &lt;f4&gt;Configuration.properties&lt;/f4&gt; in a command line editor like emacs or vi.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="wciecierska" changedate="20210524T203108Z" creationid="wciecierska" creationdate="20210524T203108Z">
+        <seg>Możesz również dostać się tam bezpośrednio z poziomu wiersza polecenia i otworzyć &lt;f4&gt;Configuration.properties&lt;/f4&gt; w edytorze poleceń jak emacs czy vi.</seg>
       </tuv>
     </tu>
     <tu>
