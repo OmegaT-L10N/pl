@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT " o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_9b014bf3" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-5.3.0" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1470,6 +1470,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="pl" changeid="adurk" changedate="20210406T190350Z" creationid="adurk" creationdate="20210406T190350Z">
         <seg>&lt;automatyczne&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The port number your system uses to access the proxy server.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T100816Z" creationid="magdalenaklocek" creationdate="20210526T100816Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Numer portu używanego przez system do dostępu do serwera proxy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6468,6 +6476,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the language of the user's system is not available, &lt;a7&gt;OmegaT&lt;/a7&gt; defaults to English.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T112010Z" creationid="magdalenaklocek" creationdate="20210526T112010Z">
+        <seg>Jeśli język systemu użytkownika nie jest dostępny, &lt;a7&gt;OmegaT&lt;/a7&gt; domyślnie ustawia się na angielski.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the source file is modified after you have begun translating, &lt;a1&gt;OmegaT&lt;/a1&gt; may be unable to find a segment that you have already translated.</seg>
       </tuv>
       <tuv lang="pl" changeid="Aleksandra" changedate="20210327T190241Z" creationid="Aleksandra" creationdate="20210327T190241Z">
@@ -10064,6 +10080,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Proxy host port number</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T100845Z" creationid="magdalenaklocek" creationdate="20210526T100845Z">
+        <seg>Numer portu hosta proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Push failed.</seg>
       </tuv>
       <tuv lang="pl" changeid="magda" changedate="20210325T125123Z" creationid="magda" creationdate="20210325T125123Z">
@@ -11696,6 +11720,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So, if the user's operating system is Russian and &lt;a5&gt;OmegaT&lt;/a5&gt; has been localized in Russian, &lt;a6&gt;OmegaT&lt;/a6&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T111938Z" creationid="magdalenaklocek" creationdate="20210526T111938Z">
+        <seg>Tak więc, jeśli system operacyjny użytkownika jest rosyjski i &lt;a5&gt;OmegaT&lt;/a5&gt; został zlokalizowany w języku rosyjskim, &lt;a6&gt;OmegaT&lt;/a6&gt; jest wyświetlany z rosyjskim interfejsem użytkownika, rosyjskie menu, itp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some alignments still need review.</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20210415T171236Z" creationid="Wojciech" creationdate="20210414T141217Z">
@@ -13119,6 +13151,14 @@ the server.</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T131330Z" creationid="paulina" creationdate="20210320T131330Z">
         <seg>To jest prawidłowy plik projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the standard behavior.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T112056Z" creationid="magdalenaklocek" creationdate="20210526T112056Z">
+        <seg>Jest to standardowe działanie.</seg>
       </tuv>
     </tu>
     <tu>
