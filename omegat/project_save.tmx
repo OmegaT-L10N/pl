@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-5.3.0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT " o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_9b014bf3" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8909,8 +8909,8 @@ Lost to paradise</seg>
       <tuv lang="en">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Aleksandra" changedate="20210330T150101Z" creationid="Aleksandra" creationdate="20210330T150101Z">
-        <seg>OmegaT to darmowe i otwarte wieloplatformowe narzędzie do tłumaczenia wspomaganego komputerowo z funkcją dopasowywania rozmytego, pamięcią tłumaczeniową, wyszukiwaniem słów kluczowych, glosariuszami i wykorzystaniem tłumaczeń do aktualizowanych projektów..</seg>
+      <tuv lang="pl" changeid="Aleksandra" changedate="20210526T105613Z" creationid="Aleksandra" creationdate="20210330T150101Z">
+        <seg>OmegaT to darmowe i otwarte wieloplatformowe narzędzie do tłumaczenia wspomaganego komputerowo z funkcją dopasowywania rozmytego, pamięcią tłumaczeniową, wyszukiwaniem słów kluczowych, glosariuszami i wykorzystaniem tłumaczeń do aktualizowanych projektów.</seg>
       </tuv>
     </tu>
     <tu>
