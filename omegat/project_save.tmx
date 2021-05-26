@@ -1482,6 +1482,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The IP address of your proxy server, if your system uses a proxy.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T112752Z" creationid="magdalenaklocek" creationdate="20210526T112752Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Adres IP serwera proxy, jeśli system używa proxy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The port number your system uses to access the proxy server.</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T100816Z" creationid="magdalenaklocek" creationdate="20210526T100816Z">
@@ -10124,6 +10132,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="pl" changeid="Barnaba Nowakiewicz" changedate="20210402T140334Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T140334Z">
         <seg>Login Proxy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Proxy host IP address</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T112732Z" creationid="magdalenaklocek" creationdate="20210526T112732Z">
+        <seg>Host serwera proxy adresu IP</seg>
       </tuv>
     </tu>
     <tu>
