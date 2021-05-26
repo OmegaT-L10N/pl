@@ -3243,6 +3243,14 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Consequently, to make changes to the launch command, it is sufficient to modify the file.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T095857Z" creationid="magdalenaklocek" creationdate="20210526T095857Z">
+        <seg>W związku z tym, aby dokonać zmian w poleceniu startowym, wystarczy zmodyfikować plik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
@@ -7337,6 +7345,14 @@ w katalogu konfiguracji.</seg>
 </note>
       <tuv lang="en">
         <seg>Latest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launch command arguments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T100017Z" creationid="magdalenaklocek" creationdate="20210526T100017Z">
+        <seg>Uruchamianie argumentów polecenia</seg>
       </tuv>
     </tu>
     <tu>
@@ -12480,6 +12496,14 @@ bieżący folder.</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T095651Z" creationid="magdalenaklocek" creationdate="20210526T095651Z">
         <seg>Powyższa metoda jest nieco niepraktyczna w uruchamianiu programu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The basic command has already been mentioned above.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T100040Z" creationid="magdalenaklocek" creationdate="20210526T100040Z">
+        <seg>Podstawowa komenda została już wymieniona powyżej.</seg>
       </tuv>
     </tu>
     <tu>
