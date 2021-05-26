@@ -5585,6 +5585,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For this reason, the two commands described above are contained in a file (a "script", also called a "&lt;f0&gt;.bat&lt;/f0&gt; file" on Windows systems).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T095717Z" creationid="magdalenaklocek" creationdate="20210526T095717Z">
+        <seg>Z tego powodu dwa opisane powyżej polecenia są zawarte w pliku ("skrypt", w systemach Windows nazywany również plikiem "&lt;f0&gt;.bat&lt;/f0&gt;").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Format:</seg>
       </tuv>
       <tuv lang="pl" changeid="jnnas10" changedate="20210406T134050Z" creationid="jnnas10" creationdate="20210406T134050Z">
@@ -9361,6 +9369,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pay attention to the capitalization - in OS other than Windows, the program will not start, if you enter &lt;l0&gt;omegat&lt;/l0&gt; instead of &lt;l1&gt;OmegaT&lt;/l1&gt;!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T095535Z" creationid="magdalenaklocek" creationdate="20210526T095535Z">
+        <seg>Zwróć uwagę na wielkość liter - w systemach operacyjnych innych niż Windows, program nie uruchomi się, jeśli zamiast &lt;l1&gt;OmegaT&lt;/l1&gt; wpiszesz &lt;l0&gt;omegat&lt;/l0&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Penalty for matches in other languages:</seg>
       </tuv>
       <tuv lang="pl" changeid="studentka" changedate="20210407T091612Z" creationid="studentka" creationdate="20210407T091612Z">
@@ -12460,6 +12476,14 @@ bieżący folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The above method somewhat impractical way of launching a program routinely.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T095651Z" creationid="magdalenaklocek" creationdate="20210526T095651Z">
+        <seg>Powyższa metoda jest nieco niepraktyczna w uruchamianiu programu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked.</seg>
       </tuv>
       <tuv lang="pl" changeid="monika" changedate="20210518T170437Z" creationid="monika" creationdate="20210518T170437Z">
@@ -13031,6 +13055,14 @@ the server.</seg>
       </tuv>
       <tuv lang="pl" changeid="beataporodzynska" changedate="20210514T104729Z" creationid="beataporodzynska" creationdate="20210514T104626Z">
         <seg>To menu wyświetla punkty menu tylko wtedy, gdy projekt jest otwarty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This method has a particular benefit of being suitable for finding causes of problems: if an error occurs during use of the program, an error message is output in the terminal window which may contain useful information on the cause of the error.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T095606Z" creationid="magdalenaklocek" creationdate="20210526T095606Z">
+        <seg>Metoda ta ma tę szczególną zaletę, że nadaje się do znajdowania przyczyn problemów: jeśli podczas używania programu wystąpi błąd, w oknie terminala wyświetlany jest komunikat o błędzie, który może zawierać użyteczną informację o przyczynie błędu</seg>
       </tuv>
     </tu>
     <tu>
@@ -14196,6 +14228,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20210416T104523Z" creationid="paulina" creationdate="20210322T123128Z">
         <seg>Jeżeli jest zaznaczone, elementy w widoku autouzupełniania glosariusza będą zawierały również tekst źródłowy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When this file is executed, the commands within it are automatically carried out.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T095830Z" creationid="magdalenaklocek" creationdate="20210526T095830Z">
+        <seg>Kiedy ten plik jest uruchomiony, zawarte w nim polecenia są automatycznie wykonywane.</seg>
       </tuv>
     </tu>
     <tu>
