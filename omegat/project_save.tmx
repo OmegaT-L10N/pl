@@ -6524,6 +6524,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In its most basic form, this command is:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T095506Z" creationid="magdalenaklocek" creationdate="20210526T095506Z">
+        <seg>Najbardziej podstawowa forma polecenia jest:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In notes</seg>
       </tuv>
       <tuv lang="pl" changeid="wciecierska" changedate="20210430T104234Z" creationid="annap" creationdate="20210331T120428Z">
@@ -6536,6 +6544,14 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="pl" changeid="Paula" changedate="20210329T223749Z" creationid="Paula" creationdate="20210329T223749Z">
         <seg>Aby zastosować wprowadzone zmiany, należy zamknąć i ponownie otworzyć projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In practice, this command will therefore be something like this:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T095209Z" creationid="magdalenaklocek" creationdate="20210526T095209Z">
+        <seg>W praktyce polecenie powinno wyglądac mniej więcej tak::</seg>
       </tuv>
     </tu>
     <tu>
@@ -8875,6 +8891,30 @@ your home folder.</seg>
       </tuv>
       <tuv lang="pl" changeid="AgatoZiemniak" changedate="20210401T090508Z" creationid="AgatoZiemniak" creationdate="20210401T090508Z">
         <seg>OmegaT {0} jest gotowy do użycia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On Linux</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T095238Z" creationid="magdalenaklocek" creationdate="20210526T095238Z">
+        <seg>W Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On Windows</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T095219Z" creationid="magdalenaklocek" creationdate="20210526T095219Z">
+        <seg>W Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T095232Z" creationid="magdalenaklocek" creationdate="20210526T095232Z">
+        <seg>W macOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -12643,6 +12683,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The second command is the command which actually launches &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T095407Z" creationid="magdalenaklocek" creationdate="20210526T095407Z">
+        <seg>Druga komenda jest poleceniem, które uruchamia &lt;a1&gt;OmegaT&lt;/a1&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The segment is opened when either its segment call-out or segment number is entered.</seg>
       </tuv>
       <tuv lang="pl" changeid="beataporodzynska" changedate="20210520T180916Z" creationid="beataporodzynska" creationdate="20210520T180916Z">
@@ -12887,6 +12935,14 @@ the server.</seg>
       </tuv>
       <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210331T122115Z" creationid="Kasia Mędrzycka" creationdate="20210331T122115Z">
         <seg>To wywołanie MUSI znajdować się w wątku swing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This command changes the folder to the folder containing the executable &lt;a0&gt;OmegaT&lt;/a0&gt; file.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T095310Z" creationid="magdalenaklocek" creationdate="20210526T095310Z">
+        <seg>To polecenie zmienia folder na folder zawierający plik wykonywalny &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
