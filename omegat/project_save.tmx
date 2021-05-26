@@ -1635,6 +1635,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A list of possible arguments is given below.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T100324Z" creationid="magdalenaklocek" creationdate="20210526T100324Z">
+        <seg>Lista możliwych argumentów jest podana poniżej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
       <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T195516Z" creationid="beataporodzynska" creationdate="20210325T195516Z">
@@ -1888,6 +1896,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Kaczmarska" changedate="20210520T204811Z" creationid="Agata Kaczmarska" creationdate="20210520T204811Z">
         <seg>Dodawanie &lt;a0&gt;OmegaT&lt;/a0&gt; do menu (KDE) lub paneli (Gnome)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Advanced users can obtain more information on the arguments by typing &lt;e0&gt;man java&lt;/e0&gt; in the terminal window.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T100358Z" creationid="magdalenaklocek" creationdate="20210526T100358Z">
+        <seg>Zaawansowani użytkownicy mogą uzyskać więcej informacji na temat argumentów wpisując &lt;e0&gt;man java&lt;/e0&gt; w oknie terminala.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2235,6 +2251,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210331T124323Z" creationid="Kasia Mędrzycka" creationdate="20210331T124323Z">
         <seg>Czy na pewno chcesz zresetować hasło główne?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arguments are added after the initial &lt;c0&gt;java&lt;/c0&gt;, and before the &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T100139Z" creationid="magdalenaklocek" creationdate="20210526T100139Z">
+        <seg>Argumenty są dodawane po początkowym &lt;c0&gt;java&lt;/c0&gt;, a przed &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2722,6 +2746,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211903Z" creationid="magdalenaklocek" creationdate="20210322T211903Z">
         <seg>Edytor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changes to this command involve the addition of "arguments" to it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T100112Z" creationid="magdalenaklocek" creationdate="20210526T100112Z">
+        <seg>Zmiany w tym poleceniu polegają na dodaniu do niego "argumentów".</seg>
       </tuv>
     </tu>
     <tu>
@@ -6564,6 +6596,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In other platforms, you can modify &lt;f3&gt;Configuration.properties&lt;/f3&gt; file on the Mac, or &lt;f4&gt;OmegaT&lt;/f4&gt; launcher under Linux to do the same.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T100303Z" creationid="magdalenaklocek" creationdate="20210526T100303Z">
+        <seg>Na innych platformach można zmienić plik &lt;f3&gt;Configuration.properties&lt;/f3&gt; na Macu, lub &lt;f4&gt;OmegaT&lt;/f4&gt; launcher pod Linuksem, aby zrobić to samo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In practice, this command will therefore be something like this:</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T095209Z" creationid="magdalenaklocek" creationdate="20210526T095209Z">
@@ -8591,6 +8631,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210322T211804Z" creationid="magdalenaklocek" creationdate="20210322T211804Z">
         <seg>Notatka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that in Windows you can change the &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; file to reflect your preferences.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T100227Z" creationid="magdalenaklocek" creationdate="20210526T100227Z">
+        <seg>Należy pamiętać, że w systemie Windows można zmienić plik &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt;, aby dostosować go do własnych preferencji..</seg>
       </tuv>
     </tu>
     <tu>
