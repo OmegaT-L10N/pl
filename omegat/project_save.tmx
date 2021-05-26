@@ -1498,6 +1498,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;This command assigns more memory to &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T112508Z" creationid="magdalenaklocek" creationdate="20210526T112508Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;To polecenie przypisuje więcej pamięci do &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Kaczmarska" changedate="20210520T202908Z" creationid="Agata Kaczmarska" creationdate="20210520T202908Z">
@@ -1663,6 +1671,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T112204Z" creationid="magdalenaklocek" creationdate="20210526T112204Z">
         <seg>&lt;p3&gt;XX&lt;/p3&gt; w poleceniu oznacza dwucyfrowy kod żądanego języka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;p4&gt;??&lt;/p4&gt; stands for the amount of memory assigned, in megabytes.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T112603Z" creationid="magdalenaklocek" creationdate="20210526T112603Z">
+        <seg>&lt;p4&gt;??&lt;/p4&gt; oznacza ilość przydzielonej pamięci, w megabajtach.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2610,6 +2626,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="pl" changeid="beataporodzynska" changedate="20210430T102931Z" creationid="AgatoZiemniak" creationdate="20210322T172350Z">
         <seg>Przeglądaj...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, 1024 MB are assigned, so there is no advantage in assigning less than this figure.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T112543Z" creationid="magdalenaklocek" creationdate="20210526T112543Z">
+        <seg>Domyślnie przydzielane jest 1024 MB, więc nie ma korzyści z przydzielania mniejszej liczby.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7949,6 +7973,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Memory assignment</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T112433Z" creationid="magdalenaklocek" creationdate="20210526T112433Z">
+        <seg>Przypisane zadania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Merge</seg>
       </tuv>
       <tuv lang="pl" changeid="AgatoZiemniak" changedate="20210322T173025Z" creationid="AgatoZiemniak" creationdate="20210322T173025Z">
@@ -12644,6 +12676,14 @@ bieżący folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The command to launch &lt;a5&gt;OmegaT&lt;/a5&gt; with assignment of 2048 MB (2 GB) of memory is therefore:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T112630Z" creationid="magdalenaklocek" creationdate="20210526T112630Z">
+        <seg>Polecenie do uruchomienia &lt;a5&gt;OmegaT&lt;/a5&gt; z przydzieleniem 2048 MB (2 GB) pamięci jest następujące:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
@@ -13175,6 +13215,14 @@ the server.</seg>
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T131330Z" creationid="paulina" creationdate="20210320T131330Z">
         <seg>To jest prawidłowy plik projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is necessary even if there's only one combination available, like &lt;l4&gt;pt_BR&lt;/l4&gt; in case of Brazilian Portuguese.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T112407Z" creationid="magdalenaklocek" creationdate="20210526T112407Z">
+        <seg>Jest to konieczne, nawet jeśli jest tylko jedna dostępna kombinacja, jak &lt;l4&gt;pt_BR&lt;/l4&gt; w przypadku brazylijskiego portugalskiego.</seg>
       </tuv>
     </tu>
     <tu>
