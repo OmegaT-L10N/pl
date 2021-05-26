@@ -1474,6 +1474,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when &lt;a3&gt;OmegaT&lt;/a3&gt; is launched without any arguments, the program first detects the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T100505Z" creationid="magdalenaklocek" creationdate="20210526T100505Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Zwykle, tzn. gdy &lt;a3&gt;OmegaT&lt;/a3&gt; jest uruchamiany bez żadnych argumentów, program najpierw wykrywa język systemu operacyjnego użytkownika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Kaczmarska" changedate="20210520T202908Z" creationid="Agata Kaczmarska" creationdate="20210520T202908Z">
@@ -6265,6 +6273,14 @@ nie ma...</seg>
       </tuv>
       <tuv lang="pl" changeid="AgataWojtera" changedate="20210323T141200Z" creationid="AgataWojtera" creationdate="20210323T141200Z">
         <seg>Jeśli plik HHC lub HHK posiada dekarację kodowania, będzie ono użyte niezależnie od wartości podanych w tym oknie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a user interface in this language is available, &lt;a4&gt;OmegaT&lt;/a4&gt; uses it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T100731Z" creationid="magdalenaklocek" creationdate="20210526T100731Z">
+        <seg>Jeśli interfejs użytkownika w tym języku jest dostępny, &lt;a4&gt;OmegaT&lt;/a4&gt; go wykorzystuje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14140,6 +14156,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Aleksandra" changedate="20210329T170621Z" creationid="Aleksandra" creationdate="20210329T170621Z">
         <seg>User group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User interface language</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T100417Z" creationid="magdalenaklocek" creationdate="20210526T100417Z">
+        <seg>Język interfejsu użytkownika</seg>
       </tuv>
     </tu>
     <tu>
