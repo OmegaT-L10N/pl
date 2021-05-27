@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-5.3.0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9359,6 +9359,14 @@ określony projekt zespołowy
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other Systems</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T140710Z" creationid="Kasia Mędrzycka" creationdate="20210527T140710Z">
+        <seg>Inne systemy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other contributions are detailed in the readme.txt file</seg>
       </tuv>
       <tuv lang="pl" changeid="Aleksandra" changedate="20210330T150515Z" creationid="Aleksandra" creationdate="20210330T150449Z">
@@ -13207,6 +13215,14 @@ the server.</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Kaczmarska" changedate="20210520T202318Z" creationid="Agata Kaczmarska" creationdate="20210520T202318Z">
         <seg>Niniejsze informacje dotyczą wyłącznie "tradycyjnych" wersji programu OmegaT dla systemu Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This information applies to systems such as Solaris SPARC/x86/x64, Linux x64/PowerPC, Windows x64.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T140931Z" creationid="Kasia Mędrzycka" creationdate="20210527T140931Z">
+        <seg>Ta informacja dotyczy systemów takich jak Solaris SPARC/x86/x64, Linux x64/PowerPC, Windows x64.</seg>
       </tuv>
     </tu>
     <tu>
