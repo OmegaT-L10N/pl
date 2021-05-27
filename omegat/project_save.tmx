@@ -1683,6 +1683,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T145108Z" creationid="Anna Zaręba" creationdate="20210527T145108Z">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Utwórz / otwórz nowy&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p3&gt;XX&lt;/p3&gt; in the command stands for the two-digit code of the desired language.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210526T112204Z" creationid="magdalenaklocek" creationdate="20210526T112204Z">
@@ -1695,6 +1703,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210526T112603Z" creationid="magdalenaklocek" creationdate="20210526T112603Z">
         <seg>&lt;p4&gt;??&lt;/p4&gt; oznacza ilość przydzielonej pamięci, w megabajtach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T145345Z" creationid="Anna Zaręba" creationdate="20210527T145345Z">
+        <seg>&lt;r0&gt;Uwaga:&lt;/r0&gt; W systemie macOS, należy użyć klawisza &lt;k1&gt;Command&lt;/k1&gt; zamiast klawisza &lt;k2&gt;Control&lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11618,6 +11634,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210329T170538Z" creationid="Aleksandra" creationdate="20210329T170538Z">
         <seg>Set up a Team Project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set up a new project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T145129Z" creationid="Anna Zaręba" creationdate="20210527T145129Z">
+        <seg>Utwórz nowy projekt</seg>
       </tuv>
     </tu>
     <tu>
