@@ -8583,6 +8583,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T150607Z" creationid="Anna Zaręba" creationdate="20210527T150607Z">
+        <seg>Następnie, okno dialogowe &lt;g0&gt;Pliki projektu&lt;/g0&gt; zostaje otwarte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="PL" changeid="Wojciech" changedate="20210414T160139Z" creationid="Wojciech" creationdate="20210414T160139Z">
