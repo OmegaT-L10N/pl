@@ -1458,6 +1458,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is available bundled with a Oracle Java JRE for Linux (Intel x86) and Windows platforms.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T141153Z" creationid="Kasia Mędrzycka" creationdate="20210527T141153Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; jest niedostępna w pakiecie z Oracle Java JRE dla platform Linux (Intel x86) i Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; remembers the segments executed.</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20210521T100839Z" creationid="beataporodzynska" creationdate="20210514T110014Z">
@@ -14364,6 +14372,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Zaręba" changedate="20210331T121043Z" creationid="Anna Zaręba" creationdate="20210331T121043Z">
         <seg>Nazwa użytkownika lub klucz API:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Users of other platforms (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) must have a running compatible Java JRE on their system to be able to use &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T142042Z" creationid="Kasia Mędrzycka" creationdate="20210527T142042Z">
+        <seg>Użytkownicy innych platform (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 itd.) muszą mieć na swoim systemie dostęp do kompatybilnej wersji Java JRE, żeby móc używać &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
