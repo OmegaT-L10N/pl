@@ -1562,6 +1562,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;No:&lt;/e0&gt; obtain a Java JRE for your system (see below) and download &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T155706Z" creationid="Kasia Mędrzycka" creationdate="20210527T155706Z">
+        <seg>&lt;e0&gt;Nie:&lt;/e0&gt; uzyskaj Java JRE dla twojego systemu (patrz niżej) i pobierz  &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Kaczmarska" changedate="20210520T195302Z" creationid="Agata Kaczmarska" creationdate="20210520T195302Z">
@@ -6471,8 +6479,8 @@ nie ma...</seg>
       <tuv lang="en">
         <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T155004Z" creationid="Kasia Mędrzycka" creationdate="20210527T155004Z">
-        <seg>Jeśli pojawi się "nie znaleziono polecenia" lub podobny komunikat, Java prawdopodobnie nie została zainstalowana w </seg>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T155055Z" creationid="Kasia Mędrzycka" creationdate="20210527T155004Z">
+        <seg>Jeśli pojawi się "nie znaleziono polecenia" lub podobny komunikat, Java prawdopodobnie nie jest zainstalowana w systemie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14738,8 +14746,8 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       <tuv lang="en">
         <seg>Users of other platforms (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) must have a running compatible Java JRE on their system to be able to use &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T142042Z" creationid="Kasia Mędrzycka" creationdate="20210527T142042Z">
-        <seg>Użytkownicy innych platform (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 itd.) muszą mieć na swoim systemie dostęp do kompatybilnej wersji Java JRE, żeby móc używać &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T155014Z" creationid="Kasia Mędrzycka" creationdate="20210527T142042Z">
+        <seg>Użytkownicy innych platform (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 itd.) muszą mieć w swoim systemie dostęp do kompatybilnej wersji Java JRE, żeby móc używać &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
