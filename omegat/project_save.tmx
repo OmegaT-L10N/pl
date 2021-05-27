@@ -7422,6 +7422,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java Web Start ensures that the latest version of the application will be deployed, as well as the correct version of the Java Runtime Environment (JRE) used.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T204854Z" creationid="Kasia Mędrzycka" creationdate="20210527T204854Z">
+        <seg>Java Web Start zapewnia wdrożenie najnowszej wersji aplikacji oraz użycie poprawnej wersji Java Runtime Environment (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java Web Start technology (part of Java 8 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
       </tuv>
       <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T204610Z" creationid="Kasia Mędrzycka" creationdate="20210527T204610Z">
