@@ -14688,6 +14688,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T151444Z" creationid="Anna Zaręba" creationdate="20210527T151444Z">
+        <seg>Jeżeli chcesz zobaczyć, jak będzie wyglądało tłumaczenie w ostatecznym formacie, kliknij &lt;k2&gt;Ctrl+D&lt;/k2&gt; ab wygenerować przetłumaczone dokumenty, które będą utworzone w subfolderze  &lt;f3&gt;/target/&lt;/f3&gt; w folderze projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Which version do you want to keep?</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T170011Z" creationid="AgatoZiemniak" creationdate="20210322T170011Z">
