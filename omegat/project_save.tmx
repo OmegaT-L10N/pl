@@ -5745,6 +5745,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; on the OmegaT web site.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T154421Z" creationid="Anna Zaręba" creationdate="20210527T154421Z">
+        <seg>Bardziej szczegółowe wprowadzenie można uzyskać w &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; na stronie programu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For all files:</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T145525Z" creationid="Komputer" creationdate="20210331T145525Z">
@@ -6720,6 +6728,14 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210517T214744Z" creationid="magda" creationdate="20210517T214744Z">
         <seg>Jeśli jeszcze nie zapisałeś projektu, ten przycisk ręcznie potwierdza, czy naprawdę chcesz zakończyć pracę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T154514Z" creationid="Anna Zaręba" creationdate="20210527T154514Z">
+        <seg>Jeżeli potrzebujesz pomocy w jakimkolwiek aspekcie działania programu OmegaT, zapraszamy do dołączenia do &lt;u1&gt;grupy użytkowników programu OmegaT.&lt;/u1&gt;</seg>
       </tuv>
     </tu>
     <tu>
