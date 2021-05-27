@@ -7180,6 +7180,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T154312Z" creationid="Anna Zaręba" creationdate="20210527T154312Z">
+        <seg>Często przydatne jest wyszukiwanie słów i fraz w tekście źródłowym oraz w tłumaczeniu, należy kliknąć&lt;k0&gt;Ctrl+F&lt;/k0&gt;, aby otworzyć okno dialogowe &lt;g1&gt;Wyszukiwanie tekstu&lt;/g1&gt; w dowolnym momencie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is used to mark your translations.</seg>
       </tuv>
       <tuv lang="PL" changeid="studentka" changedate="20210407T075527Z" creationid="studentka" creationdate="20210407T075431Z">
