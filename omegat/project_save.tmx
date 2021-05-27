@@ -5521,6 +5521,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Few more things to remember</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T152902Z" creationid="Anna Zaręba" creationdate="20210527T152902Z">
+        <seg>Kilka rzeczy do zapamiętania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File</seg>
       </tuv>
       <tuv lang="PL" changeid="magdaradka" changedate="20210323T163928Z" creationid="magdalenaklocek" creationdate="20210322T211615Z">
@@ -5942,6 +5950,14 @@ przykro...</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210317T170025Z" creationid="Aleksandra" creationdate="20210317T170025Z">
         <seg>General Preferences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Generate the translated file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T152700Z" creationid="Anna Zaręba" creationdate="20210527T152700Z">
+        <seg>Wygeneruj przetłumaczony plik</seg>
       </tuv>
     </tu>
     <tu>
@@ -6425,6 +6441,14 @@ nie ma...</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141200Z" creationid="AgataWojtera" creationdate="20210323T141200Z">
         <seg>Jeśli plik HHC lub HHK posiada dekarację kodowania, będzie ono użyte niezależnie od wartości podanych w tym oknie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T153028Z" creationid="Anna Zaręba" creationdate="20210527T153028Z">
+        <seg>Jeżeli plik nie wczytuje się do panelu &lt;g0&gt;Edytor&lt;/g0&gt; może to oznaczać, że jest to format, który nie działa w programie OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9259,6 +9283,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210524T202417Z" creationid="wciecierska" creationdate="20210524T202417Z">
         <seg>Następnie możesz usunąć plik &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt;, nie będzie już potrzebny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T152844Z" creationid="Anna Zaręba" creationdate="20210527T152844Z">
+        <seg>Po upewneniu się, że w tłumaczeniu nie ma błędów w tagach, naciśnij &lt;k0&gt;Ctrl+D&lt;/k0&gt;, aby wygenerować pliki docelowe, któe zostaną utworzone w subdofolderze &lt;f1&gt;/target/&lt;/f1&gt; w folderze projektu.</seg>
       </tuv>
     </tu>
     <tu>
