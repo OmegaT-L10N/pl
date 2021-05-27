@@ -7132,6 +7132,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installing convenient shortcuts</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T195121Z" creationid="Kasia Mędrzycka" creationdate="20210527T195121Z">
+        <seg>Instalacja wygodnych skrótów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Instant Start</seg>
       </tuv>
       <tuv lang="pl" changeid="beataporodzynska" changedate="20210325T203630Z" creationid="beataporodzynska" creationdate="20210325T203630Z">
