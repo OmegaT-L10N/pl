@@ -4591,6 +4591,14 @@ i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T151542Z" creationid="Anna Zaręba" creationdate="20210527T151542Z">
+        <seg>W czasie tłumaczenia, używaj menu &lt;g4&gt;Edytuj&lt;/g4&gt; oraz &lt;g5&gt;Idź do&lt;/g5&gt;, aby wykonywać rózne, użyteczne funkcje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dutch</seg>
       </tuv>
       <tuv lang="PL" changeid="AgataWojtera" changedate="20210323T141938Z" creationid="AgataWojtera" creationdate="20210323T141938Z">
