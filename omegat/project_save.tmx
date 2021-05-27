@@ -11372,6 +11372,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Preferences...&lt;/g3&gt;&lt;g4&gt;File Filters&lt;/g4&gt;&lt;/m1&gt; for a list of file formats that OmegaT can handle.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T153200Z" creationid="Anna Zaręba" creationdate="20210527T153200Z">
+        <seg>Listę obsługiwanych formatów przez program OmegaT można znaleźć w: &lt;m1&gt;&lt;g2&gt;Opcje&lt;/g2&gt;&lt;g3&gt;Preferencje...&lt;/g3&gt;&lt;g4&gt;Filtry plików&lt;/g4&gt;&lt;/m1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
       <tuv lang="PL" changeid="Werciks" changedate="20210406T190721Z" creationid="Werciks" creationdate="20210406T190721Z">
@@ -15064,6 +15072,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210524T204133Z" creationid="wciecierska" creationdate="20210524T204133Z">
         <seg>Możesz skorzystać z AppleScript lub Automator, by stworzyć własne Usługi lub skrypty, które zautomatyzują częste czynności.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T153246Z" creationid="Anna Zaręba" creationdate="20210527T153246Z">
+        <seg>Możesz utworzyć nowy projekt do każdego nowego zadania, nowe pliki źródłoe możesz dodać do projektu w dowolnym momencie.</seg>
       </tuv>
     </tu>
     <tu>
