@@ -6724,6 +6724,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T153957Z" creationid="Anna Zaręba" creationdate="20210527T153957Z">
+        <seg>Jeżeli takie pliki tłumaczeniowe zostanę umieszczone w podkatalogu  &lt;f6&gt;/tm/&lt;/f6&gt;, program OmegaT automatycznie je przeszuka w poszukiwaniu podobnych segmentów, które nazywane są "dopasowaniami rozmytymi".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If your existing OmegaT installation is a "Windows with JRE" version, the new version must also be a "Windows with JRE" version.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T204241Z" creationid="Agata Kaczmarska" creationdate="20210520T204241Z">
@@ -13067,6 +13075,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T153810Z" creationid="Anna Zaręba" creationdate="20210527T153810Z">
+        <seg>Pamięc tłumaczeniowa o nazwie &lt;f5&gt;omegat&lt;/f5&gt; może być wykorzystywana tylko w programie OmegaT, w kolejnych projektach, które są tworzone przez użytkownika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The next segment with a note attached to it, will open.</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210520T190917Z" creationid="beataporodzynska" creationdate="20210520T185423Z">
@@ -15088,6 +15104,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T204849Z" creationid="Agata Kaczmarska" creationdate="20210520T204849Z">
         <seg>Możesz dodać &lt;a0&gt;OmegaT&lt;/a0&gt; do swoich menu w następujący sposób:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T154134Z" creationid="Anna Zaręba" creationdate="20210527T154134Z">
+        <seg>Można dodać nowy termin do słownika, naciskając klawisze&lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, lub kopiując istniejące &lt;f1&gt;/glosariusze/&lt;/f1&gt; w podfolderze projektu, a program OmegaT automatycznie wyszuka w nich słowa.</seg>
       </tuv>
     </tu>
     <tu>
