@@ -9075,6 +9075,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that if you need or wish to use any of the launch command arguments (see above), you must use the normal installation.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T211123Z" creationid="Kasia Mędrzycka" creationdate="20210527T211123Z">
+        <seg>Zauważ, że jeśli potrzebujesz albo chcesz używać którychkolwiek argumentów wiersza polecenia (patrz wyżej), to musisz dokonać normalnej instalacji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that in Windows you can change the &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; file to reflect your preferences.</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T100227Z" creationid="magdalenaklocek" creationdate="20210526T100227Z">
@@ -13126,8 +13134,8 @@ bieżący folder.</seg>
       <tuv lang="en">
         <seg>The application runs on your machine only.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T210455Z" creationid="Kasia Mędrzycka" creationdate="20210527T210455Z">
-        <seg>Aplikacja działa tylko twoim urządzeniu.</seg>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T210505Z" creationid="Kasia Mędrzycka" creationdate="20210527T210455Z">
+        <seg>Aplikacja działa tylko na twoim urządzeniu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15498,6 +15506,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="pl" changeid="jnnas10" changedate="20210407T155605Z" creationid="jnnas10" creationdate="20210406T112129Z">
         <seg>W projekcie użyto segmentacji zdaniowej, jednak plik TMX używa segmentacji akapitowej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your documents and translation memories remain on your computer, and the &lt;a2&gt;OmegaT&lt;/a2&gt; project will have no access to your work or information.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T210611Z" creationid="Kasia Mędrzycka" creationdate="20210527T210611Z">
+        <seg>Twoje dokumenty i pamięci tłumaczeniowe pozostają na twoim komputerze, a projekt &lt;a2&gt;OmegaT&lt;/a2&gt; nie będzie miał dostępu do twojej pracy lub informacji.</seg>
       </tuv>
     </tu>
     <tu>
