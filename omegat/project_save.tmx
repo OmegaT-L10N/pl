@@ -2004,6 +2004,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T150913Z" creationid="Anna Zaręba" creationdate="20210527T150913Z">
+        <seg>Po tym, jak pliki źródłowe zostaną załadowane w panelu  &lt;g3&gt;Edytor&lt;/g3&gt; możesz zamknąć okno dialogowe &lt;g4&gt;Pliki projektu&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T150002Z" creationid="Anna Zaręba" creationdate="20210527T150002Z">
@@ -3097,6 +3105,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210326T100920Z" creationid="Kasia Mędrzycka" creationdate="20210326T100726Z">
         <seg>Kliknij pozycję menu '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T150702Z" creationid="Anna Zaręba" creationdate="20210527T150702Z">
+        <seg>Kliknij&lt;g1&gt;Kopiuj pliki do folderu źródłowego...&lt;/g1&gt;, aby wybrać pliki źródłowe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9115,6 +9131,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="adurk" changedate="20210406T185350Z" creationid="adurk" creationdate="20210406T185350Z">
         <seg>OmegaT zostanie teraz zamknięty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T150754Z" creationid="Anna Zaręba" creationdate="20210527T150754Z">
+        <seg>Następnie program OmegaT skopiuje wybrane pliki do podkatalogu &lt;f2&gt;/źródło/&lt;/f2&gt; nowo utworzonego projektu.</seg>
       </tuv>
     </tu>
     <tu>
