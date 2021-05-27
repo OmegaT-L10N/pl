@@ -7422,6 +7422,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java Web Start technology (part of Java 8 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T204610Z" creationid="Kasia Mędrzycka" creationdate="20210527T204610Z">
+        <seg>Technologia Java Web Start (część Java 8 i nowszych wersji) może być używana do wdrażania autonomicznych aplikacji oprogramowania Java pojedynczym kliknięciem w sieci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java: {0} ver.</seg>
       </tuv>
       <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210326T100654Z" creationid="Kasia Mędrzycka" creationdate="20210326T100654Z">
@@ -14852,6 +14860,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T155014Z" creationid="Kasia Mędrzycka" creationdate="20210527T142042Z">
         <seg>Użytkownicy innych platform (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 itd.) muszą mieć w swoim systemie dostęp do kompatybilnej wersji Java JRE, żeby móc używać &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using Java Web Start</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T202553Z" creationid="Kasia Mędrzycka" creationdate="20210527T202553Z">
+        <seg>Używanie Java Web Start</seg>
       </tuv>
     </tu>
     <tu>
