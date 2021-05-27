@@ -2982,6 +2982,14 @@ opuść kolejkę...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check "&lt;l4/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T201927Z" creationid="Kasia Mędrzycka" creationdate="20210527T201927Z">
+        <seg>Więcej informacji poniżej "&lt;l4/&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
       <tuv lang="pl" changeid="Barnaba Nowakiewicz" changedate="20210402T141051Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T141051Z">
