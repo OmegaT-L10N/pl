@@ -6485,6 +6485,14 @@ nie ma...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, the command-line alternative allows the user to control and modify the program's behavior.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T211629Z" creationid="Kasia Mędrzycka" creationdate="20210527T211629Z">
+        <seg>Jednakże wybór wiersza polecenia pozwala użytkownikowi kontrolować i modyfikować zachowanie programu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
       </tuv>
       <tuv lang="pl" changeid="Aleksandra" changedate="20210327T181201Z" creationid="Aleksandra" creationdate="20210327T180129Z">
