@@ -1683,6 +1683,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T145415Z" creationid="Anna Zaręba" creationdate="20210527T145415Z">
+        <seg>&lt;p0&gt;Projekt menu&lt;/p0&gt; &lt;s1&gt;Nowy...&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T145108Z" creationid="Anna Zaręba" creationdate="20210527T145108Z">
@@ -13504,6 +13512,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T191033Z" creationid="Aleksandra" creationdate="20210327T191033Z">
         <seg>To speed up this process, existing translations can be reused.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T145718Z" creationid="Anna Zaręba" creationdate="20210527T145718Z">
+        <seg>Aby rozpocząć pracę z programem OmegaT, najpierw należy utworzyć projekt, w którym przechowtwane będą wszyskie pliki, takie jak plik źródłowy, pamięci tłumaczeniowe, glosariusze oraz koniec końców, przetłumaczony plik.</seg>
       </tuv>
     </tu>
     <tu>
