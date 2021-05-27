@@ -13708,6 +13708,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T153340Z" creationid="Anna Zaręba" creationdate="20210527T153340Z">
+        <seg>W celu przypomnienia sobie ustawień początkowych projektu, otwórz okno dialogowe projektu, naciskając klawisze&lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To speed up this process, existing translations can be reused.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T191033Z" creationid="Aleksandra" creationdate="20210327T191033Z">
