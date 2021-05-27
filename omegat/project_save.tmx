@@ -1570,6 +1570,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Privacy&lt;/e0&gt;: &lt;a1&gt;OmegaT&lt;/a1&gt; Java Web Start does not save any of your information beyond the computer on which you are running it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T210355Z" creationid="Kasia Mędrzycka" creationdate="20210527T210355Z">
+        <seg>&lt;e0&gt;Prywatność&lt;/e0&gt;: &lt;a1&gt;OmegaT&lt;/a1&gt; Java Web Start nie zapisuje żadnych informacji poza komputerem, na którym go używasz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Kaczmarska" changedate="20210520T195302Z" creationid="Agata Kaczmarska" creationdate="20210520T195302Z">
@@ -2038,8 +2046,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>After the initial installation you can, of course, also use &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; also when you are offline.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T210126Z" creationid="Kasia Mędrzycka" creationdate="20210527T210126Z">
-        <seg>Po wstępnej instalacji możesz oczywiście używać również &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; również kiedy jesteś offline.</seg>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T210211Z" creationid="Kasia Mędrzycka" creationdate="20210527T210126Z">
+        <seg>Po wstępnej instalacji możesz oczywiście używać &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; również, kiedy jesteś offline.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13112,6 +13120,14 @@ bieżący folder.</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T095651Z" creationid="magdalenaklocek" creationdate="20210526T095651Z">
         <seg>Powyższa metoda jest nieco niepraktyczna w uruchamianiu programu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The application runs on your machine only.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T210455Z" creationid="Kasia Mędrzycka" creationdate="20210527T210455Z">
+        <seg>Aplikacja działa tylko twoim urządzeniu.</seg>
       </tuv>
     </tu>
     <tu>
