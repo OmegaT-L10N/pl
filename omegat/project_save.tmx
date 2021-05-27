@@ -4575,6 +4575,14 @@ i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Drag and drop</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T201953Z" creationid="Kasia Mędrzycka" creationdate="20210527T201953Z">
+        <seg>Przeciągnij i upuść</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Drag and drop &lt;f0&gt;OmegaT.app&lt;/f0&gt; onto the Dock.</seg>
       </tuv>
       <tuv lang="pl" changeid="wciecierska" changedate="20210524T202504Z" creationid="wciecierska" creationdate="20210524T202504Z">
@@ -6892,6 +6900,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In most systems, it is possible to open a project by dropping an &lt;f0&gt;omegat.project&lt;/f0&gt; file onto the OmegaT icon on the desktop.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T202144Z" creationid="Kasia Mędrzycka" creationdate="20210527T202144Z">
+        <seg>W większości systemów można otworzyć projekt poprzez upuszczenie pliku &lt;f0&gt;omegat.project&lt;/f0&gt; na ikonę OmegaT na pulpicie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In notes</seg>
       </tuv>
       <tuv lang="pl" changeid="wciecierska" changedate="20210430T104234Z" creationid="annap" creationdate="20210331T120428Z">
@@ -7280,6 +7296,14 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="pl" changeid="studentka" changedate="20210407T075527Z" creationid="studentka" creationdate="20210407T075431Z">
         <seg>Jest ono używane do oznaczenia twoich tłumaczeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It might also be possible to open an OmegaT project by double-clicking on an &lt;f1&gt;omegat.project&lt;/f1&gt; file.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T202536Z" creationid="Kasia Mędrzycka" creationdate="20210527T202536Z">
+        <seg>Możliwe jest również otworzenie projektu OmegaT przez dwukrotne kliknięcie w plik &lt;f1&gt;omegat.project&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
