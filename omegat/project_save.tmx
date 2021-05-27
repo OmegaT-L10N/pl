@@ -13296,6 +13296,14 @@ braku strony...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T152257Z" creationid="Anna Zaręba" creationdate="20210527T152257Z">
+        <seg>Są chronione, więc nie jest możliwe modyfikowanie ich zawartości, można je usuwać, wpisywać ręcznie lub przenosić w obrębie zdania docelowego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This
 will delete your local data and re-download the project contents from
 the server.</seg>
