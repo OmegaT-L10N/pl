@@ -6684,6 +6684,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T151905Z" creationid="Anna Zaręba" creationdate="20210527T151905Z">
+        <seg>Jeśli pliki źródłowe to pliki sformatowane takie jak np. Microsoft Word, LibreOffice Writer lub HTML, program OmegaT przekształci formatowanie na znaczniki otaczające tłumaczony tekst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore All</seg>
       </tuv>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210331T122729Z" creationid="Kasia Mędrzycka" creationdate="20210331T122729Z">
@@ -14548,6 +14556,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T150706Z" creationid="Aleksandra" creationdate="20210330T150706Z">
         <seg>VLDocking Framework (licencja LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate your tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T151608Z" creationid="Anna Zaręba" creationdate="20210527T151608Z">
+        <seg>Sprawdź poprawność tagów</seg>
       </tuv>
     </tu>
     <tu>
