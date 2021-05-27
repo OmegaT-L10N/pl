@@ -13555,6 +13555,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This creates an &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T194802Z" creationid="Kasia Mędrzycka" creationdate="20210527T194802Z">
+        <seg>To utworzy folder &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt; w folderze roboczym ze wszystkimi plikami potrzebnymi do uruchomienia &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This function is specific to team projects.</seg>
       </tuv>
       <tuv lang="pl" changeid="magda" changedate="20210517T213346Z" creationid="magda" creationdate="20210517T213346Z">
