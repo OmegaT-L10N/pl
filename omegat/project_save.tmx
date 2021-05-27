@@ -2403,6 +2403,14 @@ co może skutkować nieoczekiwanym, ale prawidłowym działaniem.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T150115Z" creationid="Anna Zaręba" creationdate="20210527T150115Z">
+        <seg>W górnej części okna dialogowego wybierz język pliku źródłowego, a także język, na który ma być przetłumaczony plik, następnie kliknij &lt;g1&gt;OK&lt;/g1&gt; aby kontynuować.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
       <tuv lang="PL" changeid="studentka" changedate="20210407T082736Z" creationid="AgataWojtera" creationdate="20210317T174601Z">
@@ -6584,6 +6592,14 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T202639Z" creationid="Agata Kaczmarska" creationdate="20210520T202639Z">
         <seg>Jeżeli na komputerze jest już zainstalowana wersja programu OmegaT i chcesz ją zaktualizować do nowszej wersji, istnieją dwie możliwości:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T150503Z" creationid="Anna Zaręba" creationdate="20210527T150503Z">
+        <seg>Jeżeli interesują Cię inne ustawienia tego okna dialogowego, możesz w każdej chwili do niego powrócić, klikając &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
