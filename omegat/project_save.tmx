@@ -2004,6 +2004,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T150002Z" creationid="Anna Zaręba" creationdate="20210527T150002Z">
+        <seg>Po nadaniu nazwy projektowi, &lt;g0&gt;okno dialogowe Utwórz nowy projekt&lt;/g0&gt; zostanie otwarte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T182657Z" creationid="monika" creationdate="20210327T182657Z">
@@ -6740,6 +6748,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T145757Z" creationid="Anna Zaręba" creationdate="20210527T145757Z">
+        <seg>W menu &lt;g0&gt;Projekt&lt;/g0&gt; wybierz &lt;m1&gt;&lt;g2&gt;Nowy...&lt;/g2&gt;&lt;/m1&gt; i wpisz nazwę swojego projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the following window you can indicate that the language selected is to be used in OmegaT.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T201037Z" creationid="Agata Kaczmarska" creationdate="20210520T201037Z">
@@ -10414,6 +10430,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T141846Z" creationid="Komputer" creationdate="20210331T141846Z">
         <seg>Pozostałe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remember where you are creating the project, because you will need to return to it later.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T145833Z" creationid="Anna Zaręba" creationdate="20210527T145833Z">
+        <seg>Zapemiętaj, gdzie tworzysz projekt, ponieważ później będziesz musiał do niego wrócić..</seg>
       </tuv>
     </tu>
     <tu>
