@@ -6357,6 +6357,14 @@ nie ma...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T152553Z" creationid="Anna Zaręba" creationdate="20210527T152553Z">
+        <seg>Jeżeli jednak popełniono błędy podczas wpisywania tagów formatowania, przetłumaczone pliki mogą nie dać się otworzyć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T181201Z" creationid="Aleksandra" creationdate="20210327T180129Z">
@@ -13263,6 +13271,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T124028Z" creationid="monika" creationdate="20210325T124028Z">
         <seg>Podczas instalacji LanguageTool wystąpił błąd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T152647Z" creationid="Anna Zaręba" creationdate="20210527T152647Z">
+        <seg>Dlatego należy nacisnąć &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; przed wygenerowaniem przełumaczonych plików, aby sprawdzić, czy tagi są poprawne.</seg>
       </tuv>
     </tu>
     <tu>
