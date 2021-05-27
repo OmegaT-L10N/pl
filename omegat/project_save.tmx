@@ -2036,6 +2036,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the initial installation you can, of course, also use &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; also when you are offline.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T210126Z" creationid="Kasia Mędrzycka" creationdate="20210527T210126Z">
+        <seg>Po wstępnej instalacji możesz oczywiście używać również &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; również kiedy jesteś offline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Zaręba" changedate="20210527T150913Z" creationid="Anna Zaręba" creationdate="20210527T150913Z">
