@@ -7909,6 +7909,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure that your &lt;v2&gt;PATH&lt;/v2&gt; settings are correct and that &lt;f3&gt;.jar&lt;/f3&gt; files are properly associated with a Java launcher.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T201826Z" creationid="Kasia Mędrzycka" creationdate="20210527T201826Z">
+        <seg>Upewnij się, że ustawienia &lt;v2&gt;PATH&lt;/v2&gt; są poprawne i pliki &lt;f3&gt;.jar&lt;/f3&gt; są odpowiednio skojarzone z modułem uruchamiania Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Manage Right-To-Left languages</seg>
       </tuv>
       <tuv lang="pl" changeid="Aleksandra" changedate="20210329T170539Z" creationid="Aleksandra" creationdate="20210329T170539Z">
