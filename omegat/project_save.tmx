@@ -1755,6 +1755,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A command line window is also referred to as a "terminal window".</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T211843Z" creationid="Kasia Mędrzycka" creationdate="20210527T211843Z">
+        <seg>Okno wiersza polecenia jest również nazywane "oknem terminala".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A list of possible arguments is given below.</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T100324Z" creationid="magdalenaklocek" creationdate="20210526T100324Z">
@@ -9479,6 +9487,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T212104Z" creationid="Kasia Mędrzycka" creationdate="20210527T212104Z">
+        <seg>W systemie Windows jest nazywane "okno MS-DOS" i jest dostępne w menu Start, w Programach, przez element "MS-DOS".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On macOS</seg>
       </tuv>
       <tuv lang="pl" changeid="magdalenaklocek" changedate="20210526T095232Z" creationid="magdalenaklocek" creationdate="20210526T095232Z">
@@ -9651,6 +9667,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="pl" changeid="magda" changedate="20210514T104748Z" creationid="magda" creationdate="20210514T104748Z">
         <seg>Otwórz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opening a command line window</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T211755Z" creationid="Kasia Mędrzycka" creationdate="20210527T211746Z">
+        <seg>Otwieranie okna wiersza polecenia</seg>
       </tuv>
     </tu>
     <tu>
@@ -13575,6 +13599,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="pl" changeid="Barnaba Nowakiewicz" changedate="20210402T142523Z" creationid="monika" creationdate="20210327T183759Z">
         <seg>Dostępnych jest wiele wtyczek dla programu OmegaT online.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are two ways of launching &lt;a1&gt;OmegaT&lt;/a1&gt; using the command line.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T211728Z" creationid="Kasia Mędrzycka" creationdate="20210527T211728Z">
+        <seg>Są dwa sposoby na uruchomienie &lt;a1&gt;OmegaT&lt;/a1&gt; używając wiersza polecenia.</seg>
       </tuv>
     </tu>
     <tu>
