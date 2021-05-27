@@ -13339,6 +13339,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The macOS equivalent is the application Terminal located in &lt;f0&gt;Applications/Utilities&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T212226Z" creationid="Kasia Mędrzycka" creationdate="20210527T212226Z">
+        <seg>Ekwiwalentem w systemie macOS jest aplikacja Terminal ulokowana w &lt;f0&gt;Apliacjach/Narzędziach&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Zaręba" changedate="20210527T153810Z" creationid="Anna Zaręba" creationdate="20210527T153810Z">
