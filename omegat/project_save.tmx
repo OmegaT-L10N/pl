@@ -1747,6 +1747,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A source sentence might look like:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T152027Z" creationid="Anna Zaręba" creationdate="20210527T152027Z">
+        <seg>Zdanie źródłowe może wyglądać następująco:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="PL" changeid="Werciks" changedate="20210406T191714Z" creationid="Werciks" creationdate="20210406T191714Z">
@@ -9019,6 +9027,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T152001Z" creationid="Anna Zaręba" creationdate="20210527T152001Z">
+        <seg>Często w dokumentach znajdują się również znaczniki, które nie mają nic wspólnego z formatowaniem, ale są również ważne w plikach źródłowych (a także w przetłumaczonych plikach).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210331T113832Z" creationid="Komputer" creationdate="20210329T094721Z">
@@ -9187,6 +9203,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210401T090508Z" creationid="AgatoZiemniak" creationdate="20210401T090508Z">
         <seg>OmegaT {0} jest gotowy do użycia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T152106Z" creationid="Anna Zaręba" creationdate="20210527T152106Z">
+        <seg>Jednak OmegaT przedstawi to zdanie w następujący sposób:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13151,6 +13175,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210519T134753Z" creationid="paulina" creationdate="20210519T134732Z">
         <seg>Obsługiwane formaty plików są wymienione w &lt;m0&gt; &lt;g1&gt;Projekt&lt;/g1&gt; &lt;g2&gt;Właściwości&lt;/g2&gt; &lt;g3&gt;Filtry plików&lt;/g3&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T152158Z" creationid="Anna Zaręba" creationdate="20210527T152158Z">
+        <seg>Tagi w programie OmegaT są szare, więc łatwo je rozpoznać.</seg>
       </tuv>
     </tu>
     <tu>
