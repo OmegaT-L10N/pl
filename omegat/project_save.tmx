@@ -2020,6 +2020,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T151206Z" creationid="Anna Zaręba" creationdate="20210527T151206Z">
+        <seg>Po przetłumaczeniu każdego segmentu, kliknj &lt;k0&gt;Ctrl+U&lt;/k0&gt;aby przejść do następnego nieprzetłumaczonego segmentu (lub &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; aby przejść do następnego przetłumaczonego segmentu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T182657Z" creationid="monika" creationdate="20210327T182657Z">
@@ -9135,6 +9143,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will present one segment at a time for you to translate.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T151044Z" creationid="Anna Zaręba" creationdate="20210527T151044Z">
+        <seg>OmegaT dostarczy jednorazowo jeden segment do przetłumaczenia..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T150754Z" creationid="Anna Zaręba" creationdate="20210527T150754Z">
@@ -13680,6 +13696,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T121433Z" creationid="annap" creationdate="20210331T121433Z">
         <seg>Przetłumaczone lub nieprzetłumaczone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translate the file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T150922Z" creationid="Anna Zaręba" creationdate="20210527T150922Z">
+        <seg>Przetłumacz plik</seg>
       </tuv>
     </tu>
     <tu>
