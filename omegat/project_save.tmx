@@ -2427,6 +2427,14 @@ co może skutkować nieoczekiwanym, ale prawidłowym działaniem.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T153559Z" creationid="Anna Zaręba" creationdate="20210527T153559Z">
+        <seg>Po zakończeniu tłumaczenia, OmegaT eksportuje do folderu projektu trzy pamięci tłumaczeniowe nazwane &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; oraz &lt;f2&gt;omegat&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T150115Z" creationid="Anna Zaręba" creationdate="20210527T150115Z">
@@ -12804,6 +12812,14 @@ bieżący folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T153728Z" creationid="Anna Zaręba" creationdate="20210527T153728Z">
+        <seg>Pamięci &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; mogą zostać udostępnione użytkownikom innych programów tłumaczeniowych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;g1&gt;Tag Issues&lt;/g1&gt; option is always selected.</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210519T120206Z" creationid="paulina" creationdate="20210519T120206Z">
@@ -13712,6 +13728,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T153340Z" creationid="Anna Zaręba" creationdate="20210527T153340Z">
         <seg>W celu przypomnienia sobie ustawień początkowych projektu, otwórz okno dialogowe projektu, naciskając klawisze&lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To see a list of files in the project, open the &lt;g1&gt;Project Files&lt;/g1&gt; dialog by pressing &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T153458Z" creationid="Anna Zaręba" creationdate="20210527T153458Z">
+        <seg>Aby wyświetlic listę plików w projekcie, otwórz okno dialogowe &lt;g1&gt;Pliki projektu&lt;/g1&gt;naciskając klawisze &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
