@@ -9043,6 +9043,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Normally, it is not necessary to start &lt;a0&gt;OmegaT&lt;/a0&gt; from the command line.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T211349Z" creationid="Kasia Mędrzycka" creationdate="20210527T211349Z">
+        <seg>Zazwyczaj nie jest konieczne uruchamianie &lt;a0&gt;OmegaT&lt;/a0&gt; z wiersza polecenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not Set</seg>
       </tuv>
       <tuv lang="pl" changeid="monika" changedate="20210430T102627Z" creationid="monika" creationdate="20210330T203612Z">
@@ -12580,6 +12588,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="pl" changeid="paulina" changedate="20210320T131643Z" creationid="paulina" creationdate="20210320T131643Z">
         <seg>Uruchom rebase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Starting OmegaT from the command line</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T211154Z" creationid="Kasia Mędrzycka" creationdate="20210527T211154Z">
+        <seg>Uruchamianie OmegaT z wiersza polecenia</seg>
       </tuv>
     </tu>
     <tu>
