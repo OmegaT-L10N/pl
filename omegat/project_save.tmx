@@ -5753,6 +5753,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow the installation instructions of the package you need.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T183501Z" creationid="Kasia Mędrzycka" creationdate="20210527T183501Z">
+        <seg>Postępuj zgodnie z instrukcją instalacji wybranego pakietu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Font</seg>
       </tuv>
       <tuv lang="pl" changeid="Paula" changedate="20210329T231419Z" creationid="Paula" creationdate="20210329T231419Z">
@@ -6457,6 +6465,14 @@ nie ma...</seg>
       </tuv>
       <tuv lang="pl" changeid="Aleksandra" changedate="20210329T210012Z" creationid="Aleksandra" creationdate="20210329T210012Z">
         <seg>IBM Watson not available.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IBM provides JREs for Linux PowerPC at &lt;u0/&gt;.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T183430Z" creationid="Kasia Mędrzycka" creationdate="20210527T183430Z">
+        <seg>IBM dostarcza JRE dla Linux PowerPC pod adresem &lt;u0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
