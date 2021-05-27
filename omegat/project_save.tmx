@@ -5761,6 +5761,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow your system's instructions to install &lt;a0&gt;OmegaT&lt;/a0&gt; shortcuts in convenient places of your choosing.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T195235Z" creationid="Kasia Mędrzycka" creationdate="20210527T195235Z">
+        <seg>Postępuj zgodnie z instrukcjami systemu, żeby zainstalować skróty &lt;a0&gt;OmegaT&lt;/a0&gt; w dogodnych miejscach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Font</seg>
       </tuv>
       <tuv lang="pl" changeid="Paula" changedate="20210329T231419Z" creationid="Paula" creationdate="20210329T231419Z">
@@ -9371,6 +9379,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Kaczmarska" changedate="20210520T201908Z" creationid="Agata Kaczmarska" creationdate="20210520T201908Z">
         <seg>Kiedy program &lt;a0&gt;OmegaT&lt;/a0&gt; zostanie zainstalowany, możesz kliknąć &lt;f1&gt;OmegaT.jar&lt;/f1&gt;, aby uruchomić go bezpośrednio lub możesz uruchomić go bezpośrednio z linii poleceń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T201545Z" creationid="Kasia Mędrzycka" creationdate="20210527T201545Z">
+        <seg>Kiedy program &lt;a0&gt;OmegaT&lt;/a0&gt; jest zainstalowany, możesz uruchomić go bezpośrednio z wiersza poleceń, możesz stworzyć skrypt zawierający parametry uruchomienia dla wiersza poleceń albo kliknąć &lt;f1&gt;OmegaT.jar&lt;/f1&gt; żeby uruchomić go bezpośrednio.</seg>
       </tuv>
     </tu>
     <tu>
