@@ -1564,8 +1564,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;No:&lt;/e0&gt; obtain a Java JRE for your system (see below) and download &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T155706Z" creationid="Kasia Mędrzycka" creationdate="20210527T155706Z">
-        <seg>&lt;e0&gt;Nie:&lt;/e0&gt; uzyskaj Java JRE dla twojego systemu (patrz niżej) i pobierz  &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T155726Z" creationid="Kasia Mędrzycka" creationdate="20210527T155706Z">
+        <seg>&lt;e0&gt;Nie:&lt;/e0&gt; uzyskaj Java JRE dla twojego systemu (patrz niżej) i pobierz &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
