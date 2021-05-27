@@ -4543,6 +4543,14 @@ i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download the file &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; and then click on it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T205104Z" creationid="Kasia Mędrzycka" creationdate="20210527T205104Z">
+        <seg>Pobierz plik &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; i kliknij na niego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Downloading project...</seg>
       </tuv>
       <tuv lang="pl" changeid="cezarykotowicz" changedate="20210403T151243Z" creationid="cezarykotowicz" creationdate="20210403T151243Z">
@@ -4643,6 +4651,14 @@ i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
       </tuv>
       <tuv lang="pl" changeid="Paula" changedate="20210329T225433Z" creationid="Paula" creationdate="20210329T225433Z">
         <seg>Powielone segmenty: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>During the installation, depending on your operating system, you may receive several security warnings.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T205228Z" creationid="Kasia Mędrzycka" creationdate="20210527T205228Z">
+        <seg>Podczas instalacji, w zależności od systemu operacyjnego, możesz otrzymać kilka ostrzeżeń o zabezpieczeniach.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13279,6 +13295,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="pl" changeid="Wojciech" changedate="20210414T163332Z" creationid="Wojciech" creationdate="20210414T163332Z">
         <seg>Hasła nie zgadzają się.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The permissions you give to this version (which may appear as "unrestricted access to the computer") are identical to the permissions you give to the local version, i.e., they allow access to the hard drive of the computer.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T205708Z" creationid="Kasia Mędrzycka" creationdate="20210527T205708Z">
+        <seg>Uprawnienia, których udzielisz tej wersji (mogą pojawić się jako "nieograniczony dostęp do komputera"), są identyczne do uprawnień, których udzielisz wersji lokalnej, np. pozwolą na dostęp do wtardego dysku komputera.</seg>
       </tuv>
     </tu>
     <tu>
