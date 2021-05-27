@@ -9591,6 +9591,14 @@ określony projekt zespołowy
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Oracle provides JREs for Solaris SPARC/x86 (Java 8) and for Linux x64, Solaris x64, Windows x64 (Java 8) at &lt;u0/&gt;.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T183358Z" creationid="Kasia Mędrzycka" creationdate="20210527T183358Z">
+        <seg>Oracle dostarcza JRE dla Solaris SPARC/x86 (Java 8) i dla Linux x64, Solaris x64, Windows x64 (Java 8) pod adresem &lt;u0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Orphan segments</seg>
       </tuv>
       <tuv lang="pl" changeid="Komputer" changedate="20210331T140024Z" creationid="Komputer" creationdate="20210331T135458Z">
