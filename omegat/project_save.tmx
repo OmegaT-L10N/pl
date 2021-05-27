@@ -13948,6 +13948,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To start OmegaT for the first time with Java Web Start, load the following URL in your browser:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T205042Z" creationid="Kasia Mędrzycka" creationdate="20210527T205042Z">
+        <seg>Aby po raz pierwszy uruchomić OmegaT za pomocą Java Web Start, załaduj następujący adres URL w przeglądarce:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Zaręba" changedate="20210527T145718Z" creationid="Anna Zaręba" creationdate="20210527T145718Z">
