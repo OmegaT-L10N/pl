@@ -13796,6 +13796,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, simply unpack the &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt; file.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kasia Mędrzycka" changedate="20210527T194609Z" creationid="Kasia Mędrzycka" creationdate="20210527T194609Z">
+        <seg>Żeby zainstalować &lt;a0&gt;OmegaT&lt;/a0&gt;, po prostu rozpakuj plik &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
       </tuv>
       <tuv lang="pl" changeid="Paula" changedate="20210329T174016Z" creationid="Paula" creationdate="20210329T174016Z">
