@@ -1715,6 +1715,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; in which folder the configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T094443Z" creationid="Wojciech" creationdate="20210528T094443Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; mói &lt;a2&gt;OmegaT&lt;/a2&gt; w którym folderze są przechowywane pliki konfiguracji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; where to find the project to translate.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T094336Z" creationid="Wojciech" creationdate="20210528T094336Z">
+        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; mówi &lt;a1&gt;OmegaT&lt;/a1&gt;gdzie znaleźć projekt do tłumaczenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;none&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T003703Z" creationid="Agata Kaczmarska" creationdate="20210326T003703Z">
@@ -5457,6 +5473,14 @@ przykro...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Explanation:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T094313Z" creationid="Wojciech" creationdate="20210528T094313Z">
+        <seg>Wyjaśniene:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Lin&amp;ks</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T145019Z" creationid="Aleksandra" creationdate="20210330T145019Z">
@@ -6733,6 +6757,14 @@ nie ma...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If given, &lt;a2&gt;OmegaT&lt;/a2&gt; starts in console mode and will translate the given project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T094421Z" creationid="Wojciech" creationdate="20210528T094421Z">
+        <seg>Jeśli podaje &lt;a2&gt;OmegaT&lt;/a2&gt; zaczyna swój tryb konsoli i przetłumaczy dany projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If invoked in a git working tree or svn checkout, the results
 		will be staged/added.</seg>
       </tuv>
@@ -6776,6 +6808,14 @@ powrócą do wartości domyślnych.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210514T104804Z" creationid="monika" creationdate="20210514T104804Z">
         <seg>Jeżeli niezaznaczone, segmenty źródłowe nie zostaną wyświetlone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If not given, &lt;a3&gt;OmegaT&lt;/a3&gt; reverts to default values (&lt;a4&gt;OmegaT&lt;/a4&gt; folder under user home or, if unavailable, the current working folder).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T094634Z" creationid="Wojciech" creationdate="20210528T094634Z">
+        <seg>Jeśli nie podaje, &lt;a3&gt;OmegaT&lt;/a3&gt; powraca do folderu wadliwych  (&lt;a4&gt;OmegaT&lt;/a4&gt; wartości w user home lub , jeśli niedostępne do obecnego folderu.</seg>
       </tuv>
     </tu>
     <tu>
