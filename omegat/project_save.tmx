@@ -1490,6 +1490,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; starts in console mode to perform one of the following services automatically</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T094839Z" creationid="Wojciech" creationdate="20210528T094839Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; zaczyna automatycznie przedstawiać w trybie konsoli jedną z następujących usług</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
       </tuv>
       <tuv lang="PL" changeid="Wojciech" changedate="20210528T090513Z" creationid="Wojciech" creationdate="20210528T090513Z">
@@ -1719,6 +1727,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="Wojciech" changedate="20210528T094443Z" creationid="Wojciech" creationdate="20210528T094443Z">
         <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; mói &lt;a2&gt;OmegaT&lt;/a2&gt; w którym folderze są przechowywane pliki konfiguracji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; what configuration file to use.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T094727Z" creationid="Wojciech" creationdate="20210528T094727Z">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; mówi &lt;a2&gt;OmegaT&lt;/a2&gt; jakiego pliku konfiguracji użyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9271,6 +9287,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="Wojciech" changedate="20210528T090953Z" creationid="Wojciech" creationdate="20210528T090953Z">
         <seg>Pamiętaj, że do 2 mln znaków miesięcznie jest bezpłątnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note the double &lt;l5&gt;-&lt;/l5&gt; character.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T094658Z" creationid="Wojciech" creationdate="20210528T094658Z">
+        <seg>Zauważ podwójne &lt;l5&gt;-&lt;/l5&gt; znaki.</seg>
       </tuv>
     </tu>
     <tu>
