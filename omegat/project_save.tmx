@@ -427,8 +427,8 @@
       <tuv lang="EN">
         <seg>&amp;Help</seg>
       </tuv>
-      <tuv lang="PL" changeid="Paula" changedate="20210329T223350Z" creationid="Agata Kaczmarska" creationdate="20210326T003951Z">
-        <seg>Pomoc</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210528T104945Z" creationid="Agata Kaczmarska" creationdate="20210326T003951Z">
+        <seg>Po&amp;moc</seg>
       </tuv>
     </tu>
     <tu>
@@ -1043,8 +1043,8 @@
       <tuv lang="EN">
         <seg>&amp;Tools</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T120102Z" creationid="annagorska" creationdate="20210331T120102Z">
-        <seg>Narzędzia</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210528T105039Z" creationid="annagorska" creationdate="20210331T120102Z">
+        <seg>&amp;Narzędzia</seg>
       </tuv>
     </tu>
     <tu>
