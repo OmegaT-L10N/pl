@@ -9443,6 +9443,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT in the command line mode</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T092137Z" creationid="Wojciech" creationdate="20210528T092137Z">
+        <seg>OmegaT iw trybie komend. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210526T105613Z" creationid="Aleksandra" creationdate="20210330T150101Z">
@@ -13507,6 +13515,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The purpose of the console mode is to use OmegaT as a translation tool in a scripting environment.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T092333Z" creationid="Wojciech" creationdate="20210528T092333Z">
+        <seg>Celem trybu konsoli jest użycie Omega T jako narzędzia tłumaczenia w środowisku pisania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The results window is laid out in the form of a table in which:</seg>
       </tuv>
       <tuv lang="PL" changeid="paulina" changedate="20210519T120413Z" creationid="paulina" creationdate="20210519T120413Z">
@@ -15228,6 +15244,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="PL" changeid="SvK" changedate="20210416T104523Z" creationid="paulina" creationdate="20210322T123128Z">
         <seg>Jeżeli jest zaznaczone, elementy w widoku autouzupełniania glosariusza będą zawierały również tekst źródłowy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When started in console mode, no GUI is loaded (so it will work on any console) and the given project is automatically processed as requested.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T092540Z" creationid="Wojciech" creationdate="20210528T092540Z">
+        <seg>Po włączenu trybu kosoli, GUI nie będzie załadowane, (działą więc na każdej konsoli) i dany projekt jest auttomatycznie procesowany jako zażądany.</seg>
       </tuv>
     </tu>
     <tu>
