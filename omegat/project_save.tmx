@@ -8013,6 +8013,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure that you have a free Microsoft account.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T090712Z" creationid="Wojciech" creationdate="20210528T090712Z">
+        <seg>Upewnij się, że masz darmowe konto Microsoft .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make sure that your &lt;v1&gt;PATH&lt;/v1&gt; settings are correct and that &lt;f2&gt;.jar&lt;/f2&gt; files are properly associated with a Java launcher.</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210524T202046Z" creationid="wciecierska" creationdate="20210524T202046Z">
@@ -8393,6 +8401,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210329T210605Z" creationid="Aleksandra" creationdate="20210329T210605Z">
         <seg>Microsoft Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Translator</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T090603Z" creationid="Wojciech" creationdate="20210528T090603Z">
+        <seg>Tłumacz Microsoft </seg>
       </tuv>
     </tu>
     <tu>
@@ -9135,6 +9151,22 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T180250Z" creationid="Paula" creationdate="20210329T180250Z">
         <seg>Uwaga: Oprócz dostępu do słowników "źródło-cel", korzystając z funkcji Słownik można uzyskać dostęp do informacji takich jak:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that the key is 38 characters long.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T090555Z" creationid="Wojciech" creationdate="20210528T090555Z">
+        <seg>Pamiętaj, że klucz ma 38 znaków.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that up to 2M characters per month are free of charge.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T090953Z" creationid="Wojciech" creationdate="20210528T090953Z">
+        <seg>Pamiętaj, że do 2 mln znaków miesięcznie jest bezpłątnie.</seg>
       </tuv>
     </tu>
     <tu>
