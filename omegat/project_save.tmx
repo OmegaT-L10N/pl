@@ -1851,6 +1851,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T091925Z" creationid="Wojciech" creationdate="20210528T091925Z">
+        <seg>Można zażądać kluczy API  używając&lt;u0&gt;API key request form&lt;/u0&gt;, i przejrzeć na&lt;u1&gt;My Keys&lt;/u1&gt; stronie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ASCII Only</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210330T204106Z" creationid="monika" creationdate="20210330T204106Z">
@@ -8017,6 +8025,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="Wojciech" changedate="20210528T090712Z" creationid="Wojciech" creationdate="20210528T090712Z">
         <seg>Upewnij się, że masz darmowe konto Microsoft .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure that you have a free Yandex account.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T091418Z" creationid="Wojciech" creationdate="20210528T091418Z">
+        <seg>Upewnij się, że masz darmowe konto Yandex.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15652,6 +15668,14 @@ na utworzenie folderu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="PL" changeid="adurk" changedate="20210406T190442Z" creationid="adurk" creationdate="20210406T190442Z">
         <seg>Twój projekt nie zawiera żadnych plików w obsługiwanym formacie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You’ll need this to be able to obtain and use Yandex Translate API key.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T091550Z" creationid="Wojciech" creationdate="20210528T091550Z">
+        <seg>Będzie Ci to potrzebne, aby  otrzyamć i używać klucz API Yandex Translate.</seg>
       </tuv>
     </tu>
     <tu>
