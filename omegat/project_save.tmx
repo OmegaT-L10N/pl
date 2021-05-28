@@ -13619,6 +13619,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The two entries required are available in your &lt;u1&gt;account page&lt;/u1&gt; under Primary account key and Customer-ID:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T091337Z" creationid="Wojciech" creationdate="20210528T091337Z">
+        <seg>Wymagane dwa wejścia są dostępne na &lt;u1&gt;stronie konta&lt;/u1&gt; w Konto Primary  i ID Klienta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210325T124157Z" creationid="magda" creationdate="20210325T124157Z">
@@ -15644,6 +15652,14 @@ na utworzenie folderu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="PL" changeid="adurk" changedate="20210406T190442Z" creationid="adurk" creationdate="20210406T190442Z">
         <seg>Twój projekt nie zawiera żadnych plików w obsługiwanym formacie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You’ll need this to sign-in to &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; and use the Translator service.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T091105Z" creationid="Wojciech" creationdate="20210528T091105Z">
+        <seg>Będziesz potrzebował tego, aby się zapisać do &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; i korzystać z usług Tłumacza.</seg>
       </tuv>
     </tu>
     <tu>
