@@ -6884,6 +6884,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need altered settings, the configuration files must be available.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T093047Z" creationid="Wojciech" creationdate="20210528T093047Z">
+        <seg>Jeśli potrzebujesz zmienionych ustawień, konfiguracja plików musi być dostępna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T154514Z" creationid="Anna Zaręba" creationdate="20210527T154514Z">
@@ -13423,6 +13431,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T201731Z" creationid="Agata Kaczmarska" creationdate="20210520T201731Z">
         <seg>Ostatnia ramka pozwala na przejrzenie plików readme i zmian dla wersji, która została zainstalowana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location does not matter, since you have to add it to the command line at the start-up anyway.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T092923Z" creationid="Wojciech" creationdate="20210528T092923Z">
+        <seg>Lokalizacja się nie liczy, jeśli musisz dodać do lini komend na początku.</seg>
       </tuv>
     </tu>
     <tu>
