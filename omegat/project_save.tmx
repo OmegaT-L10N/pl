@@ -13859,6 +13859,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can be achieved in two ways:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T093110Z" creationid="Wojciech" creationdate="20210528T093110Z">
+        <seg>Można to osiągnąć na dwa sposoby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This command changes the folder to the folder containing the executable &lt;a0&gt;OmegaT&lt;/a0&gt; file.</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210526T095310Z" creationid="magdalenaklocek" creationdate="20210526T095310Z">
