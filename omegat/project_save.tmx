@@ -5349,6 +5349,14 @@ nikt nie słyszy twojego płaczu...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T094147Z" creationid="Wojciech" creationdate="20210528T094147Z">
+        <seg>Przykłąd:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Excel</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144212Z" creationid="Aleksandra" creationdate="20210330T144212Z">
@@ -9175,6 +9183,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T211804Z" creationid="magdalenaklocek" creationdate="20210322T211804Z">
         <seg>Notatka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that all parameters start with a double &lt;l0&gt;-&lt;/l0&gt; character.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T094259Z" creationid="Wojciech" creationdate="20210528T094259Z">
+        <seg>Zauważ, że wszystkie parametry zaczynają sie z podwójnym &lt;l0&gt;-&lt;/l0&gt; znakiem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13499,6 +13515,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most important is &lt;l1&gt;/path/to/project&lt;/l1&gt;, and optionally &lt;l2&gt;--config-dir=&lt;p3&gt;/path/to/config-files/&lt;/p3&gt;&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T094213Z" creationid="Wojciech" creationdate="20210528T094213Z">
+        <seg>Najważniejsze jest &lt;l1&gt;/path/to/project&lt;/l1&gt;, i opcjonalnie &lt;l2&gt;--config-dir=&lt;p3&gt;/path/to/config-files/&lt;/p3&gt;&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The next segment with a note attached to it, will open.</seg>
       </tuv>
       <tuv lang="PL" changeid="beataporodzynska" changedate="20210520T190917Z" creationid="beataporodzynska" creationdate="20210520T185423Z">
@@ -14256,6 +14280,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210327T191033Z" creationid="Aleksandra" creationdate="20210327T191033Z">
         <seg>To speed up this process, existing translations can be reused.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To start &lt;a0&gt;OmegaT&lt;/a0&gt; in console mode, some extra parameters have to be passed to it on startup.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T094140Z" creationid="Wojciech" creationdate="20210528T094140Z">
+        <seg>Aby włączyć   &lt;a0&gt;OmegaT&lt;/a0&gt; w trybie konsoli, niektóre specjane parametry muszą być pzrekazane do startup.</seg>
       </tuv>
     </tu>
     <tu>
