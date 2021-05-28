@@ -2447,6 +2447,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Arguments can be combined: to launch &lt;a0&gt;OmegaT&lt;/a0&gt; with all the examples described above, the command would be:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T092102Z" creationid="Wojciech" creationdate="20210528T092102Z">
+        <seg>Argumenty mogę być kombinowane, aby rozpocząć &lt;a0&gt;OmegaT&lt;/a0&gt; ze wszystkimi przykładamii opisanymi poniżej,  komenda byłąby::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arrays must not be null</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T150049Z" creationid="Komputer" creationdate="20210331T150049Z">
