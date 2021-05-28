@@ -10359,6 +10359,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Prerequisites</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T092613Z" creationid="Wojciech" creationdate="20210528T092613Z">
+        <seg>Warunki wstępne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
@@ -14152,6 +14160,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T153340Z" creationid="Anna Zaręba" creationdate="20210527T153340Z">
         <seg>W celu przypomnienia sobie ustawień początkowych projektu, otwórz okno dialogowe projektu, naciskając klawisze&lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To run &lt;a0&gt;OmegaT&lt;/a0&gt; in the command line mode, a valid &lt;a1&gt;OmegaT&lt;/a1&gt; project must be present.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Wojciech" changedate="20210528T092807Z" creationid="Wojciech" creationdate="20210528T092807Z">
+        <seg>Aby zarządzać OmegaT w trybie  &lt;a0&gt;komendy&lt;/a0&gt;  ważny projekt &lt;a1&gt;OmegaT&lt;/a1&gt; musi być zaprezentowany.</seg>
       </tuv>
     </tu>
     <tu>
