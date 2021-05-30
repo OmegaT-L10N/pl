@@ -265,8 +265,8 @@
       <tuv lang="EN">
         <seg>&amp;Edit</seg>
       </tuv>
-      <tuv lang="PL" changeid="Wojciech" changedate="20210430T150909Z" creationid="Agata Kaczmarska" creationdate="20210326T003803Z">
-        <seg>&amp;Edytowanie</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094142Z" creationid="Agata Kaczmarska" creationdate="20210326T003803Z">
+        <seg>&amp;Edytuj</seg>
       </tuv>
     </tu>
     <tu>
@@ -459,8 +459,8 @@
       <tuv lang="EN">
         <seg>&amp;Insert Match or Selection</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115301Z" creationid="annagorska" creationdate="20210331T115301Z">
-        <seg>Wprowadź odpowiednik</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094235Z" creationid="annagorska" creationdate="20210331T115301Z">
+        <seg>Wstaw dopasowanie lub znaczenie</seg>
       </tuv>
     </tu>
     <tu>
@@ -6623,8 +6623,8 @@ nie ma...</seg>
       <tuv lang="EN">
         <seg>I&amp;nsert Source</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115331Z" creationid="annagorska" creationdate="20210331T115331Z">
-        <seg>wprowadź źródło</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094425Z" creationid="annagorska" creationdate="20210331T115331Z">
+        <seg>Wstaw tekst źródłowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -10866,8 +10866,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>R&amp;eplace with Match or Selection</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115309Z" creationid="annagorska" creationdate="20210331T115309Z">
-        <seg>zamień odpowiednikiem</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094251Z" creationid="annagorska" creationdate="20210331T115309Z">
+        <seg>Zastąp dopasowaniem lub znaczeniem</seg>
       </tuv>
     </tu>
     <tu>
@@ -10892,8 +10892,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Re&amp;place with Source</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115340Z" creationid="annagorska" creationdate="20210331T115340Z">
-        <seg>zamień źródłem</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094436Z" creationid="annagorska" creationdate="20210331T115340Z">
+        <seg>Zastąp tekstem źródłowym</seg>
       </tuv>
     </tu>
     <tu>
@@ -11220,8 +11220,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115322Z" creationid="annagorska" creationdate="20210331T115322Z">
-        <seg>zamień tłumaczeniem maszynowym</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094341Z" creationid="annagorska" creationdate="20210331T115322Z">
+        <seg>Zamień używając tłumaczenia maszynowego</seg>
       </tuv>
     </tu>
     <tu>
@@ -11774,8 +11774,8 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="EN">
         <seg>Search and Replace...</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115217Z" creationid="annagorska" creationdate="20210331T115217Z">
-        <seg>Szukaj i zamień</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094212Z" creationid="annagorska" creationdate="20210331T115217Z">
+        <seg>Szukaj i zastąp</seg>
       </tuv>
     </tu>
     <tu>
