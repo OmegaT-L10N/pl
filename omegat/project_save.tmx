@@ -5723,8 +5723,8 @@ przykro...</seg>
       <tuv lang="EN">
         <seg>File &amp;Filters...</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210530T095626Z" creationid="annagorska" creationdate="20210331T114636Z">
-        <seg>Filtry pliku</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T100118Z" creationid="annagorska" creationdate="20210331T114636Z">
+        <seg>Filtry plików</seg>
       </tuv>
     </tu>
     <tu>
@@ -11206,14 +11206,6 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210327T204940Z" creationid="wciecierska" creationdate="20210327T204940Z">
         <seg>Zamień</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Replace &amp;glossary hits when inserting source text</seg>
-      </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T120707Z" creationid="annagorska" creationdate="20210331T120707Z">
-        <seg>Wprowadź brakujący znacznik źródłowy</seg>
       </tuv>
     </tu>
     <tu>
