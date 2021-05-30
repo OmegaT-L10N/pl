@@ -223,6 +223,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Current Source Document</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094033Z" creationid="annagorska" creationdate="20210530T094033Z">
+        <seg>&amp;Obecny dokument źródłowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cycle</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T181312Z" creationid="monika" creationdate="20210327T181312Z">
@@ -233,8 +241,8 @@
       <tuv lang="EN">
         <seg>&amp;Dictionaries</seg>
       </tuv>
-      <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210430T101906Z" creationid="annagorska" creationdate="20210331T114839Z">
-        <seg>&amp;słowniki</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T093858Z" creationid="annagorska" creationdate="20210331T114839Z">
+        <seg>&amp;Słowniki</seg>
       </tuv>
     </tu>
     <tu>
@@ -809,14 +817,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&amp;Root</seg>
-      </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T114833Z" creationid="annagorska" creationdate="20210331T114833Z">
-        <seg>&amp;źródło</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&amp;Run</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T113524Z" creationid="Agata Kaczmarska" creationdate="20210326T002752Z">
@@ -971,8 +971,8 @@
       <tuv lang="EN">
         <seg>&amp;Source Files</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T114910Z" creationid="annagorska" creationdate="20210331T114910Z">
-        <seg>dokumenty źródłowe</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T093913Z" creationid="annagorska" creationdate="20210331T114910Z">
+        <seg>Pliki źródłowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -1019,8 +1019,8 @@
       <tuv lang="EN">
         <seg>&amp;Target Files</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T114921Z" creationid="annagorska" creationdate="20210331T114921Z">
-        <seg>dokumenty docelowe</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T093917Z" creationid="annagorska" creationdate="20210331T114921Z">
+        <seg>Pliki docelowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -1118,6 +1118,14 @@
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210327T181837Z" creationid="monika" creationdate="20210327T181837Z">
         <seg>&amp;Widok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094113Z" creationid="annagorska" creationdate="20210530T094113Z">
+        <seg>&amp;Zapisywalny glosariusz</seg>
       </tuv>
     </tu>
     <tu>
@@ -2858,6 +2866,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="Komputer" changedate="20210331T145256Z" creationid="Komputer" creationdate="20210331T145256Z">
         <seg>Należy skopiować wszystkie dane do schowka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>C&amp;urrent Target Document</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094104Z" creationid="annagorska" creationdate="20210530T094104Z">
+        <seg>Obecny dokument docelowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -12954,8 +12970,8 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="EN">
         <seg>T&amp;Ms</seg>
       </tuv>
-      <tuv lang="PL" changeid="annap" changedate="20210331T121308Z" creationid="annagorska" creationdate="20210331T114858Z">
-        <seg>Pamięć tłumaczeniowa</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094124Z" creationid="annagorska" creationdate="20210331T114858Z">
+        <seg>TM-y</seg>
       </tuv>
     </tu>
     <tu>
