@@ -947,8 +947,8 @@
       <tuv lang="EN">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
-      <tuv lang="PL" changeid="beataporodzynska" changedate="20210430T103306Z" creationid="Paula" creationdate="20210329T222128Z">
-        <seg>&amp;Automatyczne wyświetlanie istotnych sugestii</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T100553Z" creationid="Paula" creationdate="20210329T222128Z">
+        <seg>Automatyczne wyświetlanie istotnych sugestii</seg>
       </tuv>
     </tu>
     <tu>
@@ -1869,8 +1869,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>A&amp;uto-completion</seg>
       </tuv>
-      <tuv lang="PL" changeid="beataporodzynska" changedate="20210430T102227Z" creationid="Paula" creationdate="20210329T222013Z">
-        <seg>A&amp;utouzupełnianie</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T100555Z" creationid="Paula" creationdate="20210329T222013Z">
+        <seg>Autouzupełnianie</seg>
       </tuv>
     </tu>
     <tu>
