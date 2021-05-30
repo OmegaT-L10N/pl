@@ -289,8 +289,8 @@
       <tuv lang="EN">
         <seg>&amp;Editor...</seg>
       </tuv>
-      <tuv lang="PL" changeid="Wojciech" changedate="20210430T104812Z" creationid="annagorska" creationdate="20210331T120457Z">
-        <seg>&amp;Edytor...</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095633Z" creationid="annagorska" creationdate="20210331T120457Z">
+        <seg>Edytor...</seg>
       </tuv>
     </tu>
     <tu>
@@ -651,8 +651,8 @@
       <tuv lang="EN">
         <seg>&amp;Options</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210530T095346Z" creationid="annagorska" creationdate="20210331T120400Z">
-        <seg>Opcje</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095438Z" creationid="annagorska" creationdate="20210331T120400Z">
+        <seg>Przeglądnij</seg>
       </tuv>
     </tu>
     <tu>
@@ -5723,8 +5723,8 @@ przykro...</seg>
       <tuv lang="EN">
         <seg>File &amp;Filters...</seg>
       </tuv>
-      <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210430T102829Z" creationid="annagorska" creationdate="20210331T114636Z">
-        <seg>Filtry &amp;plików</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095626Z" creationid="annagorska" creationdate="20210331T114636Z">
+        <seg>Filtry pliku</seg>
       </tuv>
     </tu>
     <tu>
@@ -15170,8 +15170,8 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       <tuv lang="EN">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T120407Z" creationid="annagorska" creationdate="20210331T120407Z">
-        <seg>Użtj TAB</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095600Z" creationid="annagorska" creationdate="20210331T120407Z">
+        <seg>Użyj klawisza TAB, żeby przejść do następnego segmentu</seg>
       </tuv>
     </tu>
     <tu>
