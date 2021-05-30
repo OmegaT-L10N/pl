@@ -15160,6 +15160,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T100436Z" creationid="annagorska" creationdate="20210530T100436Z">
+        <seg>Użyj dopasowania rozmytego dla wpisów słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
       <tuv lang="PL" changeid="annagorska" changedate="20210530T095600Z" creationid="annagorska" creationdate="20210331T120407Z">
@@ -15172,6 +15180,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       </tuv>
       <tuv lang="PL" changeid="SvK" changedate="20210514T101721Z" creationid="studentka" creationdate="20210407T090944Z">
         <seg>Użyj &amp; XML dla samodzielnych znaczników (n.p., &lt;i/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T100454Z" creationid="annagorska" creationdate="20210530T100454Z">
+        <seg>Użyj dopasowania rozmytego dla wpisów słownika</seg>
       </tuv>
     </tu>
     <tu>
