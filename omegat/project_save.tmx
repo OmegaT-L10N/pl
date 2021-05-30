@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Align Files...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095315Z" creationid="annagorska" creationdate="20210530T095315Z">
+        <seg>Align Files...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210406T145956Z" creationid="jnnas10" creationdate="20210406T145804Z">
@@ -387,8 +395,8 @@
       <tuv lang="EN">
         <seg>&amp;Forward in History</seg>
       </tuv>
-      <tuv lang="PL" changeid="SvK" changedate="20210521T101549Z" creationid="annagorska" creationdate="20210331T120008Z">
-        <seg>&amp;Forward in Historia</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095203Z" creationid="annagorska" creationdate="20210331T120008Z">
+        <seg>W przód w historii</seg>
       </tuv>
     </tu>
     <tu>
@@ -411,8 +419,8 @@
       <tuv lang="EN">
         <seg>&amp;Go To</seg>
       </tuv>
-      <tuv lang="PL" changeid="SvK" changedate="20210528T104914Z" creationid="annagorska" creationdate="20210331T115836Z">
-        <seg>Przejdź &amp;do</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095038Z" creationid="annagorska" creationdate="20210331T115836Z">
+        <seg>Przejdź do</seg>
       </tuv>
     </tu>
     <tu>
@@ -555,8 +563,8 @@
       <tuv lang="EN">
         <seg>&amp;Match Statistics</seg>
       </tuv>
-      <tuv lang="PL" changeid="monika" changedate="20210430T103530Z" creationid="annagorska" creationdate="20210331T120215Z">
-        <seg>&amp;Statystyka dopasowań</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095256Z" creationid="annagorska" creationdate="20210331T120215Z">
+        <seg>Statystyki dopasowań</seg>
       </tuv>
     </tu>
     <tu>
@@ -619,8 +627,8 @@
       <tuv lang="EN">
         <seg>&amp;Next Segment</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115849Z" creationid="annagorska" creationdate="20210331T115849Z">
-        <seg>Kolejny segment</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095047Z" creationid="annagorska" creationdate="20210331T115849Z">
+        <seg>Natępny segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -643,8 +651,8 @@
       <tuv lang="EN">
         <seg>&amp;Options</seg>
       </tuv>
-      <tuv lang="PL" changeid="SvK" changedate="20210423T104412Z" creationid="annagorska" creationdate="20210331T120400Z">
-        <seg>&amp;Opcje</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095346Z" creationid="annagorska" creationdate="20210331T120400Z">
+        <seg>Opcje</seg>
       </tuv>
     </tu>
     <tu>
@@ -675,8 +683,8 @@
       <tuv lang="EN">
         <seg>&amp;Previous Segment</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115918Z" creationid="annagorska" creationdate="20210331T115918Z">
-        <seg>&amp;Poprzedni Segment</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095138Z" creationid="annagorska" creationdate="20210331T115918Z">
+        <seg>Poprzedni segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -875,8 +883,8 @@
       <tuv lang="EN">
         <seg>&amp;Segment Number...</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115934Z" creationid="annagorska" creationdate="20210331T115934Z">
-        <seg>Numer segmentu</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095150Z" creationid="annagorska" creationdate="20210331T115934Z">
+        <seg>Numer segmentu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -995,8 +1003,8 @@
       <tuv lang="EN">
         <seg>&amp;Statistics</seg>
       </tuv>
-      <tuv lang="PL" changeid="monika" changedate="20210430T103526Z" creationid="annagorska" creationdate="20210331T120200Z">
-        <seg>&amp;Statystyka</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095258Z" creationid="annagorska" creationdate="20210331T120200Z">
+        <seg>Statystyki</seg>
       </tuv>
     </tu>
     <tu>
@@ -1043,8 +1051,8 @@
       <tuv lang="EN">
         <seg>&amp;Tools</seg>
       </tuv>
-      <tuv lang="PL" changeid="SvK" changedate="20210528T105039Z" creationid="annagorska" creationdate="20210331T120102Z">
-        <seg>&amp;Narzędzia</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095236Z" creationid="annagorska" creationdate="20210331T120102Z">
+        <seg>Narzędzia</seg>
       </tuv>
     </tu>
     <tu>
@@ -8391,8 +8399,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="EN">
         <seg>Match Statistics per &amp;File</seg>
       </tuv>
-      <tuv lang="PL" changeid="monika" changedate="20210430T103533Z" creationid="annagorska" creationdate="20210331T120227Z">
-        <seg>Statystyka dopasowań dla pliku</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095310Z" creationid="annagorska" creationdate="20210331T120227Z">
+        <seg>Statystyki dopasowań dla pliku</seg>
       </tuv>
     </tu>
     <tu>
@@ -8969,24 +8977,24 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115915Z" creationid="annagorska" creationdate="20210331T115915Z">
-        <seg>Kolejny przetłumaczony Segment</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095130Z" creationid="annagorska" creationdate="20210331T115915Z">
+        <seg>Następny przetłumaczony segment</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Next &amp;Untranslated Segment</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115903Z" creationid="annagorska" creationdate="20210331T115903Z">
-        <seg>Kolejny nieprzetłumaczony Segment</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095120Z" creationid="annagorska" creationdate="20210331T115903Z">
+        <seg>Następny nieprzetłumaczony segment</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Next N&amp;ote</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115856Z" creationid="annagorska" creationdate="20210331T115856Z">
-        <seg>Kolejna notatka</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095054Z" creationid="annagorska" creationdate="20210331T115856Z">
+        <seg>Natępna notatka</seg>
       </tuv>
     </tu>
     <tu>
@@ -9017,8 +9025,8 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>Next Uni&amp;que Segment</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T120056Z" creationid="annagorska" creationdate="20210331T120056Z">
-        <seg>Następny unikalny Segment</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095225Z" creationid="annagorska" creationdate="20210331T120056Z">
+        <seg>Następny unikalny segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -12674,8 +12682,8 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="EN">
         <seg>Source of Selected &amp;Match</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T120038Z" creationid="annagorska" creationdate="20210331T120038Z">
-        <seg>źródło wybranego dopasowania</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095216Z" creationid="annagorska" creationdate="20210331T120038Z">
+        <seg>Źródło wybranego dopasowania</seg>
       </tuv>
     </tu>
     <tu>
