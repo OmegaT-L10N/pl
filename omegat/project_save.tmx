@@ -289,8 +289,8 @@
       <tuv lang="EN">
         <seg>&amp;Editor...</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210530T095633Z" creationid="annagorska" creationdate="20210331T120457Z">
-        <seg>Edytor...</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095808Z" creationid="annagorska" creationdate="20210331T120457Z">
+        <seg>Edytor</seg>
       </tuv>
     </tu>
     <tu>
@@ -411,8 +411,8 @@
       <tuv lang="EN">
         <seg>&amp;Glossary</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T120519Z" creationid="annagorska" creationdate="20210331T120519Z">
-        <seg>&amp;Glosariusz</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095724Z" creationid="annagorska" creationdate="20210331T120519Z">
+        <seg>Glosariusz</seg>
       </tuv>
     </tu>
     <tu>
@@ -891,8 +891,8 @@
       <tuv lang="EN">
         <seg>&amp;Segmentation...</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T120504Z" creationid="annagorska" creationdate="20210331T120504Z">
-        <seg>Segmentacja</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095716Z" creationid="annagorska" creationdate="20210331T120504Z">
+        <seg>Ustawienia segmentacji</seg>
       </tuv>
     </tu>
     <tu>
