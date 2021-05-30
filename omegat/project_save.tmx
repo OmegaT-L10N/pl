@@ -7284,6 +7284,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Unicode Control Character</seg>
+      </tuv>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095022Z" creationid="annagorska" creationdate="20210530T095022Z">
+        <seg>Wstaw znaki kontrolne Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert the &amp;best fuzzy match</seg>
       </tuv>
       <tuv lang="PL" changeid="studentka" changedate="20210407T081157Z" creationid="studentka" creationdate="20210407T081157Z">
@@ -12006,16 +12014,16 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="EN">
         <seg>Select &amp;Next Match</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115705Z" creationid="annagorska" creationdate="20210331T115636Z">
-        <seg>Zaznacz kolejny odpowiednik</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094916Z" creationid="annagorska" creationdate="20210331T115636Z">
+        <seg>Wybierz następne dopasowanie</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select &amp;Previous Match</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115714Z" creationid="annagorska" creationdate="20210331T115714Z">
-        <seg>Zaznacz poprzendi odpowiednik</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094924Z" creationid="annagorska" creationdate="20210331T115714Z">
+        <seg>Wybierz poprzednie dopasowanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -12046,48 +12054,48 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="EN">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115656Z" creationid="annagorska" creationdate="20210331T115628Z">
-        <seg>Zaznacz odpowiednik</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094847Z" creationid="annagorska" creationdate="20210331T115628Z">
+        <seg>Wybierz dopasowanie</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #&amp;1</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115730Z" creationid="annagorska" creationdate="20210331T115730Z">
-        <seg>Zaznacz odpowiednik #&amp;1</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094938Z" creationid="annagorska" creationdate="20210331T115730Z">
+        <seg>Wybierz dopasowanie nr 1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #&amp;2</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115734Z" creationid="annagorska" creationdate="20210331T115734Z">
-        <seg>Zaznacz odpowiednik #&amp;2</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094943Z" creationid="annagorska" creationdate="20210331T115734Z">
+        <seg>Wybierz dopasowanie nr 2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #&amp;3</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115737Z" creationid="annagorska" creationdate="20210331T115737Z">
-        <seg>Zaznacz odpowiednik #&amp;3</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094948Z" creationid="annagorska" creationdate="20210331T115737Z">
+        <seg>Wybierz dopasowanie nr 3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #&amp;4</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115740Z" creationid="annagorska" creationdate="20210331T115740Z">
-        <seg>Zaznacz odpowiednik#&amp;4</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094953Z" creationid="annagorska" creationdate="20210331T115740Z">
+        <seg>Wybierz dopasowanie nr 4</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #&amp;5</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115744Z" creationid="annagorska" creationdate="20210331T115744Z">
-        <seg>Zaznacz odpowiednik #&amp;5</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T095000Z" creationid="annagorska" creationdate="20210331T115744Z">
+        <seg>Wybierz dopasowanie nr 5</seg>
       </tuv>
     </tu>
     <tu>
