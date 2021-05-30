@@ -4793,8 +4793,8 @@ i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
       <tuv lang="EN">
         <seg>E&amp;xport Selection</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115439Z" creationid="annagorska" creationdate="20210331T115439Z">
-        <seg>eksportuj </seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094519Z" creationid="annagorska" creationdate="20210331T115439Z">
+        <seg>Eksportuj </seg>
       </tuv>
     </tu>
     <tu>
@@ -7246,8 +7246,8 @@ powrócą do wartości domyślnych.</seg>
       <tuv lang="EN">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115543Z" creationid="annagorska" creationdate="20210331T115543Z">
-        <seg>Wprowadź brakujący tag</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094538Z" creationid="annagorska" creationdate="20210331T115543Z">
+        <seg>Wprowadź brakujący znacznik źródłowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -7262,8 +7262,8 @@ powrócą do wartości domyślnych.</seg>
       <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115604Z" creationid="annagorska" creationdate="20210331T115604Z">
-        <seg>wprowadź kolejny brakujący tag</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094558Z" creationid="annagorska" creationdate="20210331T115604Z">
+        <seg>Wprowadź następny brakujący znacznik</seg>
       </tuv>
     </tu>
     <tu>
@@ -7278,8 +7278,8 @@ powrócą do wartości domyślnych.</seg>
       <tuv lang="EN">
         <seg>Insert Tag {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="annagorska" changedate="20210331T115615Z" creationid="annagorska" creationdate="20210331T115615Z">
-        <seg>IWprowadź tag {0}</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094610Z" creationid="annagorska" creationdate="20210331T115615Z">
+        <seg>IWprowadź znacznik {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12280,8 +12280,8 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="EN">
         <seg>Set empty translation</seg>
       </tuv>
-      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210326T002422Z" creationid="Agata Kaczmarska" creationdate="20210326T002422Z">
-        <seg>Ustaw puste tłumaczenie</seg>
+      <tuv lang="PL" changeid="annagorska" changedate="20210530T094718Z" creationid="Agata Kaczmarska" creationdate="20210326T002422Z">
+        <seg>Oznacz tłumaczenie jako puste</seg>
       </tuv>
     </tu>
     <tu>
