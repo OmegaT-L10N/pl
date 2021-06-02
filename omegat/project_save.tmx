@@ -7728,8 +7728,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="EN">
         <seg>Keyword searches are not available in the search string.</seg>
       </tuv>
-      <tuv lang="PL" changeid="annap" changedate="20210331T123735Z" creationid="annap" creationdate="20210331T123735Z">
-        <seg>Wyszukiwanie poprzez słowa-klucze nie jest możliwe w wyszukiwanej frazie.</seg>
+      <tuv lang="PL" changeid="annap" changedate="20210602T162638Z" creationid="annap" creationdate="20210331T123735Z">
+        <seg>Wyszukiwanie przez słowa-klucze nie jest możliwe w wyszukiwanej frazie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15154,8 +15154,8 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       <tuv lang="EN">
         <seg>Use $n to refer to the nth group.</seg>
       </tuv>
-      <tuv lang="PL" changeid="annap" changedate="20210331T124808Z" creationid="annap" creationdate="20210331T123356Z">
-        <seg>Proszę użyć $n w przypadku odnoszenia się do grupy o numerze n.</seg>
+      <tuv lang="PL" changeid="annap" changedate="20210602T162702Z" creationid="annap" creationdate="20210331T123356Z">
+        <seg>Proszę użyć n w przypadku odnoszenia się do grupy o numerze n.</seg>
       </tuv>
     </tu>
     <tu>
