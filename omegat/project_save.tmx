@@ -10802,8 +10802,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
       </tuv>
-      <tuv lang="PL" changeid="annap" changedate="20210331T122903Z" creationid="annap" creationdate="20210331T122903Z">
-        <seg>Wyszukiwanie w projekcie odbywa się domyślnie w oryginale i w tłumaczeniu, w pamięci tłumaczeniowej, glosariuszach, notatkach i komentarzach do projektu.</seg>
+      <tuv lang="PL" changeid="annap" changedate="20210607T111604Z" creationid="annap" creationdate="20210331T122903Z">
+        <seg>Wyszukiwanie w projekcie odbywa się domyślnie w tekście źródłowym i docelowym, w pamięci tłumaczeniowej, glosariuszach, notatkach i komentarzach do projektu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16067,8 +16067,8 @@ na utworzenie folderu konfiguracyjnego.</seg>
       <tuv lang="EN">
         <seg>file names</seg>
       </tuv>
-      <tuv lang="PL" changeid="annap" changedate="20210331T121535Z" creationid="annap" creationdate="20210331T121535Z">
-        <seg>nazwy plików</seg>
+      <tuv lang="PL" changeid="annap" changedate="20210607T111301Z" creationid="annap" creationdate="20210331T121535Z">
+        <seg>Nazwy plików</seg>
       </tuv>
     </tu>
     <tu>
