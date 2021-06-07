@@ -7728,8 +7728,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="EN">
         <seg>Keyword searches are not available in the search string.</seg>
       </tuv>
-      <tuv lang="PL" changeid="annap" changedate="20210602T162638Z" creationid="annap" creationdate="20210331T123735Z">
-        <seg>Wyszukiwanie przez słowa-klucze nie jest możliwe w wyszukiwanej frazie.</seg>
+      <tuv lang="PL" changeid="annap" changedate="20210607T111956Z" creationid="annap" creationdate="20210331T123735Z">
+        <seg>Wyszukiwanie przez słowa kluczowe nie jest możliwe w wyszukiwanej frazie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10988,8 +10988,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
       </tuv>
-      <tuv lang="PL" changeid="annap" changedate="20210331T124756Z" creationid="annap" creationdate="20210331T123219Z">
-        <seg>Wyszukiwanie wyrażeń regularnych pasuje do wyrażeń regularnych Java, zgodnie z opisem w instrukcji obsługi.</seg>
+      <tuv lang="PL" changeid="annap" changedate="20210607T111912Z" creationid="annap" creationdate="20210331T123219Z">
+        <seg>Wyszukiwania wyrażeń regularnych pasują do wyrażeń regularnych Java, zgodnie z opisem w instrukcji obsługi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15490,8 +15490,8 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       <tuv lang="EN">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
       </tuv>
-      <tuv lang="PL" changeid="annap" changedate="20210331T123612Z" creationid="magdaradka" creationdate="20210317T171055Z">
-        <seg>W przypadku używania wyrażeń regularnych, zamieniona fraza umożliwia odniesienie się do grup określonych tą samą frazą.</seg>
+      <tuv lang="PL" changeid="annap" changedate="20210607T112033Z" creationid="magdaradka" creationdate="20210317T171055Z">
+        <seg>W przypadku używania wyrażeń regularnych zamieniona fraza umożliwia odniesienie się do grup określonych tą samą frazą.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15547,9 +15547,9 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
         <seg>Wildcards:
 Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
-      <tuv lang="PL" changeid="annap" changedate="20210331T124625Z" creationid="annap" creationdate="20210331T124428Z">
+      <tuv lang="PL" changeid="annap" changedate="20210607T111922Z" creationid="annap" creationdate="20210331T124428Z">
         <seg>Symbole wieloznaczne: 
-Znaki wieloznaczne " * " i " ? " mogą być użyte w dokładnym wyszukiwaniu i wyszukiwaniu przez słowa-klucze.</seg>
+Znaki wieloznaczne " * " i " ? " mogą być użyte w dokładnym wyszukiwaniu i wyszukiwaniu przez słowa kluczowe.</seg>
       </tuv>
     </tu>
     <tu>
