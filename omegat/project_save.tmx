@@ -3403,9 +3403,9 @@ opuść kolejkę...</seg>
 	-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Werciks" changedate="20210406T190917Z" creationid="Werciks" creationdate="20210406T190917Z">
+      <tuv lang="PL" changeid="Werciks" changedate="20210607T084538Z" creationid="Werciks" creationdate="20210406T190917Z">
         <seg>Polecenie:
-	-p, --pomoc
+	-h, --help
 		Wyświetl informacje o użytkowaniu.</seg>
       </tuv>
     </tu>
