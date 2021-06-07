@@ -451,8 +451,8 @@
       <tuv lang="EN">
         <seg>&amp;In translation</seg>
       </tuv>
-      <tuv lang="PL" changeid="annap" changedate="20210331T121422Z" creationid="annap" creationdate="20210331T121422Z">
-        <seg>W tłumaczeniu</seg>
+      <tuv lang="PL" changeid="annap" changedate="20210607T111714Z" creationid="annap" creationdate="20210331T121422Z">
+        <seg>W tekście docelowym</seg>
       </tuv>
     </tu>
     <tu>
@@ -7134,8 +7134,8 @@ powrócą do wartości domyślnych.</seg>
       <tuv lang="EN">
         <seg>In so&amp;urce</seg>
       </tuv>
-      <tuv lang="PL" changeid="annap" changedate="20210331T121408Z" creationid="annap" creationdate="20210331T121408Z">
-        <seg>W oryginale</seg>
+      <tuv lang="PL" changeid="annap" changedate="20210607T111706Z" creationid="annap" creationdate="20210331T121408Z">
+        <seg>W tekście źródłowym</seg>
       </tuv>
     </tu>
     <tu>
@@ -7736,8 +7736,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="EN">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
-      <tuv lang="PL" changeid="annap" changedate="20210331T123206Z" creationid="annap" creationdate="20210331T123206Z">
-        <seg>Wyszukiwania przez słowa-klucze pasują do wszystkich słów-kluczy oddzielonych spacjami, niezależnie od ich kolejności.</seg>
+      <tuv lang="PL" changeid="annap" changedate="20210607T111846Z" creationid="annap" creationdate="20210331T123206Z">
+        <seg>Wyszukiwania przez słowa kluczowe pasują do wszystkich słów kluczowych oddzielonych spacjami, niezależnie od ich kolejności.</seg>
       </tuv>
     </tu>
     <tu>
