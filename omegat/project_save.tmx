@@ -1265,8 +1265,8 @@ Aby dodać pliki do projektu, kliknij przycisk Kopiuj pliki do foldera źródło
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Werciks" changedate="20210406T184604Z" creationid="jnnas10" creationdate="20210317T171302Z">
-        <seg>--wyłącz-zapisywanie lokalizacji
+      <tuv lang="PL" changeid="Werciks" changedate="20210607T084318Z" creationid="jnnas10" creationdate="20210317T171302Z">
+        <seg>--disable-location-save
 		Nie zapamiętuj ostatniego otwartego katalogu w selektorze plików</seg>
       </tuv>
     </tu>
@@ -1275,8 +1275,8 @@ Aby dodać pliki do projektu, kliknij przycisk Kopiuj pliki do foldera źródło
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Werciks" changedate="20210406T184309Z" creationid="Werciks" creationdate="20210406T184309Z">
-        <seg>--wyłącz-blokowanie projektu
+      <tuv lang="PL" changeid="Werciks" changedate="20210607T084303Z" creationid="Werciks" creationdate="20210406T184309Z">
+        <seg>--disable-project-locking
 		Nie próbuj blokować pliku projektu omegat.project.</seg>
       </tuv>
     </tu>
@@ -1295,8 +1295,8 @@ Aby dodać pliki do projektu, kliknij przycisk Kopiuj pliki do foldera źródło
         <seg>--no-team
 		Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Werciks" changedate="20210406T185941Z" creationid="Werciks" creationdate="20210406T184652Z">
-        <seg>--brak zepsołu
+      <tuv lang="PL" changeid="Werciks" changedate="20210607T084324Z" creationid="Werciks" creationdate="20210406T184652Z">
+        <seg>--no team
 		Dezaktywuj funkcję projektów zespołowych.</seg>
       </tuv>
     </tu>
@@ -3599,8 +3599,8 @@ opuść kolejkę...</seg>
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Werciks" changedate="20210406T190329Z" creationid="Werciks" creationdate="20210406T190329Z">
-        <seg>Tryb konsoli - tłumaczenie:
+      <tuv lang="PL" changeid="Werciks" changedate="20210607T084429Z" creationid="Werciks" creationdate="20210406T190329Z">
+        <seg>Tryb konsoli- tłumaczenie:
 	--source-pattern = &lt;model&gt;
 		Biała lista wyrażeń regularnych plików źródłowych do przetworzenia.</seg>
       </tuv>
