@@ -9557,8 +9557,8 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>OmegaT does not have read and write permissions to this folder.</seg>
       </tuv>
-      <tuv lang="PL" changeid="annap" changedate="20210331T120119Z" creationid="Aleksandra" creationdate="20210330T152002Z">
-        <seg>OmegaT nie ma pozwoleń na dostęp do odczytu i zapisu dla tego folderu.</seg>
+      <tuv lang="PL" changeid="annap" changedate="20210607T111017Z" creationid="Aleksandra" creationdate="20210330T152002Z">
+        <seg>OmegaT nie ma uprawnień do odczytu i zapisu do tego folderu.</seg>
       </tuv>
     </tu>
     <tu>
