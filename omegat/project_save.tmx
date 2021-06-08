@@ -595,8 +595,8 @@
       <tuv lang="en">
         <seg>&amp;Name/ID:</seg>
       </tuv>
-      <tuv lang="pl" changeid="studentka" changedate="20210407T075540Z" creationid="studentka" creationdate="20210407T075540Z">
-        <seg>Imię i &amp;nazwisko/ID:</seg>
+      <tuv lang="pl" changeid="studentka" changedate="20210608T200620Z" creationid="studentka" creationdate="20210407T075540Z">
+        <seg>&amp;Imię i nazwisko/ID:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7494,8 +7494,8 @@ powrócą do wartości domyślnych.</seg>
       <tuv lang="en">
         <seg>It is used to mark your translations.</seg>
       </tuv>
-      <tuv lang="pl" changeid="studentka" changedate="20210407T075527Z" creationid="studentka" creationdate="20210407T075431Z">
-        <seg>Jest ono używane do oznaczenia twoich tłumaczeń.</seg>
+      <tuv lang="pl" changeid="studentka" changedate="20210608T200547Z" creationid="studentka" creationdate="20210407T075431Z">
+        <seg>Używane do oznaczenia twoich tłumaczeń.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10313,8 +10313,8 @@ additional steps need to be taken.</seg>
       <tuv lang="en">
         <seg>Please enter your name/ID.</seg>
       </tuv>
-      <tuv lang="pl" changeid="studentka" changedate="20210407T075441Z" creationid="studentka" creationdate="20210407T075422Z">
-        <seg>Podaj swoje imię i nazwisko/ID.</seg>
+      <tuv lang="pl" changeid="studentka" changedate="20210608T200526Z" creationid="studentka" creationdate="20210407T075422Z">
+        <seg>Wprowadź imię i nazwisko/ID.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10385,8 +10385,8 @@ additional steps need to be taken.</seg>
       <tuv lang="en">
         <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
       </tuv>
-      <tuv lang="pl" changeid="studentka" changedate="20210407T080703Z" creationid="studentka" creationdate="20210407T080601Z">
-        <seg>Wybierz, jaki tekst ma być wstawiony do nieprzetłumaczonego segmentu, gdy do niego przechodzisz.</seg>
+      <tuv lang="pl" changeid="studentka" changedate="20210608T201203Z" creationid="studentka" creationdate="20210407T080601Z">
+        <seg>Wybierz tekst, który pojawi się w nieprzetłumaczonym segmencie w momencie, gdy do niego przejdziesz</seg>
       </tuv>
     </tu>
     <tu>
