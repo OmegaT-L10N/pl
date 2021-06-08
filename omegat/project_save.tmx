@@ -9153,8 +9153,8 @@ Lost to paradise</seg>
       <tuv lang="en">
         <seg>No tags and no numbers</seg>
       </tuv>
-      <tuv lang="pl" changeid="studentka" changedate="20210407T093422Z" creationid="studentka" creationdate="20210407T093422Z">
-        <seg>Brak znaczników i lczb</seg>
+      <tuv lang="pl" changeid="studentka" changedate="20210608T202003Z" creationid="studentka" creationdate="20210407T093422Z">
+        <seg>Brak znaczników i liczb</seg>
       </tuv>
     </tu>
     <tu>
@@ -15458,8 +15458,8 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       <tuv lang="en">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
-      <tuv lang="pl" changeid="studentka" changedate="20210407T085322Z" creationid="studentka" creationdate="20210407T084958Z">
-        <seg>Gdy pojedynczy plik ma więcej segmentów, dodatkowe segmenty będą ładowane na żądanie w czasie przewijania .</seg>
+      <tuv lang="pl" changeid="studentka" changedate="20210608T201735Z" creationid="studentka" creationdate="20210407T084958Z">
+        <seg>Gdy pojedynczy plik ma więcej segmentów, dodatkowe segmenty będą ładowane na żądanie w czasie przewijania.</seg>
       </tuv>
     </tu>
     <tu>
