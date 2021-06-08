@@ -2473,8 +2473,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
-      <tuv lang="pl" changeid="studentka" changedate="20210407T075030Z" creationid="studentka" creationdate="20210407T074954Z">
-        <seg>Czy jesteś pewien, że chcesz usunąć zestaw zasad segmentacji {0}?</seg>
+      <tuv lang="pl" changeid="studentka" changedate="20210608T200449Z" creationid="studentka" creationdate="20210407T074954Z">
+        <seg>Czy na pewno chcesz usunąć  {0} zbiór zasad segmentacji {0}?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11974,8 +11974,8 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="en">
         <seg>Segmentation rules are applied in the following order:</seg>
       </tuv>
-      <tuv lang="pl" changeid="studentka" changedate="20210407T074928Z" creationid="studentka" creationdate="20210407T074928Z">
-        <seg>Zasady segmentacji stosowane są w następującej kolejności:</seg>
+      <tuv lang="pl" changeid="studentka" changedate="20210608T200400Z" creationid="studentka" creationdate="20210407T074928Z">
+        <seg>Zasady segmentacji są stosowane  w następującej kolejności:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12322,8 +12322,8 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="en">
         <seg>Sets of segmentation rules:</seg>
       </tuv>
-      <tuv lang="pl" changeid="studentka" changedate="20210407T074736Z" creationid="studentka" creationdate="20210407T074736Z">
-        <seg>Zestawy zasad segmentacji:</seg>
+      <tuv lang="pl" changeid="studentka" changedate="20210608T200246Z" creationid="studentka" creationdate="20210407T074736Z">
+        <seg>Zbiór zasad segmentacji:</seg>
       </tuv>
     </tu>
     <tu>
