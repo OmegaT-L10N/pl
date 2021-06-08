@@ -515,8 +515,8 @@
       <tuv lang="en">
         <seg>&amp;Leave the segment empty</seg>
       </tuv>
-      <tuv lang="pl" changeid="studentka" changedate="20210407T081144Z" creationid="studentka" creationdate="20210407T080757Z">
-        <seg>&amp;Zostaw segment pusty</seg>
+      <tuv lang="pl" changeid="studentka" changedate="20210608T201252Z" creationid="studentka" creationdate="20210407T080757Z">
+        <seg>&amp;Pozostaw segment pusty</seg>
       </tuv>
     </tu>
     <tu>
@@ -15962,8 +15962,8 @@ na utworzenie folderu konfiguracyjnego.</seg>
       <tuv lang="en">
         <seg>[fuzzy]</seg>
       </tuv>
-      <tuv lang="pl" changeid="Wojciech" changedate="20210430T103444Z" creationid="AgataWojtera" creationdate="20210317T174335Z">
-        <seg>[rozmyte]</seg>
+      <tuv lang="pl" changeid="studentka" changedate="20210608T201417Z" creationid="AgataWojtera" creationdate="20210317T174335Z">
+        <seg>[dopasowanie]</seg>
       </tuv>
     </tu>
     <tu>
