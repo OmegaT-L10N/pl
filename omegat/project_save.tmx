@@ -587,8 +587,8 @@
       <tuv lang="en">
         <seg>&amp;Move Down</seg>
       </tuv>
-      <tuv lang="pl" changeid="studentka" changedate="20210407T074716Z" creationid="studentka" creationdate="20210407T074716Z">
-        <seg>[coś w rodzaju]Przesuń n&amp;iżej</seg>
+      <tuv lang="pl" changeid="studentka" changedate="20210608T200205Z" creationid="studentka" creationdate="20210407T074716Z">
+        <seg>&amp;Przenieś niżej</seg>
       </tuv>
     </tu>
     <tu>
@@ -8753,8 +8753,8 @@ Lost to paradise</seg>
       <tuv lang="en">
         <seg>Move Do&amp;wn</seg>
       </tuv>
-      <tuv lang="pl" changeid="studentka" changedate="20210407T074655Z" creationid="studentka" creationdate="20210407T074655Z">
-        <seg>Przesuń &amp;niżej</seg>
+      <tuv lang="pl" changeid="studentka" changedate="20210608T195914Z" creationid="studentka" creationdate="20210407T074655Z">
+        <seg>Przenieś &amp;niżej</seg>
       </tuv>
     </tu>
     <tu>
