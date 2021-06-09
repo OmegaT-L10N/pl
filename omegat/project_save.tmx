@@ -12456,6 +12456,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skip text matching regular expression:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20210609T143104Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210609T143104Z">
+        <seg>Skip text matching regular expression:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
       <tuv lang="PL" changeid="jnnas10" changedate="20210407T155106Z" creationid="jnnas10" creationdate="20210406T123734Z">
