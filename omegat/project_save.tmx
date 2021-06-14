@@ -1610,6 +1610,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Replace All:&lt;/e0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T101750Z" creationid="Agata Kaczmarska" creationdate="20210614T101750Z">
+        <seg>&lt;e0&gt;Zamień wszystko:&lt;/e0&gt; zamienia wszystkie wyniki (po wyświetleniu okna z liczbą znalezionych wyników).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T195302Z" creationid="Agata Kaczmarska" creationdate="20210520T195302Z">
