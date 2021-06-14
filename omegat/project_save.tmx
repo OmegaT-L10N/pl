@@ -2150,24 +2150,24 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T150913Z" creationid="Anna Zaręba" creationdate="20210527T150913Z">
-        <seg>Po tym, jak pliki źródłowe zostaną załadowane w panelu  &lt;g3&gt;Edytor&lt;/g3&gt; możesz zamknąć okno dialogowe &lt;g4&gt;Pliki projektu&lt;/g4&gt;.</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210614T191408Z" creationid="Anna Zaręba" creationdate="20210527T150913Z">
+        <seg>Po tym, jak pliki źródłowe zostaną załadowane w panelu &lt;g3&gt;Edytor&lt;/g3&gt; możesz zamknąć okno dialogowe &lt;g4&gt;Pliki projektu&lt;/g4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T150002Z" creationid="Anna Zaręba" creationdate="20210527T150002Z">
-        <seg>Po nadaniu nazwy projektowi, &lt;g0&gt;okno dialogowe Utwórz nowy projekt&lt;/g0&gt; zostanie otwarte.</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210614T191402Z" creationid="Anna Zaręba" creationdate="20210527T150002Z">
+        <seg>Po nadaniu nazwy projektowi &lt;g0&gt;okno dialogowe Utwórz nowy projekt&lt;/g0&gt; zostanie otwarte.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
       </tuv>
-      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T151206Z" creationid="Anna Zaręba" creationdate="20210527T151206Z">
-        <seg>Po przetłumaczeniu każdego segmentu, kliknj &lt;k0&gt;Ctrl+U&lt;/k0&gt;aby przejść do następnego nieprzetłumaczonego segmentu (lub &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; aby przejść do następnego przetłumaczonego segmentu).</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210614T191423Z" creationid="Anna Zaręba" creationdate="20210527T151206Z">
+        <seg>Po przetłumaczeniu każdego segmentu kliknj &lt;k0&gt;Ctrl+U&lt;/k0&gt;aby przejść do następnego nieprzetłumaczonego segmentu (lub &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; aby przejść do następnego przetłumaczonego segmentu).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2573,8 +2573,8 @@ co może skutkować nieoczekiwanym, ale prawidłowym działaniem.</seg>
       <tuv lang="EN">
         <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T153559Z" creationid="Anna Zaręba" creationdate="20210527T153559Z">
-        <seg>Po zakończeniu tłumaczenia, OmegaT eksportuje do folderu projektu trzy pamięci tłumaczeniowe nazwane &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; oraz &lt;f2&gt;omegat&lt;/f2&gt;.</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210614T191442Z" creationid="Anna Zaręba" creationdate="20210527T153559Z">
+        <seg>Po zakończeniu tłumaczenia OmegaT eksportuje do folderu projektu trzy pamięci tłumaczeniowe nazwane &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; oraz &lt;f2&gt;omegat&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4801,8 +4801,8 @@ i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
       <tuv lang="EN">
         <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T151542Z" creationid="Anna Zaręba" creationdate="20210527T151542Z">
-        <seg>W czasie tłumaczenia, używaj menu &lt;g4&gt;Edytuj&lt;/g4&gt; oraz &lt;g5&gt;Idź do&lt;/g5&gt;, aby wykonywać rózne, użyteczne funkcje.</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210614T191437Z" creationid="Anna Zaręba" creationdate="20210527T151542Z">
+        <seg>W czasie tłumaczenia używaj menu &lt;g4&gt;Edytuj&lt;/g4&gt; oraz &lt;g5&gt;Idź do&lt;/g5&gt;, aby wykonywać rózne, użyteczne funkcje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7054,8 +7054,8 @@ powrócą do wartości domyślnych.</seg>
       <tuv lang="EN">
         <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
-      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T153957Z" creationid="Anna Zaręba" creationdate="20210527T153957Z">
-        <seg>Jeżeli takie pliki tłumaczeniowe zostanę umieszczone w podkatalogu  &lt;f6&gt;/tm/&lt;/f6&gt;, program OmegaT automatycznie je przeszuka w poszukiwaniu podobnych segmentów, które nazywane są "dopasowaniami rozmytymi".</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210614T191432Z" creationid="Anna Zaręba" creationdate="20210527T153957Z">
+        <seg>Jeżeli takie pliki tłumaczeniowe zostanę umieszczone w podkatalogu &lt;f6&gt;/tm/&lt;/f6&gt;, program OmegaT automatycznie je przeszuka w poszukiwaniu podobnych segmentów, które nazywane są "dopasowaniami rozmytymi".</seg>
       </tuv>
     </tu>
     <tu>
@@ -9705,8 +9705,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT will present one segment at a time for you to translate.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T151044Z" creationid="Anna Zaręba" creationdate="20210527T151044Z">
-        <seg>OmegaT dostarczy jednorazowo jeden segment do przetłumaczenia..</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210614T191414Z" creationid="Anna Zaręba" creationdate="20210527T151044Z">
+        <seg>OmegaT dostarczy jednorazowo jeden segment do przetłumaczenia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11132,8 +11132,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Remember where you are creating the project, because you will need to return to it later.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T145833Z" creationid="Anna Zaręba" creationdate="20210527T145833Z">
-        <seg>Zapemiętaj, gdzie tworzysz projekt, ponieważ później będziesz musiał do niego wrócić..</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210614T191345Z" creationid="Anna Zaręba" creationdate="20210527T145833Z">
+        <seg>Zapemiętaj, gdzie tworzysz projekt, ponieważ później będziesz musiał do niego wrócić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14494,8 +14494,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T153340Z" creationid="Anna Zaręba" creationdate="20210527T153340Z">
-        <seg>W celu przypomnienia sobie ustawień początkowych projektu, otwórz okno dialogowe projektu, naciskając klawisze&lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210614T191457Z" creationid="Anna Zaręba" creationdate="20210527T153340Z">
+        <seg>W celu przypomnienia sobie ustawień początkowych projektu otwórz okno dialogowe projektu, naciskając klawisze&lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15674,8 +15674,8 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
       <tuv lang="EN">
         <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Anna Zaręba" changedate="20210527T151444Z" creationid="Anna Zaręba" creationdate="20210527T151444Z">
-        <seg>Jeżeli chcesz zobaczyć, jak będzie wyglądało tłumaczenie w ostatecznym formacie, kliknij &lt;k2&gt;Ctrl+D&lt;/k2&gt; ab wygenerować przetłumaczone dokumenty, które będą utworzone w subfolderze  &lt;f3&gt;/target/&lt;/f3&gt; w folderze projektu</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210614T191427Z" creationid="Anna Zaręba" creationdate="20210527T151444Z">
+        <seg>Jeżeli chcesz zobaczyć, jak będzie wyglądało tłumaczenie w ostatecznym formacie, kliknij &lt;k2&gt;Ctrl+D&lt;/k2&gt; ab wygenerować przetłumaczone dokumenty, które będą utworzone w subfolderze &lt;f3&gt;/target/&lt;/f3&gt; w folderze projektu</seg>
       </tuv>
     </tu>
     <tu>
