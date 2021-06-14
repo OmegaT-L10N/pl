@@ -12616,6 +12616,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sorry</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T102844Z" creationid="Agata Kaczmarska" creationdate="20210614T102844Z">
+        <seg>Przepraszamy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort &amp;alphabetically</seg>
       </tuv>
       <tuv lang="PL" changeid="magdalenaklocek" changedate="20210322T205657Z" creationid="magdalenaklocek" creationdate="20210322T205657Z">
@@ -12980,6 +12988,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T174607Z" creationid="AgatoZiemniak" creationdate="20210322T174607Z">
         <seg>Krok 2: Wprowadź zmiany ręcznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip Tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T103154Z" creationid="Agata Kaczmarska" creationdate="20210614T103154Z">
+        <seg>Usuń tagi</seg>
       </tuv>
     </tu>
     <tu>
@@ -15568,6 +15584,14 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We could not find the page you are looking for.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T102909Z" creationid="Agata Kaczmarska" creationdate="20210614T102909Z">
+        <seg>Nie udało się znaleźć strony, której szukasz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
       <tuv lang="PL" changeid="studentka" changedate="20210608T201735Z" creationid="studentka" creationdate="20210407T084958Z">
@@ -15922,6 +15946,14 @@ Your page is not found</seg>
       <tuv lang="PL" changeid="cezarykotowicz" changedate="20210403T150046Z" creationid="cezarykotowicz" creationdate="20210403T150046Z">
         <seg>Szczegółowe dane statystyczne możesz znaleść w pliku:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T103022Z" creationid="Agata Kaczmarska" creationdate="20210614T103022Z">
+        <seg>Możesz wrócić do &lt;a0&gt;strony głównej&lt;/a0&gt; i kontynuować poszukiwanie informacji.</seg>
       </tuv>
     </tu>
     <tu>
