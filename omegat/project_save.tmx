@@ -1554,6 +1554,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Close:&lt;/e0&gt; close the window without any change.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T102224Z" creationid="Agata Kaczmarska" creationdate="20210614T102224Z">
+        <seg>&lt;e0&gt;Zamknij:&lt;/e0&gt; zamyka okno bez wprowadzania zmian.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;I don't know:&lt;/e0&gt; open a terminal and type &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
       </tuv>
       <tuv lang="PL" changeid="Kasia Mędrzycka" changedate="20210527T154742Z" creationid="Kasia Mędrzycka" creationdate="20210527T154742Z">
@@ -5449,6 +5457,14 @@ nikt nie słyszy twojego płaczu...</seg>
       </tuv>
       <tuv lang="PL" changeid="Aleksandra" changedate="20210330T144212Z" creationid="Aleksandra" creationdate="20210330T144212Z">
         <seg>Excel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Except one: check &lt;e0&gt;Untranslated&lt;/e0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T102531Z" creationid="Agata Kaczmarska" creationdate="20210614T102531Z">
+        <seg>Wyjątek: zaznacz &lt;e0&gt;Nieprzetłumaczone&lt;/e0&gt;, aby zastosować opcję Znajdź i zamień również w nieprzetłumaczonych segmentach.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11848,6 +11864,22 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T121246Z" creationid="annap" creationdate="20210331T121246Z">
         <seg>Szukaj w:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T102236Z" creationid="Agata Kaczmarska" creationdate="20210614T102236Z">
+        <seg>Opcje wyszukiwania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search options are similar to the ones displayed in &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T102312Z" creationid="Agata Kaczmarska" creationdate="20210614T102312Z">
+        <seg>Opcje wyszukiwania są podobne do tych w &lt;l0&gt;Oknie wyszukiwania&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
