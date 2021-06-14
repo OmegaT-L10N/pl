@@ -3287,8 +3287,8 @@ opuść kolejkę...</seg>
       <tuv lang="EN">
         <seg>Click &lt;e2&gt;Replace Next&lt;/e2&gt; or &lt;e3&gt;Skip&lt;/e3&gt;, then end the replacement session with &lt;e4&gt;Finish&lt;/e4&gt;.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T102158Z" creationid="Agata Kaczmarska" creationdate="20210614T102158Z">
-        <seg>Kliknij &lt;e2&gt;Zamień następny&lt;/e2&gt; lub &lt;e3&gt;Pomiń&lt;/e3&gt;, następnie aby zakończyć sesję kliknij &lt;e4&gt;Zakończ&lt;/e4&gt;.</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210614T190917Z" creationid="Agata Kaczmarska" creationdate="20210614T102158Z">
+        <seg>Kliknij &lt;e2&gt;Zamień następny&lt;/e2&gt; lub &lt;e3&gt;Pomiń&lt;/e3&gt;, następnie, aby zakończyć sesję, kliknij &lt;e4&gt;Zakończ&lt;/e4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5108,8 +5108,8 @@ brak strony...</seg>
       <tuv lang="EN">
         <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
       </tuv>
-      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T101027Z" creationid="Agata Kaczmarska" creationdate="20210614T101027Z">
-        <seg>Wpisz nowe słowo lub grupę słów (wyrażenia nie są wspierane) w ramkę &lt;e0&gt;Zamień na&lt;/e0&gt;, następnie wybierz jedną z wymienionych opcji:</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210614T190736Z" creationid="Agata Kaczmarska" creationdate="20210614T101027Z">
+        <seg>Wpisz nowe słowo lub grupę słów (wyrażenia regularne nie są wspierane) w pole &lt;e0&gt;Zamień na&lt;/e0&gt;, następnie wybierz jedną z wymienionych opcji:</seg>
       </tuv>
     </tu>
     <tu>
