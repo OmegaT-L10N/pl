@@ -1618,6 +1618,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Replace:&lt;/e0&gt; operates a "one by one" replacement, by the mean of buttons in the &lt;e1&gt;header of the Editor pane&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T101900Z" creationid="Agata Kaczmarska" creationdate="20210614T101900Z">
+        <seg>&lt;e0&gt;Zamień:&lt;/e0&gt; operates a "one by one" replacement, by the mean of buttons in the &lt;e1&gt;header of the Editor pane&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210520T195302Z" creationid="Agata Kaczmarska" creationdate="20210520T195302Z">
