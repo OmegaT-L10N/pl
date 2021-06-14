@@ -2302,8 +2302,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Allow translated tags to be in a di&amp;fferent order</seg>
       </tuv>
-      <tuv lang="PL" changeid="beataporodzynska" changedate="20210409T104958Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T141426Z">
-        <seg>﻿Pozwól, aby przetłumaczone znaczniki pojawiały się w in&amp;nej kolejności</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210614T192333Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T141426Z">
+        <seg>Pozwól, aby przetłumaczone znaczniki pojawiały się w in&amp;nej kolejności</seg>
       </tuv>
     </tu>
     <tu>
@@ -3120,8 +3120,8 @@ opuść kolejkę...</seg>
       <tuv lang="EN">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
-      <tuv lang="PL" changeid="Barnaba Nowakiewicz" changedate="20210402T141051Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T141051Z">
-        <seg>Sprawdź &amp;wszystkie zmienne printf (np., %s, %-s)</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210614T192258Z" creationid="Barnaba Nowakiewicz" creationdate="20210402T141051Z">
+        <seg>Sprawdź &amp;wszystkie zmienne printf (np. %s, %-s)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13446,8 +13446,8 @@ bieżący folder.</seg>
       <tuv lang="EN">
         <seg>The &lt;g1&gt;Tag Issues&lt;/g1&gt; option is always selected.</seg>
       </tuv>
-      <tuv lang="PL" changeid="paulina" changedate="20210519T120206Z" creationid="paulina" creationdate="20210519T120206Z">
-        <seg>Problemy &lt;g1&gt;z tagowaniem&lt;/g1&gt; opcja jest zawsze aktywna.</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210614T192551Z" creationid="paulina" creationdate="20210519T120206Z">
+        <seg>Opcja &lt;g1&gt;Problemy z tagowaniem&lt;/g1&gt; jest zawsze aktywna.</seg>
       </tuv>
     </tu>
     <tu>
