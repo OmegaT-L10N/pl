@@ -1612,16 +1612,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Replace All:&lt;/e0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
       </tuv>
-      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T101750Z" creationid="Agata Kaczmarska" creationdate="20210614T101750Z">
-        <seg>&lt;e0&gt;Zamień wszystko:&lt;/e0&gt; zamienia wszystkie wyniki (po wyświetleniu okna z liczbą znalezionych wyników).</seg>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T101914Z" creationid="Agata Kaczmarska" creationdate="20210614T101750Z">
+        <seg>&lt;e0&gt;Zamień wszystko:&lt;/e0&gt; zamiana wszystkich wyników (po wyświetleniu okna z liczbą znalezionych wyników).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Replace:&lt;/e0&gt; operates a "one by one" replacement, by the mean of buttons in the &lt;e1&gt;header of the Editor pane&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T101900Z" creationid="Agata Kaczmarska" creationdate="20210614T101900Z">
-        <seg>&lt;e0&gt;Zamień:&lt;/e0&gt; operates a "one by one" replacement, by the mean of buttons in the &lt;e1&gt;header of the Editor pane&lt;/e1&gt;.</seg>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T101955Z" creationid="Agata Kaczmarska" creationdate="20210614T101900Z">
+        <seg>&lt;e0&gt;Zamień:&lt;/e0&gt; zamiana wyników "jeden po drugim" za pomocą przycisków w &lt;e1&gt;nagłówku panelu edycji&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3273,6 +3273,14 @@ opuść kolejkę...</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173219Z" creationid="AgatoZiemniak" creationdate="20210322T173219Z">
         <seg>Odznacz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;e2&gt;Replace Next&lt;/e2&gt; or &lt;e3&gt;Skip&lt;/e3&gt;, then end the replacement session with &lt;e4&gt;Finish&lt;/e4&gt;.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T102158Z" creationid="Agata Kaczmarska" creationdate="20210614T102158Z">
+        <seg>Kliknij &lt;e2&gt;Zamień następny&lt;/e2&gt; lub &lt;e3&gt;Pomiń&lt;/e3&gt;, następnie aby zakończyć sesję kliknij &lt;e4&gt;Zakończ&lt;/e4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
