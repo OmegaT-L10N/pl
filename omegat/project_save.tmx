@@ -6892,6 +6892,14 @@ powrócą do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T102638Z" creationid="Agata Kaczmarska" creationdate="20210614T102638Z">
+        <seg>Jeśli w danym segmencie nie zostanie dokonana zamiana, segment docelowy zostanie "opróżniony", tzn. pozostanie nieprzetłumaczony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If not checked, source segments will not be shown.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210514T104804Z" creationid="monika" creationdate="20210514T104804Z">
@@ -13567,6 +13575,14 @@ bieżący folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The difference is thin: we call "Window" a window that can stay open next to the editor and interact with it, and "dialog" a window where you must select parameters before closing it and pursuing your translation activity.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T102813Z" creationid="Agata Kaczmarska" creationdate="20210614T102813Z">
+        <seg>Różnica jest niewielka: "Okno" to okno, które może pozostawać otwarte obok edytora i wchodzić z nim w interakcję, a "okno dialogowe" to okno, w którym należy wybrać parametry przed jego zamknięciem i kontynuowaniem tłumaczenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The documents are opened by the application chosen by the operating system.</seg>
       </tuv>
       <tuv lang="PL" changeid="magda" changedate="20210517T214506Z" creationid="magda" creationdate="20210517T214506Z">
@@ -14424,6 +14440,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="wciecierska" changedate="20210524T203842Z" creationid="wciecierska" creationdate="20210524T203842Z">
         <seg>Aby uruchomić &lt;f0&gt;OmegaT.app&lt;/f0&gt; kilkukrotnie, kliknij dwukrotnie na plik &lt;e1&gt;OmegaT&lt;/e1&gt; znajdujący się w &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T102617Z" creationid="Agata Kaczmarska" creationdate="20210614T102617Z">
+        <seg>Aby to umożliwić (mimo że operacja Znajdź i zamień działa tylko na pamięci), OmegaT skopiuje segment źródłowy do segmentu docelowego przed wykonaniem operacji zamiany.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15678,8 +15702,8 @@ Your page is not found</seg>
       <tuv lang="EN">
         <seg>Windows and dialogs</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aleksandra" changedate="20210329T170617Z" creationid="Aleksandra" creationdate="20210329T170617Z">
-        <seg>Windows and dialogs</seg>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T102727Z" creationid="Aleksandra" creationdate="20210329T170617Z">
+        <seg>Okna i okna dialogowe</seg>
       </tuv>
     </tu>
     <tu>
