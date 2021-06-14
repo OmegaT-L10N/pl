@@ -10471,6 +10471,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please try again after you open a project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T103301Z" creationid="Agata Kaczmarska" creationdate="20210614T103301Z">
+        <seg>Spróbuj ponownie po otwarciu projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please try again.</seg>
       </tuv>
       <tuv lang="PL" changeid="monika" changedate="20210325T122827Z" creationid="monika" creationdate="20210325T121020Z">
@@ -11206,6 +11214,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="AgatoZiemniak" changedate="20210322T173923Z" creationid="AgatoZiemniak" creationdate="20210322T173923Z">
         <seg>Usuń znaczniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove tags in the current target</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T103217Z" creationid="Agata Kaczmarska" creationdate="20210614T103217Z">
+        <seg>Usuń tagi w aktualnym tekście docelowym</seg>
       </tuv>
     </tu>
     <tu>
@@ -12996,6 +13012,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T103154Z" creationid="Agata Kaczmarska" creationdate="20210614T103154Z">
         <seg>Usuń tagi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip tags in current segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T103237Z" creationid="Agata Kaczmarska" creationdate="20210614T103237Z">
+        <seg>Usuń tagi w aktualnym segmencie</seg>
       </tuv>
     </tu>
     <tu>
