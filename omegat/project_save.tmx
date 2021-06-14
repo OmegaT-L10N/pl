@@ -9921,8 +9921,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T100534Z" creationid="Agata Kaczmarska" creationdate="20210614T100504Z">
-        <seg>Otwórz okno "Znajdź i zamień" używając klawiszy &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; i &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; i wpisz w ramkę &lt;e3&gt;Szukaj&lt;/e3&gt; słowo lub wyrażenie, które chcesz zastąpić.</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210614T190634Z" creationid="Agata Kaczmarska" creationdate="20210614T100504Z">
+        <seg>Otwórz okno "Znajdź i zamień" używając klawiszy &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; i &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; i wpisz w pole &lt;e3&gt;Szukaj&lt;/e3&gt; słowo lub wyrażenie, które chcesz zastąpić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14005,8 +14005,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>Then click on &lt;e0&gt;Search&lt;/e0&gt; button to display all the corresponding occurrences.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T100601Z" creationid="Agata Kaczmarska" creationdate="20210614T100526Z">
-        <seg>Następnie kliknij &lt;e0&gt;Szukaj&lt;/e0&gt;, aby wyświetlić wszystkie wyniki wyszukiwania.</seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210614T190555Z" creationid="Agata Kaczmarska" creationdate="20210614T100526Z">
+        <seg>Następnie kliknij przycisk &lt;e0&gt;Szukaj&lt;/e0&gt;, aby wyświetlić wszystkie wyniki wyszukiwania.</seg>
       </tuv>
     </tu>
     <tu>
