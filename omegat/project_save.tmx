@@ -5074,6 +5074,14 @@ brak strony...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T101027Z" creationid="Agata Kaczmarska" creationdate="20210614T101027Z">
+        <seg>Wpisz nowe słowo lub grupę słów (wyrażenia nie są wspierane) w ramkę &lt;e0&gt;Zamień na&lt;/e0&gt;, następnie wybierz jedną z wymienionych opcji:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="PL" changeid="Paula" changedate="20210329T225338Z" creationid="Paula" creationdate="20210329T225338Z">
@@ -9865,8 +9873,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T100504Z" creationid="Agata Kaczmarska" creationdate="20210614T100504Z">
-        <seg>Otwórz okno "Znajdź i zamień" używając klawiszy &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; i &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; i wpisz w ramkę &lt;e3&gt;Search for&lt;/e3&gt; słowo lub wyrażenie, które chcesz zastąpić.</seg>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T100534Z" creationid="Agata Kaczmarska" creationdate="20210614T100504Z">
+        <seg>Otwórz okno "Znajdź i zamień" używając klawiszy &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; i &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; i wpisz w ramkę &lt;e3&gt;Szukaj&lt;/e3&gt; słowo lub wyrażenie, które chcesz zastąpić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13879,6 +13887,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="PL" changeid="Anasti-M" changedate="20210413T091721Z" creationid="Anasti-M" creationdate="20210413T091721Z">
         <seg>Zapisywany plik glosariusza musi znajdować się w folderze Glosariusz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then click on &lt;e0&gt;Search&lt;/e0&gt; button to display all the corresponding occurrences.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Agata Kaczmarska" changedate="20210614T100601Z" creationid="Agata Kaczmarska" creationdate="20210614T100526Z">
+        <seg>Następnie kliknij &lt;e0&gt;Szukaj&lt;/e0&gt;, aby wyświetlić wszystkie wyniki wyszukiwania.</seg>
       </tuv>
     </tu>
     <tu>
