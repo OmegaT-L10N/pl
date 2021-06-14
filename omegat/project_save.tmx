@@ -3697,8 +3697,8 @@ opuść kolejkę...</seg>
       <tuv lang="EN">
         <seg>Copies the selected files to the &lt;f0&gt;source&lt;/f0&gt; folder and reloads the project to load the new files.</seg>
       </tuv>
-      <tuv lang="PL" changeid="magda" changedate="20210514T105340Z" creationid="magda" creationdate="20210514T105340Z">
-        <seg>Kopiuj wybrane pliki &lt;f0&gt; do folderu źródłowego i ładuje ponownie projektu, aby załadować nowe pliki. </seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210614T191829Z" creationid="magda" creationdate="20210514T105340Z">
+        <seg>Kopiuj wybrane pliki do folderu &lt;f0&gt;źródłowego&lt;/f0&gt; i ładuje ponownie projektu, aby załadować nowe pliki. </seg>
       </tuv>
     </tu>
     <tu>
@@ -11942,8 +11942,8 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       <tuv lang="EN">
         <seg>See &lt;l0&gt;Use a team project&lt;/l0&gt; for details.</seg>
       </tuv>
-      <tuv lang="PL" changeid="magda" changedate="20210514T104742Z" creationid="magda" creationdate="20210514T104540Z">
-        <seg>Patrz &lt;l0&gt; użyj projektu zespołowego &lt;/l0&gt;  w celu zobaczenia szczegółów. </seg>
+      <tuv lang="PL" changeid="SvK" changedate="20210614T191901Z" creationid="magda" creationdate="20210514T104540Z">
+        <seg>Patrz &lt;l0&gt; użyj projektu zespołowego &lt;/l0&gt; w celu zobaczenia szczegółów. </seg>
       </tuv>
     </tu>
     <tu>
