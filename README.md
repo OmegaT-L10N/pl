@@ -1,6 +1,22 @@
 # Project info
 Polish OmegaT Localisation
 
+# Access tokens
+
+To be able to use this project with OmegaT, the user who was added to the project with write permissions needs to create an access token. This token will be used instead of the GitHub password when OmegaT promts the user to specify their credentials (GitHub username for the username, and the access token instead of the password). Here's the instruction: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+When following that instruction, in p.8 the user may select all the permissions.
+
+# How to start translating in the project
+
+1. You need to have a GitHub access token.
+2. Make sure you have been added to the project with the write permission (this is done by the project manager).
+3. Open OmegaT, select **Project** → **Download Team Project**. In the dialog window that will pop up, enter https://github.com/OmegaT-L10N/pl.git for the repository URL. Then select the parent folder where the project's folder will be located, and then type in the folder's name, for instance `PL-L10N` (or any other name). The project's folder will be created in the selected location. Click OK. OmegaT will download the project's data, it may take some time.
+4. At some point OmegaT will prompt you for your username and password. Enter your GitHub username and the access token. The prompt may pop up several times.
+5. If you have problems with the user's credentials, make sure that your username had been added to the list of the users with write permissions (contact your project manager), and that you entered the access token correctly (no spaces, etc).
+6. Step 3 above needs to be done only once. After that you need to open the project from the location where it was saved.
+7. In case the project fails to open or synchronize with the server, just redownload it again (step 3 above) into a new location. The old location then can be deleted (but before you delete it, make sure to open the project from the new location and to check that all your previous work had been saved). 
+
 # How to test ongoing translation
 
 To properly test the UI translation, you *must* use a version of OmegaT that corresponds to the UI file version that you translate. Otherwise, when you ask OmegaT to run with that translated file (which is the procedure we describe here) OmegaT will refuse to run because some UI strings do not correspond to what its UI requires.
