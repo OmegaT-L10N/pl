@@ -9563,6 +9563,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT - The Free Translation Memory Tool</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220328T232005Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220328T232005Z">
+        <seg>OmegaT - The Free Translation Memory Tool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Project Files</seg>
       </tuv>
       <tuv lang="PL" changeid="Anasti-M" changedate="20210414T120137Z" creationid="Anasti-M" creationdate="20210414T120137Z">
@@ -12500,6 +12508,14 @@ Domyślnym celem badania jest projekt, ale może nim być też inny plik usytuow
       </tuv>
       <tuv lang="PL" changeid="annap" changedate="20210331T120512Z" creationid="annap" creationdate="20210331T120512Z">
         <seg>Pokaż opcje zaawansowane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show English Version</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220328T232021Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220328T232021Z">
+        <seg>Show English Version</seg>
       </tuv>
     </tu>
     <tu>
