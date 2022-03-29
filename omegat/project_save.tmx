@@ -14,15 +14,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>-h, --help
-		Show usage information.</seg>
-      </tuv>
-      <tuv lang="PL" changeid="mat_staszak" changedate="20220329T175421Z" creationid="mat_staszak" creationdate="20220329T175421Z">
-        <seg>-h, --help</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220329T150524Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220329T150524Z">
