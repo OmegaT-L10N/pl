@@ -6,14 +6,6 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
-        <seg>&amp;Insert</seg>
-      </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220329T175934Z" creationid="werric" creationdate="20220329T175934Z">
-        <seg>[fuzzy]&amp;Wstaw</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220329T150524Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220329T150524Z">
