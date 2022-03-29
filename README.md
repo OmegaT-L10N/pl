@@ -81,7 +81,7 @@ This command works on any operating system but some operating system specific fa
 
   * **Windows**
 
-    Run OmegaT.ext
+    Run OmegaT.exe
 
   * **MacOS**
   
