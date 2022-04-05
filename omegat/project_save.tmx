@@ -28,6 +28,14 @@
         <seg>OmegaT</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated unique segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T164445Z" creationid="GKarpowicz" creationdate="20220405T164445Z">
+        <seg>[fuzzy]Przetłumaczone segmenty niepowtarzające się</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
