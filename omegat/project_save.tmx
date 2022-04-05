@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171255Z" creationid="mademoiselleqwerty" creationdate="20220405T171255Z">
+        <seg>&amp;Project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T170115Z" creationid="mademoiselleqwerty" creationdate="20220405T170115Z">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="EN">
         <seg>Arrays must not be null</seg>
@@ -28,6 +44,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220405T164415Z" creationid="werric" creationdate="20220405T164415Z">
         <seg>[fuzzy]S&amp;egmentuj na poziomie zdań.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171249Z" creationid="mademoiselleqwerty" creationdate="20220405T171249Z">
+        <seg>Error</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +106,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has chosen option 'Yes' automatically.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171250Z" creationid="mademoiselleqwerty" creationdate="20220405T171250Z">
+        <seg>OmegaT has chosen option 'Yes' automatically.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page slips through fingers
 Pulse pounding hard and frantic
 Vanishing like mist</seg>
@@ -109,6 +141,30 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project is Empty</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171248Z" creationid="mademoiselleqwerty" creationdate="20220405T171248Z">
+        <seg>Project is Empty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace &amp;glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T164638Z" creationid="mademoiselleqwerty" creationdate="20220405T164638Z">
+        <seg>Replace &amp;glossary hits when inserting source text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Options &gt; File filters for a list of supported file formats.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T164620Z" creationid="mademoiselleqwerty" creationdate="20220405T164620Z">
+        <seg>See Options &gt; File filters for a list of supported file formats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segmentation method: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220405T170055Z" creationid="ewawoj" creationdate="20220405T170055Z">
@@ -123,6 +179,22 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T170722Z" creationid="GKarpowicz" creationdate="20220405T170722Z">
         <seg>[fuzzy]Trzy rzeczy są pewne:&lt;p&gt;Śmierć, podatki, i "nie znaleziono strony".&lt;p&gt;A ty jesteś ofiarą jednej z nich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add files to the project you can
+- drag and drop files on this Editor pane
+- use Project &gt; Copy Files to Source Folder...
+- click on Copy Files to Source Folder... in the Project Files window
+- copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171100Z" creationid="mademoiselleqwerty" creationdate="20220405T171100Z">
+        <seg>To add files to the project you can
+- drag and drop files on this Editor pane
+- use Project &gt; Copy Files to Source Folder...
+- click on Copy Files to Source Folder... in the Project Files window
+- copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
       </tuv>
     </tu>
     <tu>
@@ -143,12 +215,28 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171249Z" creationid="mademoiselleqwerty" creationdate="20220405T171249Z">
+        <seg>Warning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Wind catches lily
 Scatt'ring petals to the wind:
 Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T170755Z" creationid="GKarpowicz" creationdate="20220405T165756Z">
         <seg>Strona przeminęła z wiatrem...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your project does not contain any files in a supported file format.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171049Z" creationid="mademoiselleqwerty" creationdate="20220405T164557Z">
+        <seg> Twój projekt nie zawiera żadnych plików w obsługiwanym formacie.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
