@@ -175,6 +175,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search and Replace...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T172034Z" creationid="mademoiselleqwerty" creationdate="20220405T172034Z">
+        <seg>Search and Replace...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Options &gt; File filters for a list of supported file formats.</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T164620Z" creationid="mademoiselleqwerty" creationdate="20220405T164620Z">
