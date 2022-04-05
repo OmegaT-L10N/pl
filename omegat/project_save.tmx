@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>Arrays must not be null</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220405T164411Z" creationid="werric" creationdate="20220405T164411Z">
+        <seg>[fuzzy]Tablica nie może być pusta!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E&amp;nable Sentence-level Segmenting</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220405T164415Z" creationid="werric" creationdate="20220405T164415Z">
+        <seg>[fuzzy]S&amp;egmentuj na poziomie zdań.</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="EN">
         <seg>Mozilla Lang</seg>
