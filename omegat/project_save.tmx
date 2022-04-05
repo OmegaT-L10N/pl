@@ -62,6 +62,16 @@ Gossamer threads hold you back
         <seg>Przetłumaczone segmenty niepowtarzające się</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wind catches lily
+Scatt'ring petals to the wind:
+Your page is not found</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T165756Z" creationid="GKarpowicz" creationdate="20220405T165756Z">
+        <seg>[fuzzy]Szłem łąką, wiater wiał, kwiaty pachły,&lt;p&gt;Ona mnie odepchła:&lt;p&gt;a strony nie znaleziono</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
