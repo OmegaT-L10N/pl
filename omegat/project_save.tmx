@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -44,6 +44,16 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220405T164415Z" creationid="werric" creationdate="20220405T164415Z">
         <seg>[fuzzy]S&amp;egmentuj na poziomie zdań.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emptiness of soul
+Forever aching blackness
+Your help page not found</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T171436Z" creationid="GKarpowicz" creationdate="20220405T171436Z">
+        <seg>[fuzzy]Ból istnienia,&lt;p&gt;wiecznej ciemności pustać,&lt;p&gt;Tej jedynej nie ma!</seg>
       </tuv>
     </tu>
     <tu>
@@ -169,6 +179,16 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220405T170055Z" creationid="ewawoj" creationdate="20220405T170055Z">
         <seg>[fuzzy]Metoda segmentacji: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The help page you seek
+Lies beyond our perception
+But others await</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T171325Z" creationid="GKarpowicz" creationdate="20220405T171325Z">
+        <seg>[fuzzy]Strona, której ci trzeba &lt;p&gt;Jest nam niedostępna.&lt;p&gt;Za to inne czekają...</seg>
       </tuv>
     </tu>
     <tu>
