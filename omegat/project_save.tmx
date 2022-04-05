@@ -32,8 +32,8 @@
       <tuv lang="EN">
         <seg>Arrays must not be null</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220405T164411Z" creationid="werric" creationdate="20220405T164411Z">
-        <seg>[fuzzy]Tablica nie może być pusta!</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220405T172537Z" creationid="werric" creationdate="20220405T164411Z">
+        <seg>Tablica nie może być pusta</seg>
       </tuv>
     </tu>
     <tu>
@@ -50,8 +50,24 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>E&amp;nable Sentence-level Segmenting</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220405T164415Z" creationid="werric" creationdate="20220405T164415Z">
-        <seg>[fuzzy]S&amp;egmentuj na poziomie zdań.</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220405T172608Z" creationid="werric" creationdate="20220405T164415Z">
+        <seg>Segmentuj na poziomie zdań.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220405T172619Z" creationid="werric" creationdate="20220405T164651Z">
+        <seg>Edytuj projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit project properties here.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220405T172644Z" creationid="werric" creationdate="20220405T172644Z">
+        <seg>Zmień tutaj właściwości projektu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -92,10 +108,26 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File locations</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220405T172717Z" creationid="werric" creationdate="20220405T172717Z">
+        <seg>Lokalizacja folderów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File {0} does not exist!</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220405T164400Z" creationid="ewawoj" creationdate="20220405T164400Z">
         <seg>[fuzzy]Plik {0} nie istnieje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Languages</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220405T172654Z" creationid="werric" creationdate="20220405T172654Z">
+        <seg>Języki</seg>
       </tuv>
     </tu>
     <tu>
@@ -128,6 +160,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171250Z" creationid="mademoiselleqwerty" creationdate="20220405T171250Z">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220405T172700Z" creationid="werric" creationdate="20220405T172700Z">
+        <seg>Opcje</seg>
       </tuv>
     </tu>
     <tu>
