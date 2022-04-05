@@ -56,6 +56,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download Media&amp;Wiki Page...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T173727Z" creationid="mademoiselleqwerty" creationdate="20220405T173727Z">
+        <seg>Download Media&amp;Wiki Page...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E&amp;nable Sentence-level Segmenting</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220405T172608Z" creationid="werric" creationdate="20220405T164415Z">
