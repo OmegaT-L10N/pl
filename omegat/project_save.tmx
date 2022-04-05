@@ -12,6 +12,14 @@
         <seg>OmegaT</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220405T130117Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220405T130117Z">
+        <seg>Test</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
