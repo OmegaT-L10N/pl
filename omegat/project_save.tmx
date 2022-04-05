@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10,6 +10,16 @@
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220405T164411Z" creationid="werric" creationdate="20220405T164411Z">
         <seg>[fuzzy]Tablica nie może być pusta!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bartender yells loud:
+Your page cannot be found, boy
+Buy another drink</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T165859Z" creationid="GKarpowicz" creationdate="20220405T165801Z">
+        <seg>A barman rzekł: zaiste, nie ma tu synu strony dla ciebie... Inny wybierz napitek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72,6 +82,17 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page slips through fingers
+Pulse pounding hard and frantic
+Vanishing like mist</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T170717Z" creationid="GKarpowicz" creationdate="20220405T165846Z">
+        <seg>Szukała, nie znalazła - i serwer pobladnął,
+&lt;p&gt; Nie znalazłszy twej strony, już siecią nie władnął&lt;p&gt; I uczuł, że go pali skrętka rozogniona, upuścił ją i upadł;- nim dobiją, skona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220405T164445Z" creationid="ewawoj" creationdate="20220405T164445Z">
@@ -96,6 +117,16 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These three are certain:
+Death, taxes, and page not found
+You, victim of one</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T170722Z" creationid="GKarpowicz" creationdate="20220405T170722Z">
+        <seg>[fuzzy]Trzy rzeczy są pewne:&lt;p&gt;Śmierć, podatki, i "nie znaleziono strony".&lt;p&gt;A ty jesteś ofiarą jednej z nich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated unique segments</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T164754Z" creationid="GKarpowicz" creationdate="20220405T164445Z">
@@ -116,8 +147,8 @@ Gossamer threads hold you back
 Scatt'ring petals to the wind:
 Your page is not found</seg>
       </tuv>
-      <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T165756Z" creationid="GKarpowicz" creationdate="20220405T165756Z">
-        <seg>[fuzzy]Szłem łąką, wiater wiał, kwiaty pachły,&lt;p&gt;Ona mnie odepchła:&lt;p&gt;a strony nie znaleziono</seg>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T170755Z" creationid="GKarpowicz" creationdate="20220405T165756Z">
+        <seg>Strona przeminęła z wiatrem...</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
