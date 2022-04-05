@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32,8 +32,8 @@
       <tuv lang="EN">
         <seg>Number of unique segments</seg>
       </tuv>
-      <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T163856Z" creationid="GKarpowicz" creationdate="20220405T163856Z">
-        <seg>[fuzzy]Liczba segmentów niepowtarzających się</seg>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T164455Z" creationid="GKarpowicz" creationdate="20220405T163856Z">
+        <seg>Liczba segmentów niepowtarzających się</seg>
       </tuv>
     </tu>
     <tu>
@@ -48,8 +48,8 @@
       <tuv lang="EN">
         <seg>Translated unique segments</seg>
       </tuv>
-      <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T164445Z" creationid="GKarpowicz" creationdate="20220405T164445Z">
-        <seg>[fuzzy]Przetłumaczone segmenty niepowtarzające się</seg>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T164754Z" creationid="GKarpowicz" creationdate="20220405T164445Z">
+        <seg>Przetłumaczone segmenty niepowtarzające się</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
