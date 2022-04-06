@@ -58,10 +58,26 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot access glossary folder!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085452Z" creationid="GKarpowicz" creationdate="20220406T085452Z">
+        <seg>Folder glosariusza jest niedostępny!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot create folder for translated files:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085516Z" creationid="GKarpowicz" creationdate="20220406T085516Z">
+        <seg>Nie można utworzyć folderu dla dokumentów docelowych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085258Z" creationid="GKarpowicz" creationdate="20220406T085258Z">
-        <seg>Utworzenie katalogu projektu jest niemożliwe dla: {0}</seg>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085431Z" creationid="GKarpowicz" creationdate="20220406T085258Z">
+        <seg>Utworzenie następującego katalogu projektu jest niemożliwe {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +258,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085421Z" creationid="GKarpowicz" creationdate="20220406T085421Z">
+        <seg>Niewystarczające uprawnienia dla katalogu projektu {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220405T172654Z" creationid="werric" creationdate="20220405T172654Z">
@@ -330,6 +354,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220405T172700Z" creationid="werric" creationdate="20220405T172700Z">
         <seg>Opcje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Orphan segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085648Z" creationid="GKarpowicz" creationdate="20220406T085648Z">
+        <seg>Osierocone segmenty</seg>
       </tuv>
     </tu>
     <tu>
