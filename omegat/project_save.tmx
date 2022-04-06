@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>#Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091641Z" creationid="GKarpowicz" creationdate="20220406T091641Z">
+        <seg>Liczba plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Glossaries</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171349Z" creationid="mademoiselleqwerty" creationdate="20220405T171349Z">
@@ -70,6 +78,22 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085516Z" creationid="GKarpowicz" creationdate="20220406T085516Z">
         <seg>Nie można utworzyć folderu dla dokumentów docelowych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091634Z" creationid="GKarpowicz" creationdate="20220406T091634Z">
+        <seg>Znaków (ze spacjami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091627Z" creationid="GKarpowicz" creationdate="20220406T091627Z">
+        <seg>Znaków (bez spacji)</seg>
       </tuv>
     </tu>
     <tu>
@@ -286,6 +310,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091737Z" creationid="GKarpowicz" creationdate="20220406T091737Z">
+        <seg>Nazwa pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File locations</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220405T172717Z" creationid="werric" creationdate="20220405T172717Z">
@@ -318,6 +350,14 @@ Its winter has come</seg>
         <seg>Pomocy szukasz
 A z rąk Twoich się wymyka
 Znać jej koniec nadchodzi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Individual File Statistics:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091735Z" creationid="GKarpowicz" creationdate="20220406T091735Z">
+        <seg>Dane poszczególnych plików:</seg>
       </tuv>
     </tu>
     <tu>
@@ -469,6 +509,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Statistics</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091536Z" creationid="GKarpowicz" creationdate="20220406T091536Z">
+        <seg>Dane projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project is Empty</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171248Z" creationid="mademoiselleqwerty" creationdate="20220405T171248Z">
@@ -485,6 +533,22 @@ These words: 'Page not found'</seg>
         <seg>Zamiast dziwnych dźwięków
 Lub obcesowej informacji o błędzie
 Prosta wiadomość: „nie znaleziono strony”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091755Z" creationid="GKarpowicz" creationdate="20220406T091755Z">
+        <seg>Pozostałe segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091645Z" creationid="GKarpowicz" creationdate="20220406T091645Z">
+        <seg>Pozostało:</seg>
       </tuv>
     </tu>
     <tu>
@@ -517,6 +581,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220405T170055Z" creationid="ewawoj" creationdate="20220405T170055Z">
         <seg>[fuzzy]Metoda segmentacji: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091557Z" creationid="GKarpowicz" creationdate="20220406T091557Z">
+        <seg>Segmentów</seg>
       </tuv>
     </tu>
     <tu>
@@ -569,6 +641,22 @@ A Ty padłeś ofiarą jednej z nich</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Total Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091745Z" creationid="GKarpowicz" creationdate="20220406T091745Z">
+        <seg>Całkowita liczba segmentów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091543Z" creationid="GKarpowicz" creationdate="20220406T091543Z">
+        <seg>Całkowita liczba:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated document created</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084915Z" creationid="GKarpowicz" creationdate="20220406T084915Z">
@@ -601,6 +689,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unique Remaining:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091730Z" creationid="GKarpowicz" creationdate="20220406T091730Z">
+        <seg>[fuzzy]Niepowtarzających się pozostało:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unsupported file encoding</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220405T164515Z" creationid="ewawoj" creationdate="20220405T164515Z">
@@ -625,6 +721,14 @@ Your page is not found</seg>
         <seg>Wiatr muska lilie
 Rozsypując ich płatki
 Twoja strona odeszła wraz z nimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Words</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091600Z" creationid="GKarpowicz" creationdate="20220406T091600Z">
+        <seg>Wyrazów</seg>
       </tuv>
     </tu>
     <tu>
