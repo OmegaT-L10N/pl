@@ -307,6 +307,16 @@ Niczym wiatrem niesiona
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please consult the documentation about your recovery options and
+return the information below to the software manufacturer with
+a description of how this error was produced.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084627Z" creationid="GKarpowicz" creationdate="20220406T084429Z">
+        <seg>Zapoznaj się z informacjami dotyczącymi możliwości odzyskiwania plików. Prześlij poniższą informację producentowi oprogramowania, wraz z opisem, jakie czynności doprowadziły do wystąpienia błędu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220405T164403Z" creationid="ewawoj" creationdate="20220405T164403Z">
