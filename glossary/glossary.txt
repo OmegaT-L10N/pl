@@ -8,3 +8,5 @@ modification info	informacje o modyfikacji
 glossary	glosariusz
 project dir	katalog projektu	<FR> le répertoire du projet
 Fatal error	błąd krytyczny	<FR> une erreur majeure
+External command	polecenie zewnętrzne	<FR> une commande externe
+Exit code	kod wyjścia	<FR> code de sortie
