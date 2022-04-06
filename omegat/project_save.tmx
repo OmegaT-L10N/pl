@@ -238,10 +238,10 @@ Nikt nie usłyszy twych krzyków.</seg>
 Gossamer threads hold you back
 404 not found</seg>
       </tuv>
-      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T082403Z" creationid="GKarpowicz" creationdate="20220405T165025Z">
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091922Z" creationid="GKarpowicz" creationdate="20220405T165025Z">
         <seg>Wspaniała strona pomocy
-
-404 not found Niestety, strona pomocy nie istnieje...</seg>
+Trzyma Cię pajęcza nić
+Niestety, strona pomocy nie istnieje...</seg>
       </tuv>
     </tu>
     <tu>
@@ -537,10 +537,26 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092058Z" creationid="GKarpowicz" creationdate="20220406T092058Z">
+        <seg>Całkowita liczba znaków (bez spacji)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remaining Segments</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091755Z" creationid="GKarpowicz" creationdate="20220406T091755Z">
         <seg>Pozostałe segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Words</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092021Z" creationid="GKarpowicz" creationdate="20220406T092021Z">
+        <seg>Pozostałe wyrazy</seg>
       </tuv>
     </tu>
     <tu>
@@ -641,10 +657,26 @@ A Ty padłeś ofiarą jednej z nich</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Total Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092054Z" creationid="GKarpowicz" creationdate="20220406T092054Z">
+        <seg>Całkowita liczba znaków (bez spacji)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Total Segments</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091745Z" creationid="GKarpowicz" creationdate="20220406T091745Z">
         <seg>Całkowita liczba segmentów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Words</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092010Z" creationid="GKarpowicz" creationdate="20220406T092010Z">
+        <seg>Całkowita liczba wyrazów</seg>
       </tuv>
     </tu>
     <tu>
@@ -689,10 +721,42 @@ A Ty padłeś ofiarą jednej z nich</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unique Remaining Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091814Z" creationid="GKarpowicz" creationdate="20220406T091814Z">
+        <seg>Unique Remaining Segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Words</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092045Z" creationid="GKarpowicz" creationdate="20220406T092045Z">
+        <seg>Pozostałe wyrazy niepowtarzające się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unique Remaining:</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091730Z" creationid="GKarpowicz" creationdate="20220406T091730Z">
         <seg>[fuzzy]Niepowtarzających się pozostało:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091806Z" creationid="GKarpowicz" creationdate="20220406T091806Z">
+        <seg>Segmenty niepowtarzające się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Words</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092034Z" creationid="GKarpowicz" creationdate="20220406T092034Z">
+        <seg>Wyrazy niepowtarzające się</seg>
       </tuv>
     </tu>
     <tu>
