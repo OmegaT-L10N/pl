@@ -108,6 +108,18 @@ Tej jedynej nie ma!</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ephemeral page
+I am the Blue Screen of Death
+No one hears your screams</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T083330Z" creationid="GKarpowicz" creationdate="20220406T083330Z">
+        <seg>Ulotna strona
+Jam jest Blue Screen Śmierci
+Nikt nie usłyszy twych krzyków.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171249Z" creationid="mademoiselleqwerty" creationdate="20220405T171249Z">
@@ -233,6 +245,18 @@ Niczym wiatrem niesiona
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171248Z" creationid="mademoiselleqwerty" creationdate="20220405T171248Z">
         <seg>Project is Empty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather than beep
+Or a rude error message
+These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T083525Z" creationid="GKarpowicz" creationdate="20220406T083525Z">
+        <seg>Zamiast dziwnych dźwięków
+Lub obcesowej informacji o błędzie
+Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
     </tu>
     <tu>
