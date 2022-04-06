@@ -7,3 +7,4 @@ template	wyświetlanie	Schablonenhafte Darstellung von Informationen mit Variabl
 modification info	informacje o modyfikacji
 glossary	glosariusz
 project dir	katalog projektu	<FR> le répertoire du projet
+Fatal error	błąd krytyczny	<FR> une erreur majeure
