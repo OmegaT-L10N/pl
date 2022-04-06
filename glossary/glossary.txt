@@ -6,3 +6,4 @@ non-unique	powtarzający się	segment
 template	wyświetlanie	Schablonenhafte Darstellung von Informationen mit Variablen
 modification info	informacje o modyfikacji
 glossary	glosariusz
+project dir	katalog projektu	<FR> le répertoire du projet
