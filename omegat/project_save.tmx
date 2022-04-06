@@ -58,6 +58,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating translated documents: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084847Z" creationid="GKarpowicz" creationdate="20220406T084847Z">
+        <seg>Tworzenie dokumentów docelowych: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T172714Z" creationid="mademoiselleqwerty" creationdate="20220405T172714Z">
@@ -198,6 +206,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Folder {0} was automatically created for team mode project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084736Z" creationid="GKarpowicz" creationdate="20220406T084634Z">
+        <seg>Folder {0} dla projektu grupowego został utworzony automatycznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Help you are seeking
 From your path it is fleeing
 Its winter has come</seg>
@@ -218,6 +234,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Loading TMX files...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084834Z" creationid="GKarpowicz" creationdate="20220406T084834Z">
+        <seg>Wczytywanie plików TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading glossaries</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084213Z" creationid="GKarpowicz" creationdate="20220406T084213Z">
@@ -230,6 +254,14 @@ Znać jej koniec nadchodzi</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084207Z" creationid="GKarpowicz" creationdate="20220406T084154Z">
         <seg>Wczytywanie projektu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084742Z" creationid="GKarpowicz" creationdate="20220406T084742Z">
+        <seg>Wczytywanie: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -311,8 +343,8 @@ Niczym wiatrem niesiona
 return the information below to the software manufacturer with
 a description of how this error was produced.</seg>
       </tuv>
-      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084627Z" creationid="GKarpowicz" creationdate="20220406T084429Z">
-        <seg>Zapoznaj się z informacjami dotyczącymi możliwości odzyskiwania plików. Prześlij poniższą informację producentowi oprogramowania, wraz z opisem, jakie czynności doprowadziły do wystąpienia błędu.</seg>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084650Z" creationid="GKarpowicz" creationdate="20220406T084429Z">
+        <seg>Zapoznaj się z informacjami dotyczącymi możliwości odzyskiwania plików. Prześlij poniższy komunikat producentowi oprogramowania, wraz z opisem, jakie czynności doprowadziły do wystąpienia błędu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -377,6 +409,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source file loading complete</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084829Z" creationid="GKarpowicz" creationdate="20220406T084829Z">
+        <seg>Zakończono wczytywanie plików źródłowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The help page you seek
 Lies beyond our perception
 But others await</seg>
@@ -417,10 +457,34 @@ A Ty padłeś ofiarą jednej z nich</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated document created</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084915Z" creationid="GKarpowicz" creationdate="20220406T084915Z">
+        <seg>Utworzono dokument docelowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated documents created</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084906Z" creationid="GKarpowicz" creationdate="20220406T084906Z">
+        <seg>Utworzono dokumenty docelowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated unique segments</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T164754Z" creationid="GKarpowicz" creationdate="20220405T164445Z">
         <seg>Przetłumaczone segmenty niepowtarzające się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to build new TMX file!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085001Z" creationid="GKarpowicz" creationdate="20220406T085001Z">
+        <seg>Utworzenie nowego pliku TMX jest niemożliwe!</seg>
       </tuv>
     </tu>
     <tu>
