@@ -66,6 +66,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;opy All Data to Clipboard</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092303Z" creationid="GKarpowicz" creationdate="20220406T092303Z">
+        <seg>&amp;Skopiuj wszystkie dane do schowka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085452Z" creationid="GKarpowicz" creationdate="20220406T085452Z">
@@ -537,10 +545,18 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092150Z" creationid="GKarpowicz" creationdate="20220406T092150Z">
+        <seg>Pozostała liczba znaków (ze spacjami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remaining Characters (w/o spaces)</seg>
       </tuv>
-      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092058Z" creationid="GKarpowicz" creationdate="20220406T092058Z">
-        <seg>Całkowita liczba znaków (bez spacji)</seg>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092105Z" creationid="GKarpowicz" creationdate="20220406T092058Z">
+        <seg>Pozostała liczba znaków (bez spacji)</seg>
       </tuv>
     </tu>
     <tu>
@@ -617,6 +633,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Statistics</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092305Z" creationid="GKarpowicz" creationdate="20220406T092305Z">
+        <seg>[fuzzy]Statystyka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The help page you seek
 Lies beyond our perception
 But others await</seg>
@@ -653,6 +677,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
 - use Project &gt; Copy Files to Source Folder...
 - click on Copy Files to Source Folder... in the Project Files window
 - copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092144Z" creationid="GKarpowicz" creationdate="20220406T092144Z">
+        <seg>Całkowita liczba znaków (ze spacjami)</seg>
       </tuv>
     </tu>
     <tu>
@@ -717,6 +749,38 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085001Z" creationid="GKarpowicz" creationdate="20220406T085001Z">
         <seg>Utworzenie nowego pliku TMX jest niemożliwe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092158Z" creationid="GKarpowicz" creationdate="20220406T092158Z">
+        <seg>Liczba znaków niepowtarzających się (ze spacjami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092129Z" creationid="GKarpowicz" creationdate="20220406T092119Z">
+        <seg>Liczba znaków niepowtarzających się (bez spacji)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092206Z" creationid="GKarpowicz" creationdate="20220406T092206Z">
+        <seg>Pozostała liczba znaków niepowtarzających się (ze spacjami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092137Z" creationid="GKarpowicz" creationdate="20220406T092126Z">
+        <seg>Pozostała liczba znaków niepowtarzających się (bez spacji)</seg>
       </tuv>
     </tu>
     <tu>
