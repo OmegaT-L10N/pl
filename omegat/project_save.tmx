@@ -30,6 +30,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>50%-74%:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092802Z" creationid="GKarpowicz" creationdate="20220406T092802Z">
+        <seg>50%-74%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>75%-84%:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092802Z" creationid="GKarpowicz" creationdate="20220406T092802Z">
+        <seg>75%-84%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>85%-94%:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092801Z" creationid="GKarpowicz" creationdate="20220406T092801Z">
+        <seg>85%-94%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>95%-100%:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092800Z" creationid="GKarpowicz" creationdate="20220406T092800Z">
+        <seg>95%-100%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T170115Z" creationid="mademoiselleqwerty" creationdate="20220405T170115Z">
@@ -242,14 +274,22 @@ Nikt nie usłyszy twych krzyków.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exact match:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092758Z" creationid="GKarpowicz" creationdate="20220406T092758Z">
+        <seg>Dokładne dopasowania:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exciting help page
 Gossamer threads hold you back
 404 not found</seg>
       </tuv>
-      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091922Z" creationid="GKarpowicz" creationdate="20220405T165025Z">
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092934Z" creationid="GKarpowicz" creationdate="20220405T165025Z">
         <seg>Wspaniała strona pomocy
 Trzyma Cię pajęcza nić
-Niestety, strona pomocy nie istnieje...</seg>
+Niestety, strona nie istnieje...</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,10 +382,26 @@ Niestety, strona pomocy nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File {0}: {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092832Z" creationid="GKarpowicz" creationdate="20220406T092832Z">
+        <seg>Plik{0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Folder {0} was automatically created for team mode project</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084736Z" creationid="GKarpowicz" creationdate="20220406T084634Z">
         <seg>Folder {0} dla projektu grupowego został utworzony automatycznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For all files:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092840Z" creationid="GKarpowicz" creationdate="20220406T092840Z">
+        <seg>Dla wszystkich plików:</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,6 +482,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match Statistics per File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092734Z" creationid="GKarpowicz" creationdate="20220406T092734Z">
+        <seg>Statystyka dopasowań w pojedynczym pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mourning and sorrow
 404 not with us now
 Lost to paradise</seg>
@@ -442,6 +506,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T164108Z" creationid="GKarpowicz" creationdate="20220405T164108Z">
         <seg>Mozilla Lang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No match:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092810Z" creationid="GKarpowicz" creationdate="20220406T092810Z">
+        <seg>Brak dopasowania:</seg>
       </tuv>
     </tu>
     <tu>
@@ -589,6 +661,30 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091645Z" creationid="GKarpowicz" creationdate="20220406T091645Z">
         <seg>Pozostało:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions from other files:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092751Z" creationid="GKarpowicz" creationdate="20220406T092751Z">
+        <seg>Powtórzenia w innych plikach:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions within this file:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092744Z" creationid="GKarpowicz" creationdate="20220406T092744Z">
+        <seg>Powtórzenia w danym pliku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092736Z" creationid="GKarpowicz" creationdate="20220406T092736Z">
+        <seg>Powtórzenia:</seg>
       </tuv>
     </tu>
     <tu>
