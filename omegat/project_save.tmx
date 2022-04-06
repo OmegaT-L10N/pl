@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -126,8 +126,10 @@ Your help page not found</seg>
 Gossamer threads hold you back
 404 not found</seg>
       </tuv>
-      <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T165025Z" creationid="GKarpowicz" creationdate="20220405T165025Z">
-        <seg>Niestety, strona pomocy nie istnieje...</seg>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T082403Z" creationid="GKarpowicz" creationdate="20220405T165025Z">
+        <seg>Wspaniała strona pomocy
+
+404 not found Niestety, strona pomocy nie istnieje...</seg>
       </tuv>
     </tu>
     <tu>
@@ -277,8 +279,10 @@ But others await</seg>
 Death, taxes, and page not found
 You, victim of one</seg>
       </tuv>
-      <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T170722Z" creationid="GKarpowicz" creationdate="20220405T170722Z">
-        <seg>[fuzzy]Trzy rzeczy są pewne:&lt;p&gt;Śmierć, podatki, i "nie znaleziono strony".&lt;p&gt;A ty jesteś ofiarą jednej z nich.</seg>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T082529Z" creationid="GKarpowicz" creationdate="20220405T170722Z">
+        <seg>W życiu pewne są trzy rzeczy:
+Śmierć, podatki i nie znaleziono strony
+A Ty jesteś ofiarą jednej z nich</seg>
       </tuv>
     </tu>
     <tu>
