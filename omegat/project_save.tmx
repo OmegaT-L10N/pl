@@ -186,6 +186,14 @@ Nikt nie usłyszy twych krzyków.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error starting external command: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085842Z" creationid="GKarpowicz" creationdate="20220406T085842Z">
+        <seg>Wystąpił błąd przy uruchamianiu następującego polecenia zewnętrznego: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Escaped decimal char contains malformed data ({0})!</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220405T164431Z" creationid="ewawoj" creationdate="20220405T164431Z">
@@ -202,6 +210,14 @@ Gossamer threads hold you back
         <seg>Wspaniała strona pomocy
 
 404 not found Niestety, strona pomocy nie istnieje...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Executing external command...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085741Z" creationid="GKarpowicz" creationdate="20220406T085741Z">
+        <seg>Wykonywanie polecenia zewnętrznego...</seg>
       </tuv>
     </tu>
     <tu>
