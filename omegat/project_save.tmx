@@ -364,8 +364,8 @@ Znać jej koniec nadchodzi</seg>
       <tuv lang="EN">
         <seg>Individual File Statistics:</seg>
       </tuv>
-      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091735Z" creationid="GKarpowicz" creationdate="20220406T091735Z">
-        <seg>Dane poszczególnych plików:</seg>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092552Z" creationid="GKarpowicz" creationdate="20220406T091735Z">
+        <seg>Statystyki poszczególnych plików:</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,6 +414,14 @@ Znać jej koniec nadchodzi</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084742Z" creationid="GKarpowicz" creationdate="20220406T084742Z">
         <seg>Wczytywanie: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match Statistics</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092709Z" creationid="GKarpowicz" creationdate="20220406T092709Z">
+        <seg>Statystyka dopasowań</seg>
       </tuv>
     </tu>
     <tu>
@@ -519,8 +527,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Project Statistics</seg>
       </tuv>
-      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091536Z" creationid="GKarpowicz" creationdate="20220406T091536Z">
-        <seg>Dane projektu</seg>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092540Z" creationid="GKarpowicz" creationdate="20220406T091536Z">
+        <seg>Statystyka projektu</seg>
       </tuv>
     </tu>
     <tu>
@@ -635,8 +643,8 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
-      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092305Z" creationid="GKarpowicz" creationdate="20220406T092305Z">
-        <seg>[fuzzy]Statystyka</seg>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092657Z" creationid="GKarpowicz" creationdate="20220406T092305Z">
+        <seg>Statystyka</seg>
       </tuv>
     </tu>
     <tu>
@@ -787,8 +795,8 @@ A Ty padłeś ofiarą jednej z nich</seg>
       <tuv lang="EN">
         <seg>Unique Remaining Segments</seg>
       </tuv>
-      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091814Z" creationid="GKarpowicz" creationdate="20220406T091814Z">
-        <seg>Unique Remaining Segments</seg>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092640Z" creationid="GKarpowicz" creationdate="20220406T091814Z">
+        <seg>Pozostałe segmenty niepowtarzające się</seg>
       </tuv>
     </tu>
     <tu>
@@ -803,8 +811,8 @@ A Ty padłeś ofiarą jednej z nich</seg>
       <tuv lang="EN">
         <seg>Unique Remaining:</seg>
       </tuv>
-      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091730Z" creationid="GKarpowicz" creationdate="20220406T091730Z">
-        <seg>[fuzzy]Niepowtarzających się pozostało:</seg>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092606Z" creationid="GKarpowicz" creationdate="20220406T091730Z">
+        <seg>Pozostałe segmenty niepowtarzające się:</seg>
       </tuv>
     </tu>
     <tu>
@@ -821,6 +829,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092034Z" creationid="GKarpowicz" creationdate="20220406T092034Z">
         <seg>Wyrazy niepowtarzające się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092621Z" creationid="GKarpowicz" creationdate="20220406T092621Z">
+        <seg>Całkowita liczba segmentów niepowtarzających się:</seg>
       </tuv>
     </tu>
     <tu>
