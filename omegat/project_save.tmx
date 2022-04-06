@@ -58,6 +58,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085258Z" creationid="GKarpowicz" creationdate="20220406T085258Z">
+        <seg>Utworzenie katalogu projektu jest niemożliwe dla: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating translated documents: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084847Z" creationid="GKarpowicz" creationdate="20220406T084847Z">
@@ -178,6 +186,14 @@ Gossamer threads hold you back
         <seg>Wspaniała strona pomocy
 
 404 not found Niestety, strona pomocy nie istnieje...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to create project!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085029Z" creationid="GKarpowicz" creationdate="20220406T085011Z">
+        <seg>Utworzenie nowego projektu jest niemożliwe!</seg>
       </tuv>
     </tu>
     <tu>
