@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aut&amp;hor:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220405T164914Z" creationid="mat_staszak" creationdate="20220405T164914Z">
+        <seg>Autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bartender yells loud:
 Your page cannot be found, boy
 Buy another drink</seg>
