@@ -426,6 +426,22 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In comments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221503Z" creationid="mat_staszak" creationdate="20220411T221503Z">
+        <seg>w komentarzach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In notes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221428Z" creationid="mat_staszak" creationdate="20220411T221344Z">
+        <seg>w notatkach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Individual File Statistics:</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092552Z" creationid="GKarpowicz" creationdate="20220406T091735Z">
