@@ -1541,10 +1541,26 @@ Dokładne wyszukiwania pasują do całej szukanej frazy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to parse filters configuration file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T232252Z" creationid="ewawoj" creationdate="20220411T232252Z">
+        <seg>Błąd przy analizowaniu pliku konfiguracyjnego filtrów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to read file</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T223338Z" creationid="ewawoj" creationdate="20220411T223338Z">
         <seg>Nie można odczytać pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to save filters configuration file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T232256Z" creationid="ewawoj" creationdate="20220411T232256Z">
+        <seg>[fuzzy]Błąd przy zapisywaniu pliku konfiguracyjnego filtrów</seg>
       </tuv>
     </tu>
     <tu>
