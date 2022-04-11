@@ -486,6 +486,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fatal error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T225248Z" creationid="ewawoj" creationdate="20220411T225248Z">
+        <seg>Błąd krytyczny przy analizie linii {0}, kolumny {1}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File Name</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091737Z" creationid="GKarpowicz" creationdate="20220406T091737Z">
@@ -1303,6 +1311,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171249Z" creationid="mademoiselleqwerty" creationdate="20220405T171249Z">
         <seg>Warning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T225147Z" creationid="ewawoj" creationdate="20220411T225147Z">
+        <seg>Ostrzeżenie przy analizie linii {0}, kolumny {1}:</seg>
       </tuv>
     </tu>
     <tu>
