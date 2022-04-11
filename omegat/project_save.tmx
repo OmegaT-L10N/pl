@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Added {0} glossary entries from {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T230939Z" creationid="ewawoj" creationdate="20220411T230939Z">
+        <seg>Dodano {0} wpisy do słownika z {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arrays must not be null</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220405T172537Z" creationid="werric" creationdate="20220405T164411Z">
@@ -742,6 +750,14 @@ Znać jej koniec nadchodzi</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084213Z" creationid="GKarpowicz" creationdate="20220406T084213Z">
         <seg>Wczytywanie glosariuszy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading glossary {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T230524Z" creationid="ewawoj" creationdate="20220411T230524Z">
+        <seg>Wczytywanie glosariusza {0}</seg>
       </tuv>
     </tu>
     <tu>
