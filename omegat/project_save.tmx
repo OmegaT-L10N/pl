@@ -432,8 +432,8 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220411T223804Z" creationid="ewawoj" creationdate="20220411T223804Z">
-        <seg>Plik preferencji </seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T224310Z" creationid="ewawoj" creationdate="20220411T223804Z">
+        <seg>Nie udało się utworzyć kopii zapasowej preferencji</seg>
       </tuv>
     </tu>
     <tu>
