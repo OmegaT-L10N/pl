@@ -814,6 +814,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will try to resegment the TMX file...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T230216Z" creationid="ewawoj" creationdate="20220411T230216Z">
+        <seg>OmegaT spróbuje posegmentować plik TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220405T172700Z" creationid="werric" creationdate="20220405T172700Z">
