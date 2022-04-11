@@ -894,6 +894,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No matches returned by search.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T231544Z" creationid="mat_staszak" creationdate="20220411T231544Z">
+        <seg>Wyszukiwanie nie znalazło żadnych dopasowań.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not a valid XML file!</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230512Z" creationid="mat_staszak" creationdate="20220411T230512Z">
@@ -906,6 +914,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221852Z" creationid="mat_staszak" creationdate="20220411T221852Z">
         <seg>Teraz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nr of matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T231431Z" creationid="mat_staszak" creationdate="20220411T231431Z">
+        <seg>Liczba wyników:</seg>
       </tuv>
     </tu>
     <tu>
@@ -983,6 +999,14 @@ Niczym wiatrem niesiona
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T222937Z" creationid="ewawoj" creationdate="20220405T164445Z">
         <seg>Wystąpił błąd interpretacji przy odczycie pliku preferencji!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please close search window.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T231630Z" creationid="mat_staszak" creationdate="20220411T231630Z">
+        <seg>Zamknij okno wyszukiwania.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1167,6 +1191,14 @@ zakres </seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222444Z" creationid="mat_staszak" creationdate="20220411T222444Z">
         <seg>Szukaj w</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search thread died unexpectedly!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T231359Z" creationid="mat_staszak" creationdate="20220411T231359Z">
+        <seg>Wyszukiwanie zostało nagle zatrzymane!</seg>
       </tuv>
     </tu>
     <tu>
