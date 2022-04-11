@@ -1671,6 +1671,14 @@ Twoja strona odeszła wraz z nimi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>attributes.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T231216Z" creationid="mat_staszak" creationdate="20220411T231216Z">
+        <seg>cechy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>file names</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223536Z" creationid="mat_staszak" creationdate="20220411T223536Z">
