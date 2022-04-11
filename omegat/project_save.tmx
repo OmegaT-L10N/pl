@@ -686,6 +686,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Number of matching segments:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224729Z" creationid="mat_staszak" creationdate="20220411T224729Z">
+        <seg>Liczba pasujących segmentów:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Number of unique segments</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T164455Z" creationid="GKarpowicz" creationdate="20220405T163856Z">
@@ -901,6 +909,16 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222424Z" creationid="mat_staszak" creationdate="20220411T222424Z">
         <seg>Segment zawiera twardą spację</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scope:
+The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224828Z" creationid="mat_staszak" creationdate="20220411T224828Z">
+        <seg>Zakres:
+zakres </seg>
       </tuv>
     </tu>
     <tu>
