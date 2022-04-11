@@ -1539,6 +1539,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unknown plugin type '{0}' in '{1}'</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T231054Z" creationid="ewawoj" creationdate="20220411T231054Z">
+        <seg>Nieznany typ {0} wtyczki w '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unsupported XML version {0}!</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230454Z" creationid="mat_staszak" creationdate="20220411T230454Z">
