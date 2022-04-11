@@ -498,6 +498,14 @@ Nikt nie usłyszy twych krzyków.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error unload plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T231655Z" creationid="ewawoj" creationdate="20220411T231558Z">
+        <seg>Błąd przy pobieraniu rozszerzenia z klasy '{0}': {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Escaped binary char contains malformed data ({0})!</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T222824Z" creationid="ewawoj" creationdate="20220411T222824Z">
