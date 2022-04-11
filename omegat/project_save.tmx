@@ -414,6 +414,14 @@ Tej jedynej nie ma!</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T232944Z" creationid="ewawoj" creationdate="20220411T232944Z">
+        <seg>Włączony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ephemeral page
 I am the Blue Screen of Death
 No one hears your screams</seg>
@@ -658,6 +666,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230135Z" creationid="mat_staszak" creationdate="20220411T230135Z">
         <seg>Plik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Format</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T232757Z" creationid="ewawoj" creationdate="20220411T232720Z">
+        <seg>Format pliku</seg>
       </tuv>
     </tu>
     <tu>
@@ -1495,6 +1511,15 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084906Z" creationid="GKarpowicz" creationdate="20220406T084906Z">
         <seg>Utworzono dokumenty docelowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated file path cannot be identical to the source file path:
+{0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T232719Z" creationid="ewawoj" creationdate="20220411T232719Z">
+        <seg>Ścieżka tłumaczonego pliku nie może być taka sama jak ścieżka pliku źródłowego {0}</seg>
       </tuv>
     </tu>
     <tu>
