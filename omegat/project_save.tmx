@@ -106,6 +106,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;ase sensitive</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222142Z" creationid="mat_staszak" creationdate="20220411T222142Z">
+        <seg>Uwzględnij wielkość liter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092303Z" creationid="GKarpowicz" creationdate="20220406T092303Z">
@@ -126,6 +134,22 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085516Z" creationid="GKarpowicz" creationdate="20220406T085516Z">
         <seg>Nie można utworzyć folderu dla dokumentów docelowych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed &amp;before:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222034Z" creationid="mat_staszak" creationdate="20220411T222034Z">
+        <seg>Zmieniono przed:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed after:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222004Z" creationid="mat_staszak" creationdate="20220411T222004Z">
+        <seg>Zmieniono po: </seg>
       </tuv>
     </tu>
     <tu>
