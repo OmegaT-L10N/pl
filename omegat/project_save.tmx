@@ -234,6 +234,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you want to continue?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224544Z" creationid="mat_staszak" creationdate="20220411T224544Z">
+        <seg>Czy chcesz kontynuować?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download Media&amp;Wiki Page...</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T173727Z" creationid="mademoiselleqwerty" creationdate="20220405T173727Z">
@@ -961,6 +969,22 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text Replace</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224428Z" creationid="mat_staszak" creationdate="20220411T224428Z">
+        <seg>Zastąpienie tekstu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Search</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224322Z" creationid="mat_staszak" creationdate="20220411T224322Z">
+        <seg>Wyszukiwanie tekstowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The help page you seek
 Lies beyond our perception
 But others await</seg>
@@ -1209,6 +1233,14 @@ Twoja strona odeszła wraz z nimi</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091600Z" creationid="GKarpowicz" creationdate="20220406T091600Z">
         <seg>Wyrazów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are going to modify {0} segments.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224517Z" creationid="mat_staszak" creationdate="20220411T224517Z">
+        <seg>Wprowadzisz zmianę w  {0}  segmencie</seg>
       </tuv>
     </tu>
     <tu>
