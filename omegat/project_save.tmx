@@ -86,6 +86,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(close tag)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230950Z" creationid="mat_staszak" creationdate="20220411T230950Z">
+        <seg>(znacznik zamykający)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(comment tag)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230805Z" creationid="mat_staszak" creationdate="20220411T230805Z">
+        <seg>(znacznik komentarza)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(empty tag)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230931Z" creationid="mat_staszak" creationdate="20220411T230931Z">
+        <seg>(pusty znacznik)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>+{0} more</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230023Z" creationid="mat_staszak" creationdate="20220411T230023Z">
@@ -634,6 +658,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092832Z" creationid="GKarpowicz" creationdate="20220406T092832Z">
         <seg>Plik{0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Floating '?' character not tied to '&gt;'!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230910Z" creationid="mat_staszak" creationdate="20220411T230910Z">
+        <seg>Wolny znak "?" niepowiązany z "&gt;"!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1219,6 +1251,14 @@ zakres </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag name:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230734Z" creationid="mat_staszak" creationdate="20220411T230734Z">
+        <seg>Nazwa znacznika:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text Replace</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224428Z" creationid="mat_staszak" creationdate="20220411T224428Z">
@@ -1627,6 +1667,14 @@ Twoja strona odeszła wraz z nimi</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223536Z" creationid="mat_staszak" creationdate="20220411T223536Z">
         <seg>Nazwa pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>loaded</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T231011Z" creationid="mat_staszak" creationdate="20220411T231011Z">
+        <seg>wczytany</seg>
       </tuv>
     </tu>
     <tu>
