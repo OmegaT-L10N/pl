@@ -258,6 +258,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Confused by false start of comment tag!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230712Z" creationid="mat_staszak" creationdate="20220411T230712Z">
+        <seg>Nieprawidłowe otwarcie znacznika komentarza!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085431Z" creationid="GKarpowicz" creationdate="20220406T085258Z">
@@ -822,6 +830,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not a valid XML file!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230512Z" creationid="mat_staszak" creationdate="20220411T230512Z">
+        <seg>Nieprawidłowy plik XML!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221852Z" creationid="mat_staszak" creationdate="20220411T221852Z">
@@ -1379,6 +1395,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unexpected char {0} ({1})!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230605Z" creationid="mat_staszak" creationdate="20220411T230605Z">
+        <seg>Nieoczekiwany znak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unique Characters (w/ spaces)</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092158Z" creationid="GKarpowicz" creationdate="20220406T092158Z">
@@ -1455,6 +1479,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092621Z" creationid="GKarpowicz" creationdate="20220406T092621Z">
         <seg>Całkowita liczba segmentów niepowtarzających się:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported XML version {0}!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230454Z" creationid="mat_staszak" creationdate="20220411T230454Z">
+        <seg>Nieobsługiwana wersja XML {0}!</seg>
       </tuv>
     </tu>
     <tu>
