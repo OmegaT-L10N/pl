@@ -386,6 +386,14 @@ Nikt nie usłyszy twych krzyków.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exception while parsing:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T225123Z" creationid="ewawoj" creationdate="20220411T225123Z">
+        <seg>Napotkano błąd przy analizowaniu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exciting help page
 Gossamer threads hold you back
 404 not found</seg>
@@ -957,8 +965,8 @@ zakres </seg>
       <tuv lang="EN">
         <seg>Segmentation method: {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220405T170055Z" creationid="ewawoj" creationdate="20220405T170055Z">
-        <seg>[fuzzy]Metoda segmentacji: {0}</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T224856Z" creationid="ewawoj" creationdate="20220405T170055Z">
+        <seg>Metoda segmentacji: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -991,6 +999,14 @@ zakres </seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084829Z" creationid="GKarpowicz" creationdate="20220406T084829Z">
         <seg>Zakończono wczytywanie plików źródłowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source language: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T224915Z" creationid="ewawoj" creationdate="20220411T224915Z">
+        <seg>Język źródłowy: {0}</seg>
       </tuv>
     </tu>
     <tu>
