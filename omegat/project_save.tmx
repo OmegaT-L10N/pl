@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;In translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223104Z" creationid="mat_staszak" creationdate="20220411T223104Z">
+        <seg>W tekście docelowym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Project</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171255Z" creationid="mademoiselleqwerty" creationdate="20220405T171255Z">
@@ -198,6 +206,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T172714Z" creationid="mademoiselleqwerty" creationdate="20220405T172714Z">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223343Z" creationid="mat_staszak" creationdate="20220411T223343Z">
+        <seg>Pokaż</seg>
       </tuv>
     </tu>
     <tu>
@@ -965,6 +981,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091543Z" creationid="GKarpowicz" creationdate="20220406T091543Z">
         <seg>Całkowita liczba:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Trans&amp;lated or untranslated</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223224Z" creationid="mat_staszak" creationdate="20220411T223224Z">
+        <seg>Przetłumaczone lub nieprzetłumaczone</seg>
       </tuv>
     </tu>
     <tu>
