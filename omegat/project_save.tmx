@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-sync with Editor</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T225208Z" creationid="mat_staszak" creationdate="20220411T225208Z">
+        <seg>Auto-synchronizacja z edytorem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backed up preferences to {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T224032Z" creationid="ewawoj" creationdate="20220411T223610Z">
@@ -1271,6 +1279,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T224446Z" creationid="ewawoj" creationdate="20220411T224446Z">
         <seg>Nieobsługiwana wersja pliku projektu ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T225102Z" creationid="mat_staszak" creationdate="20220411T225102Z">
+        <seg>Użyj n,aby odnieść się do grupy o numerze n</seg>
       </tuv>
     </tu>
     <tu>
