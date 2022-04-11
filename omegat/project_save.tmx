@@ -210,6 +210,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Created by: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T224517Z" creationid="ewawoj" creationdate="20220411T224517Z">
+        <seg>Utworzony przez: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating translated documents: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084847Z" creationid="GKarpowicz" creationdate="20220406T084847Z">
@@ -793,6 +801,22 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reading TMX file {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T224457Z" creationid="ewawoj" creationdate="20220411T224457Z">
+        <seg>Wczytywanie pliku TMX {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reading of TMX file complete</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T224507Z" creationid="ewawoj" creationdate="20220411T224507Z">
+        <seg>Wczytywanie pliku TMX zakończone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Recursi&amp;ve search</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224249Z" creationid="mat_staszak" creationdate="20220411T224249Z">
@@ -1205,6 +1229,22 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T223303Z" creationid="ewawoj" creationdate="20220405T164515Z">
         <seg>Nieobsługiwane kodowanie pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported project file version ({0})!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T224446Z" creationid="ewawoj" creationdate="20220411T224446Z">
+        <seg>Nieobsługiwana wersja pliku projektu ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T224528Z" creationid="ewawoj" creationdate="20220411T224528Z">
+        <seg>[fuzzy]Wersja: {0}</seg>
       </tuv>
     </tu>
     <tu>
