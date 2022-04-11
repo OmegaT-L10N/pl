@@ -120,8 +120,8 @@
       <tuv lang="EN">
         <seg>Backed up preferences to {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220411T223610Z" creationid="ewawoj" creationdate="20220411T223610Z">
-        <seg>Preferencje zapisane w {0}</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T224032Z" creationid="ewawoj" creationdate="20220411T223610Z">
+        <seg>Kopia zapasowa preferencji utworzona w {0}</seg>
       </tuv>
     </tu>
     <tu>
