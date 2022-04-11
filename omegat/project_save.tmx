@@ -786,6 +786,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jar used for plugins: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T231813Z" creationid="ewawoj" creationdate="20220411T231813Z">
+        <seg>Jar wkorzystywany do rozszerzeń: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Language not specified for translation unit variant.</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T225527Z" creationid="ewawoj" creationdate="20220411T225527Z">
@@ -1037,6 +1045,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugin successfully loaded from class '{0}'</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T231905Z" creationid="ewawoj" creationdate="20220411T231905Z">
+        <seg>Pomyślnie pobrano rozszerzenie z klasy '{0}' </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T222913Z" creationid="ewawoj" creationdate="20220405T164403Z">
@@ -1263,6 +1279,14 @@ zakres </seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221622Z" creationid="mat_staszak" creationdate="20220411T221622Z">
         <seg>Pokaż ustawienia zaawansowane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T232209Z" creationid="ewawoj" creationdate="20220411T232209Z">
+        <seg>Pominięcie wcześniej pobranego rozszerzenia z klasy '{0}'</seg>
       </tuv>
     </tu>
     <tu>
