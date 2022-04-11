@@ -16,8 +16,8 @@
       <tuv lang="EN">
         <seg>&amp;Glossaries</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171349Z" creationid="mademoiselleqwerty" creationdate="20220405T171349Z">
-        <seg>&amp;Glossaries</seg>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222745Z" creationid="mademoiselleqwerty" creationdate="20220405T171349Z">
+        <seg>Glosaruisze</seg>
       </tuv>
     </tu>
     <tu>
@@ -546,6 +546,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222504Z" creationid="mat_staszak" creationdate="20220411T222504Z">
+        <seg>Pamięć</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mourning and sorrow
 404 not with us now
 Lost to paradise</seg>
@@ -777,6 +785,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search in</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222444Z" creationid="mat_staszak" creationdate="20220411T222444Z">
+        <seg>Szukaj w</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Options &gt; File filters for a list of supported file formats.</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T164620Z" creationid="mademoiselleqwerty" creationdate="20220405T164620Z">
@@ -829,6 +845,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092657Z" creationid="GKarpowicz" creationdate="20220406T092305Z">
         <seg>Statystyka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222536Z" creationid="mat_staszak" creationdate="20220411T222536Z">
+        <seg>Pamięci tłumaczeniowe</seg>
       </tuv>
     </tu>
     <tu>
