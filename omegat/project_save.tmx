@@ -618,6 +618,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Language not specified for translation unit variant.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T225527Z" creationid="ewawoj" creationdate="20220411T225527Z">
+        <seg>Nie określono języka dla wariantu jednostki tłumaczenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220405T172654Z" creationid="werric" creationdate="20220405T172654Z">
@@ -1195,6 +1203,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation unit encountered before TMX header.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T225456Z" creationid="ewawoj" creationdate="20220411T225456Z">
+        <seg>Jednostka tłumaczenia wystąpiła przed nagłówkiem TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>U&amp;ntranslated</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222854Z" creationid="mat_staszak" creationdate="20220411T222854Z">
@@ -1319,6 +1335,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T225102Z" creationid="mat_staszak" creationdate="20220411T225102Z">
         <seg>Użyj n,aby odnieść się do grupy o numerze n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Variant skipped.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T225555Z" creationid="ewawoj" creationdate="20220411T225555Z">
+        <seg>Pominięto wariant.</seg>
       </tuv>
     </tu>
     <tu>
