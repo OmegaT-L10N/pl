@@ -1083,6 +1083,14 @@ zakres </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source segment could not be located for certain translation units.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T225634Z" creationid="ewawoj" creationdate="20220411T225634Z">
+        <seg>Nie można zlokalizować segmentu źródłowego dla pewnych jednostek tłumaczenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092657Z" creationid="GKarpowicz" creationdate="20220406T092305Z">
@@ -1099,6 +1107,14 @@ zakres </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T225819Z" creationid="ewawoj" creationdate="20220411T225819Z">
+        <seg>Plik TMX został utworzony przez OmegaT w wersji 1.4.x lub wcześniejszej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text Replace</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224428Z" creationid="mat_staszak" creationdate="20220411T224428Z">
@@ -1111,6 +1127,22 @@ zakres </seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224322Z" creationid="mat_staszak" creationdate="20220411T224322Z">
         <seg>Wyszukiwanie tekstowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TMX file will continue to be loaded.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T225754Z" creationid="ewawoj" creationdate="20220411T225754Z">
+        <seg>Plik TMX będzie nadal wczytywany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T225734Z" creationid="ewawoj" creationdate="20220411T225734Z">
+        <seg>Język źródłowy pliku TMX ({0}) różni się od języka źródłowego projektu ({1}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1135,6 +1167,14 @@ You, victim of one</seg>
         <seg>W życiu pewne są trzy rzeczy:
 Śmierć, podatki i nie znaleziono strony
 A Ty padłeś ofiarą jednej z nich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These units have been skipped.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T225658Z" creationid="ewawoj" creationdate="20220411T225658Z">
+        <seg>Jednostki te zostały pominięte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1355,6 +1395,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Upgrading...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T225829Z" creationid="ewawoj" creationdate="20220411T225829Z">
+        <seg>Uaktualnianie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use $n to refer to the nth group.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T225102Z" creationid="mat_staszak" creationdate="20220411T225102Z">
@@ -1419,6 +1467,14 @@ Twoja strona odeszła wraz z nimi</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224517Z" creationid="mat_staszak" creationdate="20220411T224517Z">
         <seg>Wprowadzisz zmianę w  {0}  segmencie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T225957Z" creationid="ewawoj" creationdate="20220411T225957Z">
+        <seg>Projekt używa segmentacji opartej na zdaniach, a plik TMX segmentacji opartej na akapitach.</seg>
       </tuv>
     </tu>
     <tu>
