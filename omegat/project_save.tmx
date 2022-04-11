@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223941Z" creationid="mat_staszak" creationdate="20220411T223941Z">
+        <seg>Pliki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Glossaries</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222745Z" creationid="mademoiselleqwerty" creationdate="20220405T171349Z">
@@ -596,8 +604,8 @@ Znać jej koniec nadchodzi</seg>
       <tuv lang="EN">
         <seg>Location</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220411T223404Z" creationid="ewawoj" creationdate="20220411T223404Z">
-        <seg>[fuzzy]Położenie</seg>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223630Z" creationid="mat_staszak" creationdate="20220411T223630Z">
+        <seg>Lokalizacja</seg>
       </tuv>
     </tu>
     <tu>
@@ -899,8 +907,8 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       <tuv lang="EN">
         <seg>Select Fol&amp;der</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220411T223406Z" creationid="ewawoj" creationdate="20220411T223406Z">
-        <seg>[fuzzy]Wybierz &amp;katalog</seg>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223856Z" creationid="ewawoj" creationdate="20220411T223406Z">
+        <seg>Wybierz folder</seg>
       </tuv>
     </tu>
     <tu>
@@ -1199,16 +1207,16 @@ Twoja strona odeszła wraz z nimi</seg>
       <tuv lang="EN">
         <seg>all matching segments</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220411T223400Z" creationid="ewawoj" creationdate="20220411T223400Z">
-        <seg>[fuzzy]&amp;Wyświetl wszystkie rezultaty</seg>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223500Z" creationid="mat_staszak" creationdate="20220411T223500Z">
+        <seg>Wszystkie pasujące segmenty</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>file names</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220411T223402Z" creationid="ewawoj" creationdate="20220411T223402Z">
-        <seg>[fuzzy]Nazwa pliku</seg>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223536Z" creationid="mat_staszak" creationdate="20220411T223536Z">
+        <seg>Nazwa pliku</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
