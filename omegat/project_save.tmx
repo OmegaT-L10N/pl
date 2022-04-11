@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Back to the initial segment on close</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T225247Z" creationid="mat_staszak" creationdate="20220411T225247Z">
+        <seg>Powrót do początkowego segmentu po zamknięciu okna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backed up preferences to {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T224032Z" creationid="ewawoj" creationdate="20220411T223610Z">
@@ -414,6 +422,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclude orphan segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T225424Z" creationid="mat_staszak" creationdate="20220411T225424Z">
+        <seg>Pomiń segmenty osierocone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085741Z" creationid="GKarpowicz" creationdate="20220406T085741Z">
@@ -662,6 +678,14 @@ Znać jej koniec nadchodzi</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092734Z" creationid="GKarpowicz" creationdate="20220406T092734Z">
         <seg>Statystyka dopasowań w pojedynczym pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maximum number of finds has been reached ({0})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T225506Z" creationid="mat_staszak" creationdate="20220411T225506Z">
+        <seg>Osiągnięto maksymalną liczbę wyników wyszukiwania ({0})</seg>
       </tuv>
     </tu>
     <tu>
