@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Regular expressions</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221052Z" creationid="mat_staszak" creationdate="20220411T221052Z">
+        <seg>Wyrażenia regularne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>50%-74%:</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092802Z" creationid="GKarpowicz" creationdate="20220406T092802Z">
