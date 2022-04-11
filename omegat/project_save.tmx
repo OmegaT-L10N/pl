@@ -324,8 +324,8 @@ Nikt nie usłyszy twych krzyków.</seg>
       <tuv lang="EN">
         <seg>Escaped decimal char contains malformed data ({0})!</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220405T164431Z" creationid="ewawoj" creationdate="20220405T164431Z">
-        <seg>[fuzzy]Dziesiętny znak specjalny zawiera nieprawidłowe dane ({0})!</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T222834Z" creationid="ewawoj" creationdate="20220405T164431Z">
+        <seg>Dziesiętny znak specjalny zawiera nieprawidłowe dane ({0})!</seg>
       </tuv>
     </tu>
     <tu>
@@ -432,8 +432,8 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>File {0} does not exist!</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220405T164400Z" creationid="ewawoj" creationdate="20220405T164400Z">
-        <seg>[fuzzy]Plik {0} nie istnieje!</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T222842Z" creationid="ewawoj" creationdate="20220405T164400Z">
+        <seg>Plik {0} nie istnieje!</seg>
       </tuv>
     </tu>
     <tu>
@@ -677,8 +677,8 @@ Niczym wiatrem niesiona
       <tuv lang="EN">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220405T164445Z" creationid="ewawoj" creationdate="20220405T164445Z">
-        <seg>[fuzzy]Wystąpił błąd interpretacji przy odczycie pliku preferencji!</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T222937Z" creationid="ewawoj" creationdate="20220405T164445Z">
+        <seg>Wystąpił błąd interpretacji przy odczycie pliku preferencji!</seg>
       </tuv>
     </tu>
     <tu>
@@ -695,8 +695,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220405T164403Z" creationid="ewawoj" creationdate="20220405T164403Z">
-        <seg>[fuzzy]Zapisanie systemu preferencji nie powiodło się!</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T222913Z" creationid="ewawoj" creationdate="20220405T164403Z">
+        <seg>Zapisanie systemu preferencji nie powiodło się!</seg>
       </tuv>
     </tu>
     <tu>
