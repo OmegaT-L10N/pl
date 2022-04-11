@@ -442,6 +442,22 @@ Nikt nie usłyszy twych krzyków.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error initializing marker '{0}'</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T231158Z" creationid="ewawoj" creationdate="20220411T231158Z">
+        <seg>Błąd znacznika początku '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error load plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T231536Z" creationid="ewawoj" creationdate="20220411T231536Z">
+        <seg>Błąd przy pobieraniu rozszerzenia z klasy '{0}': {1}: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091530Z" creationid="GKarpowicz" creationdate="20220406T091530Z">
@@ -1597,8 +1613,8 @@ A Ty padłeś ofiarą jednej z nich</seg>
       <tuv lang="EN">
         <seg>Version: {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220411T224528Z" creationid="ewawoj" creationdate="20220411T224528Z">
-        <seg>[fuzzy]Wersja: {0}</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T231220Z" creationid="ewawoj" creationdate="20220411T224528Z">
+        <seg>Wersja: {0}</seg>
       </tuv>
     </tu>
     <tu>
