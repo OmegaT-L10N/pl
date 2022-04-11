@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backed up preferences to {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T223610Z" creationid="ewawoj" creationdate="20220411T223610Z">
+        <seg>Preferencje zapisane w {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bartender yells loud:
 Your page cannot be found, boy
 Buy another drink</seg>
@@ -410,6 +418,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091349Z" creationid="GKarpowicz" creationdate="20220406T091349Z">
         <seg>Wykonywanie polecenia zewnętrznego zostało przerwane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to back up preferences file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T223804Z" creationid="ewawoj" creationdate="20220411T223804Z">
+        <seg>Plik preferencji </seg>
       </tuv>
     </tu>
     <tu>
