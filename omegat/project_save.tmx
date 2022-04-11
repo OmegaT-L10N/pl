@@ -761,6 +761,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>S&amp;pace matches nbsp</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222424Z" creationid="mat_staszak" creationdate="20220411T222424Z">
+        <seg>Segment zawiera twardą spację</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search and Replace...</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T172034Z" creationid="mademoiselleqwerty" creationdate="20220405T172034Z">
