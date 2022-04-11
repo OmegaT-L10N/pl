@@ -578,6 +578,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T223404Z" creationid="ewawoj" creationdate="20220411T223404Z">
+        <seg>[fuzzy]Położenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092709Z" creationid="GKarpowicz" creationdate="20220406T092709Z">
@@ -873,6 +881,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Fol&amp;der</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T223406Z" creationid="ewawoj" creationdate="20220411T223406Z">
+        <seg>[fuzzy]Wybierz &amp;katalog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221622Z" creationid="mat_staszak" creationdate="20220411T221622Z">
@@ -1033,6 +1049,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to read file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T223338Z" creationid="ewawoj" creationdate="20220411T223338Z">
+        <seg>Nie można odczytać pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unique Characters (w/ spaces)</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092158Z" creationid="GKarpowicz" creationdate="20220406T092158Z">
@@ -1115,8 +1139,8 @@ A Ty padłeś ofiarą jednej z nich</seg>
       <tuv lang="EN">
         <seg>Unsupported file encoding</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220405T164515Z" creationid="ewawoj" creationdate="20220405T164515Z">
-        <seg>[fuzzy]Nieobsługiwane kodowanie pliku</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T223303Z" creationid="ewawoj" creationdate="20220405T164515Z">
+        <seg>Nieobsługiwane kodowanie pliku</seg>
       </tuv>
     </tu>
     <tu>
@@ -1153,6 +1177,22 @@ Twoja strona odeszła wraz z nimi</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171049Z" creationid="mademoiselleqwerty" creationdate="20220405T164557Z">
         <seg> Twój projekt nie zawiera żadnych plików w obsługiwanym formacie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>all matching segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T223400Z" creationid="ewawoj" creationdate="20220411T223400Z">
+        <seg>[fuzzy]&amp;Wyświetl wszystkie rezultaty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>file names</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220411T223402Z" creationid="ewawoj" creationdate="20220411T223402Z">
+        <seg>[fuzzy]Nazwa pliku</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
