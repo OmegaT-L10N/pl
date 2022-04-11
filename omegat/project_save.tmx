@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230156Z" creationid="mat_staszak" creationdate="20220411T230156Z">
+        <seg>Zamknij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Files</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223941Z" creationid="mat_staszak" creationdate="20220411T223941Z">
@@ -50,6 +58,22 @@
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221052Z" creationid="mat_staszak" creationdate="20220411T221052Z">
         <seg>Wyrażenia regularne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Reset Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230333Z" creationid="mat_staszak" creationdate="20220411T230333Z">
+        <seg>Resetuj opcje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Search for Selection</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230220Z" creationid="mat_staszak" creationdate="20220411T230220Z">
+        <seg>Szukaj zaznaczenia</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,6 +330,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230245Z" creationid="mat_staszak" creationdate="20220411T230245Z">
+        <seg>Edycja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Project</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220405T172619Z" creationid="werric" creationdate="20220405T164651Z">
@@ -538,6 +570,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T225248Z" creationid="ewawoj" creationdate="20220411T225248Z">
         <seg>Błąd krytyczny przy analizie linii {0}, kolumny {1}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230135Z" creationid="mat_staszak" creationdate="20220411T230135Z">
+        <seg>Plik</seg>
       </tuv>
     </tu>
     <tu>
@@ -1311,6 +1351,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085001Z" creationid="GKarpowicz" creationdate="20220406T085001Z">
         <seg>Utworzenie nowego pliku TMX jest niemożliwe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to initialize read of XML file!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230430Z" creationid="mat_staszak" creationdate="20220411T230430Z">
+        <seg>Nie można rozpocząć odczytu pliku XML!</seg>
       </tuv>
     </tu>
     <tu>
