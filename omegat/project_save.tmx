@@ -426,18 +426,26 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hide Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221736Z" creationid="mat_staszak" creationdate="20220411T221736Z">
+        <seg>Ukryj ustawienia zaawansowane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In comments</seg>
       </tuv>
-      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221503Z" creationid="mat_staszak" creationdate="20220411T221503Z">
-        <seg>w komentarzach</seg>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221525Z" creationid="mat_staszak" creationdate="20220411T221503Z">
+        <seg>W komentarzach</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>In notes</seg>
       </tuv>
-      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221428Z" creationid="mat_staszak" creationdate="20220411T221344Z">
-        <seg>w notatkach</seg>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221532Z" creationid="mat_staszak" creationdate="20220411T221344Z">
+        <seg>W notatkach</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +546,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092810Z" creationid="GKarpowicz" creationdate="20220406T092810Z">
         <seg>Brak dopasowania:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221852Z" creationid="mat_staszak" creationdate="20220411T221852Z">
+        <seg>Teraz</seg>
       </tuv>
     </tu>
     <tu>
@@ -757,6 +773,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091557Z" creationid="GKarpowicz" creationdate="20220406T091557Z">
         <seg>Segmentów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221622Z" creationid="mat_staszak" creationdate="20220411T221622Z">
+        <seg>Pokaż ustawienia zaawansowane</seg>
       </tuv>
     </tu>
     <tu>
