@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Translated</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222832Z" creationid="mat_staszak" creationdate="20220411T222832Z">
+        <seg>Przetłumaczone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>50%-74%:</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092802Z" creationid="GKarpowicz" creationdate="20220406T092802Z">
@@ -486,6 +494,14 @@ Znać jej koniec nadchodzi</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221532Z" creationid="mat_staszak" creationdate="20220411T221344Z">
         <seg>W notatkach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In so&amp;urce</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223017Z" creationid="mat_staszak" creationdate="20220411T223017Z">
+        <seg>W tekście źródłowym</seg>
       </tuv>
     </tu>
     <tu>
@@ -973,6 +989,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T164754Z" creationid="GKarpowicz" creationdate="20220405T164445Z">
         <seg>Przetłumaczone segmenty niepowtarzające się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>U&amp;ntranslated</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222854Z" creationid="mat_staszak" creationdate="20220411T222854Z">
+        <seg>Nieprzetłumaczone</seg>
       </tuv>
     </tu>
     <tu>
