@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;OK</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220412T175600Z" creationid="mademoiselleqwerty" creationdate="20220412T175600Z">
+        <seg>&amp;OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Project</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171255Z" creationid="mademoiselleqwerty" creationdate="20220405T171255Z">
@@ -390,6 +398,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230245Z" creationid="mat_staszak" creationdate="20220411T230245Z">
         <seg>Edycja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Filter Patterns</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220412T175623Z" creationid="mademoiselleqwerty" creationdate="20220412T175623Z">
+        <seg>Edit Filter Patterns</seg>
       </tuv>
     </tu>
     <tu>
@@ -758,6 +774,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220412T175652Z" creationid="mademoiselleqwerty" creationdate="20220412T175652Z">
+        <seg>Glossary files folder entered does not exist!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Help you are seeking
 From your path it is fleeing
 Its winter has come</seg>
@@ -1018,6 +1042,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T230216Z" creationid="ewawoj" creationdate="20220411T230216Z">
         <seg>OmegaT spróbuje posegmentować plik TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Target Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220412T175728Z" creationid="mademoiselleqwerty" creationdate="20220412T175728Z">
+        <seg>Open {0} Target Files</seg>
       </tuv>
     </tu>
     <tu>
