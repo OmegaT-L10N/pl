@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Exact search</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220414T190806Z" creationid="mademoiselleqwerty" creationdate="20220414T190806Z">
+        <seg>&amp;Exact search</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Files</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223941Z" creationid="mat_staszak" creationdate="20220411T223941Z">
@@ -1580,6 +1588,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220414T190757Z" creationid="mademoiselleqwerty" creationdate="20220414T190757Z">
+        <seg>Type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
@@ -1870,6 +1886,14 @@ Twoja strona odeszła wraz z nimi</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223536Z" creationid="mat_staszak" creationdate="20220411T223536Z">
         <seg>Nazwa pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>juniversalchardet (GPL)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220414T190703Z" creationid="mademoiselleqwerty" creationdate="20220414T190703Z">
+        <seg>juniversalchardet (GPL)</seg>
       </tuv>
     </tu>
     <tu>
