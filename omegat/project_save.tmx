@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T164848Z" creationid="ewawoj" creationdate="20220415T164848Z">
+        <seg>&amp;Usuń nieprzetłumaczone ciągi znaków w plikach docelowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reset Options</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230333Z" creationid="mat_staszak" creationdate="20220411T230333Z">
@@ -1084,6 +1092,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T164744Z" creationid="ewawoj" creationdate="20220415T164744Z">
+        <seg>Opcje filtra Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mourning and sorrow
 404 not with us now
 Lost to paradise</seg>
@@ -1092,6 +1108,22 @@ Lost to paradise</seg>
         <seg>Smutek i żałoba
 404, już jej z nami nie ma
 Odeszła do raju</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla DTD</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T164933Z" creationid="ewawoj" creationdate="20220415T164933Z">
+        <seg>Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla DTD Filter Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T164949Z" creationid="ewawoj" creationdate="20220415T164949Z">
+        <seg>Opcje filtra Mozilla DTD</seg>
       </tuv>
     </tu>
     <tu>
@@ -1643,6 +1675,14 @@ Zakres zastąpienia tekstu ogranicza się do segmentów docelowych projektu, nie
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224322Z" creationid="mat_staszak" creationdate="20220411T224322Z">
         <seg>Wyszukiwanie tekstowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moodle PHP filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T164922Z" creationid="ewawoj" creationdate="20220415T164922Z">
+        <seg>Filtr Moodle PHP wygenerował wyjątek</seg>
       </tuv>
     </tu>
     <tu>
