@@ -932,6 +932,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invalid file format</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T120641Z" creationid="ewawoj" creationdate="20220415T120641Z">
+        <seg>Niepoprawny format pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jar used for plugins: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T231813Z" creationid="ewawoj" creationdate="20220411T231813Z">
@@ -1192,6 +1200,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PDF Input</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T120715Z" creationid="ewawoj" creationdate="20220415T120656Z">
+        <seg>Wprowadzanie PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PO</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220415T115711Z" creationid="ewawoj" creationdate="20220415T115711Z">
@@ -1225,6 +1241,14 @@ Niczym wiatrem niesiona
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T222937Z" creationid="ewawoj" creationdate="20220405T164445Z">
         <seg>Wystąpił błąd interpretacji przy odczycie pliku preferencji!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password-protected PDF files are not supported: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T120734Z" creationid="ewawoj" creationdate="20220415T120708Z">
+        <seg>Pliki PDF chronione hasłem nie są obsługiwane</seg>
       </tuv>
     </tu>
     <tu>
@@ -2052,6 +2076,14 @@ Your page is not found</seg>
         <seg>Wiatr muska lilie
 Rozsypując ich płatki
 Twoja strona odeszła wraz z nimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows Resources</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T120803Z" creationid="ewawoj" creationdate="20220415T120803Z">
+        <seg>Pliki Windows Resource</seg>
       </tuv>
     </tu>
     <tu>
