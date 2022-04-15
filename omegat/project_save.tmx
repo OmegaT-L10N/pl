@@ -614,8 +614,8 @@ Nikt nie usłyszy twych krzyków.</seg>
       <tuv lang="EN">
         <seg>Escaped binary char contains malformed data ({0})!</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220411T222824Z" creationid="ewawoj" creationdate="20220411T222824Z">
-        <seg>Binarny znak specjalny zawiera nieprawidłowe dane ({0})!</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T170329Z" creationid="ewawoj" creationdate="20220411T222824Z">
+        <seg>Binarny znak zawiera nieprawidłowe dane ({0})!</seg>
       </tuv>
     </tu>
     <tu>
@@ -630,8 +630,8 @@ Nikt nie usłyszy twych krzyków.</seg>
       <tuv lang="EN">
         <seg>Escaped decimal char contains malformed data ({0})!</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220411T222834Z" creationid="ewawoj" creationdate="20220405T164431Z">
-        <seg>Dziesiętny znak specjalny zawiera nieprawidłowe dane ({0})!</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T170342Z" creationid="ewawoj" creationdate="20220405T164431Z">
+        <seg>Dziesiętny znak zawiera nieprawidłowe dane ({0})!</seg>
       </tuv>
     </tu>
     <tu>
