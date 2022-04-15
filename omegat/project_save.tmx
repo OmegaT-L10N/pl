@@ -1437,6 +1437,22 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source File Encoding</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T115323Z" creationid="ewawoj" creationdate="20220415T115323Z">
+        <seg>Kodowanie pliku źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Filename Pattern</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T115316Z" creationid="ewawoj" creationdate="20220415T115316Z">
+        <seg>Wzór nazwy pliku źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084829Z" creationid="GKarpowicz" creationdate="20220406T084829Z">
@@ -1627,6 +1643,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223224Z" creationid="mat_staszak" creationdate="20220411T223224Z">
         <seg>Przetłumaczone lub nieprzetłumaczone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated File Encoding</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T115427Z" creationid="ewawoj" creationdate="20220415T115427Z">
+        <seg>Kodowanie pliku docelowego</seg>
       </tuv>
     </tu>
     <tu>
