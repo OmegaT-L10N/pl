@@ -242,8 +242,8 @@ Znakowi "?" odpowiada dokładnie jeden znak ("biega*" odpowiada "biegam", "biega
       <tuv lang="EN">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220415T120442Z" creationid="ewawoj" creationdate="20220415T120442Z">
-        <seg>&amp;Zastąp automatycznie 'nplurals=INTEGER; &amp;plural=EXPRESSION;' w nagłówku</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T165633Z" creationid="ewawoj" creationdate="20220415T120442Z">
+        <seg>&amp; Zastąp automatycznie 'nplurals=INTEGER; &amp; plural=EXPRESSION;' w nagłówku</seg>
       </tuv>
     </tu>
     <tu>
@@ -1689,24 +1689,24 @@ Zakres zastąpienia tekstu ogranicza się do segmentów docelowych projektu, nie
       <tuv lang="EN">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220415T164922Z" creationid="ewawoj" creationdate="20220415T164922Z">
-        <seg>Filtr Moodle PHP wygenerował wyjątek</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T165501Z" creationid="ewawoj" creationdate="20220415T164922Z">
+        <seg>Filtr Moodle PHP zgłosił wyjątek</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220415T165135Z" creationid="ewawoj" creationdate="20220415T165135Z">
-        <seg>Filtr Mozilla DTD wygenerował wyjątek</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T165412Z" creationid="ewawoj" creationdate="20220415T165135Z">
+        <seg>Filtr Mozilla DTD zgłosił wyjątek</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220415T120632Z" creationid="ewawoj" creationdate="20220415T120632Z">
-        <seg>Filtr PO wygenerował wyjątek</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T165550Z" creationid="ewawoj" creationdate="20220415T120632Z">
+        <seg>Filtr PO zgłosił wyjątek</seg>
       </tuv>
     </tu>
     <tu>
