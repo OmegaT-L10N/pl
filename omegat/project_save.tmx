@@ -808,6 +808,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220415T104820Z" creationid="mat_staszak" creationdate="20220415T104820Z">
+        <seg>Grupa {0} nie istnieje w szukanej frazie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Help you are seeking
 From your path it is fleeing
 Its winter has come</seg>
@@ -824,6 +832,14 @@ Znać jej koniec nadchodzi</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221736Z" creationid="mat_staszak" creationdate="20220411T221736Z">
         <seg>Ukryj ustawienia zaawansowane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IOException encountered:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220415T105033Z" creationid="mat_staszak" creationdate="20220415T105033Z">
+        <seg>Błąd wejścia / wyjścia:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1844,8 +1860,8 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       <tuv lang="EN">
         <seg>Use $n to refer to the nth group.</seg>
       </tuv>
-      <tuv lang="PL" changeid="mat_staszak" changedate="20220412T085706Z" creationid="mat_staszak" creationdate="20220411T225102Z">
-        <seg>Użyj n, aby odnieść się do grupy o numerze n</seg>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220415T104718Z" creationid="mat_staszak" creationdate="20220411T225102Z">
+        <seg>Użyj n, aby odnieść się do grupy o numerze n.</seg>
       </tuv>
     </tu>
     <tu>
