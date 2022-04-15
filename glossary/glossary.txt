@@ -15,3 +15,6 @@ Orphan segment	segment osierocony	<FR> un segment orphelin
 Clipboard	schowek	<FR> un presse-papier
 <FR> les segments orphelins	segmenty osierocone	mat_staszak
 folder hierarchy	struktura folderów
+fichier traduit	plik docelowy
+<FR> fichier source	plik źródłowy
+<FR> fichier source	plik źródłowy
