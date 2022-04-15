@@ -105,9 +105,9 @@
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
-      <tuv lang="PL" changeid="mat_staszak" changedate="20220415T103808Z" creationid="mat_staszak" creationdate="20220415T103808Z">
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220415T103837Z" creationid="mat_staszak" creationdate="20220415T103808Z">
         <seg>Znakowi "*" odpowiada zero lub więcej znaków ("biega*" odpowiada "biega", "biegasz", "biegający", etc.)
-Znakowi "?" odpowiada dokładnie jeden znak ("biega*" odpowiada "biegam", "biegał", ale nie "biegasz", czy "biegaliśmy") </seg>
+Znakowi "?" odpowiada dokładnie jeden znak ("biega*" odpowiada "biegam", "biegał", ale nie "biegasz", czy "biegaliśmy").</seg>
       </tuv>
     </tu>
     <tu>
@@ -1465,6 +1465,16 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224428Z" creationid="mat_staszak" creationdate="20220411T224428Z">
         <seg>Zastąpienie tekstu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Replace:
+The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220415T104049Z" creationid="mat_staszak" creationdate="20220415T104049Z">
+        <seg>Zastąpienie tekstu:
+Zakres zastąpienia tekstu ogranicza się do segmentów docelowych projektu, niezależnie od tego, czy posiadają już zawartość.</seg>
       </tuv>
     </tu>
     <tu>
