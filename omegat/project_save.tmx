@@ -88,8 +88,8 @@
       <tuv lang="EN">
         <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220415T164848Z" creationid="ewawoj" creationdate="20220415T164848Z">
-        <seg>&amp;Usuń nieprzetłumaczone ciągi znaków w plikach docelowych</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T165659Z" creationid="ewawoj" creationdate="20220415T164848Z">
+        <seg>&amp; Usuń nieprzetłumaczone ciągi znaków w plikach docelowych</seg>
       </tuv>
     </tu>
     <tu>
@@ -112,8 +112,8 @@
       <tuv lang="EN">
         <seg>&amp;Skip PO header</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220415T120352Z" creationid="ewawoj" creationdate="20220415T120329Z">
-        <seg>&amp;Pomiń nagłówek PO</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T165650Z" creationid="ewawoj" creationdate="20220415T120329Z">
+        <seg>&amp; Pomiń nagłówek PO</seg>
       </tuv>
     </tu>
     <tu>
