@@ -1076,6 +1076,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moodle PHP</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T164732Z" creationid="ewawoj" creationdate="20220415T164732Z">
+        <seg>Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mourning and sorrow
 404 not with us now
 Lost to paradise</seg>
@@ -2082,8 +2090,8 @@ Twoja strona odeszła wraz z nimi</seg>
       <tuv lang="EN">
         <seg>Windows Resources</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220415T120803Z" creationid="ewawoj" creationdate="20220415T120803Z">
-        <seg>Pliki Windows Resource</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T164646Z" creationid="ewawoj" creationdate="20220415T120803Z">
+        <seg>Zasoby systemu Windows</seg>
       </tuv>
     </tu>
     <tu>
