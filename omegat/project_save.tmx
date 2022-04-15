@@ -1300,9 +1300,9 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
         <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
-      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224828Z" creationid="mat_staszak" creationdate="20220411T224828Z">
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220415T101259Z" creationid="mat_staszak" creationdate="20220411T224828Z">
         <seg>Zakres:
-zakres </seg>
+Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczony do dowolnego folderu znajdującego się w strukturze folderów.</seg>
       </tuv>
     </tu>
     <tu>
