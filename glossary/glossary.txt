@@ -18,3 +18,5 @@ folder hierarchy	struktura folderów
 fichier traduit	plik docelowy
 <FR> fichier source	plik źródłowy
 <FR> fichier source	plik źródłowy
+<FR> caractère d'échappement	znak ucieczki
+<FR> système des préférences	system preferencji
