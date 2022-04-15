@@ -774,6 +774,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Full/Half &amp;width char insensitive</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220415T095215Z" creationid="mat_staszak" creationdate="20220415T095215Z">
+        <seg>Nie uwzględniaj różnic pomiędzy znakami o pełnej szerokości i o połowie szerokości</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T225947Z" creationid="mat_staszak" creationdate="20220411T225947Z">
