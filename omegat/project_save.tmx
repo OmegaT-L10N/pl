@@ -1165,6 +1165,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220415T095543Z" creationid="mat_staszak" creationdate="20220415T095543Z">
+        <seg>Wyszukiwania są domyślnie prowadzone zarówno w tekście źródłowym jak i docelowym, a także w pamięciach tłumaczeniowych (TM), glosariuszach, notatkach, komentarzach projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rather than beep
 Or a rude error message
 These words: 'Page not found'</seg>
