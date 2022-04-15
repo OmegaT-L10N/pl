@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow blank translations in the target files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T120007Z" creationid="ewawoj" creationdate="20220415T120007Z">
+        <seg>Zezwól na pozostawienie nieprzetłumaczonych segmentów w plikach docelowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230156Z" creationid="mat_staszak" creationdate="20220411T230156Z">
@@ -1140,6 +1148,22 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085648Z" creationid="GKarpowicz" creationdate="20220406T085648Z">
         <seg>Osierocone segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PO</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T115711Z" creationid="ewawoj" creationdate="20220415T115711Z">
+        <seg>PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PO Filter Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T115922Z" creationid="ewawoj" creationdate="20220415T115922Z">
+        <seg>Opcje filtru PO</seg>
       </tuv>
     </tu>
     <tu>
