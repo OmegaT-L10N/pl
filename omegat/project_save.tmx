@@ -1217,6 +1217,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220415T102316Z" creationid="mat_staszak" creationdate="20220415T102316Z">
+        <seg>Wyszukiwanie wyrażeń regularnych dopasowuje wyrażenia regularne Java, zgodnie z opisem w instrukcji obsługi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remaining Characters (w/ spaces)</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092150Z" creationid="GKarpowicz" creationdate="20220406T092150Z">
@@ -1842,6 +1850,16 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T225147Z" creationid="ewawoj" creationdate="20220411T225147Z">
         <seg>Ostrzeżenie przy analizie linii {0}, kolumny {1}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wildcards:
+Both exact and keyword searches support the wildcard characters * and ?.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220415T102456Z" creationid="mat_staszak" creationdate="20220415T102456Z">
+        <seg>Symbole wieloznaczne:
+Oba rodzaje wyszukiwania obsługują symbole "*" oraz "?".</seg>
       </tuv>
     </tu>
     <tu>
