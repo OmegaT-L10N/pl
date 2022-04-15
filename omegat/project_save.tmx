@@ -622,8 +622,8 @@ Nikt nie usłyszy twych krzyków.</seg>
       <tuv lang="EN">
         <seg>Escaped character never terminated!</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220411T222726Z" creationid="ewawoj" creationdate="20220411T221654Z">
-        <seg>Znak ucieczki nie został zakończony!</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T170211Z" creationid="ewawoj" creationdate="20220411T221654Z">
+        <seg>Znak ucieczki nie został zamknięty!</seg>
       </tuv>
     </tu>
     <tu>
