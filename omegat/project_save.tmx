@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Skip PO header</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T120352Z" creationid="ewawoj" creationdate="20220415T120329Z">
+        <seg>&amp;Pomiń nagłówek PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Translated</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222832Z" creationid="mat_staszak" creationdate="20220411T222832Z">
@@ -220,6 +228,14 @@ Znakowi "?" odpowiada dokładnie jeden znak ("biega*" odpowiada "biegam", "biega
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220405T164914Z" creationid="mat_staszak" creationdate="20220405T164914Z">
         <seg>Autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T120442Z" creationid="ewawoj" creationdate="20220415T120442Z">
+        <seg>&amp;Zastąp automatycznie 'nplurals=INTEGER; &amp;plural=EXPRESSION;' w nagłówku</seg>
       </tuv>
     </tu>
     <tu>
@@ -808,6 +824,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Format:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T120455Z" creationid="ewawoj" creationdate="20220415T120455Z">
+        <seg>Format:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Full/Half &amp;width char insensitive</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220415T095215Z" creationid="mat_staszak" creationdate="20220415T095215Z">
@@ -1032,6 +1056,14 @@ Znać jej koniec nadchodzi</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222504Z" creationid="mat_staszak" creationdate="20220411T222504Z">
         <seg>Pamięć</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Monolingual</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T120515Z" creationid="ewawoj" creationdate="20220415T120515Z">
+        <seg>Jednojęzyczny</seg>
       </tuv>
     </tu>
     <tu>
@@ -1517,6 +1549,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T120508Z" creationid="ewawoj" creationdate="20220415T120508Z">
+        <seg>Standardowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092657Z" creationid="GKarpowicz" creationdate="20220406T092305Z">
@@ -1571,6 +1611,14 @@ Zakres zastąpienia tekstu ogranicza się do segmentów docelowych projektu, nie
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224322Z" creationid="mat_staszak" creationdate="20220411T224322Z">
         <seg>Wyszukiwanie tekstowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The PO filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220415T120632Z" creationid="ewawoj" creationdate="20220415T120632Z">
+        <seg>Filtr PO wygenerował wyjątek</seg>
       </tuv>
     </tu>
     <tu>
