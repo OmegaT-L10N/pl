@@ -876,6 +876,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyword searches are not available in the search string.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220415T104142Z" creationid="mat_staszak" creationdate="20220415T104142Z">
+        <seg>Wyszukiwanie przez słowa kluczowe nie jest możliwe w danej frazie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220415T101414Z" creationid="mat_staszak" creationdate="20220415T095752Z">
@@ -1870,6 +1878,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T225147Z" creationid="ewawoj" creationdate="20220411T225147Z">
         <seg>Ostrzeżenie przy analizie linii {0}, kolumny {1}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mat_staszak" changedate="20220415T104712Z" creationid="mat_staszak" creationdate="20220415T104712Z">
+        <seg>Podczas wyszukiwania wyrażeń regularnych, zamieniana fraza umożliwia odniesienie się do grup zdefiniowanych tą sama frazą.</seg>
       </tuv>
     </tu>
     <tu>
