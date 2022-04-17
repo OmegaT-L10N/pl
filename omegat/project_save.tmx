@@ -208,6 +208,14 @@ Znakowi "?" odpowiada dokładnie jeden znak ("biega*" odpowiada "biegam", "biega
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220417T133142Z" creationid="mademoiselleqwerty" creationdate="20220417T133142Z">
+        <seg>Add</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T230939Z" creationid="ewawoj" creationdate="20220411T230939Z">
@@ -2186,8 +2194,8 @@ Twoja strona odeszła wraz z nimi</seg>
       <tuv lang="EN">
         <seg>Your project does not contain any files in a supported file format.</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171049Z" creationid="mademoiselleqwerty" creationdate="20220405T164557Z">
-        <seg> Twój projekt nie zawiera żadnych plików w obsługiwanym formacie.</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220417T133158Z" creationid="mademoiselleqwerty" creationdate="20220405T164557Z">
+        <seg>Twój projekt nie zawiera żadnych plików w obsługiwanym formacie.</seg>
       </tuv>
     </tu>
     <tu>
