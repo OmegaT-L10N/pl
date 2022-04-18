@@ -1535,8 +1535,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>See Options &gt; File filters for a list of supported file formats.</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T164620Z" creationid="mademoiselleqwerty" creationdate="20220405T164620Z">
-        <seg>See Options &gt; File filters for a list of supported file formats.</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T083931Z" creationid="mademoiselleqwerty" creationdate="20220405T164620Z">
+        <seg>Listę obsługiwanych formatów plików możesz znaleźć w Opcje &gt; Filtry plików.</seg>
       </tuv>
     </tu>
     <tu>
