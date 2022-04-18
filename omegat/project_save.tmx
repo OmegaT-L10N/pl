@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Clear Menu</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T091026Z" creationid="mademoiselleqwerty" creationdate="20220418T091026Z">
+        <seg>&amp;Wyczyść menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230156Z" creationid="mat_staszak" creationdate="20220411T230156Z">
@@ -74,6 +82,14 @@
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220412T175600Z" creationid="mademoiselleqwerty" creationdate="20220412T175600Z">
         <seg>&amp;OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Open...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T090820Z" creationid="mademoiselleqwerty" creationdate="20220418T090820Z">
+        <seg>&amp;Otwórz...</seg>
       </tuv>
     </tu>
     <tu>
@@ -392,6 +408,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230712Z" creationid="mat_staszak" creationdate="20220411T230712Z">
         <seg>Nieprawidłowe otwarcie znacznika komentarza!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cop&amp;y Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T091131Z" creationid="mademoiselleqwerty" creationdate="20220418T091131Z">
+        <seg>Kopiuj pliki do foldera źródłowego...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1244,6 +1268,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T230216Z" creationid="ewawoj" creationdate="20220411T230216Z">
         <seg>OmegaT spróbuje posegmentować plik TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Recent Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T090919Z" creationid="mademoiselleqwerty" creationdate="20220418T090919Z">
+        <seg>Otwórz ostatni projekt</seg>
       </tuv>
     </tu>
     <tu>
