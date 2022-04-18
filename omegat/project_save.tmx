@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Access Project Contents</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T093203Z" creationid="mademoiselleqwerty" creationdate="20220418T093203Z">
+        <seg>Dostęp do treści projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220415T120054Z" creationid="ewawoj" creationdate="20220415T120007Z">
@@ -138,6 +146,14 @@
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230333Z" creationid="mat_staszak" creationdate="20220411T230333Z">
         <seg>Resetuj opcje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Root</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T093307Z" creationid="mademoiselleqwerty" creationdate="20220418T093307Z">
+        <seg>Root</seg>
       </tuv>
     </tu>
     <tu>
