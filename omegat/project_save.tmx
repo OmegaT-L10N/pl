@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Current Source Document</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T093650Z" creationid="mademoiselleqwerty" creationdate="20220418T093650Z">
+        <seg>Bieżący dokument źródłowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Dictionaries</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T093344Z" creationid="mademoiselleqwerty" creationdate="20220418T093344Z">
@@ -198,10 +206,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Target Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T093534Z" creationid="mademoiselleqwerty" creationdate="20220418T093534Z">
+        <seg>Pliki docelowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Translated</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222832Z" creationid="mat_staszak" creationdate="20220411T222832Z">
         <seg>Przetłumaczone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T094208Z" creationid="mademoiselleqwerty" creationdate="20220418T094208Z">
+        <seg>Glosariusz</seg>
       </tuv>
     </tu>
     <tu>
@@ -400,6 +424,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092303Z" creationid="GKarpowicz" creationdate="20220406T092303Z">
         <seg>&amp;Skopiuj wszystkie dane do schowka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>C&amp;urrent Target Document</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T093714Z" creationid="mademoiselleqwerty" creationdate="20220418T093714Z">
+        <seg>Bieżący dokument docelowy</seg>
       </tuv>
     </tu>
     <tu>
