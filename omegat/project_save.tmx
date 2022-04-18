@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Save</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T092216Z" creationid="mademoiselleqwerty" creationdate="20220418T092216Z">
+        <seg>Zapisz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Search for Selection</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230220Z" creationid="mat_staszak" creationdate="20220411T230220Z">
@@ -412,6 +420,22 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commit Source Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T092131Z" creationid="mademoiselleqwerty" creationdate="20220418T092131Z">
+        <seg>Wyślij pliki źródłowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commit Target Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T092152Z" creationid="mademoiselleqwerty" creationdate="20220418T092152Z">
+        <seg>Wyślij pliki docelowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Confused by false start of comment tag!</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230712Z" creationid="mat_staszak" creationdate="20220411T230712Z">
@@ -440,6 +464,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085431Z" creationid="GKarpowicz" creationdate="20220406T085258Z">
         <seg>Utworzenie następującego katalogu projektu jest niemożliwe {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create &amp;Translated Documents</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T092322Z" creationid="mademoiselleqwerty" creationdate="20220418T092322Z">
+        <seg>Utw</seg>
       </tuv>
     </tu>
     <tu>
