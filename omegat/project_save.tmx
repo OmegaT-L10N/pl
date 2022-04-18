@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Forward in History</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102410Z" creationid="mademoiselleqwerty" creationdate="20220418T102410Z">
+        <seg>Następny segment w historii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Glossaries</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T093411Z" creationid="mademoiselleqwerty" creationdate="20220405T171349Z">
@@ -126,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Next Segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102111Z" creationid="mademoiselleqwerty" creationdate="20220418T102044Z">
+        <seg>Następny segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220412T175600Z" creationid="mademoiselleqwerty" creationdate="20220412T175600Z">
@@ -138,6 +154,14 @@
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T090820Z" creationid="mademoiselleqwerty" creationdate="20220418T090820Z">
         <seg>&amp;Otwórz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Previous Segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102242Z" creationid="mademoiselleqwerty" creationdate="20220418T102242Z">
+        <seg>Poprzedni segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +266,14 @@
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230220Z" creationid="mat_staszak" creationdate="20220411T230220Z">
         <seg>Szukaj zaznaczenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Segment Number...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102322Z" creationid="mademoiselleqwerty" creationdate="20220418T102322Z">
+        <seg>Numer segmentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1496,6 +1528,30 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next &amp;Translated Segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102225Z" creationid="mademoiselleqwerty" creationdate="20220418T102225Z">
+        <seg>Następny przetłumaczony segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next &amp;Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102202Z" creationid="mademoiselleqwerty" creationdate="20220418T102202Z">
+        <seg>Następny nieprzetłumaczony segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next N&amp;ote</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102134Z" creationid="mademoiselleqwerty" creationdate="20220418T102049Z">
+        <seg>Następna notatka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No match:</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092810Z" creationid="GKarpowicz" creationdate="20220406T092810Z">
@@ -1715,6 +1771,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T222913Z" creationid="ewawoj" creationdate="20220405T164403Z">
         <seg>Zapisanie systemu preferencji nie powiodło się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous No&amp;te</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102300Z" creationid="mademoiselleqwerty" creationdate="20220418T102300Z">
+        <seg>Poprzednia notatka</seg>
       </tuv>
     </tu>
     <tu>
