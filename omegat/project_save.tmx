@@ -420,6 +420,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T091235Z" creationid="mademoiselleqwerty" creationdate="20220418T091153Z">
+        <seg>Kopiuj pliki do foldera źródłowego...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085431Z" creationid="GKarpowicz" creationdate="20220406T085258Z">
@@ -478,8 +486,16 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Download Media&amp;Wiki Page...</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T173727Z" creationid="mademoiselleqwerty" creationdate="20220405T173727Z">
-        <seg>Download Media&amp;Wiki Page...</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T091336Z" creationid="mademoiselleqwerty" creationdate="20220405T173727Z">
+        <seg>Pobierz stronę Media&amp;Wiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T091344Z" creationid="mademoiselleqwerty" creationdate="20220418T091344Z">
+        <seg>Download MediaWiki Page</seg>
       </tuv>
     </tu>
     <tu>
