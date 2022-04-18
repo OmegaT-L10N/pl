@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Back in History</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102500Z" creationid="mademoiselleqwerty" creationdate="20220418T102500Z">
+        <seg>Poprzedni segment w historii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Clear Menu</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T091026Z" creationid="mademoiselleqwerty" creationdate="20220418T091026Z">
@@ -298,6 +306,14 @@
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T093534Z" creationid="mademoiselleqwerty" creationdate="20220418T093534Z">
         <seg>Pliki docelowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Tools</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102639Z" creationid="mademoiselleqwerty" creationdate="20220418T102639Z">
+        <seg>Narzędzia</seg>
       </tuv>
     </tu>
     <tu>
@@ -576,6 +592,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091627Z" creationid="GKarpowicz" creationdate="20220406T091627Z">
         <seg>Znaków (bez spacji)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check &amp;Issues...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102831Z" creationid="mademoiselleqwerty" creationdate="20220418T102831Z">
+        <seg>Wyświetlanie błędów</seg>
       </tuv>
     </tu>
     <tu>
@@ -1552,6 +1576,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next Uni&amp;que Segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102627Z" creationid="mademoiselleqwerty" creationdate="20220418T102627Z">
+        <seg>Następny unikalny segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No match:</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092810Z" creationid="GKarpowicz" creationdate="20220406T092810Z">
@@ -2193,6 +2225,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T224915Z" creationid="ewawoj" creationdate="20220411T224915Z">
         <seg>Język źródłowy: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source of Selected &amp;Match</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102526Z" creationid="mademoiselleqwerty" creationdate="20220418T102526Z">
+        <seg>Źródło wybranego dopasowania</seg>
       </tuv>
     </tu>
     <tu>
