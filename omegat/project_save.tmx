@@ -2109,8 +2109,8 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       <tuv lang="EN">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T164638Z" creationid="mademoiselleqwerty" creationdate="20220405T164638Z">
-        <seg>Replace &amp;glossary hits when inserting source text</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T105150Z" creationid="mademoiselleqwerty" creationdate="20220405T164638Z">
+        <seg>Zastąp hasła glosariusza podczas wstawiania tekstu źródłowego</seg>
       </tuv>
     </tu>
     <tu>
@@ -2830,6 +2830,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104133Z" creationid="mademoiselleqwerty" creationdate="20220418T104133Z">
         <seg>Użyj klawisza TAB, aby przejść do następnego segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T105004Z" creationid="mademoiselleqwerty" creationdate="20220418T105004Z">
+        <seg>Użyj lematyzacji dla haseł glosariusza</seg>
       </tuv>
     </tu>
     <tu>
