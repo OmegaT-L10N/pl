@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Edit</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T094305Z" creationid="mademoiselleqwerty" creationdate="20220418T094305Z">
+        <seg>Edycja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Exact search</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220414T190806Z" creationid="mademoiselleqwerty" creationdate="20220414T190806Z">
@@ -134,6 +142,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Quit</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T094228Z" creationid="mademoiselleqwerty" creationdate="20220418T094228Z">
+        <seg>Zamknij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Redo Last Action</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T094414Z" creationid="mademoiselleqwerty" creationdate="20220418T094414Z">
+        <seg>Ponów ostatnią czynność</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Regular expressions</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221052Z" creationid="mat_staszak" creationdate="20220411T221052Z">
@@ -166,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Restart</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T094251Z" creationid="mademoiselleqwerty" creationdate="20220418T094251Z">
+        <seg>Uruchom ponownie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Root</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T093307Z" creationid="mademoiselleqwerty" creationdate="20220418T093307Z">
@@ -178,6 +210,14 @@
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T092216Z" creationid="mademoiselleqwerty" creationdate="20220418T092216Z">
         <seg>Zapisz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Search Project...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T094654Z" creationid="mademoiselleqwerty" creationdate="20220418T094654Z">
+        <seg>Przeszukaj projekt...</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +258,14 @@
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222832Z" creationid="mat_staszak" creationdate="20220411T222832Z">
         <seg>Przetłumaczone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Undo Last Action</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T094347Z" creationid="mademoiselleqwerty" creationdate="20220418T094347Z">
+        <seg>Cofnij ostatnią czynność</seg>
       </tuv>
     </tu>
     <tu>
