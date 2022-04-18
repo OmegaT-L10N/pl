@@ -1671,6 +1671,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>R&amp;eplace with Match or Selection</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T095120Z" creationid="mademoiselleqwerty" creationdate="20220418T095120Z">
+        <seg>Zastąp dopasowaniem lub zaznaczeniem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rather than beep
 Or a rude error message
 These words: 'Page not found'</seg>
@@ -1783,6 +1791,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T164638Z" creationid="mademoiselleqwerty" creationdate="20220405T164638Z">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace with &amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T095351Z" creationid="mademoiselleqwerty" creationdate="20220418T095351Z">
+        <seg>Zamień używając tłumaczenia maszynowego</seg>
       </tuv>
     </tu>
     <tu>
