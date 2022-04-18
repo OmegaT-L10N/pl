@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T095038Z" creationid="mademoiselleqwerty" creationdate="20220418T095038Z">
+        <seg>Wstaw dopasowanie lub zaznaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;New...</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T090608Z" creationid="mademoiselleqwerty" creationdate="20220418T090608Z">
