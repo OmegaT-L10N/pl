@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Dictionaries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T093344Z" creationid="mademoiselleqwerty" creationdate="20220418T093344Z">
+        <seg>Słowniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Exact search</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220414T190806Z" creationid="mademoiselleqwerty" creationdate="20220414T190806Z">
@@ -64,8 +72,8 @@
       <tuv lang="EN">
         <seg>&amp;Glossaries</seg>
       </tuv>
-      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222745Z" creationid="mademoiselleqwerty" creationdate="20220405T171349Z">
-        <seg>Glosaruisze</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T093411Z" creationid="mademoiselleqwerty" creationdate="20220405T171349Z">
+        <seg>Glosariusze</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,6 +186,14 @@
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220415T165650Z" creationid="ewawoj" creationdate="20220415T120329Z">
         <seg>&amp; Pomiń nagłówek PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Source Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T093521Z" creationid="mademoiselleqwerty" creationdate="20220418T093521Z">
+        <seg>Pliki źródłowe</seg>
       </tuv>
     </tu>
     <tu>
