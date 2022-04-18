@@ -604,6 +604,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check Issues for &amp;Current Document</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102941Z" creationid="mademoiselleqwerty" creationdate="20220418T102941Z">
+        <seg>Check Issues for &amp;Current Document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Column Index must be equal to 1</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T233018Z" creationid="ewawoj" creationdate="20220411T233018Z">
