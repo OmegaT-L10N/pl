@@ -596,6 +596,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create &amp;Glossary Entry...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T100836Z" creationid="mademoiselleqwerty" creationdate="20220418T100836Z">
+        <seg>Wprowadź hasło do glosariusza...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create &amp;Translated Documents</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T092435Z" creationid="mademoiselleqwerty" creationdate="20220418T092322Z">
@@ -1759,6 +1767,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224249Z" creationid="mat_staszak" creationdate="20220411T224249Z">
         <seg>Wyszukiwanie rekursywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Register Identical Translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T100439Z" creationid="mademoiselleqwerty" creationdate="20220418T100439Z">
+        <seg>Oznacz jako identyczne tłumaczenie</seg>
       </tuv>
     </tu>
     <tu>
