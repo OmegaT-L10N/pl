@@ -1799,8 +1799,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Search and Replace...</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T172034Z" creationid="mademoiselleqwerty" creationdate="20220405T172034Z">
-        <seg>Search and Replace...</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T094816Z" creationid="mademoiselleqwerty" creationdate="20220405T172034Z">
+        <seg>Szukaj i zastąp...</seg>
       </tuv>
     </tu>
     <tu>
