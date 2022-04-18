@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Properties...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T092703Z" creationid="mademoiselleqwerty" creationdate="20220418T092703Z">
+        <seg>Właściwości...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Regular expressions</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221052Z" creationid="mat_staszak" creationdate="20220411T221052Z">
@@ -880,6 +888,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T092719Z" creationid="mademoiselleqwerty" creationdate="20220418T092719Z">
+        <seg>Filtry plików...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File Copy Failed</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T091854Z" creationid="mademoiselleqwerty" creationdate="20220418T091854Z">
@@ -1499,6 +1515,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224029Z" creationid="mat_staszak" creationdate="20220411T224029Z">
         <seg>Projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project &amp;Files...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T093127Z" creationid="mademoiselleqwerty" creationdate="20220418T093127Z">
+        <seg>Pliki projektu...</seg>
       </tuv>
     </tu>
     <tu>
