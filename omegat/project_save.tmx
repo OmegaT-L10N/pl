@@ -700,6 +700,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E&amp;xport Selection</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T095514Z" creationid="mademoiselleqwerty" creationdate="20220418T095514Z">
+        <seg>Eksportuj zaznaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230245Z" creationid="mat_staszak" creationdate="20220411T230245Z">
@@ -1156,6 +1164,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I&amp;nsert Source</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T095417Z" creationid="mademoiselleqwerty" creationdate="20220418T095417Z">
+        <seg>Wstaw tekst źródłowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IOException encountered:</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220415T105033Z" creationid="mat_staszak" creationdate="20220415T105033Z">
@@ -1200,6 +1216,14 @@ Znać jej koniec nadchodzi</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092552Z" creationid="GKarpowicz" creationdate="20220406T091735Z">
         <seg>Statystyki poszczególnych plików:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Missing Source &amp;Tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T095632Z" creationid="mademoiselleqwerty" creationdate="20220418T095632Z">
+        <seg>Wprowadź brakujący znacznik źródłowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -1687,6 +1711,14 @@ These words: 'Page not found'</seg>
         <seg>Zamiast dziwnych dźwięków
 Lub obcesowej informacji o błędzie
 Prosta wiadomość: „nie znaleziono strony”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;place with Source</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T095436Z" creationid="mademoiselleqwerty" creationdate="20220418T095436Z">
+        <seg>Zastąp tekstem źródłowym</seg>
       </tuv>
     </tu>
     <tu>
