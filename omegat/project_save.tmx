@@ -1324,6 +1324,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Left-to-Right Embedding (LRE U+202A)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T101805Z" creationid="mademoiselleqwerty" creationdate="20220418T101805Z">
+        <seg>Osadzanie od lewej do prawej (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Left-to-Right Mark (LRM U+200E)</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T101507Z" creationid="mademoiselleqwerty" creationdate="20220418T101507Z">
@@ -1887,6 +1895,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T095351Z" creationid="mademoiselleqwerty" creationdate="20220418T095351Z">
         <seg>Zamień używając tłumaczenia maszynowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-to-Left Mark (RLM U+200F)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T101604Z" creationid="mademoiselleqwerty" creationdate="20220418T101604Z">
+        <seg>Znak od prawej do lewej (RLM U+200F)</seg>
       </tuv>
     </tu>
     <tu>
