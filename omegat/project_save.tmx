@@ -470,8 +470,24 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Create &amp;Translated Documents</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T092322Z" creationid="mademoiselleqwerty" creationdate="20220418T092322Z">
-        <seg>Utw</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T092435Z" creationid="mademoiselleqwerty" creationdate="20220418T092322Z">
+        <seg>Utwórz przetłumaczone dokumenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Current Translated &amp;Document</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T092513Z" creationid="mademoiselleqwerty" creationdate="20220418T092513Z">
+        <seg>Utwórz aktualnie tłumaczony dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create MED Project...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T092642Z" creationid="mademoiselleqwerty" creationdate="20220418T092642Z">
+        <seg>Utwórz projekt MED...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1340,6 +1356,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T230216Z" creationid="ewawoj" creationdate="20220411T230216Z">
         <seg>OmegaT spróbuje posegmentować plik TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open MED Project...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T092543Z" creationid="mademoiselleqwerty" creationdate="20220418T092543Z">
+        <seg>Otwórz projekt MED...</seg>
       </tuv>
     </tu>
     <tu>
