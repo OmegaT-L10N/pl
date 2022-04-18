@@ -1228,6 +1228,22 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Next Missing Tag</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T095725Z" creationid="mademoiselleqwerty" creationdate="20220418T095725Z">
+        <seg>Wprowadź następny brakujący znacznik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Tag {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T095811Z" creationid="mademoiselleqwerty" creationdate="20220418T095811Z">
+        <seg>Wprowadź znacznik {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insufficient permissions for project dir {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085421Z" creationid="GKarpowicz" creationdate="20220406T085421Z">
@@ -1795,6 +1811,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T095833Z" creationid="mademoiselleqwerty" creationdate="20220418T095833Z">
+        <seg>Usuń tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repetitions from other files:</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092751Z" creationid="GKarpowicz" creationdate="20220406T092751Z">
@@ -1913,6 +1937,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223856Z" creationid="ewawoj" creationdate="20220411T223406Z">
         <seg>Wybierz folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set empty translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T100355Z" creationid="mademoiselleqwerty" creationdate="20220418T100355Z">
+        <seg>Oznacz tłumaczenie jako puste</seg>
       </tuv>
     </tu>
     <tu>
