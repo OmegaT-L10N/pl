@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T103735Z" creationid="mademoiselleqwerty" creationdate="20220418T103735Z">
+        <seg>Opcje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Previous Segment</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102242Z" creationid="mademoiselleqwerty" creationdate="20220418T102242Z">
@@ -2085,6 +2093,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scriptin&amp;g...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T103719Z" creationid="mademoiselleqwerty" creationdate="20220418T103719Z">
+        <seg>Skrypty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search and Replace...</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T094816Z" creationid="mademoiselleqwerty" creationdate="20220405T172034Z">
@@ -2742,6 +2758,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220415T104718Z" creationid="mat_staszak" creationdate="20220411T225102Z">
         <seg>Użyj n, aby odnieść się do grupy o numerze n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;TAB to Advance</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104133Z" creationid="mademoiselleqwerty" creationdate="20220418T104133Z">
+        <seg>Użyj klawisza TAB, aby przejść do następnego segmentu</seg>
       </tuv>
     </tu>
     <tu>
