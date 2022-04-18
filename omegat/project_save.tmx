@@ -1949,10 +1949,50 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &amp;Next Match</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T100926Z" creationid="mademoiselleqwerty" creationdate="20220418T100926Z">
+        <seg>Wybierz następne dopasowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &amp;Previous Match</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T100959Z" creationid="mademoiselleqwerty" creationdate="20220418T100959Z">
+        <seg>Wybierz poprzednie dopasowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Fol&amp;der</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223856Z" creationid="ewawoj" creationdate="20220411T223406Z">
         <seg>Wybierz folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Mat&amp;ch</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T100908Z" creationid="mademoiselleqwerty" creationdate="20220418T100908Z">
+        <seg>Wybierz dopasowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;1</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T101130Z" creationid="mademoiselleqwerty" creationdate="20220418T101130Z">
+        <seg>Wybierz dopasowanie #1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;2</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T101152Z" creationid="mademoiselleqwerty" creationdate="20220418T101152Z">
+        <seg>Wybierz dopasowanie #2</seg>
       </tuv>
     </tu>
     <tu>
