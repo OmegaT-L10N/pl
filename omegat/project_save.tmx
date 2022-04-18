@@ -1252,6 +1252,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Unicode Control Character</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T101357Z" creationid="mademoiselleqwerty" creationdate="20220418T101357Z">
+        <seg>Wstaw znak kontrolny Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insufficient permissions for project dir {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085421Z" creationid="GKarpowicz" creationdate="20220406T085421Z">
@@ -1312,6 +1320,14 @@ Znać jej koniec nadchodzi</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220405T172654Z" creationid="werric" creationdate="20220405T172654Z">
         <seg>Języki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T101507Z" creationid="mademoiselleqwerty" creationdate="20220418T101507Z">
+        <seg>Znak od lewej do prawej (LRM U+200E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1993,6 +2009,30 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T101152Z" creationid="mademoiselleqwerty" creationdate="20220418T101152Z">
         <seg>Wybierz dopasowanie #2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;3</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T101209Z" creationid="mademoiselleqwerty" creationdate="20220418T101209Z">
+        <seg>Wybierz dopasowanie #3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;4</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T101227Z" creationid="mademoiselleqwerty" creationdate="20220418T101227Z">
+        <seg>Wybierz dopasowanie #4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;5</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T101242Z" creationid="mademoiselleqwerty" creationdate="20220418T101242Z">
+        <seg>Wybierz dopasowanie #5</seg>
       </tuv>
     </tu>
     <tu>
