@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Editor...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104509Z" creationid="mademoiselleqwerty" creationdate="20220418T104509Z">
+        <seg>Edytor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Exact search</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220414T190806Z" creationid="mademoiselleqwerty" creationdate="20220414T190806Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T093411Z" creationid="mademoiselleqwerty" creationdate="20220405T171349Z">
         <seg>Glosariusze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Glossary</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104602Z" creationid="mademoiselleqwerty" creationdate="20220418T104602Z">
+        <seg>Glosariusz</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,6 +322,14 @@
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102322Z" creationid="mademoiselleqwerty" creationdate="20220418T102322Z">
         <seg>Numer segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Segmentation...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104526Z" creationid="mademoiselleqwerty" creationdate="20220418T104526Z">
+        <seg>Segmentacja</seg>
       </tuv>
     </tu>
     <tu>
@@ -752,6 +776,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T172714Z" creationid="mademoiselleqwerty" creationdate="20220405T172714Z">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display context description for TBX &amp;glossaries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104717Z" creationid="mademoiselleqwerty" creationdate="20220418T104717Z">
+        <seg>Wyświetl opis kontekstu dla glosariuszy TBX</seg>
       </tuv>
     </tu>
     <tu>
@@ -1488,6 +1520,14 @@ Znać jej koniec nadchodzi</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223630Z" creationid="mat_staszak" creationdate="20220411T223630Z">
         <seg>Lokalizacja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac&amp;hine Translate</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104542Z" creationid="mademoiselleqwerty" creationdate="20220418T104542Z">
+        <seg>Tłumaczenie maszynowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -2790,6 +2830,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104133Z" creationid="mademoiselleqwerty" creationdate="20220418T104133Z">
         <seg>Użyj klawisza TAB, aby przejść do następnego segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use terms &amp;appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104802Z" creationid="mademoiselleqwerty" creationdate="20220418T104802Z">
+        <seg>Użyj terminów, które pojawiają się oddzielnie w tekście źródłowym</seg>
       </tuv>
     </tu>
     <tu>
