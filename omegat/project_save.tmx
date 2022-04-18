@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Match Statistics</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T103123Z" creationid="mademoiselleqwerty" creationdate="20220418T103123Z">
+        <seg>Statystyka dopasowań</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;New...</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T090608Z" creationid="mademoiselleqwerty" creationdate="20220418T090608Z">
@@ -298,6 +306,14 @@
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T093521Z" creationid="mademoiselleqwerty" creationdate="20220418T093521Z">
         <seg>Pliki źródłowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Statistics</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T103107Z" creationid="mademoiselleqwerty" creationdate="20220418T103107Z">
+        <seg>Statystyka</seg>
       </tuv>
     </tu>
     <tu>
@@ -606,8 +622,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102941Z" creationid="mademoiselleqwerty" creationdate="20220418T102941Z">
-        <seg>Check Issues for &amp;Current Document</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T103038Z" creationid="mademoiselleqwerty" creationdate="20220418T102941Z">
+        <seg>Wyświetlanie błędów dla bieżącego dokumentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1464,6 +1480,14 @@ Znać jej koniec nadchodzi</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092709Z" creationid="GKarpowicz" creationdate="20220406T092709Z">
         <seg>Statystyka dopasowań</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match Statistics per &amp;File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T103531Z" creationid="mademoiselleqwerty" creationdate="20220418T103531Z">
+        <seg>Statystyka dopasowań dla pliku </seg>
       </tuv>
     </tu>
     <tu>
