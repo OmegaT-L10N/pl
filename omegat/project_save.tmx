@@ -1130,8 +1130,8 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>File &amp;Filters...</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T092719Z" creationid="mademoiselleqwerty" creationdate="20220418T092719Z">
-        <seg>Filtry plików...</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104458Z" creationid="mademoiselleqwerty" creationdate="20220418T092719Z">
+        <seg>Filtry plików</seg>
       </tuv>
     </tu>
     <tu>
@@ -1492,10 +1492,26 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104447Z" creationid="mademoiselleqwerty" creationdate="20220418T104447Z">
+        <seg>Zaznacz granice akapitów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Translated Segments</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104204Z" creationid="mademoiselleqwerty" creationdate="20220418T104204Z">
         <seg>Zaznacz przetłumaczone segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104228Z" creationid="mademoiselleqwerty" creationdate="20220418T104228Z">
+        <seg>Zaznacz nieprzetłumaczone segmenty</seg>
       </tuv>
     </tu>
     <tu>
