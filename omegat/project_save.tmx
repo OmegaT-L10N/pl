@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Align Files...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T103703Z" creationid="mademoiselleqwerty" creationdate="20220418T103703Z">
+        <seg>Wyrównywanie plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220415T120054Z" creationid="ewawoj" creationdate="20220415T120007Z">
