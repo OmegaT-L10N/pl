@@ -494,8 +494,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Download MediaWiki Page</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T091344Z" creationid="mademoiselleqwerty" creationdate="20220418T091344Z">
-        <seg>Download MediaWiki Page</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T091437Z" creationid="mademoiselleqwerty" creationdate="20220418T091344Z">
+        <seg>Pobierz stronę MediaWiki...</seg>
       </tuv>
     </tu>
     <tu>
@@ -964,6 +964,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Importing Wiki Page Failed</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T091807Z" creationid="mademoiselleqwerty" creationdate="20220418T091807Z">
+        <seg>Importowanie strony Wiki nie powiodło się.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In comments</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221525Z" creationid="mat_staszak" creationdate="20220411T221503Z">
@@ -1387,6 +1395,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084650Z" creationid="GKarpowicz" creationdate="20220406T084429Z">
         <seg>Zapoznaj się z informacjami dotyczącymi możliwości odzyskiwania plików. Prześlij poniższy komunikat producentowi oprogramowania, wraz z opisem, jakie czynności doprowadziły do wystąpienia błędu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please type or paste the URL of the mediawiki page</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T091529Z" creationid="mademoiselleqwerty" creationdate="20220418T091529Z">
+        <seg>Wpisz lub wklej adres URL strony MediaWiki</seg>
       </tuv>
     </tu>
     <tu>
