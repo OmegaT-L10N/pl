@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Go To</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102040Z" creationid="mademoiselleqwerty" creationdate="20220418T102017Z">
+        <seg>Przejdź do</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;In translation</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223104Z" creationid="mat_staszak" creationdate="20220411T223104Z">
@@ -1695,6 +1703,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102012Z" creationid="mademoiselleqwerty" creationdate="20220418T102012Z">
+        <seg>Formatowanie pop-kierunkowe (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T222913Z" creationid="ewawoj" creationdate="20220405T164403Z">
@@ -1895,6 +1911,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T095351Z" creationid="mademoiselleqwerty" creationdate="20220418T095351Z">
         <seg>Zamień używając tłumaczenia maszynowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-to-Left Embedding (RLE U+202B)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T101832Z" creationid="mademoiselleqwerty" creationdate="20220418T101832Z">
+        <seg>Osadzanie od prawej do lewej (RLE U+202B)</seg>
       </tuv>
     </tu>
     <tu>
