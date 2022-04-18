@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reload</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T092053Z" creationid="mademoiselleqwerty" creationdate="20220418T092053Z">
+        <seg>Załaduj ponownie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220415T165659Z" creationid="ewawoj" creationdate="20220415T164848Z">
@@ -820,6 +828,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230135Z" creationid="mat_staszak" creationdate="20220411T230135Z">
         <seg>Plik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Copy Failed</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T091854Z" creationid="mademoiselleqwerty" creationdate="20220418T091854Z">
+        <seg>Kopiowanie plików nie powiodło się.</seg>
       </tuv>
     </tu>
     <tu>
