@@ -534,8 +534,8 @@ Nikt nie usłyszy twych krzyków.</seg>
       <tuv lang="EN">
         <seg>Error</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171249Z" creationid="mademoiselleqwerty" creationdate="20220405T171249Z">
-        <seg>Error</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T090254Z" creationid="mademoiselleqwerty" creationdate="20220405T171249Z">
+        <seg>Błąd</seg>
       </tuv>
     </tu>
     <tu>
@@ -1218,8 +1218,8 @@ Odeszła do raju</seg>
       <tuv lang="EN">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171250Z" creationid="mademoiselleqwerty" creationdate="20220405T171250Z">
-        <seg>OmegaT has chosen option 'Yes' automatically.</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T090530Z" creationid="mademoiselleqwerty" creationdate="20220405T171250Z">
+        <seg>OmegaT automatycznie wybrał opcję „Tak”.</seg>
       </tuv>
     </tu>
     <tu>
