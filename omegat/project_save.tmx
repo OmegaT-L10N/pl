@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;New...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T090608Z" creationid="mademoiselleqwerty" creationdate="20220418T090608Z">
+        <seg>&amp;Nowy...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220412T175600Z" creationid="mademoiselleqwerty" creationdate="20220412T175600Z">
@@ -72,8 +80,8 @@
       <tuv lang="EN">
         <seg>&amp;Project</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171255Z" creationid="mademoiselleqwerty" creationdate="20220405T171255Z">
-        <seg>&amp;Project</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T090549Z" creationid="mademoiselleqwerty" creationdate="20220405T171255Z">
+        <seg>&amp;Projekt</seg>
       </tuv>
     </tu>
     <tu>
@@ -432,6 +440,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224544Z" creationid="mat_staszak" creationdate="20220411T224544Z">
         <seg>Czy chcesz kontynuować?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download &amp;Team Project...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T090807Z" creationid="mademoiselleqwerty" creationdate="20220418T090807Z">
+        <seg>Pobierz projekt zespołowy...</seg>
       </tuv>
     </tu>
     <tu>
