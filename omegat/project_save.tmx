@@ -48,8 +48,8 @@
       <tuv lang="EN">
         <seg>&amp;Clear Menu</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T091026Z" creationid="mademoiselleqwerty" creationdate="20220418T091026Z">
-        <seg>&amp;Wyczyść menu</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T153151Z" creationid="mademoiselleqwerty" creationdate="20220418T091026Z">
+        <seg>Wyczyść menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -168,8 +168,8 @@
       <tuv lang="EN">
         <seg>&amp;New...</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T090608Z" creationid="mademoiselleqwerty" creationdate="20220418T090608Z">
-        <seg>&amp;Nowy...</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T153045Z" creationid="mademoiselleqwerty" creationdate="20220418T090608Z">
+        <seg>Nowy...</seg>
       </tuv>
     </tu>
     <tu>
@@ -192,8 +192,8 @@
       <tuv lang="EN">
         <seg>&amp;Open...</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T090820Z" creationid="mademoiselleqwerty" creationdate="20220418T090820Z">
-        <seg>&amp;Otwórz...</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T153057Z" creationid="mademoiselleqwerty" creationdate="20220418T090820Z">
+        <seg>Otwórz...</seg>
       </tuv>
     </tu>
     <tu>
@@ -216,8 +216,8 @@
       <tuv lang="EN">
         <seg>&amp;Project</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T090549Z" creationid="mademoiselleqwerty" creationdate="20220405T171255Z">
-        <seg>&amp;Projekt</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T153034Z" creationid="mademoiselleqwerty" creationdate="20220405T171255Z">
+        <seg>Projekt</seg>
       </tuv>
     </tu>
     <tu>
