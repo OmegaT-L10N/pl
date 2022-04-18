@@ -1361,8 +1361,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Project is Empty</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171248Z" creationid="mademoiselleqwerty" creationdate="20220405T171248Z">
-        <seg>Project is Empty</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T085808Z" creationid="mademoiselleqwerty" creationdate="20220405T171248Z">
+        <seg>Projekt jest pusty lub nie zawiera żadnych plików rozpoznawanych przez OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2108,8 +2108,8 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       <tuv lang="EN">
         <seg>Warning</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171249Z" creationid="mademoiselleqwerty" creationdate="20220405T171249Z">
-        <seg>Warning</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T090000Z" creationid="mademoiselleqwerty" creationdate="20220405T171249Z">
+        <seg>Ostrzeżenie</seg>
       </tuv>
     </tu>
     <tu>
