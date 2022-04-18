@@ -1773,12 +1773,8 @@ A Ty padłeś ofiarą jednej z nich</seg>
 - click on Copy Files to Source Folder... in the Project Files window
 - copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T171100Z" creationid="mademoiselleqwerty" creationdate="20220405T171100Z">
-        <seg>To add files to the project you can
-- drag and drop files on this Editor pane
-- use Project &gt; Copy Files to Source Folder...
-- click on Copy Files to Source Folder... in the Project Files window
-- copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T084257Z" creationid="mademoiselleqwerty" creationdate="20220405T171100Z">
+        <seg>Aby dodać pliki do projektu, możesz:</seg>
       </tuv>
     </tu>
     <tu>
