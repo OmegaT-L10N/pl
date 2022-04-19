@@ -112,8 +112,8 @@
       <tuv lang="EN">
         <seg>&amp;Exact search</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220414T190806Z" creationid="mademoiselleqwerty" creationdate="20220414T190806Z">
-        <seg>&amp;Exact search</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T154736Z" creationid="mademoiselleqwerty" creationdate="20220414T190806Z">
+        <seg>Dokładne wy&amp;szukiwanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -2776,8 +2776,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Source Files Folder:</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T134225Z" creationid="werric" creationdate="20220419T105131Z">
-        <seg>Katalog plików źródłowych:</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T154805Z" creationid="werric" creationdate="20220419T105131Z">
+        <seg>Folder plików źródłowych:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3099,8 +3099,8 @@ A Ty padłeś ofiarą jednej z nich</seg>
       <tuv lang="EN">
         <seg>Translated Files Folder:</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T134233Z" creationid="werric" creationdate="20220419T105534Z">
-        <seg>Katalog plików docelowych:</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T154812Z" creationid="werric" creationdate="20220419T105534Z">
+        <seg>Folder plików docelowych:</seg>
       </tuv>
     </tu>
     <tu>
