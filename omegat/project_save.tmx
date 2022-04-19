@@ -1210,8 +1210,8 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>File {0}: {1}</seg>
       </tuv>
-      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092832Z" creationid="GKarpowicz" creationdate="20220406T092832Z">
-        <seg>Plik{0}: {1}</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T103614Z" creationid="GKarpowicz" creationdate="20220406T092832Z">
+        <seg>Plik {0}: {1}</seg>
       </tuv>
     </tu>
     <tu>
