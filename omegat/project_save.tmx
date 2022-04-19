@@ -2909,6 +2909,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The writeable glossary file must be inside the glossary folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T152931Z" creationid="werric" creationdate="20220419T152931Z">
+        <seg>Zapisywalny plik glosariusza musi znajdować się w katalogu glosariuszy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These three are certain:
 Death, taxes, and page not found
 You, victim of one</seg>
@@ -3078,6 +3086,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T134415Z" creationid="werric" creationdate="20220419T110631Z">
         <seg>Katalog pamięci tłumaczeniowych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memory files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T153617Z" creationid="werric" creationdate="20220419T153617Z">
+        <seg>Podany folder plików pamięci tłumaczeniowej nie istnieje!</seg>
       </tuv>
     </tu>
     <tu>
