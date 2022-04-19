@@ -660,6 +660,22 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Brows&amp;e</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T122838Z" creationid="werric" creationdate="20220419T122827Z">
+        <seg>Prze&amp;glądaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T122823Z" creationid="werric" creationdate="20220419T122823Z">
+        <seg>Przeglądaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222142Z" creationid="mat_staszak" creationdate="20220411T222142Z">
@@ -2486,6 +2502,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source Files Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T122853Z" creationid="werric" creationdate="20220419T122853Z">
+        <seg>Folder plików źródłowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source Files Folder:</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T105131Z" creationid="werric" creationdate="20220419T105131Z">
@@ -2740,6 +2764,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220415T115622Z" creationid="ewawoj" creationdate="20220415T115622Z">
         <seg>Wzór nazwy pliku docelowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated Files Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T123014Z" creationid="werric" creationdate="20220419T123014Z">
+        <seg>Folder plików docelowych</seg>
       </tuv>
     </tu>
     <tu>
