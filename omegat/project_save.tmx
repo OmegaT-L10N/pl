@@ -1160,6 +1160,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Post-processing Command (Disabled):</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T114716Z" creationid="werric" creationdate="20220419T114716Z">
+        <seg>Nieaktywne polecenie zewnętrznego przetwarzania końcowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Post-processing Command:</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T114219Z" creationid="werric" creationdate="20220419T114219Z">
