@@ -528,6 +528,14 @@ Znakowi "?" odpowiada dokładnie jeden znak ("biega*" odpowiada "biegam", "biega
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T115022Z" creationid="werric" creationdate="20220419T115022Z">
+        <seg>&lt;html&gt; Zewnętrzne polecenia dla projektu są wyłączone i nie będą wykonywane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220417T133142Z" creationid="mademoiselleqwerty" creationdate="20220417T133142Z">
