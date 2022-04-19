@@ -1457,6 +1457,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Git</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T133638Z" creationid="werric" creationdate="20220419T133638Z">
+        <seg>Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T225947Z" creationid="mat_staszak" creationdate="20220411T225947Z">
@@ -1493,6 +1501,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220415T104820Z" creationid="mat_staszak" creationdate="20220415T104820Z">
         <seg>Grupa {0} nie istnieje w szukanej frazie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTTP(S)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T133909Z" creationid="werric" creationdate="20220419T133909Z">
+        <seg>HTTP(S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2742,6 +2758,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subversion</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T133853Z" creationid="werric" creationdate="20220419T133853Z">
+        <seg>Subversion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>T&amp;Ms</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222536Z" creationid="mat_staszak" creationdate="20220411T222536Z">
@@ -2848,6 +2872,14 @@ But others await</seg>
         <seg>Strona pomocy, której szukasz
 Znajduje się poza zasięgiem
 Ale inne już na Ciebie czekają</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The source file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T133943Z" creationid="werric" creationdate="20220419T133943Z">
+        <seg>[fuzzy]Podany język pliku źródłowego jest nieprawidłowy!</seg>
       </tuv>
     </tu>
     <tu>
