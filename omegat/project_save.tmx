@@ -1041,6 +1041,14 @@ Tej jedynej nie ma!</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Empty repository URL in the mapping</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T133629Z" creationid="werric" creationdate="20220419T133629Z">
+        <seg>Pusty adres URL repozytorium w mapowaniu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T121330Z" creationid="werric" creationdate="20220419T121330Z">
