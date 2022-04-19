@@ -1160,6 +1160,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Post-processing Command:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T114219Z" creationid="werric" creationdate="20220419T114219Z">
+        <seg>Polecenie zewnętrznego przetwarzania końcowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External command completed.</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085922Z" creationid="GKarpowicz" creationdate="20220406T085922Z">
@@ -2151,6 +2159,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091645Z" creationid="GKarpowicz" creationdate="20220406T091645Z">
         <seg>Pozostało:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove Ta&amp;gs</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T113452Z" creationid="werric" creationdate="20220419T113452Z">
+        <seg>Usuń znaczniki</seg>
       </tuv>
     </tu>
     <tu>
