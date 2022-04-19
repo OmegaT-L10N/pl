@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Target Language Tokenizer:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T112121Z" creationid="werric" creationdate="20220419T112121Z">
+        <seg>Tokenizacja języka docelowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Tools</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102639Z" creationid="mademoiselleqwerty" creationdate="20220418T102639Z">
