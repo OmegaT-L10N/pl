@@ -1491,8 +1491,8 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220412T175652Z" creationid="mademoiselleqwerty" creationdate="20220412T175652Z">
-        <seg>Glossary files folder entered does not exist!</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T152543Z" creationid="mademoiselleqwerty" creationdate="20220412T175652Z">
+        <seg>Podany katalog glosariuszy nie istnieje!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2718,6 +2718,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T152250Z" creationid="werric" creationdate="20220419T152250Z">
+        <seg>Podany katalog plików źródłowych nie istnieje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source language: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T224915Z" creationid="ewawoj" creationdate="20220411T224915Z">
@@ -2893,6 +2901,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The translated file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T152218Z" creationid="werric" creationdate="20220419T152218Z">
+        <seg>Kod dla języka docelowego jest nieprawidłowy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These three are certain:
 Death, taxes, and page not found
 You, victim of one</seg>
@@ -3030,6 +3046,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T232719Z" creationid="ewawoj" creationdate="20220411T232719Z">
         <seg>Ścieżka tłumaczonego pliku nie może być taka sama jak ścieżka pliku źródłowego {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T152303Z" creationid="werric" creationdate="20220419T152303Z">
+        <seg>Podany katalog plików docelowych nie istnieje!</seg>
       </tuv>
     </tu>
     <tu>
