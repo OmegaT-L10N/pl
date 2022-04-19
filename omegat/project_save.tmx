@@ -2963,6 +2963,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to download team project!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T125710Z" creationid="werric" creationdate="20220419T125710Z">
+        <seg>Nie można pobrać projektu grupowego!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230430Z" creationid="mat_staszak" creationdate="20220411T230430Z">
