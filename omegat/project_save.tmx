@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T121339Z" creationid="werric" creationdate="20220419T121339Z">
+        <seg>Przeglądaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Clear Menu</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T153151Z" creationid="mademoiselleqwerty" creationdate="20220418T091026Z">
@@ -912,6 +920,15 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220405T172608Z" creationid="werric" creationdate="20220405T164415Z">
         <seg>Segmentuj na poziomie zdań.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>&lt;0406&gt; nie jestem pewna tego tłumaczenia</note>
+      <tuv lang="EN">
+        <seg>E&amp;xclusions...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T122258Z" creationid="werric" creationdate="20220419T122258Z">
+        <seg>Wyłączenie</seg>
       </tuv>
     </tu>
     <tu>
