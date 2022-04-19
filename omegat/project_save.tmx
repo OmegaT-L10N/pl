@@ -2955,6 +2955,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to convert project!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T125406Z" creationid="werric" creationdate="20220419T125406Z">
+        <seg>Nie można przekonwertować projektu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230430Z" creationid="mat_staszak" creationdate="20220411T230430Z">
@@ -2975,6 +2983,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T223338Z" creationid="ewawoj" creationdate="20220411T223338Z">
         <seg>Nie można odczytać pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to read project file!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T125320Z" creationid="werric" creationdate="20220419T125320Z">
+        <seg>Nie można odczytać pliku projektu!</seg>
       </tuv>
     </tu>
     <tu>
