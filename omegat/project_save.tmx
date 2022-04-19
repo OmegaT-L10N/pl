@@ -2436,6 +2436,22 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repository {0} is already present</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T131655Z" creationid="werric" creationdate="20220419T131655Z">
+        <seg>Repozytorium {0} już istnieje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository {0} unknown</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T133353Z" creationid="werric" creationdate="20220419T133353Z">
+        <seg>Repozytorium {0} jest nieznane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T101832Z" creationid="mademoiselleqwerty" creationdate="20220418T101832Z">
