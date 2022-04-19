@@ -884,6 +884,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionary Files Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T123638Z" creationid="werric" creationdate="20220419T123638Z">
+        <seg>Folder plików słowników</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionary Folder:</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T112137Z" creationid="werric" creationdate="20220419T112137Z">
@@ -1413,6 +1421,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T225947Z" creationid="mat_staszak" creationdate="20220411T225947Z">
         <seg>Glosariusz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary Files Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T123024Z" creationid="werric" creationdate="20220419T123024Z">
+        <seg>Folder plików glosariuszy</seg>
       </tuv>
     </tu>
     <tu>
@@ -2813,6 +2829,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T164754Z" creationid="GKarpowicz" creationdate="20220405T164445Z">
         <seg>Przetłumaczone segmenty niepowtarzające się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T123102Z" creationid="werric" creationdate="20220419T123102Z">
+        <seg>Folder plików pamięci tłumaczeniowej</seg>
       </tuv>
     </tu>
     <tu>
