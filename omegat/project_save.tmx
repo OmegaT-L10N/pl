@@ -1249,6 +1249,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Search...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T124020Z" creationid="werric" creationdate="20220419T124020Z">
+        <seg>Wyszukiwanie zewnętrzne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External command completed.</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085922Z" creationid="GKarpowicz" creationdate="20220406T085922Z">
@@ -2506,6 +2514,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T232209Z" creationid="ewawoj" creationdate="20220411T232209Z">
         <seg>Pominięcie wcześniej pobranego rozszerzenia z klasy '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some project folders seem to have been moved.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T124232Z" creationid="werric" creationdate="20220419T124232Z">
+        <seg>Niektóre z folderów projektu mogły zostać przeniesione.</seg>
       </tuv>
     </tu>
     <tu>
