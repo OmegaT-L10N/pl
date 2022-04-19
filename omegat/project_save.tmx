@@ -2072,6 +2072,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T124501Z" creationid="werric" creationdate="20220419T124501Z">
+        <seg>[fuzzy]Wybierz język swoich plików źródłowych i język, na który chcesz tłumaczyć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please type or paste the URL of the mediawiki page</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T091529Z" creationid="mademoiselleqwerty" creationdate="20220418T091529Z">
@@ -2520,8 +2528,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T124232Z" creationid="werric" creationdate="20220419T124232Z">
-        <seg>Niektóre z folderów projektu mogły zostać przeniesione.</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T124259Z" creationid="werric" creationdate="20220419T124232Z">
+        <seg>Niektóre z katalogów projektu mogły zostać przeniesione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3213,6 +3221,14 @@ Twoja strona odeszła wraz z nimi</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224517Z" creationid="mat_staszak" creationdate="20220411T224517Z">
         <seg>Wprowadzisz zmianę w  {0}  segmencie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T124409Z" creationid="werric" creationdate="20220419T124409Z">
+        <seg>Należy wskazać ich nowe położenie lub odtworzyć je.</seg>
       </tuv>
     </tu>
     <tu>
