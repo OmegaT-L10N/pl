@@ -546,8 +546,8 @@ Znakowi "?" odpowiada dokładnie jeden znak ("biega*" odpowiada "biegam", "biega
       <tuv lang="EN">
         <seg>Add</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220417T133142Z" creationid="mademoiselleqwerty" creationdate="20220417T133142Z">
-        <seg>Add</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T130132Z" creationid="mademoiselleqwerty" creationdate="20220417T133142Z">
+        <seg>Dodaj</seg>
       </tuv>
     </tu>
     <tu>
@@ -2300,6 +2300,22 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote Repositories</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T130247Z" creationid="werric" creationdate="20220419T130247Z">
+        <seg>Zdalne repozytoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T130137Z" creationid="werric" creationdate="20220419T130137Z">
+        <seg>Usuń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T113452Z" creationid="werric" creationdate="20220419T113452Z">
@@ -2931,8 +2947,8 @@ A Ty padłeś ofiarą jednej z nich</seg>
       <tuv lang="EN">
         <seg>Type</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220414T190757Z" creationid="mademoiselleqwerty" creationdate="20220414T190757Z">
-        <seg>Type</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T130302Z" creationid="mademoiselleqwerty" creationdate="20220414T190757Z">
+        <seg>Typ</seg>
       </tuv>
     </tu>
     <tu>
