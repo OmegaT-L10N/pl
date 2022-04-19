@@ -974,8 +974,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>E&amp;nable Sentence-level Segmenting</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220405T172608Z" creationid="werric" creationdate="20220405T164415Z">
-        <seg>Segmentuj na poziomie zdań.</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T134038Z" creationid="werric" creationdate="20220405T164415Z">
+        <seg>Segmentuj na poziomie &amp;zdań.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2059,8 +2059,8 @@ Odeszła do raju</seg>
       <tuv lang="EN">
         <seg>Open Project</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T104727Z" creationid="werric" creationdate="20220419T104727Z">
-        <seg>[Otwórz projekt</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T134211Z" creationid="werric" creationdate="20220419T104727Z">
+        <seg>Otwórz projekt</seg>
       </tuv>
     </tu>
     <tu>
@@ -2704,8 +2704,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Source Files Folder:</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T105131Z" creationid="werric" creationdate="20220419T105131Z">
-        <seg>Folder plików źródłowych:</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T134225Z" creationid="werric" creationdate="20220419T105131Z">
+        <seg>Katalog plików źródłowych:</seg>
       </tuv>
     </tu>
     <tu>
