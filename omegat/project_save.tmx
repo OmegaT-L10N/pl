@@ -1800,6 +1800,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T104727Z" creationid="werric" creationdate="20220419T104727Z">
+        <seg>[Otwórz projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open Recent Pro&amp;ject</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T090919Z" creationid="mademoiselleqwerty" creationdate="20220418T090919Z">
@@ -2345,6 +2353,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220415T115316Z" creationid="ewawoj" creationdate="20220415T115316Z">
         <seg>Wzór nazwy pliku źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Files Folder:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T105131Z" creationid="werric" creationdate="20220419T105131Z">
+        <seg>Folder plików źródłowych:</seg>
       </tuv>
     </tu>
     <tu>
