@@ -1288,6 +1288,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary Folder:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T105718Z" creationid="werric" creationdate="20220419T105718Z">
+        <seg>Folder glosariuszy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220412T175652Z" creationid="mademoiselleqwerty" creationdate="20220412T175652Z">
