@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source Files Language:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T110847Z" creationid="werric" creationdate="20220419T110847Z">
+        <seg>Język plików źródłowych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Statistics</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T103107Z" creationid="mademoiselleqwerty" creationdate="20220418T103107Z">
@@ -2660,6 +2668,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T164754Z" creationid="GKarpowicz" creationdate="20220405T164445Z">
         <seg>Przetłumaczone segmenty niepowtarzające się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation Memory Folder:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T110711Z" creationid="werric" creationdate="20220419T110631Z">
+        <seg>Folder pamięci tłumaczeniowych:</seg>
       </tuv>
     </tu>
     <tu>
