@@ -1565,6 +1565,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include Pattern</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T131246Z" creationid="werric" creationdate="20220419T131246Z">
+        <seg>Dołącz wzorzec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Individual File Statistics:</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092552Z" creationid="GKarpowicz" creationdate="20220406T091735Z">
