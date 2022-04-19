@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source Language Tokenizer:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T111932Z" creationid="werric" creationdate="20220419T111932Z">
+        <seg>Tokenizacja języka źródłowego:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Statistics</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T103107Z" creationid="mademoiselleqwerty" creationdate="20220418T103107Z">
@@ -394,6 +402,14 @@
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222832Z" creationid="mat_staszak" creationdate="20220411T222832Z">
         <seg>Przetłumaczone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Translated Files Language:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T110859Z" creationid="werric" creationdate="20220419T110859Z">
+        <seg>Język plików docelowych:</seg>
       </tuv>
     </tu>
     <tu>
