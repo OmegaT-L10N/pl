@@ -2074,8 +2074,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T124501Z" creationid="werric" creationdate="20220419T124501Z">
-        <seg>[fuzzy]Wybierz język swoich plików źródłowych i język, na który chcesz tłumaczyć.</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T124801Z" creationid="werric" creationdate="20220419T124501Z">
+        <seg>Wybierz język swoich plików źródłowych i język, na który chcesz je tłumaczyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3227,8 +3227,8 @@ Twoja strona odeszła wraz z nimi</seg>
       <tuv lang="EN">
         <seg>You should specify their new location or recreate them.</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T124409Z" creationid="werric" creationdate="20220419T124409Z">
-        <seg>Należy wskazać ich nowe położenie lub odtworzyć je.</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T124744Z" creationid="werric" creationdate="20220419T124409Z">
+        <seg>Wskaż ich nowe położenie lub odtwórz je.</seg>
       </tuv>
     </tu>
     <tu>
