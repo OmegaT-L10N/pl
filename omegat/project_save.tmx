@@ -1523,8 +1523,8 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T152543Z" creationid="mademoiselleqwerty" creationdate="20220412T175652Z">
-        <seg>Podany katalog glosariuszy nie istnieje!</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T155130Z" creationid="mademoiselleqwerty" creationdate="20220412T175652Z">
+        <seg>Podany folder glosariuszy nie istnieje!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2792,8 +2792,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T152250Z" creationid="werric" creationdate="20220419T152250Z">
-        <seg>Podany katalog plików źródłowych nie istnieje!</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T155117Z" creationid="werric" creationdate="20220419T152250Z">
+        <seg>Podany folder plików źródłowych nie istnieje!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3132,8 +3132,8 @@ A Ty padłeś ofiarą jednej z nich</seg>
       <tuv lang="EN">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T152303Z" creationid="werric" creationdate="20220419T152303Z">
-        <seg>Podany katalog plików docelowych nie istnieje!</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T155124Z" creationid="werric" creationdate="20220419T152303Z">
+        <seg>Podany folder plików docelowych nie istnieje!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3540,8 +3540,8 @@ Twoja strona odeszła wraz z nimi</seg>
       <tuv lang="EN">
         <seg>Writeable glossary file folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T152707Z" creationid="werric" creationdate="20220419T152547Z">
-        <seg>Podany katalog zapisywalnych glosariuszy nie istnieje!</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T155158Z" creationid="werric" creationdate="20220419T152547Z">
+        <seg>Podany folder zapisywalnych glosariuszy nie istnieje!</seg>
       </tuv>
     </tu>
     <tu>
