@@ -602,8 +602,8 @@ Znakowi "?" odpowiada dokładnie jeden znak ("biega*" odpowiada "biegam", "biega
       <tuv lang="EN">
         <seg>B&amp;rowse</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T122319Z" creationid="werric" creationdate="20220419T122319Z">
-        <seg>Przeglądaj</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T122814Z" creationid="werric" creationdate="20220419T122319Z">
+        <seg>Prz&amp;eglądaj</seg>
       </tuv>
     </tu>
     <tu>
@@ -648,6 +648,14 @@ Buy another drink</seg>
         <seg>A barman rzekł:
 zaiste, nie ma tu synu strony dla ciebie...
 Inny wybierz napitek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bro&amp;wse</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T122520Z" creationid="werric" creationdate="20220419T122520Z">
+        <seg>Prz&amp;eglądaj</seg>
       </tuv>
     </tu>
     <tu>
