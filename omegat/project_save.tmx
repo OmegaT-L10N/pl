@@ -2065,6 +2065,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT does not have read and write permissions to this folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T154037Z" creationid="werric" creationdate="20220419T154037Z">
+        <seg>OmegaT nie posiada uprawnień do odczytu i zapisu tego folderu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T090530Z" creationid="mademoiselleqwerty" creationdate="20220405T171250Z">
@@ -2484,6 +2492,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T154448Z" creationid="werric" creationdate="20220419T154448Z">
+        <seg>Zamień na:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repository</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T130818Z" creationid="werric" creationdate="20220419T130818Z">
@@ -2562,6 +2578,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T094816Z" creationid="mademoiselleqwerty" creationdate="20220405T172034Z">
         <seg>Szukaj i zastąp...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search for:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T154051Z" creationid="werric" creationdate="20220419T154051Z">
+        <seg>Wyszukaj:</seg>
       </tuv>
     </tu>
     <tu>
