@@ -764,6 +764,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create New Project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T104720Z" creationid="werric" creationdate="20220419T104720Z">
+        <seg>Utwórz nowy projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Created by: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T224517Z" creationid="ewawoj" creationdate="20220411T224517Z">
