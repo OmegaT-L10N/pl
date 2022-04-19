@@ -886,8 +886,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Dictionary Files Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T123638Z" creationid="werric" creationdate="20220419T123638Z">
-        <seg>Folder plików słowników</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T123747Z" creationid="werric" creationdate="20220419T123638Z">
+        <seg>Folder plików słownika</seg>
       </tuv>
     </tu>
     <tu>
@@ -2308,6 +2308,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repository Mapping...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T123956Z" creationid="werric" creationdate="20220419T123956Z">
+        <seg>Mapowanie repozytorium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T101832Z" creationid="mademoiselleqwerty" creationdate="20220418T101832Z">
@@ -3165,6 +3173,14 @@ Twoja strona odeszła wraz z nimi</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091600Z" creationid="GKarpowicz" creationdate="20220406T091600Z">
         <seg>Wyrazów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writeable Glossary File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T123759Z" creationid="werric" creationdate="20220419T123759Z">
+        <seg>Zapisywalny plik glosariusza </seg>
       </tuv>
     </tu>
     <tu>
