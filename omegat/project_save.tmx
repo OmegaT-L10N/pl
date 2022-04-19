@@ -2615,6 +2615,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated Files Folder:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T105534Z" creationid="werric" creationdate="20220419T105534Z">
+        <seg>Folder plików docelowych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated document created</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084915Z" creationid="GKarpowicz" creationdate="20220406T084915Z">
