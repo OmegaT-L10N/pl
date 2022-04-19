@@ -176,8 +176,8 @@
       <tuv lang="EN">
         <seg>&amp;Make the segmentation rules project specific</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T104445Z" creationid="werric" creationdate="20220419T104445Z">
-        <seg>Zastosuj konkretne zasady segmentacji do projektu </seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T134348Z" creationid="werric" creationdate="20220419T104445Z">
+        <seg>Zastosuj konkretne &amp;zasady segmentacji do projektu </seg>
       </tuv>
     </tu>
     <tu>
@@ -1387,8 +1387,8 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>File locations</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220405T172717Z" creationid="werric" creationdate="20220405T172717Z">
-        <seg>Lokalizacja folderów</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T134317Z" creationid="werric" creationdate="20220405T172717Z">
+        <seg>Lokalizacja plików</seg>
       </tuv>
     </tu>
     <tu>
@@ -1483,8 +1483,8 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>Glossary Folder:</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T105718Z" creationid="werric" creationdate="20220419T105718Z">
-        <seg>Folder glosariuszy:</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T134244Z" creationid="werric" creationdate="20220419T105718Z">
+        <seg>Katalog glosariuszy:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2994,8 +2994,8 @@ A Ty padłeś ofiarą jednej z nich</seg>
       <tuv lang="EN">
         <seg>Translated Files Folder:</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T105534Z" creationid="werric" creationdate="20220419T105534Z">
-        <seg>Folder plików docelowych:</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T134233Z" creationid="werric" creationdate="20220419T105534Z">
+        <seg>Katalog plików docelowych:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3043,8 +3043,8 @@ A Ty padłeś ofiarą jednej z nich</seg>
       <tuv lang="EN">
         <seg>Translation Memory Folder:</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T110711Z" creationid="werric" creationdate="20220419T110631Z">
-        <seg>Folder pamięci tłumaczeniowych:</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T134415Z" creationid="werric" creationdate="20220419T110631Z">
+        <seg>Katalog pamięci tłumaczeniowych:</seg>
       </tuv>
     </tu>
     <tu>
