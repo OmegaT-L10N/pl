@@ -40,8 +40,8 @@
       <tuv lang="EN">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T113406Z" creationid="werric" creationdate="20220419T113406Z">
-        <seg>Automatyczna propagacja tłumaczeń</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T134607Z" creationid="werric" creationdate="20220419T113406Z">
+        <seg>Automatyczna propagacja tłu&amp;maczeń</seg>
       </tuv>
     </tu>
     <tu>
@@ -56,8 +56,8 @@
       <tuv lang="EN">
         <seg>&amp;Browse</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T121339Z" creationid="werric" creationdate="20220419T121339Z">
-        <seg>Przeglądaj</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T134640Z" creationid="werric" creationdate="20220419T121339Z">
+        <seg>&amp;Przeglądaj</seg>
       </tuv>
     </tu>
     <tu>
@@ -902,16 +902,16 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Dictionary Files Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T123747Z" creationid="werric" creationdate="20220419T123638Z">
-        <seg>Folder plików słownika</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T134736Z" creationid="werric" creationdate="20220419T123638Z">
+        <seg>Katalog plików słownika</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Dictionary Folder:</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T112137Z" creationid="werric" creationdate="20220419T112137Z">
-        <seg>Folder słowników:</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T134552Z" creationid="werric" creationdate="20220419T112137Z">
+        <seg>Katalog słowników:</seg>
       </tuv>
     </tu>
     <tu>
@@ -983,8 +983,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>E&amp;xclusions...</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T122258Z" creationid="werric" creationdate="20220419T122258Z">
-        <seg>Wyłączenie</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T134653Z" creationid="werric" creationdate="20220419T122258Z">
+        <seg>Wy&amp;łączenie</seg>
       </tuv>
     </tu>
     <tu>
@@ -1283,8 +1283,8 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>External Search...</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T124020Z" creationid="werric" creationdate="20220419T124020Z">
-        <seg>Wyszukiwanie zewnętrzne</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T134758Z" creationid="werric" creationdate="20220419T124020Z">
+        <seg>Wyszukiwanie zewnętrzne...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1475,8 +1475,8 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>Glossary Files Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T123024Z" creationid="werric" creationdate="20220419T123024Z">
-        <seg>Folder plików glosariuszy</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T134717Z" creationid="werric" creationdate="20220419T123024Z">
+        <seg>Katalog plików glosariuszy</seg>
       </tuv>
     </tu>
     <tu>
@@ -2390,8 +2390,8 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       <tuv lang="EN">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T113452Z" creationid="werric" creationdate="20220419T113452Z">
-        <seg>Usuń znaczniki</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T134620Z" creationid="werric" creationdate="20220419T113452Z">
+        <seg>U&amp;suń znaczniki</seg>
       </tuv>
     </tu>
     <tu>
@@ -2454,8 +2454,8 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       <tuv lang="EN">
         <seg>Repository Mapping...</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T123956Z" creationid="werric" creationdate="20220419T123956Z">
-        <seg>Mapowanie repozytorium</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T134804Z" creationid="werric" creationdate="20220419T123956Z">
+        <seg>Mapowanie repozytorium...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2696,8 +2696,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Source Files Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T122853Z" creationid="werric" creationdate="20220419T122853Z">
-        <seg>Folder plików źródłowych</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T134704Z" creationid="werric" creationdate="20220419T122853Z">
+        <seg>Katalog plików źródłowych</seg>
       </tuv>
     </tu>
     <tu>
@@ -2986,8 +2986,8 @@ A Ty padłeś ofiarą jednej z nich</seg>
       <tuv lang="EN">
         <seg>Translated Files Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T123014Z" creationid="werric" creationdate="20220419T123014Z">
-        <seg>Folder plików docelowych</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T134710Z" creationid="werric" creationdate="20220419T123014Z">
+        <seg>Katalog plików docelowych</seg>
       </tuv>
     </tu>
     <tu>
@@ -3035,8 +3035,8 @@ A Ty padłeś ofiarą jednej z nich</seg>
       <tuv lang="EN">
         <seg>Translation Memory Files Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T123102Z" creationid="werric" creationdate="20220419T123102Z">
-        <seg>Folder plików pamięci tłumaczeniowej</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T134728Z" creationid="werric" creationdate="20220419T123102Z">
+        <seg>Katalog plików pamięci tłumaczeniowej</seg>
       </tuv>
     </tu>
     <tu>
