@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Auto-propagation of Translations</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T113406Z" creationid="werric" creationdate="20220419T113406Z">
+        <seg>Automatyczna propagacja tłumaczeń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back in History</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102500Z" creationid="mademoiselleqwerty" creationdate="20220418T102500Z">
@@ -824,6 +832,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220405T172714Z" creationid="mademoiselleqwerty" creationdate="20220405T172714Z">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary Folder:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T112137Z" creationid="werric" creationdate="20220419T112137Z">
+        <seg>Folder słowników:</seg>
       </tuv>
     </tu>
     <tu>
