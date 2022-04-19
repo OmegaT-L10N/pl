@@ -968,6 +968,14 @@ Tej jedynej nie ma!</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T121330Z" creationid="werric" creationdate="20220419T121330Z">
+        <seg>Aktywuj je w &lt;b&gt; Preferencje&gt; Zapisz i wykonaj...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T232944Z" creationid="ewawoj" creationdate="20220411T232944Z">
