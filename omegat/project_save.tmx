@@ -2670,6 +2670,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Team Mode Repository Mapping</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T130119Z" creationid="werric" creationdate="20220419T130119Z">
+        <seg>Mapowanie repozytoriów w trybie zespołowym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text Replace</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224428Z" creationid="mat_staszak" creationdate="20220411T224428Z">
