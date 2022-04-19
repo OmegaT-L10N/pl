@@ -764,6 +764,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose MED project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T125006Z" creationid="werric" creationdate="20220419T125006Z">
+        <seg>Wybierz projekt MED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Column Index must be equal to 1</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T233018Z" creationid="ewawoj" creationdate="20220411T233018Z">
@@ -855,6 +863,14 @@ Inny wybierz napitek.</seg>
         <seg>Create New Project</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T104720Z" creationid="werric" creationdate="20220419T104720Z">
+        <seg>Utwórz nowy projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a New Project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T124947Z" creationid="werric" creationdate="20220419T124947Z">
         <seg>Utwórz nowy projekt</seg>
       </tuv>
     </tu>
@@ -1477,6 +1493,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you may also specify custom location of project folders.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T124941Z" creationid="werric" creationdate="20220419T124838Z">
+        <seg>Możesz tu również określić położenie katalogów projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hide Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221736Z" creationid="mat_staszak" creationdate="20220411T221736Z">
@@ -1937,6 +1961,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Project Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T125307Z" creationid="werric" creationdate="20220419T125307Z">
+        <seg>Pliki projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T090530Z" creationid="mademoiselleqwerty" creationdate="20220405T171250Z">
@@ -2074,8 +2106,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T124801Z" creationid="werric" creationdate="20220419T124501Z">
-        <seg>Wybierz język swoich plików źródłowych i język, na który chcesz je tłumaczyć.</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T124854Z" creationid="werric" creationdate="20220419T124501Z">
+        <seg>Wybierz język swoich plików źródłowych i język, na który chcesz je przetłumaczyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3245,6 +3277,14 @@ Twoja strona odeszła wraz z nimi</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220417T133158Z" creationid="mademoiselleqwerty" creationdate="20220405T164557Z">
         <seg>Twój projekt nie zawiera żadnych plików w obsługiwanym formacie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ZIP files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T125015Z" creationid="werric" creationdate="20220419T125015Z">
+        <seg>Pliki ZIP</seg>
       </tuv>
     </tu>
     <tu>
