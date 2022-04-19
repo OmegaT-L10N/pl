@@ -910,16 +910,16 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Dictionary Files Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T134736Z" creationid="werric" creationdate="20220419T123638Z">
-        <seg>Katalog plików słownika</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T154933Z" creationid="werric" creationdate="20220419T123638Z">
+        <seg>Folder plików słownika</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Dictionary Folder:</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T134552Z" creationid="werric" creationdate="20220419T112137Z">
-        <seg>Katalog słowników:</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T154851Z" creationid="werric" creationdate="20220419T112137Z">
+        <seg>Folder słowników:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1507,16 +1507,16 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>Glossary Files Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T134717Z" creationid="werric" creationdate="20220419T123024Z">
-        <seg>Katalog plików glosariuszy</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T154914Z" creationid="werric" creationdate="20220419T123024Z">
+        <seg>Folder plików glosariuszy</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Glossary Folder:</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T134244Z" creationid="werric" creationdate="20220419T105718Z">
-        <seg>Katalog glosariuszy:</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T154818Z" creationid="werric" creationdate="20220419T105718Z">
+        <seg>Folder glosariuszy:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1559,8 +1559,8 @@ Znać jej koniec nadchodzi</seg>
       <tuv lang="EN">
         <seg>Here you may also specify custom location of project folders.</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T124941Z" creationid="werric" creationdate="20220419T124838Z">
-        <seg>Możesz tu również określić położenie katalogów projektu.</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T155041Z" creationid="werric" creationdate="20220419T124838Z">
+        <seg>Możesz tutaj również określić położenie folderów projektu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1799,8 +1799,8 @@ Znać jej koniec nadchodzi</seg>
       <tuv lang="EN">
         <seg>Local File/Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T134844Z" creationid="werric" creationdate="20220419T130849Z">
-        <seg>Lokalny plik/katalog</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T155051Z" creationid="werric" creationdate="20220419T130849Z">
+        <seg>Lokalny plik/folder</seg>
       </tuv>
     </tu>
     <tu>
@@ -2422,8 +2422,8 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       <tuv lang="EN">
         <seg>Remote File/Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T134859Z" creationid="werric" creationdate="20220419T130904Z">
-        <seg>Usuń plik/katalog</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T155110Z" creationid="werric" creationdate="20220419T130904Z">
+        <seg>Usuń plik/folder</seg>
       </tuv>
     </tu>
     <tu>
@@ -2744,8 +2744,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T124259Z" creationid="werric" creationdate="20220419T124232Z">
-        <seg>Niektóre z katalogów projektu mogły zostać przeniesione.</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T154945Z" creationid="werric" creationdate="20220419T124232Z">
+        <seg>Niektóre z folderów projektu mogły zostać przeniesione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2768,8 +2768,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Source Files Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T134704Z" creationid="werric" creationdate="20220419T122853Z">
-        <seg>Katalog plików źródłowych</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T154859Z" creationid="werric" creationdate="20220419T122853Z">
+        <seg>Folder plików źródłowych</seg>
       </tuv>
     </tu>
     <tu>
@@ -3091,8 +3091,8 @@ A Ty padłeś ofiarą jednej z nich</seg>
       <tuv lang="EN">
         <seg>Translated Files Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T134710Z" creationid="werric" creationdate="20220419T123014Z">
-        <seg>Katalog plików docelowych</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T154906Z" creationid="werric" creationdate="20220419T123014Z">
+        <seg>Folder plików docelowych</seg>
       </tuv>
     </tu>
     <tu>
@@ -3148,16 +3148,16 @@ A Ty padłeś ofiarą jednej z nich</seg>
       <tuv lang="EN">
         <seg>Translation Memory Files Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T134728Z" creationid="werric" creationdate="20220419T123102Z">
-        <seg>Katalog plików pamięci tłumaczeniowej</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T154921Z" creationid="werric" creationdate="20220419T123102Z">
+        <seg>Folder plików pamięci tłumaczeniowej</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Translation Memory Folder:</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T134415Z" creationid="werric" creationdate="20220419T110631Z">
-        <seg>Katalog pamięci tłumaczeniowych:</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T154828Z" creationid="werric" creationdate="20220419T110631Z">
+        <seg>Folder pamięci tłumaczeniowych:</seg>
       </tuv>
     </tu>
     <tu>
