@@ -600,6 +600,14 @@ Znakowi "?" odpowiada dokładnie jeden znak ("biega*" odpowiada "biegam", "biega
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>B&amp;rowse</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T122319Z" creationid="werric" creationdate="20220419T122319Z">
+        <seg>Przeglądaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Back to the initial segment on close</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T225247Z" creationid="mat_staszak" creationdate="20220411T225247Z">
