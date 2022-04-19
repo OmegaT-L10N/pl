@@ -1767,8 +1767,8 @@ Znać jej koniec nadchodzi</seg>
       <tuv lang="EN">
         <seg>Local File/Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T130849Z" creationid="werric" creationdate="20220419T130849Z">
-        <seg>Lokalny plik/folder</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T134844Z" creationid="werric" creationdate="20220419T130849Z">
+        <seg>Lokalny plik/katalog</seg>
       </tuv>
     </tu>
     <tu>
@@ -2366,8 +2366,8 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       <tuv lang="EN">
         <seg>Remote File/Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T130904Z" creationid="werric" creationdate="20220419T130904Z">
-        <seg>Usuń plik/folder</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T134859Z" creationid="werric" creationdate="20220419T130904Z">
+        <seg>Usuń plik/katalog</seg>
       </tuv>
     </tu>
     <tu>
@@ -2876,10 +2876,19 @@ Ale inne już na Ciebie czekają</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
+xx or xxx is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T152101Z" creationid="werric" creationdate="20220419T152101Z">
+        <seg>Kod języka powinien być w następującej formie: xx-YY, xxx-YY, xx_YY lub xxx_YY, gdzie xx lub xxx to kod generyczny języka, a YY to kod państwa lub regionu (opcjonalnie).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T133943Z" creationid="werric" creationdate="20220419T133943Z">
-        <seg>[fuzzy]Podany język pliku źródłowego jest nieprawidłowy!</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220419T135038Z" creationid="werric" creationdate="20220419T133943Z">
+        <seg>Podany kod dla języka źródłowego jest nieprawidłowy!</seg>
       </tuv>
     </tu>
     <tu>
