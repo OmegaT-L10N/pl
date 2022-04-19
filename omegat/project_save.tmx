@@ -1217,6 +1217,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclude Pattern</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T131122Z" creationid="werric" creationdate="20220419T131122Z">
+        <seg>Pomiń wzorzec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exclude orphan segments</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T225424Z" creationid="mat_staszak" creationdate="20220411T225424Z">
@@ -1717,6 +1725,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local File/Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T130849Z" creationid="werric" creationdate="20220419T130849Z">
+        <seg>Lokalny plik/folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Location</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223630Z" creationid="mat_staszak" creationdate="20220411T223630Z">
@@ -1729,6 +1745,14 @@ Znać jej koniec nadchodzi</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104542Z" creationid="mademoiselleqwerty" creationdate="20220418T104542Z">
         <seg>Tłumaczenie maszynowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T130657Z" creationid="werric" creationdate="20220419T130657Z">
+        <seg>Mapowanie folderów lokalnych do zdalnych folderów w Repozytoriach</seg>
       </tuv>
     </tu>
     <tu>
@@ -2300,6 +2324,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote File/Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T130904Z" creationid="werric" creationdate="20220419T130904Z">
+        <seg>Usuń plik/folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote Repositories</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T130247Z" creationid="werric" creationdate="20220419T130247Z">
@@ -2368,6 +2400,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T095351Z" creationid="mademoiselleqwerty" creationdate="20220418T095351Z">
         <seg>Zamień używając tłumaczenia maszynowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T130818Z" creationid="werric" creationdate="20220419T130818Z">
+        <seg>Repozytorium</seg>
       </tuv>
     </tu>
     <tu>
@@ -2967,6 +3007,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222854Z" creationid="mat_staszak" creationdate="20220411T222854Z">
         <seg>Nieprzetłumaczone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="PL" changeid="werric" changedate="20220419T130314Z" creationid="werric" creationdate="20220419T130314Z">
+        <seg>Adres URL</seg>
       </tuv>
     </tu>
     <tu>
