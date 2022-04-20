@@ -192,8 +192,8 @@
       <tuv lang="EN">
         <seg>&amp;Match Statistics</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T103123Z" creationid="mademoiselleqwerty" creationdate="20220418T103123Z">
-        <seg>Statystyka dopasowań</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220420T122923Z" creationid="mademoiselleqwerty" creationdate="20220418T103123Z">
+        <seg>Statystyki dopasowań</seg>
       </tuv>
     </tu>
     <tu>
@@ -1863,8 +1863,8 @@ Znać jej koniec nadchodzi</seg>
       <tuv lang="EN">
         <seg>Match Statistics per &amp;File</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T103531Z" creationid="mademoiselleqwerty" creationdate="20220418T103531Z">
-        <seg>Statystyka dopasowań dla pliku </seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220420T122931Z" creationid="mademoiselleqwerty" creationdate="20220418T103531Z">
+        <seg>Statystyki dopasowań dla pliku </seg>
       </tuv>
     </tu>
     <tu>
