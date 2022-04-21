@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220421T224611Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220421T224611Z">
+        <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;In translation</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223104Z" creationid="mat_staszak" creationdate="20220411T223104Z">
@@ -2125,6 +2133,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220421T153635Z" creationid="mademoiselleqwerty" creationdate="20220421T153635Z">
         <seg>Open Source File Location</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Target File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220421T224742Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220421T224742Z">
+        <seg>[fuzzy]Open {0} Target Files</seg>
       </tuv>
     </tu>
     <tu>
