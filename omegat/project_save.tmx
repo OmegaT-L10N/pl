@@ -2121,6 +2121,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Source File Location</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220421T153635Z" creationid="mademoiselleqwerty" creationdate="20220421T153635Z">
+        <seg>Open Source File Location</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open {0} Target Files</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220412T175728Z" creationid="mademoiselleqwerty" creationdate="20220412T175728Z">
