@@ -3081,6 +3081,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Total number of segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220422T194602Z" creationid="mademoiselleqwerty" creationdate="20220422T194602Z">
+        <seg>Total number of segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Total:</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091543Z" creationid="GKarpowicz" creationdate="20220406T091543Z">
