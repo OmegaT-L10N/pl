@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Jump To Segment</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220427T142957Z" creationid="kasiawinciorek" creationdate="20220427T142957Z">
+        <seg>&amp;Przejdź do segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Keyword search</seg>
       </tuv>
       <tuv lang="pl" changeid="werric" changedate="20220419T154530Z" creationid="werric" creationdate="20220419T154530Z">
@@ -354,6 +362,14 @@
       </tuv>
       <tuv lang="pl" changeid="mademoiselleqwerty" changedate="20220418T094414Z" creationid="mademoiselleqwerty" creationdate="20220418T094414Z">
         <seg>Ponów ostatnią czynność</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Refresh</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220427T143005Z" creationid="kasiawinciorek" creationdate="20220427T143005Z">
+        <seg>&amp;Aktualizuj</seg>
       </tuv>
     </tu>
     <tu>
@@ -506,6 +522,14 @@
       </tuv>
       <tuv lang="pl" changeid="mademoiselleqwerty" changedate="20220418T104526Z" creationid="mademoiselleqwerty" creationdate="20220418T104526Z">
         <seg>Segmentacja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show All</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220427T143001Z" creationid="kasiawinciorek" creationdate="20220427T143001Z">
+        <seg>&amp;Pokaż wszystko</seg>
       </tuv>
     </tu>
     <tu>
@@ -1214,6 +1238,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="pl" changeid="mat_staszak" changedate="20220411T222004Z" creationid="mat_staszak" creationdate="20220411T222004Z">
         <seg>Zmieniono po: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Character</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220427T142856Z" creationid="kasiawinciorek" creationdate="20220427T142856Z">
+        <seg>Znak</seg>
       </tuv>
     </tu>
     <tu>
@@ -3000,6 +3032,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220427T142847Z" creationid="kasiawinciorek" creationdate="20220427T142847Z">
+        <seg>Normalny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not a valid XML file!</seg>
       </tuv>
       <tuv lang="pl" changeid="mat_staszak" changedate="20220411T230512Z" creationid="mat_staszak" creationdate="20220411T230512Z">
@@ -3333,6 +3373,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="pl" changeid="ewawoj" changedate="20220411T231905Z" creationid="ewawoj" creationdate="20220411T231905Z">
         <seg>Pomyślnie pobrano rozszerzenie z klasy '{0}' </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Poisson</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220427T142835Z" creationid="kasiawinciorek" creationdate="20220427T142835Z">
+        <seg>Poisson</seg>
       </tuv>
     </tu>
     <tu>
@@ -5129,6 +5177,14 @@ Twoja strona odeszła wraz z nimi</seg>
       </tuv>
       <tuv lang="pl" changeid="ewawoj" changedate="20220415T164646Z" creationid="ewawoj" creationdate="20220415T120803Z">
         <seg>Zasoby systemu Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220427T142853Z" creationid="kasiawinciorek" creationdate="20220427T142853Z">
+        <seg>Wyraz</seg>
       </tuv>
     </tu>
     <tu>
