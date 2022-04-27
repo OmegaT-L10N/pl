@@ -2590,6 +2590,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is used to mark your translations.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="agrze" changedate="20220427T142945Z" creationid="agrze" creationdate="20220427T142945Z">
+        <seg>(fuzzy)Jest ono używane do oznaczenia twoich tłumaczeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
@@ -3341,6 +3349,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="pl" changeid="GKarpowicz" changedate="20220406T084650Z" creationid="GKarpowicz" creationdate="20220406T084429Z">
         <seg>Zapoznaj się z informacjami dotyczącymi możliwości odzyskiwania plików. Prześlij poniższy komunikat producentowi oprogramowania, wraz z opisem, jakie czynności doprowadziły do wystąpienia błędu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter your name/ID.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="agrze" changedate="20220427T142608Z" creationid="agrze" creationdate="20220427T142608Z">
+        <seg>(fuzzy)Podaj swoje imię i nazwisko/ID.</seg>
       </tuv>
     </tu>
     <tu>
