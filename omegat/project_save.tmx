@@ -2623,6 +2623,22 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-unique segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220427T141032Z" creationid="Kurodaizu" creationdate="20220427T141032Z">
+        <seg>Segmenty powtarzające się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-unique segments background</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220427T141105Z" creationid="Kurodaizu" creationdate="20220427T141105Z">
+        <seg>Tło segmentów powtarzających się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not a valid XML file!</seg>
       </tuv>
       <tuv lang="pl" changeid="mat_staszak" changedate="20220411T230512Z" creationid="mat_staszak" creationdate="20220411T230512Z">
