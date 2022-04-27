@@ -907,6 +907,16 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while processing a font changed event:
+{0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220427T142653Z" creationid="jarosz" creationdate="20220427T142653Z">
+        <seg>Wystąpił błąd podczas próby przetworzenia zdarzenia zmieniona czcionka:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while processing a new file event:
 {0}</seg>
       </tuv>
@@ -949,8 +959,8 @@ The current setting is {0}MB;</seg>
         <seg>An error occurred while processing an entry activated event:
 {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="jarosz" changedate="20220427T142603Z" creationid="jarosz" creationdate="20220427T142603Z">
-        <seg>[parcial]Wystąpił błąd podczas próby przetworzenia zdarzenia aktywowano pozycję:
+      <tuv lang="PL" changeid="jarosz" changedate="20220427T142626Z" creationid="jarosz" creationdate="20220427T142603Z">
+        <seg>Wystąpił błąd podczas próby przetworzenia zdarzenia aktywowano pozycję:
 {0}</seg>
       </tuv>
     </tu>
@@ -1781,6 +1791,14 @@ Nikt nie usłyszy twych krzyków.</seg>
       </tuv>
       <tuv lang="PL" changeid="jarosz" changedate="20220427T142037Z" creationid="Marcin J" creationdate="20220427T135255Z">
         <seg>Zdarzenie: start aplikacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: font changed</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220427T142640Z" creationid="jarosz" creationdate="20220427T142640Z">
+        <seg>Zdarzenie: zmieniona czcionka</seg>
       </tuv>
     </tu>
     <tu>
@@ -2762,6 +2780,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No need to save project, because no changes were made</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220427T142729Z" creationid="jarosz" creationdate="20220427T142729Z">
+        <seg>Nie ma potrzeby zapisywania projektu, bo nie wprowadzono żadnych zmian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-GUI mode options:
 	--quiet
 		Reduce output to command line stdout.</seg>
@@ -3167,10 +3193,50 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project closed</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220427T142730Z" creationid="jarosz" creationdate="20220427T142730Z">
+        <seg>[parcial]Projekt zamknięty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project is Empty</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T085808Z" creationid="mademoiselleqwerty" creationdate="20220405T171248Z">
         <seg>Projekt jest pusty lub nie zawiera żadnych plików rozpoznawanych przez OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project loading end</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220427T142717Z" creationid="jarosz" creationdate="20220427T142717Z">
+        <seg>Koniec wczytywania projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project loading start</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220427T142716Z" creationid="jarosz" creationdate="20220427T142716Z">
+        <seg>Start wczytywania projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project saving end</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220427T142722Z" creationid="jarosz" creationdate="20220427T142722Z">
+        <seg>Koniec zapisywania projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project saving start</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220427T142720Z" creationid="jarosz" creationdate="20220427T142720Z">
+        <seg>Start zapisywania projektu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4094,6 +4160,22 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T225658Z" creationid="ewawoj" creationdate="20220411T225658Z">
         <seg>Jednostki te zostały pominięte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This call MUST NOT be in swing thread</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220427T142711Z" creationid="jarosz" creationdate="20220427T142711Z">
+        <seg>To wywołanie NIE MOŻE być w wątku swing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This call MUST be in swing thread</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220427T142705Z" creationid="jarosz" creationdate="20220427T142705Z">
+        <seg>To wywołanie MUSI być w wątku swing</seg>
       </tuv>
     </tu>
     <tu>
