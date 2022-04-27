@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -831,6 +831,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T194824Z" creationid="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" creationdate="20220420T194824Z">
         <seg>Abort: zakończ z błędem, jeśli są jakieś nieprawidłowe tagi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Actions &amp; Settings</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Marcin J" changedate="20220427T134910Z" creationid="Marcin J" creationdate="20220427T134910Z">
+        <seg>[parcial]Akcje &amp; Ustawienia </seg>
       </tuv>
     </tu>
     <tu>
@@ -2066,6 +2074,16 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It was not possible to create the script folder
+inside the configuration folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Marcin J" changedate="20220427T135051Z" creationid="Marcin J" creationdate="20220427T135051Z">
+        <seg>[parcial]Nie było możliwe utworzenie katalogu skryptów
+w katalogu konfiguracji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jar used for plugins: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T231813Z" creationid="ewawoj" creationdate="20220411T231813Z">
@@ -2999,6 +3017,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Restore</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Marcin J" changedate="20220427T134845Z" creationid="Marcin J" creationdate="20220427T134845Z">
+        <seg>[parcial]Przywróć</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T201218Z" creationid="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" creationdate="20220420T201218Z">
@@ -3795,6 +3821,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T232412Z" creationid="ewawoj" creationdate="20220411T232256Z">
         <seg>Nie można zapisać pliku konfiguracyjnego filtrów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Undock</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Marcin J" changedate="20220427T134847Z" creationid="Marcin J" creationdate="20220427T134847Z">
+        <seg>[parcial]Odłącz</seg>
       </tuv>
     </tu>
     <tu>
