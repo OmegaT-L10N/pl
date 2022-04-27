@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -242,6 +242,14 @@
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T154530Z" creationid="werric" creationdate="20220419T154530Z">
         <seg>Wyszukiwanie słów &amp;kluczowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;License</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220427T141844Z" creationid="Aalebazi" creationdate="20220427T141844Z">
+        <seg>&amp;Licencja</seg>
       </tuv>
     </tu>
     <tu>
@@ -1278,8 +1286,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Copyright © 2000-2021 Keith Godfrey, Maxym Mykhalchuk and others</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aalebazi" changedate="20220427T141828Z" creationid="Iza" creationdate="20220427T135127Z">
-        <seg>Copyright © 2000-2021 Keith Godfrey, Maxym Mykhalchuk i inni</seg>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220427T141936Z" creationid="Iza" creationdate="20220427T135127Z">
+        <seg>Prawa autorskie © 2000-2021 Keith Godfrey, Maxym Mykhalchuk i inni</seg>
       </tuv>
     </tu>
     <tu>
@@ -2362,6 +2370,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jmyspell (LGPL License)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220427T142233Z" creationid="Aalebazi" creationdate="20220427T142233Z">
+        <seg>Jmyspell (licencja LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyword searches are not available in the search string.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220415T104142Z" creationid="mat_staszak" creationdate="20220415T104142Z">
@@ -2838,6 +2854,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T090530Z" creationid="mademoiselleqwerty" creationdate="20220405T171250Z">
         <seg>OmegaT automatycznie wybrał opcję „Tak”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is the original work of Keith Godfrey.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220427T142107Z" creationid="Aalebazi" creationdate="20220427T142107Z">
+        <seg>OmegaT jest oryginalnym dziełem Keitha Godfrey'a.</seg>
       </tuv>
     </tu>
     <tu>
