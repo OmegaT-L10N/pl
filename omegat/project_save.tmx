@@ -2292,6 +2292,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Master Password:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="student" changedate="20220427T135810Z" creationid="student" creationdate="20220427T135810Z">
+        <seg>Hasło nadrzędne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="pl" changeid="GKarpowicz" changedate="20220406T092709Z" creationid="GKarpowicz" creationdate="20220406T092709Z">
@@ -3183,6 +3191,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="pl" changeid="mat_staszak" changedate="20220411T231359Z" creationid="mat_staszak" creationdate="20220411T231359Z">
         <seg>Wyszukiwanie zostało nagle zatrzymane!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Secure Store</seg>
+      </tuv>
+      <tuv lang="pl" changeid="student" changedate="20220427T135230Z" creationid="student" creationdate="20220427T135230Z">
+        <seg>Bezpieczne przechowywanie</seg>
       </tuv>
     </tu>
     <tu>
