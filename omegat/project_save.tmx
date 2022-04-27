@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -907,6 +907,16 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while processing a new file event:
+{0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220427T142552Z" creationid="jarosz" creationdate="20220427T142552Z">
+        <seg>Wystąpił błąd podczas próby przetworzenia zdarzenia nowy plik:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while processing a project change event:
 {0}</seg>
       </tuv>
@@ -931,6 +941,16 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="jarosz" changedate="20220427T142123Z" creationid="Marcin J" creationdate="20220427T135255Z">
         <seg>Wystąpił błąd podczas próby przetworzenia zdarzenia start aplikacji:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing an entry activated event:
+{0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220427T142603Z" creationid="jarosz" creationdate="20220427T142603Z">
+        <seg>[parcial]Wystąpił błąd podczas próby przetworzenia zdarzenia aktywowano pozycję:
 {0}</seg>
       </tuv>
     </tu>
@@ -1765,10 +1785,18 @@ Nikt nie usłyszy twych krzyków.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Event: new entry activated</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220427T142601Z" creationid="jarosz" creationdate="20220427T142601Z">
+        <seg>Zdarzenie: aktywowano nową pozycję</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Event: new file activated ({0})</seg>
       </tuv>
-      <tuv lang="PL" changeid="jarosz" changedate="20220427T142147Z" creationid="jarosz" creationdate="20220427T142147Z">
-        <seg>[parcial]Zdarzenie: aktywowano nowy plik ({0})</seg>
+      <tuv lang="PL" changeid="jarosz" changedate="20220427T142544Z" creationid="jarosz" creationdate="20220427T142147Z">
+        <seg>Zdarzenie: aktywowano nowy plik ({0})</seg>
       </tuv>
     </tu>
     <tu>
