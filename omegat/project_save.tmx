@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -894,8 +894,8 @@ The current setting is {0}MB;</seg>
         <seg>An error occurred while processing a project change event:
 {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="Marcin J" changedate="20220427T135255Z" creationid="Marcin J" creationdate="20220427T135255Z">
-        <seg>[parcial]Zdarzenie: zmiana projektu - "{0}"</seg>
+      <tuv lang="PL" changeid="jarosz" changedate="20220427T141852Z" creationid="jarosz" creationdate="20220427T141852Z">
+        <seg>Wystąpił błąd podczas próby przetworzenia zdarzenia zmiana projektu: {0}</seg>
       </tuv>
     </tu>
     <tu>
