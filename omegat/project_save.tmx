@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -900,11 +900,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while processing an application shutdown event:
+{0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220427T142146Z" creationid="jarosz" creationdate="20220427T142146Z">
+        <seg>Wystąpił błąd podczas próby przetworzenia zdarzenia zamknięcie aplikacji:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while processing an application startup event:
 {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="Marcin J" changedate="20220427T135255Z" creationid="Marcin J" creationdate="20220427T135255Z">
-        <seg>[parcial]Zdarzenie: start aplikacji</seg>
+      <tuv lang="PL" changeid="jarosz" changedate="20220427T142123Z" creationid="Marcin J" creationdate="20220427T135255Z">
+        <seg>Wystąpił błąd podczas próby przetworzenia zdarzenia start aplikacji:
+{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1724,17 +1735,24 @@ Nikt nie usłyszy twych krzyków.</seg>
       <tuv lang="EN">
         <seg>Event: application shutdown</seg>
       </tuv>
-      <tuv lang="PL" changeid="Marcin J" changedate="20220427T135255Z" creationid="Marcin J" creationdate="20220427T135255Z">
-        <seg>[parcial]Wystąpił błąd podczas próby przetworzenia zdarzenia start aplikacji:
-{0}</seg>
+      <tuv lang="PL" changeid="jarosz" changedate="20220427T142131Z" creationid="Marcin J" creationdate="20220427T135255Z">
+        <seg>Zdarzenie: zamknięcie aplikacji</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Event: application startup</seg>
       </tuv>
-      <tuv lang="PL" changeid="Marcin J" changedate="20220427T135255Z" creationid="Marcin J" creationdate="20220427T135255Z">
-        <seg>[parcial]Wystąpił błąd podczas próby przetworzenia zdarzenia zmiana projektu:</seg>
+      <tuv lang="PL" changeid="jarosz" changedate="20220427T142037Z" creationid="Marcin J" creationdate="20220427T135255Z">
+        <seg>Zdarzenie: start aplikacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: new file activated ({0})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220427T142147Z" creationid="jarosz" creationdate="20220427T142147Z">
+        <seg>[parcial]Zdarzenie: aktywowano nowy plik ({0})</seg>
       </tuv>
     </tu>
     <tu>
