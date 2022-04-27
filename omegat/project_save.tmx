@@ -2471,6 +2471,22 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modification info</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220427T141130Z" creationid="Kurodaizu" creationdate="20220427T141130Z">
+        <seg>Informacje o zmianach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modification info text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220427T141253Z" creationid="Kurodaizu" creationdate="20220427T141253Z">
+        <seg>Modification info text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Monolingual</seg>
       </tuv>
       <tuv lang="pl" changeid="ewawoj" changedate="20220415T120515Z" creationid="ewawoj" creationdate="20220415T120515Z">
