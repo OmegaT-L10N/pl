@@ -939,6 +939,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred when loading the script: {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Zooola" changedate="20220427T142932Z" creationid="Zooola" creationdate="20220427T142932Z">
+        <seg>Wystąpił błąd podczas ładowania skryptu: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred when saving the TMX.</seg>
       </tuv>
       <tuv lang="pl" changeid="kasiawinciorek" changedate="20220427T142409Z" creationid="kasiawinciorek" creationdate="20220427T142409Z">
@@ -1050,6 +1058,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="pl" changeid="mat_staszak" changedate="20220411T225208Z" creationid="mat_staszak" creationdate="20220411T225208Z">
         <seg>Auto-synchronizacja z edytorem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Available script engines:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Zooola" changedate="20220427T142955Z" creationid="Zooola" creationdate="20220427T142955Z">
+        <seg>Dostępne silniki skryptu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3843,6 +3859,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="pl" changeid="Zooola" changedate="20220427T141646Z" creationid="student" creationdate="20220427T140201Z">
         <seg>Wykonywanie skryptów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scripts Folder:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Zooola" changedate="20220427T143009Z" creationid="Zooola" creationdate="20220427T143009Z">
+        <seg>Katalog skryptów:</seg>
       </tuv>
     </tu>
     <tu>
