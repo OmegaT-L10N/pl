@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2613,8 +2613,8 @@ Odeszła do raju</seg>
       <tuv lang="EN">
         <seg>Mozilla FTL Filter Options</seg>
       </tuv>
-      <tuv lang="PL" changeid="julia" changedate="20220427T135029Z" creationid="julia" creationdate="20220427T135029Z">
-        <seg>Mozilla FTL Filter Options</seg>
+      <tuv lang="PL" changeid="aa bb" changedate="20220427T142024Z" creationid="julia" creationdate="20220427T135029Z">
+        <seg>Opcje filtru Mozilla FTL</seg>
       </tuv>
     </tu>
     <tu>
@@ -3100,6 +3100,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220415T101308Z" creationid="mat_staszak" creationdate="20220415T095543Z">
         <seg>Wyszukiwania są domyślnie prowadzone zarówno w tekście źródłowym jak i docelowym, a także w pamięciach tłumaczeniowych (TM), glosariuszach, notatkach, komentarzach projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220427T141725Z" creationid="aa bb" creationdate="20220427T141725Z">
+        <seg>[coś w rodzaju]Pliki QuarkXPress CopyFlow Gold</seg>
       </tuv>
     </tu>
     <tu>
@@ -3892,6 +3900,14 @@ Zakres zastąpienia tekstu ogranicza się do segmentów docelowych projektu, nie
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220415T165412Z" creationid="ewawoj" creationdate="20220415T165135Z">
         <seg>Filtr Mozilla DTD zgłosił wyjątek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Mozilla FTL filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220427T141652Z" creationid="aa bb" creationdate="20220427T141652Z">
+        <seg>[coś w rodzaju]Filtr Mozilla DTD zgłosił wyjątek</seg>
       </tuv>
     </tu>
     <tu>
