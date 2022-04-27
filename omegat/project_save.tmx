@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Open Script...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Zooola" changedate="20220427T140953Z" creationid="Zooola" creationdate="20220427T140953Z">
+        <seg>Otwieranie skryptu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Open...</seg>
       </tuv>
       <tuv lang="pl" changeid="mademoiselleqwerty" changedate="20220418T153057Z" creationid="mademoiselleqwerty" creationdate="20220418T090820Z">
@@ -3336,8 +3344,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="en">
         <seg>Scripting</seg>
       </tuv>
-      <tuv lang="pl" changeid="student" changedate="20220427T140201Z" creationid="student" creationdate="20220427T140201Z">
-        <seg>Scripting</seg>
+      <tuv lang="pl" changeid="Zooola" changedate="20220427T141006Z" creationid="student" creationdate="20220427T140201Z">
+        <seg>Skrypty</seg>
       </tuv>
     </tu>
     <tu>
