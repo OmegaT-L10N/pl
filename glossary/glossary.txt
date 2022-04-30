@@ -116,3 +116,7 @@ Go To	Przejdź do	Atteindre
 Next Segment	Następny segment	<FR>Segment suivant
 Next Note	Następna notatka	<FR>Note suivante
 Next Untranslated Segment	Następny nieprzetłumaczony segment	<FR>Segment non traduit suivant
+Next Translated Segment	Następny przetłumaczony segment	<FR>Segment traduit suivant
+Previous Segment	Poprzedni segment	<FR>Segment précédent
+Previous Note	Poprzednia notatka	<FR>Note précédente
+Segment Number	Numer segmentu	Segment numéro
