@@ -97,3 +97,8 @@ Insert Tag	Wprowadź znacznik	<FR>Insérer la balise
 Remove translation	Usuń tłumaczenie	<FR>Supprimer la traduction
 Set empty translation	Oznacz tłumaczenie jako puste	<FR>Enregistrer une traduction vide
 Register Identical Translation	Oznacz jako identyczne tłumaczenie	<FR>Enregistrer une traduction identique à la source
+Create Glossary Entry	Wprowadź hasło do glosariusza	<FR>Créer une entrée de glossaire
+Select Match	Wybierz dopasowanie	<FR>Choisir une correspondance
+Select Next Match	Wybierz następne dopasowanie	<FR>Choisir la correspondance suivante
+Select Previous Match	Wybierz poprzednie dopasowanie	<FR>Choisir la correspondance précédente
+Select Match	Wybierz dopasowanie	<FR>Choisir la correspondance
