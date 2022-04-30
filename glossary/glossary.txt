@@ -94,3 +94,6 @@ Export Selection	Eksportuj zaznaczenie	<FR>Exporter la sélection
 Insert Missing Source Tags	Wprowadź brakujący znacznik źródłowy	<FR>Insérer les balises source manquantes
 Insert Next Missing Tag	Wprowadź następny brakujący znacznik	<FR>Insérer la prochaine balise manquante
 Insert Tag	Wprowadź znacznik	<FR>Insérer la balise
+Remove translation	Usuń tłumaczenie	<FR>Supprimer la traduction
+Set empty translation	Oznacz tłumaczenie jako puste	<FR>Enregistrer une traduction vide
+Register Identical Translation	Oznacz jako identyczne tłumaczenie	<FR>Enregistrer une traduction identique à la source
