@@ -72,3 +72,8 @@ Root	Root	Racine
 Dictionaries	Słowniki	Dictionnaires
 Glossaries	Glosariusze	les glossaires
 TMs	Pamięci tłumaczeniowe	<FR>les MT
+Source Files	Pliki źródłowe	<FR>Fichiers source
+Target Files	Pliki docelowe	<FR>Fichiers cible
+Current Source Document	Bieżący dokument źródłowy	<FR>Document source actuel
+Current Target Document	Bieżący dokument docelowy	<FR>Document cible actuel
+Writeable Glossary	Zapisywalny glosariusz	Glossaire en écriture
