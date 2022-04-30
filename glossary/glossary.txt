@@ -162,3 +162,7 @@ Insert Source	Wstaw tekst źródłowy	<FR>Insérer le texte source
 Replace with Source	Zastąp tekstem źródłowym	<FR>Remplacer par la source
 Export Selection	Eksportuj zaznaczenie	<FR>Exporter la sélection
 Select Match	Wybierz dopasowanie	<FR>Choisir une correspondance
+Next Note	Następna notatka	<FR>Note suivante
+Previous Note	Poprzednia notatka	<FR>Note précédente
+Scripting	Skrypty	<FR>Scripts
+Machine Translate	Tłumaczenie maszynowe	<FR>Traduction automatique
