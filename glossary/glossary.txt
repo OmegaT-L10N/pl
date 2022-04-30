@@ -52,3 +52,7 @@ Copy Files to Source Folder	Kopiuj pliki do foldera źródłowego	<FR>Copier des
 Download MediaWiki Page	Pobierz stronę MediaWiki	<FR>Télécharger une page MediaWiki
 Download MediaWiki Page	Pobierz stronę MediaWiki	<FR>Télécharger une page MediaWiki
 Download MediaWiki Page	Pobierz stronę MediaWiki	<FR>Télécharger une page MediaWiki
+Please type or paste the URL of the mediawiki page	Wpisz lub wklej adres URL strony MediaWiki	<FR>Veuillez saisir ou copier l'URL de la page MediaWiki
+Importing Wiki Page Failed	Importowanie strony Wiki nie powiodło się.	<FR>Échec de l'importation de la page de wiki
+File Copy Failed	Kopiowanie plików nie powiodło się.	<FR>La copie de fichiers a échoué
+Reload	Załaduj ponownie	<FR>Recharger
