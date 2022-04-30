@@ -111,3 +111,8 @@ Left-to-Right Mark (LRM U+200E)	Znak od lewej do prawej (LRM U+200E)	<FR>Marque 
 Right-to-Left Mark (RLM U+200F)	Znak od prawej do lewej (RLM U+200F)	<FR>Marque de droite à gauche (RLM U+200F)
 Left-to-Right Embedding (LRE U+202A)	Osadzanie od lewej do prawej (LRE U+202A)	<FR>Début de l'imbrication de gauche à droite (LRE U+202A)
 Right-to-Left Embedding (RLE U+202B)	Osadzanie od prawej do lewej (RLE U+202B)	<FR>Début de l'imbrication de droite à gauche (RLE U+202B)
+Pop Directional Formatting (PDF U+202C)	Formatowanie pop-kierunkowe (PDF U+202C)	<FR>Fin de formatage directionnel (PDF U+202C)
+Go To	Przejdź do	Atteindre
+Next Segment	Następny segment	<FR>Segment suivant
+Next Note	Następna notatka	<FR>Note suivante
+Next Untranslated Segment	Następny nieprzetłumaczony segment	<FR>Segment non traduit suivant
