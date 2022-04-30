@@ -124,3 +124,8 @@ Segment Number	Numer segmentu	<FR>Segment numéro
 Forward in History	Następny segment w historii	<FR>Segment suivant dans l'historique
 Back in History	Poprzedni segment w historii	<FR>Segment précédent dans l'historique
 Source of Selected Match	Źródło wybranego dopasowania	<FR>Source de la correspondance sélectionnée
+Next Unique Segment	Następny unikalny segment	<FR>Segment unique suivant
+Tools	Narzędzia	<FR>Outils
+Check Issues	Wyświetlanie błędów	<FR>Afficher les erreurs
+Check Issues for Current Document	Wyświetlanie błędów dla bieżącego dokumentu	<FR>Afficher les erreurs pour le document actuel
+Statistics	Statystyki	<FR>Statistiques
