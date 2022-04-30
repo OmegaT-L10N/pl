@@ -49,3 +49,6 @@ Open Recent Project	Otwórz ostatni projekt	<FR>Ouvrir un projet récent
 Clear Menu	Wyczyść menu	<FR>Effacer le menu
 Copy Files to Source Folder	Kopiuj pliki do foldera źródłowego	<FR>Copier des fichiers dans le dossier source
 Copy Files to Source Folder	Kopiuj pliki do foldera źródłowego	<FR>Copier des fichiers dans le dossier source
+Download MediaWiki Page	Pobierz stronę MediaWiki	<FR>Télécharger une page MediaWiki
+Download MediaWiki Page	Pobierz stronę MediaWiki	<FR>Télécharger une page MediaWiki
+Download MediaWiki Page	Pobierz stronę MediaWiki	<FR>Télécharger une page MediaWiki
