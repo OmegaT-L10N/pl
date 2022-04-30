@@ -77,3 +77,5 @@ Target Files	Pliki docelowe	<FR>Fichiers cible
 Current Source Document	Bieżący dokument źródłowy	<FR>Document source actuel
 Current Target Document	Bieżący dokument docelowy	<FR>Document cible actuel
 Writeable Glossary	Zapisywalny glosariusz	Glossaire en écriture
+Quit	Zamknij	<FR>Quitter
+Writeable Glossary	Zapisywalny glosariusz	<FR>Glossaire en écriture
