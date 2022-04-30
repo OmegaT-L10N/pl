@@ -144,3 +144,11 @@ Segmentation	Segmentacja	<FR>Segmentation
 Machine Translate	Tłumaczenie maszynowe	<FR>Traduction automatique
 Glossary	Glosariusz	<FR>Glossaires
 Display context description for TBX glossaries	Wyświetl opis kontekstu dla glosariuszy TBX	<FR>Afficher la description du contexte pour les glossaires TBX
+Use terms appearing separately in the source text	Użyj terminów, które pojawiają się oddzielnie w tekście źródłowym	<FR>Utiliser les termes apparaissant séparément dans le texte source
+Use stemming for glossary entries	Użyj lematyzacji dla haseł glosariusza	<FR>Utiliser la lemmatisation pour les entrées de glossaire
+Replace glossary hits when inserting source text	Zastąp hasła glosariusza podczas wstawiania tekstu źródłowego	<FR>Remplacer les entrées de glossaire lors de l'insertion du texte source
+To add files to the project you can - drag and drop files on this Editor pane - use Project > Copy Files to Source Folder... - click on Copy Files to Source Folder... in the Project Files window	Aby dodać pliki do projektu, możesz - przeciągnąć i upuścić pliki w panelu edytora - użyć opcji Projekt > Kopiuj pliki do folderu źródłowego - kliknąć przycisk Kopiuj pliki do folderu źródłowego w oknie Pliki projektu - skopiować pliki do folderu źródłowego projektu za pomocą menedżera plików, a następnie załadować ponownie projekt, korzystając z polecenia Projekt > Załaduj ponownie.	<FR>Pour ajouter des fichiers à votre projet vous pouvez
+- glisser-déposer des fichiers dans ce volet Éditeur
+- utiliser Projet > Copier des fichiers dans le dossier source
+- cliquer sur 'Copier des fichiers dans le dossier source' dans la fenêtre Fichiers du projet
+- copier des fichiers dans le dossier 'source' du projet avec votre gestionnaire de fichier, puis recharger votre projet avec Projet > Recharger.
