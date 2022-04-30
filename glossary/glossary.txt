@@ -152,3 +152,5 @@ To add files to the project you can - drag and drop files on this Editor pane - 
 - utiliser Projet > Copier des fichiers dans le dossier source
 - cliquer sur 'Copier des fichiers dans le dossier source' dans la fenêtre Fichiers du projet
 - copier des fichiers dans le dossier 'source' du projet avec votre gestionnaire de fichier, puis recharger votre projet avec Projet > Recharger.
+Download MediaWiki Page	Pobierz stronę MediaWiki	<FR>Télécharger une page MediaWiki
+Create Current Translated &Document	Utwórz aktualnie tłumaczony dokument	<FR>Créer le document &actuel traduit
