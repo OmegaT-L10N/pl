@@ -56,3 +56,9 @@ Please type or paste the URL of the mediawiki page	Wpisz lub wklej adres URL str
 Importing Wiki Page Failed	Importowanie strony Wiki nie powiodło się.	<FR>Échec de l'importation de la page de wiki
 File Copy Failed	Kopiowanie plików nie powiodło się.	<FR>La copie de fichiers a échoué
 Reload	Załaduj ponownie	<FR>Recharger
+Close	Zamknij	<FR>Fermer
+Commit Source Files	Wyślij pliki źródłowe	<FR>Envoyer les fichiers source
+Commit Target Files	Wyślij pliki docelowe	<FR>Envoyer les fichiers cible
+Save	Zapisz	<FR>Enregistrer
+Create Translated Documents	Utwórz przetłumaczone dokumenty	<FR>Créer les documents traduits
+Create Current Translated Document	Utwórz aktualnie tłumaczony dokument	Créer le document actuel traduit
