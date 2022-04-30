@@ -44,3 +44,8 @@ OmegaT has chosen option 'Yes' automatically.	OmegaT automatycznie wybrał opcj�
 Project	Projekt	<FR>Projet
 New	Nowy	<FR>Nouveau
 Download Team Project	Pobierz projekt zespołowy	<FR>Télécharger projet en équipe
+Open	Otwórz	<FR>Ouvrir
+Open Recent Project	Otwórz ostatni projekt	<FR>Ouvrir un projet récent
+Clear Menu	Wyczyść menu	<FR>Effacer le menu
+Copy Files to Source Folder	Kopiuj pliki do foldera źródłowego	<FR>Copier des fichiers dans le dossier source
+Copy Files to Source Folder	Kopiuj pliki do foldera źródłowego	<FR>Copier des fichiers dans le dossier source
