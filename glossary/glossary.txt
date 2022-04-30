@@ -79,3 +79,9 @@ Current Target Document	Bieżący dokument docelowy	<FR>Document cible actuel
 Writeable Glossary	Zapisywalny glosariusz	Glossaire en écriture
 Quit	Zamknij	<FR>Quitter
 Writeable Glossary	Zapisywalny glosariusz	<FR>Glossaire en écriture
+Restart	Uruchom ponownie	<FR>Redémarer
+Edit	Edycja	<FR>Edition
+Undo Last Action	Cofnij ostatnią czynność	<FR>Annuler la dernière action
+Redo Last Action	Ponów ostatnią czynność	<FR>Rétablir la dernière action
+Search Project	Przeszukaj projekt	<FR>Rechercher dans le projet
+Search and Replace	Szukaj i zastąp	<FR>Rechercher et remplacer
