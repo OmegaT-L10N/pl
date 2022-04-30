@@ -67,3 +67,8 @@ Create MED Project	Utwórz projekt MED	<FR>Créer projet MED
 Properties	Właściwości	<FR>Propriétés
 File Filters	Filtry plików	<FR>Filtres de fichiers
 Project Files	Pliki projektu	<FR>Fichiers du projet
+Access Project Contents	Dostęp do treści projektu	<FR>Accéder au contenu du projet
+Root	Root	Racine
+Dictionaries	Słowniki	Dictionnaires
+Glossaries	Glosariusze	les glossaires
+TMs	Pamięci tłumaczeniowe	<FR>les MT
