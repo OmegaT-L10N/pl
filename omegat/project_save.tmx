@@ -5095,6 +5095,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220430T171956Z" creationid="mademoiselleqwerty" creationdate="20220430T171956Z">
+        <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104133Z" creationid="mademoiselleqwerty" creationdate="20220418T104133Z">
