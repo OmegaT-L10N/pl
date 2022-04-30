@@ -41,3 +41,6 @@ Project is Empty	Projekt jest pusty lub nie zawiera żadnych plików rozpoznawan
 Warning	Ostrzeżenie	<FR>Avertissement
 Error	Błąd	<FR>Erreur
 OmegaT has chosen option 'Yes' automatically.	OmegaT automatycznie wybrał opcję „Tak”.	<FR>OmegaT a choisi l'option « Oui » automatiquement.
+Project	Projekt	<FR>Projet
+New	Nowy	<FR>Nouveau
+Download Team Project	Pobierz projekt zespołowy	<FR>Télécharger projet en équipe
