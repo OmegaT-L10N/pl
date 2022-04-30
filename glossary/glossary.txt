@@ -20,3 +20,4 @@ fichier traduit	plik docelowy
 <FR> fichier source	plik źródłowy
 <FR> caractère d'échappement	znak ucieczki
 <FR> système des préférences	system preferencji
+Your project does not contain any files in a supported file format.	Twój projekt nie zawiera żadnych plików w obsługiwanym formacie.	<FR> Votre projet ne contient aucun fichier dans un format pris en charge.
