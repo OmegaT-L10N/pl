@@ -85,3 +85,8 @@ Undo Last Action	Cofnij ostatnią czynność	<FR>Annuler la dernière action
 Redo Last Action	Ponów ostatnią czynność	<FR>Rétablir la dernière action
 Search Project	Przeszukaj projekt	<FR>Rechercher dans le projet
 Search and Replace	Szukaj i zastąp	<FR>Rechercher et remplacer
+Insert Match or Selection	Wstaw dopasowanie lub zaznaczenie	<FR>Insérer la correspondance ou la sélection
+Replace with Match or Selection	Zastąp dopasowaniem lub zaznaczeniem	<FR>Remplacer par la correspondance ou la sélection
+Replace with Machine Translation	Zamień używając tłumaczenia maszynowego	<FR>Remplacer par une traduction automatique
+Insert Source	Wstaw tekst źródłowy	<FR>Insérer le texte source
+Replace with Source	Zastąp tekstem źródłowym	<FR>Remplacer par la source
