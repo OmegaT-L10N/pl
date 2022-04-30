@@ -102,3 +102,8 @@ Select Match	Wybierz dopasowanie	<FR>Choisir une correspondance
 Select Next Match	Wybierz następne dopasowanie	<FR>Choisir la correspondance suivante
 Select Previous Match	Wybierz poprzednie dopasowanie	<FR>Choisir la correspondance précédente
 Select Match	Wybierz dopasowanie	<FR>Choisir la correspondance
+Select Match	Wybierz dopasowanie	<FR>Choisir la correspondance
+Select Match	Wybierz dopasowanie	<FR>Choisir la correspondance
+Select Match	Wybierz dopasowanie	<FR>Choisir la correspondance
+Select Match	Wybierz dopasowanie	<FR>Choisir la correspondance
+Insert Unicode Control Character	Wstaw znak kontrolny Unicode	<FR>Insérer un caractère de contrôle Unicode
