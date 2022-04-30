@@ -120,3 +120,7 @@ Next Translated Segment	Następny przetłumaczony segment	<FR>Segment traduit su
 Previous Segment	Poprzedni segment	<FR>Segment précédent
 Previous Note	Poprzednia notatka	<FR>Note précédente
 Segment Number	Numer segmentu	Segment numéro
+Segment Number	Numer segmentu	<FR>Segment numéro
+Forward in History	Następny segment w historii	<FR>Segment suivant dans l'historique
+Back in History	Poprzedni segment w historii	<FR>Segment précédent dans l'historique
+Source of Selected Match	Źródło wybranego dopasowania	<FR>Source de la correspondance sélectionnée
