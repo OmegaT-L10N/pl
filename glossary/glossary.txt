@@ -158,3 +158,7 @@ Root	Root	<FR>Racine
 Dictionaries	Słowniki	<FR>Dictionnaires
 TMs	Pamięci tłumaczeniowe	les MT
 Current Target Document	Bieżący dokument docelowy	<FR>Document cible actuel
+Insert Source	Wstaw tekst źródłowy	<FR>Insérer le texte source
+Replace with Source	Zastąp tekstem źródłowym	<FR>Remplacer par la source
+Export Selection	Eksportuj zaznaczenie	<FR>Exporter la sélection
+Select Match	Wybierz dopasowanie	<FR>Choisir une correspondance
