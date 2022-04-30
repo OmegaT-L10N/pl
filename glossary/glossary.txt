@@ -129,3 +129,9 @@ Tools	Narzędzia	<FR>Outils
 Check Issues	Wyświetlanie błędów	<FR>Afficher les erreurs
 Check Issues for Current Document	Wyświetlanie błędów dla bieżącego dokumentu	<FR>Afficher les erreurs pour le document actuel
 Statistics	Statystyki	<FR>Statistiques
+Match Statistics	Statystyki dopasowań	<FR>Statistiques des correspondances
+Match Statistics per File	Statystyki dopasowań dla pliku	<FR>Statistiques des correspondances par fichier
+Align Files	Wyrównywanie plików	<FR>Aligner des fichiers
+Scripting	Skrypty	<FR>Scripts
+Options	Opcje	<FR>Options
+Use TAB to Advance	Użyj klawisza TAB, aby przejść do następnego segmentu	<FR>Utiliser TAB pour valider
