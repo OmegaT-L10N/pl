@@ -4626,8 +4626,8 @@ A Ty padłeś ofiarą jednej z nich</seg>
 - click on Copy Files to Source Folder... in the Project Files window
 - copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220430T155057Z" creationid="mademoiselleqwerty" creationdate="20220405T171100Z">
-        <seg>Pour ajouter des fichiers à votre projet vous pouvezAby dodać pliki do projektu, możesz
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220430T170752Z" creationid="mademoiselleqwerty" creationdate="20220405T171100Z">
+        <seg>Aby dodać pliki do projektu, możesz
 - przeciągnąć i upuścić pliki w panelu edytora
 - użyć opcji Projekt &gt; Kopiuj pliki do folderu źródłowego
 - kliknąć przycisk Kopiuj pliki do folderu źródłowego w oknie Pliki projektu
