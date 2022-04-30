@@ -135,3 +135,7 @@ Align Files	Wyrównywanie plików	<FR>Aligner des fichiers
 Scripting	Skrypty	<FR>Scripts
 Options	Opcje	<FR>Options
 Use TAB to Advance	Użyj klawisza TAB, aby przejść do następnego segmentu	<FR>Utiliser TAB pour valider
+Mark Translated Segments	Zaznacz przetłumaczone segmenty	<FR>Marquer les segments traduits
+Mark Untranslated Segments	Zaznacz nieprzetłumaczone segmenty	<FR>Marquer les segments non traduits
+Mark Paragraph Delimitations	Zaznacz granice akapitów	<FR>Marquer les délimitations de paragraphes
+File Filters	Filtry plików	<FR>Filtres de fichiers
