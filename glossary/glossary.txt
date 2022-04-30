@@ -154,3 +154,7 @@ To add files to the project you can - drag and drop files on this Editor pane - 
 - copier des fichiers dans le dossier 'source' du projet avec votre gestionnaire de fichier, puis recharger votre projet avec Projet > Recharger.
 Download MediaWiki Page	Pobierz stronę MediaWiki	<FR>Télécharger une page MediaWiki
 Create Current Translated &Document	Utwórz aktualnie tłumaczony dokument	<FR>Créer le document &actuel traduit
+Root	Root	<FR>Racine
+Dictionaries	Słowniki	<FR>Dictionnaires
+TMs	Pamięci tłumaczeniowe	les MT
+Current Target Document	Bieżący dokument docelowy	<FR>Document cible actuel
