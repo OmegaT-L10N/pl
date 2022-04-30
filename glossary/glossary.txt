@@ -37,3 +37,4 @@ To add files to the project you can - drag and drop files on this Editor pane - 
 - utiliser Projet > Copier des fichiers dans le dossier source
 - cliquer sur 'Copier des fichiers dans le dossier source' dans la fenêtre Fichiers du projet
 - copier des fichiers dans le dossier 'source' du projet avec votre gestionnaire de fichier, puis recharger votre projet avec Projet > Recharger.
+Project is Empty	Projekt jest pusty lub nie zawiera żadnych plików rozpoznawanych przez OmegaT.	<FR>Votre projet est vide ou bien ne contient pas de fichiers reconnus par OmegaT.
