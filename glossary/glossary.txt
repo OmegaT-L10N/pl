@@ -62,3 +62,8 @@ Commit Target Files	Wyślij pliki docelowe	<FR>Envoyer les fichiers cible
 Save	Zapisz	<FR>Enregistrer
 Create Translated Documents	Utwórz przetłumaczone dokumenty	<FR>Créer les documents traduits
 Create Current Translated Document	Utwórz aktualnie tłumaczony dokument	Créer le document actuel traduit
+Open MED Project	Otwórz projekt MED	<FR>Ouvrir projet MED
+Create MED Project	Utwórz projekt MED	<FR>Créer projet MED
+Properties	Właściwości	<FR>Propriétés
+File Filters	Filtry plików	<FR>Filtres de fichiers
+Project Files	Pliki projektu	<FR>Fichiers du projet
