@@ -107,3 +107,7 @@ Select Match	Wybierz dopasowanie	<FR>Choisir la correspondance
 Select Match	Wybierz dopasowanie	<FR>Choisir la correspondance
 Select Match	Wybierz dopasowanie	<FR>Choisir la correspondance
 Insert Unicode Control Character	Wstaw znak kontrolny Unicode	<FR>Insérer un caractère de contrôle Unicode
+Left-to-Right Mark (LRM U+200E)	Znak od lewej do prawej (LRM U+200E)	<FR>Marque de gauche à droite (LRM U+200E)
+Right-to-Left Mark (RLM U+200F)	Znak od prawej do lewej (RLM U+200F)	<FR>Marque de droite à gauche (RLM U+200F)
+Left-to-Right Embedding (LRE U+202A)	Osadzanie od lewej do prawej (LRE U+202A)	<FR>Début de l'imbrication de gauche à droite (LRE U+202A)
+Right-to-Left Embedding (RLE U+202B)	Osadzanie od prawej do lewej (RLE U+202B)	<FR>Début de l'imbrication de droite à gauche (RLE U+202B)
