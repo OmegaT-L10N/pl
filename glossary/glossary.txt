@@ -139,3 +139,8 @@ Mark Translated Segments	Zaznacz przetłumaczone segmenty	<FR>Marquer les segmen
 Mark Untranslated Segments	Zaznacz nieprzetłumaczone segmenty	<FR>Marquer les segments non traduits
 Mark Paragraph Delimitations	Zaznacz granice akapitów	<FR>Marquer les délimitations de paragraphes
 File Filters	Filtry plików	<FR>Filtres de fichiers
+Editor	Edytor	<FR>Éditeur
+Segmentation	Segmentacja	<FR>Segmentation
+Machine Translate	Tłumaczenie maszynowe	<FR>Traduction automatique
+Glossary	Glosariusz	<FR>Glossaires
+Display context description for TBX glossaries	Wyświetl opis kontekstu dla glosariuszy TBX	<FR>Afficher la description du contexte pour les glossaires TBX
