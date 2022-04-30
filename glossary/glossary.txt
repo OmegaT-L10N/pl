@@ -21,3 +21,4 @@ fichier traduit	plik docelowy
 <FR> caractère d'échappement	znak ucieczki
 <FR> système des préférences	system preferencji
 Your project does not contain any files in a supported file format.	Twój projekt nie zawiera żadnych plików w obsługiwanym formacie.	<FR> Votre projet ne contient aucun fichier dans un format pris en charge.
+See Options > File filters for a list of supported file formats.	Listę obsługiwanych formatów plików możesz znaleźć w Opcje > Filtry plików.	<FR> Voir Options > Filtres des fichiers pour une liste des formats de fichier pris en charge.
