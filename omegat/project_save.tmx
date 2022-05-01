@@ -1474,6 +1474,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Count &amp;protected text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T110745Z" creationid="agrze" creationdate="20220501T110745Z">
+        <seg>Uwzglęgnij i zabezpiecz teksty oraz niestandardowe tagi w statystykach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T100836Z" creationid="mademoiselleqwerty" creationdate="20220418T100836Z">
@@ -2299,6 +2307,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220415T095215Z" creationid="mat_staszak" creationdate="20220415T095215Z">
         <seg>Nie uwzględniaj różnic pomiędzy znakami o pełnej szerokości i o połowie szerokości</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T110837Z" creationid="agrze" creationdate="20220501T110837Z">
+        <seg>Dopasowania rozmyt0e</seg>
       </tuv>
     </tu>
     <tu>
