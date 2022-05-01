@@ -1857,8 +1857,8 @@ Tej jedynej nie ma!</seg>
       <tuv lang="EN">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="PL" changeid="agrze" changedate="20220427T141631Z" creationid="agrze" creationdate="20220427T141631Z">
-        <seg>Entries from the writeable glossary are in bold.</seg>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T112414Z" creationid="agrze" creationdate="20220427T141631Z">
+        <seg>Hasła z zapisywalnego glosariusza są pogrubione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5319,8 +5319,8 @@ Twoja strona odeszła wraz z nimi</seg>
       <tuv lang="EN">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
-      <tuv lang="PL" changeid="agrze" changedate="20220501T112007Z" creationid="agrze" creationdate="20220501T112007Z">
-        <seg>Możesz dodać hasło do glosariusza za pomocą funkcji „Wprowadź hasło do glosariusza” w menu "Edytuj".</seg>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T112028Z" creationid="agrze" creationdate="20220501T112007Z">
+        <seg>Możesz dodać hasło do glosariusza za pomocą funkcji „Wprowadź hasło do glosariusza” w menu „Edytuj”.</seg>
       </tuv>
     </tu>
     <tu>
