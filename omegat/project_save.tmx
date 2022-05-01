@@ -949,8 +949,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Allow translated tags to be in a di&amp;fferent order</seg>
       </tuv>
-      <tuv lang="PL" changeid="student" changedate="20220427T135728Z" creationid="student" creationdate="20220427T135728Z">
-        <seg>Allow translated tags to be in a di&amp;fferent order</seg>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T110249Z" creationid="student" creationdate="20220427T135728Z">
+        <seg>Pozwól, aby przetłumaczone tagi pojawiły się w innej kolejności</seg>
       </tuv>
     </tu>
     <tu>
