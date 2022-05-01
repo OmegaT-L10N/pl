@@ -931,6 +931,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add Glossary Entry</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T112428Z" creationid="agrze" creationdate="20220501T112428Z">
+        <seg>Dodaj hasło do glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add To Dictionary</seg>
       </tuv>
       <tuv lang="PL" changeid="jarosz" changedate="20220427T142808Z" creationid="jarosz" creationdate="20220427T142808Z">
@@ -2578,6 +2586,14 @@ Znać jej koniec nadchodzi</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T095725Z" creationid="mademoiselleqwerty" creationdate="20220418T095725Z">
         <seg>Wprowadź następny brakujący znacznik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Selection</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T113901Z" creationid="agrze" creationdate="20220501T113901Z">
+        <seg>Wstaw Zaznaczenie</seg>
       </tuv>
     </tu>
     <tu>
