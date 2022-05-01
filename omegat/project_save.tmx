@@ -1660,8 +1660,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
       </tuv>
-      <tuv lang="PL" changeid="agrze" changedate="20220501T114932Z" creationid="agrze" creationdate="20220501T114932Z">
-        <seg>Wyświetla tłumaczenie segmentu źródłowego wykonane przy użyciu usługi tłumaczenia maszynowego, którą wybrałeś w Preferancjach &gt; Tłumaczenie maszynowe, jeśli usługi te są dostępne.</seg>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T115017Z" creationid="agrze" creationdate="20220501T114932Z">
+        <seg>Wyświetla tłumaczenie segmentu źródłowego wykonane przy użyciu usługi tłumaczenia maszynowego, którą wybrałeś w Preferencjach &gt;Tłumaczenie maszynowe, jeśli usługi te są dostępne.</seg>
       </tuv>
     </tu>
     <tu>
