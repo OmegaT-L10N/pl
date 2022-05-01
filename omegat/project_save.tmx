@@ -2576,6 +2576,17 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If later access to the desired location is granted
+that location will be used and all settings will return to
+their defaults as a result of the location change.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T124439Z" creationid="agrze" creationdate="20220501T124439Z">
+        <seg>[fuzy]Jeżeli później zostanie zapewniony dostęp do wymaganego położenia,
+położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawienia powrócą do wartości domyślnych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore All</seg>
       </tuv>
       <tuv lang="PL" changeid="jarosz" changedate="20220427T142806Z" creationid="jarosz" creationdate="20220427T142806Z">
@@ -4768,6 +4779,15 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The current folder will be used
+instead.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T124406Z" creationid="agrze" creationdate="20220501T124406Z">
+        <seg>Zamiast tego użyty zostanie bieżący katalog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The help page you seek
 Lies beyond our perception
 But others await</seg>
@@ -5576,6 +5596,16 @@ Twoja strona odeszła wraz z nimi</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T225957Z" creationid="ewawoj" creationdate="20220411T225957Z">
         <seg>Projekt używa segmentacji opartej na zdaniach, a plik TMX segmentacji opartej na akapitach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your operating system refused to let OmegaT
+create its configuration folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T124344Z" creationid="agrze" creationdate="20220501T124344Z">
+        <seg>Twój system operacyjny nie pozwolił programowi OmegaT
+na utworzenie swojego katalogu konfiguracyjnego.</seg>
       </tuv>
     </tu>
     <tu>
