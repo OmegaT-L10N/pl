@@ -4691,6 +4691,15 @@ Zakres zastąpienia tekstu ogranicza się do segmentów docelowych projektu, nie
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The
+current folder will be used instead.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T123729Z" creationid="agrze" creationdate="20220501T123729Z">
+        <seg>[fuzy]Zamiast tego zostanie użyty bieżący folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220415T165501Z" creationid="ewawoj" creationdate="20220415T164922Z">
@@ -4805,8 +4814,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
       </tuv>
-      <tuv lang="PL" changeid="agrze" changedate="20220501T121333Z" creationid="agrze" creationdate="20220501T121333Z">
-        <seg>[fuzy]W związku z tym położenie katalogu konfiguracyjnego OmegaT
+      <tuv lang="PL" changeid="agrze" changedate="20220501T122616Z" creationid="agrze" creationdate="20220501T121333Z">
+        <seg>W związku z tym położenie katalogu konfiguracyjnego OmegaT
 nie może być wiarygodnie określone.</seg>
       </tuv>
     </tu>
