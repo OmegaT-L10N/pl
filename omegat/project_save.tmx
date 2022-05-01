@@ -1738,6 +1738,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dock</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T120301Z" creationid="agrze" creationdate="20220501T120301Z">
+        <seg>[fuzy]Dołącz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T090807Z" creationid="mademoiselleqwerty" creationdate="20220418T090807Z">
