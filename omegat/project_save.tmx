@@ -901,8 +901,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
-      <tuv lang="PL" changeid="agrze" changedate="20220501T115715Z" creationid="agrze" creationdate="20220501T115715Z">
-        <seg>Notatka jest tylko komentarzem do tego segmentu składającego się z tekstu źródłowego i tłumaczenia.</seg>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T115801Z" creationid="agrze" creationdate="20220501T115715Z">
+        <seg>Notatka jest tylko komentarzem do tego segmentu z tekstem źródłowym i tłumaczeniem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1366,6 +1366,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T115845Z" creationid="agrze" creationdate="20220501T115845Z">
+        <seg>Komentarze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commit Source Files</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T092131Z" creationid="mademoiselleqwerty" creationdate="20220418T092131Z">
@@ -1646,6 +1654,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="student" changedate="20220427T135747Z" creationid="student" creationdate="20220427T135747Z">
         <seg>Wyświetla alternatywne tłumaczenia, które zostały utworzone dla segmentów, które powtarzają się w projekcie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T120025Z" creationid="agrze" creationdate="20220501T120025Z">
+        <seg>Komentarze do aktywnego segmentu są wyświetlane, jeżeli znajdują się w pliku źródłowym i są obsługiwane przez filtr pliku (np.: filtr PO).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3204,6 +3220,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="student" changedate="20220427T140048Z" creationid="student" creationdate="20220427T140048Z">
         <seg>Powiadom mnie, gdy segment ma różne tłumaczenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Notes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T115842Z" creationid="agrze" creationdate="20220501T115842Z">
+        <seg>Poinformuj mnie, gdy segment zawiera notatki</seg>
       </tuv>
     </tu>
     <tu>
