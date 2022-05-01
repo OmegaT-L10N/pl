@@ -3663,8 +3663,8 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       <tuv lang="EN">
         <seg>Regular expression for fragments that should be removed from translation:</seg>
       </tuv>
-      <tuv lang="PL" changeid="student" changedate="20220427T135538Z" creationid="student" creationdate="20220427T135538Z">
-        <seg>Regular expression for fragments that should be removed from translation:</seg>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T105447Z" creationid="student" creationdate="20220427T135538Z">
+        <seg>Wyrażenie regularne dla fragmentów, które powinny zostać usunięte z tłumaczenia:</seg>
       </tuv>
     </tu>
     <tu>
