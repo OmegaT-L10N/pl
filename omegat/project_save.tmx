@@ -4694,8 +4694,8 @@ Zakres zastąpienia tekstu ogranicza się do segmentów docelowych projektu, nie
         <seg>The
 current folder will be used instead.</seg>
       </tuv>
-      <tuv lang="PL" changeid="agrze" changedate="20220501T123729Z" creationid="agrze" creationdate="20220501T123729Z">
-        <seg>[fuzy]Zamiast tego zostanie użyty bieżący folder.</seg>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T123826Z" creationid="agrze" creationdate="20220501T123729Z">
+        <seg>Zamiast tego zostanie użyty bieżący katalog.</seg>
       </tuv>
     </tu>
     <tu>
