@@ -1644,8 +1644,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Do not allow creating translated documents with tag &amp;issues</seg>
       </tuv>
-      <tuv lang="PL" changeid="student" changedate="20220427T140029Z" creationid="student" creationdate="20220427T140029Z">
-        <seg>Do not allow creating translated documents with tag &amp;issues</seg>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T110643Z" creationid="student" creationdate="20220427T140029Z">
+        <seg>Nie zezwalaj na tworzenie dokumentów docelowych z tagami i problemami</seg>
       </tuv>
     </tu>
     <tu>
@@ -5185,8 +5185,8 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       <tuv lang="EN">
         <seg>Warning: Changing tag order may break the translated document!</seg>
       </tuv>
-      <tuv lang="PL" changeid="student" changedate="20220427T135852Z" creationid="student" creationdate="20220427T135852Z">
-        <seg>Warning: Changing tag order may break the translated document!</seg>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T110441Z" creationid="student" creationdate="20220427T135852Z">
+        <seg>Uwaga: Zmiana kolejności tagów może spowodować, że przetłumaczony dokument nie będzie nadawał się do użytku!</seg>
       </tuv>
     </tu>
     <tu>
