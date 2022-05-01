@@ -1636,8 +1636,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="PL" changeid="agrze" changedate="20220427T141625Z" creationid="agrze" creationdate="20220427T141625Z">
-        <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T114325Z" creationid="agrze" creationdate="20220427T141625Z">
+        <seg>Pokaż hasła ze słownika znajdującego się w folderze /dictionary/, które odpowiadają hasłom w tekście źródłowym aktywnego segmentu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3128,6 +3128,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T114432Z" creationid="agrze" creationdate="20220501T114432Z">
+        <seg>Poinformuj mnie, gdy segment zawiera hasła ze słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T111335Z" creationid="agrze" creationdate="20220427T140533Z">
@@ -3292,6 +3300,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220421T224742Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220421T224742Z">
         <seg>[fuzzy]Open {0} Target Files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T114227Z" creationid="agrze" creationdate="20220501T114227Z">
+        <seg>Otwórz zapisywalny plik glosariusza</seg>
       </tuv>
     </tu>
     <tu>
