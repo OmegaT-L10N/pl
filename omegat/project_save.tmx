@@ -2580,8 +2580,8 @@ Znać jej koniec nadchodzi</seg>
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
       </tuv>
-      <tuv lang="PL" changeid="agrze" changedate="20220501T124439Z" creationid="agrze" creationdate="20220501T124439Z">
-        <seg>[fuzy]Jeżeli później zostanie zapewniony dostęp do wymaganego położenia,
+      <tuv lang="PL" changeid="agrze" changedate="20220501T130504Z" creationid="agrze" creationdate="20220501T124439Z">
+        <seg>Jeżeli później zostanie zapewniony dostęp do wymaganego położenia,
 położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawienia powrócą do wartości domyślnych.</seg>
       </tuv>
     </tu>
