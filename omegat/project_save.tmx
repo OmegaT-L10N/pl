@@ -971,6 +971,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T115211Z" creationid="agrze" creationdate="20220501T115211Z">
+        <seg>Umożliwia przeglądanie, dodawanie, usuwanie lub edycję notatki w aktywnym segmencie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred</seg>
       </tuv>
       <tuv lang="PL" changeid="Zooola" changedate="20220427T142853Z" creationid="Zooola" creationdate="20220427T142853Z">
@@ -1660,8 +1668,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
       </tuv>
-      <tuv lang="PL" changeid="agrze" changedate="20220501T115017Z" creationid="agrze" creationdate="20220501T114932Z">
-        <seg>Wyświetla tłumaczenie segmentu źródłowego wykonane przy użyciu usługi tłumaczenia maszynowego, którą wybrałeś w Preferencjach &gt;Tłumaczenie maszynowe, jeśli usługi te są dostępne.</seg>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T115038Z" creationid="agrze" creationdate="20220501T114932Z">
+        <seg>Wyświetla tłumaczenie segmentu źródłowego wykonane przy użyciu usługi tłumaczenia maszynowego, którą wybrałeś w Preferencjach  &gt; Tłumaczenie maszynowe, jeśli usługi te są dostępne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2840,6 +2848,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Machine Translation Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T115109Z" creationid="agrze" creationdate="20220501T115109Z">
+        <seg>Opcje tłumaczenia maszynowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T130657Z" creationid="werric" creationdate="20220419T130657Z">
@@ -3140,6 +3156,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230512Z" creationid="mat_staszak" creationdate="20220411T230512Z">
         <seg>Nieprawidłowy plik XML!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T115121Z" creationid="agrze" creationdate="20220501T115121Z">
+        <seg>Notatki</seg>
       </tuv>
     </tu>
     <tu>
