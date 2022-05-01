@@ -925,8 +925,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Actions &amp; Settings</seg>
       </tuv>
-      <tuv lang="PL" changeid="Marcin J" changedate="20220427T134910Z" creationid="Marcin J" creationdate="20220427T134910Z">
-        <seg>[parcial]Akcje &amp; Ustawienia </seg>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T121153Z" creationid="Marcin J" creationdate="20220427T134910Z">
+        <seg>Działania i Ustawienia </seg>
       </tuv>
     </tu>
     <tu>
@@ -2686,6 +2686,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instant Start</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T121206Z" creationid="agrze" creationdate="20220501T121136Z">
+        <seg>Szybki start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insufficient permissions for project dir {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085421Z" creationid="GKarpowicz" creationdate="20220406T085421Z">
@@ -3356,6 +3364,16 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T090530Z" creationid="mademoiselleqwerty" creationdate="20220405T171250Z">
         <seg>OmegaT automatycznie wybrał opcję „Tak”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T121559Z" creationid="agrze" creationdate="20220501T121331Z">
+        <seg>OmegaT nie ma dostępu do właściwości systemu zawierającej nazwę twojego systemu operacyjnego i/lub właściwości systemu zawierającej twój katalog domowy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4780,6 +4798,16 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T152931Z" creationid="werric" creationdate="20220419T152931Z">
         <seg>Zapisywalny plik glosariusza musi znajdować się w katalogu glosariuszy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore, the location of OmegaT's
+configuration folder cannot be reliably determined.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T121333Z" creationid="agrze" creationdate="20220501T121333Z">
+        <seg>[fuzy]W związku z tym położenie katalogu konfiguracyjnego OmegaT
+nie może być wiarygodnie określone.</seg>
       </tuv>
     </tu>
     <tu>
