@@ -1094,6 +1094,16 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As a result of this,
+all settings will be at their defaults, due to which you
+may experience unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T124255Z" creationid="agrze" creationdate="20220501T124255Z">
+        <seg>Z tego powodu wszystkie ustawienia będą domyślne, zatem możesz spotkać się z nieoczekiwanym, ale prawidłowym zachowaniem programu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aut&amp;hor:</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220405T164914Z" creationid="mat_staszak" creationdate="20220405T164914Z">
