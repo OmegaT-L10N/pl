@@ -1658,6 +1658,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T114932Z" creationid="agrze" creationdate="20220501T114932Z">
+        <seg>Wyświetla tłumaczenie segmentu źródłowego wykonane przy użyciu usługi tłumaczenia maszynowego, którą wybrałeś w Preferancjach &gt; Tłumaczenie maszynowe, jeśli usługi te są dostępne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Distance</seg>
       </tuv>
       <tuv lang="PL" changeid="kasiawinciorek" changedate="20220427T142150Z" creationid="kasiawinciorek" creationdate="20220427T142150Z">
@@ -2819,6 +2827,14 @@ w katalogu konfiguracji.</seg>
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104542Z" creationid="mademoiselleqwerty" creationdate="20220418T104542Z">
+        <seg>Tłumaczenie maszynowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Machine Translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T114504Z" creationid="agrze" creationdate="20220501T114504Z">
         <seg>Tłumaczenie maszynowe</seg>
       </tuv>
     </tu>
