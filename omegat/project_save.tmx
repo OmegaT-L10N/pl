@@ -1740,8 +1740,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Dock</seg>
       </tuv>
-      <tuv lang="PL" changeid="agrze" changedate="20220501T120301Z" creationid="agrze" creationdate="20220501T120301Z">
-        <seg>[fuzy]Dołącz</seg>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T120852Z" creationid="agrze" creationdate="20220501T120301Z">
+        <seg>Dołącz</seg>
       </tuv>
     </tu>
     <tu>
@@ -2984,6 +2984,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Maximize</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T120925Z" creationid="agrze" creationdate="20220501T120925Z">
+        <seg>Zmaksymalizuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maximum number of finds has been reached ({0})</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T225506Z" creationid="mat_staszak" creationdate="20220411T225506Z">
@@ -2996,6 +3004,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222504Z" creationid="mat_staszak" creationdate="20220411T222504Z">
         <seg>Pamięć</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Minimize</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T120915Z" creationid="agrze" creationdate="20220501T120915Z">
+        <seg>Zminimalizuj</seg>
       </tuv>
     </tu>
     <tu>
@@ -4039,8 +4055,8 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       <tuv lang="EN">
         <seg>Restore</seg>
       </tuv>
-      <tuv lang="PL" changeid="Marcin J" changedate="20220427T134845Z" creationid="Marcin J" creationdate="20220427T134845Z">
-        <seg>[parcial]Przywróć</seg>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T120935Z" creationid="Marcin J" creationdate="20220427T134845Z">
+        <seg>Przywróć</seg>
       </tuv>
     </tu>
     <tu>
@@ -5121,8 +5137,8 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       <tuv lang="EN">
         <seg>Undock</seg>
       </tuv>
-      <tuv lang="PL" changeid="Marcin J" changedate="20220427T134847Z" creationid="Marcin J" creationdate="20220427T134847Z">
-        <seg>[parcial]Odłącz</seg>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T120940Z" creationid="Marcin J" creationdate="20220427T134847Z">
+        <seg>Odłącz</seg>
       </tuv>
     </tu>
     <tu>
