@@ -1636,8 +1636,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="PL" changeid="agrze" changedate="20220427T141559Z" creationid="agrze" creationdate="20220427T141559Z">
-        <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T111658Z" creationid="agrze" creationdate="20220427T141559Z">
+        <seg>Pokaż hasła z glosariusza znajdującego się w folderze /glossary/, które odpowiadają hasłom w tekście źródłowym aktywnego segmentu.</seg>
       </tuv>
     </tu>
     <tu>
