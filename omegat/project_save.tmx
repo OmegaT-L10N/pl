@@ -5317,6 +5317,14 @@ Twoja strona odeszła wraz z nimi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T112007Z" creationid="agrze" creationdate="20220501T112007Z">
+        <seg>Możesz dodać hasło do glosariusza za pomocą funkcji „Wprowadź hasło do glosariusza” w menu "Edytuj".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may try to solve this problem in one of the following ways:</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T201323Z" creationid="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" creationdate="20220420T201323Z">
