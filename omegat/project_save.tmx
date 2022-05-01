@@ -3136,6 +3136,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Glossary Hits</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T114157Z" creationid="agrze" creationdate="20220501T114157Z">
+        <seg>Poinformuj mnie, gdy segment zawiera hasła z glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notify Me When a Segment Has Multiple Translations</seg>
       </tuv>
       <tuv lang="PL" changeid="student" changedate="20220427T140048Z" creationid="student" creationdate="20220427T140048Z">
