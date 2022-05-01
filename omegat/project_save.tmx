@@ -1642,6 +1642,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the translation memories segments that match the source segment.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T110931Z" creationid="agrze" creationdate="20220501T110931Z">
+        <seg>Pokaż segmenty z pamięci tłumaczeniowej, które pasują do segmentu źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Distance</seg>
       </tuv>
       <tuv lang="PL" changeid="kasiawinciorek" changedate="20220427T142150Z" creationid="kasiawinciorek" creationdate="20220427T142150Z">
@@ -2313,8 +2321,8 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>Fuzzy Matches</seg>
       </tuv>
-      <tuv lang="PL" changeid="agrze" changedate="20220501T110837Z" creationid="agrze" creationdate="20220501T110837Z">
-        <seg>Dopasowania rozmyt0e</seg>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T110842Z" creationid="agrze" creationdate="20220501T110837Z">
+        <seg>Dopasowania rozmyte</seg>
       </tuv>
     </tu>
     <tu>
@@ -2860,6 +2868,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092734Z" creationid="GKarpowicz" creationdate="20220406T092734Z">
         <seg>Statystyka dopasowań w pojedynczym pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T111127Z" creationid="agrze" creationdate="20220501T111127Z">
+        <seg>Dopasowania można znaleźć w bieżącym tłumaczeniu lub w plikach TMX, które umieściłeś w folderze /tm/.</seg>
       </tuv>
     </tu>
     <tu>
