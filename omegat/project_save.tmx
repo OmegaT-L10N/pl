@@ -899,6 +899,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A note is just a comment regarding this set of source text and translation.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T115715Z" creationid="agrze" creationdate="20220501T115715Z">
+        <seg>Notatka jest tylko komentarzem do tego segmentu składającego się z tekstu źródłowego i tłumaczenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T201211Z" creationid="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" creationdate="20220420T201211Z">
