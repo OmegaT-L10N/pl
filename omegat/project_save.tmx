@@ -1366,6 +1366,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comment:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T120121Z" creationid="agrze" creationdate="20220501T120112Z">
+        <seg>Komentarz:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comments</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T115845Z" creationid="agrze" creationdate="20220501T115845Z">
@@ -1847,6 +1855,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="Magdaanna" changedate="20220427T141023Z" creationid="Magdaanna" creationdate="20220427T141023Z">
         <seg>Edytor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editor - {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T120258Z" creationid="agrze" creationdate="20220501T120258Z">
+        <seg>Edytor - {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2744,6 +2760,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Key:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T120036Z" creationid="agrze" creationdate="20220501T120036Z">
+        <seg>Klucz:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyword searches are not available in the search string.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220415T104142Z" creationid="mat_staszak" creationdate="20220415T104142Z">
@@ -3192,6 +3216,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Comments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T120214Z" creationid="agrze" creationdate="20220501T120214Z">
+        <seg>Poinformuj mnie, gdy segment zawiera notatki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notify Me When a Segment Has Dictionary Entries</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T114432Z" creationid="agrze" creationdate="20220501T114432Z">
@@ -3480,6 +3512,14 @@ Niczym wiatrem niesiona
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220415T120734Z" creationid="ewawoj" creationdate="20220415T120708Z">
         <seg>Pliki PDF chronione hasłem nie są obsługiwane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Path:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T120043Z" creationid="agrze" creationdate="20220501T120043Z">
+        <seg>Ścieżka:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4961,6 +5001,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T225456Z" creationid="ewawoj" creationdate="20220411T225456Z">
         <seg>Jednostka tłumaczenia wystąpiła przed nagłówkiem TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T120140Z" creationid="agrze" creationdate="20220501T120140Z">
+        <seg>Tłumaczenie:</seg>
       </tuv>
     </tu>
     <tu>
