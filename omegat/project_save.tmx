@@ -3114,8 +3114,8 @@ Odeszła do raju</seg>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
       </tuv>
-      <tuv lang="PL" changeid="agrze" changedate="20220427T140533Z" creationid="agrze" creationdate="20220427T140533Z">
-        <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
+      <tuv lang="PL" changeid="agrze" changedate="20220501T111335Z" creationid="agrze" creationdate="20220427T140533Z">
+        <seg>Poinformuj mnie, gdy dla segmentu dostepne są dopasowania rozmyte</seg>
       </tuv>
     </tu>
     <tu>
