@@ -2560,8 +2560,8 @@ Znać jej koniec nadchodzi</seg>
       <tuv lang="EN">
         <seg>If checked, the longer entries are placed on the list first.</seg>
       </tuv>
-      <tuv lang="PL" changeid="student" changedate="20220427T134951Z" creationid="student" creationdate="20220427T134951Z">
-        <seg>If checked, the longer entries are placed on the list first.</seg>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T171933Z" creationid="student" creationdate="20220427T134951Z">
+        <seg>Jeśli jest zaznaczone, dłuższe pozycje są umieszczane na liście jako pierwsze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4488,16 +4488,16 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Sort by source term &amp;alphabetically</seg>
       </tuv>
-      <tuv lang="PL" changeid="student" changedate="20220427T134736Z" creationid="student" creationdate="20220427T134736Z">
-        <seg>Sort by source term &amp;alphabetically</seg>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T171953Z" creationid="student" creationdate="20220427T134736Z">
+        <seg>Sortuj alfabetycznie według terminów źródłowych</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Sort tar&amp;get terms alphabetically</seg>
       </tuv>
-      <tuv lang="PL" changeid="student" changedate="20220427T134734Z" creationid="student" creationdate="20220427T134734Z">
-        <seg>Sort tar&amp;get terms alphabetically</seg>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T172223Z" creationid="student" creationdate="20220427T134734Z">
+        <seg>Sortuj terminy docelowe alfabetycznie</seg>
       </tuv>
     </tu>
     <tu>
