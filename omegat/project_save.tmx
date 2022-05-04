@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable character table</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T174030Z" creationid="studentILS10" creationdate="20220504T174030Z">
+        <seg>Włącz tabelę znaków</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T172714Z" creationid="studentILS10" creationdate="20220504T172714Z">
@@ -274,6 +282,14 @@
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220427T142319Z" creationid="aa bb" creationdate="20220427T142319Z">
         <seg>[coś w rodzaju]&amp;Licencja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Load...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T173658Z" creationid="studentILS10" creationdate="20220504T173658Z">
+        <seg>Ładowanie...</seg>
       </tuv>
     </tu>
     <tu>
@@ -506,6 +522,14 @@
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T201247Z" creationid="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" creationdate="20220420T201247Z">
         <seg>Zapisz jako</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T173709Z" creationid="studentILS10" creationdate="20220504T173709Z">
+        <seg>Zapisywanie...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1152,6 +1176,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-text file (*.autotext)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T173735Z" creationid="studentILS10" creationdate="20220504T173735Z">
+        <seg>Plik autotekstu (*.autotext)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Autotext</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T173838Z" creationid="studentILS10" creationdate="20220504T173838Z">
+        <seg>Autotekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Available script engines:</seg>
       </tuv>
       <tuv lang="PL" changeid="Zooola" changedate="20220427T142955Z" creationid="Zooola" creationdate="20220427T142955Z">
@@ -1396,6 +1436,14 @@ Inny wybierz napitek.</seg>
         <seg>Polecenie:
 	-h, --help
 		Wyświetl informacje o użytkowaniu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T173833Z" creationid="studentILS10" creationdate="20220504T173833Z">
+        <seg>Komentarz</seg>
       </tuv>
     </tu>
     <tu>
@@ -2445,6 +2493,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220427T141119Z" creationid="agrze" creationdate="20220427T141119Z">
         <seg>Full checking can lead to false positives in normal texts and the PO filter already detects them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T173827Z" creationid="studentILS10" creationdate="20220504T173827Z">
+        <seg>Pełny text</seg>
       </tuv>
     </tu>
     <tu>
@@ -4510,6 +4566,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T173816Z" creationid="studentILS10" creationdate="20220504T173816Z">
+        <seg>Skrót</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T171736Z" creationid="student" creationdate="20220427T134328Z">
@@ -5302,6 +5366,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T125320Z" creationid="werric" creationdate="20220419T125320Z">
         <seg>Nie można odczytać pliku projektu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to save data.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T173752Z" creationid="studentILS10" creationdate="20220504T173752Z">
+        <seg>Nie można zapisać danych.</seg>
       </tuv>
     </tu>
     <tu>
