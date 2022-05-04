@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Select</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180117Z" creationid="studentILS10" creationdate="20220504T180117Z">
+        <seg>Wybierz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Show All</seg>
       </tuv>
       <tuv lang="PL" changeid="kasiawinciorek" changedate="20220427T143001Z" creationid="kasiawinciorek" creationdate="20220427T143001Z">
@@ -2060,6 +2068,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download collection {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180239Z" creationid="studentILS10" creationdate="20220504T180239Z">
+        <seg>Ściągnij istę pobrań {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Downloading project...</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084157Z" creationid="GKarpowicz" creationdate="20220406T084152Z">
@@ -2329,6 +2345,14 @@ Nikt nie usłyszy twych krzyków.</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T231655Z" creationid="ewawoj" creationdate="20220411T231558Z">
         <seg>Błąd przy pobieraniu rozszerzenia z klasy '{0}': {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error updating glossary file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180415Z" creationid="studentILS10" creationdate="20220504T180415Z">
+        <seg>Błąd aktualizacji pliku glosariusza</seg>
       </tuv>
     </tu>
     <tu>
@@ -4524,6 +4548,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Request error: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180303Z" creationid="studentILS10" creationdate="20220504T180303Z">
+        <seg>Błąd żądania: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Request to TaaS: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T175812Z" creationid="studentILS10" creationdate="20220504T175812Z">
@@ -4544,6 +4576,22 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T201218Z" creationid="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" creationdate="20220420T201218Z">
         <seg>Przywróć domyślne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Retrieve collection list...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180129Z" creationid="studentILS10" creationdate="20220504T180129Z">
+        <seg>Przywróć listę zbiorów...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Retrieve domain list...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180148Z" creationid="studentILS10" creationdate="20220504T180148Z">
+        <seg>Przywróć listę domeny...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4862,6 +4910,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select TaaS domain</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180140Z" creationid="studentILS10" creationdate="20220504T180140Z">
+        <seg>Wybierz domene TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Server (original)</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T174759Z" creationid="student" creationdate="20220427T135615Z">
@@ -4954,6 +5010,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T154945Z" creationid="werric" creationdate="20220419T124232Z">
         <seg>Niektóre z folderów projektu mogły zostać przeniesione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180346Z" creationid="studentILS10" creationdate="20220504T180346Z">
+        <seg>Coś poszło nie tak. Aby poznać szczegóły, odwiedź Tilde Terminology.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5738,6 +5802,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unauthorized request to TaaS service.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180329Z" creationid="studentILS10" creationdate="20220504T180329Z">
+        <seg>Nieautoryzowane ządanie usługi TaaS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Undock</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T120940Z" creationid="Marcin J" creationdate="20220427T134847Z">
@@ -6132,6 +6204,14 @@ Twoja strona odeszła wraz z nimi</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T155158Z" creationid="werric" creationdate="20220419T152547Z">
         <seg>Podany folder zapisywalnych glosariuszy nie istnieje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wrong response format from TaaS service</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180400Z" creationid="studentILS10" creationdate="20220504T180400Z">
+        <seg>Nieprawidłowy format odpowiedzi usługi TaaS</seg>
       </tuv>
     </tu>
     <tu>
