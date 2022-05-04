@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable TaaS terminology lookup</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180554Z" creationid="studentILS10" creationdate="20220504T180554Z">
+        <seg>Zezwól na sprawdzanie terminologii TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable autotext</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T173343Z" creationid="studentILS10" creationdate="20220504T173343Z">
@@ -971,6 +979,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180653Z" creationid="studentILS10" creationdate="20220504T180653Z">
+        <seg>&lt;html&gt;Dodaj wzorce używając symboli wieloznacznych (styl Apache Ant): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T115022Z" creationid="werric" creationdate="20220419T115022Z">
@@ -999,6 +1015,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T201211Z" creationid="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" creationdate="20220420T201211Z">
         <seg>Dodaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>API Key:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180535Z" creationid="studentILS10" creationdate="20220504T180535Z">
+        <seg>Klucz interfejsu API:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1780,6 +1804,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create your own key then input it below.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180447Z" creationid="studentILS10" creationdate="20220504T180447Z">
+        <seg>Stwórz swój własny klucz i wpisz go poniżej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Created by: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T224517Z" creationid="ewawoj" creationdate="20220411T224517Z">
@@ -1816,6 +1848,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T201640Z" creationid="mademoiselleqwerty" creationdate="20220405T172714Z">
         <seg>Aktualne wykorzystanie pamięci przez VM: {0}MB;wolne miejsce: {1}MB; maksymalna pojemność: {2}MB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom Colours Selection</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180717Z" creationid="studentILS10" creationdate="20220504T180717Z">
+        <seg>Wybór kolorów niestandardowych</seg>
       </tuv>
     </tu>
     <tu>
@@ -2473,6 +2513,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclusion Patterns</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180604Z" creationid="studentILS10" creationdate="20220504T180604Z">
+        <seg>Wzorce wykluczeń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085741Z" creationid="GKarpowicz" creationdate="20220406T085741Z">
@@ -2749,6 +2797,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T110842Z" creationid="agrze" creationdate="20220501T110837Z">
         <seg>Dopasowania rozmyte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Get API Key</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180517Z" creationid="studentILS10" creationdate="20220504T180517Z">
+        <seg>Pobierz klucz interfejsu API</seg>
       </tuv>
     </tu>
     <tu>
@@ -3345,6 +3401,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104228Z" creationid="mademoiselleqwerty" creationdate="20220418T104228Z">
         <seg>Zaznacz nieprzetłumaczone segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mask</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180608Z" creationid="studentILS10" creationdate="20220504T180608Z">
+        <seg>Maska</seg>
       </tuv>
     </tu>
     <tu>
@@ -5222,10 +5286,26 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TaaS API key not set.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180433Z" creationid="studentILS10" creationdate="20220504T180433Z">
+        <seg>Klucz interfejsu API nie został ustawiony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TaaS Collections</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T175925Z" creationid="studentILS10" creationdate="20220504T175925Z">
         <seg>Kolekcja TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS Terminology</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180544Z" creationid="studentILS10" creationdate="20220504T180544Z">
+        <seg>Terminologia TaaS</seg>
       </tuv>
     </tu>
     <tu>
