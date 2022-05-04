@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable glossary suggestions</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T172714Z" creationid="studentILS10" creationdate="20220504T172714Z">
+        <seg>Włącz sugestie glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Exact search</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T154736Z" creationid="mademoiselleqwerty" creationdate="20220414T190806Z">
@@ -1688,6 +1696,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T114325Z" creationid="agrze" creationdate="20220427T141625Z">
         <seg>Pokaż hasła ze słownika znajdującego się w folderze /dictionary/, które odpowiadają hasłom w tekście źródłowym aktywnego segmentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T172634Z" creationid="studentILS10" creationdate="20220504T172634Z">
+        <seg>Wyświetla wpisy w postaci "&lt;źródło&gt; → &lt;cel&gt;".</seg>
       </tuv>
     </tu>
     <tu>
@@ -4466,6 +4482,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T171736Z" creationid="student" creationdate="20220427T134328Z">
         <seg>Pokaż najpierw dłuższe terminy docelowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show &amp;source term first</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T172505Z" creationid="studentILS10" creationdate="20220504T172505Z">
+        <seg>Pokaż najpierw termin źródłowy</seg>
       </tuv>
     </tu>
     <tu>
