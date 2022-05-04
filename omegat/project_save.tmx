@@ -1364,6 +1364,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change date</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T175455Z" creationid="studentILS10" creationdate="20220504T175455Z">
+        <seg>Data zmiany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222034Z" creationid="mat_staszak" creationdate="20220411T222034Z">
@@ -1376,6 +1384,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222004Z" creationid="mat_staszak" creationdate="20220411T222004Z">
         <seg>Zmieniono po: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changer</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T175505Z" creationid="studentILS10" creationdate="20220504T175505Z">
+        <seg>Zmieniono przez</seg>
       </tuv>
     </tu>
     <tu>
@@ -1524,6 +1540,22 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T201256Z" creationid="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" creationdate="20220420T201256Z">
         <seg>Potwierdź</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conflict resolution</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T175335Z" creationid="studentILS10" creationdate="20220504T175335Z">
+        <seg>Rozwiązywanie konfliktu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conflict {0} of {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T175349Z" creationid="studentILS10" creationdate="20220504T175349Z">
+        <seg>Konfikt {0} of {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1740,6 +1772,22 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deleted</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T175357Z" creationid="studentILS10" creationdate="20220504T175357Z">
+        <seg>Usunięte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Detail View</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T175429Z" creationid="studentILS10" creationdate="20220504T175429Z">
+        <seg>Widok szczegółowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Details unavailable</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T175128Z" creationid="studentILS10" creationdate="20220504T175128Z">
@@ -1904,6 +1952,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T120852Z" creationid="agrze" creationdate="20220501T120301Z">
         <seg>Dołącz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Done</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T175305Z" creationid="studentILS10" creationdate="20220504T175305Z">
+        <seg>Ukończono</seg>
       </tuv>
     </tu>
     <tu>
@@ -3069,6 +3125,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>List View</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T175418Z" creationid="studentILS10" creationdate="20220504T175418Z">
+        <seg>Widok listy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading TMX files...</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084834Z" creationid="GKarpowicz" creationdate="20220406T084834Z">
@@ -3401,6 +3465,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next →</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T175445Z" creationid="studentILS10" creationdate="20220504T175445Z">
+        <seg>Następne →</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="PL" changeid="jarosz" changedate="20220427T142803Z" creationid="jarosz" creationdate="20220427T142803Z">
@@ -3481,6 +3553,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230512Z" creationid="mat_staszak" creationdate="20220411T230512Z">
         <seg>Nieprawidłowy plik XML!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not present</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T175408Z" creationid="studentILS10" creationdate="20220504T175408Z">
+        <seg>Niedostępny</seg>
       </tuv>
     </tu>
     <tu>
@@ -3940,6 +4020,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224029Z" creationid="mat_staszak" creationdate="20220411T224029Z">
         <seg>Projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Processing...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T175343Z" creationid="studentILS10" creationdate="20220504T175343Z">
+        <seg>Przetwarzanie...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5706,6 +5794,22 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use all original</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T175237Z" creationid="studentILS10" creationdate="20220504T175237Z">
+        <seg>Użyj wszystkie oryginalne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use all updated</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T175255Z" creationid="studentILS10" creationdate="20220504T175255Z">
+        <seg>Użyj wszystkie zaktualizowaned</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use as Default Translation</seg>
       </tuv>
       <tuv lang="PL" changeid="student" changedate="20220427T135829Z" creationid="student" creationdate="20220427T135829Z">
@@ -6056,6 +6160,14 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="PL" changeid="jarosz" changedate="20220427T141618Z" creationid="Marcin J" creationdate="20220427T135254Z">
         <seg>{1}, uruchomiona z '{2}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>← Back</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T175438Z" creationid="studentILS10" creationdate="20220504T175438Z">
+        <seg>← Wstecz</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
