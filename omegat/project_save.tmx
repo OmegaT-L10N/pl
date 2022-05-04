@@ -4440,8 +4440,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
-      <tuv lang="PL" changeid="student" changedate="20220427T134328Z" creationid="student" creationdate="20220427T134328Z">
-        <seg>Show &amp;longer target terms first</seg>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T171736Z" creationid="student" creationdate="20220427T134328Z">
+        <seg>Pokaż najpierw dłuższe terminy docelowe</seg>
       </tuv>
     </tu>
     <tu>
