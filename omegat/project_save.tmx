@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow only unique characters</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T174524Z" creationid="studentILS10" creationdate="20220504T174524Z">
+        <seg>Zezwalaj tylko na niepowtarzalne znaki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T134607Z" creationid="werric" creationdate="20220419T113406Z">
@@ -1288,6 +1296,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222142Z" creationid="mat_staszak" creationdate="20220411T222142Z">
         <seg>Uwzględnij wielkość liter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>C&amp;lear</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T174608Z" creationid="studentILS10" creationdate="20220504T174608Z">
+        <seg>Usuń</seg>
       </tuv>
     </tu>
     <tu>
