@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable autotext</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T173343Z" creationid="studentILS10" creationdate="20220504T173343Z">
+        <seg>Włącz autotekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T172714Z" creationid="studentILS10" creationdate="20220504T172714Z">
@@ -2381,6 +2389,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084736Z" creationid="GKarpowicz" creationdate="20220406T084634Z">
         <seg>Folder {0} dla projektu grupowego został utworzony automatycznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Follow capitalization of the typed text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T173248Z" creationid="studentILS10" creationdate="20220504T173248Z">
+        <seg>Nie przerywaj stosowania wielkich liter w tekście pisanym</seg>
       </tuv>
     </tu>
     <tu>
