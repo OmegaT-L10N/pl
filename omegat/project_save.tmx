@@ -1043,6 +1043,30 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Active segment source</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T181007Z" creationid="studentILS10" creationdate="20220504T180835Z">
+        <seg>Bieżący segment źródłowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Active segment source text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T181015Z" creationid="studentILS10" creationdate="20220504T180852Z">
+        <seg>Bieżący plik tekstowy segmentu źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Active segment target</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180900Z" creationid="studentILS10" creationdate="20220504T180900Z">
+        <seg>Aktywuj segment docelowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T130132Z" creationid="mademoiselleqwerty" creationdate="20220417T133142Z">
@@ -1316,6 +1340,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T224032Z" creationid="ewawoj" creationdate="20220411T223610Z">
         <seg>Kopia zapasowa preferencji utworzona w {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180755Z" creationid="studentILS10" creationdate="20220504T180755Z">
+        <seg>Tło</seg>
       </tuv>
     </tu>
     <tu>
@@ -1848,6 +1880,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T201640Z" creationid="mademoiselleqwerty" creationdate="20220405T172714Z">
         <seg>Aktualne wykorzystanie pamięci przez VM: {0}MB;wolne miejsce: {1}MB; maksymalna pojemność: {2}MB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom Colours</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180750Z" creationid="studentILS10" creationdate="20220504T180750Z">
+        <seg>Kolory spersonalizowane</seg>
       </tuv>
     </tu>
     <tu>
@@ -5354,6 +5394,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T173053Z" creationid="studentILS10" creationdate="20220504T173053Z">
         <seg>Terminy o wielu tłumaczeniach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T180800Z" creationid="studentILS10" creationdate="20220504T180800Z">
+        <seg>Tekst</seg>
       </tuv>
     </tu>
     <tu>
