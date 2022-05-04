@@ -995,6 +995,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T174226Z" creationid="studentILS10" creationdate="20220504T174226Z">
+        <seg>Dodaj znaki do tabeli niestandardowej, klikając je dwukrotnie lub zaznaczając i naciskając klawisz Insert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T230939Z" creationid="ewawoj" creationdate="20220411T230939Z">
@@ -1364,6 +1372,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Character table auto-completer options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T174050Z" creationid="studentILS10" creationdate="20220504T174050Z">
+        <seg>Opcje autouzupełniania tabeli znaków</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Characters (w/ spaces)</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091634Z" creationid="GKarpowicz" creationdate="20220406T091634Z">
@@ -1680,6 +1696,22 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T201640Z" creationid="mademoiselleqwerty" creationdate="20220405T172714Z">
         <seg>Aktualne wykorzystanie pamięci przez VM: {0}MB;wolne miejsce: {1}MB; maksymalna pojemność: {2}MB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom table</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T174450Z" creationid="studentILS10" creationdate="20220504T174450Z">
+        <seg>Tabela niestandardowa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customize character &amp;table</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T174110Z" creationid="studentILS10" creationdate="20220504T174110Z">
+        <seg>Dostosuj tabelę znaków</seg>
       </tuv>
     </tu>
     <tu>
@@ -2493,6 +2525,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220427T141119Z" creationid="agrze" creationdate="20220427T141119Z">
         <seg>Full checking can lead to false positives in normal texts and the PO filter already detects them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full table</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T174240Z" creationid="studentILS10" creationdate="20220504T174240Z">
+        <seg>Pełna tabela</seg>
       </tuv>
     </tu>
     <tu>
