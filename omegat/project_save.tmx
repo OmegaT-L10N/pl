@@ -1144,6 +1144,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-text configuration</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T173554Z" creationid="studentILS10" creationdate="20220504T173554Z">
+        <seg>Konfiguracja autotekstu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Available script engines:</seg>
       </tuv>
       <tuv lang="PL" changeid="Zooola" changedate="20220427T142955Z" creationid="Zooola" creationdate="20220427T142955Z">
@@ -1662,8 +1670,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Display</seg>
       </tuv>
-      <tuv lang="PL" changeid="student" changedate="20220427T135634Z" creationid="student" creationdate="20220427T135634Z">
-        <seg>[fuzzy]Pokaż</seg>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T173633Z" creationid="student" creationdate="20220427T135634Z">
+        <seg>Wyświetlanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -1965,6 +1973,14 @@ Tej jedynej nie ma!</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220415T105223Z" creationid="mat_staszak" creationdate="20220415T105223Z">
         <seg>Koniec frazy zakończony bez bloku końcowego!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T173640Z" creationid="studentILS10" creationdate="20220504T173640Z">
+        <seg>Wpisy</seg>
       </tuv>
     </tu>
     <tu>
@@ -4546,6 +4562,30 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T154945Z" creationid="werric" creationdate="20220419T124232Z">
         <seg>Niektóre z folderów projektu mogły zostać przeniesione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T173515Z" creationid="studentILS10" creationdate="20220504T173515Z">
+        <seg>Sortuj alfabetycznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by &amp;full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T173538Z" creationid="studentILS10" creationdate="20220504T173538Z">
+        <seg>Sortuj według pełnego tekstu, a nie skrótu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by len&amp;gth</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T173405Z" creationid="studentILS10" creationdate="20220504T173405Z">
+        <seg>Sortuj według długości</seg>
       </tuv>
     </tu>
     <tu>
