@@ -864,6 +864,14 @@ Znakowi "?" odpowiada dokładnie jeden znak ("biega*" odpowiada "biegam", "biega
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1 conflict</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T175116Z" creationid="studentILS10" creationdate="20220504T175116Z">
+        <seg>1 konflikt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T201407Z" creationid="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" creationdate="20220420T201407Z">
@@ -1728,6 +1736,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T174110Z" creationid="studentILS10" creationdate="20220504T174110Z">
         <seg>Dostosuj tabelę znaków</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Details unavailable</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T175128Z" creationid="studentILS10" creationdate="20220504T175128Z">
+        <seg>Szczegóły niedostępne</seg>
       </tuv>
     </tu>
     <tu>
@@ -3229,6 +3245,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Merge</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T174909Z" creationid="studentILS10" creationdate="20220504T174909Z">
+        <seg>Połącz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mine</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T174843Z" creationid="studentILS10" creationdate="20220504T174843Z">
@@ -3828,6 +3852,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="PL" changeid="Magda" changedate="20220427T140017Z" creationid="Magda" creationdate="20220427T140017Z">
         <seg>Wprowadź swoje imię/identyfikator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please resolve the conflicts by choosing a translation for each segment below.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T174932Z" creationid="studentILS10" creationdate="20220504T174932Z">
+        <seg>Rozwiąż konflikty, wybierając tłumaczenie dla każdego z poniższych segmentów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5666,6 +5698,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use all mine</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T175216Z" creationid="studentILS10" creationdate="20220504T175216Z">
+        <seg>Użyj wszystkich moich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use as Default Translation</seg>
       </tuv>
       <tuv lang="PL" changeid="student" changedate="20220427T135829Z" creationid="student" creationdate="20220427T135829Z">
@@ -5984,6 +6024,22 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230056Z" creationid="mat_staszak" creationdate="20220411T230056Z">
         <seg>{0} +{1} więcej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} conflicts</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T175021Z" creationid="studentILS10" creationdate="20220504T175021Z">
+        <seg>{0} konflikt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T174939Z" creationid="studentILS10" creationdate="20220504T174939Z">
+        <seg>{0} segmenty</seg>
       </tuv>
     </tu>
     <tu>
