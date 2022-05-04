@@ -1382,8 +1382,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Character Table</seg>
       </tuv>
-      <tuv lang="PL" changeid="student" changedate="20220427T135626Z" creationid="student" creationdate="20220427T135626Z">
-        <seg>Character Table</seg>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T174618Z" creationid="student" creationdate="20220427T135626Z">
+        <seg>Tabela znaków</seg>
       </tuv>
     </tu>
     <tu>
@@ -2521,6 +2521,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T174742Z" creationid="studentILS10" creationdate="20220504T174742Z">
+        <seg>Aby uzyskać najlepsze rezultaty, należy zainstalować odpowiednie słowniki, korzystając z opcji Preferencje &gt; Sprawdzanie pisowni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Format:</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220415T120455Z" creationid="ewawoj" creationdate="20220415T120455Z">
@@ -3217,6 +3225,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222504Z" creationid="mat_staszak" creationdate="20220411T222504Z">
         <seg>Pamięć</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mine</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T174843Z" creationid="studentILS10" creationdate="20220504T174843Z">
+        <seg>Mój</seg>
       </tuv>
     </tu>
     <tu>
@@ -4600,8 +4616,16 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Server (original)</seg>
       </tuv>
-      <tuv lang="PL" changeid="student" changedate="20220427T135615Z" creationid="student" creationdate="20220427T135615Z">
-        <seg>Server (original)</seg>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T174759Z" creationid="student" creationdate="20220427T135615Z">
+        <seg>Serwer (oryginalny)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server (updated)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T174901Z" creationid="studentILS10" creationdate="20220504T174901Z">
+        <seg>Serwer (zaktualizowany)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5706,6 +5730,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Warning!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T174629Z" creationid="studentILS10" creationdate="20220504T174629Z">
+        <seg>Uwaga!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Warning: Changing tag order may break the translated document!</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T110441Z" creationid="student" creationdate="20220427T135852Z">
@@ -5804,6 +5836,14 @@ Twoja strona odeszła wraz z nimi</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224517Z" creationid="mat_staszak" creationdate="20220411T224517Z">
         <seg>Wprowadzisz zmianę w  {0}  segmencie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T174712Z" creationid="studentILS10" creationdate="20220504T174712Z">
+        <seg>Próbujesz użyć HunspellTokenizer z językiem {0}, ale dla tego języka nie są zainstalowane żadne słowniki ortograficzne.</seg>
       </tuv>
     </tu>
     <tu>
