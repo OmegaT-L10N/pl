@@ -1692,6 +1692,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T172441Z" creationid="studentILS10" creationdate="20220504T172441Z">
+        <seg>Wyświetla wpisy w postaci "&lt;cel&gt; → &lt;źródło&gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T111658Z" creationid="agrze" creationdate="20220427T141559Z">
@@ -2449,6 +2457,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary auto-completer options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T172257Z" creationid="studentILS10" creationdate="20220504T172257Z">
+        <seg>Opcje autouzupełniania słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T155130Z" creationid="mademoiselleqwerty" creationdate="20220412T175652Z">
@@ -2554,6 +2570,14 @@ Znać jej koniec nadchodzi</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220415T105033Z" creationid="mat_staszak" creationdate="20220415T105033Z">
         <seg>Błąd wejścia / wyjścia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the entries are sorted alphabetically.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T172241Z" creationid="studentILS10" creationdate="20220504T172241Z">
+        <seg>Jeśli jest zaznaczone, wpisy są sortowane alfabetycznie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4448,8 +4472,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Show &amp;target term first</seg>
       </tuv>
-      <tuv lang="PL" changeid="student" changedate="20220427T134730Z" creationid="student" creationdate="20220427T134730Z">
-        <seg>[fuzzy]Show &amp;longer target terms first</seg>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T172328Z" creationid="student" creationdate="20220427T134730Z">
+        <seg>Pokaż najpierw termin docelowy</seg>
       </tuv>
     </tu>
     <tu>
