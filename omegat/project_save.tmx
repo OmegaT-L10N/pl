@@ -1702,16 +1702,16 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
       </tuv>
-      <tuv lang="PL" changeid="studentILS10" changedate="20220504T172634Z" creationid="studentILS10" creationdate="20220504T172634Z">
-        <seg>Wyświetla wpisy w postaci "&lt;źródło&gt; → &lt;cel&gt;".</seg>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T173011Z" creationid="studentILS10" creationdate="20220504T172634Z">
+        <seg>Wyświetla wpisy w postaci "&lt;źródło&gt; → &lt;termin docelowy&gt;".</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
-      <tuv lang="PL" changeid="studentILS10" changedate="20220504T172441Z" creationid="studentILS10" creationdate="20220504T172441Z">
-        <seg>Wyświetla wpisy w postaci "&lt;cel&gt; → &lt;źródło&gt;"</seg>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T173000Z" creationid="studentILS10" creationdate="20220504T172441Z">
+        <seg>Wyświetla wpisy w postaci "&lt;termin docelowy&gt; → &lt;źródło&gt;"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4730,6 +4730,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T130119Z" creationid="werric" creationdate="20220419T130119Z">
         <seg>Mapowanie repozytoriów w trybie zespołowym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terms with multiple targets</seg>
+      </tuv>
+      <tuv lang="PL" changeid="studentILS10" changedate="20220504T173053Z" creationid="studentILS10" creationdate="20220504T173053Z">
+        <seg>Terminy o wielu tłumaczeniach</seg>
       </tuv>
     </tu>
     <tu>
