@@ -184,8 +184,8 @@
       <tuv lang="EN">
         <seg>&amp;Empty lines</seg>
       </tuv>
-      <tuv lang="PL" changeid="aa bb" changedate="20220505T193809Z" creationid="aa bb" creationdate="20220505T193809Z">
-        <seg>&amp;Pustej linii</seg>
+      <tuv lang="PL" changeid="aa bb" changedate="20220505T194230Z" creationid="aa bb" creationdate="20220505T193809Z">
+        <seg>&amp;Pustego wiersza</seg>
       </tuv>
     </tu>
     <tu>
@@ -344,8 +344,8 @@
       <tuv lang="EN">
         <seg>&amp;Line breaks</seg>
       </tuv>
-      <tuv lang="PL" changeid="aa bb" changedate="20220505T193617Z" creationid="aa bb" creationdate="20220505T193617Z">
-        <seg>Nowej &amp;linii</seg>
+      <tuv lang="PL" changeid="aa bb" changedate="20220505T194207Z" creationid="aa bb" creationdate="20220505T193617Z">
+        <seg>Nowego &amp;wiersza</seg>
       </tuv>
     </tu>
     <tu>
@@ -4483,6 +4483,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220405T172700Z" creationid="werric" creationdate="20220405T172700Z">
         <seg>Opcje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options to set the line length in target documents (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220505T194440Z" creationid="aa bb" creationdate="20220505T194440Z">
+        <seg>Opcje ustawienia długości wiersza w dokumentach docelowych (0 = no limit)</seg>
       </tuv>
     </tu>
     <tu>
