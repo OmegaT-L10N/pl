@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1175,6 +1175,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T175802Z" creationid="studentILS10" creationdate="20220504T175802Z">
         <seg>Dodane: {1}, Usuniete: {2}, Zmodyfikowane: {3} (Konfikty: {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T115739Z" creationid="2021ILS2022" creationdate="20220505T115739Z">
+        <seg>Wymuszona zmiana czcionki</seg>
       </tuv>
     </tu>
     <tu>
@@ -3581,6 +3589,30 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mar&amp;k Whitespace</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T114507Z" creationid="2021ILS2022" creationdate="20220505T114507Z">
+        <seg>Zaznacz znaki niedrukowalne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T115726Z" creationid="2021ILS2022" creationdate="20220505T115726Z">
+        <seg>Zaznacz automatycznie wypełnione segmenty </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T115643Z" creationid="2021ILS2022" creationdate="20220505T115643Z">
+        <seg>Zaznacz znaki kontroli alagorytmu unicode-bidi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Non-breakable Spaces</seg>
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T114351Z" creationid="2021ILS2022" creationdate="20220505T114351Z">
@@ -3609,6 +3641,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104228Z" creationid="mademoiselleqwerty" creationdate="20220418T104228Z">
         <seg>Zaznacz nieprzetłumaczone segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Glossary Matches</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T115833Z" creationid="2021ILS2022" creationdate="20220505T115833Z">
+        <seg>Zaznacz wyniki z glosariusza</seg>
       </tuv>
     </tu>
     <tu>
