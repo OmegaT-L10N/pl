@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Cycle</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113748Z" creationid="2021ILS2022" creationdate="20220505T113748Z">
+        <seg>Zmieniaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Dictionaries</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T093344Z" creationid="mademoiselleqwerty" creationdate="20220418T093344Z">
@@ -346,6 +354,14 @@
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220420T122923Z" creationid="mademoiselleqwerty" creationdate="20220418T103123Z">
         <seg>Statystyki dopasowań</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113903Z" creationid="2021ILS2022" creationdate="20220505T113903Z">
+        <seg>Informacja o zmianach</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Sentence Case</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113724Z" creationid="2021ILS2022" creationdate="20220505T113724Z">
+        <seg>Wielka pierwsza litera zdania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Show All</seg>
       </tuv>
       <tuv lang="PL" changeid="kasiawinciorek" changedate="20220427T143001Z" creationid="kasiawinciorek" creationdate="20220427T143001Z">
@@ -702,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Title Case</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113621Z" creationid="2021ILS2022" creationdate="20220505T113621Z">
+        <seg>Wielka pierwsza litera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Tools</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102639Z" creationid="mademoiselleqwerty" creationdate="20220418T102639Z">
@@ -738,6 +770,14 @@
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113611Z" creationid="2021ILS2022" creationdate="20220505T113611Z">
         <seg>Wielkie litery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;View</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113753Z" creationid="2021ILS2022" creationdate="20220505T113753Z">
+        <seg>Widok</seg>
       </tuv>
     </tu>
     <tu>
@@ -2028,10 +2068,34 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display &amp;None</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113914Z" creationid="2021ILS2022" creationdate="20220505T113914Z">
+        <seg>Nie wyświetlaj żadnego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display &amp;Source Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113933Z" creationid="2021ILS2022" creationdate="20220505T113805Z">
+        <seg>Wyświetl segmenty źródłowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display context description for TBX &amp;glossaries</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104717Z" creationid="mademoiselleqwerty" creationdate="20220418T104717Z">
         <seg>Wyświetl opis kontekstu dla glosariuszy TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display for Current &amp;Segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113921Z" creationid="2021ILS2022" creationdate="20220505T113921Z">
+        <seg>Wyś</seg>
       </tuv>
     </tu>
     <tu>
@@ -3521,6 +3585,22 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104228Z" creationid="mademoiselleqwerty" creationdate="20220418T104228Z">
         <seg>Zaznacz nieprzetłumaczone segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Non-Unique Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113818Z" creationid="2021ILS2022" creationdate="20220505T113818Z">
+        <seg>Zaznacz powtarzające się segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Segments &amp;with Notes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113826Z" creationid="2021ILS2022" creationdate="20220505T113826Z">
+        <seg>Zaznacz segmenty z notatkami</seg>
       </tuv>
     </tu>
     <tu>
