@@ -1792,6 +1792,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connect to custom server instead of apertium.org</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T121443Z" creationid="2021ILS2022" creationdate="20220505T121443Z">
+        <seg>Połącz się z niestandardowym serwerem zamiast z apertium.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
@@ -2048,6 +2056,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T120646Z" creationid="2021ILS2022" creationdate="20220505T120646Z">
         <seg>Wytnij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DeepL</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T121207Z" creationid="2021ILS2022" creationdate="20220505T121207Z">
+        <seg>DeepL</seg>
       </tuv>
     </tu>
     <tu>
@@ -2445,6 +2461,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Email:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T121327Z" creationid="2021ILS2022" creationdate="20220505T121327Z">
+        <seg>E-mail:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Emptiness of soul
 Forever aching blackness
 Your help page not found</seg>
@@ -2617,6 +2641,22 @@ Nikt nie usłyszy twych krzyków.</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T180415Z" creationid="studentILS10" creationdate="20220504T180415Z">
         <seg>Błąd aktualizacji pliku glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error while reading MT results</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T121237Z" creationid="2021ILS2022" creationdate="20220505T121237Z">
+        <seg>Błąd podczas odczytu wyników tłumaczenia maszynowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error {0}: {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T121353Z" creationid="2021ILS2022" creationdate="20220505T121353Z">
+        <seg>Błąd {0}: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3202,6 +3242,14 @@ Znać jej koniec nadchodzi</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T095417Z" creationid="mademoiselleqwerty" creationdate="20220418T095417Z">
         <seg>Wstaw tekst źródłowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IBM Watson</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T121213Z" creationid="2021ILS2022" creationdate="20220505T121213Z">
+        <seg>IBM Watson</seg>
       </tuv>
     </tu>
     <tu>
@@ -3917,6 +3965,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moses</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T121205Z" creationid="2021ILS2022" creationdate="20220505T121205Z">
+        <seg>Moses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mourning and sorrow
 404 not with us now
 Lost to paradise</seg>
@@ -3973,6 +4029,22 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="student" changedate="20220427T135611Z" creationid="student" creationdate="20220427T135611Z">
         <seg>Różne tłumaczenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MyMemory (human)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T121148Z" creationid="2021ILS2022" creationdate="20220505T121148Z">
+        <seg>MyMemory (tłumaczenie wykonane przez człowieka)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MyMemory (machine)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T121202Z" creationid="2021ILS2022" creationdate="20220505T121202Z">
+        <seg>MyMemory (tłumaczenie wykonane maszynowo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6788,6 +6860,14 @@ Twoja strona odeszła wraz z nimi</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T180400Z" creationid="studentILS10" creationdate="20220504T180400Z">
         <seg>Nieprawidłowy format odpowiedzi usługi TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yandex.Cloud</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T121221Z" creationid="2021ILS2022" creationdate="20220505T121221Z">
+        <seg>Yandex.Cloud</seg>
       </tuv>
     </tu>
     <tu>
