@@ -800,6 +800,14 @@ Znakowi "?" odpowiada dokładnie jeden znak ("biega*" odpowiada "biegam", "biega
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(+{0} more)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T120340Z" creationid="2021ILS2022" creationdate="20220505T120340Z">
+        <seg>(+{0} więcej)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(close tag)</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230950Z" creationid="mat_staszak" creationdate="20220411T230950Z">
@@ -2509,6 +2517,14 @@ Nikt nie usłyszy twych krzyków.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error on application startup</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T120420Z" creationid="2021ILS2022" creationdate="20220505T120420Z">
+        <seg>Błąd przy uruchamianiu aplikacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error reading TMX level2 at line {0} column {1}</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T230506Z" creationid="ewawoj" creationdate="20220411T230506Z">
@@ -2921,6 +2937,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Found in:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T120308Z" creationid="2021ILS2022" creationdate="20220505T120308Z">
+        <seg>Znajduje się w:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Full checking can lead to false positives in normal texts and the PO filter already detects them.</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220427T141119Z" creationid="agrze" creationdate="20220427T141119Z">
@@ -3098,6 +3122,14 @@ Znać jej koniec nadchodzi</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T155041Z" creationid="werric" creationdate="20220419T124838Z">
         <seg>Możesz tutaj również określić położenie folderów projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hide '{0}'</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T120401Z" creationid="2021ILS2022" creationdate="20220505T120401Z">
+        <seg>Ukryj '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -5622,6 +5654,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TM Matching Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T120351Z" creationid="2021ILS2022" creationdate="20220505T120351Z">
+        <seg>Opcje dopasowania pamięci tłumaczeniowej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T225819Z" creationid="ewawoj" creationdate="20220411T225819Z">
@@ -5923,6 +5963,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="jarosz" changedate="20220427T142705Z" creationid="jarosz" creationdate="20220427T142705Z">
         <seg>To wywołanie MUSI być w wątku swing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T120326Z" creationid="2021ILS2022" creationdate="20220505T120326Z">
+        <seg>Ten projekt</seg>
       </tuv>
     </tu>
     <tu>
@@ -6696,6 +6744,14 @@ Twoja strona odeszła wraz z nimi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T120640Z" creationid="2021ILS2022" creationdate="20220505T120640Z">
+        <seg>Należy zaktualizować JDK 1.6 do najnowszej wersji lub po prostu usunąć pliki jaxb-*.jar z katalogu OmegaT /lib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You should specify their new location or recreate them.</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T124744Z" creationid="werric" creationdate="20220419T124409Z">
@@ -6734,6 +6790,14 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T125015Z" creationid="werric" creationdate="20220419T125015Z">
         <seg>Pliki ZIP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[Fuzzy]</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T120257Z" creationid="2021ILS2022" creationdate="20220505T120257Z">
+        <seg>[rozmyty]</seg>
       </tuv>
     </tu>
     <tu>
