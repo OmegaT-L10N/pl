@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Empty lines</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220505T193809Z" creationid="aa bb" creationdate="20220505T193809Z">
+        <seg>&amp;Pustej linii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable TaaS terminology lookup</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T180554Z" creationid="studentILS10" creationdate="20220504T180554Z">
@@ -330,6 +338,14 @@
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220427T142319Z" creationid="aa bb" creationdate="20220427T142319Z">
         <seg>[coś w rodzaju]&amp;Licencja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Line breaks</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220505T193617Z" creationid="aa bb" creationdate="20220505T193617Z">
+        <seg>Nowej &amp;linii</seg>
       </tuv>
     </tu>
     <tu>
