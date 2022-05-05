@@ -4832,14 +4832,6 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>QuarkXPress CopyFlow Gold</seg>
-      </tuv>
-      <tuv lang="PL" changeid="aa bb" changedate="20220427T141725Z" creationid="aa bb" creationdate="20220427T141725Z">
-        <seg>[coś w rodzaju]Pliki QuarkXPress CopyFlow Gold</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>R&amp;emove</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T201156Z" creationid="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" creationdate="20220420T201156Z">
@@ -5370,6 +5362,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T181140Z" creationid="studentILS10" creationdate="20220504T181140Z">
         <seg>Tekst znacznika segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment source text into paragraphs on:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220505T193535Z" creationid="aa bb" creationdate="20220505T193535Z">
+        <seg>Podziel tekst źródłowy na segmenty przy:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5906,6 +5906,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T180800Z" creationid="studentILS10" creationdate="20220504T180800Z">
         <seg>Tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Filter Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220505T193425Z" creationid="aa bb" creationdate="20220505T193425Z">
+        <seg>Opcje filtra Tekst</seg>
       </tuv>
     </tu>
     <tu>
