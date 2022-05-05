@@ -1980,6 +1980,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionary Installer</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113156Z" creationid="2021ILS2022" creationdate="20220505T113156Z">
+        <seg>Instalator słownika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionary files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T153635Z" creationid="werric" creationdate="20220419T153635Z">
@@ -3317,6 +3325,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113134Z" creationid="2021ILS2022" creationdate="20220505T113134Z">
+        <seg>LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool is not available for your target language.</seg>
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T112642Z" creationid="2021ILS2022" creationdate="20220505T112642Z">
@@ -3353,6 +3369,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T175418Z" creationid="studentILS10" creationdate="20220504T175418Z">
         <seg>Widok listy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Load a project to configure rules for that project's languages.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113122Z" creationid="2021ILS2022" creationdate="20220505T113122Z">
+        <seg>Załaduj projekt w celu skonfigurowania reguł dotyczących jego języków.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3757,6 +3781,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="jarosz" changedate="20220427T142729Z" creationid="jarosz" creationdate="20220427T142729Z">
         <seg>Nie ma potrzeby zapisywania projektu, bo nie wprowadzono żadnych zmian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No new dictionaries available at the remote server.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113336Z" creationid="2021ILS2022" creationdate="20220505T113336Z">
+        <seg>Nowe słowniki na zdalnym serwerze są niedostępne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4212,6 +4244,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T153909Z" creationid="werric" creationdate="20220419T153909Z">
         <seg>Proszę wybrać inny folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select the dictionaries you want to install and press the Install button.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113231Z" creationid="2021ILS2022" creationdate="20220505T113231Z">
+        <seg>Wybierz słowniki, które chcesz zainstalować i kliknij klawisz Instaluj.</seg>
       </tuv>
     </tu>
     <tu>
