@@ -3815,8 +3815,8 @@ Odeszła do raju</seg>
       <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Dell" changedate="20220505T095401Z" creationid="Dell" creationdate="20220505T095401Z">
-        <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220505T102426Z" creationid="Dell" creationdate="20220505T095401Z">
+        <seg>Uwaga: Ustawienie kodowania pliku źródłowego w formacie HTML działa tylko wtedy, kiedy kodowania nie zadeklarowano wewnątrz pliku.</seg>
       </tuv>
     </tu>
     <tu>
