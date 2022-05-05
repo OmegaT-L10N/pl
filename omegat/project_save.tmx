@@ -3557,6 +3557,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java(TM) Resource Bundles</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220505T203205Z" creationid="aa bb" creationdate="20220505T203205Z">
+        <seg>Paczki zasobów Java(TM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java: {0} ver.</seg>
       </tuv>
       <tuv lang="PL" changeid="jarosz" changedate="20220427T141608Z" creationid="Marcin J" creationdate="20220427T135254Z">
