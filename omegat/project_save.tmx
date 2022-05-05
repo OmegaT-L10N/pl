@@ -1596,6 +1596,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Camtasia for Windows</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220505T205611Z" creationid="aa bb" creationdate="20220505T205611Z">
+        <seg>Camtasia dla Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="PL" changeid="Zooola" changedate="20220427T142716Z" creationid="Zooola" creationdate="20220427T142716Z">
