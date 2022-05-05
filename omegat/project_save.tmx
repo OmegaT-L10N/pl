@@ -3661,6 +3661,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Line length:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220505T194506Z" creationid="aa bb" creationdate="20220505T194506Z">
+        <seg>Długość wiersza:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>List View</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T175418Z" creationid="studentILS10" creationdate="20220504T175418Z">
@@ -3905,6 +3913,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T120925Z" creationid="agrze" creationdate="20220501T120925Z">
         <seg>Zmaksymalizuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maximum line length:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220505T202959Z" creationid="aa bb" creationdate="20220505T202959Z">
+        <seg>Maksymalna długość wiersza:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4489,8 +4505,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Options to set the line length in target documents (0 = no limit)</seg>
       </tuv>
-      <tuv lang="PL" changeid="aa bb" changedate="20220505T194440Z" creationid="aa bb" creationdate="20220505T194440Z">
-        <seg>Opcje ustawienia długości wiersza w dokumentach docelowych (0 = no limit)</seg>
+      <tuv lang="PL" changeid="aa bb" changedate="20220505T194616Z" creationid="aa bb" creationdate="20220505T194440Z">
+        <seg>Opcje ustawienia długości wiersza w dokumentach docelowych (0 = brak limitu)</seg>
       </tuv>
     </tu>
     <tu>
