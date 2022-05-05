@@ -2092,10 +2092,18 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display for &amp;All Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T114055Z" creationid="2021ILS2022" creationdate="20220505T114055Z">
+        <seg>Wyświetl dla wszystkich segmentów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display for Current &amp;Segment</seg>
       </tuv>
-      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113921Z" creationid="2021ILS2022" creationdate="20220505T113921Z">
-        <seg>Wyś</seg>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T114018Z" creationid="2021ILS2022" creationdate="20220505T113921Z">
+        <seg>Wyświetl dla aktywnego segmentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3561,6 +3569,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T130657Z" creationid="werric" creationdate="20220419T130657Z">
         <seg>Mapowanie folderów lokalnych do zdalnych folderów w Repozytoriach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Non-breakable Spaces</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T114351Z" creationid="2021ILS2022" creationdate="20220505T114351Z">
+        <seg>Zaznacz twarde spacje</seg>
       </tuv>
     </tu>
     <tu>
