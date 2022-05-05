@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2946,6 +2946,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTML and XHTML</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Dell" changedate="20220505T100011Z" creationid="Dell" creationdate="20220505T095336Z">
+        <seg>HTML i XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTTP(S)</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T133909Z" creationid="werric" creationdate="20220419T133909Z">
@@ -3801,6 +3809,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T175613Z" creationid="studentILS10" creationdate="20220504T175613Z">
         <seg>Notatka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Dell" changedate="20220505T095401Z" creationid="Dell" creationdate="20220505T095401Z">
+        <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
       </tuv>
     </tu>
     <tu>
