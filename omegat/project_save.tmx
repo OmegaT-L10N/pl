@@ -1334,6 +1334,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apertium</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T121107Z" creationid="2021ILS2022" creationdate="20220505T121107Z">
+        <seg>Apertium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appearance</seg>
       </tuv>
       <tuv lang="PL" changeid="student" changedate="20220427T135849Z" creationid="student" creationdate="20220427T135849Z">
@@ -1480,6 +1488,14 @@ Buy another drink</seg>
         <seg>A barman rzekł:
 zaiste, nie ma tu synu strony dla ciebie...
 Inny wybierz napitek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Belazar</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T121103Z" creationid="2021ILS2022" creationdate="20220505T121103Z">
+        <seg>Belazar</seg>
       </tuv>
     </tu>
     <tu>
@@ -3089,6 +3105,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Google Translate v2</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T121026Z" creationid="2021ILS2022" creationdate="20220505T121026Z">
+        <seg>Tłumacz Google</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Got unexpected HTTP response {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="jarosz" changedate="20220427T141529Z" creationid="jarosz" creationdate="20220427T141529Z">
@@ -3631,8 +3655,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="EN">
         <seg>MT engine error({0}) {1}</seg>
       </tuv>
-      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T120828Z" creationid="2021ILS2022" creationdate="20220505T120828Z">
-        <seg>Błąd </seg>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T120958Z" creationid="2021ILS2022" creationdate="20220505T120828Z">
+        <seg>Błąd mechanizmu tłumaczenia maszynowego({0}) {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3825,6 +3849,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T174909Z" creationid="studentILS10" creationdate="20220504T174909Z">
         <seg>Połącz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Translator</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T121129Z" creationid="2021ILS2022" creationdate="20220505T121129Z">
+        <seg>Tłumacz Microsoft</seg>
       </tuv>
     </tu>
     <tu>
