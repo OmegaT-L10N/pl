@@ -3027,8 +3027,8 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>Go To Segment Source</seg>
       </tuv>
-      <tuv lang="PL" changeid="student" changedate="20220427T140020Z" creationid="student" creationdate="20220427T140020Z">
-        <seg>Przejdź do źródła segmentu</seg>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T115915Z" creationid="student" creationdate="20220427T140020Z">
+        <seg>Przejdź do segmentu źródłowego</seg>
       </tuv>
     </tu>
     <tu>
@@ -3247,6 +3247,14 @@ położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawien
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T200901Z" creationid="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" creationdate="20220420T200901Z">
         <seg>Zainicjowano {0} - {1} projekt zespołowy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Match or Selection Into Translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T115953Z" creationid="2021ILS2022" creationdate="20220505T115953Z">
+        <seg>Wstaw dopasowanie lub zaznaczenie do tłumaczenia </seg>
       </tuv>
     </tu>
     <tu>
@@ -4840,6 +4848,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T105150Z" creationid="mademoiselleqwerty" creationdate="20220405T164638Z">
         <seg>Zastąp hasła glosariusza podczas wstawiania tekstu źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace Translation with Match or Selection</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T120017Z" creationid="2021ILS2022" creationdate="20220505T120017Z">
+        <seg>Zastąp tłumaczenie dopasowaniem lub zaznaczeniem</seg>
       </tuv>
     </tu>
     <tu>
