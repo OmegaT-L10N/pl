@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically Fetch Translations</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T120731Z" creationid="2021ILS2022" creationdate="20220505T120731Z">
+        <seg>Automatycznie pobieraj tłumaczenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back in History</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102500Z" creationid="mademoiselleqwerty" creationdate="20220418T102500Z">
@@ -762,6 +770,14 @@
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T094347Z" creationid="mademoiselleqwerty" creationdate="20220418T094347Z">
         <seg>Cofnij ostatnią czynność</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Untranslated Segments Only</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T120803Z" creationid="2021ILS2022" creationdate="20220505T120803Z">
+        <seg>Tylko nieprzetłumaczone segmenty</seg>
       </tuv>
     </tu>
     <tu>
@@ -1828,6 +1844,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T120650Z" creationid="2021ILS2022" creationdate="20220505T120650Z">
+        <seg>Kopiuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T091235Z" creationid="mademoiselleqwerty" creationdate="20220418T091153Z">
@@ -2000,6 +2024,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T174110Z" creationid="studentILS10" creationdate="20220504T174110Z">
         <seg>Dostosuj tabelę znaków</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T120646Z" creationid="2021ILS2022" creationdate="20220505T120646Z">
+        <seg>Wytnij</seg>
       </tuv>
     </tu>
     <tu>
@@ -3597,6 +3629,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MT engine error({0}) {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T120828Z" creationid="2021ILS2022" creationdate="20220505T120828Z">
+        <seg>Błąd </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104542Z" creationid="mademoiselleqwerty" creationdate="20220418T104542Z">
@@ -4391,6 +4431,14 @@ Niczym wiatrem niesiona
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220415T120734Z" creationid="ewawoj" creationdate="20220415T120708Z">
         <seg>Pliki PDF chronione hasłem nie są obsługiwane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T120652Z" creationid="2021ILS2022" creationdate="20220505T120652Z">
+        <seg>Wklej</seg>
       </tuv>
     </tu>
     <tu>
