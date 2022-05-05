@@ -856,6 +856,14 @@ Znakowi "?" odpowiada dokładnie jeden znak ("biega*" odpowiada "biegam", "biega
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>---- Localization Notes ----</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220505T193202Z" creationid="aa bb" creationdate="20220505T193202Z">
+        <seg>---- Notatki lokalizacji ----</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--ITokenizer=&lt;classname&gt;
 	--ITokenizerTarget=&lt;classname&gt;
 		Source- or target-language tokenizer to use (overrides project
