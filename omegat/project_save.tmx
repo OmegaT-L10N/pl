@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Lower Case</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113602Z" creationid="2021ILS2022" creationdate="20220505T113602Z">
+        <seg>Małe litery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Make the segmentation rules project specific</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T134348Z" creationid="werric" creationdate="20220419T104445Z">
@@ -722,6 +730,14 @@
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T094347Z" creationid="mademoiselleqwerty" creationdate="20220418T094347Z">
         <seg>Cofnij ostatnią czynność</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Upper Case</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113611Z" creationid="2021ILS2022" creationdate="20220505T113611Z">
+        <seg>Wielkie litery</seg>
       </tuv>
     </tu>
     <tu>
@@ -1316,6 +1332,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T173838Z" creationid="studentILS10" creationdate="20220504T173838Z">
         <seg>Autotekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Available dictionaries:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113510Z" creationid="2021ILS2022" creationdate="20220505T113510Z">
+        <seg>Dostępne słowniki:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1982,8 +2006,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Dictionary Installer</seg>
       </tuv>
-      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113156Z" creationid="2021ILS2022" creationdate="20220505T113156Z">
-        <seg>Instalator słownika.</seg>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113447Z" creationid="2021ILS2022" creationdate="20220505T113156Z">
+        <seg>Instalator słownika</seg>
       </tuv>
     </tu>
     <tu>
@@ -3175,6 +3199,14 @@ położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawien
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T101357Z" creationid="mademoiselleqwerty" creationdate="20220418T101357Z">
         <seg>Wstaw znak kontrolny Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113443Z" creationid="2021ILS2022" creationdate="20220505T113443Z">
+        <seg>Instaluj</seg>
       </tuv>
     </tu>
     <tu>
@@ -4808,6 +4840,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222424Z" creationid="mat_staszak" creationdate="20220411T222424Z">
         <seg>Segment zawiera twardą spację</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>S&amp;witch Case To</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113546Z" creationid="2021ILS2022" creationdate="20220505T113546Z">
+        <seg>Zmiana wielkości liter</seg>
       </tuv>
     </tu>
     <tu>
