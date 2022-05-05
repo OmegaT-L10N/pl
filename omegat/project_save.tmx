@@ -5300,6 +5300,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SVG Image and Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220505T205938Z" creationid="aa bb" creationdate="20220505T205938Z">
+        <seg>Obraz SVG i eksport Adobe Illustrator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Alignment Results</seg>
       </tuv>
       <tuv lang="PL" changeid="kasiawinciorek" changedate="20220427T142204Z" creationid="kasiawinciorek" creationdate="20220427T142204Z">
@@ -6908,8 +6916,8 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       <tuv lang="EN">
         <seg>WiX Localization</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220416T190443Z" creationid="mademoiselleqwerty" creationdate="20220416T190443Z">
-        <seg>WiX Localization</seg>
+      <tuv lang="PL" changeid="aa bb" changedate="20220505T205752Z" creationid="mademoiselleqwerty" creationdate="20220416T190443Z">
+        <seg>Lokalizacja WiX</seg>
       </tuv>
     </tu>
     <tu>
