@@ -5955,8 +5955,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Mozilla FTL filter threw an exception:</seg>
       </tuv>
-      <tuv lang="PL" changeid="aa bb" changedate="20220427T141652Z" creationid="aa bb" creationdate="20220427T141652Z">
-        <seg>[coś w rodzaju]Filtr Mozilla DTD zgłosił wyjątek</seg>
+      <tuv lang="PL" changeid="aa bb" changedate="20220505T192531Z" creationid="aa bb" creationdate="20220427T141652Z">
+        <seg>Filtr Mozilla FTL zgłosił wyjątek:</seg>
       </tuv>
     </tu>
     <tu>
