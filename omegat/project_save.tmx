@@ -6033,6 +6033,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Java Resource Bundles filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220505T204312Z" creationid="aa bb" creationdate="20220505T204312Z">
+        <seg>Filtr Paczki zasobów Java zgłosił wyjątek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220415T165501Z" creationid="ewawoj" creationdate="20220415T164922Z">
