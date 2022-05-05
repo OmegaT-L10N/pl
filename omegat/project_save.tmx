@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Never</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220505T193842Z" creationid="aa bb" creationdate="20220505T193842Z">
+        <seg>&amp;Nigdy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;New...</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T153045Z" creationid="mademoiselleqwerty" creationdate="20220418T090608Z">
@@ -5384,8 +5392,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Segment source text into paragraphs on:</seg>
       </tuv>
-      <tuv lang="PL" changeid="aa bb" changedate="20220505T193535Z" creationid="aa bb" creationdate="20220505T193535Z">
-        <seg>Podziel tekst źródłowy na segmenty przy:</seg>
+      <tuv lang="PL" changeid="aa bb" changedate="20220505T193819Z" creationid="aa bb" creationdate="20220505T193535Z">
+        <seg>Podziel tekst źródłowy na segmenty od:</seg>
       </tuv>
     </tu>
     <tu>
