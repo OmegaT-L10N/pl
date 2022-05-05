@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220505T203815Z" creationid="aa bb" creationdate="20220505T203815Z">
+        <seg>&amp;Nie dekoduj literałów Unicode (\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Download</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T180101Z" creationid="studentILS10" creationdate="20220504T180101Z">
