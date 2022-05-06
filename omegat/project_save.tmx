@@ -3597,6 +3597,14 @@ położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawien
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initially load this many segments:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T192917Z" creationid="Magdaanna" creationdate="20220506T192917Z">
+        <seg>Najpierw załaduj wiele segmentów:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Match or Selection Into Translation</seg>
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T115953Z" creationid="2021ILS2022" creationdate="20220505T115953Z">
@@ -5592,6 +5600,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save aut&amp;o-populated status</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T192732Z" creationid="Magdaanna" creationdate="20220506T192732Z">
+        <seg>Zapisz stan wypełnienia automatycznego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save changes to filter settings?</seg>
       </tuv>
       <tuv lang="PL" changeid="kasiawinciorek" changedate="20220427T142630Z" creationid="kasiawinciorek" creationdate="20220427T142630Z">
@@ -5604,6 +5620,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="PL" changeid="kasiawinciorek" changedate="20220427T142613Z" creationid="kasiawinciorek" creationdate="20220427T142613Z">
         <seg>Czy chcesz zachować zmiany w regułach segmentacji?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save origin of &amp;translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T192834Z" creationid="Magdaanna" creationdate="20220506T192834Z">
+        <seg>Zapisz źródło tłumaczenia</seg>
       </tuv>
     </tu>
     <tu>
@@ -7210,6 +7234,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T110441Z" creationid="student" creationdate="20220427T135852Z">
         <seg>Uwaga: Zmiana kolejności tagów może spowodować, że przetłumaczony dokument nie będzie nadawał się do użytku!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T193113Z" creationid="Magdaanna" creationdate="20220506T193113Z">
+        <seg>Gdy pojedynczy plik ma więcej segmentów, dodatkowe segmenty będą ładowane na żądanie w czasie przewijania.</seg>
       </tuv>
     </tu>
     <tu>
