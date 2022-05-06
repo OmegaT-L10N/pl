@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T192515Z" creationid="Magdaanna" creationdate="20220506T192515Z">
+        <seg>Idź do kolejnego nieprzetłumaczonego segmentu i pozostań tam w przypadku przynajmniej jednego alternatywnego tłumaczenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
       <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220421T224611Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220421T224611Z">
@@ -862,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T192657Z" creationid="Magdaanna" creationdate="20220506T192657Z">
+        <seg>Sprawdź znaczniki przy opuszczaniu segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;View</seg>
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113753Z" creationid="2021ILS2022" creationdate="20220505T113753Z">
@@ -1315,6 +1331,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allo&amp;w tag editing</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T192637Z" creationid="Magdaanna" creationdate="20220506T192637Z">
+        <seg>Pozwól na edycję znaczników</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow translated tags to be in a di&amp;fferent order</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T110249Z" creationid="student" creationdate="20220427T135728Z">
@@ -1468,6 +1492,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T124255Z" creationid="agrze" creationdate="20220501T124255Z">
         <seg>Z tego powodu wszystkie ustawienia będą domyślne, zatem możesz spotkać się z nieoczekiwanym, ale prawidłowym zachowaniem programu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T192559Z" creationid="Magdaanna" creationdate="20220506T192559Z">
+        <seg>Spróbuj przekonwertować liczby podczas wstawiania dopasowania rozmytego</seg>
       </tuv>
     </tu>
     <tu>
