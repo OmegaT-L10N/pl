@@ -3259,6 +3259,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Full text, including tags and numbers</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T194042Z" creationid="Magdaanna" creationdate="20220506T194042Z">
+        <seg>Cały tekst, włączając znaczniki i liczby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Full/Half &amp;width char insensitive</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220415T095215Z" creationid="mat_staszak" creationdate="20220415T095215Z">
@@ -4279,6 +4287,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Minimal threshold to show a fuzzy match:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T194138Z" creationid="Magdaanna" creationdate="20220506T194138Z">
+        <seg>Minimalna próg do pokazania dopasowania rozmytego:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Minimize</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T120915Z" creationid="agrze" creationdate="20220501T120915Z">
@@ -4511,6 +4527,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113336Z" creationid="2021ILS2022" creationdate="20220505T113336Z">
         <seg>Nowe słowniki na zdalnym serwerze są niedostępne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No tags and no numbers</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T194021Z" creationid="Magdaanna" creationdate="20220506T194021Z">
+        <seg>Brak znaczników i liczb</seg>
       </tuv>
     </tu>
     <tu>
@@ -6266,6 +6290,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Stemming, no tags and no numbers</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T194007Z" creationid="Magdaanna" creationdate="20220506T194007Z">
+        <seg>Tematyzacja, brak znaczników i liczb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 1: Adjust alignment parameters</seg>
       </tuv>
       <tuv lang="PL" changeid="kasiawinciorek" changedate="20220427T141553Z" creationid="kasiawinciorek" creationdate="20220427T141553Z">
@@ -6302,6 +6334,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222536Z" creationid="mat_staszak" creationdate="20220411T222536Z">
         <seg>Pamięci tłumaczeniowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TM Matches</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T194218Z" creationid="Magdaanna" creationdate="20220506T194218Z">
+        <seg>Dopasowania pamięci tłumaczeniowej</seg>
       </tuv>
     </tu>
     <tu>
