@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Leave the segment empty</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T192009Z" creationid="Magdaanna" creationdate="20220506T192009Z">
+        <seg>Poostaw sement pusty </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;License</seg>
       </tuv>
       <tuv lang="PL" changeid="Aalebazi" changedate="20220506T111126Z" creationid="aa bb" creationdate="20220427T142319Z">
@@ -3569,6 +3577,22 @@ położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawien
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T101357Z" creationid="mademoiselleqwerty" creationdate="20220418T101357Z">
         <seg>Wstaw znak kontrolny Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert the &amp;best fuzzy match</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T192049Z" creationid="Magdaanna" creationdate="20220506T192049Z">
+        <seg>Wstaw najlepsze dopasowanie rozmyte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert the &amp;source text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T191925Z" creationid="Magdaanna" creationdate="20220506T191925Z">
+        <seg>Wprowadź tekst źródłowy</seg>
       </tuv>
     </tu>
     <tu>
