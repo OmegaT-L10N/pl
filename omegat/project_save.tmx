@@ -3621,6 +3621,14 @@ położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawien
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T194729Z" creationid="Magdaanna" creationdate="20220506T194729Z">
+        <seg>Uwzględnij pierwszy powtarzający się segment podczas wyróżniania powtrzających się segmentów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Individual File Statistics:</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092552Z" creationid="GKarpowicz" creationdate="20220406T091735Z">
@@ -6086,6 +6094,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221622Z" creationid="mat_staszak" creationdate="20220411T221622Z">
         <seg>Pokaż ustawienia zaawansowane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Simplify &amp;tooltips on protected parts</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T194830Z" creationid="Magdaanna" creationdate="20220506T194830Z">
+        <seg>Uprość etykietki narzędzi dla chronionych części</seg>
       </tuv>
     </tu>
     <tu>
