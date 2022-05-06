@@ -1139,6 +1139,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ANTLR (ANTLR 3 License)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112312Z" creationid="Aalebazi" creationdate="20220506T112312Z">
+        <seg>ANTLR (licencja ANTLR 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>API Key:</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T180535Z" creationid="studentILS10" creationdate="20220504T180535Z">
@@ -1378,6 +1386,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="kasiawinciorek" changedate="20220427T142306Z" creationid="kasiawinciorek" creationdate="20220427T142306Z">
         <seg>Element o nazwie "{0}" już istnieje w tym miejscu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apache Commons (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112503Z" creationid="Aalebazi" creationdate="20220506T112503Z">
+        <seg>Apache Commons (licencja Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3270,8 +3286,8 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112214Z" creationid="Aalebazi" creationdate="20220506T112214Z">
-        <seg>HTMLParser 1.6 autorstwa Somika Raha, Derricka Oswalda i innych (licencja LGPL License)</seg>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112226Z" creationid="Aalebazi" creationdate="20220506T112214Z">
+        <seg>HTMLParser 1.6 autorstwa Somika Raha, Derricka Oswalda i innych (licencja LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3615,6 +3631,22 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JGit (Eclipse Distribution License)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112334Z" creationid="Aalebazi" creationdate="20220506T112334Z">
+        <seg>JGit (licencja Eclipse Distribution)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>JSch (JSch License)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112341Z" creationid="Aalebazi" creationdate="20220506T112341Z">
+        <seg>JSch (licencja JSch)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jar used for plugins: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T231813Z" creationid="ewawoj" creationdate="20220411T231813Z">
@@ -3827,6 +3859,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223630Z" creationid="mat_staszak" creationdate="20220411T223630Z">
         <seg>Lokalizacja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lucene (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112452Z" creationid="Aalebazi" creationdate="20220506T112452Z">
+        <seg>Lucene (licencja Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5360,10 +5400,26 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SQLJet (GPL License)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112320Z" creationid="Aalebazi" creationdate="20220506T112320Z">
+        <seg>SQLJet (licencja GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SVG Image and Adobe Illustrator Export</seg>
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220505T205938Z" creationid="aa bb" creationdate="20220505T205938Z">
         <seg>Obraz SVG i eksport Adobe Illustrator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVNKit (TMate License)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112255Z" creationid="Aalebazi" creationdate="20220506T112255Z">
+        <seg>SVNKit (licencja TMate)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5670,6 +5726,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T180140Z" creationid="studentILS10" creationdate="20220504T180140Z">
         <seg>Wybierz domene TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sequence Library (Sequence Library License)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112304Z" creationid="Aalebazi" creationdate="20220506T112304Z">
+        <seg>Sequence Library (licencja Sequence Library)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6902,6 +6966,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VLDocking Framework (LGPL License)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112236Z" creationid="Aalebazi" creationdate="20220506T112236Z">
+        <seg>VLDocking Framework (licencja LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Variant skipped.</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T225555Z" creationid="ewawoj" creationdate="20220411T225555Z">
@@ -7208,6 +7280,14 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>jsch-agent-proxy (jsch-agent-proxy License)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112358Z" creationid="Aalebazi" creationdate="20220506T112358Z">
+        <seg>jsch-agent-proxy (licencja jsch-agent-proxy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>juniversalchardet (GPL)</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220414T190703Z" creationid="mademoiselleqwerty" creationdate="20220414T190703Z">
@@ -7220,6 +7300,14 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T231011Z" creationid="mat_staszak" creationdate="20220411T231011Z">
         <seg>wczytany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trilead-ssh2 (Trilead SSH license)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112416Z" creationid="Aalebazi" creationdate="20220506T112416Z">
+        <seg>trilead-ssh2 (licencja Trilead SSH)</seg>
       </tuv>
     </tu>
     <tu>
