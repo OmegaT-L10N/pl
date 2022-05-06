@@ -3605,6 +3605,14 @@ położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawien
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invalid HTML file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T113132Z" creationid="Aalebazi" creationdate="20220506T113132Z">
+        <seg>Niepoprawny format pliku HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid file format</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220415T120641Z" creationid="ewawoj" creationdate="20220415T120641Z">
@@ -5006,8 +5014,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Project autosaved on {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="Iza" changedate="20220427T135312Z" creationid="Iza" creationdate="20220427T135312Z">
-        <seg>Project autosaved on {0}</seg>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T113148Z" creationid="Iza" creationdate="20220427T135312Z">
+        <seg>Projekt zapisano automatycznie{0}</seg>
       </tuv>
     </tu>
     <tu>
