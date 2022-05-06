@@ -344,8 +344,8 @@
       <tuv lang="EN">
         <seg>&amp;License</seg>
       </tuv>
-      <tuv lang="PL" changeid="aa bb" changedate="20220427T142319Z" creationid="aa bb" creationdate="20220427T142319Z">
-        <seg>[coś w rodzaju]&amp;Licencja</seg>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T111126Z" creationid="aa bb" creationdate="20220427T142319Z">
+        <seg>&amp;Licencja</seg>
       </tuv>
     </tu>
     <tu>
@@ -4457,6 +4457,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T090530Z" creationid="mademoiselleqwerty" creationdate="20220405T171250Z">
         <seg>OmegaT automatycznie wybrał opcję „Tak”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T111547Z" creationid="Aalebazi" creationdate="20220506T111547Z">
+        <seg>OmegaT to bezpłatne, otwarte i wieloplatformowe narzędzie do tłumaczenia wspomaganego komputerowo, wyposażone w funkcje wyszukiwania dopasowań i słów kluczowych, pamięci tłumaczeniowej, glosariuszy oraz wykorzystywania wcześniejszych tłumaczeń w nowych projektach.</seg>
       </tuv>
     </tu>
     <tu>
