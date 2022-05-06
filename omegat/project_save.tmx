@@ -1147,6 +1147,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T111709Z" creationid="Aalebazi" creationdate="20220506T111709Z">
+        <seg>Aaron Madlon-Kay jest kierownikiem projektu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T194824Z" creationid="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" creationdate="20220420T194824Z">
@@ -1744,6 +1752,16 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="jarosz" changedate="20220427T141627Z" creationid="Marcin J" creationdate="20220427T135255Z">
         <seg>Kliknij pozycję menu '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by:
+{0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T111817Z" creationid="Aalebazi" creationdate="20220506T111817Z">
+        <seg>Do powstania kodu przyczynili się:
+{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4602,6 +4620,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085648Z" creationid="GKarpowicz" creationdate="20220406T085648Z">
         <seg>Osierocone segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other contributions are detailed in the readme.txt file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T111937Z" creationid="Aalebazi" creationdate="20220506T111937Z">
+        <seg>Inne wkłady zostały wyszczególnione w pliku o nazwie readme.txt.</seg>
       </tuv>
     </tu>
     <tu>
