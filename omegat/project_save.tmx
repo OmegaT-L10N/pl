@@ -3011,6 +3011,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External TMX Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T193231Z" creationid="Magdaanna" creationdate="20220506T193231Z">
+        <seg>Opcje zewnętrzne TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External command completed.</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085922Z" creationid="GKarpowicz" creationdate="20220406T085922Z">
@@ -4895,6 +4903,14 @@ Niczym wiatrem niesiona
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Paragraph delimitation format:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T193152Z" creationid="Magdaanna" creationdate="20220506T193152Z">
+        <seg>Ograniczenie formatu akapitu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T222937Z" creationid="ewawoj" creationdate="20220405T164445Z">
@@ -4992,6 +5008,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T153909Z" creationid="werric" creationdate="20220419T153909Z">
         <seg>Proszę wybrać inny folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T193333Z" creationid="Magdaanna" creationdate="20220506T193333Z">
+        <seg>Wybierz sposób wyświetlania znaczników TMX innych niż OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
