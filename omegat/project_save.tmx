@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Copy Support Info</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112935Z" creationid="Aalebazi" creationdate="20220506T112935Z">
+        <seg>&amp;Kopiuj informacje o pomocy technicznej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Current Source Document</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T093650Z" creationid="mademoiselleqwerty" creationdate="20220418T093650Z">
@@ -2182,6 +2190,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DictZip from JDict (GPL)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112646Z" creationid="Aalebazi" creationdate="20220506T112646Z">
+        <seg>DictZip z JDict (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionary</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220427T141622Z" creationid="agrze" creationdate="20220427T141622Z">
@@ -3268,6 +3284,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Groovy (Apache Licence 2.0)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112619Z" creationid="Aalebazi" creationdate="20220506T112619Z">
+        <seg>Groovy (licencja Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Group {0} does not exist in search expression</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220415T104820Z" creationid="mat_staszak" creationdate="20220415T104820Z">
@@ -3747,6 +3771,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113134Z" creationid="2021ILS2022" creationdate="20220505T113134Z">
         <seg>LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool (LGPL License and others)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112520Z" creationid="Aalebazi" creationdate="20220506T112520Z">
+        <seg>LanguageTool (licencja LGPL i inne)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4694,6 +4726,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220415T120715Z" creationid="ewawoj" creationdate="20220415T120656Z">
         <seg>Wprowadzanie PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDFBox (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112530Z" creationid="Aalebazi" creationdate="20220506T112530Z">
+        <seg>PDFBox (licencja Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6042,6 +6082,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112612Z" creationid="Aalebazi" creationdate="20220506T112612Z">
+        <seg>SuperTMXMerge (licencja Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>T&amp;Ms</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222536Z" creationid="mat_staszak" creationdate="20220411T222536Z">
@@ -7300,6 +7348,30 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T231011Z" creationid="mat_staszak" creationdate="20220411T231011Z">
         <seg>wczytany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mALIGNa (MIT License)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112655Z" creationid="Aalebazi" creationdate="20220506T112655Z">
+        <seg>mALIGNa (licencja MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>slf4j (MIT License)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112630Z" creationid="Aalebazi" creationdate="20220506T112625Z">
+        <seg>slf4j (licencja MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trie4j (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112702Z" creationid="Aalebazi" creationdate="20220506T112702Z">
+        <seg>trie4j (licencja Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
