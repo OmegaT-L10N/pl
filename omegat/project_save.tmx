@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T192311Z" creationid="Magdaanna" creationdate="20220506T192311Z">
+        <seg>Zezwól, aby tłumaczenie było takie samo jak źródło</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T134607Z" creationid="werric" creationdate="20220419T113406Z">
@@ -406,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Minimal similarity:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T192112Z" creationid="Magdaanna" creationdate="20220506T192112Z">
+        <seg>Minimalna zgodność:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Modification Info</seg>
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113903Z" creationid="2021ILS2022" creationdate="20220505T113903Z">
@@ -474,6 +490,14 @@
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T103735Z" creationid="mademoiselleqwerty" creationdate="20220418T103735Z">
         <seg>Opcje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Prefix:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T192153Z" creationid="Magdaanna" creationdate="20220506T192153Z">
+        <seg>Tekst przed dopasowaniem:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2483,6 +2507,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T095514Z" creationid="mademoiselleqwerty" creationdate="20220418T095514Z">
         <seg>Eksportuj zaznaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E&amp;xport the segment to text files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T192410Z" creationid="Magdaanna" creationdate="20220506T192410Z">
+        <seg>Eksportuj segment do pliku tekstowego</seg>
       </tuv>
     </tu>
     <tu>
@@ -7338,6 +7370,14 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T120257Z" creationid="2021ILS2022" creationdate="20220505T120257Z">
         <seg>[rozmyty]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[fuzzy]</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T192204Z" creationid="Magdaanna" creationdate="20220506T192204Z">
+        <seg>[dopasowanie]</seg>
       </tuv>
     </tu>
     <tu>
