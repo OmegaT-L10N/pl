@@ -2326,6 +2326,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display &amp;tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T193416Z" creationid="Magdaanna" creationdate="20220506T193416Z">
+        <seg>Wyświetl znaczniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display context description for TBX &amp;glossaries</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104717Z" creationid="mademoiselleqwerty" creationdate="20220418T104717Z">
@@ -3577,6 +3585,14 @@ położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawien
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T131246Z" creationid="werric" creationdate="20220419T131246Z">
         <seg>Dołącz wzorzec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Include matches from &amp;other languages</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T193543Z" creationid="Magdaanna" creationdate="20220506T193543Z">
+        <seg>Uwzględnij dopasowania z innych języków</seg>
       </tuv>
     </tu>
     <tu>
@@ -7138,6 +7154,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104133Z" creationid="mademoiselleqwerty" creationdate="20220418T104133Z">
         <seg>Użyj klawisza TAB, aby przejść do następnego segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T193506Z" creationid="Magdaanna" creationdate="20220506T193506Z">
+        <seg>Użyj XML dla autonomicznych znaczników (e.g., &lt;i/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
