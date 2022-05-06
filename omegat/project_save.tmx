@@ -3799,6 +3799,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Last changes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112955Z" creationid="Aalebazi" creationdate="20220506T112955Z">
+        <seg>Ostatnie zmiany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T101805Z" creationid="mademoiselleqwerty" creationdate="20220418T101805Z">
@@ -3891,6 +3899,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223630Z" creationid="mat_staszak" creationdate="20220411T223630Z">
         <seg>Lokalizacja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Log:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T113017Z" creationid="Aalebazi" creationdate="20220506T113017Z">
+        <seg>Dziennik:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4581,6 +4597,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aalebazi" changedate="20220427T142107Z" creationid="Aalebazi" creationdate="20220427T142107Z">
         <seg>OmegaT jest oryginalnym dziełem Keitha Godfrey'a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT license</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112946Z" creationid="Aalebazi" creationdate="20220506T112946Z">
+        <seg>Licencja OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -6455,6 +6479,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
 - użyć opcji Projekt &gt; Kopiuj pliki do folderu źródłowego
 - kliknąć przycisk Kopiuj pliki do folderu źródłowego w oknie Pliki projektu
 - skopiować pliki do folderu źródłowego projektu za pomocą menedżera plików, a następnie załadować ponownie projekt, korzystając z polecenia Projekt &gt; Załaduj ponownie. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Too big HTML file!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T113111Z" creationid="Aalebazi" creationdate="20220506T113111Z">
+        <seg>Plik HTML zbyt duży!</seg>
       </tuv>
     </tu>
     <tu>
