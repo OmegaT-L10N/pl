@@ -4207,6 +4207,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match display template</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T193831Z" creationid="Magdaanna" creationdate="20220506T193831Z">
+        <seg>Dopasuj szablon wyświetlania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T111127Z" creationid="agrze" creationdate="20220501T111127Z">
@@ -4963,6 +4971,14 @@ Niczym wiatrem niesiona
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T120043Z" creationid="agrze" creationdate="20220501T120043Z">
         <seg>Ścieżka:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Penalty for matches in other languages:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T193657Z" creationid="Magdaanna" creationdate="20220506T193657Z">
+        <seg>Kara za dopasowania w innych językach:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6098,6 +6114,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort fuzzy matches by:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T193914Z" creationid="Magdaanna" creationdate="20220506T193914Z">
+        <seg>Sortuj dopasowania rozmyte według:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort tar&amp;get terms alphabetically</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T172223Z" creationid="student" creationdate="20220427T134734Z">
@@ -6358,6 +6382,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T130119Z" creationid="werric" creationdate="20220419T130119Z">
         <seg>Mapowanie repozytoriów w trybie zespołowym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Template variables:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T193745Z" creationid="Magdaanna" creationdate="20220506T193745Z">
+        <seg>Zmienne szablonu:</seg>
       </tuv>
     </tu>
     <tu>
