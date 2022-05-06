@@ -2326,10 +2326,26 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display &amp;active source segment in bold</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T194525Z" creationid="Magdaanna" creationdate="20220506T194525Z">
+        <seg>Wyświetl wszystkie segmenty źródłowe pogrubioną czcionką</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display &amp;tags</seg>
       </tuv>
       <tuv lang="PL" changeid="Magdaanna" changedate="20220506T193416Z" creationid="Magdaanna" creationdate="20220506T193416Z">
         <seg>Wyświetl znaczniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display all &amp;source segments in bold</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T194347Z" creationid="Magdaanna" creationdate="20220506T194347Z">
+        <seg>Wyświetl wszystkie segmenty źródłowe pogrubioną czcionką</seg>
       </tuv>
     </tu>
     <tu>
@@ -7306,6 +7322,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T231220Z" creationid="ewawoj" creationdate="20220411T224528Z">
         <seg>Wersja: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220506T194231Z" creationid="Magdaanna" creationdate="20220506T194231Z">
+        <seg>Widok</seg>
       </tuv>
     </tu>
     <tu>
