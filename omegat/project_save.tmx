@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Comments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220508T200228Z" creationid="aa bb" creationdate="20220508T200228Z">
+        <seg>&amp;Komentarze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Copy Support Info</seg>
       </tuv>
       <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112935Z" creationid="Aalebazi" creationdate="20220506T112935Z">
@@ -486,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Notes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220508T200223Z" creationid="aa bb" creationdate="20220508T200223Z">
+        <seg>&amp;Notatki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T201113Z" creationid="mademoiselleqwerty" creationdate="20220412T175600Z">
@@ -522,6 +538,14 @@
       </tuv>
       <tuv lang="PL" changeid="Magdaanna" changedate="20220506T192153Z" creationid="Magdaanna" creationdate="20220506T192153Z">
         <seg>Tekst przed dopasowaniem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Presentation notes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220508T200336Z" creationid="aa bb" creationdate="20220508T200336Z">
+        <seg>Notatki &amp;prezentacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -746,6 +770,14 @@
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113724Z" creationid="2021ILS2022" creationdate="20220505T113724Z">
         <seg>Wielka pierwsza litera zdania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Sheet Names</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220508T200422Z" creationid="aa bb" creationdate="20220508T200422Z">
+        <seg>Nazwy &amp;arkuszy</seg>
       </tuv>
     </tu>
     <tu>
@@ -2799,6 +2831,14 @@ Nikt nie usłyszy twych krzyków.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error in file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220508T200427Z" creationid="aa bb" creationdate="20220508T200427Z">
+        <seg>Błąd w pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error in file {0}, line {1}</seg>
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220508T193543Z" creationid="aa bb" creationdate="20220508T193543Z">
@@ -4043,6 +4083,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220505T194506Z" creationid="aa bb" creationdate="20220505T194506Z">
         <seg>Długość wiersza:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Links (&amp;URL)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220508T200345Z" creationid="aa bb" creationdate="20220508T200345Z">
+        <seg>Linki (&amp;URL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7600,6 +7648,14 @@ Twoja strona odeszła wraz z nimi</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T180400Z" creationid="studentILS10" creationdate="20220504T180400Z">
         <seg>Nieprawidłowy format odpowiedzi usługi TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XLIFF Filter Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220508T200450Z" creationid="aa bb" creationdate="20220508T200450Z">
+        <seg>Opcje filtra XLIFF</seg>
       </tuv>
     </tu>
     <tu>
