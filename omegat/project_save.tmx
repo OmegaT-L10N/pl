@@ -2767,6 +2767,14 @@ Nikt nie usłyszy twych krzyków.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error in file {0}, line {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220508T193543Z" creationid="aa bb" creationdate="20220508T193543Z">
+        <seg>Błąd w pliku {0}, w wierszu {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error initializing marker '{0}'</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T231158Z" creationid="ewawoj" creationdate="20220411T231158Z">
@@ -4619,6 +4627,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T175613Z" creationid="studentILS10" creationdate="20220504T175613Z">
         <seg>Notatka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220508T194034Z" creationid="aa bb" creationdate="20220508T194034Z">
+        <seg>Uwaga: pliki DocBook są rozpoznawane nie tylko na podstawie rozszerzenia, muszą również posiadać deklarację DOCTYPE: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... dla DocBook 4 albo przestrzeń nazw: xmlns="http://docbook.org/ns/docbook" dla DocBook 5</seg>
       </tuv>
     </tu>
     <tu>
