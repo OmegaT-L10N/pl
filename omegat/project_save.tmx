@@ -3528,6 +3528,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ILIAS Language File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220508T195620Z" creationid="aa bb" creationdate="20220508T195620Z">
+        <seg>Plik językowy ILIAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IOException encountered:</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220415T105033Z" creationid="mat_staszak" creationdate="20220415T105033Z">
