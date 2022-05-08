@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Bookmarks</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220508T195922Z" creationid="aa bb" creationdate="20220508T195922Z">
+        <seg>&amp;Zakładki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Browse</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T134640Z" creationid="werric" creationdate="20220419T121339Z">
@@ -330,6 +338,14 @@
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223104Z" creationid="mat_staszak" creationdate="20220411T223104Z">
         <seg>W tekście docelowym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Index entries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220508T195824Z" creationid="aa bb" creationdate="20220508T195824Z">
+        <seg>Wpisy &amp;indeksów</seg>
       </tuv>
     </tu>
     <tu>
@@ -4931,6 +4947,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OpenDocument Filter Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220508T195642Z" creationid="aa bb" creationdate="20220508T195642Z">
+        <seg>Opcje filtra OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220405T172700Z" creationid="werric" creationdate="20220405T172700Z">
@@ -6863,6 +6887,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223224Z" creationid="mat_staszak" creationdate="20220411T223224Z">
         <seg>Przetłumaczone lub nieprzetłumaczone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translate the following elements:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220508T195701Z" creationid="aa bb" creationdate="20220508T195701Z">
+        <seg>Tłumacz następujące elementy:</seg>
       </tuv>
     </tu>
     <tu>
