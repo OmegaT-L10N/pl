@@ -1454,6 +1454,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Android Resources</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220508T194531Z" creationid="aa bb" creationdate="20220508T194531Z">
+        <seg>Pliki Android Resource</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apache Commons (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112503Z" creationid="Aalebazi" creationdate="20220506T112503Z">
@@ -7422,6 +7430,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WebVTT Subtitles</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220508T194200Z" creationid="aa bb" creationdate="20220508T194200Z">
+        <seg>Napisy WebVTT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
       <tuv lang="PL" changeid="Magdaanna" changedate="20220506T193113Z" creationid="Magdaanna" creationdate="20220506T193113Z">
@@ -7584,6 +7600,14 @@ Twoja strona odeszła wraz z nimi</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T124744Z" creationid="werric" creationdate="20220419T124409Z">
         <seg>Wskaż ich nowe położenie lub odtwórz je.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>YouTube Subtitles</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220508T194143Z" creationid="aa bb" creationdate="20220508T194143Z">
+        <seg>Napisy YouTube</seg>
       </tuv>
     </tu>
     <tu>
