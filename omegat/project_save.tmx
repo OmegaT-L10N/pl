@@ -6362,6 +6362,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SubRip Subtitles</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220508T194100Z" creationid="aa bb" creationdate="20220508T194100Z">
+        <seg>Napisy SubRip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Subversion</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T133853Z" creationid="werric" creationdate="20220419T133853Z">
