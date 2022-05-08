@@ -1456,8 +1456,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Android Resources</seg>
       </tuv>
-      <tuv lang="PL" changeid="aa bb" changedate="20220508T194531Z" creationid="aa bb" creationdate="20220508T194531Z">
-        <seg>Pliki Android Resource</seg>
+      <tuv lang="PL" changeid="aa bb" changedate="20220508T195048Z" creationid="aa bb" creationdate="20220508T194531Z">
+        <seg>Zasoby systemu Android</seg>
       </tuv>
     </tu>
     <tu>
@@ -4131,6 +4131,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T115109Z" creationid="agrze" creationdate="20220501T115109Z">
         <seg>Opcje tłumaczenia maszynowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Magento CE Locale CSV</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220508T195330Z" creationid="aa bb" creationdate="20220508T195330Z">
+        <seg>Ustawienia regionalne CSV Magento CE</seg>
       </tuv>
     </tu>
     <tu>
