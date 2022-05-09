@@ -1236,6 +1236,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220509T141142Z" creationid="aa bb" creationdate="20220509T141142Z">
+        <seg>Atrybut &amp;resname &lt;trans-unit&gt;, jeśli jest dostępny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T115801Z" creationid="agrze" creationdate="20220501T115715Z">
@@ -5321,6 +5329,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102300Z" creationid="mademoiselleqwerty" creationdate="20220418T102300Z">
         <seg>Poprzednia notatka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous and &amp;next paragraphs</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220509T140916Z" creationid="aa bb" creationdate="20220509T140916Z">
+        <seg>Poprzedni i następny akapit</seg>
       </tuv>
     </tu>
     <tu>
