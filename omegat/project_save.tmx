@@ -6777,6 +6777,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220509T141747Z" creationid="aa bb" creationdate="20220509T141747Z">
+        <seg>Poniższe opcje nie mają zastosowania, jeśli zaznaczona jest „Zgodność z OmegaT 2.6”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The help page you seek
 Lies beyond our perception
 But others await</seg>
