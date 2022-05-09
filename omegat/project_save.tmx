@@ -6418,6 +6418,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specify tag handling behaviour</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220509T140334Z" creationid="aa bb" creationdate="20220509T140334Z">
+        <seg>Zarządzanie tagami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spellchecker Setup</seg>
       </tuv>
       <tuv lang="PL" changeid="jarosz" changedate="20220427T142812Z" creationid="jarosz" creationdate="20220427T142812Z">
