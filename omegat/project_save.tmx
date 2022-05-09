@@ -3617,6 +3617,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Identifier used for alternative translations</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220509T140829Z" creationid="aa bb" creationdate="20220509T140829Z">
+        <seg>Identyfikator używany do alternatywnych tłumaczeń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
       <tuv lang="PL" changeid="MariannaCz" changedate="20220505T115145Z" creationid="MariannaCz" creationdate="20220505T115145Z">
