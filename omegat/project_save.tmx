@@ -271,6 +271,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Endnotes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220509T142730Z" creationid="aa bb" creationdate="20220509T142730Z">
+        <seg>Prz&amp;ypisy końcowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Exact search</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T154736Z" creationid="mademoiselleqwerty" creationdate="20220414T190806Z">
@@ -299,6 +307,14 @@
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T201235Z" creationid="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" creationdate="20220420T201235Z">
         <seg>Zakończ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Footnotes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220509T142724Z" creationid="aa bb" creationdate="20220509T142724Z">
+        <seg>P&amp;rzypisy</seg>
       </tuv>
     </tu>
     <tu>
@@ -1949,6 +1965,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Co&amp;mments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220509T142715Z" creationid="aa bb" creationdate="20220509T142715Z">
+        <seg>Ko&amp;mentarze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Code has been contributed by:
 {0}</seg>
       </tuv>
@@ -3332,6 +3356,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Foote&amp;rs</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220509T142740Z" creationid="aa bb" creationdate="20220509T142740Z">
+        <seg>&amp;Stopki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For all files:</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092840Z" creationid="GKarpowicz" creationdate="20220406T092840Z">
@@ -3553,6 +3585,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T133909Z" creationid="werric" creationdate="20220419T133909Z">
         <seg>HTTP(S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>He&amp;aders</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220509T142735Z" creationid="aa bb" creationdate="20220509T142735Z">
+        <seg>N&amp;agłówki</seg>
       </tuv>
     </tu>
     <tu>
