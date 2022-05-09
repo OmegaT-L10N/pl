@@ -1837,6 +1837,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change to "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220509T142441Z" creationid="aa bb" creationdate="20220509T142441Z">
+        <seg>Zmień na „wymaga-sprawdzenia-tłumaczenia” zamiast „przetłumaczone”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222034Z" creationid="mat_staszak" creationdate="20220411T222034Z">
@@ -3698,6 +3706,14 @@ położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawien
       </tuv>
       <tuv lang="PL" changeid="jarosz" changedate="20220427T142806Z" creationid="jarosz" creationdate="20220427T142806Z">
         <seg>Ignoruj wszystkie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220509T142205Z" creationid="aa bb" creationdate="20220509T142142Z">
+        <seg>Ignoruj atrybuty type i ctype podczas tworzenia skrótów tagów &lt;&amp;bpt&gt; i &lt;ept&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6463,6 +6479,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T181210Z" creationid="studentILS10" creationdate="20220504T181210Z">
         <seg>Tekst segmentów źródłowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specify state attribute handling behavior</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220509T142309Z" creationid="aa bb" creationdate="20220509T142309Z">
+        <seg>Zarządzanie atrybutami state</seg>
       </tuv>
     </tu>
     <tu>
