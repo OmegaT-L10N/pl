@@ -149,6 +149,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>z OmegaT czy z OmegąT?</note>
+      <tuv lang="EN">
+        <seg>&amp;Compatibility with OmegaT 2.6</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220509T140631Z" creationid="aa bb" creationdate="20220509T140631Z">
+        <seg>&amp;Zgodność z OmegaT 2.6</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&amp;Copy Support Info</seg>
       </tuv>
