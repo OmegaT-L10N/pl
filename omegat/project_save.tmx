@@ -303,6 +303,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220509T141935Z" creationid="aa bb" creationdate="20220509T141935Z">
+        <seg>&amp;Wymuś skrót „f” dla tagów &lt;it pos="end"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Forward in History</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102410Z" creationid="mademoiselleqwerty" creationdate="20220418T102410Z">
@@ -347,6 +355,14 @@
       </tuv>
       <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220421T224611Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220421T224611Z">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220509T142131Z" creationid="aa bb" creationdate="20220509T142131Z">
+        <seg>&amp;Ignoruj atrybuty type i ctype podczas tworzenia skrótów tagów &lt;ph&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6776,6 +6792,7 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>polski cudzysłów?</note>
       <tuv lang="EN">
         <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
       </tuv>
