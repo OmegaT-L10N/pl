@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4795,8 +4795,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="EN">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T130657Z" creationid="werric" creationdate="20220419T130657Z">
-        <seg>Mapowanie folderów lokalnych do zdalnych folderów w Repozytoriach</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220510T165310Z" creationid="werric" creationdate="20220419T130657Z">
+        <seg>Mapowanie folderów lokalnych do zdalnych folderów w repozytoriach</seg>
       </tuv>
     </tu>
     <tu>
