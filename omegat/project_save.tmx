@@ -3503,6 +3503,7 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
     </tu>
     <tu>
+      <note>brak spacji (MRK)</note>
       <tuv lang="EN">
         <seg>Exit code {0}: "{1}"</seg>
       </tuv>
