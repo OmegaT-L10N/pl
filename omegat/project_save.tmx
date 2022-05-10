@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically check the spelling of text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T221100Z" creationid="jarosz" creationdate="20220510T221100Z">
+        <seg>&amp;Automatycznie sprawdzaj pisownię tekstu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back in History</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102500Z" creationid="mademoiselleqwerty" creationdate="20220418T102500Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T175830Z" creationid="studentILS10" creationdate="20220504T175830Z">
         <seg>Przeglądaj kolekcję TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Browse...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T221255Z" creationid="jarosz" creationdate="20220510T221255Z">
+        <seg>&amp;Przeglądaj...</seg>
       </tuv>
     </tu>
     <tu>
@@ -427,6 +443,14 @@
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T095038Z" creationid="mademoiselleqwerty" creationdate="20220418T095038Z">
         <seg>Wstaw dopasowanie lub zaznaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Install new dictionary...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T221258Z" creationid="jarosz" creationdate="20220510T221258Z">
+        <seg>[parcial]&amp;Zainstaluj...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2709,10 +2733,26 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionaries already installed:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T221153Z" creationid="jarosz" creationdate="20220510T221153Z">
+        <seg>Zainstalowane języki słowników:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionary</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220427T141622Z" creationid="agrze" creationdate="20220427T141622Z">
         <seg>Słowniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary File Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T221231Z" creationid="jarosz" creationdate="20220510T221207Z">
+        <seg>Katalog pliku słownika:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2737,6 +2777,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113447Z" creationid="2021ILS2022" creationdate="20220505T113156Z">
         <seg>Instalator słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary file folder:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T221201Z" creationid="jarosz" creationdate="20220510T221201Z">
+        <seg>Katalog pliku słownika:</seg>
       </tuv>
     </tu>
     <tu>
