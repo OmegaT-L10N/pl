@@ -1510,6 +1510,7 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>na razie bez znaków "&amp;" (MRK)</note>
       <tuv lang="EN">
         <seg>Allow translating &amp;blank source segments</seg>
       </tuv>
