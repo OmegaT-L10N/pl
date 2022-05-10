@@ -1607,6 +1607,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are you sure you want to reset the master password?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T120305Z" creationid="48694" creationdate="20220510T120305Z">
+        <seg>Jeste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arrays must not be null</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220405T172537Z" creationid="werric" creationdate="20220405T164411Z">
@@ -4904,6 +4912,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not Set</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T120246Z" creationid="48694" creationdate="20220510T120246Z">
+        <seg>nie ustawione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not a valid XML file!</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230512Z" creationid="mat_staszak" creationdate="20220411T230512Z">
@@ -5060,6 +5076,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T154037Z" creationid="werric" creationdate="20220419T154037Z">
         <seg>OmegaT nie posiada uprawnień do odczytu i zapisu tego folderu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T120217Z" creationid="48694" creationdate="20220510T120217Z">
+        <seg>OmegaT szyfruje poufne hasła i klucze API za pomocą hasła głównego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5937,6 +5961,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reset Master Password</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T120259Z" creationid="48694" creationdate="20220510T120259Z">
+        <seg>Zresetuj hasło główne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T120935Z" creationid="Marcin J" creationdate="20220427T134845Z">
@@ -6391,6 +6423,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T174901Z" creationid="studentILS10" creationdate="20220504T174901Z">
         <seg>Serwer (zaktualizowany)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T120236Z" creationid="48694" creationdate="20220510T120236Z">
+        <seg>ustawione</seg>
       </tuv>
     </tu>
     <tu>
