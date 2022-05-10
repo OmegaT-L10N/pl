@@ -2409,6 +2409,7 @@ Inny wybierz napitek.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Lepiej byłoby wybrać jeden wariant: katalog lub folder (pomimo rozbieżności w tekście źródłowym). (MRK)</note>
       <tuv lang="EN">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
@@ -7848,6 +7849,7 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
     </tu>
     <tu>
+      <note>interpunkcja (MRK)</note>
       <tuv lang="EN">
         <seg>Translated documents created</seg>
       </tuv>
