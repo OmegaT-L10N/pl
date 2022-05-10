@@ -1324,6 +1324,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ASCII Only</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T120745Z" creationid="48694" creationdate="20220510T120745Z">
+        <seg>tylko ASCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aalebazi" changedate="20220506T111709Z" creationid="Aalebazi" creationdate="20220506T111709Z">
@@ -1448,6 +1456,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T180111Z" creationid="studentILS10" creationdate="20220504T180111Z">
         <seg>Wszystkie domeny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All preferences protected by the master password will be reset.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T120637Z" creationid="48694" creationdate="20220510T120637Z">
+        <seg>Wszystkie preferencje chronione hasłem głównym zostaną zresetowane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1609,8 +1625,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Are you sure you want to reset the master password?</seg>
       </tuv>
-      <tuv lang="PL" changeid="48694" changedate="20220510T120305Z" creationid="48694" creationdate="20220510T120305Z">
-        <seg>Jeste</seg>
+      <tuv lang="PL" changeid="48694" changedate="20220510T120617Z" creationid="48694" creationdate="20220510T120305Z">
+        <seg>Jesteś pewny</seg>
       </tuv>
     </tu>
     <tu>
@@ -1777,6 +1793,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220508T200214Z" creationid="aa bb" creationdate="20220508T200214Z">
         <seg>&amp;Odnośniki do zakładek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Both</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T120801Z" creationid="48694" creationdate="20220510T120801Z">
+        <seg>Oba</seg>
       </tuv>
     </tu>
     <tu>
@@ -1993,6 +2017,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T125006Z" creationid="werric" creationdate="20220419T125006Z">
         <seg>Wybierz projekt MED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T120708Z" creationid="48694" creationdate="20220510T120708Z">
+        <seg>Wyczyść</seg>
       </tuv>
     </tu>
     <tu>
@@ -2403,6 +2435,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T121207Z" creationid="2021ILS2022" creationdate="20220505T121207Z">
         <seg>DeepL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T120724Z" creationid="48694" creationdate="20220510T120724Z">
+        <seg>Domyślne</seg>
       </tuv>
     </tu>
     <tu>
@@ -3088,6 +3128,14 @@ Nikt nie usłyszy twych krzyków.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Escape</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T120732Z" creationid="48694" creationdate="20220510T120732Z">
+        <seg>Wyjście</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Escaped binary char contains malformed data ({0})!</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220415T170329Z" creationid="ewawoj" creationdate="20220411T222824Z">
@@ -3620,6 +3668,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to Preferences &gt; External Search to enable.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T120853Z" creationid="48694" creationdate="20220510T120853Z">
+        <seg>Przejdź do Preferencje &gt; Wyszukiwanie zewnętrzne, aby włączyć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Google Translate v2</seg>
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T121026Z" creationid="2021ILS2022" creationdate="20220505T121026Z">
@@ -4092,6 +4148,22 @@ inside the configuration folder.</seg>
       <tuv lang="PL" changeid="Marcin J" changedate="20220427T135806Z" creationid="Marcin J" creationdate="20220427T135051Z">
         <seg>Nie było możliwe utworzenie katalogu skryptów
 w katalogu konfiguracji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Item has neither URLs nor commands.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T120919Z" creationid="48694" creationdate="20220510T120919Z">
+        <seg>Element nie ma ani adresów URL, ani poleceń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Item name is empty or missing</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T120906Z" creationid="48694" creationdate="20220510T120906Z">
+        <seg>Nazwa elementu jest pusta lub nie istnieje</seg>
       </tuv>
     </tu>
     <tu>
@@ -4868,6 +4940,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-ASCII Only</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T120756Z" creationid="48694" creationdate="20220510T120756Z">
+        <seg>tylko nie-ASCII y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-GUI mode options:
 	--quiet
 		Reduce output to command line stdout.</seg>
@@ -4900,6 +4980,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220509T142708Z" creationid="aa bb" creationdate="20220509T142708Z">
         <seg>&amp;Ukryty tekst instrukcji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T120736Z" creationid="48694" creationdate="20220510T120736Z">
+        <seg>Brak</seg>
       </tuv>
     </tu>
     <tu>
@@ -5525,6 +5613,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press the keyboard shortcut you wish to assign, then click OK.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T120659Z" creationid="48694" creationdate="20220510T120659Z">
+        <seg>Naciśnij skrót klawiaturowy, który chcesz przypisać, a następnie kliknij przycisk OK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T175720Z" creationid="studentILS10" creationdate="20220504T175720Z">
@@ -5593,6 +5689,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="PL" changeid="jarosz" changedate="20220427T142739Z" creationid="jarosz" creationdate="20220427T142730Z">
         <seg>Projekt zamknięty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T120830Z" creationid="48694" creationdate="20220510T120830Z">
+        <seg>Polecenia projektu są wyłączone ze względów bezpieczeństwa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6455,6 +6559,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T173816Z" creationid="studentILS10" creationdate="20220504T173816Z">
         <seg>Skrót</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shortcut:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T120643Z" creationid="48694" creationdate="20220510T120643Z">
+        <seg>Skrót:</seg>
       </tuv>
     </tu>
     <tu>
