@@ -8272,6 +8272,7 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Brakuje domykającego nawiasu kwadratowego. (MRK)</note>
       <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
