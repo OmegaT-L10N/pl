@@ -1292,6 +1292,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A&amp;ggregate Tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220510T104849Z" creationid="aa bb" creationdate="20220510T104849Z">
+        <seg>Połącz tagi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ANTLR (ANTLR 3 License)</seg>
       </tuv>
       <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112312Z" creationid="Aalebazi" creationdate="20220506T112312Z">
@@ -1777,6 +1785,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222142Z" creationid="mat_staszak" creationdate="20220411T222142Z">
         <seg>Uwzględnij wielkość liter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>C&amp;harts</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220510T104359Z" creationid="aa bb" creationdate="20220510T104359Z">
+        <seg>Wykresy</seg>
       </tuv>
     </tu>
     <tu>
@@ -2351,6 +2367,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>D&amp;iagrams</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220510T104430Z" creationid="aa bb" creationdate="20220510T104430Z">
+        <seg>Diagramy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DeepL</seg>
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T121207Z" creationid="2021ILS2022" creationdate="20220505T121207Z">
@@ -2683,6 +2707,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084157Z" creationid="GKarpowicz" creationdate="20220406T084152Z">
         <seg>Pobieranie projektu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dra&amp;wings</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220510T104449Z" creationid="aa bb" creationdate="20220510T104449Z">
+        <seg>Rysunki</seg>
       </tuv>
     </tu>
     <tu>
@@ -3176,6 +3208,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091141Z" creationid="GKarpowicz" creationdate="20220406T091141Z">
         <seg>Kod wyjścia: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220510T104341Z" creationid="aa bb" creationdate="20220510T104341Z">
+        <seg>Linki zewnętrzne</seg>
       </tuv>
     </tu>
     <tu>
@@ -5191,6 +5231,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085648Z" creationid="GKarpowicz" creationdate="20220406T085648Z">
         <seg>Osierocone segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other Options:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220510T104505Z" creationid="aa bb" creationdate="20220510T104505Z">
+        <seg>Inne opcje:</seg>
       </tuv>
     </tu>
     <tu>
