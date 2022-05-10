@@ -4232,8 +4232,8 @@ położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawien
       <tuv lang="EN">
         <seg>If the filter has any options, you may change them by clicking Options.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T202703Z" creationid="Aalebazi" creationdate="20220510T202703Z">
-        <seg>Jeżeli filtr ma jakieś dodatkowe ustawienia, można je zmienić klikając Opcje.</seg>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T203259Z" creationid="Aalebazi" creationdate="20220510T202703Z">
+        <seg>Jeżeli filtr ma jakieś dodatkowe ustawienia, możesz je zmienić klikając Opcje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5523,8 +5523,8 @@ Odeszła do raju</seg>
       <tuv lang="EN">
         <seg>Note: not all filters allow you to select an encoding.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T202410Z" creationid="Aalebazi" creationdate="20220510T202410Z">
-        <seg>Uwaga: Nie  wszystkie filtry pozwalają na wybór kodowania.</seg>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T203314Z" creationid="Aalebazi" creationdate="20220510T202410Z">
+        <seg>Uwaga: Nie wszystkie filtry pozwalają na wybór kodowania.</seg>
       </tuv>
     </tu>
     <tu>
