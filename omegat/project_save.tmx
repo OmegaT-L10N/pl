@@ -449,8 +449,8 @@
       <tuv lang="EN">
         <seg>&amp;Install new dictionary...</seg>
       </tuv>
-      <tuv lang="PL" changeid="jarosz" changedate="20220510T221258Z" creationid="jarosz" creationdate="20220510T221258Z">
-        <seg>[parcial]&amp;Zainstaluj...</seg>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235559Z" creationid="jarosz" creationdate="20220510T221258Z">
+        <seg>&amp;Zainstaluj nowy słownik...</seg>
       </tuv>
     </tu>
     <tu>
