@@ -713,8 +713,8 @@
       <tuv lang="EN">
         <seg>&amp;Remove</seg>
       </tuv>
-      <tuv lang="PL" changeid="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" changedate="20220420T201100Z" creationid="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" creationdate="20220420T201100Z">
-        <seg>Usuń</seg>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235605Z" creationid="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" creationdate="20220420T201100Z">
+        <seg>&amp;Odinstaluj...</seg>
       </tuv>
     </tu>
     <tu>
@@ -908,6 +908,14 @@
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220415T165650Z" creationid="ewawoj" creationdate="20220415T120329Z">
         <seg>&amp; Pomiń nagłówek PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Source (segment {0}):</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235758Z" creationid="jarosz" creationdate="20220510T235758Z">
+        <seg>&amp;Źródło (segment {0}):</seg>
       </tuv>
     </tu>
     <tu>
@@ -1608,6 +1616,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while downloading the dictionary.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235738Z" creationid="jarosz" creationdate="20220510T235738Z">
+        <seg>Podczas pobierania słownika wystąpił błąd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while processing a font changed event:
 {0}</seg>
       </tuv>
@@ -2018,6 +2034,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot install</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235644Z" creationid="jarosz" creationdate="20220510T235644Z">
+        <seg>Nie można zainstalować</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cannot prepare GPG environment properly</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T122010Z" creationid="48694" creationdate="20220510T122010Z">
@@ -2352,6 +2376,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Confirm uninstalling</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235633Z" creationid="jarosz" creationdate="20220510T235633Z">
+        <seg>Potwierdź odinstalowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conflict resolution</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T175335Z" creationid="studentILS10" creationdate="20220504T175335Z">
@@ -2489,6 +2521,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085431Z" creationid="GKarpowicz" creationdate="20220406T085258Z">
         <seg>Utworzenie następującego katalogu projektu jest niemożliwe {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not create the specified folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235729Z" creationid="jarosz" creationdate="20220510T235719Z">
+        <seg>Nie udało się utworzyć danego folderu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2961,6 +3001,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224544Z" creationid="mat_staszak" creationdate="20220411T224544Z">
         <seg>Czy chcesz kontynuować?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to create it?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235723Z" creationid="jarosz" creationdate="20220510T235717Z">
+        <seg>Czy chcesz go utworzyć?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3884,6 +3932,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Folder does not exist</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235651Z" creationid="jarosz" creationdate="20220510T235651Z">
+        <seg>Katalog nie istnieje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Folder {0} was automatically created for team mode project</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084736Z" creationid="GKarpowicz" creationdate="20220406T084634Z">
@@ -4792,10 +4848,42 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool API version mismatch</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235815Z" creationid="jarosz" creationdate="20220510T235815Z">
+        <seg>Niezgodność wersji API LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool is misconfigured.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235819Z" creationid="jarosz" creationdate="20220510T235819Z">
+        <seg>LanguageTool jest niepoprawnie skonfigurowany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool is not available for your target language.</seg>
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T112642Z" creationid="2021ILS2022" creationdate="20220505T112642Z">
         <seg>Program LanguageTool nie jest dostępny w twoim języku docelowym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool server started</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235807Z" creationid="jarosz" creationdate="20220510T235807Z">
+        <seg>Serwer LanguageTool został uruchomiony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool server terminated</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235810Z" creationid="jarosz" creationdate="20220510T235810Z">
+        <seg>Serwer LanguageTool zakończył pracę</seg>
       </tuv>
     </tu>
     <tu>
@@ -6175,6 +6263,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please try again.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235741Z" creationid="jarosz" creationdate="20220510T235741Z">
+        <seg>Spróbuj ponownie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please type or paste the URL of the mediawiki page</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T091529Z" creationid="mademoiselleqwerty" creationdate="20220418T091529Z">
@@ -6259,6 +6355,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224029Z" creationid="mat_staszak" creationdate="20220411T224029Z">
         <seg>Projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Proceed?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235629Z" creationid="jarosz" creationdate="20220510T235629Z">
+        <seg>Kontynuować?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7938,6 +8042,22 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The specified dictionary folder cannot be used.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235647Z" creationid="jarosz" creationdate="20220510T235647Z">
+        <seg>Katalog wybranego słownika nie może zostać użyty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified dictionary folder does not exist.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235657Z" creationid="jarosz" creationdate="20220510T235657Z">
+        <seg>Katalog wybranego słownika nie istnieje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The translated file language entered is invalid!</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T152218Z" creationid="werric" creationdate="20220419T152218Z">
@@ -8341,6 +8461,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>URL of online dictionaries:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235611Z" creationid="jarosz" creationdate="20220510T235611Z">
+        <seg>URL słowników internetowych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>URL:</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T121614Z" creationid="48694" creationdate="20220510T121614Z">
@@ -8429,6 +8557,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to uninstall the selected dictionary</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235636Z" creationid="jarosz" creationdate="20220510T235636Z">
+        <seg>Nie można odinstalować wybranego słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unauthorized request to TaaS service.</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T180329Z" creationid="studentILS10" creationdate="20220504T180329Z">
@@ -8449,6 +8585,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230605Z" creationid="mat_staszak" creationdate="20220411T230605Z">
         <seg>Nieoczekiwany znak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uninstalling failed</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235642Z" creationid="jarosz" creationdate="20220510T235642Z">
+        <seg>Odinstalowanie nie powiodło się</seg>
       </tuv>
     </tu>
     <tu>
@@ -8952,6 +9096,14 @@ Twoja strona odeszła wraz z nimi</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T174712Z" creationid="studentILS10" creationdate="20220504T174712Z">
         <seg>Próbujesz użyć HunspellTokenizer z językiem {0}, ale dla tego języka nie są zainstalowane żadne słowniki ortograficzne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235626Z" creationid="jarosz" creationdate="20220510T235626Z">
+        <seg>Odinstalowujesz słownik sprawdzania pisowni, którego twój projekt aktualnie używa.</seg>
       </tuv>
     </tu>
     <tu>
