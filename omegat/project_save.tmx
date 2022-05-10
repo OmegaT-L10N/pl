@@ -6140,6 +6140,7 @@ a description of how this error was produced.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Program podpowiada, że w tłumaczeniu brakuje przecinka. (MRK)</note>
       <tuv lang="EN">
         <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
       </tuv>
