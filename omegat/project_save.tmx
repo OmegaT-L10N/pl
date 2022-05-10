@@ -4977,6 +4977,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Merge alternate definitions for the same term</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220510T170115Z" creationid="mademoiselleqwerty" creationdate="20220510T170115Z">
+        <seg>Merge alternate definitions for the same term</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Microsoft Translator</seg>
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T121129Z" creationid="2021ILS2022" creationdate="20220505T121129Z">
