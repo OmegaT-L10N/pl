@@ -4105,6 +4105,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T202251Z" creationid="Aalebazi" creationdate="20220510T202251Z">
+        <seg>W tym miejscu można ustawić wzorce nazw plików źródłowych przetwarzanych przez filtr, dostosować nazwy tłumaczonych plików oraz wybrać kodowanie, które będzie używane do wczytywania pliku i zapisywania jego przetłumaczonego odpowiednika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hide '{0}'</seg>
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T120401Z" creationid="2021ILS2022" creationdate="20220505T120401Z">
@@ -5497,6 +5505,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: not all filters allow you to select an encoding.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T202410Z" creationid="Aalebazi" creationdate="20220510T202410Z">
+        <seg>Uwaga: Nie  wszystkie filtry pozwalają na wybór kodowania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T115121Z" creationid="agrze" creationdate="20220501T115121Z">
@@ -6155,6 +6171,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T121401Z" creationid="48694" creationdate="20220510T121401Z">
         <seg>Charakterystyczne dla projektu wyszukiwanie zewnętrzneProject Specific External Search</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Specific File Filters</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T202513Z" creationid="Aalebazi" creationdate="20220510T202513Z">
+        <seg>Charakterystyczne dla projektu filtry plików</seg>
       </tuv>
     </tu>
     <tu>
