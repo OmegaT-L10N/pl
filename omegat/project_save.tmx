@@ -479,6 +479,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Make the file filter settings project specific</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T202941Z" creationid="Aalebazi" creationdate="20220510T202941Z">
+        <seg>&amp;Zastosuj ustawienia plików i filtrów specyficzne dla projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Make the segmentation rules project specific</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T134348Z" creationid="werric" creationdate="20220419T104445Z">
@@ -7912,6 +7920,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T203232Z" creationid="Aalebazi" creationdate="20220510T203232Z">
+        <seg>Aby zmienić typ i kodowanie plików, które będą przetwarzane przez filtr, wybierz odpowiedni filtr z listy i kliknij Edytuj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Too big HTML file!</seg>
       </tuv>
       <tuv lang="PL" changeid="Aalebazi" changedate="20220506T113111Z" creationid="Aalebazi" creationdate="20220506T113111Z">
@@ -8578,6 +8594,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="PL" changeid="Magdaanna" changedate="20220506T194231Z" creationid="Magdaanna" creationdate="20220506T194231Z">
         <seg>Widok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View or edit file filters.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T202837Z" creationid="Aalebazi" creationdate="20220510T202837Z">
+        <seg>Przegląd i edycja filtrów.</seg>
       </tuv>
     </tu>
     <tu>
