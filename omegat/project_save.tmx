@@ -1340,6 +1340,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About OmegaT</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220510T105602Z" creationid="aa bb" creationdate="20220510T105602Z">
+        <seg>O programie OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Actions &amp; Settings</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T121153Z" creationid="Marcin J" creationdate="20220427T134910Z">
@@ -8190,6 +8198,14 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220510T105537Z" creationid="aa bb" creationdate="20220510T105537Z">
         <seg>{0} wersja {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} version {1}, update {2} ({3})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220510T105552Z" creationid="aa bb" creationdate="20220510T105552Z">
+        <seg>{0} wersja {1}, aktualizacja {2} ({3})</seg>
       </tuv>
     </tu>
     <tu>
