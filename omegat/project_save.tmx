@@ -359,6 +359,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Go To Downloads</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121724Z" creationid="48694" creationdate="20220510T121724Z">
+        <seg>&amp;Przejdź do pobranych plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
       </tuv>
       <tuv lang="PL" changeid="Magdaanna" changedate="20220506T192515Z" creationid="Magdaanna" creationdate="20220506T192515Z">
@@ -835,6 +843,14 @@
       </tuv>
       <tuv lang="PL" changeid="kasiawinciorek" changedate="20220427T143001Z" creationid="kasiawinciorek" creationdate="20220427T143001Z">
         <seg>&amp;Pokaż wszystko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show in Editor context menu</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121542Z" creationid="48694" creationdate="20220510T121542Z">
+        <seg>&amp;Pokaż w menu kontekstowym edytora</seg>
       </tuv>
     </tu>
     <tu>
@@ -1705,6 +1721,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically check for updates</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121756Z" creationid="48694" creationdate="20220510T121756Z">
+        <seg>Wyszukiwanie aktualizacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autotext</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T173838Z" creationid="studentILS10" creationdate="20220504T173838Z">
@@ -2005,10 +2029,26 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;automatically</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121718Z" creationid="48694" creationdate="20220510T121718Z">
+        <seg>Sprawdź &amp;automatycznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T103038Z" creationid="mademoiselleqwerty" creationdate="20220418T102941Z">
         <seg>Wyświetlanie błędów dla bieżącego dokumentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121802Z" creationid="48694" creationdate="20220510T121802Z">
+        <seg>Sprawdź &amp;automatycznie</seg>
       </tuv>
     </tu>
     <tu>
@@ -2123,6 +2163,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T121212Z" creationid="48694" creationdate="20220510T121212Z">
         <seg>URL nie ma odpowiada żadnej stronie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121618Z" creationid="48694" creationdate="20220510T121618Z">
+        <seg>Polecenia</seg>
       </tuv>
     </tu>
     <tu>
@@ -2543,6 +2591,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Delimiter:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121631Z" creationid="48694" creationdate="20220510T121631Z">
+        <seg>Separator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Description</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T175936Z" creationid="studentILS10" creationdate="20220504T175936Z">
@@ -2920,6 +2976,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ed&amp;it</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121600Z" creationid="48694" creationdate="20220510T121600Z">
+        <seg>Edyt&amp;uj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230245Z" creationid="mat_staszak" creationdate="20220411T230245Z">
@@ -2928,9 +2992,25 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit External Search Command</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121610Z" creationid="48694" creationdate="20220510T121610Z">
+        <seg>Edytuj element wyszukiwania zewnętrznego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit External Search Item</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T121504Z" creationid="48694" creationdate="20220510T121504Z">
+        <seg>Edytuj element wyszukiwania zewnętrznego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search URL</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121605Z" creationid="48694" creationdate="20220510T121605Z">
         <seg>Edytuj element wyszukiwania zewnętrznego</seg>
       </tuv>
     </tu>
@@ -3055,6 +3135,14 @@ Tej jedynej nie ma!</seg>
         <seg>Encoding</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T121516Z" creationid="48694" creationdate="20220510T121516Z">
+        <seg>Szyfrowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121626Z" creationid="48694" creationdate="20220510T121626Z">
         <seg>Szyfrowanie</seg>
       </tuv>
     </tu>
@@ -3480,6 +3568,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085029Z" creationid="GKarpowicz" creationdate="20220406T085011Z">
         <seg>Utworzenie nowego projektu jest niemożliwe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to fetch latest version info: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121729Z" creationid="48694" creationdate="20220510T121729Z">
+        <seg>Nie udało się pobrać informacji o najnowszej wersji: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4472,6 +4568,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Latest</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121748Z" creationid="48694" creationdate="20220510T121748Z">
+        <seg>oSTATNI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T101805Z" creationid="mademoiselleqwerty" creationdate="20220418T101805Z">
@@ -4980,6 +5084,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121531Z" creationid="48694" creationdate="20220510T121531Z">
+        <seg>Nazwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T120923Z" creationid="48694" creationdate="20220510T120923Z">
@@ -5296,6 +5408,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Classic</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121831Z" creationid="48694" creationdate="20220510T121831Z">
+        <seg>Klasyczna OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Project Files</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T125307Z" creationid="werric" creationdate="20220419T125307Z">
@@ -5308,6 +5428,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T153716Z" creationid="werric" creationdate="20220419T153716Z">
         <seg>Folder projektu OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT default theme</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121813Z" creationid="48694" creationdate="20220510T121813Z">
+        <seg>Jest tłumaczeniem domyślnym</seg>
       </tuv>
     </tu>
     <tu>
@@ -5400,6 +5528,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T230216Z" creationid="ewawoj" creationdate="20220411T230216Z">
         <seg>OmegaT spróbuje posegmentować plik TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT {0} is now available.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121711Z" creationid="48694" creationdate="20220510T121711Z">
+        <seg>OmegaT {0} jest gotowy do użycia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6073,6 +6209,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remo&amp;ve</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121557Z" creationid="48694" creationdate="20220510T121557Z">
+        <seg>Us&amp;uń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote File/Folder</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T155110Z" creationid="werric" creationdate="20220419T130904Z">
@@ -6345,6 +6489,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sample Output</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121649Z" creationid="48694" creationdate="20220510T121649Z">
+        <seg>Przykładowy wynik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Alignment Results</seg>
       </tuv>
       <tuv lang="PL" changeid="kasiawinciorek" changedate="20220427T142204Z" creationid="kasiawinciorek" creationdate="20220427T142204Z">
@@ -6423,6 +6575,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="Zooola" changedate="20220427T143009Z" creationid="Zooola" creationdate="20220427T143009Z">
         <seg>Katalog skryptów:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Se&amp;t</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121549Z" creationid="48694" creationdate="20220510T121549Z">
+        <seg>Usta&amp;w</seg>
       </tuv>
     </tu>
     <tu>
@@ -6971,6 +7131,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121538Z" creationid="48694" creationdate="20220510T121538Z">
+        <seg>Określ mnemonik z "&amp;": "F&amp;oobar", aby użyć O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specify state attribute handling behavior</seg>
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220509T142309Z" creationid="aa bb" creationdate="20220509T142309Z">
@@ -7163,6 +7331,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121621Z" creationid="48694" creationdate="20220510T121621Z">
+        <seg>Cel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Team</seg>
       </tuv>
       <tuv lang="PL" changeid="Magda" changedate="20220427T135925Z" creationid="Magda" creationdate="20220427T135925Z">
@@ -7298,6 +7474,22 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T225734Z" creationid="ewawoj" creationdate="20220411T225734Z">
         <seg>Język źródłowy pliku TMX ({0}) różni się od języka źródłowego projektu ({1}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121635Z" creationid="48694" creationdate="20220510T121635Z">
+        <seg>Adres URL musi zawierać "{target}", co zostanie zastąpione wyszukiwaną frazą.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The command must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121639Z" creationid="48694" creationdate="20220510T121639Z">
+        <seg>Adres URL musi zawierać "{target}", co zostanie zastąpione wyszukiwaną frazą.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7753,6 +7945,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>URL:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121614Z" creationid="48694" creationdate="20220510T121614Z">
+        <seg>Adres URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>URLs</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T121318Z" creationid="48694" creationdate="20220510T121318Z">
@@ -7988,6 +8188,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
         <seg>Updated</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T180052Z" creationid="studentILS10" creationdate="20220504T180052Z">
+        <seg>Zaktualizowano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updates</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121732Z" creationid="48694" creationdate="20220510T121732Z">
         <seg>Zaktualizowano</seg>
       </tuv>
     </tu>
@@ -8311,6 +8519,14 @@ Twoja strona odeszła wraz z nimi</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You already have the latest version.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121705Z" creationid="48694" creationdate="20220510T121705Z">
+        <seg>Już posiadasz najnowszą wersję.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are going to modify {0} segments.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224517Z" creationid="mat_staszak" creationdate="20220411T224517Z">
@@ -8331,6 +8547,14 @@ Twoja strona odeszła wraz z nimi</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T112028Z" creationid="agrze" creationdate="20220501T112007Z">
         <seg>Możesz dodać hasło do glosariusza za pomocą funkcji „Wprowadź hasło do glosariusza” w menu „Edytuj”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You currently have {1}.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121715Z" creationid="48694" creationdate="20220510T121715Z">
+        <seg>Obecnie masz {1}.</seg>
       </tuv>
     </tu>
     <tu>
