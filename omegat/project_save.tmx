@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4877,6 +4877,22 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113826Z" creationid="2021ILS2022" creationdate="20220505T113826Z">
         <seg>Zaznacz segmenty z notatkami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Translated Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="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" changedate="20220510T170757Z" creationid="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" creationdate="20220510T170757Z">
+        <seg>[coś w rodzaju]Zaznacz przetłumaczone segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="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" changedate="20220510T170800Z" creationid="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" creationdate="20220510T170800Z">
+        <seg>[coś w rodzaju]Zaznacz nieprzetłumaczone segmenty</seg>
       </tuv>
     </tu>
     <tu>
