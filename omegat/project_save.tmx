@@ -4789,6 +4789,7 @@ w katalogu konfiguracji.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>repozytoriach (mała litera) (MRK)</note>
       <tuv lang="EN">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
