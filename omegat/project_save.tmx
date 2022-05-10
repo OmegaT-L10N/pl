@@ -3081,8 +3081,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Edit Filter Patterns</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220412T175623Z" creationid="mademoiselleqwerty" creationdate="20220412T175623Z">
-        <seg>Edit Filter Patterns</seg>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T202716Z" creationid="mademoiselleqwerty" creationdate="20220412T175623Z">
+        <seg>Zmień wzorzec dla filtra</seg>
       </tuv>
     </tu>
     <tu>
@@ -4218,6 +4218,14 @@ their defaults as a result of the location change.</seg>
       <tuv lang="PL" changeid="agrze" changedate="20220501T130504Z" creationid="agrze" creationdate="20220501T124439Z">
         <seg>Jeżeli później zostanie zapewniony dostęp do wymaganego położenia,
 położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawienia powrócą do wartości domyślnych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the filter has any options, you may change them by clicking Options.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T202703Z" creationid="Aalebazi" creationdate="20220510T202703Z">
+        <seg>Jeżeli filtr ma jakieś dodatkowe ustawienia, można je zmienić klikając Opcje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5597,6 +5605,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T164455Z" creationid="GKarpowicz" creationdate="20220405T163856Z">
         <seg>Liczba segmentów niepowtarzających się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>O&amp;ptions...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T202612Z" creationid="Aalebazi" creationdate="20220510T202612Z">
+        <seg>O&amp;pcje...</seg>
       </tuv>
     </tu>
     <tu>
