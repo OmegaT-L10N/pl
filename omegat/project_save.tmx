@@ -375,6 +375,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore file context when identifying segments with alternate translations</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T203730Z" creationid="Aalebazi" creationdate="20220510T203730Z">
+        <seg>&amp;Ignoruj nazwy pliku w celu identyfikacji segmentów z alternatywnymi tłumaczeniami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
       <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220421T224611Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220421T224611Z">
@@ -1451,6 +1459,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T112428Z" creationid="agrze" creationdate="20220501T112428Z">
         <seg>Dodaj hasło do glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add Pattern</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T203551Z" creationid="Aalebazi" creationdate="20220510T203551Z">
+        <seg>Dodaj wzorzec</seg>
       </tuv>
     </tu>
     <tu>
@@ -3103,6 +3119,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit Pattern</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T203542Z" creationid="Aalebazi" creationdate="20220510T203542Z">
+        <seg>Edytuj wzorzec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Project</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220405T172619Z" creationid="werric" creationdate="20220405T164651Z">
@@ -3768,6 +3792,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T103614Z" creationid="GKarpowicz" creationdate="20220406T092832Z">
         <seg>Plik {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filename Variables:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T203422Z" creationid="Aalebazi" creationdate="20220510T203422Z">
+        <seg>Zmienne nazwy pliku:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7294,10 +7326,26 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source File Encoding:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T203508Z" creationid="Aalebazi" creationdate="20220510T203508Z">
+        <seg>Kodowanie pliku źródłowego:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source Filename Pattern</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220415T115316Z" creationid="ewawoj" creationdate="20220415T115316Z">
         <seg>Wzór nazwy pliku źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Filename Pattern:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T203526Z" creationid="Aalebazi" creationdate="20220510T203526Z">
+        <seg>Wzór nazwy pliku źródłowego:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8004,6 +8052,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220415T115427Z" creationid="ewawoj" creationdate="20220415T115427Z">
         <seg>Kodowanie pliku docelowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated File Encoding:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T203444Z" creationid="Aalebazi" creationdate="20220510T203444Z">
+        <seg>Kodowanie pliku docelowego:</seg>
       </tuv>
     </tu>
     <tu>
