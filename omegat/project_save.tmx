@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7478,10 +7478,18 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spellchecker</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T221048Z" creationid="jarosz" creationdate="20220510T221048Z">
+        <seg>Moduł sprawdzania pisowni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spellchecker Setup</seg>
       </tuv>
-      <tuv lang="PL" changeid="jarosz" changedate="20220427T142812Z" creationid="jarosz" creationdate="20220427T142812Z">
-        <seg>[parcial]Ustawienia sprawdzania pisowni</seg>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T221026Z" creationid="jarosz" creationdate="20220427T142812Z">
+        <seg>Ustawienia sprawdzania pisowni</seg>
       </tuv>
     </tu>
     <tu>
