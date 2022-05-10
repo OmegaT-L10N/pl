@@ -1901,6 +1901,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Call to external program was interrupted: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T122023Z" creationid="48694" creationdate="20220510T122023Z">
+        <seg>Połączenie z programem zewnętrznym zostało przerwane: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Camtasia for Windows</seg>
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220505T205611Z" creationid="aa bb" creationdate="20220505T205611Z">
@@ -1937,6 +1945,22 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085516Z" creationid="GKarpowicz" creationdate="20220406T085516Z">
         <seg>Nie można utworzyć folderu dla dokumentów docelowych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot find GPG executable on the bash $PATH</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121953Z" creationid="48694" creationdate="20220510T121953Z">
+        <seg>Nie można znaleźć pliku wykonywalnego GPG w bash $PATH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot prepare GPG environment properly</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T122010Z" creationid="48694" creationdate="20220510T122010Z">
+        <seg>Nie można prawidłowo przygotować środowiska GPG</seg>
       </tuv>
     </tu>
     <tu>
@@ -3312,6 +3336,14 @@ Nikt nie usłyszy twych krzyków.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error while getting output of external program</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121940Z" creationid="48694" creationdate="20220510T121940Z">
+        <seg>Błąd podczas pobierania danych wyjściowych z zewnętrznego programu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error while reading MT results</seg>
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T121237Z" creationid="2021ILS2022" creationdate="20220505T121237Z">
@@ -3552,6 +3584,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091349Z" creationid="GKarpowicz" creationdate="20220406T091349Z">
         <seg>Wykonywanie polecenia zewnętrznego zostało przerwane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External program failed({1}): {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T122046Z" creationid="48694" creationdate="20220510T122046Z">
+        <seg>Program zewnętrzny nie powiódł się ({1}): {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4688,6 +4728,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Looking for a GPG executable: path {0} from $PATH is not accessible; skipping</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T122141Z" creationid="48694" creationdate="20220510T122141Z">
+        <seg>Szukanie pliku wykonywalnego GPG: ścieżka {0} z $PATH nie jest dostępna; pomijanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lucene (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112452Z" creationid="Aalebazi" creationdate="20220506T112452Z">
@@ -5148,6 +5196,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No GPG key found for key ID ''{0}''; check or set git config user.signingKey</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T122104Z" creationid="48694" creationdate="20220510T122104Z">
+        <seg>Nie znaleziono klucza GPG dla identyfikatora klucza ''{0}''; sprawdź lub ustaw git config user.signingKey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="PL" changeid="jarosz" changedate="20220427T142803Z" creationid="jarosz" creationdate="20220427T142803Z">
@@ -5428,6 +5484,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T153716Z" creationid="werric" creationdate="20220419T153716Z">
         <seg>Folder projektu OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT classic theme</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121908Z" creationid="48694" creationdate="20220510T121908Z">
+        <seg>Motyw klasyczny OmegaT</seg>
       </tuv>
     </tu>
     <tu>
