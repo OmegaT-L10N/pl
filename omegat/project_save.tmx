@@ -1041,6 +1041,14 @@ Znakowi "?" odpowiada dokładnie jeden znak ("biega*" odpowiada "biegam", "biega
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>,</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121338Z" creationid="48694" creationdate="20220510T121338Z">
+        <seg>PL,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>---- Localization Notes ----</seg>
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220505T193202Z" creationid="aa bb" creationdate="20220505T193202Z">
@@ -2063,6 +2071,22 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121522Z" creationid="48694" creationdate="20220510T121522Z">
+        <seg>Polecenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command delimiter is empty</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121309Z" creationid="48694" creationdate="20220510T121309Z">
+        <seg>Command delimiter is empyt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Command does not contain "{0}"</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T121144Z" creationid="48694" creationdate="20220510T121144Z">
@@ -2079,6 +2103,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command is missing delimiter</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121242Z" creationid="48694" creationdate="20220510T121242Z">
+        <seg>URL nie ma odpowiada żadnej stronie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Command is missing encoding</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T121230Z" creationid="48694" creationdate="20220510T121230Z">
@@ -2091,6 +2123,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T121212Z" creationid="48694" creationdate="20220510T121212Z">
         <seg>URL nie ma odpowiada żadnej stronie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commands</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121326Z" creationid="48694" creationdate="20220510T121326Z">
+        <seg>Polecenias</seg>
       </tuv>
     </tu>
     <tu>
@@ -2227,6 +2267,14 @@ Inny wybierz napitek.</seg>
         <seg>Tryb konsoli- tłumaczenie:
 	--source-pattern = &lt;model&gt;
 		Biała lista wyrażeń regularnych plików źródłowych do przetworzenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Context Menu Priority:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121458Z" creationid="48694" creationdate="20220510T121458Z">
+        <seg>Priorytet kontekstowego menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -2483,6 +2531,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T175357Z" creationid="studentILS10" creationdate="20220504T175357Z">
         <seg>Usunięte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delimiter</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121526Z" creationid="48694" creationdate="20220510T121526Z">
+        <seg>Separator</seg>
       </tuv>
     </tu>
     <tu>
@@ -2872,6 +2928,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit External Search Item</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121504Z" creationid="48694" creationdate="20220510T121504Z">
+        <seg>Edytuj element wyszukiwania zewnętrznego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Filter Patterns</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220412T175623Z" creationid="mademoiselleqwerty" creationdate="20220412T175623Z">
@@ -2964,6 +3028,14 @@ Tej jedynej nie ma!</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable project-specific commands</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121442Z" creationid="48694" creationdate="20220510T121442Z">
+        <seg>Włączenie poleceń charakterystycznych dla projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T121330Z" creationid="werric" creationdate="20220419T121330Z">
@@ -2976,6 +3048,14 @@ Tej jedynej nie ma!</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T232944Z" creationid="ewawoj" creationdate="20220411T232944Z">
         <seg>Włączony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encoding</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121516Z" creationid="48694" creationdate="20220510T121516Z">
+        <seg>Szyfrowanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -3336,6 +3416,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T114219Z" creationid="werric" creationdate="20220419T114219Z">
         <seg>Polecenie zewnętrznego przetwarzania końcowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Search</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121348Z" creationid="48694" creationdate="20220510T121348Z">
+        <seg>Wyszukiwanie zewnętrzneExternal Search</seg>
       </tuv>
     </tu>
     <tu>
@@ -3950,6 +4038,14 @@ położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawien
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Editor</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121421Z" creationid="48694" creationdate="20220510T121421Z">
+        <seg>EdytorIn Editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In comments</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221525Z" creationid="mat_staszak" creationdate="20220411T221503Z">
@@ -4204,6 +4300,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T120906Z" creationid="48694" creationdate="20220510T120906Z">
         <seg>Nazwa elementu jest pusta lub nie istnieje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Items</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121407Z" creationid="48694" creationdate="20220510T121407Z">
+        <seg>ElementyItems</seg>
       </tuv>
     </tu>
     <tu>
@@ -5717,6 +5821,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Specific External Search</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121401Z" creationid="48694" creationdate="20220510T121401Z">
+        <seg>Charakterystyczne dla projektu wyszukiwanie zewnętrzneProject Specific External Search</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Statistics</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092540Z" creationid="GKarpowicz" creationdate="20220406T091536Z">
@@ -6955,6 +7067,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121413Z" creationid="48694" creationdate="20220510T121413Z">
+        <seg>PodsumowanieSummary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SuperTMXMerge (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112612Z" creationid="Aalebazi" creationdate="20220506T112612Z">
@@ -7629,6 +7749,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T121050Z" creationid="48694" creationdate="20220510T121050Z">
         <seg>URL nie ma odpowiada żadnej stronie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URLs</seg>
+      </tuv>
+      <tuv lang="PL" changeid="48694" changedate="20220510T121318Z" creationid="48694" creationdate="20220510T121318Z">
+        <seg>adres URL</seg>
       </tuv>
     </tu>
     <tu>
