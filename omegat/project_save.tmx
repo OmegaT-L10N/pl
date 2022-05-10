@@ -2671,6 +2671,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Duplicate Fallbac&amp;k Text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220510T104045Z" creationid="aa bb" creationdate="20220510T104045Z">
+        <seg>Kopia tekstu zastępczegot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E&amp;nable Sentence-level Segmenting</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T134038Z" creationid="werric" creationdate="20220405T164415Z">
