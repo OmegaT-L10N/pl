@@ -1978,6 +1978,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot reset the filter to default patterns.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T201828Z" creationid="Aalebazi" creationdate="20220510T201828Z">
+        <seg>Nie można przywrócić domyślnych wzorców filtra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change date</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T175455Z" creationid="studentILS10" creationdate="20220504T175455Z">
@@ -2284,6 +2292,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T201256Z" creationid="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" creationdate="20220420T201256Z">
         <seg>Potwierdź</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm removal of pattern {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T201624Z" creationid="Aalebazi" creationdate="20220510T201624Z">
+        <seg>Potwierdź usunięcie wzorca {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3467,6 +3483,14 @@ Nikt nie usłyszy twych krzyków.</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092758Z" creationid="GKarpowicz" creationdate="20220406T092758Z">
         <seg>Dokładne dopasowania:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exception occurred:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T201934Z" creationid="Aalebazi" creationdate="20220510T201934Z">
+        <seg>Wystąpił wyjątek:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6400,6 +6424,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T134620Z" creationid="werric" creationdate="20220419T113452Z">
         <seg>U&amp;suń znaczniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove pattern?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T201732Z" creationid="Aalebazi" creationdate="20220510T201732Z">
+        <seg>Usunąć wzorzec?</seg>
       </tuv>
     </tu>
     <tu>
