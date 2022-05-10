@@ -1085,6 +1085,7 @@ Znakowi "?" odpowiada dokładnie jeden znak ("biega*" odpowiada "biegam", "biega
       </tuv>
     </tu>
     <tu>
+      <note>podwójna kropka (MRK)</note>
       <tuv lang="EN">
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
