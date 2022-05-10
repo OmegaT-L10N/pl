@@ -6691,6 +6691,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220510T105458Z" creationid="aa bb" creationdate="20220510T105458Z">
+        <seg>Rozpocznij nowy akapit używając miękkich zwrotów w Wordzie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T092657Z" creationid="GKarpowicz" creationdate="20220406T092305Z">
