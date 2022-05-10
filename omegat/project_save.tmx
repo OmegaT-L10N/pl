@@ -2962,6 +2962,7 @@ Inny wybierz napitek.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>na razie bez znaku "&amp;" (MRK)</note>
       <tuv lang="EN">
         <seg>E&amp;nable Sentence-level Segmenting</seg>
       </tuv>
