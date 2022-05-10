@@ -1049,6 +1049,7 @@ Znakowi "?" odpowiada dokładnie jeden znak ("biega*" odpowiada "biegam", "biega
       </tuv>
     </tu>
     <tu>
+      <note>bez spacji (MRK)</note>
       <tuv lang="EN">
         <seg>+{0} more</seg>
       </tuv>
