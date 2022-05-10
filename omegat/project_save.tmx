@@ -6167,6 +6167,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preserve spaces &amp;for all tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T203812Z" creationid="Aalebazi" creationdate="20220510T203812Z">
+        <seg>Zostaw miejsce dla &amp;wszystkich tagów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press the keyboard shortcut you wish to assign, then click OK.</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T120659Z" creationid="48694" creationdate="20220510T120659Z">
@@ -6516,10 +6524,26 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T204032Z" creationid="Aalebazi" creationdate="20220510T204032Z">
+        <seg>Usuń &amp;tagi na początku i na końcu segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T134620Z" creationid="werric" creationdate="20220419T113452Z">
         <seg>U&amp;suń znaczniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T203946Z" creationid="Aalebazi" creationdate="20220510T203935Z">
+        <seg>Usuń początkowe i końcowe &amp;spacje w niesegmentowanych projektach</seg>
       </tuv>
     </tu>
     <tu>
