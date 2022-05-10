@@ -3055,6 +3055,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit Filter</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Aalebazi" changedate="20220510T201609Z" creationid="Aalebazi" creationdate="20220510T201609Z">
+        <seg>Edycja filtra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Filter Patterns</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220412T175623Z" creationid="mademoiselleqwerty" creationdate="20220412T175623Z">
