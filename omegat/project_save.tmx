@@ -4406,6 +4406,38 @@ położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawien
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Issues</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Malgosia" changedate="20220510T173335Z" creationid="Malgosia" creationdate="20220510T173328Z">
+        <seg>Problemy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Malgosia" changedate="20220510T173853Z" creationid="Malgosia" creationdate="20220510T173853Z">
+        <seg>Problemy w ({0} z {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Malgosia" changedate="20220510T173342Z" creationid="Malgosia" creationdate="20220510T173342Z">
+        <seg>Problemy ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Malgosia" changedate="20220510T173347Z" creationid="Malgosia" creationdate="20220510T173347Z">
+        <seg>Problemy z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is used to mark your translations.</seg>
       </tuv>
       <tuv lang="PL" changeid="Magdaanna" changedate="20220427T140533Z" creationid="Magdaanna" creationdate="20220427T140533Z">
