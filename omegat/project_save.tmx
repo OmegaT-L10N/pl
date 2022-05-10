@@ -2003,6 +2003,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comme&amp;nts</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220510T104107Z" creationid="aa bb" creationdate="20220510T104107Z">
+        <seg>Kom&amp;entarze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comment</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T173833Z" creationid="studentILS10" creationdate="20220504T173833Z">
@@ -2603,6 +2611,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="kasiawinciorek" changedate="20220427T142354Z" creationid="kasiawinciorek" creationdate="20220427T142354Z">
         <seg>Czy chcesz go nadpisać?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Doc&amp;ument properties</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220510T104059Z" creationid="aa bb" creationdate="20220510T104054Z">
+        <seg>Właściwości dokumentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3472,6 +3488,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T133638Z" creationid="werric" creationdate="20220419T133638Z">
         <seg>Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Global</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220510T104329Z" creationid="aa bb" creationdate="20220510T104329Z">
+        <seg>Ogólny</seg>
       </tuv>
     </tu>
     <tu>
@@ -5913,6 +5937,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>S&amp;lide Comments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220510T104125Z" creationid="aa bb" creationdate="20220510T104125Z">
+        <seg>Komentarze &amp;do slajdów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T222424Z" creationid="mat_staszak" creationdate="20220411T222424Z">
@@ -6367,6 +6399,22 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T232209Z" creationid="ewawoj" creationdate="20220411T232209Z">
         <seg>Pominięcie wcześniej pobranego rozszerzenia z klasy '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sli&amp;de Masters</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220510T104201Z" creationid="aa bb" creationdate="20220510T104201Z">
+        <seg>&amp;Wzorce slajdów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slide La&amp;youts</seg>
+      </tuv>
+      <tuv lang="PL" changeid="aa bb" changedate="20220510T104221Z" creationid="aa bb" creationdate="20220510T104221Z">
+        <seg>Układ slajdu</seg>
       </tuv>
     </tu>
     <tu>
