@@ -1,3 +1,4 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
 encoding declaration	deklaracja kodowania
 segmentation	segmentacja
 Note:	Uwaga:
