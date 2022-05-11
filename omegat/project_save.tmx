@@ -5796,8 +5796,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="en">
         <seg>Modification info text</seg>
       </tuv>
-      <tuv lang="pl" changeid="Kurodaizu" changedate="20220427T141253Z" creationid="Kurodaizu" creationdate="20220427T141253Z">
-        <seg>Modification info text</seg>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T132202Z" creationid="Kurodaizu" creationdate="20220427T141253Z">
+        <seg>Informacje o modyfikacjach</seg>
       </tuv>
     </tu>
     <tu>
@@ -7309,6 +7309,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove text target</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T132244Z" creationid="Kurodaizu" creationdate="20220511T132244Z">
+        <seg>Remove text target</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove translation</seg>
       </tuv>
       <tuv lang="pl" changeid="mademoiselleqwerty" changedate="20220418T095833Z" creationid="mademoiselleqwerty" creationdate="20220418T095833Z">
@@ -8619,6 +8627,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="pl" changeid="domin" changedate="20220511T083945Z" creationid="domin" creationdate="20220511T083945Z">
         <seg>Znacznik:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tags</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T132303Z" creationid="Kurodaizu" creationdate="20220511T132238Z">
+        <seg>[fuzzy]Znaczniki</seg>
       </tuv>
     </tu>
     <tu>
