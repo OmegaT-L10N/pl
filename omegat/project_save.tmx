@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Built-in (LanguageTool {0})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235942Z" creationid="jarosz" creationdate="20220510T235942Z">
+        <seg>&amp;Wbudowana wersja (LanguageTool {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T200932Z" creationid="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" creationdate="20220420T200932Z">
@@ -467,6 +475,14 @@
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T154530Z" creationid="werric" creationdate="20220419T154530Z">
         <seg>Wyszukiwanie słów &amp;kluczowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Launch local server</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235948Z" creationid="jarosz" creationdate="20220510T235948Z">
+        <seg>&amp;Uruchomienie lokalnego serwera</seg>
       </tuv>
     </tu>
     <tu>
@@ -3355,6 +3371,14 @@ Tej jedynej nie ma!</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235850Z" creationid="jarosz" creationdate="20220510T235850Z">
+        <seg>Upewnij się, że została podana właściwa wersja API (adres URL powinien zawierać "/v2/").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entries</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T173640Z" creationid="studentILS10" creationdate="20220504T173640Z">
@@ -4712,6 +4736,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JAR files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235922Z" creationid="jarosz" creationdate="20220510T235922Z">
+        <seg>Pliki JAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>JGit (Eclipse Distribution License)</seg>
       </tuv>
       <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112334Z" creationid="Aalebazi" creationdate="20220506T112334Z">
@@ -4888,6 +4920,70 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool settings</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235910Z" creationid="jarosz" creationdate="20220510T235910Z">
+        <seg>Ustawienia LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool will be disabled until the project is closed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235906Z" creationid="jarosz" creationdate="20220510T235906Z">
+        <seg>Program LanguageTool zostanie zablokowany do momentu zamknięcia projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: An error occurred during check.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235902Z" creationid="jarosz" creationdate="20220510T235902Z">
+        <seg>LanguageTool: Przy sprawdzaniu wystąpił błąd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: Bad URL</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235852Z" creationid="jarosz" creationdate="20220510T235852Z">
+        <seg>LanguageTool: Niewłaściwy adres URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: Server start timeout</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235857Z" creationid="jarosz" creationdate="20220510T235857Z">
+        <seg>LanguageTool: Przekroczenie czasu uruchomiania serwera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: bad local path</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235833Z" creationid="jarosz" creationdate="20220510T235833Z">
+        <seg>LanguageTool: niewłaściwa ścieżka lokalna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: local port is unavailable</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235838Z" creationid="jarosz" creationdate="20220510T235838Z">
+        <seg>LanguageTool: niedostępny port lokalny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: server returned XML when JSON was expected.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235845Z" creationid="jarosz" creationdate="20220510T235845Z">
+        <seg>LanguageTool: serwer zwrócił XML zamiast oczekiwanego formatu JSON.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220405T172654Z" creationid="werric" creationdate="20220405T172654Z">
@@ -5008,6 +5104,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local installation path:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220511T000004Z" creationid="jarosz" creationdate="20220511T000004Z">
+        <seg>Ścieżka lokalnej instalacji:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Location</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223630Z" creationid="mat_staszak" creationdate="20220411T223630Z">
@@ -5076,6 +5180,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220508T195330Z" creationid="aa bb" creationdate="20220508T195330Z">
         <seg>Ustawienia regionalne CSV Magento CE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manually defined rules</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235925Z" creationid="jarosz" creationdate="20220510T235925Z">
+        <seg>Reguły ustalone manualnie</seg>
       </tuv>
     </tu>
     <tu>
@@ -5465,6 +5577,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T120923Z" creationid="48694" creationdate="20220510T120923Z">
         <seg>Nazwa: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New LanguageTool rule</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235937Z" creationid="jarosz" creationdate="20220510T235937Z">
+        <seg>Nowa reguła LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -6652,6 +6772,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote &amp;server</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235952Z" creationid="jarosz" creationdate="20220510T235952Z">
+        <seg>Zdalny &amp;serwer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote File/Folder</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T155110Z" creationid="werric" creationdate="20220419T130904Z">
@@ -6888,6 +7016,22 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="PL" changeid="kasiawinciorek" changedate="20220427T142146Z" creationid="kasiawinciorek" creationdate="20220427T142146Z">
         <seg>Wiersz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220511T000038Z" creationid="jarosz" creationdate="20220511T000038Z">
+        <seg>Reguła ID może zawierać wyłącznie litery alfabetu łacińskiego, znaki podkreślenia oraz kropki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rules</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220511T000027Z" creationid="jarosz" creationdate="20220511T000018Z">
+        <seg>Reguły</seg>
       </tuv>
     </tu>
     <tu>
@@ -7286,6 +7430,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select languagetool-server.jar</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235920Z" creationid="jarosz" creationdate="20220510T235920Z">
+        <seg>Wybierz languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sequence Library (Sequence Library License)</seg>
       </tuv>
       <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112304Z" creationid="Aalebazi" creationdate="20220506T112304Z">
@@ -7306,6 +7458,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T174901Z" creationid="studentILS10" creationdate="20220504T174901Z">
         <seg>Serwer (zaktualizowany)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Service type</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220511T000002Z" creationid="jarosz" creationdate="20220511T000002Z">
+        <seg>Tryb pracy</seg>
       </tuv>
     </tu>
     <tu>
@@ -7730,6 +7890,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112612Z" creationid="Aalebazi" creationdate="20220506T112612Z">
         <seg>SuperTMXMerge (licencja Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switching to built-in version.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235823Z" creationid="jarosz" creationdate="20220510T235823Z">
+        <seg>Przełączenie do wersji wbudowanej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8402,6 +8570,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type in new rule ID</seg>
+      </tuv>
+      <tuv lang="PL" changeid="jarosz" changedate="20220510T235934Z" creationid="jarosz" creationdate="20220510T235934Z">
+        <seg>Wpisz nową regułę ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
@@ -8471,8 +8647,8 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       <tuv lang="EN">
         <seg>URL:</seg>
       </tuv>
-      <tuv lang="PL" changeid="48694" changedate="20220510T121614Z" creationid="48694" creationdate="20220510T121614Z">
-        <seg>Adres URL</seg>
+      <tuv lang="PL" changeid="jarosz" changedate="20220511T000021Z" creationid="48694" creationdate="20220510T121614Z">
+        <seg>Adres URL:</seg>
       </tuv>
     </tu>
     <tu>
