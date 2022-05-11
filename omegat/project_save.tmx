@@ -1829,6 +1829,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Attribute:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083845Z" creationid="domin" creationdate="20220511T083845Z">
+        <seg>Atrybuty:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aut&amp;hor:</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220405T164914Z" creationid="mat_staszak" creationdate="20220405T164914Z">
@@ -3868,6 +3876,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Extracted comments:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083743Z" creationid="domin" creationdate="20220511T083743Z">
+        <seg>Wyodrębnione komentarze:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T224310Z" creationid="ewawoj" creationdate="20220411T223804Z">
@@ -4578,6 +4594,14 @@ położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawien
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T200901Z" creationid="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" creationdate="20220420T200901Z">
         <seg>Zainicjowano {0} - {1} projekt zespołowy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initializing</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084005Z" creationid="domin" creationdate="20220511T084005Z">
+        <seg>Inicjalizacja</seg>
       </tuv>
     </tu>
     <tu>
@@ -6503,6 +6527,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please translate this plural as plural form #{0}.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083809Z" creationid="domin" creationdate="20220511T083809Z">
+        <seg>Przetłumacz tę liczbę mnogą jako formę liczby mnogiej #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please try again.</seg>
       </tuv>
       <tuv lang="PL" changeid="jarosz" changedate="20220510T235741Z" creationid="jarosz" creationdate="20220510T235741Z">
@@ -6816,6 +6848,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224249Z" creationid="mat_staszak" creationdate="20220411T224249Z">
         <seg>Wyszukiwanie rekursywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>References:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083753Z" creationid="domin" creationdate="20220511T083753Z">
+        <seg>Odniesienia:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8210,6 +8250,22 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230734Z" creationid="mat_staszak" creationdate="20220411T230734Z">
         <seg>Nazwa znacznika:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag validation failed</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084022Z" creationid="domin" creationdate="20220511T084022Z">
+        <seg>Weryfikacja znacznika nie powiodła się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083945Z" creationid="domin" creationdate="20220511T083945Z">
+        <seg>Znacznik:</seg>
       </tuv>
     </tu>
     <tu>
