@@ -1455,6 +1455,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>API Key (optional)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220511T130702Z" creationid="2021ILS2022" creationdate="20220511T130646Z">
+        <seg>Klucz interfejsu API (opcjonalnie)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>API Key:</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T180535Z" creationid="studentILS10" creationdate="20220504T180535Z">
@@ -2813,6 +2821,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom server URL</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220511T130622Z" creationid="2021ILS2022" creationdate="20220511T130622Z">
+        <seg>Niestandardowy adrs URL serwera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom table</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T174450Z" creationid="studentILS10" creationdate="20220504T174450Z">
@@ -3495,6 +3511,14 @@ Tej jedynej nie ma!</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220415T105223Z" creationid="mat_staszak" creationdate="20220415T105223Z">
         <seg>Koniec frazy zakończony bez bloku końcowego!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ensure the server URL is correct.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220511T130935Z" creationid="2021ILS2022" creationdate="20220511T130935Z">
+        <seg>Upewnij się, że adres URL serwera jest prawidłowy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8707,6 +8731,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The server is not a valid Apertium server.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220511T131058Z" creationid="2021ILS2022" creationdate="20220511T131058Z">
+        <seg>Serwer nie jest prawidłowym serwerem Aperitum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T135038Z" creationid="werric" creationdate="20220419T133943Z">
@@ -9210,6 +9242,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085001Z" creationid="GKarpowicz" creationdate="20220406T085001Z">
         <seg>Utworzenie nowego pliku TMX jest niemożliwe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to connect to server.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220511T130717Z" creationid="2021ILS2022" creationdate="20220511T130717Z">
+        <seg>Nie można połączyć się z serwerem.</seg>
       </tuv>
     </tu>
     <tu>
