@@ -1671,6 +1671,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner "Accepted" Group</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T135641Z" creationid="Kurodaizu" creationdate="20220511T135641Z">
+        <seg>Grupa dopasowywania "zaakceptowana"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner "Needs Review" Group</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T135651Z" creationid="Kurodaizu" creationdate="20220511T135651Z">
+        <seg>Aligner "Needs Review" Group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All</seg>
       </tuv>
       <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T132655Z" creationid="kasiawinciorek" creationdate="20220511T132655Z">
@@ -6457,6 +6473,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="pl" changeid="agrze" changedate="20220501T115121Z" creationid="agrze" creationdate="20220501T115121Z">
         <seg>Notatki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notification (flash)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T135425Z" creationid="Kurodaizu" creationdate="20220511T135425Z">
+        <seg>Powiadomienie (migające)</seg>
       </tuv>
     </tu>
     <tu>
