@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Browse Online</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T140302Z" creationid="kasiawinciorek" creationdate="20220511T140302Z">
+        <seg>&amp;Szukaj online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Browse TaaS Collections...</seg>
       </tuv>
       <tuv lang="pl" changeid="studentILS10" changedate="20220504T175830Z" creationid="studentILS10" creationdate="20220504T175830Z">
@@ -2030,6 +2038,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T140659Z" creationid="kasiawinciorek" creationdate="20220511T140659Z">
+        <seg>Autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="pl" changeid="ewawoj" changedate="20220415T165633Z" creationid="ewawoj" creationdate="20220415T120442Z">
@@ -2487,6 +2503,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="pl" changeid="werric" changedate="20220419T125006Z" creationid="werric" creationdate="20220419T125006Z">
         <seg>Wybierz projekt MED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T140654Z" creationid="kasiawinciorek" creationdate="20220511T140654Z">
+        <seg>Klasa</seg>
       </tuv>
     </tu>
     <tu>
@@ -5257,6 +5281,14 @@ położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawien
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installed plugins:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T140647Z" creationid="kasiawinciorek" creationdate="20220511T140647Z">
+        <seg>Zainstalowane wtyczki:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
       <tuv lang="pl" changeid="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" changedate="20220420T201513Z" creationid="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" creationdate="20220420T201513Z">
@@ -7371,6 +7403,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugins</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T140255Z" creationid="kasiawinciorek" creationdate="20220511T140255Z">
+        <seg>Wtyczki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Poisson</seg>
       </tuv>
       <tuv lang="pl" changeid="kasiawinciorek" changedate="20220427T142835Z" creationid="kasiawinciorek" creationdate="20220427T142835Z">
@@ -7628,6 +7668,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provider</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T141119Z" creationid="kasiawinciorek" creationdate="20220511T141119Z">
+        <seg>Dostawca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Proxy Login</seg>
       </tuv>
       <tuv lang="pl" changeid="Magdaanna" changedate="20220511T131332Z" creationid="Magdaanna" creationdate="20220511T131332Z">
@@ -7748,6 +7796,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="pl" changeid="mat_staszak" changedate="20220415T102316Z" creationid="mat_staszak" creationdate="20220415T102316Z">
         <seg>Wyszukiwanie wyrażeń regularnych dopasowuje wyrażenia regularne Java, zgodnie z opisem w instrukcji obsługi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reload the current project to apply these changes</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T140252Z" creationid="kasiawinciorek" creationdate="20220511T140252Z">
+        <seg>Aby zastosować zmiany załaduj ten projekt ponownie</seg>
       </tuv>
     </tu>
     <tu>
@@ -8026,8 +8082,8 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       <tuv lang="en">
         <seg>Restart OmegaT to apply these changes</seg>
       </tuv>
-      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T140228Z" creationid="kasiawinciorek" creationdate="20220511T140228Z">
-        <seg>Aby zastosować zmiany wymagane jest ponowne uruchomienie programu.</seg>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T140235Z" creationid="kasiawinciorek" creationdate="20220511T140228Z">
+        <seg>Aby zastosować zmiany wymagane jest ponowne uruchomienie programu</seg>
       </tuv>
     </tu>
     <tu>
@@ -9717,6 +9773,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are many plugins available for OmegaT online.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T140636Z" creationid="kasiawinciorek" creationdate="20220511T140636Z">
+        <seg>W internecie znajdziesz wiele wtyczek do programu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There was an error initializing LanguageTool.</seg>
       </tuv>
       <tuv lang="pl" changeid="2021ILS2022" changedate="20220505T113022Z" creationid="2021ILS2022" creationdate="20220505T113022Z">
@@ -10581,6 +10645,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="pl" changeid="ewawoj" changedate="20220411T225555Z" creationid="ewawoj" creationdate="20220411T225555Z">
         <seg>Pominięto wariant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T140658Z" creationid="kasiawinciorek" creationdate="20220511T140658Z">
+        <seg>Wersja</seg>
       </tuv>
     </tu>
     <tu>
