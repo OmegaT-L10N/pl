@@ -1519,6 +1519,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add Script</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083055Z" creationid="domin" creationdate="20220511T083055Z">
+        <seg>Dodaj skrypt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add To Dictionary</seg>
       </tuv>
       <tuv lang="PL" changeid="jarosz" changedate="20220427T142808Z" creationid="jarosz" creationdate="20220427T142808Z">
@@ -3547,6 +3555,14 @@ Nikt nie usłyszy twych krzyków.</seg>
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T121237Z" creationid="2021ILS2022" creationdate="20220505T121237Z">
         <seg>Błąd podczas odczytu wyników tłumaczenia maszynowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error while trying to save script.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T082910Z" creationid="domin" creationdate="20220511T082910Z">
+        <seg>Wystąpił bład podczas próby zapisu skryptu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5701,10 +5717,26 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No script bound in slot #{0}.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083045Z" creationid="domin" creationdate="20220511T083045Z">
+        <seg>Brak powiązania skryptu w slocie #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No script selected.</seg>
       </tuv>
       <tuv lang="PL" changeid="domin" changedate="20220511T082656Z" creationid="domin" creationdate="20220511T082656Z">
         <seg>Nie wybrano żadnego skryptu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No script set.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083009Z" creationid="domin" creationdate="20220511T083009Z">
+        <seg>Nie ustawiono skryptu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6836,6 +6868,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove Script</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083104Z" creationid="domin" creationdate="20220511T083104Z">
+        <seg>Usuń skrypt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T134620Z" creationid="werric" creationdate="20220419T113452Z">
@@ -7060,6 +7100,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Run script on slot #{0}.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T082955Z" creationid="domin" creationdate="20220511T082955Z">
+        <seg>Otwórz skrypt na slocie #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Running on Java {0} ({1}-bit)</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T201542Z" creationid="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" creationdate="20220420T201542Z">
@@ -7186,6 +7234,22 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="PL" changeid="mat_staszak" changedate="20220415T101259Z" creationid="mat_staszak" creationdate="20220411T224828Z">
         <seg>Zakres:
 Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczony do dowolnego folderu znajdującego się w strukturze folderów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script "{0}" bound to slot #{1}.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083120Z" creationid="domin" creationdate="20220511T083120Z">
+        <seg>Brak powiązania skryptu w slocie #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script "{0}" saved.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T082935Z" creationid="domin" creationdate="20220511T082935Z">
+        <seg>Zapisano skrypt "{0}".</seg>
       </tuv>
     </tu>
     <tu>
