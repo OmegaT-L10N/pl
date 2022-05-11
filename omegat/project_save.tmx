@@ -160,8 +160,8 @@
       <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
-      <tuv lang="PL" changeid="mat_staszak" changedate="20220411T230156Z" creationid="mat_staszak" creationdate="20220411T230156Z">
-        <seg>Zamknij</seg>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083523Z" creationid="mat_staszak" creationdate="20220411T230156Z">
+        <seg>&amp;Zamknij</seg>
       </tuv>
     </tu>
     <tu>
@@ -403,6 +403,14 @@
       </tuv>
       <tuv lang="PL" changeid="Magdaanna" changedate="20220506T192515Z" creationid="Magdaanna" creationdate="20220506T192515Z">
         <seg>Idź do kolejnego nieprzetłumaczonego segmentu i pozostań tam w przypadku przynajmniej jednego alternatywnego tłumaczenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083639Z" creationid="domin" creationdate="20220511T083639Z">
+        <seg>&amp;Pomoc</seg>
       </tuv>
     </tu>
     <tu>
@@ -6025,6 +6033,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Javadoc...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083708Z" creationid="domin" creationdate="20220511T083708Z">
+        <seg>Javadoc OmegaT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Project Files</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T125307Z" creationid="werric" creationdate="20220419T125307Z">
@@ -6419,6 +6435,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T084650Z" creationid="GKarpowicz" creationdate="20220406T084429Z">
         <seg>Zapoznaj się z informacjami dotyczącymi możliwości odzyskiwania plików. Prześlij poniższy komunikat producentowi oprogramowania, wraz z opisem, jakie czynności doprowadziły do wystąpienia błędu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083629Z" creationid="domin" creationdate="20220511T083629Z">
+        <seg>Wprowadź nazwę tych ustawień:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7228,6 +7252,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save Current Set...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083556Z" creationid="domin" creationdate="20220511T083556Z">
+        <seg>Zapisz obecne ustawienia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Script</seg>
       </tuv>
       <tuv lang="PL" changeid="domin" changedate="20220511T082823Z" creationid="domin" creationdate="20220511T082823Z">
@@ -7686,6 +7718,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sets</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083535Z" creationid="domin" creationdate="20220511T083535Z">
+        <seg>Ustawienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shortcut</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T173816Z" creationid="studentILS10" creationdate="20220504T173816Z">
@@ -7730,6 +7770,22 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T221622Z" creationid="mat_staszak" creationdate="20220411T221622Z">
         <seg>Pokaż ustawienia zaawansowane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Find Search Bar</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083451Z" creationid="domin" creationdate="20220511T083451Z">
+        <seg>Pokaż pasek wyszukiwania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Replace Search Bar</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083513Z" creationid="domin" creationdate="20220511T083513Z">
+        <seg>Pokaż narzędzie "Znajdź i zamień"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8750,6 +8806,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T120140Z" creationid="agrze" creationdate="20220501T120140Z">
         <seg>Tłumaczenie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translator comments:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083720Z" creationid="domin" creationdate="20220511T083720Z">
+        <seg>Komentarze tłumacza:</seg>
       </tuv>
     </tu>
     <tu>
