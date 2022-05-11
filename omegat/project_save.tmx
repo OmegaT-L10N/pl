@@ -8848,6 +8848,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Terminology</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133934Z" creationid="kasiawinciorek" creationdate="20220511T133934Z">
+        <seg>Terminologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Terms with multiple targets</seg>
       </tuv>
       <tuv lang="pl" changeid="studentILS10" changedate="20220504T173053Z" creationid="studentILS10" creationdate="20220504T173053Z">
@@ -10340,6 +10348,14 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="pl" changeid="Magdaanna" changedate="20220506T192204Z" creationid="Magdaanna" creationdate="20220506T192204Z">
         <seg>[dopasowanie]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T134139Z" creationid="kasiawinciorek" creationdate="20220511T134139Z">
+        <seg>[{0}] “{1}” w źródle; powinno być “{2}” w tłumaczeniu</seg>
       </tuv>
     </tu>
     <tu>
