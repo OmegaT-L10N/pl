@@ -1973,8 +1973,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Appearance</seg>
       </tuv>
-      <tuv lang="pl" changeid="student" changedate="20220427T135849Z" creationid="student" creationdate="20220427T135849Z">
-        <seg>Appearance</seg>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T141156Z" creationid="student" creationdate="20220427T135849Z">
+        <seg>Wygląd</seg>
       </tuv>
     </tu>
     <tu>
@@ -4659,6 +4659,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="pl" changeid="agrze" changedate="20220501T110842Z" creationid="agrze" creationdate="20220501T110837Z">
         <seg>Dopasowania rozmyte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T141140Z" creationid="kasiawinciorek" creationdate="20220511T141140Z">
+        <seg>Ogóle</seg>
       </tuv>
     </tu>
     <tu>
