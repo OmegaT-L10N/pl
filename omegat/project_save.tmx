@@ -3332,8 +3332,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="en">
         <seg>Dictionary</seg>
       </tuv>
-      <tuv lang="pl" changeid="agrze" changedate="20220427T141622Z" creationid="agrze" creationdate="20220427T141622Z">
-        <seg>Słowniki</seg>
+      <tuv lang="pl" changeid="agrze" changedate="20220511T142415Z" creationid="agrze" creationdate="20220427T141622Z">
+        <seg>Słownik</seg>
       </tuv>
     </tu>
     <tu>
@@ -3524,8 +3524,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="en">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="pl" changeid="agrze" changedate="20220511T133455Z" creationid="agrze" creationdate="20220427T141559Z">
-        <seg>Pokaż hasła z glosariusza znajdującego się w folderze /glosariusze/, które odpowiadają hasłom w tekście źródłowym aktywnego segmentu.</seg>
+      <tuv lang="pl" changeid="agrze" changedate="20220511T142243Z" creationid="agrze" creationdate="20220427T141559Z">
+        <seg>Pokaż hasła z glosariusza znajdującego się w folderze /glosariusz/, które odpowiadają hasłom w tekście źródłowym aktywnego segmentu.</seg>
       </tuv>
     </tu>
     <tu>
