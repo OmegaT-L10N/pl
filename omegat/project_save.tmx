@@ -233,8 +233,8 @@
       <tuv lang="EN">
         <seg>&amp;Edit</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T094305Z" creationid="mademoiselleqwerty" creationdate="20220418T094305Z">
-        <seg>Edycja</seg>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083300Z" creationid="mademoiselleqwerty" creationdate="20220418T094305Z">
+        <seg>&amp;Edytuj</seg>
       </tuv>
     </tu>
     <tu>
@@ -323,6 +323,14 @@
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T201117Z" creationid="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" creationdate="20220420T200947Z">
         <seg>Filtruj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Find...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083335Z" creationid="domin" creationdate="20220511T083307Z">
+        <seg>&amp;Znajdź...</seg>
       </tuv>
     </tu>
     <tu>
@@ -583,6 +591,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;New Script</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083221Z" creationid="domin" creationdate="20220511T083221Z">
+        <seg>&amp;Nowy skrypt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;New...</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T153045Z" creationid="mademoiselleqwerty" creationdate="20220418T090608Z">
@@ -763,6 +779,14 @@
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T201232Z" creationid="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" creationdate="20220420T201232Z">
         <seg>Zastąp następny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083330Z" creationid="domin" creationdate="20220511T083330Z">
+        <seg>&amp;Zamień na...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1375,6 +1399,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;none&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083153Z" creationid="domin" creationdate="20220511T083153Z">
+        <seg>&lt;brak&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220509T141142Z" creationid="aa bb" creationdate="20220509T141142Z">
@@ -1451,6 +1483,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220510T105602Z" creationid="aa bb" creationdate="20220510T105602Z">
         <seg>O programie OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Scripts Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083242Z" creationid="domin" creationdate="20220511T083242Z">
+        <seg>Otwórz katalog skryptu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4209,6 +4249,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="jarosz" changedate="20220427T140553Z" creationid="Marcin J" creationdate="20220427T135958Z">
         <seg>Otrzymano niespodziewaną odpowiedź MIME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Goto &amp;Line...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083417Z" creationid="domin" creationdate="20220511T083417Z">
+        <seg>Przejdź do &amp;Wiersza...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7254,6 +7302,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Script "{0}" unbound from slot #{1}.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083143Z" creationid="domin" creationdate="20220511T083143Z">
+        <seg>Skrypt "{0}" powiązany ze slotem #{1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Script Result</seg>
       </tuv>
       <tuv lang="PL" changeid="domin" changedate="20220511T082753Z" creationid="domin" creationdate="20220511T082753Z">
@@ -7610,6 +7666,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="mayalovesurf" changedate="20220427T142310Z" creationid="mayalovesurf" creationdate="20220427T142222Z">
         <seg> Ustawione i zapisane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set Scripts Folder...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083233Z" creationid="domin" creationdate="20220511T083233Z">
+        <seg>Wybierz katalog skryptu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9538,6 +9602,14 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="PL" changeid="Zooola" changedate="20220427T142827Z" creationid="Zooola" creationdate="20220427T142827Z">
         <seg>ukończono ({0} ms elapsed)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>extensions:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T083201Z" creationid="domin" creationdate="20220511T083201Z">
+        <seg>rozszerzenia:</seg>
       </tuv>
     </tu>
     <tu>
