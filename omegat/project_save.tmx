@@ -1681,16 +1681,32 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
-      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T135641Z" creationid="Kurodaizu" creationdate="20220511T135641Z">
-        <seg>Grupa dopasowywania "zaakceptowana"</seg>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T135758Z" creationid="Kurodaizu" creationdate="20220511T135641Z">
+        <seg>Grupa dopasowań: "Zaakceptowane"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Aligner "Needs Review" Group</seg>
       </tuv>
-      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T135651Z" creationid="Kurodaizu" creationdate="20220511T135651Z">
-        <seg>Aligner "Needs Review" Group</seg>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T135751Z" creationid="Kurodaizu" creationdate="20220511T135651Z">
+        <seg>Grupa dopasowań: "Wymaga Weryfikacji"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner Highlight</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T140009Z" creationid="Kurodaizu" creationdate="20220511T135754Z">
+        <seg>Dopasowanie: Wyróżnienie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner Table Row Highlight</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T135916Z" creationid="Kurodaizu" creationdate="20220511T135916Z">
+        <seg>Dopasowanie: Wyróżnienie wiersza tabeli</seg>
       </tuv>
     </tu>
     <tu>
@@ -5283,6 +5299,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Item:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T135943Z" creationid="Kurodaizu" creationdate="20220511T135943Z">
+        <seg>[fuzzy]ElementyItems</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Items</seg>
       </tuv>
       <tuv lang="pl" changeid="48694" changedate="20220510T121407Z" creationid="48694" creationdate="20220510T121407Z">
@@ -5735,6 +5759,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="pl" changeid="mademoiselleqwerty" changedate="20220418T104542Z" creationid="mademoiselleqwerty" creationdate="20220418T104542Z">
         <seg>Tłumaczenie maszynowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Machine Translate Highlight</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T135942Z" creationid="Kurodaizu" creationdate="20220511T135942Z">
+        <seg>Opcje tłumaczenia maszynowego</seg>
       </tuv>
     </tu>
     <tu>
