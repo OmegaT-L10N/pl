@@ -5796,8 +5796,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="en">
         <seg>Modification info text</seg>
       </tuv>
-      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T132202Z" creationid="Kurodaizu" creationdate="20220427T141253Z">
-        <seg>Informacje o modyfikacjach</seg>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T132337Z" creationid="Kurodaizu" creationdate="20220427T141253Z">
+        <seg>Tekst informacji o zmianach</seg>
       </tuv>
     </tu>
     <tu>
@@ -6102,6 +6102,14 @@ Odeszła do raju</seg>
         <seg>Opcje niezwiązane z interfejsem użytkownika:
 	--cichy
 		Zmniejsz wyjście do stdout z wiersza poleceń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-breakable spaces</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T133002Z" creationid="Kurodaizu" creationdate="20220511T132751Z">
+        <seg>Spacja niełamiąca</seg>
       </tuv>
     </tu>
     <tu>
@@ -7319,8 +7327,8 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       <tuv lang="en">
         <seg>Remove text target</seg>
       </tuv>
-      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T132244Z" creationid="Kurodaizu" creationdate="20220511T132244Z">
-        <seg>Remove text target</seg>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T132610Z" creationid="Kurodaizu" creationdate="20220511T132244Z">
+        <seg>Usuń tekst docelowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -8649,8 +8657,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="en">
         <seg>Tags</seg>
       </tuv>
-      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T132303Z" creationid="Kurodaizu" creationdate="20220511T132238Z">
-        <seg>[fuzzy]Znaczniki</seg>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T132756Z" creationid="Kurodaizu" creationdate="20220511T132238Z">
+        <seg>Znaczniki</seg>
       </tuv>
     </tu>
     <tu>
