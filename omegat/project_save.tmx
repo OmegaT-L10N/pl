@@ -2472,6 +2472,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commit not possible because somebody else changed remote translation.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084727Z" creationid="domin" creationdate="20220511T084727Z">
+        <seg>Nie można zapisać pliku, ponieważ zdalne tłumaczenie zostało zmienione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T201256Z" creationid="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" creationdate="20220420T201256Z">
@@ -4224,6 +4232,38 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T133638Z" creationid="werric" creationdate="20220419T133638Z">
         <seg>Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git '{0}' did nothing because there were no changes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084840Z" creationid="domin" creationdate="20220511T084840Z">
+        <seg>Git '{0}' nic nie zmienił, ponieważ nie wprowadzono zmian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git '{0}' error: {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084909Z" creationid="domin" creationdate="20220511T084909Z">
+        <seg>Błąd '{0}' Git: {1} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git '{0}' execution finished successfully</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084813Z" creationid="domin" creationdate="20220511T084813Z">
+        <seg>Wykonani Git "{0}" ukończono pomyślnie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git '{0}' execution start</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084800Z" creationid="domin" creationdate="20220511T084800Z">
+        <seg>Wykonanie Git '{0}' rozpoczęste</seg>
       </tuv>
     </tu>
     <tu>
@@ -6864,6 +6904,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Push failed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084935Z" creationid="domin" creationdate="20220511T084935Z">
+        <seg>Push się nie powiódł.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>R&amp;emove</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T201156Z" creationid="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" creationdate="20220420T201156Z">
@@ -7344,6 +7392,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220505T205938Z" creationid="aa bb" creationdate="20220505T205938Z">
         <seg>Obraz SVG i eksport Adobe Illustrator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN '{0}' error: {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084709Z" creationid="domin" creationdate="20220511T084709Z">
+        <seg>SVN '{0}' błąd: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9628,6 +9684,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220415T102456Z" creationid="mat_staszak" creationdate="20220415T102456Z">
         <seg>Symbole wieloznaczne:
 Oba rodzaje wyszukiwania obsługują symbole "*" oraz "?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Will be synchronized next time.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084736Z" creationid="domin" creationdate="20220511T084736Z">
+        <seg>Następnym razem nastąpi synchronizacja.</seg>
       </tuv>
     </tu>
     <tu>
