@@ -3615,6 +3615,14 @@ Nikt nie usłyszy twych krzyków.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error decoding user and password.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220511T131734Z" creationid="Magdaanna" creationdate="20220511T131734Z">
+        <seg>Błąd dekodowania nazwy użytkownika i hasła.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error during regular expression replacement:</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T225809Z" creationid="mat_staszak" creationdate="20220411T225809Z">
@@ -4690,6 +4698,14 @@ położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawien
       </tuv>
       <tuv lang="PL" changeid="Aalebazi" changedate="20220510T203259Z" creationid="Aalebazi" creationdate="20220510T202703Z">
         <seg>Jeżeli filtr ma jakieś dodatkowe ustawienia, możesz je zmienić klikając Opcje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220511T131510Z" creationid="Magdaanna" creationdate="20220511T131510Z">
+        <seg>Jeśli korzystasz z uwierzytelnionego serwera proxy, wprowadź tutaj swoją nazwę użytkownika i hasło.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7045,6 +7061,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220415T101308Z" creationid="mat_staszak" creationdate="20220415T095543Z">
         <seg>Wyszukiwania są domyślnie prowadzone zarówno w tekście źródłowym jak i docelowym, a także w pamięciach tłumaczeniowych (TM), glosariuszach, notatkach, komentarzach projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Proxy Login</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220511T131332Z" creationid="Magdaanna" creationdate="20220511T131332Z">
+        <seg>Login do serwera proxy</seg>
       </tuv>
     </tu>
     <tu>
@@ -9739,6 +9763,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104802Z" creationid="mademoiselleqwerty" creationdate="20220418T104802Z">
         <seg>Użyj terminów, które pojawiają się oddzielnie w tekście źródłowym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220511T131753Z" creationid="Magdaanna" creationdate="20220511T131753Z">
+        <seg>Użytkownik:</seg>
       </tuv>
     </tu>
     <tu>
