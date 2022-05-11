@@ -1064,6 +1064,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Undo Changes</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T140043Z" creationid="kasiawinciorek" creationdate="20220511T140043Z">
+        <seg>&amp;Cofnij zmiany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Undo Last Action</seg>
       </tuv>
       <tuv lang="pl" changeid="mademoiselleqwerty" changedate="20220418T094347Z" creationid="mademoiselleqwerty" creationdate="20220418T094347Z">
@@ -7259,6 +7267,22 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preferences</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135958Z" creationid="kasiawinciorek" creationdate="20220511T135958Z">
+        <seg>Preferencje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preferences - {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T140014Z" creationid="kasiawinciorek" creationdate="20220511T140002Z">
+        <seg>Preferencje - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
       <tuv lang="pl" changeid="ewawoj" changedate="20220411T222913Z" creationid="ewawoj" creationdate="20220405T164403Z">
@@ -7872,10 +7896,26 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restart OmegaT to apply these changes</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T140228Z" creationid="kasiawinciorek" creationdate="20220511T140228Z">
+        <seg>Aby zastosować zmiany wymagane jest ponowne uruchomienie programu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="pl" changeid="agrze" changedate="20220501T120935Z" creationid="Marcin J" creationdate="20220427T134845Z">
         <seg>Przywróć</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restore &amp;Defaults</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T140207Z" creationid="kasiawinciorek" creationdate="20220511T140207Z">
+        <seg>Przywróć &amp;Domyślne</seg>
       </tuv>
     </tu>
     <tu>
@@ -8178,6 +8218,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search ({0})</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T140028Z" creationid="kasiawinciorek" creationdate="20220511T140017Z">
+        <seg>Szukaj ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search Found Mark</seg>
       </tuv>
       <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T135336Z" creationid="Kurodaizu" creationdate="20220511T135336Z">
@@ -8466,6 +8514,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a Category</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T140036Z" creationid="kasiawinciorek" creationdate="20220511T140036Z">
+        <seg>Wybierz kategorię</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a Script File</seg>
       </tuv>
       <tuv lang="pl" changeid="domin" changedate="20220511T082621Z" creationid="domin" creationdate="20220511T082621Z">
@@ -8542,6 +8598,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="pl" changeid="mayalovesurf" changedate="20220427T142310Z" creationid="mayalovesurf" creationdate="20220427T142222Z">
         <seg> Ustawione i zapisane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set My Own Password</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135942Z" creationid="kasiawinciorek" creationdate="20220511T135942Z">
+        <seg>Ustaw własne hasło.</seg>
       </tuv>
     </tu>
     <tu>
