@@ -1487,6 +1487,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aborted.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084123Z" creationid="domin" creationdate="20220511T084123Z">
+        <seg>Przerwano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About OmegaT</seg>
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220510T105602Z" creationid="aa bb" creationdate="20220510T105602Z">
@@ -1611,6 +1619,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T115739Z" creationid="2021ILS2022" creationdate="20220505T115739Z">
         <seg>Wymuszona zmiana czcionki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Align project against {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084311Z" creationid="domin" creationdate="20220511T084311Z">
+        <seg>Dopasuj projekt z {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2689,6 +2705,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T124947Z" creationid="werric" creationdate="20220419T124947Z">
         <seg>Utwórz nowy projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create pseudo-translate TMX</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084219Z" creationid="domin" creationdate="20220511T084219Z">
+        <seg>Utwórz pseudo-przetłumaczone TMX</seg>
       </tuv>
     </tu>
     <tu>
@@ -4020,6 +4044,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finished</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084050Z" creationid="domin" creationdate="20220511T084050Z">
+        <seg>Zakończono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Flash XML Export</seg>
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220505T210038Z" creationid="aa bb" creationdate="20220505T210038Z">
@@ -5156,6 +5188,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220505T113122Z" creationid="2021ILS2022" creationdate="20220505T113122Z">
         <seg>Załaduj projekt w celu skonfigurowania reguł dotyczących jego języków.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading Project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084316Z" creationid="domin" creationdate="20220511T084316Z">
+        <seg>Wczytywanie projektu</seg>
       </tuv>
     </tu>
     <tu>
@@ -8498,6 +8538,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project cannot be verified</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084327Z" creationid="domin" creationdate="20220511T084327Z">
+        <seg>Nie można zweryfikować projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The script "{0}" is running...</seg>
       </tuv>
       <tuv lang="PL" changeid="Zooola" changedate="20220427T142811Z" creationid="Zooola" creationdate="20220427T142811Z">
@@ -8794,6 +8842,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated files location not defined</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084248Z" creationid="domin" creationdate="20220511T084248Z">
+        <seg>Nie odnaleziono lokalizacji przetłumaczonych plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated segments</seg>
       </tuv>
       <tuv lang="PL" changeid="Kurodaizu" changedate="20220427T140557Z" creationid="Kurodaizu" creationdate="20220427T140557Z">
@@ -8814,6 +8870,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220405T164754Z" creationid="GKarpowicz" creationdate="20220405T164445Z">
         <seg>Przetłumaczone segmenty niepowtarzające się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translating Project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084107Z" creationid="domin" creationdate="20220511T084038Z">
+        <seg>Tłumaczenie projektu</seg>
       </tuv>
     </tu>
     <tu>
@@ -9338,6 +9402,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112236Z" creationid="Aalebazi" creationdate="20220506T112236Z">
         <seg>VLDocking Framework (licencja LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validating tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084118Z" creationid="domin" creationdate="20220511T084118Z">
+        <seg>Sprawdzanie znaczników</seg>
       </tuv>
     </tu>
     <tu>
