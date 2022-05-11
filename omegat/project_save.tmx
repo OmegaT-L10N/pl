@@ -1957,8 +1957,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>An item of the name "{0}" already exists at this location.</seg>
       </tuv>
-      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220427T142306Z" creationid="kasiawinciorek" creationdate="20220427T142306Z">
-        <seg>Element o nazwie "{0}" już istnieje w tym miejscu.</seg>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T141912Z" creationid="kasiawinciorek" creationdate="20220427T142306Z">
+        <seg>Element o nazwie "{0}" już istnieje w tej lokalizacji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2855,8 +2855,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="en">
         <seg>Continue</seg>
       </tuv>
-      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220427T142711Z" creationid="student" creationdate="20220427T135824Z">
-        <seg>Kontynuuj</seg>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T141801Z" creationid="student" creationdate="20220427T135824Z">
+        <seg>Przejdź dalej</seg>
       </tuv>
     </tu>
     <tu>
@@ -9188,8 +9188,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="en">
         <seg>Source</seg>
       </tuv>
-      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220427T142156Z" creationid="kasiawinciorek" creationdate="20220427T142156Z">
-        <seg>Źródło</seg>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T141855Z" creationid="kasiawinciorek" creationdate="20220427T142156Z">
+        <seg>Plik źródłowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -9604,8 +9604,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="en">
         <seg>Target</seg>
       </tuv>
-      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220427T142158Z" creationid="kasiawinciorek" creationdate="20220427T142158Z">
-        <seg>Cel</seg>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T141901Z" creationid="kasiawinciorek" creationdate="20220427T142158Z">
+        <seg>Plik docelowy</seg>
       </tuv>
     </tu>
     <tu>
