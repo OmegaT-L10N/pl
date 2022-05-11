@@ -3384,8 +3384,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="en">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="pl" changeid="agrze" changedate="20220511T133129Z" creationid="agrze" creationdate="20220427T141625Z">
-        <seg>Pokaż hasła ze słownika znajdującego się w folderze /słowniki/, które odpowiadają hasłom w tekście źródłowym aktywnego segmentu.</seg>
+      <tuv lang="pl" changeid="agrze" changedate="20220511T142153Z" creationid="agrze" creationdate="20220427T141625Z">
+        <seg>Pokaż hasła ze słownika znajdującego się w folderze /słownik/, które odpowiadają hasłom w tekście źródłowym aktywnego segmentu.</seg>
       </tuv>
     </tu>
     <tu>
