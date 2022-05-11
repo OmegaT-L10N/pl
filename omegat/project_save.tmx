@@ -4567,6 +4567,30 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary note</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T134848Z" creationid="Kurodaizu" creationdate="20220511T134848Z">
+        <seg>Notatki z glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary source</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T134817Z" creationid="Kurodaizu" creationdate="20220511T134817Z">
+        <seg>Źródło glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary translation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T134837Z" creationid="Kurodaizu" creationdate="20220511T134837Z">
+        <seg>Tłumaczenie z glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go To Segment Source</seg>
       </tuv>
       <tuv lang="pl" changeid="2021ILS2022" changedate="20220505T115915Z" creationid="student" creationdate="20220427T140020Z">
@@ -4728,6 +4752,14 @@ Znać jej koniec nadchodzi</seg>
       </tuv>
       <tuv lang="pl" changeid="mat_staszak" changedate="20220411T221736Z" creationid="mat_staszak" creationdate="20220411T221736Z">
         <seg>Ukryj ustawienia zaawansowane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hyperlinks</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T134857Z" creationid="Kurodaizu" creationdate="20220511T134857Z">
+        <seg>Hiperlinki</seg>
       </tuv>
     </tu>
     <tu>
@@ -6429,6 +6461,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notification (steady)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T135407Z" creationid="Kurodaizu" creationdate="20220511T135407Z">
+        <seg>Powiadomienie (stałe)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notify Me When a Segment Has Comments</seg>
       </tuv>
       <tuv lang="pl" changeid="agrze" changedate="20220501T120214Z" creationid="agrze" creationdate="20220501T120214Z">
@@ -8006,6 +8046,22 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="pl" changeid="48694" changedate="20220510T121549Z" creationid="48694" creationdate="20220510T121549Z">
         <seg>Usta&amp;w</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search Found Mark</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T135336Z" creationid="Kurodaizu" creationdate="20220511T135336Z">
+        <seg>Przeszukaj znalezione zaznaczenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search Replaced Mark</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T135345Z" creationid="Kurodaizu" creationdate="20220511T135345Z">
+        <seg>Przeszukaj zastąpione zaznaczenia</seg>
       </tuv>
     </tu>
     <tu>
