@@ -2725,6 +2725,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Glossary Entry</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220511T131009Z" creationid="Magdaanna" creationdate="20220511T131009Z">
+        <seg>Wprowadź hasło do glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create MED Project...</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T092642Z" creationid="mademoiselleqwerty" creationdate="20220418T092642Z">
@@ -3527,6 +3535,14 @@ Tej jedynej nie ma!</seg>
       </tuv>
       <tuv lang="PL" changeid="jarosz" changedate="20220510T235850Z" creationid="jarosz" creationdate="20220510T235850Z">
         <seg>Upewnij się, że została podana właściwa wersja API (adres URL powinien zawierać "/v2/").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter a source term, a target term and a comment:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220511T131037Z" creationid="Magdaanna" creationdate="20220511T131037Z">
+        <seg>Wprowadź termin źródłowy, termin docelowy i komentarz:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4352,6 +4368,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T172257Z" creationid="studentILS10" creationdate="20220504T172257Z">
         <seg>Opcje autouzupełniania słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary file: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220511T131236Z" creationid="Magdaanna" creationdate="20220511T131236Z">
+        <seg>Plik glosariusza:{0} {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8263,6 +8287,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source term:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220511T131049Z" creationid="Magdaanna" creationdate="20220511T131049Z">
+        <seg>Termin źródłowy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T121538Z" creationid="48694" creationdate="20220510T121538Z">
@@ -8499,6 +8531,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="domin" changedate="20220511T084459Z" creationid="domin" creationdate="20220511T084459Z">
         <seg>Katalog plików docelowych {0} nie istnieje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target term:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220511T131059Z" creationid="Magdaanna" creationdate="20220511T131059Z">
+        <seg>Termin docelowy:</seg>
       </tuv>
     </tu>
     <tu>
