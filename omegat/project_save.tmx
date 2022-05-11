@@ -2544,6 +2544,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connection available, the project is in team project mode.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Ka-Pl" changedate="20220511T125722Z" creationid="Ka-Pl" creationdate="20220511T125722Z">
+        <seg>Dostępne połączenie. Projekt jest w trybie projektu zespołowego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
@@ -5871,8 +5879,8 @@ Odeszła do raju</seg>
       <tuv lang="EN">
         <seg>No connection available, the project is in offline mode.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Ka-Pl" changedate="20220427T141617Z" creationid="student" creationdate="20220427T135655Z">
-        <seg> </seg>
+      <tuv lang="PL" changeid="Ka-Pl" changedate="20220511T125309Z" creationid="student" creationdate="20220427T135655Z">
+        <seg>Połączenie jest niedostępne. Projekt jest w tryb offline.</seg>
       </tuv>
     </tu>
     <tu>
