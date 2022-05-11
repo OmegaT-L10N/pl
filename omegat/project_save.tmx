@@ -1173,8 +1173,8 @@ Znakowi "?" odpowiada dokładnie jeden znak ("biega*" odpowiada "biegam", "biega
       <tuv lang="en">
         <seg>,</seg>
       </tuv>
-      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133547Z" creationid="48694" creationdate="20220510T121338Z">
-        <seg>,,</seg>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T134947Z" creationid="48694" creationdate="20220510T121338Z">
+        <seg>,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1419,6 +1419,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="pl" changeid="kasiawinciorek" changedate="20220427T142523Z" creationid="kasiawinciorek" creationdate="20220427T142523Z">
         <seg>&lt;html&gt;Umieść kursor w miejscu, w którym chcesz podzielić tekst.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135048Z" creationid="kasiawinciorek" creationdate="20220511T135048Z">
+        <seg>&lt;html&gt;Termin: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glosariusze:&lt;br&gt;{1}&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10506,6 +10514,14 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T134158Z" creationid="kasiawinciorek" creationdate="20220511T134158Z">
+        <seg>[{0}] “{1}” w źródle; powinno być jedno z “{2}” w tłumaczeniu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
       </tuv>
       <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T134139Z" creationid="kasiawinciorek" creationdate="20220511T134139Z">
@@ -10712,6 +10728,14 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="pl" changeid="jarosz" changedate="20220427T141618Z" creationid="Marcin J" creationdate="20220427T135254Z">
         <seg>{1}, uruchomiona z '{2}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“{0}” ({1})</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T134942Z" creationid="kasiawinciorek" creationdate="20220511T134942Z">
+        <seg>“{0}”</seg>
       </tuv>
     </tu>
     <tu>
