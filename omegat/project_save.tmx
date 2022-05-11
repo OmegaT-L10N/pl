@@ -2034,6 +2034,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bidirectional control characters</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T133352Z" creationid="Kurodaizu" creationdate="20220511T133352Z">
+        <seg>Dwukierunkowe znaki kontrolne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bookmark &amp;references</seg>
       </tuv>
       <tuv lang="pl" changeid="aa bb" changedate="20220508T200214Z" creationid="aa bb" creationdate="20220508T200214Z">
@@ -9955,6 +9963,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="pl" changeid="mat_staszak" changedate="20220415T104712Z" creationid="mat_staszak" creationdate="20220415T104712Z">
         <seg>Podczas wyszukiwania wyrażeń regularnych, zamieniana fraza umożliwia odniesienie się do grup zdefiniowanych tą sama frazą.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whitespaces</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T133202Z" creationid="Kurodaizu" creationdate="20220511T133202Z">
+        <seg>Znaki niedrukowalne</seg>
       </tuv>
     </tu>
     <tu>
