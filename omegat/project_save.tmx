@@ -1457,8 +1457,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>API Key (optional)</seg>
       </tuv>
-      <tuv lang="PL" changeid="2021ILS2022" changedate="20220511T130702Z" creationid="2021ILS2022" creationdate="20220511T130646Z">
-        <seg>Klucz interfejsu API (opcjonalnie)</seg>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220511T131402Z" creationid="2021ILS2022" creationdate="20220511T130646Z">
+        <seg>Klucz API (opcjonalnie)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2877,6 +2877,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DeepL Api key not available.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220511T131319Z" creationid="2021ILS2022" creationdate="20220511T131319Z">
+        <seg>Klucz DeepL Api jest niedostępny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T120724Z" creationid="48694" creationdate="20220510T120724Z">
@@ -3519,6 +3527,14 @@ Tej jedynej nie ma!</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220415T105223Z" creationid="mat_staszak" creationdate="20220415T105223Z">
         <seg>Koniec frazy zakończony bez bloku końcowego!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ensure the URL is correct.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220511T131115Z" creationid="2021ILS2022" creationdate="20220511T131115Z">
+        <seg>Upewnij się, że adres URL serwera jest prawidłowy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4408,6 +4424,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T120853Z" creationid="48694" creationdate="20220510T120853Z">
         <seg>Przejdź do Preferencje &gt; Wyszukiwanie zewnętrzne, aby włączyć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Google Api key not available.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220511T131203Z" creationid="2021ILS2022" creationdate="20220511T131203Z">
+        <seg>Klucz Google Api jest niedostępny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5565,6 +5589,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220510T170800Z" creationid="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" creationdate="20220510T170800Z">
         <seg>[coś w rodzaju]Zaznacz nieprzetłumaczone segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark unknown words</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220511T131128Z" creationid="2021ILS2022" creationdate="20220511T131128Z">
+        <seg>Zaznacz nieznane wyrazy</seg>
       </tuv>
     </tu>
     <tu>
@@ -6768,6 +6800,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Premium Edition</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220511T131142Z" creationid="2021ILS2022" creationdate="20220511T131142Z">
+        <seg>Edycja Premium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preserve spaces &amp;for all tags</seg>
       </tuv>
       <tuv lang="PL" changeid="Aalebazi" changedate="20220510T203812Z" creationid="Aalebazi" creationdate="20220510T203812Z">
@@ -7707,6 +7747,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T195016Z" creationid="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" creationdate="20220420T195016Z">
         <seg>Aby uzyskać więcej informacji, zobacz Pomoc&gt; Podręcznik użytkownika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See OmegaT manual for instructions.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220511T131302Z" creationid="2021ILS2022" creationdate="20220511T131302Z">
+        <seg>Instrukcje znajdują się w podręczniku użytkownika programu OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9651,6 +9699,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T104802Z" creationid="mademoiselleqwerty" creationdate="20220418T104802Z">
         <seg>Użyj terminów, które pojawiają się oddzielnie w tekście źródłowym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username or API Key:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="2021ILS2022" changedate="20220511T131345Z" creationid="2021ILS2022" creationdate="20220511T131345Z">
+        <seg>Nazwa użytkownika lub klucz API:</seg>
       </tuv>
     </tu>
     <tu>
