@@ -4300,6 +4300,30 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>From 100% memory</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T133634Z" creationid="Kurodaizu" creationdate="20220511T133634Z">
+        <seg>Z pamięci tłumaczeniowej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From ICE memory</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T133410Z" creationid="Kurodaizu" creationdate="20220511T133410Z">
+        <seg>Z pamięci ICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From memory</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T133404Z" creationid="Kurodaizu" creationdate="20220511T133404Z">
+        <seg>Z pamięci tłumaczeniowej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full checking can lead to false positives in normal texts and the PO filter already detects them.</seg>
       </tuv>
       <tuv lang="pl" changeid="agrze" changedate="20220427T141119Z" creationid="agrze" creationdate="20220427T141119Z">
