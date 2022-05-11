@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2062,6 +2062,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T122010Z" creationid="48694" creationdate="20220510T122010Z">
         <seg>Nie można prawidłowo przygotować środowiska GPG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot read selected script file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T082718Z" creationid="domin" creationdate="20220511T082718Z">
+        <seg>Nie można odczytać wybranego pliku skryptu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5693,6 +5701,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No script selected.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T082656Z" creationid="domin" creationdate="20220511T082656Z">
+        <seg>Nie wybrano żadnego skryptu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No tags and no numbers</seg>
       </tuv>
       <tuv lang="PL" changeid="Magdaanna" changedate="20220506T194021Z" creationid="Magdaanna" creationdate="20220506T194021Z">
@@ -6700,6 +6716,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Refreshing script folder "{0}"</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T082804Z" creationid="domin" creationdate="20220511T082804Z">
+        <seg>Odświeżanie folderu skryptu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T100439Z" creationid="mademoiselleqwerty" creationdate="20220418T100439Z">
@@ -7108,6 +7132,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save Script</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T082823Z" creationid="domin" creationdate="20220511T082823Z">
+        <seg>Zapisz skrypt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save aut&amp;o-populated status</seg>
       </tuv>
       <tuv lang="PL" changeid="Magdaanna" changedate="20220506T192732Z" creationid="Magdaanna" creationdate="20220506T192732Z">
@@ -7154,6 +7186,14 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="PL" changeid="mat_staszak" changedate="20220415T101259Z" creationid="mat_staszak" creationdate="20220411T224828Z">
         <seg>Zakres:
 Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczony do dowolnego folderu znajdującego się w strukturze folderów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script Result</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T082753Z" creationid="domin" creationdate="20220511T082753Z">
+        <seg>Wynik skryptu</seg>
       </tuv>
     </tu>
     <tu>
@@ -7414,6 +7454,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Scripts Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T082605Z" creationid="domin" creationdate="20220511T082605Z">
+        <seg>Wybierz katalog skryptów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select TaaS Terminology &amp;Lookup Domain...</seg>
       </tuv>
       <tuv lang="PL" changeid="studentILS10" changedate="20220504T175850Z" creationid="studentILS10" creationdate="20220504T175850Z">
@@ -7430,10 +7478,26 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a Script File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T082621Z" creationid="domin" creationdate="20220511T082621Z">
+        <seg>Wybierz plik skryptu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select languagetool-server.jar</seg>
       </tuv>
       <tuv lang="PL" changeid="jarosz" changedate="20220510T235920Z" creationid="jarosz" creationdate="20220510T235920Z">
         <seg>Wybierz languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selected Engine: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T082747Z" creationid="domin" creationdate="20220511T082747Z">
+        <seg>Wybrany silnik</seg>
       </tuv>
     </tu>
     <tu>
