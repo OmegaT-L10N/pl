@@ -1165,8 +1165,8 @@ Znakowi "?" odpowiada dokładnie jeden znak ("biega*" odpowiada "biegam", "biega
       <tuv lang="en">
         <seg>,</seg>
       </tuv>
-      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133311Z" creationid="48694" creationdate="20220510T121338Z">
-        <seg>,</seg>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133547Z" creationid="48694" creationdate="20220510T121338Z">
+        <seg>,,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1855,6 +1855,15 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="pl" changeid="student" changedate="20220427T135849Z" creationid="student" creationdate="20220427T135849Z">
         <seg>Appearance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>wersja francuska dziwna</note>
+      <tuv lang="en">
+        <seg>Apply &amp;Fix</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133700Z" creationid="kasiawinciorek" creationdate="20220511T133700Z">
+        <seg>Stosowanie &amp; Korekta</seg>
       </tuv>
     </tu>
     <tu>
@@ -3049,6 +3058,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="pl" changeid="werric" changedate="20220419T153635Z" creationid="werric" creationdate="20220419T153635Z">
         <seg>Podany folder plików słownika nie istnieje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disable rule “{0}”</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133812Z" creationid="kasiawinciorek" creationdate="20220511T133812Z">
+        <seg>Blokuj regułę “{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -5276,6 +5293,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="pl" changeid="jarosz" changedate="20220510T235815Z" creationid="jarosz" creationdate="20220510T235815Z">
         <seg>Niezgodność wersji API LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool Issues</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133749Z" creationid="kasiawinciorek" creationdate="20220511T133749Z">
+        <seg>Problemy z LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -8721,8 +8746,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="en">
         <seg>Tag Issues</seg>
       </tuv>
-      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133400Z" creationid="kasiawinciorek" creationdate="20220511T133400Z">
-        <seg>Problemy z tagowaniem</seg>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133537Z" creationid="kasiawinciorek" creationdate="20220511T133400Z">
+        <seg>Problemy ze znakowaniem</seg>
       </tuv>
     </tu>
     <tu>
@@ -10485,6 +10510,14 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="pl" changeid="aa bb" changedate="20220510T105552Z" creationid="aa bb" creationdate="20220510T105552Z">
         <seg>{0} wersja {1}, aktualizacja {2} ({3})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} x{1}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133544Z" creationid="kasiawinciorek" creationdate="20220511T133544Z">
+        <seg>{0} x{1}</seg>
       </tuv>
     </tu>
     <tu>
