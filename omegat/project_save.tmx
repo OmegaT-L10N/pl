@@ -1165,8 +1165,8 @@ Znakowi "?" odpowiada dokładnie jeden znak ("biega*" odpowiada "biegam", "biega
       <tuv lang="en">
         <seg>,</seg>
       </tuv>
-      <tuv lang="pl" changeid="48694" changedate="20220510T121338Z" creationid="48694" creationdate="20220510T121338Z">
-        <seg>PL,</seg>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133311Z" creationid="48694" creationdate="20220510T121338Z">
+        <seg>,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1602,6 +1602,14 @@ The current setting is {0}MB;</seg>
         <seg>Add To Dictionary</seg>
       </tuv>
       <tuv lang="pl" changeid="jarosz" changedate="20220427T142808Z" creationid="jarosz" creationdate="20220427T142808Z">
+        <seg>Dodaj do słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add To Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133326Z" creationid="kasiawinciorek" creationdate="20220511T133326Z">
         <seg>Dodaj do słownika</seg>
       </tuv>
     </tu>
@@ -2326,6 +2334,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="pl" changeid="agrze" changedate="20220427T141108Z" creationid="agrze" creationdate="20220427T141108Z">
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133210Z" creationid="kasiawinciorek" creationdate="20220511T133210Z">
+        <seg>Sprawdzenie</seg>
       </tuv>
     </tu>
     <tu>
@@ -3241,6 +3257,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="pl" changeid="studentILS10" changedate="20220504T180038Z" creationid="studentILS10" creationdate="20220504T180038Z">
         <seg>Domeny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Don't Ask What to Check First</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133239Z" creationid="kasiawinciorek" creationdate="20220511T133239Z">
+        <seg>Nie pytaj wcześniej co sprawdzić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4738,6 +4762,14 @@ położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawien
       </tuv>
       <tuv lang="pl" changeid="aa bb" changedate="20220509T142205Z" creationid="aa bb" creationdate="20220509T142142Z">
         <seg>Ignoruj atrybuty type i ctype podczas tworzenia skrótów tagów &lt;&amp;bpt&gt; i &lt;ept&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore: “{0}”</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133418Z" creationid="kasiawinciorek" creationdate="20220511T133418Z">
+        <seg>Ignoruj: “{0}” </seg>
       </tuv>
     </tu>
     <tu>
@@ -8487,6 +8519,22 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spelling</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133307Z" creationid="kasiawinciorek" creationdate="20220511T133307Z">
+        <seg>Ortografia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spelling Issues</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133255Z" creationid="kasiawinciorek" creationdate="20220511T133255Z">
+        <seg>Problemy z poprawną pisownią</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Split Text</seg>
       </tuv>
       <tuv lang="pl" changeid="kasiawinciorek" changedate="20220427T142445Z" creationid="kasiawinciorek" creationdate="20220427T142445Z">
@@ -8643,6 +8691,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="pl" changeid="studentILS10" changedate="20220504T180544Z" creationid="studentILS10" creationdate="20220504T180544Z">
         <seg>Terminologia TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag Issues</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133400Z" creationid="kasiawinciorek" creationdate="20220511T133400Z">
+        <seg>Problemy z tagowaniem</seg>
       </tuv>
     </tu>
     <tu>
