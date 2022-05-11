@@ -3151,8 +3151,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="en">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="pl" changeid="agrze" changedate="20220501T114325Z" creationid="agrze" creationdate="20220427T141625Z">
-        <seg>Pokaż hasła ze słownika znajdującego się w folderze /dictionary/, które odpowiadają hasłom w tekście źródłowym aktywnego segmentu.</seg>
+      <tuv lang="pl" changeid="agrze" changedate="20220511T133129Z" creationid="agrze" creationdate="20220427T141625Z">
+        <seg>Pokaż hasła ze słownika znajdującego się w folderze /słowniki/, które odpowiadają hasłom w tekście źródłowym aktywnego segmentu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3175,8 +3175,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="en">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="pl" changeid="agrze" changedate="20220501T111658Z" creationid="agrze" creationdate="20220427T141559Z">
-        <seg>Pokaż hasła z glosariusza znajdującego się w folderze /glossary/, które odpowiadają hasłom w tekście źródłowym aktywnego segmentu.</seg>
+      <tuv lang="pl" changeid="agrze" changedate="20220511T133455Z" creationid="agrze" creationdate="20220427T141559Z">
+        <seg>Pokaż hasła z glosariusza znajdującego się w folderze /glosariusze/, które odpowiadają hasłom w tekście źródłowym aktywnego segmentu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6308,8 +6308,8 @@ Odeszła do raju</seg>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
       </tuv>
-      <tuv lang="pl" changeid="agrze" changedate="20220501T111335Z" creationid="agrze" creationdate="20220427T140533Z">
-        <seg>Poinformuj mnie, gdy dla segmentu dostepne są dopasowania rozmyte</seg>
+      <tuv lang="pl" changeid="agrze" changedate="20220511T133437Z" creationid="agrze" creationdate="20220427T140533Z">
+        <seg>Poinformuj mnie, gdy dla segmentu dostępne są dopasowania rozmyte</seg>
       </tuv>
     </tu>
     <tu>
