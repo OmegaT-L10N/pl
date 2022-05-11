@@ -1771,6 +1771,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while trying to run console process: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084348Z" creationid="domin" creationdate="20220511T084348Z">
+        <seg>Wystąpił błąd podczas próby uruchomienia procesu konsoli: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An item of the name "{0}" already exists at this location.</seg>
       </tuv>
       <tuv lang="PL" changeid="kasiawinciorek" changedate="20220427T142306Z" creationid="kasiawinciorek" creationdate="20220427T142306Z">
@@ -3802,6 +3810,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Executing script {0} (event {1})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084429Z" creationid="domin" creationdate="20220511T084429Z">
+        <seg>Uruchamianie skryptu {0} (zdarzenie {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>brak spacji (MRK)</note>
       <tuv lang="EN">
         <seg>Exit code {0}: "{1}"</seg>
@@ -4264,6 +4280,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T155130Z" creationid="mademoiselleqwerty" creationdate="20220412T175652Z">
         <seg>Podany folder glosariuszy nie istnieje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084513Z" creationid="domin" creationdate="20220511T084513Z">
+        <seg>Katalog glosariusza {0} nie istnieje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6466,6 +6490,14 @@ Niczym wiatrem niesiona
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Perhaps it is already opened in another OmegaT instance</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084559Z" creationid="domin" creationdate="20220511T084559Z">
+        <seg>Istnieje możliwość, że jest już otwarty w innym oknie programu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pinpoint Align: Select corresponding cell</seg>
       </tuv>
       <tuv lang="PL" changeid="kasiawinciorek" changedate="20220427T142142Z" creationid="kasiawinciorek" creationdate="20220427T142142Z">
@@ -6795,6 +6827,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="PL" changeid="jarosz" changedate="20220427T142716Z" creationid="jarosz" creationdate="20220427T142716Z">
         <seg>Start wczytywania projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project locked.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084544Z" creationid="domin" creationdate="20220511T084544Z">
+        <seg>Projekt jest zablokowany.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7304,6 +7344,22 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220505T205938Z" creationid="aa bb" creationdate="20220505T205938Z">
         <seg>Obraz SVG i eksport Adobe Illustrator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN '{0}' execution finished successfully</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084649Z" creationid="domin" creationdate="20220511T084649Z">
+        <seg>Wykonanie SVN '{0}' ukończono pomyślnie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN '{0}' execution start</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084612Z" creationid="domin" creationdate="20220511T084612Z">
+        <seg>Wykonanie SVN '{0}' rozpocząte</seg>
       </tuv>
     </tu>
     <tu>
@@ -8054,6 +8110,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084445Z" creationid="domin" creationdate="20220511T084445Z">
+        <seg>Katalog plików źródłowych {0} nie istnieje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source language: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T224915Z" creationid="ewawoj" creationdate="20220411T224915Z">
@@ -8326,6 +8390,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084459Z" creationid="domin" creationdate="20220511T084459Z">
+        <seg>Katalog plików docelowych {0} nie istnieje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target:</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T121621Z" creationid="48694" creationdate="20220510T121621Z">
@@ -8582,6 +8654,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T152218Z" creationid="werric" creationdate="20220419T152218Z">
         <seg>Kod dla języka docelowego jest nieprawidłowy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The writeable glossary file is not in the glossary folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084537Z" creationid="domin" creationdate="20220511T084537Z">
+        <seg>Zapisywalny plik słowniczka nie znajduje się w folderze słownikowym.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8910,6 +8990,14 @@ A Ty padłeś ofiarą jednej z nich</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T153617Z" creationid="werric" creationdate="20220419T153617Z">
         <seg>Podany folder plików pamięci tłumaczeniowej nie istnieje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memory folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T084522Z" creationid="domin" creationdate="20220511T084522Z">
+        <seg>Katalog pamięci tłumaczeniowej {0} nie istnieje.</seg>
       </tuv>
     </tu>
     <tu>
