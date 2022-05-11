@@ -1689,8 +1689,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Add To Dictionary: “{0}”</seg>
       </tuv>
-      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133326Z" creationid="kasiawinciorek" creationdate="20220511T133326Z">
-        <seg>Dodaj do słownika</seg>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T142151Z" creationid="kasiawinciorek" creationdate="20220511T133326Z">
+        <seg>Dodaj do słownika: “{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -1998,8 +1998,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Apply &amp;Fix</seg>
       </tuv>
-      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133700Z" creationid="kasiawinciorek" creationdate="20220511T133700Z">
-        <seg>Stosowanie &amp; Korekta</seg>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T142324Z" creationid="kasiawinciorek" creationdate="20220511T133700Z">
+        <seg>Stosowanie &amp;Korekta</seg>
       </tuv>
     </tu>
     <tu>
@@ -3504,8 +3504,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="en">
         <seg>Don't Ask What to Check First</seg>
       </tuv>
-      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133239Z" creationid="kasiawinciorek" creationdate="20220511T133239Z">
-        <seg>Nie pytaj wcześniej co sprawdzić.</seg>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T142123Z" creationid="kasiawinciorek" creationdate="20220511T133239Z">
+        <seg>Nie pytaj co sprawdzić jako pierwsze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9380,8 +9380,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="en">
         <seg>Spelling Issues</seg>
       </tuv>
-      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133255Z" creationid="kasiawinciorek" creationdate="20220511T133255Z">
-        <seg>Problemy z poprawną pisownią</seg>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T142140Z" creationid="kasiawinciorek" creationdate="20220511T133255Z">
+        <seg>Błędy ortograficzne</seg>
       </tuv>
     </tu>
     <tu>
@@ -9881,6 +9881,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="pl" changeid="werric" changedate="20220419T152101Z" creationid="werric" creationdate="20220419T152101Z">
         <seg>Kod języka powinien być w następującej formie: xx-YY, xxx-YY, xx_YY lub xxx_YY, gdzie xx lub xxx to kod generyczny języka, a YY to kod państwa lub regionu (opcjonalnie).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The password cannot be empty.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T142052Z" creationid="kasiawinciorek" creationdate="20220511T142052Z">
+        <seg>Hasło nie może być puste.</seg>
       </tuv>
     </tu>
     <tu>
