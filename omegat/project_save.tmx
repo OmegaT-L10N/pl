@@ -4519,6 +4519,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary Matches</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T134515Z" creationid="Kurodaizu" creationdate="20220511T134515Z">
+        <seg>Dopasowania glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary auto-completer options</seg>
       </tuv>
       <tuv lang="pl" changeid="studentILS10" changedate="20220504T172257Z" creationid="studentILS10" creationdate="20220504T172257Z">
@@ -5824,6 +5832,54 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="pl" changeid="Magdaanna" changedate="20220506T193831Z" creationid="Magdaanna" creationdate="20220506T193831Z">
         <seg>Dopasuj szablon wyświetlania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Changed</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T134629Z" creationid="Kurodaizu" creationdate="20220511T134603Z">
+        <seg>Zmienione dopasowania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Deleted Active</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T134742Z" creationid="Kurodaizu" creationdate="20220511T134742Z">
+        <seg>Usunięte dopasowania: aktywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Deleted Inactive</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T134808Z" creationid="Kurodaizu" creationdate="20220511T134808Z">
+        <seg> Usunięte dopasowania: nieaktywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Inserted Active</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T134713Z" creationid="Kurodaizu" creationdate="20220511T134713Z">
+        <seg>Wstawione dopasowania: aktywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Inserted Inactive</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T134718Z" creationid="Kurodaizu" creationdate="20220511T134718Z">
+        <seg>Wstawione dopasowania: nieaktywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Unchanged</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T134644Z" creationid="Kurodaizu" creationdate="20220511T134613Z">
+        <seg>Niezmienione dopasowania</seg>
       </tuv>
     </tu>
     <tu>
@@ -8630,6 +8686,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="pl" changeid="aa bb" changedate="20220509T140334Z" creationid="aa bb" creationdate="20220509T140334Z">
         <seg>Zarządzanie tagami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spellcheck</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T134542Z" creationid="Kurodaizu" creationdate="20220511T134542Z">
+        <seg>Sprawdzanie pisowni</seg>
       </tuv>
     </tu>
     <tu>
