@@ -1391,6 +1391,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135108Z" creationid="kasiawinciorek" creationdate="20220511T135108Z">
+        <seg>&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Malgosia" changedate="20220510T174028Z" creationid="Malgosia" creationdate="20220510T174028Z">
@@ -2617,6 +2625,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Confirm:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135747Z" creationid="kasiawinciorek" creationdate="20220511T135741Z">
+        <seg>Potwiedź:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Conflict resolution</seg>
       </tuv>
       <tuv lang="pl" changeid="studentILS10" changedate="20220504T175335Z" creationid="studentILS10" creationdate="20220504T175335Z">
@@ -3334,6 +3350,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Don't ask before checking issues</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135223Z" creationid="kasiawinciorek" creationdate="20220511T135223Z">
+        <seg>Nie pytaj przed sprawdzaniem problemów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Done</seg>
       </tuv>
       <tuv lang="pl" changeid="studentILS10" changedate="20220504T175305Z" creationid="studentILS10" creationdate="20220504T175305Z">
@@ -3672,6 +3696,14 @@ Tej jedynej nie ma!</seg>
       </tuv>
       <tuv lang="pl" changeid="Magdaanna" changedate="20220511T131037Z" creationid="Magdaanna" creationdate="20220511T131037Z">
         <seg>Wprowadź termin źródłowy, termin docelowy i komentarz:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter your master password.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135719Z" creationid="kasiawinciorek" creationdate="20220511T135649Z">
+        <seg>Podaj swoje hasło główne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4870,6 +4902,14 @@ Znać jej koniec nadchodzi</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135214Z" creationid="kasiawinciorek" creationdate="20220511T135214Z">
+        <seg>Jeśli sprawdzanie problemów idzie zbyt wolno, spróbuj zdezaktywować wybrane sprawdzanie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If later access to the desired location is granted
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
@@ -5852,6 +5892,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Master Password</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135255Z" creationid="kasiawinciorek" creationdate="20220511T135227Z">
+        <seg>Hasło główne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Master Password:</seg>
       </tuv>
       <tuv lang="pl" changeid="student" changedate="20220427T135810Z" creationid="student" creationdate="20220427T135810Z">
@@ -6629,6 +6677,14 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135928Z" creationid="kasiawinciorek" creationdate="20220511T135928Z">
+        <seg>OmegaT może wygenerować i przechowywać hasło główne, dzięki czemu nie musisz go za każdym razem wpisywać. Takie rozwiązanie jest jednak mniej bezpieczne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT classic theme</seg>
       </tuv>
       <tuv lang="pl" changeid="48694" changedate="20220510T121908Z" creationid="48694" creationdate="20220510T121908Z">
@@ -7035,6 +7091,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please double-check.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135830Z" creationid="kasiawinciorek" creationdate="20220511T135830Z">
+        <seg>Sprawdź ponownie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter the name of this set:</seg>
       </tuv>
       <tuv lang="pl" changeid="domin" changedate="20220511T083629Z" creationid="domin" creationdate="20220511T083629Z">
@@ -7047,6 +7111,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="pl" changeid="Magda" changedate="20220427T140017Z" creationid="Magda" creationdate="20220427T140017Z">
         <seg>Wprowadź swoje imię/identyfikator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter your password again for confirmation.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135819Z" creationid="kasiawinciorek" creationdate="20220511T135819Z">
+        <seg>W celu zatwierdzenia podaj hasło jeszcze raz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8282,6 +8354,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select Issue Types</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135115Z" creationid="kasiawinciorek" creationdate="20220511T135115Z">
+        <seg>Wybierz rodzaj problemu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
       <tuv lang="pl" changeid="mademoiselleqwerty" changedate="20220418T100908Z" creationid="mademoiselleqwerty" creationdate="20220418T100908Z">
@@ -8362,6 +8442,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select issue types to check.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135148Z" creationid="kasiawinciorek" creationdate="20220511T135148Z">
+        <seg>Wybierz rodzaj problemu, który powinien być zbadany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select languagetool-server.jar</seg>
       </tuv>
       <tuv lang="pl" changeid="jarosz" changedate="20220510T235920Z" creationid="jarosz" creationdate="20220510T235920Z">
@@ -8430,6 +8518,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="pl" changeid="domin" changedate="20220511T083233Z" creationid="domin" creationdate="20220511T083233Z">
         <seg>Wybierz katalog skryptu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set a master password to protect your private data.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135620Z" creationid="kasiawinciorek" creationdate="20220511T135620Z">
+        <seg>Ustaw hasło główne aby chronić dane osobowe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8518,6 +8614,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="pl" changeid="Magdaanna" changedate="20220506T194830Z" creationid="Magdaanna" creationdate="20220506T194830Z">
         <seg>Uprość etykietki narzędzi dla chronionych części</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skip</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135834Z" creationid="kasiawinciorek" creationdate="20220511T135834Z">
+        <seg>Pomiń.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9274,6 +9378,22 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="pl" changeid="werric" changedate="20220419T152101Z" creationid="werric" creationdate="20220419T152101Z">
         <seg>Kod języka powinien być w następującej formie: xx-YY, xxx-YY, xx_YY lub xxx_YY, gdzie xx lub xxx to kod generyczny języka, a YY to kod państwa lub regionu (opcjonalnie).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The password you entered did not match.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135727Z" creationid="kasiawinciorek" creationdate="20220511T135727Z">
+        <seg>Podane hasło jest niepoprawne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The passwords don't match.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135826Z" creationid="kasiawinciorek" creationdate="20220511T135826Z">
+        <seg>Hasła nie zgadzają się.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10536,6 +10656,14 @@ Twoja strona odeszła wraz z nimi</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135706Z" creationid="kasiawinciorek" creationdate="20220511T135636Z">
+        <seg>Za każdym razem, gdy będziesz otwierać OmegaT, program poprosi Cię o to hasło.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>YouTube Subtitles</seg>
       </tuv>
       <tuv lang="pl" changeid="aa bb" changedate="20220508T194143Z" creationid="aa bb" creationdate="20220508T194143Z">
@@ -10788,6 +10916,14 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{0}.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135057Z" creationid="kasiawinciorek" creationdate="20220511T135057Z">
+        <seg>{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{0}_{1}</seg>
       </tuv>
       <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20220510T170232Z" creationid="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" creationdate="20220420T192523Z">
@@ -10808,6 +10944,14 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="pl" changeid="jarosz" changedate="20220427T141618Z" creationid="Marcin J" creationdate="20220427T135254Z">
         <seg>{1}, uruchomiona z '{2}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135101Z" creationid="kasiawinciorek" creationdate="20220511T135101Z">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
       </tuv>
     </tu>
     <tu>
