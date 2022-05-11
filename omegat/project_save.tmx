@@ -1655,6 +1655,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow to save password as plain text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="domin" changedate="20220511T085000Z" creationid="domin" creationdate="20220511T085000Z">
+        <seg>Pozwól na zapisanie hasła jako zwykły tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow translated tags to be in a di&amp;fferent order</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T110249Z" creationid="student" creationdate="20220427T135728Z">
