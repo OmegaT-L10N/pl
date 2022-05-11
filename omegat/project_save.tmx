@@ -5665,6 +5665,15 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modification info template for segments without date</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220511T130838Z" creationid="Magdaanna" creationdate="20220511T130838Z">
+        <seg>Informacje o modyfikacji dla segmentacji bez daty
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modification info text</seg>
       </tuv>
       <tuv lang="PL" changeid="Kurodaizu" changedate="20220427T141253Z" creationid="Kurodaizu" creationdate="20220427T141253Z">
@@ -9546,6 +9555,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="PL" changeid="student" changedate="20220427T135829Z" creationid="student" creationdate="20220427T135829Z">
         <seg>Użyj jako domyślne tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use custom templates for modification &amp;info</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Magdaanna" changedate="20220511T130925Z" creationid="Magdaanna" creationdate="20220511T130925Z">
+        <seg>Użyj niestandardowego wyświetlania informacji o modyfikacji</seg>
       </tuv>
     </tu>
     <tu>
