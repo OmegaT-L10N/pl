@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -74,6 +74,14 @@
       </tuv>
       <tuv lang="PL" changeid="Ka-Pl" changedate="20220511T141322Z" creationid="Ka-Pl" creationdate="20220511T141322Z">
         <seg>&amp;Pozwól też na przedprojektowe polecenie zewnętrzne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Always</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T102201Z" creationid="MariannaCz" creationdate="20220512T102201Z">
+        <seg>&amp;Zawsze</seg>
       </tuv>
     </tu>
     <tu>
@@ -1168,6 +1176,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;value (of form input, including button, submit and reset)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T104511Z" creationid="MariannaCz" creationdate="20220512T104511Z">
+        <seg>&amp;value (of form input, including button, submit and reset)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
@@ -1190,6 +1206,14 @@ Znakowi "?" odpowiada dokładnie jeden znak ("biega*" odpowiada "biegam", "biega
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220511T131652Z" creationid="2021ILS2022" creationdate="20220511T131652Z">
         <seg>(Pozostaw pole hasła puste, jeżeli używasz klucza API.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(X)HTML Filter Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T101828Z" creationid="MariannaCz" creationdate="20220512T101828Z">
+        <seg>Opcje filtra (X)HTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -1738,6 +1762,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T102051Z" creationid="MariannaCz" creationdate="20220512T102051Z">
+        <seg>Dodaj lub wpisz ponownie deklarację kodowania plików HTML i XHTML.:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T230939Z" creationid="ewawoj" creationdate="20220411T230939Z">
@@ -2230,6 +2262,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="PL" changeid="Ka-Pl" changedate="20220511T141531Z" creationid="Ka-Pl" creationdate="20220511T141531Z">
         <seg>Złe zagnieżdżenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bad regular expression</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T102545Z" creationid="MariannaCz" creationdate="20220512T102545Z">
+        <seg>Niepoprawne wyrażenia regularneBad regular expression</seg>
       </tuv>
     </tu>
     <tu>
@@ -3558,6 +3598,22 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T110643Z" creationid="student" creationdate="20220427T140029Z">
         <seg>Nie zezwalaj na tworzenie dokumentów docelowych z tagami i problemami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T103538Z" creationid="MariannaCz" creationdate="20220512T103538Z">
+        <seg>Nie tłumacz zawartości atrybutów meta-tagów z następującymi parami atrybutów klucz-wartość (oddzielonymi przecinkami)::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not translate the content of tags with the following attribute key-value pairs (separate with commas):</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T104111Z" creationid="MariannaCz" creationdate="20220512T104111Z">
+        <seg>Nie tłumacz zawartości tagów zawierających następujące pary atrybutów klucz-wartość (oddzielonyi przecinkami:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5306,8 +5362,8 @@ Znać jej koniec nadchodzi</seg>
       <tuv lang="EN">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
-      <tuv lang="PL" changeid="MariannaCz" changedate="20220505T115145Z" creationid="MariannaCz" creationdate="20220505T115145Z">
-        <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T101804Z" creationid="MariannaCz" creationdate="20220505T115145Z">
+        <seg>Jeśli plik HTML posiada deklarację kodowania, zostanie użyty niezależnie od wartości wpisanych w oknie dialogowym. </seg>
       </tuv>
     </tu>
     <tu>
@@ -5607,8 +5663,8 @@ położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawien
       <tuv lang="EN">
         <seg>Invalid HTML file</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T113132Z" creationid="Aalebazi" creationdate="20220506T113132Z">
-        <seg>Niepoprawny format pliku HTML</seg>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T095350Z" creationid="MariannaCz" creationdate="20220512T095101Z">
+        <seg>Nieprawidłowy format pliku</seg>
       </tuv>
     </tu>
     <tu>
@@ -7075,8 +7131,8 @@ Odeszła do raju</seg>
       <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
       </tuv>
-      <tuv lang="PL" changeid="MariannaCz" changedate="20220505T102426Z" creationid="Dell" creationdate="20220505T095401Z">
-        <seg>Uwaga: Ustawienie kodowania pliku źródłowego w formacie HTML działa tylko wtedy, kiedy kodowania nie zadeklarowano wewnątrz pliku.</seg>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T101025Z" creationid="Dell" creationdate="20220505T095401Z">
+        <seg>Uwaga: Ustawienia kodowania pliku źródłowego ma wpływ jedynie na pliki w formacie HTML bez zadeklarowanego kodowania wewnątrz pliku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7402,6 +7458,22 @@ your home folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T121711Z" creationid="48694" creationdate="20220510T121711Z">
         <seg>OmegaT {0} jest gotowy do użycia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only if (X)HTML file has a &amp;header</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T102240Z" creationid="MariannaCz" creationdate="20220512T102240Z">
+        <seg>Tylko gdy plik  (X)HTML ma &amp;nagłówek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T104147Z" creationid="MariannaCz" creationdate="20220512T104147Z">
+        <seg>Tylko gdy plik (X)HTML zawiera &amp;deklarację strony kodowej</seg>
       </tuv>
     </tu>
     <tu>
@@ -9506,6 +9578,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skip text matching regular expression:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T102503Z" creationid="MariannaCz" creationdate="20220512T102503Z">
+        <seg>Pomiń tekst pasujący do wyrażenia regularnego:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T232209Z" creationid="ewawoj" creationdate="20220411T232209Z">
@@ -10675,8 +10755,8 @@ This program is free software; you can redistribute it and/or modify it under th
       <tuv lang="EN">
         <seg>Too big HTML file!</seg>
       </tuv>
-      <tuv lang="PL" changeid="Aalebazi" changedate="20220506T113111Z" creationid="Aalebazi" creationdate="20220506T113111Z">
-        <seg>Plik HTML zbyt duży!</seg>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T095308Z" creationid="MariannaCz" creationdate="20220512T095308Z">
+        <seg>Plik HTML jest zbyt duży!Too big HTML file!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10733,6 +10813,14 @@ This program is free software; you can redistribute it and/or modify it under th
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T223224Z" creationid="mat_staszak" creationdate="20220411T223224Z">
         <seg>Przetłumaczone lub nieprzetłumaczone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translate the following attributes:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T104235Z" creationid="MariannaCz" creationdate="20220512T104235Z">
+        <seg>Przetłumacz następujące atrybuty:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11991,6 +12079,22 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>h&amp;reflang (language of links)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T104503Z" creationid="MariannaCz" creationdate="20220512T104503Z">
+        <seg>h&amp;reflang (język linków)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>href (URL of &amp;links)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T104355Z" creationid="MariannaCz" creationdate="20220512T104355Z">
+        <seg>href (adresy &amp;linków)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>init &lt;source language&gt; &lt;target language&gt;
 		Initialize a minimal team project with the specified languages.</seg>
       </tuv>
@@ -12017,6 +12121,14 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>lan&amp;g (language attribute)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T104439Z" creationid="MariannaCz" creationdate="20220512T104439Z">
+        <seg>lan&amp;g (atrybut języka)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>loaded</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T231011Z" creationid="mat_staszak" creationdate="20220411T231011Z">
@@ -12037,6 +12149,14 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112630Z" creationid="Aalebazi" creationdate="20220506T112625Z">
         <seg>slf4j (licencja MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>src (URL of &amp;images)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T104419Z" creationid="MariannaCz" creationdate="20220512T104419Z">
+        <seg>src (adresy &amp;obrazów)</seg>
       </tuv>
     </tu>
     <tu>
