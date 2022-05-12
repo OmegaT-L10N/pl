@@ -4454,8 +4454,8 @@ Nikt nie usłyszy twych krzyków.</seg>
       <tuv lang="EN">
         <seg>Exceptions occurred while loading segmentation rules:</seg>
       </tuv>
-      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T112802Z" creationid="MariannaCz" creationdate="20220512T112802Z">
-        <seg>Exceptions occurred while loading segmentation rules:</seg>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T113231Z" creationid="MariannaCz" creationdate="20220512T112802Z">
+        <seg>Wczy wczytywaniu zasad segmentacji wystąpiły problemy.</seg>
       </tuv>
     </tu>
     <tu>
