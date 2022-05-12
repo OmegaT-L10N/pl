@@ -2337,8 +2337,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Break/Exception</seg>
       </tuv>
-      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T113445Z" creationid="MariannaCz" creationdate="20220512T113445Z">
-        <seg>Break/Exception</seg>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T113829Z" creationid="MariannaCz" creationdate="20220512T113445Z">
+        <seg>Przerwa/Błąd</seg>
       </tuv>
     </tu>
     <tu>
@@ -2499,6 +2499,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aalebazi" changedate="20220510T201828Z" creationid="Aalebazi" creationdate="20220510T201828Z">
         <seg>Nie można przywrócić domyślnych wzorców filtra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Catalan</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T113918Z" creationid="MariannaCz" creationdate="20220512T113918Z">
+        <seg>Kataloński</seg>
       </tuv>
     </tu>
     <tu>
@@ -7846,6 +7854,22 @@ Niczym wiatrem niesiona
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T120043Z" creationid="agrze" creationdate="20220501T120043Z">
         <seg>Ścieżka:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pattern After</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T113907Z" creationid="MariannaCz" creationdate="20220512T113907Z">
+        <seg>Wzorzec po</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pattern Before</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T113855Z" creationid="MariannaCz" creationdate="20220512T113855Z">
+        <seg>Wzorzec przed</seg>
       </tuv>
     </tu>
     <tu>
