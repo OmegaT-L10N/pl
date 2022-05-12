@@ -2861,6 +2861,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compress whitespace in translated document</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T111928Z" creationid="MariannaCz" creationdate="20220512T111928Z">
+        <seg>Skompresuj białe znaki w przetłumaczonym dokumencieCompress whitespace in translated document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T201256Z" creationid="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" creationdate="20220420T201256Z">
