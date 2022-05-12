@@ -2679,6 +2679,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chinese</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T114141Z" creationid="MariannaCz" creationdate="20220512T114141Z">
+        <seg>Chiński</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose MED project</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T125006Z" creationid="werric" creationdate="20220419T125006Z">
@@ -3298,6 +3306,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T113925Z" creationid="MariannaCz" creationdate="20220512T113925Z">
+        <seg>Czeski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>D&amp;iagrams</seg>
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220510T104430Z" creationid="aa bb" creationdate="20220510T104430Z">
@@ -3833,6 +3849,14 @@ Inny wybierz napitek.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Dutch</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T114105Z" creationid="MariannaCz" creationdate="20220512T114105Z">
+        <seg>Niderlandzki</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>na razie bez znaku "&amp;" (MRK)</note>
       <tuv lang="EN">
         <seg>E&amp;nable Sentence-level Segmenting</seg>
@@ -4084,6 +4108,14 @@ Tej jedynej nie ma!</seg>
       </tuv>
       <tuv lang="PL" changeid="Ka-Pl" changedate="20220511T140057Z" creationid="Ka-Pl" creationdate="20220511T140057Z">
         <seg>Zakończyć przenoszenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T113937Z" creationid="MariannaCz" creationdate="20220512T113937Z">
+        <seg>Angielski</seg>
       </tuv>
     </tu>
     <tu>
@@ -4801,6 +4833,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finnish</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T113951Z" creationid="MariannaCz" creationdate="20220512T113951Z">
+        <seg>Fiński</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Flash XML Export</seg>
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220505T210038Z" creationid="aa bb" creationdate="20220505T210038Z">
@@ -4905,6 +4945,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>French</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T113955Z" creationid="MariannaCz" creationdate="20220512T113955Z">
+        <seg>Francuski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From 100% memory</seg>
       </tuv>
       <tuv lang="PL" changeid="Kurodaizu" changedate="20220511T133734Z" creationid="Kurodaizu" creationdate="20220511T133634Z">
@@ -4999,6 +5047,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="kasiawinciorek" changedate="20220511T141140Z" creationid="kasiawinciorek" creationdate="20220511T141140Z">
         <seg>Ogóle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>German</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T113930Z" creationid="MariannaCz" creationdate="20220512T113930Z">
+        <seg>Niemiecki</seg>
       </tuv>
     </tu>
     <tu>
@@ -5847,6 +5903,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T113959Z" creationid="MariannaCz" creationdate="20220512T113959Z">
+        <seg>Włoski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Item has neither URLs nor commands.</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T120919Z" creationid="48694" creationdate="20220510T120919Z">
@@ -5907,6 +5971,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112341Z" creationid="Aalebazi" creationdate="20220506T112341Z">
         <seg>JSch (licencja JSch)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Japanese</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T114009Z" creationid="MariannaCz" creationdate="20220512T114009Z">
+        <seg>Japoński</seg>
       </tuv>
     </tu>
     <tu>
@@ -8105,6 +8177,14 @@ czy należy coś jeszcze zrobić.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T114111Z" creationid="MariannaCz" creationdate="20220512T114111Z">
+        <seg>Polski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pop Directional Formatting (PDF U+202C)</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T102012Z" creationid="mademoiselleqwerty" creationdate="20220418T102012Z">
@@ -8944,6 +9024,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Russian</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T114118Z" creationid="MariannaCz" creationdate="20220512T114118Z">
+        <seg>Rosyjski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>S&amp;lide Comments</seg>
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220510T104125Z" creationid="aa bb" creationdate="20220510T104125Z">
@@ -9746,6 +9834,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T114133Z" creationid="MariannaCz" creationdate="20220512T114133Z">
+        <seg>Słowacki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some alignments still need review.</seg>
       </tuv>
       <tuv lang="PL" changeid="kasiawinciorek" changedate="20220427T142642Z" creationid="kasiawinciorek" creationdate="20220427T142642Z">
@@ -9954,6 +10050,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T113944Z" creationid="MariannaCz" creationdate="20220512T113944Z">
+        <seg>Hiszpański</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
       <tuv lang="PL" changeid="48694" changedate="20220510T121538Z" creationid="48694" creationdate="20220510T121538Z">
@@ -10126,6 +10230,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112612Z" creationid="Aalebazi" creationdate="20220506T112612Z">
         <seg>SuperTMXMerge (licencja Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Swedish</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T114124Z" creationid="MariannaCz" creationdate="20220512T114124Z">
+        <seg>Szwedzki</seg>
       </tuv>
     </tu>
     <tu>
@@ -10424,6 +10536,14 @@ Zakres zastąpienia tekstu ogranicza się do segmentów docelowych projektu, nie
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T224322Z" creationid="mat_staszak" creationdate="20220411T224322Z">
         <seg>Wyszukiwanie tekstowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text files segmentation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T114147Z" creationid="MariannaCz" creationdate="20220512T114147Z">
+        <seg>Text files segmentation</seg>
       </tuv>
     </tu>
     <tu>
