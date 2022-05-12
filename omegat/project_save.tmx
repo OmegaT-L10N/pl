@@ -2335,6 +2335,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Break/Exception</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T113445Z" creationid="MariannaCz" creationdate="20220512T113445Z">
+        <seg>Break/Exception</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bro&amp;wse</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T122520Z" creationid="werric" creationdate="20220419T122520Z">
