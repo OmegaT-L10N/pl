@@ -5204,6 +5204,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HHC file too big!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T112436Z" creationid="MariannaCz" creationdate="20220512T112436Z">
+        <seg>Plik HHC jest zbyt duży!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTML Help Compiler</seg>
       </tuv>
       <tuv lang="PL" changeid="MariannaCz" changedate="20220512T112407Z" creationid="MariannaCz" creationdate="20220512T112407Z">
@@ -5396,6 +5404,14 @@ Znać jej koniec nadchodzi</seg>
       </tuv>
       <tuv lang="PL" changeid="MariannaCz" changedate="20220512T101804Z" creationid="MariannaCz" creationdate="20220505T115145Z">
         <seg>Jeśli plik HTML posiada deklarację kodowania, zostanie użyty niezależnie od wartości wpisanych w oknie dialogowym. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T112737Z" creationid="MariannaCz" creationdate="20220512T112737Z">
+        <seg>Jeżeli plik HHC lub HHK posiada deklarację kodowania, zostanie użyty niezależnie od wartości podanej w oknie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7157,6 +7173,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220508T194034Z" creationid="aa bb" creationdate="20220508T194034Z">
         <seg>Uwaga: pliki DocBook są rozpoznawane nie tylko na podstawie rozszerzenia, muszą również posiadać deklarację DOCTYPE: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... dla DocBook 4 albo przestrzeń nazw: xmlns="http://docbook.org/ns/docbook" dla DocBook 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T112619Z" creationid="MariannaCz" creationdate="20220512T112619Z">
+        <seg>Uwaga: ustawienia kodowania pliku źródłowego dotyczą jedynie plików HHC i HHK files, które nie zawierają deklaracji kodowania.</seg>
       </tuv>
     </tu>
     <tu>
