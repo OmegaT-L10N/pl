@@ -4260,6 +4260,14 @@ Nikt nie usłyszy twych krzyków.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error saving segmentation rules configuration:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T113346Z" creationid="MariannaCz" creationdate="20220512T113346Z">
+        <seg>Bład przy zapisywaniu konfiguracji zasad segmentacji:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error searching directory tree!</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220411T225617Z" creationid="mat_staszak" creationdate="20220411T225617Z">
@@ -6011,6 +6019,22 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="PL" changeid="Kurodaizu" changedate="20220511T134504Z" creationid="Kurodaizu" creationdate="20220511T134426Z">
         <seg>Korektor językowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language Name</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T113401Z" creationid="MariannaCz" creationdate="20220512T113401Z">
+        <seg>Nazwa języka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language Pattern</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T113426Z" creationid="MariannaCz" creationdate="20220512T113426Z">
+        <seg>Wzorzec języka</seg>
       </tuv>
     </tu>
     <tu>
