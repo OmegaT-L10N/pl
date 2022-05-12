@@ -8520,6 +8520,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove HTML comments in translated document</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T112032Z" creationid="MariannaCz" creationdate="20220512T112032Z">
+        <seg>Usuń komentarze HTML z przetłumaczonego dokumentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Script</seg>
       </tuv>
       <tuv lang="PL" changeid="domin" changedate="20220511T083104Z" creationid="domin" creationdate="20220511T083104Z">
