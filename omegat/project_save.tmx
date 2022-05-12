@@ -1178,8 +1178,8 @@
       <tuv lang="EN">
         <seg>&amp;value (of form input, including button, submit and reset)</seg>
       </tuv>
-      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T104511Z" creationid="MariannaCz" creationdate="20220512T104511Z">
-        <seg>&amp;value (of form input, including button, submit and reset)</seg>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T111008Z" creationid="MariannaCz" creationdate="20220512T104511Z">
+        <seg>&amp;value (wartość wpisów formularza, obejmująca przycisk, wysłanie formularza i usunięcie zmian)</seg>
       </tuv>
     </tu>
     <tu>
