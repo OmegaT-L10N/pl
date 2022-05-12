@@ -12177,6 +12177,14 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>value (of button, &amp;submit and reset input)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T111314Z" creationid="MariannaCz" creationdate="20220512T111314Z">
+        <seg>value (wartość wpisów formularza, &amp;wysłania formularza i wyczyszczenia danych)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0}</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T200522Z" creationid="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" creationdate="20220420T200522Z">
