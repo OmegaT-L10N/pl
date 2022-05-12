@@ -4452,6 +4452,14 @@ Nikt nie usłyszy twych krzyków.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exceptions occurred while loading segmentation rules:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T112802Z" creationid="MariannaCz" creationdate="20220512T112802Z">
+        <seg>Exceptions occurred while loading segmentation rules:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exciting help page
 Gossamer threads hold you back
 404 not found</seg>
@@ -11921,6 +11929,22 @@ Twoja strona odeszła wraz z nimi</seg>
       </tuv>
       <tuv lang="PL" changeid="Ka-Pl" changedate="20220511T134857Z" creationid="Ka-Pl" creationdate="20220511T134857Z">
         <seg>Błędna nazwa użytkownika/hasło dla {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T112741Z" creationid="MariannaCz" creationdate="20220512T112741Z">
+        <seg>XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML Filter Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T112759Z" creationid="MariannaCz" creationdate="20220512T112759Z">
+        <seg>Opcje filtra XHTML</seg>
       </tuv>
     </tu>
     <tu>
