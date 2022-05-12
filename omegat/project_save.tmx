@@ -11009,6 +11009,14 @@ This program is free software; you can redistribute it and/or modify it under th
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T115445Z" creationid="MariannaCz" creationdate="20220512T115445Z">
+        <seg>Dlatego, przykładowo zasady dla języka francuskiego w Kanadzie (FR-CA) będą miały większe znaczenie od zasad dla francuskiego (FR.*), and higher than Default (.*) ones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To add files to the project you can
 - drag and drop files on this Editor pane
 - use Project &gt; Copy Files to Source Folder...
