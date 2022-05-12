@@ -1466,6 +1466,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;&amp;br&gt; (breaks)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T112209Z" creationid="MariannaCz" creationdate="20220512T112209Z">
+        <seg>&lt;&amp;br&gt; (nowa linia)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="student" changedate="20220427T140154Z" creationid="student" creationdate="20220427T140154Z">
@@ -4428,6 +4436,14 @@ Nikt nie usłyszy twych krzyków.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exception while editing options:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T112225Z" creationid="MariannaCz" creationdate="20220512T112225Z">
+        <seg>Wyjątki przy edycji opcji:Exception while editing options:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception while parsing:</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220411T225123Z" creationid="ewawoj" creationdate="20220411T225123Z">
@@ -5184,6 +5200,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="PL" changeid="mat_staszak" changedate="20220415T104820Z" creationid="mat_staszak" creationdate="20220415T104820Z">
         <seg>Grupa {0} nie istnieje w szukanej frazie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML Help Compiler</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T112407Z" creationid="MariannaCz" creationdate="20220512T112407Z">
+        <seg>HTML Help Compiler</seg>
       </tuv>
     </tu>
     <tu>
@@ -9926,6 +9950,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220510T105458Z" creationid="aa bb" creationdate="20220510T105458Z">
         <seg>Rozpocznij nowy akapit używając miękkich zwrotów w Wordzie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start a new paragraph on:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T112151Z" creationid="MariannaCz" creationdate="20220512T112151Z">
+        <seg>Rozpocznij nowy akapit w:Start a new paragraph on:</seg>
       </tuv>
     </tu>
     <tu>
