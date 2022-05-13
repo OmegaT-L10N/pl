@@ -631,6 +631,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Move Down</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T122202Z" creationid="MariannaCz" creationdate="20220512T122202Z">
+        <seg>Przesuń &amp;niżej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Name/ID:</seg>
       </tuv>
       <tuv lang="PL" changeid="Magdaanna" changedate="20220427T142910Z" creationid="Magdaanna" creationdate="20220427T140606Z">
@@ -2084,6 +2092,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="kasiawinciorek" changedate="20220511T142324Z" creationid="kasiawinciorek" creationdate="20220511T133700Z">
         <seg>Stosowanie &amp;Korekta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T122402Z" creationid="MariannaCz" creationdate="20220512T122402Z">
+        <seg>Czy jesteś pewien, że chcesz usunąć zbiór zasad segmentacji {0}?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6917,6 +6933,46 @@ Odeszła do raju</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move &amp;First</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T122035Z" creationid="MariannaCz" creationdate="20220512T121732Z">
+        <seg>Przenieś &amp;na początek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;Last</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T122049Z" creationid="MariannaCz" creationdate="20220512T122049Z">
+        <seg>Przenieś &amp;na koniec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;Up</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T122142Z" creationid="MariannaCz" creationdate="20220512T122142Z">
+        <seg>Przesuń &amp;wyżej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move Do&amp;wn</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T122127Z" creationid="MariannaCz" creationdate="20220512T122127Z">
+        <seg>Przesuń &amp;niżej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move U&amp;p</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T122108Z" creationid="MariannaCz" creationdate="20220512T122108Z">
+        <seg>Przesuń &amp;wyżej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mozilla DTD</seg>
       </tuv>
       <tuv lang="PL" changeid="ewawoj" changedate="20220415T164933Z" creationid="ewawoj" creationdate="20220415T164933Z">
@@ -7009,6 +7065,14 @@ Odeszła do raju</seg>
       </tuv>
       <tuv lang="PL" changeid="2021ILS2022" changedate="20220511T131849Z" creationid="2021ILS2022" creationdate="20220511T131849Z">
         <seg>Neuronowe tłumaczenie maszynowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New Language and Country</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T122423Z" creationid="MariannaCz" creationdate="20220512T122423Z">
+        <seg>Nowy język i kraj</seg>
       </tuv>
     </tu>
     <tu>
@@ -9466,6 +9530,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segmentation rules are applied in the following order:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T122259Z" creationid="MariannaCz" creationdate="20220512T122259Z">
+        <seg>Zasady segmentacji są stosowane w następującej kolejności:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segments</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091557Z" creationid="GKarpowicz" creationdate="20220406T091557Z">
@@ -9734,6 +9806,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       </tuv>
       <tuv lang="PL" changeid="domin" changedate="20220511T083535Z" creationid="domin" creationdate="20220511T083535Z">
         <seg>Ustawienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sets of segmentation rules:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T122228Z" creationid="MariannaCz" creationdate="20220512T122228Z">
+        <seg>Zbiory zasad segmentacji:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10853,6 +10933,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T122010Z" creationid="MariannaCz" creationdate="20220512T121635Z">
+        <seg>Tłumacząc tekst z francuskiego kanadyjskiego, w projekcie zostaną zastosowane zasady ustanowione dla wszystkich języków w odpowiedniej kolejności.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are many plugins available for OmegaT online.</seg>
       </tuv>
       <tuv lang="PL" changeid="kasiawinciorek" changedate="20220511T140636Z" creationid="kasiawinciorek" creationdate="20220511T140636Z">
@@ -11011,8 +11099,8 @@ This program is free software; you can redistribute it and/or modify it under th
       <tuv lang="EN">
         <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
-      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T115445Z" creationid="MariannaCz" creationdate="20220512T115445Z">
-        <seg>Dlatego, przykładowo zasady dla języka francuskiego w Kanadzie (FR-CA) będą miały większe znaczenie od zasad dla francuskiego (FR.*), and higher than Default (.*) ones.</seg>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T122446Z" creationid="MariannaCz" creationdate="20220512T115445Z">
+        <seg>Dlatego, przykładowo, zasady dla języka francuskiego w Kanadzie (FR-CA) będą miały większe znaczenie od zasad dla francuskiego (FR.*) i domyślnych (.*).</seg>
       </tuv>
     </tu>
     <tu>
