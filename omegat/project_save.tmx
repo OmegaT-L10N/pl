@@ -7798,6 +7798,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open {0} Source Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220513T102937Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220513T102937Z">
+        <seg>[fuzzy]Otwórz plik źródłowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open {0} Target Files</seg>
       </tuv>
       <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220412T175728Z" creationid="mademoiselleqwerty" creationdate="20220412T175728Z">
