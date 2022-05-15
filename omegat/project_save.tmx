@@ -11293,8 +11293,8 @@ This program is free software; you can redistribute it and/or modify it under th
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220411T232719Z" creationid="ewawoj" creationdate="20220411T232719Z">
-        <seg>Ścieżka tłumaczonego pliku nie może być taka sama jak ścieżka pliku źródłowego {0}</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220515T190941Z" creationid="ewawoj" creationdate="20220411T232719Z">
+        <seg>Ścieżka tłumaczonego pliku nie może być taka sama jak ścieżka pliku źródłowego: {0}</seg>
       </tuv>
     </tu>
     <tu>
