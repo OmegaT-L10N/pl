@@ -257,8 +257,8 @@
       <tuv lang="EN">
         <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
       </tuv>
-      <tuv lang="PL" changeid="aa bb" changedate="20220505T203815Z" creationid="aa bb" creationdate="20220505T203815Z">
-        <seg>&amp;Nie dekoduj literałów Unicode (\uXXXX)</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220515T192138Z" creationid="aa bb" creationdate="20220505T203815Z">
+        <seg>Nie dekoduj literałów Unicode (\uXXXX)</seg>
       </tuv>
     </tu>
     <tu>
@@ -297,8 +297,8 @@
       <tuv lang="EN">
         <seg>&amp;Empty lines</seg>
       </tuv>
-      <tuv lang="PL" changeid="aa bb" changedate="20220505T194230Z" creationid="aa bb" creationdate="20220505T193809Z">
-        <seg>&amp;Pustego wiersza</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220515T192118Z" creationid="aa bb" creationdate="20220505T193809Z">
+        <seg>Pustego wiersza</seg>
       </tuv>
     </tu>
     <tu>
@@ -569,8 +569,8 @@
       <tuv lang="EN">
         <seg>&amp;Line breaks</seg>
       </tuv>
-      <tuv lang="PL" changeid="aa bb" changedate="20220505T194207Z" creationid="aa bb" creationdate="20220505T193617Z">
-        <seg>Nowego &amp;wiersza</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220515T192124Z" creationid="aa bb" creationdate="20220505T193617Z">
+        <seg>Nowego wiersza</seg>
       </tuv>
     </tu>
     <tu>
@@ -649,8 +649,8 @@
       <tuv lang="EN">
         <seg>&amp;Never</seg>
       </tuv>
-      <tuv lang="PL" changeid="aa bb" changedate="20220505T193842Z" creationid="aa bb" creationdate="20220505T193842Z">
-        <seg>&amp;Nigdy</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220515T192113Z" creationid="aa bb" creationdate="20220505T193842Z">
+        <seg>Nigdy</seg>
       </tuv>
     </tu>
     <tu>
@@ -825,8 +825,8 @@
       <tuv lang="EN">
         <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220415T165659Z" creationid="ewawoj" creationdate="20220415T164848Z">
-        <seg>&amp; Usuń nieprzetłumaczone ciągi znaków w plikach docelowych</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220515T192055Z" creationid="ewawoj" creationdate="20220415T164848Z">
+        <seg>Usuń nieprzetłumaczone ciągi znaków w plikach docelowych</seg>
       </tuv>
     </tu>
     <tu>
