@@ -1018,8 +1018,8 @@
       <tuv lang="EN">
         <seg>&amp;Skip PO header</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220415T165650Z" creationid="ewawoj" creationdate="20220415T120329Z">
-        <seg>&amp; Pomiń nagłówek PO</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220515T192038Z" creationid="ewawoj" creationdate="20220415T120329Z">
+        <seg>Pomiń nagłówek PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -1902,8 +1902,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Allow translating &amp;blank source segments</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220415T120304Z" creationid="ewawoj" creationdate="20220415T120050Z">
-        <seg>Zezwalaj na tłumaczenie segmentów źródłowych &amp; nieprzetłumaczonych</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220515T191956Z" creationid="ewawoj" creationdate="20220415T120050Z">
+        <seg>Zezwalaj na tłumaczenie segmentów źródłowych nieprzetłumaczonych</seg>
       </tuv>
     </tu>
     <tu>
@@ -2172,8 +2172,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
-      <tuv lang="PL" changeid="ewawoj" changedate="20220415T165633Z" creationid="ewawoj" creationdate="20220415T120442Z">
-        <seg>&amp; Zastąp automatycznie 'nplurals=INTEGER; &amp; plural=EXPRESSION;' w nagłówku</seg>
+      <tuv lang="PL" changeid="ewawoj" changedate="20220515T192009Z" creationid="ewawoj" creationdate="20220415T120442Z">
+        <seg>Zastąp automatycznie 'nplurals=INTEGER; &amp; plural=EXPRESSION;' w nagłówku</seg>
       </tuv>
     </tu>
     <tu>
