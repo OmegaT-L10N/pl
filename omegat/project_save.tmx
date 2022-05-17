@@ -12681,6 +12681,14 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220517T072653Z" creationid="mademoiselleqwerty" creationdate="20220517T072653Z">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0}.</seg>
       </tuv>
       <tuv lang="PL" changeid="kasiawinciorek" changedate="20220511T135057Z" creationid="kasiawinciorek" creationdate="20220511T135057Z">
