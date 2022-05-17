@@ -150,3 +150,4 @@ Next Note	Następna notatka	<FR>Note suivante
 Previous Note	Poprzednia notatka	<FR>Note précédente
 Scripting	Skrypty	<FR>Scripts
 Machine Translate	Tłumaczenie maszynowe	<FR>Traduction automatique
+Root	Folder główny projektu	<FR> Racine
