@@ -192,8 +192,8 @@
       <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
-      <tuv lang="PL" changeid="domin" changedate="20220511T083523Z" creationid="mat_staszak" creationdate="20220411T230156Z">
-        <seg>&amp;Zamknij</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220517T072132Z" creationid="mat_staszak" creationdate="20220411T230156Z">
+        <seg>Zamknij</seg>
       </tuv>
     </tu>
     <tu>
@@ -273,8 +273,8 @@
       <tuv lang="EN">
         <seg>&amp;Edit</seg>
       </tuv>
-      <tuv lang="PL" changeid="domin" changedate="20220511T083300Z" creationid="mademoiselleqwerty" creationdate="20220418T094305Z">
-        <seg>&amp;Edytuj</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220517T072201Z" creationid="mademoiselleqwerty" creationdate="20220418T094305Z">
+        <seg>Edytuj</seg>
       </tuv>
     </tu>
     <tu>
