@@ -1810,6 +1810,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Align Files</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220518T131817Z" creationid="Kurodaizu" creationdate="20220518T131817Z">
+        <seg>Dopasowanie plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="pl" changeid="domin" changedate="20220511T084311Z" creationid="domin" creationdate="20220511T084311Z">
@@ -1928,6 +1936,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="pl" changeid="Zooola" changedate="20220427T142932Z" creationid="Zooola" creationdate="20220427T142932Z">
         <seg>Wystąpił błąd podczas ładowania skryptu: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred when loading the source files.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220518T131955Z" creationid="Kurodaizu" creationdate="20220518T131955Z">
+        <seg>Wystąpił błąd podczas ładowania plików źródłowych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2379,6 +2395,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="pl" changeid="werric" changedate="20220419T122823Z" creationid="werric" creationdate="20220419T122823Z">
         <seg>Przeglądaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220518T131848Z" creationid="Kurodaizu" creationdate="20220518T131848Z">
+        <seg>Przeglądaj...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5356,6 +5380,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Has note</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220518T131639Z" creationid="Kurodaizu" creationdate="20220518T131639Z">
+        <seg>Zawiera komentarz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He&amp;aders</seg>
       </tuv>
       <tuv lang="pl" changeid="aa bb" changedate="20220509T142735Z" creationid="aa bb" creationdate="20220509T142735Z">
@@ -5849,6 +5881,14 @@ położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawien
       </tuv>
       <tuv lang="pl" changeid="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" changedate="20220420T192907Z" creationid="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" creationdate="20220420T192907Z">
         <seg>Aby uzyskać szczegółowe informacje, użyj „team -h”..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is alternative</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220518T131647Z" creationid="Kurodaizu" creationdate="20220518T131647Z">
+        <seg>Jest opcjonalny</seg>
       </tuv>
     </tu>
     <tu>
@@ -6692,6 +6732,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="pl" changeid="Magdaanna" changedate="20220506T193831Z" creationid="Magdaanna" creationdate="20220506T193831Z">
         <seg>Dopasuj szablon wyświetlania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match type</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220518T131655Z" creationid="Kurodaizu" creationdate="20220518T131655Z">
+        <seg>Rodzaj dopasowania</seg>
       </tuv>
     </tu>
     <tu>
@@ -10798,6 +10846,14 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The file "{0}" is not supported.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220518T131902Z" creationid="Kurodaizu" creationdate="20220518T131902Z">
+        <seg>Plik "{0}" nie jest obsługiwany.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>polski cudzysłów?</note>
       <tuv lang="en">
         <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
@@ -10913,6 +10969,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="pl" changeid="jarosz" changedate="20220510T235657Z" creationid="jarosz" creationdate="20220510T235657Z">
         <seg>Katalog wybranego słownika nie istnieje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified files are not supported.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220518T131914Z" creationid="Kurodaizu" creationdate="20220518T131914Z">
+        <seg>Wybrane pliki nie są obsługiwane.</seg>
       </tuv>
     </tu>
     <tu>
