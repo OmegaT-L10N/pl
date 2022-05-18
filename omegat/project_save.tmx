@@ -1635,8 +1635,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>ASCII Only</seg>
       </tuv>
-      <tuv lang="PL" changeid="48694" changedate="20220510T120745Z" creationid="48694" creationdate="20220510T120745Z">
-        <seg>tylko ASCII</seg>
+      <tuv lang="PL" changeid="jarosz" changedate="20220518T135601Z" creationid="48694" creationdate="20220510T120745Z">
+        <seg>Tylko ASCII</seg>
       </tuv>
     </tu>
     <tu>
