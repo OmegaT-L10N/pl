@@ -2339,8 +2339,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Bad regular expression</seg>
       </tuv>
-      <tuv lang="pl" changeid="MariannaCz" changedate="20220512T102545Z" creationid="MariannaCz" creationdate="20220512T102545Z">
-        <seg>Niepoprawne wyrażenia regularneBad regular expression</seg>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220518T141029Z" creationid="MariannaCz" creationdate="20220512T102545Z">
+        <seg>Niepoprawne wyrażenia regularne</seg>
       </tuv>
     </tu>
     <tu>
@@ -3803,8 +3803,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="en">
         <seg>Do not translate the content of tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
-      <tuv lang="pl" changeid="MariannaCz" changedate="20220512T104111Z" creationid="MariannaCz" creationdate="20220512T104111Z">
-        <seg>Nie tłumacz zawartości tagów zawierających następujące pary atrybutów klucz-wartość (oddzielonyi przecinkami:</seg>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220518T141225Z" creationid="MariannaCz" creationdate="20220512T104111Z">
+        <seg>Nie tłumacz zawartości tagów zawierających następujące pary atrybutów klucz-wartość (oddzielon przecinkami:</seg>
       </tuv>
     </tu>
     <tu>
