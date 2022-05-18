@@ -2767,6 +2767,14 @@ Inny wybierz napitek.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clear Mark</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220518T132422Z" creationid="Kurodaizu" creationdate="20220518T132422Z">
+        <seg>Odznacz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
       <tuv lang="pl" changeid="jarosz" changedate="20220427T141627Z" creationid="Marcin J" creationdate="20220427T135255Z">
@@ -6143,10 +6151,26 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep All</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220518T132504Z" creationid="Kurodaizu" creationdate="20220518T132504Z">
+        <seg>Zachowaj wszystko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep Mine</seg>
       </tuv>
       <tuv lang="pl" changeid="Kurodaizu" changedate="20220511T140746Z" creationid="Kurodaizu" creationdate="20220511T140746Z">
         <seg>Zachowaj moją wersję</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep None</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220518T132523Z" creationid="Kurodaizu" creationdate="20220518T132523Z">
+        <seg>Usuń wszystko</seg>
       </tuv>
     </tu>
     <tu>
@@ -6668,6 +6692,14 @@ w katalogu konfiguracji.</seg>
       </tuv>
       <tuv lang="pl" changeid="2021ILS2022" changedate="20220505T115833Z" creationid="2021ILS2022" creationdate="20220505T115833Z">
         <seg>Zaznacz wyniki z glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Needs Review</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220518T132417Z" creationid="Kurodaizu" creationdate="20220518T132417Z">
+        <seg>Zaznacz jako Wymagające weryfikacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -8764,6 +8796,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="pl" changeid="ewawoj" changedate="20220411T224507Z" creationid="ewawoj" creationdate="20220411T224507Z">
         <seg>Wczytywanie pliku TMX zakończone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Realign Pending</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220518T132447Z" creationid="Kurodaizu" creationdate="20220518T132447Z">
+        <seg>Oznacz jako nieukończone</seg>
       </tuv>
     </tu>
     <tu>
@@ -11309,6 +11349,14 @@ This program is free software; you can redistribute it and/or modify it under th
       </tuv>
       <tuv lang="pl" changeid="Aalebazi" changedate="20220510T203232Z" creationid="Aalebazi" creationdate="20220510T203232Z">
         <seg>Aby zmienić typ i kodowanie plików, które będą przetwarzane przez filtr, wybierz odpowiedni filtr z listy i kliknij Edytuj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggle Selected</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220518T132539Z" creationid="Kurodaizu" creationdate="20220518T132539Z">
+        <seg>Przełącz wybrane</seg>
       </tuv>
     </tu>
     <tu>
