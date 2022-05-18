@@ -2274,6 +2274,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Average Score: {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220518T132856Z" creationid="Kurodaizu" creationdate="20220518T132856Z">
+        <seg>Średni wynik: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>B&amp;rowse</seg>
       </tuv>
       <tuv lang="pl" changeid="werric" changedate="20220419T122814Z" creationid="werric" creationdate="20220419T122319Z">
@@ -4957,6 +4965,14 @@ Niestety, strona nie istnieje...</seg>
       </tuv>
       <tuv lang="pl" changeid="ewawoj" changedate="20220411T232626Z" creationid="ewawoj" creationdate="20220411T232626Z">
         <seg>Nie można załadować filtru '{0}' z '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filters...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220518T132937Z" creationid="Kurodaizu" creationdate="20220518T132937Z">
+        <seg>Filtry</seg>
       </tuv>
     </tu>
     <tu>
@@ -8258,6 +8274,14 @@ Niczym wiatrem niesiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pattern...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220518T132946Z" creationid="Kurodaizu" creationdate="20220518T132946Z">
+        <seg>Wzór...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Penalty for matches in other languages:</seg>
       </tuv>
       <tuv lang="pl" changeid="Magdaanna" changedate="20220506T193657Z" creationid="Magdaanna" creationdate="20220506T193657Z">
@@ -9356,6 +9380,14 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       </tuv>
       <tuv lang="pl" changeid="jarosz" changedate="20220511T000027Z" creationid="jarosz" creationdate="20220511T000018Z">
         <seg>Reguły</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rules...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220518T132920Z" creationid="Kurodaizu" creationdate="20220518T132920Z">
+        <seg>Reguły...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13061,6 +13093,22 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="pl" changeid="studentILS10" changedate="20220504T175438Z" creationid="studentILS10" creationdate="20220504T175438Z">
         <seg>← Wstecz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>▲</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220518T132858Z" creationid="Kurodaizu" creationdate="20220518T132858Z">
+        <seg>▲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>▼</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kurodaizu" changedate="20220518T132859Z" creationid="Kurodaizu" creationdate="20220518T132859Z">
+        <seg>▼</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
