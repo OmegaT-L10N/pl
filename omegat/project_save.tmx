@@ -7103,6 +7103,14 @@ w katalogu konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modification info template</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Zooola" changedate="20220518T140852Z" creationid="Zooola" creationdate="20220518T140852Z">
+        <seg>Modification info template</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modification info template for segments without date</seg>
       </tuv>
       <tuv lang="pl" changeid="Magdaanna" changedate="20220511T130838Z" creationid="Magdaanna" creationdate="20220511T130838Z">
