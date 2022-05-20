@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3565,6 +3565,14 @@ Inny wybierz napitek.</seg>
       </tuv>
       <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112646Z" creationid="Aalebazi" creationdate="20220506T112646Z">
         <seg>DictZip z JDict (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionar&amp;y</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220520T100004Z" creationid="GKarpowicz" creationdate="20220520T100004Z">
+        <seg>Dictionar&amp;y</seg>
       </tuv>
     </tu>
     <tu>
