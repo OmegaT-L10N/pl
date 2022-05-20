@@ -1007,6 +1007,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220520T100022Z" creationid="GKarpowicz" creationdate="20220520T100022Z">
+        <seg>&amp;Show Relevant Suggestions Automatically</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Show in Editor context menu</seg>
       </tuv>
       <tuv lang="PL" changeid="jarosz" changedate="20220518T141713Z" creationid="48694" creationdate="20220510T121542Z">
@@ -4872,6 +4880,14 @@ Niestety, strona nie istnieje...</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to compile project files!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220520T100130Z" creationid="GKarpowicz" creationdate="20220520T100130Z">
+        <seg>[fuzzy]Opracowanie plików projektu nie powiodło się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to create project!</seg>
       </tuv>
       <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T085029Z" creationid="GKarpowicz" creationdate="20220406T085011Z">
@@ -6138,6 +6154,14 @@ inside the configuration folder.</seg>
       <tuv lang="PL" changeid="Marcin J" changedate="20220427T135806Z" creationid="Marcin J" creationdate="20220427T135051Z">
         <seg>Nie było możliwe utworzenie katalogu skryptów
 w katalogu konfiguracji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220520T100450Z" creationid="GKarpowicz" creationdate="20220520T100450Z">
+        <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9729,6 +9753,14 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220520T100008Z" creationid="GKarpowicz" creationdate="20220520T100008Z">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search Found Mark</seg>
       </tuv>
       <tuv lang="PL" changeid="Kurodaizu" changedate="20220511T135336Z" creationid="Kurodaizu" creationdate="20220511T135336Z">
@@ -11793,6 +11825,14 @@ This program is free software; you can redistribute it and/or modify it under th
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation last modified by {0} on {1} at {2}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220520T100122Z" creationid="GKarpowicz" creationdate="20220520T100122Z">
+        <seg>[fuzzy]Ostatnia zmiana tłumaczenia - {0} dn. {1} o {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation memory files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="PL" changeid="werric" changedate="20220419T153617Z" creationid="werric" creationdate="20220419T153617Z">
@@ -12296,6 +12336,14 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       </tuv>
       <tuv lang="PL" changeid="Magdaanna" changedate="20220506T193506Z" creationid="Magdaanna" creationdate="20220506T193506Z">
         <seg>Użyj XML dla autonomicznych znaczników (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220520T100005Z" creationid="GKarpowicz" creationdate="20220520T100005Z">
+        <seg>[fuzzy]Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
     </tu>
     <tu>
