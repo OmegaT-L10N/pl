@@ -8101,6 +8101,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Target File Location</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220520T100603Z" creationid="GKarpowicz" creationdate="20220520T100534Z">
+        <seg>Otwórz lokalizację plików docelowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open Writable Glossary File</seg>
       </tuv>
       <tuv lang="PL" changeid="agrze" changedate="20220501T114227Z" creationid="agrze" creationdate="20220501T114227Z">
@@ -8127,8 +8135,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Open {0} Target Files</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220412T175728Z" creationid="mademoiselleqwerty" creationdate="20220412T175728Z">
-        <seg>Open {0} Target Files</seg>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220520T100548Z" creationid="mademoiselleqwerty" creationdate="20220412T175728Z">
+        <seg>Otwórz {0} pliki docelowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -11641,8 +11649,8 @@ This program is free software; you can redistribute it and/or modify it under th
       <tuv lang="EN">
         <seg>Total number of segments</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220422T194602Z" creationid="mademoiselleqwerty" creationdate="20220422T194602Z">
-        <seg>Total number of segments</seg>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220520T100611Z" creationid="mademoiselleqwerty" creationdate="20220422T194602Z">
+        <seg>Całkowita liczba segmentów</seg>
       </tuv>
     </tu>
     <tu>
