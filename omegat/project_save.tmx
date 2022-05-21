@@ -16,8 +16,8 @@
       <tuv lang="EN">
         <seg>&amp;About...</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121602Z" creationid="glawd" creationdate="20220511T215821Z">
-        <seg> O programie</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122312Z" creationid="glawd" creationdate="20220511T215821Z">
+        <seg>O programie</seg>
       </tuv>
     </tu>
     <tu>
@@ -96,7 +96,7 @@
       <tuv lang="EN">
         <seg>&amp;Always Confirm Quit</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121553Z" creationid="glawd" creationdate="20220511T215618Z">
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122302Z" creationid="glawd" creationdate="20220511T215618Z">
         <seg>Zawsze potwierdzaj przed wyjściem</seg>
       </tuv>
     </tu>
@@ -104,16 +104,16 @@
       <tuv lang="EN">
         <seg>&amp;Apply this font size to dictionary pane</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221729Z" creationid="glawd" creationdate="20220511T221729Z">
-        <seg>Dostosuj czcionkę do panelu słownika</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122119Z" creationid="glawd" creationdate="20220511T221729Z">
+        <seg> Dostosuj czcionkę do panelu słownika</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221634Z" creationid="glawd" creationdate="20220511T221634Z">
-        <seg>Dostosuj czcionkę do danych w tabeli (pliki projektu, statystyki itp.)</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122118Z" creationid="glawd" creationdate="20220511T221634Z">
+        <seg> Dostosuj czcionkę do danych w tabeli (pliki projektu, statystyki itp.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -160,8 +160,8 @@
       <tuv lang="EN">
         <seg>&amp;Automatically search segment text in dictionary</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121528Z" creationid="glawd" creationdate="20220511T215327Z">
-        <seg> Automatyczne wyszukiwanie tekstu segmentu w słowniku</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122227Z" creationid="glawd" creationdate="20220511T215327Z">
+        <seg>Automatyczne wyszukiwanie tekstu segmentu w słowniku</seg>
       </tuv>
     </tu>
     <tu>
@@ -232,8 +232,8 @@
       <tuv lang="EN">
         <seg>&amp;Check for Updates...</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121605Z" creationid="glawd" creationdate="20220511T215901Z">
-        <seg> Wyszukiwanie aktualizacji</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122316Z" creationid="glawd" creationdate="20220511T215901Z">
+        <seg>Wyszukiwanie aktualizacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -392,8 +392,8 @@
       <tuv lang="EN">
         <seg>&amp;Enable history completion</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121542Z" creationid="glawd" creationdate="20220511T215556Z">
-        <seg> Uruchomić wpisywanie z historii</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122245Z" creationid="glawd" creationdate="20220511T215556Z">
+        <seg>Uruchomić wpisywanie z historii</seg>
       </tuv>
     </tu>
     <tu>
@@ -512,8 +512,8 @@
       <tuv lang="EN">
         <seg>&amp;Help</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121600Z" creationid="domin" creationdate="20220511T083639Z">
-        <seg> &amp;Pomoc</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122310Z" creationid="domin" creationdate="20220511T083639Z">
+        <seg>&amp;Pomoc</seg>
       </tuv>
     </tu>
     <tu>
@@ -608,8 +608,8 @@
       <tuv lang="EN">
         <seg>&amp;Last Changes...</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121603Z" creationid="glawd" creationdate="20220511T215834Z">
-        <seg> Ostatnie zmiany</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122314Z" creationid="glawd" creationdate="20220511T215834Z">
+        <seg>Ostatnie zmiany</seg>
       </tuv>
     </tu>
     <tu>
@@ -792,8 +792,8 @@
       <tuv lang="EN">
         <seg>&amp;Preferences...</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121558Z" creationid="glawd" creationdate="20220511T215753Z">
-        <seg> Preferencje</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122309Z" creationid="glawd" creationdate="20220511T215753Z">
+        <seg>Preferencje</seg>
       </tuv>
     </tu>
     <tu>
@@ -968,8 +968,8 @@
       <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121554Z" creationid="glawd" creationdate="20220511T215656Z">
-        <seg> Przywróć okno główne</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122304Z" creationid="glawd" creationdate="20220511T215656Z">
+        <seg>Przywróć okno główne</seg>
       </tuv>
     </tu>
     <tu>
@@ -1105,8 +1105,8 @@
       <tuv lang="EN">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121537Z" creationid="glawd" creationdate="20220511T215455Z">
-        <seg> Automatyczne wyświetlanie istotnych sugestii</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122237Z" creationid="glawd" creationdate="20220511T215455Z">
+        <seg>Automatyczne wyświetlanie istotnych sugestii</seg>
       </tuv>
     </tu>
     <tu>
@@ -1265,8 +1265,8 @@
       <tuv lang="EN">
         <seg>&amp;User's Manual...</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121601Z" creationid="glawd" creationdate="20220511T215813Z">
-        <seg> Przewodnik użytkownika</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122311Z" creationid="glawd" creationdate="20220511T215813Z">
+        <seg>Przewodnik użytkownika</seg>
       </tuv>
     </tu>
     <tu>
@@ -1739,8 +1739,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>A&amp;uto-completion</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121536Z" creationid="glawd" creationdate="20220511T215438Z">
-        <seg> Autouzupełnianie</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122236Z" creationid="glawd" creationdate="20220511T215438Z">
+        <seg>Autouzupełnianie</seg>
       </tuv>
     </tu>
     <tu>
@@ -1811,8 +1811,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121557Z" creationid="glawd" creationdate="20220511T215746Z">
-        <seg> Dostęp do folderu konfiguracji</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122308Z" creationid="glawd" creationdate="20220511T215746Z">
+        <seg>Dostęp do folderu konfiguracji</seg>
       </tuv>
     </tu>
     <tu>
@@ -2355,8 +2355,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto-Completion</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121539Z" creationid="glawd" creationdate="20220511T215527Z">
-        <seg> Autouzupełnianie</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122241Z" creationid="glawd" creationdate="20220511T215527Z">
+        <seg>Autouzupełnianie</seg>
       </tuv>
     </tu>
     <tu>
@@ -2976,8 +2976,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Clo&amp;se</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221945Z" creationid="glawd" creationdate="20220511T221945Z">
-        <seg>Zamknij</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122133Z" creationid="glawd" creationdate="20220511T221945Z">
+        <seg> Zamknij</seg>
       </tuv>
     </tu>
     <tu>
@@ -3166,16 +3166,16 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Committing source files</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122024Z" creationid="glawd" creationdate="20220511T220322Z">
-        <seg> Wyślij pliki źródłowe</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122329Z" creationid="glawd" creationdate="20220511T220322Z">
+        <seg>Wyślij pliki źródłowe</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Committing target files</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122025Z" creationid="glawd" creationdate="20220511T220356Z">
-        <seg> Wyślij pliki docelowe</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122331Z" creationid="glawd" creationdate="20220511T220356Z">
+        <seg>Wyślij pliki docelowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -3571,16 +3571,16 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Cursor locked</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220756Z" creationid="glawd" creationdate="20220511T220756Z">
-        <seg>Kursor zablokowany</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122041Z" creationid="glawd" creationdate="20220511T220756Z">
+        <seg> Kursor zablokowany</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Cursor unlocked</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220816Z" creationid="glawd" creationdate="20220511T220816Z">
-        <seg>Kursor odblokowany</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122041Z" creationid="glawd" creationdate="20220511T220816Z">
+        <seg> Kursor odblokowany</seg>
       </tuv>
     </tu>
     <tu>
@@ -3667,8 +3667,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Default</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121502Z" creationid="48694" creationdate="20220510T120724Z">
-        <seg> Domyślne</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122210Z" creationid="48694" creationdate="20220510T120724Z">
+        <seg>Domyślne</seg>
       </tuv>
     </tu>
     <tu>
@@ -3755,8 +3755,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Dictionary</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121503Z" creationid="agrze" creationdate="20220427T141622Z">
-        <seg> Słownik</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122212Z" creationid="agrze" creationdate="20220427T141622Z">
+        <seg>Słownik</seg>
       </tuv>
     </tu>
     <tu>
@@ -4003,8 +4003,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Do you really want to quit?</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221142Z" creationid="glawd" creationdate="20220511T221142Z">
-        <seg>Czy na pewno chcesz wyjść?</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122052Z" creationid="glawd" creationdate="20220511T221142Z">
+        <seg> Czy na pewno chcesz wyjść?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4195,8 +4195,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Duplicate segments: {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122028Z" creationid="glawd" creationdate="20220511T220625Z">
-        <seg> Powielone segmenty: {0}</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122336Z" creationid="glawd" creationdate="20220511T220625Z">
+        <seg>Powielone segmenty: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4401,8 +4401,8 @@ Tej jedynej nie ma!</seg>
       <tuv lang="EN">
         <seg>Enable history &amp;prediction</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121543Z" creationid="glawd" creationdate="20220511T215603Z">
-        <seg> Uruchomić przewidywanie historii</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122246Z" creationid="glawd" creationdate="20220511T215603Z">
+        <seg>Uruchomić przewidywanie historii</seg>
       </tuv>
     </tu>
     <tu>
@@ -4433,8 +4433,8 @@ Tej jedynej nie ma!</seg>
       <tuv lang="EN">
         <seg>Encoding</seg>
       </tuv>
-      <tuv lang="PL" changeid="48694" changedate="20220510T121516Z" creationid="48694" creationdate="20220510T121516Z">
-        <seg>Szyfrowanie</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122124Z" creationid="48694" creationdate="20220510T121516Z">
+        <seg> Szyfrowanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -4521,8 +4521,8 @@ Tej jedynej nie ma!</seg>
       <tuv lang="EN">
         <seg>Enter the segment number:</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122027Z" creationid="glawd" creationdate="20220511T220439Z">
-        <seg> Wpisz numer segmentu:</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122334Z" creationid="glawd" creationdate="20220511T220439Z">
+        <seg>Wpisz numer segmentu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5074,24 +5074,24 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122022Z" creationid="glawd" creationdate="20220511T220237Z">
-        <seg> Nie udało się wysłać plików źródłowych!</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122327Z" creationid="glawd" creationdate="20220511T220237Z">
+        <seg>Nie udało się wysłać plików źródłowych!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Failed to commit target files!</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122023Z" creationid="glawd" creationdate="20220511T220256Z">
-        <seg> Nie udało się wysłać plików źródłowych!</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122328Z" creationid="glawd" creationdate="20220511T220256Z">
+        <seg>Nie udało się wysłać plików źródłowych!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Failed to compile project files!</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121951Z" creationid="GKarpowicz" creationdate="20220520T100130Z">
-        <seg> [fuzzy]Opracowanie plików projektu nie powiodło się!</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122322Z" creationid="GKarpowicz" creationdate="20220520T100130Z">
+        <seg>[fuzzy]Opracowanie plików projektu nie powiodło się!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5114,24 +5114,24 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>Failed to load specified project!</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121609Z" creationid="glawd" creationdate="20220511T220024Z">
-        <seg> Nie udało się załadować projektu!</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122320Z" creationid="glawd" creationdate="20220511T220024Z">
+        <seg>Nie udało się załadować projektu!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121607Z" creationid="glawd" creationdate="20220511T220016Z">
-        <seg> Nie udało się załadować pamięci tłumaczeniowej {0} dla projektu!</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122319Z" creationid="glawd" creationdate="20220511T220016Z">
+        <seg>Nie udało się załadować pamięci tłumaczeniowej {0} dla projektu!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Failed to update project properties</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122026Z" creationid="glawd" creationdate="20220511T220419Z">
-        <seg> Nie udało się otworzyć właściwości projektu</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122333Z" creationid="glawd" creationdate="20220511T220419Z">
+        <seg>Nie udało się otworzyć właściwości projektu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5242,24 +5242,24 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221225Z" creationid="glawd" creationdate="20220511T221225Z">
-        <seg>Plik: przetłumaczono/ ilość segmentów (projekt: jedyny przetłumaczony / jedyny, całkowita liczba segmentów)</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122100Z" creationid="glawd" creationdate="20220511T221225Z">
+        <seg> Plik: przetłumaczono/ ilość segmentów (projekt: jedyny przetłumaczony / jedyny, całkowita liczba segmentów)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221239Z" creationid="glawd" creationdate="20220511T221239Z">
-        <seg>Plik: jedynie przetłumaczono % (jedynie pozostało) / projekt: jedynie przetłumaczono % (jedynie pozostało), całkowita liczba segmentów</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122101Z" creationid="glawd" creationdate="20220511T221239Z">
+        <seg> Plik: jedynie przetłumaczono % (jedynie pozostało) / projekt: jedynie przetłumaczono % (jedynie pozostało), całkowita liczba segmentów</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Filename</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221810Z" creationid="glawd" creationdate="20220511T221810Z">
-        <seg>Nazwa pliku</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122122Z" creationid="glawd" creationdate="20220511T221810Z">
+        <seg> Nazwa pliku</seg>
       </tuv>
     </tu>
     <tu>
@@ -5274,8 +5274,8 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>Filter</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221819Z" creationid="glawd" creationdate="20220511T221819Z">
-        <seg>Filtruj</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122123Z" creationid="glawd" creationdate="20220511T221819Z">
+        <seg> Filtruj</seg>
       </tuv>
     </tu>
     <tu>
@@ -5290,8 +5290,8 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>Filter:</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221939Z" creationid="glawd" creationdate="20220511T221939Z">
-        <seg>Filtruj:</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122132Z" creationid="glawd" creationdate="20220511T221939Z">
+        <seg> Filtruj:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5378,8 +5378,8 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>Font</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221449Z" creationid="glawd" creationdate="20220511T221449Z">
-        <seg>Czcionka</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122120Z" creationid="glawd" creationdate="20220511T221449Z">
+        <seg>  Czcionka</seg>
       </tuv>
     </tu>
     <tu>
@@ -5604,8 +5604,8 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>Glossary</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121500Z" creationid="mat_staszak" creationdate="20220411T225947Z">
-        <seg> Glosariusz</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122207Z" creationid="mat_staszak" creationdate="20220411T225947Z">
+        <seg>Glosariusz</seg>
       </tuv>
     </tu>
     <tu>
@@ -5708,8 +5708,8 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122028Z" creationid="glawd" creationdate="20220511T220607Z">
-        <seg> Idź do segmentu</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122335Z" creationid="glawd" creationdate="20220511T220607Z">
+        <seg>Idź do segmentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5929,16 +5929,16 @@ Znać jej koniec nadchodzi</seg>
       <tuv lang="EN">
         <seg>History</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121544Z" creationid="glawd" creationdate="20220511T215625Z">
-        <seg> Historia</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122247Z" creationid="glawd" creationdate="20220511T215625Z">
+        <seg>Historia</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>History Completion</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121540Z" creationid="glawd" creationdate="20220511T215536Z">
-        <seg> Historia uzupełniania</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122243Z" creationid="glawd" creationdate="20220511T215536Z">
+        <seg>Historia uzupełniania</seg>
       </tuv>
     </tu>
     <tu>
@@ -5953,8 +5953,8 @@ Znać jej koniec nadchodzi</seg>
       <tuv lang="EN">
         <seg>History Prediction</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121541Z" creationid="glawd" creationdate="20220511T215548Z">
-        <seg> Historia przewidywania</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122244Z" creationid="glawd" creationdate="20220511T215548Z">
+        <seg>Historia przewidywania</seg>
       </tuv>
     </tu>
     <tu>
@@ -6025,8 +6025,8 @@ Znać jej koniec nadchodzi</seg>
       <tuv lang="EN">
         <seg>INS</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221133Z" creationid="glawd" creationdate="20220511T221133Z">
-        <seg>WST</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122046Z" creationid="glawd" creationdate="20220511T221133Z">
+        <seg> WST</seg>
       </tuv>
     </tu>
     <tu>
@@ -6182,8 +6182,8 @@ położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawien
       <tuv lang="EN">
         <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121606Z" creationid="glawd" creationdate="20220511T215912Z">
-        <seg> Aby zastosować wprowadzone zmiany, należy zamknąć i ponownie otworzyć projekt.</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122317Z" creationid="glawd" creationdate="20220511T215912Z">
+        <seg>Aby zastosować wprowadzone zmiany, należy zamknąć i ponownie otworzyć projekt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6278,8 +6278,8 @@ położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawien
       <tuv lang="EN">
         <seg>Insert Mode</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220831Z" creationid="glawd" creationdate="20220511T220831Z">
-        <seg>Tryb wstawiania</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122043Z" creationid="glawd" creationdate="20220511T220831Z">
+        <seg> Tryb wstawiania</seg>
       </tuv>
     </tu>
     <tu>
@@ -6632,8 +6632,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="EN">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220513T102933Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220513T102933Z">
-        <seg>[fuzzy]Przejdź do ostatnio modyfikowanego segmentu...</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122102Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220513T102933Z">
+        <seg> [fuzzy]Przejdź do ostatnio modyfikowanego segmentu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6720,16 +6720,16 @@ w katalogu konfiguracji.</seg>
       <tuv lang="EN">
         <seg>L&amp;og...</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121604Z" creationid="glawd" creationdate="20220511T215851Z">
-        <seg> Dziennik</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122315Z" creationid="glawd" creationdate="20220511T215851Z">
+        <seg>Dziennik</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LCK</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220837Z" creationid="glawd" creationdate="20220511T220837Z">
-        <seg>BLOK</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122043Z" creationid="glawd" creationdate="20220511T220837Z">
+        <seg> BLOK</seg>
       </tuv>
     </tu>
     <tu>
@@ -6920,8 +6920,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="EN">
         <seg>Last modified by {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221434Z" creationid="glawd" creationdate="20220511T221434Z">
-        <seg>Ostatnia zmiana wprowadzona przez{0}</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122113Z" creationid="glawd" creationdate="20220511T221434Z">
+        <seg> Ostatnia zmiana wprowadzona przez{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7598,32 +7598,32 @@ Odeszła do raju</seg>
       <tuv lang="EN">
         <seg>Move &amp;Down</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221925Z" creationid="glawd" creationdate="20220511T221925Z">
-        <seg>Przenieś niżej</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122130Z" creationid="glawd" creationdate="20220511T221925Z">
+        <seg> Przenieś niżej</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Move &amp;First</seg>
       </tuv>
-      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T122035Z" creationid="MariannaCz" creationdate="20220512T121732Z">
-        <seg>Przenieś &amp;na początek</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122129Z" creationid="MariannaCz" creationdate="20220512T121732Z">
+        <seg> Przenieś &amp;na początek</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Move &amp;Last</seg>
       </tuv>
-      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T122049Z" creationid="MariannaCz" creationdate="20220512T122049Z">
-        <seg>Przenieś &amp;na koniec</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122131Z" creationid="MariannaCz" creationdate="20220512T122049Z">
+        <seg> Przenieś &amp;na koniec</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Move &amp;Up</seg>
       </tuv>
-      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T122142Z" creationid="MariannaCz" creationdate="20220512T122142Z">
-        <seg>Przesuń &amp;wyżej</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122130Z" creationid="MariannaCz" creationdate="20220512T122142Z">
+        <seg> Przesuń &amp;wyżej</seg>
       </tuv>
     </tu>
     <tu>
@@ -8234,8 +8234,8 @@ Odeszła do raju</seg>
       <tuv lang="EN">
         <seg>OVR</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221129Z" creationid="glawd" creationdate="20220511T221129Z">
-        <seg>ZAP</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122045Z" creationid="glawd" creationdate="20220511T221129Z">
+        <seg> ZAP</seg>
       </tuv>
     </tu>
     <tu>
@@ -8471,24 +8471,24 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Open Source File</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221952Z" creationid="glawd" creationdate="20220511T221952Z">
-        <seg>Otwórz plik źródłowy</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122134Z" creationid="glawd" creationdate="20220511T221952Z">
+        <seg> Otwórz plik źródłowy</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Open Source File Location</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220421T153635Z" creationid="mademoiselleqwerty" creationdate="20220421T153635Z">
-        <seg>Open Source File Location</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122136Z" creationid="mademoiselleqwerty" creationdate="20220421T153635Z">
+        <seg> Open Source File Location</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Open Target File</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220421T224742Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220421T224742Z">
-        <seg>[fuzzy]Open {0} Target Files</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122140Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220421T224742Z">
+        <seg> [fuzzy]Open {0} Target Files</seg>
       </tuv>
     </tu>
     <tu>
@@ -8519,8 +8519,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Open {0} Source Files</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220513T102937Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220513T102937Z">
-        <seg>[fuzzy]Otwórz plik źródłowy</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122135Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220513T102937Z">
+        <seg> [fuzzy]Otwórz plik źródłowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -8630,8 +8630,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Overwrite Mode</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220824Z" creationid="glawd" creationdate="20220511T220824Z">
-        <seg>Tryb zastępowania</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122042Z" creationid="glawd" creationdate="20220511T220824Z">
+        <seg> Tryb zastępowania</seg>
       </tuv>
     </tu>
     <tu>
@@ -8842,8 +8842,8 @@ czy należy coś jeszcze zrobić.</seg>
       <tuv lang="EN">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121958Z" creationid="glawd" creationdate="20220511T220220Z">
-        <seg> Rozwiąż problemy z tagami przed ponownym skorzystaniem z funkcji Utwórz przetłumaczone dokumenty.</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122326Z" creationid="glawd" creationdate="20220511T220220Z">
+        <seg>Rozwiąż problemy z tagami przed ponownym skorzystaniem z funkcji Utwórz przetłumaczone dokumenty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9180,16 +9180,16 @@ lokalny bez funkcji projektu zespołowego.</seg>
       <tuv lang="EN">
         <seg>Project Files ({0} of {1})</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221802Z" creationid="glawd" creationdate="20220511T221802Z">
-        <seg>Pliki projektu ({0} of {1})</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122122Z" creationid="glawd" creationdate="20220511T221802Z">
+        <seg> Pliki projektu ({0} of {1})</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Project Files ({0})</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221741Z" creationid="glawd" creationdate="20220511T221741Z">
-        <seg>Pliki projektu</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122121Z" creationid="glawd" creationdate="20220511T221741Z">
+        <seg> Pliki projektu</seg>
       </tuv>
     </tu>
     <tu>
@@ -9316,8 +9316,8 @@ lokalny bez funkcji projektu zespołowego.</seg>
       <tuv lang="EN">
         <seg>Project saved</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220746Z" creationid="glawd" creationdate="20220511T220746Z">
-        <seg>Projekt zapisany</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122040Z" creationid="glawd" creationdate="20220511T220746Z">
+        <seg> Projekt zapisany</seg>
       </tuv>
     </tu>
     <tu>
@@ -9673,16 +9673,16 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       <tuv lang="EN">
         <seg>Reopen the project now?</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121606Z" creationid="glawd" creationdate="20220511T220002Z">
-        <seg> Otworzyć ponownie projekt?</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122318Z" creationid="glawd" creationdate="20220511T220002Z">
+        <seg>Otworzyć ponownie projekt?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Reopen the project?</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220721Z" creationid="glawd" creationdate="20220511T220721Z">
-        <seg>Ponownie otworzyć projekt?</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122039Z" creationid="glawd" creationdate="20220511T220721Z">
+        <seg> Ponownie otworzyć projekt?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10049,8 +10049,8 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       <tuv lang="EN">
         <seg>Sample Text</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221529Z" creationid="glawd" creationdate="20220511T221529Z">
-        <seg>Przykładowy tekst</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122118Z" creationid="glawd" creationdate="20220511T221529Z">
+        <seg> Przykładowy tekst</seg>
       </tuv>
     </tu>
     <tu>
@@ -10137,8 +10137,8 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       <tuv lang="EN">
         <seg>Saving project...</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220738Z" creationid="glawd" creationdate="20220511T220738Z">
-        <seg>Zapisywanie projektu...</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122039Z" creationid="glawd" creationdate="20220511T220738Z">
+        <seg> Zapisywanie projektu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10395,8 +10395,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Segment {0,number,#}</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122029Z" creationid="glawd" creationdate="20220511T220644Z">
-        <seg> Numer segmentu</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122337Z" creationid="glawd" creationdate="20220511T220644Z">
+        <seg>Numer segmentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -10435,8 +10435,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Segments</seg>
       </tuv>
-      <tuv lang="PL" changeid="GKarpowicz" changedate="20220406T091557Z" creationid="GKarpowicz" creationdate="20220406T091557Z">
-        <seg>Segmentów</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122124Z" creationid="GKarpowicz" creationdate="20220406T091557Z">
+        <seg> Segmentów</seg>
       </tuv>
     </tu>
     <tu>
@@ -10795,16 +10795,16 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Size</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221457Z" creationid="glawd" creationdate="20220511T221457Z">
-        <seg>Rozmiar</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122115Z" creationid="glawd" creationdate="20220511T221457Z">
+        <seg> Rozmiar</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Size on Dictionary pane</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221504Z" creationid="glawd" creationdate="20220511T221504Z">
-        <seg>Dodaj do słownika</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122116Z" creationid="glawd" creationdate="20220511T221504Z">
+        <seg> Dodaj do słownika</seg>
       </tuv>
     </tu>
     <tu>
@@ -11011,8 +11011,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Source files committed</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122024Z" creationid="glawd" creationdate="20220511T220340Z">
-        <seg> Pliki źródłowe wysłane</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122330Z" creationid="glawd" creationdate="20220511T220340Z">
+        <seg>Pliki źródłowe wysłane</seg>
       </tuv>
     </tu>
     <tu>
@@ -11083,8 +11083,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Source/translation lengths (characters)</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221156Z" creationid="glawd" creationdate="20220511T221156Z">
-        <seg>Długość źródła/tłumaczenia (znaki)</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122053Z" creationid="glawd" creationdate="20220511T221156Z">
+        <seg> Długość źródła/tłumaczenia (znaki)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11307,8 +11307,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Switch views with {0} and {1}</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121538Z" creationid="glawd" creationdate="20220511T215513Z">
-        <seg> Zmiana widoku za pomocą {0} i {1}</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122239Z" creationid="glawd" creationdate="20220511T215513Z">
+        <seg>Zmiana widoku za pomocą {0} i {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11475,8 +11475,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Target files committed</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122026Z" creationid="glawd" creationdate="20220511T220405Z">
-        <seg> Pliki docelowe wysłane</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122332Z" creationid="glawd" creationdate="20220511T220405Z">
+        <seg>Pliki docelowe wysłane</seg>
       </tuv>
     </tu>
     <tu>
@@ -11917,8 +11917,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>Theme:</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121556Z" creationid="glawd" creationdate="20220511T215738Z">
-        <seg> Temat</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122306Z" creationid="glawd" creationdate="20220511T215738Z">
+        <seg>Temat</seg>
       </tuv>
     </tu>
     <tu>
@@ -12055,8 +12055,8 @@ serwera.</seg>
       <tuv lang="EN">
         <seg>This is the way text will look when displayed.</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221519Z" creationid="glawd" creationdate="20220511T221519Z">
-        <seg>Tak będzie wyglądał wyświetlony tekst.</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122117Z" creationid="glawd" creationdate="20220511T221519Z">
+        <seg> Tak będzie wyglądał wyświetlony tekst.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12371,8 +12371,8 @@ This program is free software; you can redistribute it and/or modify it under th
       <tuv lang="EN">
         <seg>Translation last modified by {0} on {1} at {2}</seg>
       </tuv>
-      <tuv lang="PL" changeid="GKarpowicz" changedate="20220520T100122Z" creationid="GKarpowicz" creationdate="20220520T100122Z">
-        <seg>[fuzzy]Ostatnia zmiana tłumaczenia - {0} dn. {1} o {2}</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122112Z" creationid="GKarpowicz" creationdate="20220520T100122Z">
+        <seg> [fuzzy]Ostatnia zmiana tłumaczenia - {0} dn. {1} o {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12453,8 +12453,8 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       <tuv lang="EN">
         <seg>UNL</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221117Z" creationid="glawd" creationdate="20220511T221117Z">
-        <seg>ODBLK</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122044Z" creationid="glawd" creationdate="20220511T221117Z">
+        <seg> ODBLK</seg>
       </tuv>
     </tu>
     <tu>
@@ -12741,8 +12741,8 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       <tuv lang="EN">
         <seg>Unique segments</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221838Z" creationid="glawd" creationdate="20220511T221838Z">
-        <seg>Segmenty niepowtarzające się</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122127Z" creationid="glawd" creationdate="20220511T221838Z">
+        <seg> Segmenty niepowtarzające się</seg>
       </tuv>
     </tu>
     <tu>
@@ -12878,8 +12878,8 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       <tuv lang="EN">
         <seg>Use &amp;Condensed view</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121531Z" creationid="glawd" creationdate="20220511T215406Z">
-        <seg> Użyj skondensowany widok</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122230Z" creationid="glawd" creationdate="20220511T215406Z">
+        <seg>Użyj skondensowany widok</seg>
       </tuv>
     </tu>
     <tu>
@@ -13381,8 +13381,8 @@ Twoja strona odeszła wraz z nimi</seg>
         <seg>You can find detailed statistic information in the file:
 {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221854Z" creationid="glawd" creationdate="20220511T221854Z">
-        <seg>Szczegółowe dane statystyczne możesz znaleść w pliku:
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122128Z" creationid="glawd" creationdate="20220511T221854Z">
+        <seg> Szczegółowe dane statystyczne możesz znaleść w pliku:
 {0}</seg>
       </tuv>
     </tu>
@@ -13624,6 +13624,14 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>segment 0000</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122111Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220521T122111Z">
+        <seg> [fuzzy]Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>slf4j (MIT License)</seg>
       </tuv>
       <tuv lang="PL" changeid="Aalebazi" changedate="20220506T112630Z" creationid="Aalebazi" creationdate="20220506T112625Z">
@@ -13658,8 +13666,8 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
       <tuv lang="EN">
         <seg>unknown</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T221442Z" creationid="glawd" creationdate="20220511T221442Z">
-        <seg>nieznany</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122114Z" creationid="glawd" creationdate="20220511T221442Z">
+        <seg> nieznany</seg>
       </tuv>
     </tu>
     <tu>
@@ -13682,8 +13690,8 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
       <tuv lang="EN">
         <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220513T100004Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220513T100004Z">
-        <seg>[fuzzy]{0} ({1} pozostało) / {2} ({3} pozostało), {4}</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122058Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220513T100004Z">
+        <seg> [fuzzy]{0} ({1} pozostało) / {2} ({3} pozostało), {4}</seg>
       </tuv>
     </tu>
     <tu>
