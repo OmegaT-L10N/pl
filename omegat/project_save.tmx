@@ -3563,8 +3563,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
-      <tuv lang="PL" changeid="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" changedate="20220420T201640Z" creationid="mademoiselleqwerty" creationdate="20220405T172714Z">
-        <seg>Aktualne wykorzystanie pamięci przez VM: {0}MB;wolne miejsce: {1}MB; maksymalna pojemność: {2}MB</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220521T134819Z" creationid="mademoiselleqwerty" creationdate="20220405T172714Z">
+        <seg>Aktualne wykorzystanie pamięci przez VM: {0} MB; wolne miejsce: {1}MB; maksymalna pojemność: {2}MB</seg>
       </tuv>
     </tu>
     <tu>
