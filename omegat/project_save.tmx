@@ -16,8 +16,8 @@
       <tuv lang="EN">
         <seg>&amp;About...</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T215821Z" creationid="glawd" creationdate="20220511T215821Z">
-        <seg>O programie</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121602Z" creationid="glawd" creationdate="20220511T215821Z">
+        <seg> O programie</seg>
       </tuv>
     </tu>
     <tu>
@@ -96,9 +96,8 @@
       <tuv lang="EN">
         <seg>&amp;Always Confirm Quit</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T215618Z" creationid="glawd" creationdate="20220511T215618Z">
-        <seg>
-Zawsze potwierdzaj przed wyjściem</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121553Z" creationid="glawd" creationdate="20220511T215618Z">
+        <seg>Zawsze potwierdzaj przed wyjściem</seg>
       </tuv>
     </tu>
     <tu>
@@ -233,8 +232,8 @@ Zawsze potwierdzaj przed wyjściem</seg>
       <tuv lang="EN">
         <seg>&amp;Check for Updates...</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T215901Z" creationid="glawd" creationdate="20220511T215901Z">
-        <seg>Wyszukiwanie aktualizacji</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121605Z" creationid="glawd" creationdate="20220511T215901Z">
+        <seg> Wyszukiwanie aktualizacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -393,8 +392,8 @@ Zawsze potwierdzaj przed wyjściem</seg>
       <tuv lang="EN">
         <seg>&amp;Enable history completion</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T215556Z" creationid="glawd" creationdate="20220511T215556Z">
-        <seg>Uruchomić wpisywanie z historii</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121542Z" creationid="glawd" creationdate="20220511T215556Z">
+        <seg> Uruchomić wpisywanie z historii</seg>
       </tuv>
     </tu>
     <tu>
@@ -513,8 +512,8 @@ Zawsze potwierdzaj przed wyjściem</seg>
       <tuv lang="EN">
         <seg>&amp;Help</seg>
       </tuv>
-      <tuv lang="PL" changeid="domin" changedate="20220511T083639Z" creationid="domin" creationdate="20220511T083639Z">
-        <seg>&amp;Pomoc</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121600Z" creationid="domin" creationdate="20220511T083639Z">
+        <seg> &amp;Pomoc</seg>
       </tuv>
     </tu>
     <tu>
@@ -609,8 +608,8 @@ Zawsze potwierdzaj przed wyjściem</seg>
       <tuv lang="EN">
         <seg>&amp;Last Changes...</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T215834Z" creationid="glawd" creationdate="20220511T215834Z">
-        <seg>Ostatnie zmiany</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121603Z" creationid="glawd" creationdate="20220511T215834Z">
+        <seg> Ostatnie zmiany</seg>
       </tuv>
     </tu>
     <tu>
@@ -793,8 +792,8 @@ Zawsze potwierdzaj przed wyjściem</seg>
       <tuv lang="EN">
         <seg>&amp;Preferences...</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T215753Z" creationid="glawd" creationdate="20220511T215753Z">
-        <seg>Preferencje</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121558Z" creationid="glawd" creationdate="20220511T215753Z">
+        <seg> Preferencje</seg>
       </tuv>
     </tu>
     <tu>
@@ -969,8 +968,8 @@ Zawsze potwierdzaj przed wyjściem</seg>
       <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T215656Z" creationid="glawd" creationdate="20220511T215656Z">
-        <seg>Przywróć okno główne</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121554Z" creationid="glawd" creationdate="20220511T215656Z">
+        <seg> Przywróć okno główne</seg>
       </tuv>
     </tu>
     <tu>
@@ -1106,8 +1105,8 @@ Zawsze potwierdzaj przed wyjściem</seg>
       <tuv lang="EN">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T215455Z" creationid="glawd" creationdate="20220511T215455Z">
-        <seg>Automatyczne wyświetlanie istotnych sugestii</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121537Z" creationid="glawd" creationdate="20220511T215455Z">
+        <seg> Automatyczne wyświetlanie istotnych sugestii</seg>
       </tuv>
     </tu>
     <tu>
@@ -1266,8 +1265,8 @@ Zawsze potwierdzaj przed wyjściem</seg>
       <tuv lang="EN">
         <seg>&amp;User's Manual...</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T215813Z" creationid="glawd" creationdate="20220511T215813Z">
-        <seg>Przewodnik użytkownika</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121601Z" creationid="glawd" creationdate="20220511T215813Z">
+        <seg> Przewodnik użytkownika</seg>
       </tuv>
     </tu>
     <tu>
@@ -1740,8 +1739,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>A&amp;uto-completion</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T215438Z" creationid="glawd" creationdate="20220511T215438Z">
-        <seg>Autouzupełnianie</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121536Z" creationid="glawd" creationdate="20220511T215438Z">
+        <seg> Autouzupełnianie</seg>
       </tuv>
     </tu>
     <tu>
@@ -1812,8 +1811,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T215746Z" creationid="glawd" creationdate="20220511T215746Z">
-        <seg>Dostęp do folderu konfiguracji</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121557Z" creationid="glawd" creationdate="20220511T215746Z">
+        <seg> Dostęp do folderu konfiguracji</seg>
       </tuv>
     </tu>
     <tu>
@@ -2356,8 +2355,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto-Completion</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T215527Z" creationid="glawd" creationdate="20220511T215527Z">
-        <seg>Autouzupełnianie</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121539Z" creationid="glawd" creationdate="20220511T215527Z">
+        <seg> Autouzupełnianie</seg>
       </tuv>
     </tu>
     <tu>
@@ -4402,8 +4401,8 @@ Tej jedynej nie ma!</seg>
       <tuv lang="EN">
         <seg>Enable history &amp;prediction</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T215603Z" creationid="glawd" creationdate="20220511T215603Z">
-        <seg>Uruchomić przewidywanie historii</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121543Z" creationid="glawd" creationdate="20220511T215603Z">
+        <seg> Uruchomić przewidywanie historii</seg>
       </tuv>
     </tu>
     <tu>
@@ -5115,16 +5114,16 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>Failed to load specified project!</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220024Z" creationid="glawd" creationdate="20220511T220024Z">
-        <seg>Nie udało się załadować projektu!</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121609Z" creationid="glawd" creationdate="20220511T220024Z">
+        <seg> Nie udało się załadować projektu!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220016Z" creationid="glawd" creationdate="20220511T220016Z">
-        <seg>Nie udało się załadować pamięci tłumaczeniowej {0} dla projektu!</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121607Z" creationid="glawd" creationdate="20220511T220016Z">
+        <seg> Nie udało się załadować pamięci tłumaczeniowej {0} dla projektu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5930,16 +5929,16 @@ Znać jej koniec nadchodzi</seg>
       <tuv lang="EN">
         <seg>History</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T215625Z" creationid="glawd" creationdate="20220511T215625Z">
-        <seg>Historia</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121544Z" creationid="glawd" creationdate="20220511T215625Z">
+        <seg> Historia</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>History Completion</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T215536Z" creationid="glawd" creationdate="20220511T215536Z">
-        <seg>Historia uzupełniania</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121540Z" creationid="glawd" creationdate="20220511T215536Z">
+        <seg> Historia uzupełniania</seg>
       </tuv>
     </tu>
     <tu>
@@ -5954,8 +5953,8 @@ Znać jej koniec nadchodzi</seg>
       <tuv lang="EN">
         <seg>History Prediction</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T215548Z" creationid="glawd" creationdate="20220511T215548Z">
-        <seg>Historia przewidywania</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121541Z" creationid="glawd" creationdate="20220511T215548Z">
+        <seg> Historia przewidywania</seg>
       </tuv>
     </tu>
     <tu>
@@ -6183,8 +6182,8 @@ położenie to zostanie użyte, a w wyniku zmiany położenia wszystkie ustawien
       <tuv lang="EN">
         <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T215912Z" creationid="glawd" creationdate="20220511T215912Z">
-        <seg>Aby zastosować wprowadzone zmiany, należy zamknąć i ponownie otworzyć projekt.</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121606Z" creationid="glawd" creationdate="20220511T215912Z">
+        <seg> Aby zastosować wprowadzone zmiany, należy zamknąć i ponownie otworzyć projekt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6721,8 +6720,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="EN">
         <seg>L&amp;og...</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T215851Z" creationid="glawd" creationdate="20220511T215851Z">
-        <seg>Dziennik</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121604Z" creationid="glawd" creationdate="20220511T215851Z">
+        <seg> Dziennik</seg>
       </tuv>
     </tu>
     <tu>
@@ -9674,8 +9673,8 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       <tuv lang="EN">
         <seg>Reopen the project now?</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220002Z" creationid="glawd" creationdate="20220511T220002Z">
-        <seg>Otworzyć ponownie projekt?</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121606Z" creationid="glawd" creationdate="20220511T220002Z">
+        <seg> Otworzyć ponownie projekt?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11308,8 +11307,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Switch views with {0} and {1}</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T215513Z" creationid="glawd" creationdate="20220511T215513Z">
-        <seg>Zmiana widoku za pomocą {0} i {1}</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121538Z" creationid="glawd" creationdate="20220511T215513Z">
+        <seg> Zmiana widoku za pomocą {0} i {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11918,8 +11917,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>Theme:</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T215738Z" creationid="glawd" creationdate="20220511T215738Z">
-        <seg>Temat</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121556Z" creationid="glawd" creationdate="20220511T215738Z">
+        <seg> Temat</seg>
       </tuv>
     </tu>
     <tu>
@@ -12879,8 +12878,8 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       <tuv lang="EN">
         <seg>Use &amp;Condensed view</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T215406Z" creationid="glawd" creationdate="20220511T215406Z">
-        <seg>Użyj skondensowany widok</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121531Z" creationid="glawd" creationdate="20220511T215406Z">
+        <seg> Użyj skondensowany widok</seg>
       </tuv>
     </tu>
     <tu>
