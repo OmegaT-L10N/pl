@@ -3166,16 +3166,16 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Committing source files</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220322Z" creationid="glawd" creationdate="20220511T220322Z">
-        <seg>Wyślij pliki źródłowe</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122024Z" creationid="glawd" creationdate="20220511T220322Z">
+        <seg> Wyślij pliki źródłowe</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Committing target files</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220356Z" creationid="glawd" creationdate="20220511T220356Z">
-        <seg>Wyślij pliki docelowe</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122025Z" creationid="glawd" creationdate="20220511T220356Z">
+        <seg> Wyślij pliki docelowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -4195,8 +4195,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Duplicate segments: {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220625Z" creationid="glawd" creationdate="20220511T220625Z">
-        <seg>Powielone segmenty: {0}</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122028Z" creationid="glawd" creationdate="20220511T220625Z">
+        <seg> Powielone segmenty: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4521,8 +4521,8 @@ Tej jedynej nie ma!</seg>
       <tuv lang="EN">
         <seg>Enter the segment number:</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220439Z" creationid="glawd" creationdate="20220511T220439Z">
-        <seg>Wpisz numer segmentu:</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122027Z" creationid="glawd" creationdate="20220511T220439Z">
+        <seg> Wpisz numer segmentu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5074,24 +5074,24 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220237Z" creationid="glawd" creationdate="20220511T220237Z">
-        <seg>Nie udało się wysłać plików źródłowych!</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122022Z" creationid="glawd" creationdate="20220511T220237Z">
+        <seg> Nie udało się wysłać plików źródłowych!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Failed to commit target files!</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220256Z" creationid="glawd" creationdate="20220511T220256Z">
-        <seg>Nie udało się wysłać plików źródłowych!</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122023Z" creationid="glawd" creationdate="20220511T220256Z">
+        <seg> Nie udało się wysłać plików źródłowych!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Failed to compile project files!</seg>
       </tuv>
-      <tuv lang="PL" changeid="GKarpowicz" changedate="20220520T100130Z" creationid="GKarpowicz" creationdate="20220520T100130Z">
-        <seg>[fuzzy]Opracowanie plików projektu nie powiodło się!</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121951Z" creationid="GKarpowicz" creationdate="20220520T100130Z">
+        <seg> [fuzzy]Opracowanie plików projektu nie powiodło się!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5130,8 +5130,8 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>Failed to update project properties</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220419Z" creationid="glawd" creationdate="20220511T220419Z">
-        <seg>Nie udało się otworzyć właściwości projektu</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122026Z" creationid="glawd" creationdate="20220511T220419Z">
+        <seg> Nie udało się otworzyć właściwości projektu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5708,8 +5708,8 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220607Z" creationid="glawd" creationdate="20220511T220607Z">
-        <seg>Idź do segmentu</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122028Z" creationid="glawd" creationdate="20220511T220607Z">
+        <seg> Idź do segmentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -7562,8 +7562,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="EN">
         <seg>More</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220652Z" creationid="glawd" creationdate="20220511T220652Z">
-        <seg>Więcej</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122030Z" creationid="glawd" creationdate="20220511T220652Z">
+        <seg> Więcej</seg>
       </tuv>
     </tu>
     <tu>
@@ -8842,8 +8842,8 @@ czy należy coś jeszcze zrobić.</seg>
       <tuv lang="EN">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220220Z" creationid="glawd" creationdate="20220511T220220Z">
-        <seg>Rozwiąż problemy z tagami przed ponownym skorzystaniem z funkcji Utwórz przetłumaczone dokumenty.</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T121958Z" creationid="glawd" creationdate="20220511T220220Z">
+        <seg> Rozwiąż problemy z tagami przed ponownym skorzystaniem z funkcji Utwórz przetłumaczone dokumenty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10395,8 +10395,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Segment {0,number,#}</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220644Z" creationid="glawd" creationdate="20220511T220644Z">
-        <seg>Numer segmentu</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122029Z" creationid="glawd" creationdate="20220511T220644Z">
+        <seg> Numer segmentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -11011,8 +11011,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Source files committed</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220340Z" creationid="glawd" creationdate="20220511T220340Z">
-        <seg>Pliki źródłowe wysłane</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122024Z" creationid="glawd" creationdate="20220511T220340Z">
+        <seg> Pliki źródłowe wysłane</seg>
       </tuv>
     </tu>
     <tu>
@@ -11475,8 +11475,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Target files committed</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220405Z" creationid="glawd" creationdate="20220511T220405Z">
-        <seg>Pliki docelowe wysłane</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122026Z" creationid="glawd" creationdate="20220511T220405Z">
+        <seg> Pliki docelowe wysłane</seg>
       </tuv>
     </tu>
     <tu>
@@ -13406,8 +13406,8 @@ Twoja strona odeszła wraz z nimi</seg>
       <tuv lang="EN">
         <seg>You must enter a number between 1 and {0}.</seg>
       </tuv>
-      <tuv lang="PL" changeid="glawd" changedate="20220511T220710Z" creationid="glawd" creationdate="20220511T220710Z">
-        <seg>Wpisz liczbę między 1 a {0}..</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122037Z" creationid="glawd" creationdate="20220511T220710Z">
+        <seg> Wpisz liczbę między 1 a {0}..</seg>
       </tuv>
     </tu>
     <tu>
