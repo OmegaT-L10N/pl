@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1393,6 +1393,22 @@ w trybie projektu zespołowego.)</seg>
       </tuv>
       <tuv lang="PL" changeid="aa bb" changedate="20220505T193202Z" creationid="aa bb" creationdate="20220505T193202Z">
         <seg>---- Notatki lokalizacji ----</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--/--</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220521T160939Z" creationid="GKarpowicz" creationdate="20220521T160939Z">
+        <seg>--/--</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="GKarpowicz" changedate="20220521T160945Z" creationid="GKarpowicz" creationdate="20220521T160945Z">
+        <seg>--/-- (--/--, --)</seg>
       </tuv>
     </tu>
     <tu>
