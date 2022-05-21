@@ -1534,6 +1534,14 @@ w trybie projektu zespołowego.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1 segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="agrze" changedate="20220521T135335Z" creationid="agrze" creationdate="20220521T135335Z">
+        <seg>[fuzy][fuzzy]Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="PL" changeid="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" changedate="20220420T201407Z" creationid="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" creationdate="20220420T201407Z">
