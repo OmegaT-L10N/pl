@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -144,8 +144,8 @@
       <tuv lang="EN">
         <seg>&amp;Browse</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T134640Z" creationid="werric" creationdate="20220419T121339Z">
-        <seg>&amp;Przeglądaj</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220521T111646Z" creationid="werric" creationdate="20220419T121339Z">
+        <seg>Przeglądaj</seg>
       </tuv>
     </tu>
     <tu>
@@ -2315,8 +2315,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>B&amp;rowse</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T122814Z" creationid="werric" creationdate="20220419T122319Z">
-        <seg>Prz&amp;eglądaj</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220521T111708Z" creationid="werric" creationdate="20220419T122319Z">
+        <seg>Przeglądaj</seg>
       </tuv>
     </tu>
     <tu>
@@ -2432,16 +2432,16 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Bro&amp;wse</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T122520Z" creationid="werric" creationdate="20220419T122520Z">
-        <seg>Prz&amp;eglądaj</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220521T111714Z" creationid="werric" creationdate="20220419T122520Z">
+        <seg>Przeglądaj</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Brows&amp;e</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T122838Z" creationid="werric" creationdate="20220419T122827Z">
-        <seg>Prze&amp;glądaj</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220521T111726Z" creationid="werric" creationdate="20220419T122827Z">
+        <seg>Przeglądaj</seg>
       </tuv>
     </tu>
     <tu>
@@ -4036,8 +4036,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>E&amp;nable Sentence-level Segmenting</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T134038Z" creationid="werric" creationdate="20220405T164415Z">
-        <seg>Segmentuj na poziomie &amp;zdań.</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220521T111602Z" creationid="werric" creationdate="20220405T164415Z">
+        <seg>Segmentuj na poziomie zdań.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4045,8 +4045,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>E&amp;xclusions...</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T134653Z" creationid="werric" creationdate="20220419T122258Z">
-        <seg>Wy&amp;łączenie</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220521T111700Z" creationid="werric" creationdate="20220419T122258Z">
+        <seg>Wyłączenie</seg>
       </tuv>
     </tu>
     <tu>
@@ -9193,8 +9193,8 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       <tuv lang="EN">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
-      <tuv lang="PL" changeid="werric" changedate="20220419T134620Z" creationid="werric" creationdate="20220419T113452Z">
-        <seg>U&amp;suń znaczniki</seg>
+      <tuv lang="PL" changeid="werric" changedate="20220521T111631Z" creationid="werric" creationdate="20220419T113452Z">
+        <seg>Usuń znaczniki</seg>
       </tuv>
     </tu>
     <tu>
