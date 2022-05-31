@@ -3214,8 +3214,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
-      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T111928Z" creationid="MariannaCz" creationdate="20220512T111928Z">
-        <seg>Skompresuj białe znaki w przetłumaczonym dokumencieCompress whitespace in translated document</seg>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220531T110810Z" creationid="MariannaCz" creationdate="20220512T111928Z">
+        <seg>Skompresuj białe znaki w przetłumaczonym dokumencie </seg>
       </tuv>
     </tu>
     <tu>
@@ -11227,8 +11227,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="EN">
         <seg>Start a new paragraph on:</seg>
       </tuv>
-      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T112151Z" creationid="MariannaCz" creationdate="20220512T112151Z">
-        <seg>Rozpocznij nowy akapit w:Start a new paragraph on:</seg>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220531T110758Z" creationid="MariannaCz" creationdate="20220512T112151Z">
+        <seg>Rozpocznij nowy akapit w:</seg>
       </tuv>
     </tu>
     <tu>
