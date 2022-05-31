@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8106,8 +8106,8 @@ Odeszła do raju</seg>
       <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
       </tuv>
-      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T101025Z" creationid="Dell" creationdate="20220505T095401Z">
-        <seg>Uwaga: Ustawienia kodowania pliku źródłowego ma wpływ jedynie na pliki w formacie HTML bez zadeklarowanego kodowania wewnątrz pliku.</seg>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220531T110027Z" creationid="Dell" creationdate="20220505T095401Z">
+        <seg>Uwaga: Ustawienia kodowania pliku źródłowego mają wpływ jedynie na pliki w formacie HTML bez zadeklarowanego kodowania wewnątrz pliku.</seg>
       </tuv>
     </tu>
     <tu>
