@@ -4909,8 +4909,8 @@ Nikt nie usłyszy twych krzyków.</seg>
       <tuv lang="EN">
         <seg>Exceptions occurred while loading segmentation rules:</seg>
       </tuv>
-      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T113231Z" creationid="MariannaCz" creationdate="20220512T112802Z">
-        <seg>Wczy wczytywaniu zasad segmentacji wystąpiły problemy.</seg>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220531T111651Z" creationid="MariannaCz" creationdate="20220512T112802Z">
+        <seg>Wystąpiły problemy przy wczytywaniu zasad segmentacji. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8098,8 +8098,8 @@ Odeszła do raju</seg>
       <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
-      <tuv lang="PL" changeid="MariannaCz" changedate="20220512T112619Z" creationid="MariannaCz" creationdate="20220512T112619Z">
-        <seg>Uwaga: ustawienia kodowania pliku źródłowego dotyczą jedynie plików HHC i HHK files, które nie zawierają deklaracji kodowania.</seg>
+      <tuv lang="PL" changeid="MariannaCz" changedate="20220531T111553Z" creationid="MariannaCz" creationdate="20220512T112619Z">
+        <seg>Uwaga: ustawienia kodowania pliku źródłowego dotyczą jedynie plików HHC i HHK, które nie zawierają deklaracji kodowania.</seg>
       </tuv>
     </tu>
     <tu>
