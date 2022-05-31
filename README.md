@@ -17,7 +17,7 @@ When following that instruction, in p.8 the user may select all the permissions.
 6. Step 3 above needs to be done only once. After that you need to open the project from the location where it was saved.
 7. In case the project fails to open or synchronize with the server, just redownload it again (step 3 above) into a new location. The old location then can be deleted (but before you delete it, make sure to open the project from the new location and to check that all your previous work had been saved). 
 
-# How to test ongoing translation
+# How to test the ongoing translation
 
 To properly test the UI translation, you *must* use a version of OmegaT that corresponds to the UI file version that you translate. Otherwise, when you ask OmegaT to run with that translated file (which is the procedure we describe here) OmegaT will refuse to run because some UI strings do not correspond to what its UI requires.
 
