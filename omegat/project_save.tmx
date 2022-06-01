@@ -7185,8 +7185,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="en">
         <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
       </tuv>
-      <tuv lang="pl" changeid="2021ILS2022" changedate="20220505T115643Z" creationid="2021ILS2022" creationdate="20220505T115643Z">
-        <seg>Zaznacz znaki kontroli alagorytmu unicode-bidi</seg>
+      <tuv lang="pl" changeid="student" changedate="20220601T140358Z" creationid="2021ILS2022" creationdate="20220505T115643Z">
+        <seg>Zaznacz znaki kontroli algorytmu unicode-bidi</seg>
       </tuv>
     </tu>
     <tu>
