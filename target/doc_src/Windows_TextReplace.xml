@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<section id="windows.textreplace">
+  <title>Zastąpienie tekstu</title>
+
+  <para>Open the Search and replace window with <keycombo>
+      <keycap>Ctrl</keycap>
+
+      <keycap>K</keycap>
+    </keycombo> and enter the word or expression you wish to replace in the
+  <guilabel>Search for</guilabel> box.</para>
+
+  <para>Then click on <guibutton>Search</guibutton> button to display all the
+  corresponding occurrences.</para>
+
+  <para>Enter the new word or phrase (regular expressions are not supported)
+  in the <guilabel>Replace with</guilabel> box, then click one of the
+  following options: <itemizedlist>
+      <listitem>
+        <para><guilabel>Replace All</guilabel>: operates
+        replacement of all occurrences (after displaying a confirmation window
+        where the number of occurrences is shown).</para>
+      </listitem>
+    </itemizedlist><itemizedlist>
+      <listitem>
+        <para><guilabel>Replace:</guilabel> operates a &quot;one by
+        one&quot; replacement, by the mean of buttons in the header of the Editor pane. Click
+        <guilabel>Replace Next</guilabel> or <guilabel>Skip</guilabel>, then
+        end the replacement session with <guilabel>Finish</guilabel>.</para>
+      </listitem>
+    </itemizedlist><itemizedlist>
+      <listitem>
+        <para><guilabel>Close</guilabel>: close the window without
+        any change.</para>
+      </listitem>
+    </itemizedlist></para>
+
+  <section>
+    <title>Search options</title>
+
+    <para>Search options are similar to the ones displayed in <link linkend="windows.textsearch">Search window</link>.</para>
+
+    <para>Except one: check <guilabel>Untranslated</guilabel> in
+    order to operate Search and replace also on segments that have not been
+    translated yet.</para>
+
+    <para>To make it possible (although Search and replace operates only on
+    memory), OmegaT will copy the source segment to the target segment before
+    the replace operation occurs. If no replacement is done to a given
+    segment, the target segment will be “emptied”, i.e., it will remain
+    untranslated.</para>
+  </section>
+</section>
