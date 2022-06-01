@@ -3443,8 +3443,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="en">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
       </tuv>
-      <tuv lang="pl" changeid="agrze" changedate="20220511T131400Z" creationid="agrze" creationdate="20220501T110745Z">
-        <seg>Uwzględnij i zabezpiecz teksty oraz niestandardowe tagi w statystykach</seg>
+      <tuv lang="pl" changeid="agrze" changedate="20220601T142807Z" creationid="agrze" creationdate="20220501T110745Z">
+        <seg>Uwzględnij i zabezpiecz teksty oraz niestandardowe znaczniki w statystykach</seg>
       </tuv>
     </tu>
     <tu>
@@ -4003,8 +4003,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="en">
         <seg>Do not allow creating translated documents with tag &amp;issues</seg>
       </tuv>
-      <tuv lang="pl" changeid="agrze" changedate="20220501T110643Z" creationid="student" creationdate="20220427T140029Z">
-        <seg>Nie zezwalaj na tworzenie dokumentów docelowych z tagami i problemami</seg>
+      <tuv lang="pl" changeid="agrze" changedate="20220601T142758Z" creationid="student" creationdate="20220427T140029Z">
+        <seg>Nie zezwalaj na tworzenie dokumentów docelowych ze znacznikami i problemami</seg>
       </tuv>
     </tu>
     <tu>
@@ -13134,8 +13134,8 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       <tuv lang="en">
         <seg>Warning: Changing tag order may break the translated document!</seg>
       </tuv>
-      <tuv lang="pl" changeid="agrze" changedate="20220501T110441Z" creationid="student" creationdate="20220427T135852Z">
-        <seg>Uwaga: Zmiana kolejności tagów może spowodować, że przetłumaczony dokument nie będzie nadawał się do użytku!</seg>
+      <tuv lang="pl" changeid="agrze" changedate="20220601T142748Z" creationid="student" creationdate="20220427T135852Z">
+        <seg>Uwaga: Zmiana kolejności znaczników może spowodować, że przetłumaczony dokument nie będzie nadawał się do użytku!</seg>
       </tuv>
     </tu>
     <tu>
