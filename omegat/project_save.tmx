@@ -616,8 +616,8 @@
       <tuv lang="en">
         <seg>&amp;Launch local server</seg>
       </tuv>
-      <tuv lang="pl" changeid="jarosz" changedate="20220510T235948Z" creationid="jarosz" creationdate="20220510T235948Z">
-        <seg>&amp;Uruchomienie lokalnego serwera</seg>
+      <tuv lang="pl" changeid="jarosz" changedate="20220608T131613Z" creationid="jarosz" creationdate="20220510T235948Z">
+        <seg>Uruchomienie &amp;lokalnego serwera</seg>
       </tuv>
     </tu>
     <tu>
