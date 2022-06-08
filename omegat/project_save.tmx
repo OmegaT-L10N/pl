@@ -6656,8 +6656,8 @@ w katalogu konfiguracji.</seg>
       <tuv lang="en">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122406Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220513T102933Z">
-        <seg>[fuzzy]Przejdź do ostatnio modyfikowanego segmentu...</seg>
+      <tuv lang="pl" changeid="jarosz" changedate="20220608T130807Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220513T102933Z">
+        <seg>Przejdź do ostatnio modyfikowanego segmentu...</seg>
       </tuv>
     </tu>
     <tu>
