@@ -13110,8 +13110,8 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       <tuv lang="en">
         <seg>Warning</seg>
       </tuv>
-      <tuv lang="pl" changeid="mademoiselleqwerty" changedate="20220418T090000Z" creationid="mademoiselleqwerty" creationdate="20220405T171249Z">
-        <seg>Ostrzeżenie</seg>
+      <tuv lang="pl" changeid="jarosz" changedate="20220608T131134Z" creationid="mademoiselleqwerty" creationdate="20220405T171249Z">
+        <seg>Uwaga</seg>
       </tuv>
     </tu>
     <tu>
