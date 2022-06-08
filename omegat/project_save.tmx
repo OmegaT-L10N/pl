@@ -208,8 +208,8 @@
       <tuv lang="en">
         <seg>&amp;Browse...</seg>
       </tuv>
-      <tuv lang="pl" changeid="jarosz" changedate="20220510T221255Z" creationid="jarosz" creationdate="20220510T221255Z">
-        <seg>&amp;Przeglądaj...</seg>
+      <tuv lang="pl" changeid="jarosz" changedate="20220608T131400Z" creationid="jarosz" creationdate="20220510T221255Z">
+        <seg>P&amp;rzeglądaj...</seg>
       </tuv>
     </tu>
     <tu>
@@ -576,8 +576,8 @@
       <tuv lang="en">
         <seg>&amp;Install new dictionary...</seg>
       </tuv>
-      <tuv lang="pl" changeid="jarosz" changedate="20220510T235559Z" creationid="jarosz" creationdate="20220510T221258Z">
-        <seg>&amp;Zainstaluj nowy słownik...</seg>
+      <tuv lang="pl" changeid="jarosz" changedate="20220608T131406Z" creationid="jarosz" creationdate="20220510T221258Z">
+        <seg>Za&amp;instaluj nowy słownik...</seg>
       </tuv>
     </tu>
     <tu>
