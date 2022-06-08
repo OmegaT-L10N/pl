@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13707,7 +13707,7 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
       <tuv lang="en">
         <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
       </tuv>
-      <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20220521T122402Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220513T100004Z">
+      <tuv lang="pl" changeid="student" changedate="20220608T141555Z" creationid="Maria Rombel-Kuśmierska" creationdate="20220513T100004Z">
         <seg>[fuzzy]{0} ({1} pozostało) / {2} ({3} pozostało), {4}</seg>
       </tuv>
     </tu>
