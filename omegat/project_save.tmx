@@ -13648,6 +13648,14 @@ na utworzenie swojego katalogu konfiguracyjnego.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>segment 0000</seg>
+      </tuv>
+      <tuv lang="pl" changeid="jarosz" changedate="20220608T130829Z" creationid="jarosz" creationdate="20220608T130829Z">
+        <seg>Segment 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>slf4j (MIT License)</seg>
       </tuv>
       <tuv lang="pl" changeid="Aalebazi" changedate="20220506T112630Z" creationid="Aalebazi" creationdate="20220506T112625Z">
