@@ -12943,8 +12943,8 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       <tuv lang="EN">
         <seg>Use &amp;stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T105004Z" creationid="mademoiselleqwerty" creationdate="20220418T105004Z">
-        <seg>Użyj lematyzacji dla haseł glosariusza</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220614T172338Z" creationid="mademoiselleqwerty" creationdate="20220418T105004Z">
+        <seg>Użyj tokenizacji dla haseł glosariusza</seg>
       </tuv>
     </tu>
     <tu>
