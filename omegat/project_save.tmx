@@ -3476,8 +3476,8 @@ Inny wybierz napitek.</seg>
       <tuv lang="EN">
         <seg>Create Current Translated &amp;Document</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T092513Z" creationid="mademoiselleqwerty" creationdate="20220418T092513Z">
-        <seg>Utwórz aktualnie tłumaczony dokument</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220614T171843Z" creationid="mademoiselleqwerty" creationdate="20220418T092513Z">
+        <seg>Utwórz bieżący dokument</seg>
       </tuv>
     </tu>
     <tu>
@@ -9770,8 +9770,8 @@ Prosta wiadomość: „nie znaleziono strony”</seg>
       <tuv lang="EN">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
-      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220418T095351Z" creationid="mademoiselleqwerty" creationdate="20220418T095351Z">
-        <seg>Zamień używając tłumaczenia maszynowego</seg>
+      <tuv lang="PL" changeid="mademoiselleqwerty" changedate="20220614T172047Z" creationid="mademoiselleqwerty" creationdate="20220418T095351Z">
+        <seg>Zamień, używając tłumaczenia maszynowego</seg>
       </tuv>
     </tu>
     <tu>
