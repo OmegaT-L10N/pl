@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1546,6 +1546,14 @@ w trybie projektu zespołowego.)</seg>
       </tuv>
       <tuv lang="pl" changeid="studentILS10" changedate="20220504T175116Z" creationid="studentILS10" creationdate="20220504T175116Z">
         <seg>1 konflikt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1 segment</seg>
+      </tuv>
+      <tuv lang="pl" changeid="jarosz" changedate="20220615T141143Z" creationid="jarosz" creationdate="20220615T141143Z">
+        <seg>Segment 0000</seg>
       </tuv>
     </tu>
     <tu>
