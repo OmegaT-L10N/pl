@@ -12838,8 +12838,8 @@ Wyszukiwanie dokładne szuka całą frazę.</seg>
       <tuv lang="en">
         <seg>Untranslated segments &amp;only</seg>
       </tuv>
-      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220518T132716Z" creationid="kasiawinciorek" creationdate="20220518T132716Z">
-        <seg>Tylko &amp;nieptrzetłumaczone segmenty</seg>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220615T134623Z" creationid="kasiawinciorek" creationdate="20220518T132716Z">
+        <seg>Tylko &amp;nieprzetłumaczone segmenty</seg>
       </tuv>
     </tu>
     <tu>
