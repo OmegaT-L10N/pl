@@ -10612,8 +10612,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="en">
         <seg>Select issue types to check.</seg>
       </tuv>
-      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135148Z" creationid="kasiawinciorek" creationdate="20220511T135148Z">
-        <seg>Wybierz rodzaj problemu, który powinien być zbadany.</seg>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220615T134237Z" creationid="kasiawinciorek" creationdate="20220511T135148Z">
+        <seg>Wybierz rodzaj problemu, który powinien być sprawdzony.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11436,8 +11436,8 @@ Zakres wyszukiwania domyślnie obejmuje cały projekt i może zostać ograniczon
       <tuv lang="en">
         <seg>Tag Issues</seg>
       </tuv>
-      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T133537Z" creationid="kasiawinciorek" creationdate="20220511T133400Z">
-        <seg>Problemy ze znakowaniem</seg>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220615T134046Z" creationid="kasiawinciorek" creationdate="20220511T133400Z">
+        <seg>Problemy ze znacznikami</seg>
       </tuv>
     </tu>
     <tu>
