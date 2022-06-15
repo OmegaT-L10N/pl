@@ -5549,8 +5549,8 @@ Niestety, strona nie istnieje...</seg>
       <tuv lang="en">
         <seg>General</seg>
       </tuv>
-      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T141140Z" creationid="kasiawinciorek" creationdate="20220511T141140Z">
-        <seg>Ogóle</seg>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220615T134608Z" creationid="kasiawinciorek" creationdate="20220511T141140Z">
+        <seg>Ogólne</seg>
       </tuv>
     </tu>
     <tu>
@@ -8323,8 +8323,8 @@ Odeszła do raju</seg>
       <tuv lang="en">
         <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
       </tuv>
-      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220511T135928Z" creationid="kasiawinciorek" creationdate="20220511T135928Z">
-        <seg>OmegaT może wygenerować i przechowywać hasło główne, dzięki czemu nie musisz go za każdym razem wpisywać. Takie rozwiązanie jest jednak mniej bezpieczne.</seg>
+      <tuv lang="pl" changeid="kasiawinciorek" changedate="20220615T134444Z" creationid="kasiawinciorek" creationdate="20220511T135928Z">
+        <seg>OmegaT może wygenerować i przechowywać hasło główne, dzięki czemu nie musisz go za każdym razem wpisywać, ale takie rozwiązanie jest jednak mniej bezpieczne.</seg>
       </tuv>
     </tu>
     <tu>
