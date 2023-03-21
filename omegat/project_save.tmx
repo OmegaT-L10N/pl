@@ -113,8 +113,8 @@
       <tuv lang="EN">
         <seg>All</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161520Z" creationid="biegajacy-zajac" creationdate="20230321T161520Z">
-        <seg>All</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165147Z" creationid="biegajacy-zajac" creationdate="20230321T161520Z">
+        <seg>Wszystkol</seg>
       </tuv>
     </tu>
     <tu>
@@ -235,8 +235,8 @@
       <tuv lang="EN">
         <seg>Check {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161522Z" creationid="biegajacy-zajac" creationdate="20230321T161522Z">
-        <seg>Check {0}</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165156Z" creationid="biegajacy-zajac" creationdate="20230321T161522Z">
+        <seg>Sprawdź {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -343,6 +343,22 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T163902Z" creationid="biegajacy-zajac" creationdate="20230321T161512Z">
         <seg>Opis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionaries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164616Z" creationid="biegajacy-zajac" creationdate="20230321T164616Z">
+        <seg>Słowniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164626Z" creationid="biegajacy-zajac" creationdate="20230321T164626Z">
+        <seg>Słownik</seg>
       </tuv>
     </tu>
     <tu>
@@ -571,6 +587,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164822Z" creationid="biegajacy-zajac" creationdate="20230321T164822Z">
+        <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT options:</seg>
       </tuv>
       <tuv lang="PL" changeid="Dell" changedate="20230321T142210Z" creationid="Dell" creationdate="20230321T142210Z">
@@ -749,6 +773,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skip</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164758Z" creationid="biegajacy-zajac" creationdate="20230321T164758Z">
+        <seg>Pomiń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So&amp;urce Files...</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230321T160951Z" creationid="janmars" creationdate="20230321T160951Z">
@@ -767,8 +799,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Spelling Issues</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161524Z" creationid="biegajacy-zajac" creationdate="20230321T161524Z">
-        <seg>Spelling Issues</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165340Z" creationid="biegajacy-zajac" creationdate="20230321T161524Z">
+        <seg>Błędy ortograficzne</seg>
       </tuv>
     </tu>
     <tu>
@@ -939,6 +971,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145422Z" creationid="tobkub" creationdate="20230321T145422Z">
         <seg>Unique Words</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;fuzzy matching</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164752Z" creationid="biegajacy-zajac" creationdate="20230321T164752Z">
+        <seg>Use &amp;fuzzy matching</seg>
       </tuv>
     </tu>
     <tu>
