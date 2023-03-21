@@ -160,6 +160,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Bidi Control C&amp;haracter</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230321T142047Z" creationid="klaudiakempa" creationdate="20230321T142047Z">
+        <seg>Insert Bidi Control C&amp;haracter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insufficient permissions for project dir {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145902Z" creationid="tobkub" creationdate="20230321T145700Z">
