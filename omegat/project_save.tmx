@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -58,6 +58,14 @@
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230321T161217Z" creationid="MS" creationdate="20230321T161217Z">
         <seg>&amp;Zapisz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show in Editor context menu</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170547Z" creationid="littlewhitedirect" creationdate="20230321T170547Z">
+        <seg>&amp;Show in Editor context menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -209,6 +217,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Assign &amp;shortcut</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170603Z" creationid="littlewhitedirect" creationdate="20230321T170603Z">
+        <seg>Przypisz &amp;skrót</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-text file (*.autotext)</seg>
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230321T164832Z" creationid="MS" creationdate="20230321T164832Z">
@@ -285,6 +301,14 @@
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165156Z" creationid="biegajacy-zajac" creationdate="20230321T161522Z">
         <seg>Sprawdź {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170347Z" creationid="littlewhitedirect" creationdate="20230321T170321Z">
+        <seg>Polecenie</seg>
       </tuv>
     </tu>
     <tu>
@@ -411,6 +435,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Delimiter</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170327Z" creationid="littlewhitedirect" creationdate="20230321T170327Z">
+        <seg>Separator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Description</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T163902Z" creationid="biegajacy-zajac" creationdate="20230321T161512Z">
@@ -463,6 +495,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T170415Z" creationid="biegajacy-zajac" creationdate="20230321T170415Z">
         <seg>Double-check and try again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encoding</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170314Z" creationid="littlewhitedirect" creationdate="20230321T170314Z">
+        <seg>Kodowanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -679,6 +719,14 @@ additional steps need to be taken.</seg>
         <seg>Name</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170008Z" creationid="littlewhitedirect" creationdate="20230321T165905Z">
+        <seg>Nazwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170337Z" creationid="littlewhitedirect" creationdate="20230321T170331Z">
         <seg>Nazwa</seg>
       </tuv>
     </tu>
@@ -935,6 +983,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shortcut:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170544Z" creationid="littlewhitedirect" creationdate="20230321T170544Z">
+        <seg>Skrót</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164758Z" creationid="biegajacy-zajac" creationdate="20230321T164758Z">
@@ -947,6 +1003,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230321T160951Z" creationid="janmars" creationdate="20230321T160951Z">
         <seg>So&amp;urce Files...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170537Z" creationid="littlewhitedirect" creationdate="20230321T170333Z">
+        <seg>Określ mnemonik za pomocą "&amp;": "F&amp;oobar" aby użyć O</seg>
       </tuv>
     </tu>
     <tu>
@@ -995,6 +1059,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165453Z" creationid="biegajacy-zajac" creationdate="20230321T161529Z">
         <seg>Znaczniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170307Z" creationid="littlewhitedirect" creationdate="20230321T170307Z">
+        <seg>Tłumaczenie</seg>
       </tuv>
     </tu>
     <tu>
@@ -1123,8 +1195,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>URL</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170245Z" creationid="littlewhitedirect" creationdate="20230321T170245Z">
-        <seg>[fuzzy] URL</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170343Z" creationid="littlewhitedirect" creationdate="20230321T170245Z">
+        <seg>URL</seg>
       </tuv>
     </tu>
     <tu>
