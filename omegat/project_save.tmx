@@ -6,6 +6,31 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Access Project Contents</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230321T160955Z" creationid="janmars" creationdate="20230321T160955Z">
+        <seg>&amp;Access Project Contents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Properties...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230321T160949Z" creationid="janmars" creationdate="20230321T160949Z">
+        <seg>&amp;Properties...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(You will still able to use OmegaT
+3.6 to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230321T161444Z" creationid="janmars" creationdate="20230321T161402Z">
+        <seg>sdfsdfffffffffffffff</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>,</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161525Z" creationid="biegajacy-zajac" creationdate="20230321T161525Z">
@@ -120,6 +145,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;urrent Target File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230321T161003Z" creationid="janmars" creationdate="20230321T161003Z">
+        <seg>C&amp;urrent Target File</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145934Z" creationid="tobkub" creationdate="20230321T145921Z">
@@ -156,6 +189,24 @@
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145334Z" creationid="tobkub" creationdate="20230321T145334Z">
         <seg>Completed and current translations saved as {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Connection available, the project is in team project mode.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230321T161340Z" creationid="janmars" creationdate="20230321T161340Z">
+        <seg>Connection available, the project is in team project mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230321T161536Z" creationid="janmars" creationdate="20230321T161536Z">
+        <seg>Contact your project administrator to find out if any
+additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -264,10 +315,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool: An error occurred during check.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230321T161323Z" creationid="janmars" creationdate="20230321T161323Z">
+        <seg>LanguageTool: An error occurred during check.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T150100Z" creationid="tobkub" creationdate="20230321T145635Z">
         <seg>Języki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Machine translate highlight</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230321T161325Z" creationid="janmars" creationdate="20230321T161325Z">
+        <seg>Machine translate highlight</seg>
       </tuv>
     </tu>
     <tu>
@@ -312,6 +379,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-breakable spaces</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230321T161330Z" creationid="janmars" creationdate="20230321T161330Z">
+        <seg>Non-breakable spaces</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230321T142308Z" creationid="luizakolosa" creationdate="20230321T142308Z">
@@ -344,6 +419,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugin successfully loaded from class '{0}'</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230321T161319Z" creationid="janmars" creationdate="20230321T161319Z">
+        <seg>Plugin successfully loaded from class '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Post-processing commands completed.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145336Z" creationid="tobkub" creationdate="20230321T145336Z">
@@ -352,10 +435,36 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press 'Cancel' to leave the project unmodified and load it as a local
+project without team functionality.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230321T161447Z" creationid="janmars" creationdate="20230321T161447Z">
+        <seg>Press 'Cancel' to leave the project unmodified and load it as a local
+project without team functionality.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press 'OK' to convert the project into a 4.x team project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230321T161353Z" creationid="janmars" creationdate="20230321T161353Z">
+        <seg>Press 'OK' to convert the project into a 4.x team project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Properties</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145625Z" creationid="tobkub" creationdate="20230321T145625Z">
         <seg>Właściwości projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project conversion successful.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230321T161405Z" creationid="janmars" creationdate="20230321T161405Z">
+        <seg>Project conversion successful.</seg>
       </tuv>
     </tu>
     <tu>
@@ -392,6 +501,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Searches can also be performed on a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230321T161018Z" creationid="janmars" creationdate="20230321T161018Z">
+        <seg>Searches can also be performed on a specified folder hierarchy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Help &gt; User Manual for details, including available Java options.</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230321T144441Z" creationid="leoi23" creationdate="20230321T144441Z">
@@ -404,6 +521,14 @@
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161512Z" creationid="biegajacy-zajac" creationdate="20230321T161512Z">
         <seg>Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So&amp;urce Files...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230321T160951Z" creationid="janmars" creationdate="20230321T160951Z">
+        <seg>So&amp;urce Files...</seg>
       </tuv>
     </tu>
     <tu>
@@ -444,6 +569,22 @@
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161529Z" creationid="biegajacy-zajac" creationdate="20230321T161529Z">
         <seg>Tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The project cannot be verified</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230321T161337Z" creationid="janmars" creationdate="20230321T161337Z">
+        <seg>The project cannot be verified</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The project will be loaded as a local project without team functionality.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230321T161345Z" creationid="janmars" creationdate="20230321T161345Z">
+        <seg>The project will be loaded as a local project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
@@ -496,10 +637,28 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translator comments:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230321T161334Z" creationid="janmars" creationdate="20230321T161334Z">
+        <seg>Translator comments:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161512Z" creationid="biegajacy-zajac" creationdate="20230321T161512Z">
         <seg>Type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Types:
+Exact searches match the whole search string.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230321T161312Z" creationid="janmars" creationdate="20230321T161312Z">
+        <seg>Types:
+Exact searches match the whole search string.</seg>
       </tuv>
     </tu>
     <tu>
@@ -528,6 +687,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Whitespaces</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230321T161326Z" creationid="janmars" creationdate="20230321T161326Z">
+        <seg>Whitespaces</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Wildcards:
 Both exact and keyword searches support the * and ?</seg>
       </tuv>
@@ -550,6 +717,14 @@ Both exact and keyword searches support the * and ?</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161529Z" creationid="biegajacy-zajac" creationdate="20230321T161529Z">
         <seg>{0} x{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230321T160947Z" creationid="janmars" creationdate="20230321T160947Z">
+        <seg>{0} {1}</seg>
       </tuv>
     </tu>
     <tu>
