@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -195,8 +195,8 @@
       <tuv lang="EN">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
-      <tuv lang="PL" changeid="JU" changedate="20230321T161057Z" creationid="JU" creationdate="20230321T161057Z">
-        <seg>An item named "{0}" already exists in this location.</seg>
+      <tuv lang="PL" changeid="JU" changedate="20230321T174613Z" creationid="JU" creationdate="20230321T161057Z">
+        <seg>jjjjAn item named "{0}" already exists in this location.</seg>
       </tuv>
     </tu>
     <tu>
@@ -491,6 +491,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you want to replace it with the one you're moving?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230321T161758Z" creationid="JU" creationdate="20230321T161758Z">
+        <seg>Do you want to replace it with the one you're moving?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Don't Ask What to Check First</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161523Z" creationid="biegajacy-zajac" creationdate="20230321T161523Z">
@@ -503,6 +511,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T170415Z" creationid="biegajacy-zajac" creationdate="20230321T170415Z">
         <seg>Double-check and try again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop a project here to open it.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230321T161808Z" creationid="JU" creationdate="20230321T161808Z">
+        <seg>Drop a project here to open it.</seg>
       </tuv>
     </tu>
     <tu>
