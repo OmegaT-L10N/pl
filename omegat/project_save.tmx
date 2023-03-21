@@ -64,8 +64,8 @@
       <tuv lang="EN">
         <seg>&amp;Ignore matches with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201148Z" creationid="biegajacy-zajac" creationdate="20230321T201148Z">
-        <seg>Ignoruj dopasowania z silnie różniącymi się dużymi i małymi literami (np. FOO vs. foo) </seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T205852Z" creationid="biegajacy-zajac" creationdate="20230321T201148Z">
+        <seg>Ignoruj dopasowania z bardzo różniącymi się dużymi i małymi literami (np. FOO vs. foo) </seg>
       </tuv>
     </tu>
     <tu>
@@ -986,8 +986,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Match term groups even if the terms appear separately</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195739Z" creationid="biegajacy-zajac" creationdate="20230321T195739Z">
-        <seg>Match term groups even if the terms appear separately</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T205645Z" creationid="biegajacy-zajac" creationdate="20230321T195739Z">
+        <seg>Dopasuj grupy terminów, nawet jeśli pojawiają się osobno</seg>
       </tuv>
     </tu>
     <tu>
@@ -1775,8 +1775,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Use &amp;stemming</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T200942Z" creationid="biegajacy-zajac" creationdate="20230321T200942Z">
-        <seg>Use &amp;stemming</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T210401Z" creationid="biegajacy-zajac" creationdate="20230321T200942Z">
+        <seg>Użyj lematyzacji</seg>
       </tuv>
     </tu>
     <tu>
