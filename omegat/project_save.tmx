@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -197,6 +197,46 @@
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161522Z" creationid="biegajacy-zajac" creationdate="20230321T161522Z">
         <seg>Check {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command delimiter is empty</seg>
+      </tuv>
+      <tuv lang="PL" changeid="oladp" changedate="20230321T161915Z" creationid="oladp" creationdate="20230321T161915Z">
+        <seg>Command delimiter is empty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="PL" changeid="oladp" changedate="20230321T161750Z" creationid="oladp" creationdate="20230321T161125Z">
+        <seg>Polecenie nie zawiera "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing delimiter</seg>
+      </tuv>
+      <tuv lang="PL" changeid="oladp" changedate="20230321T161838Z" creationid="oladp" creationdate="20230321T161838Z">
+        <seg>Command is missing delimiter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing encoding</seg>
+      </tuv>
+      <tuv lang="PL" changeid="oladp" changedate="20230321T161801Z" creationid="oladp" creationdate="20230321T161801Z">
+        <seg>Command is missing encoding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing target</seg>
+      </tuv>
+      <tuv lang="PL" changeid="oladp" changedate="20230321T161759Z" creationid="oladp" creationdate="20230321T161205Z">
+        <seg>Command is missing target </seg>
       </tuv>
     </tu>
     <tu>
