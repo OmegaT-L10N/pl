@@ -744,8 +744,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>General</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195145Z" creationid="biegajacy-zajac" creationdate="20230321T195145Z">
-        <seg>General</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T204811Z" creationid="biegajacy-zajac" creationdate="20230321T195145Z">
+        <seg>Ogólne</seg>
       </tuv>
     </tu>
     <tu>
@@ -792,8 +792,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194007Z" creationid="biegajacy-zajac" creationdate="20230321T194007Z">
-        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T204921Z" creationid="biegajacy-zajac" creationdate="20230321T194007Z">
+        <seg>Jeśli sprawdzanie problemów jest powolne, spróbuj wyłączyć niektóre z opcjonalnych </seg>
       </tuv>
     </tu>
     <tu>
@@ -1171,6 +1171,14 @@ additional steps need to be taken.</seg>
         <seg>Preferences</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195903Z" creationid="biegajacy-zajac" creationdate="20230321T195903Z">
+        <seg>Preferencje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences - {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T204823Z" creationid="biegajacy-zajac" creationdate="20230321T204823Z">
         <seg>Preferencje</seg>
       </tuv>
     </tu>
