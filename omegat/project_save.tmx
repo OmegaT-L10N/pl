@@ -1066,8 +1066,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>OmegaT Default</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T200838Z" creationid="biegajacy-zajac" creationdate="20230321T200838Z">
-        <seg>OmegaT Default</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T203737Z" creationid="biegajacy-zajac" creationdate="20230321T200838Z">
+        <seg>Docelowa OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -1090,8 +1090,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>OmegaT default theme</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201348Z" creationid="biegajacy-zajac" creationdate="20230321T201348Z">
-        <seg>OmegaT default theme</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T203747Z" creationid="biegajacy-zajac" creationdate="20230321T201348Z">
+        <seg>Docelowy motyw OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -1250,12 +1250,12 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Zmiana szyku po polsku lepiej brzmi - czy tak możemy zrobić?</note>
+      <note>Zmiana szyku po polsku lepiej brzmi - czy tak możemy zrobić? Czy przed "OmegaT" dodawać słowo 'program'?</note>
       <tuv lang="EN">
         <seg>Restart OmegaT to apply these changes</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195945Z" creationid="biegajacy-zajac" creationdate="20230321T194935Z">
-        <seg>Aby zastosować te zmiany, ponownie uruchom program OmegaT</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T203730Z" creationid="biegajacy-zajac" creationdate="20230321T194935Z">
+        <seg>Aby zastosować te zmiany, ponownie uruchom OmegaT</seg>
       </tuv>
     </tu>
     <tu>
