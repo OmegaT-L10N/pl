@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -243,8 +243,8 @@
       <tuv lang="EN">
         <seg>Command delimiter is empty</seg>
       </tuv>
-      <tuv lang="PL" changeid="oladp" changedate="20230321T161915Z" creationid="oladp" creationdate="20230321T161915Z">
-        <seg>Command delimiter is empty</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165427Z" creationid="oladp" creationdate="20230321T161915Z">
+        <seg>Separator polecenia jest pusty</seg>
       </tuv>
     </tu>
     <tu>
@@ -267,24 +267,32 @@
       <tuv lang="EN">
         <seg>Command is missing delimiter</seg>
       </tuv>
-      <tuv lang="PL" changeid="oladp" changedate="20230321T161838Z" creationid="oladp" creationdate="20230321T161838Z">
-        <seg>Command is missing delimiter</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165409Z" creationid="oladp" creationdate="20230321T161838Z">
+        <seg>Polecenie nie zawiera separatora</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Command is missing encoding</seg>
       </tuv>
-      <tuv lang="PL" changeid="oladp" changedate="20230321T161801Z" creationid="oladp" creationdate="20230321T161801Z">
-        <seg>Command is missing encoding</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165356Z" creationid="oladp" creationdate="20230321T161801Z">
+        <seg>Polecenie nie zawiera kodowania  URL</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Command is missing target</seg>
       </tuv>
-      <tuv lang="PL" changeid="oladp" changedate="20230321T161759Z" creationid="oladp" creationdate="20230321T161205Z">
-        <seg>Command is missing target </seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165113Z" creationid="oladp" creationdate="20230321T161205Z">
+        <seg>Polecenie nie zawiera docelowego adresu URL </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commands</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165554Z" creationid="littlewhitedirect" creationdate="20230321T165554Z">
+        <seg>Polecenia</seg>
       </tuv>
     </tu>
     <tu>
@@ -431,6 +439,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230321T165006Z" creationid="MS" creationdate="20230321T165006Z">
         <seg>Pełny tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Global External Searches</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165727Z" creationid="littlewhitedirect" creationdate="20230321T165727Z">
+        <seg>Zewnętrzne wyszukiwanie globalne</seg>
       </tuv>
     </tu>
     <tu>
@@ -939,6 +955,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165014Z" creationid="littlewhitedirect" creationdate="20230321T165014Z">
         <seg>URL is missing encoding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URLs</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165549Z" creationid="littlewhitedirect" creationdate="20230321T165549Z">
+        <seg>Adresy URL</seg>
       </tuv>
     </tu>
     <tu>
