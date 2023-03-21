@@ -65,8 +65,24 @@
       <tuv lang="EN">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230321T145452Z" creationid="tobkub" creationdate="20230321T145452Z">
-        <seg>C&amp;opy All Data to Clipboard</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T150029Z" creationid="tobkub" creationdate="20230321T145452Z">
+        <seg>Skopiuj wszyskie dane do schowka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot access glossary folder!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145934Z" creationid="tobkub" creationdate="20230321T145921Z">
+        <seg>Katalog glosariusza niedostępny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot create folder for translated files:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T150002Z" creationid="tobkub" creationdate="20230321T150002Z">
+        <seg>Nie można utworzyć katalogu dla plików docelowych:</seg>
       </tuv>
     </tu>
     <tu>
@@ -81,8 +97,8 @@
       <tuv lang="EN">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230321T145825Z" creationid="tobkub" creationdate="20230321T145658Z">
-        <seg>Nie można było utworzyć projekcie na ścieżce {0}</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145910Z" creationid="tobkub" creationdate="20230321T145658Z">
+        <seg>Nie można było utworzyć katalogu projektu {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -121,24 +137,24 @@
       <tuv lang="EN">
         <seg>Insufficient permissions for project dir {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230321T145700Z" creationid="tobkub" creationdate="20230321T145700Z">
-        <seg>Insufficient permissions for project dir {0}</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145902Z" creationid="tobkub" creationdate="20230321T145700Z">
+        <seg>Brak uprawnień do utworzenia katalogu projektu {0}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Languages</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230321T145635Z" creationid="tobkub" creationdate="20230321T145635Z">
-        <seg>Languages</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T150100Z" creationid="tobkub" creationdate="20230321T145635Z">
+        <seg>Języki</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230321T145541Z" creationid="tobkub" creationdate="20230321T145541Z">
-        <seg>Match Statistics</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T150035Z" creationid="tobkub" creationdate="20230321T145541Z">
+        <seg>Statystyka dopasowań</seg>
       </tuv>
     </tu>
     <tu>
@@ -171,6 +187,14 @@
       </tuv>
       <tuv lang="PL" changeid="Dell" changedate="20230321T142210Z" creationid="Dell" creationdate="20230321T142210Z">
         <seg>Licencja OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Orphan segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T150008Z" creationid="tobkub" creationdate="20230321T150008Z">
+        <seg>Segmenty osierocone</seg>
       </tuv>
     </tu>
     <tu>
@@ -217,8 +241,8 @@
       <tuv lang="EN">
         <seg>Se&amp;ntence-level segmenting</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230321T145618Z" creationid="tobkub" creationdate="20230321T145618Z">
-        <seg>Se&amp;ntence-level segmenting</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T150057Z" creationid="tobkub" creationdate="20230321T145618Z">
+        <seg>Segmentowanie na poziomie zdań</seg>
       </tuv>
     </tu>
     <tu>
@@ -265,8 +289,8 @@
       <tuv lang="EN">
         <seg>Total:</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230321T145606Z" creationid="tobkub" creationdate="20230321T145606Z">
-        <seg>Total:</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T150045Z" creationid="tobkub" creationdate="20230321T145606Z">
+        <seg>Wszystkie:</seg>
       </tuv>
     </tu>
     <tu>
