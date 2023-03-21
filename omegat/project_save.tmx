@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated files created</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T142259Z" creationid="tobkub" creationdate="20230321T142259Z">
+        <seg>Pliki docelowo utworzono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Wildcards:
 Both exact and keyword searches support the * and ?</seg>
       </tuv>
