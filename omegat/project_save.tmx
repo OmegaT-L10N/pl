@@ -768,8 +768,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Go to Preferences &gt; Global External Searches to enable them.</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T202703Z" creationid="biegajacy-zajac" creationdate="20230321T202703Z">
-        <seg>Go to Preferences &gt; Global External Searches to enable them.</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T204028Z" creationid="biegajacy-zajac" creationdate="20230321T202703Z">
+        <seg>Aby je włączyć, idź do Preferencje &gt; Zewnętrzne wyszukiwanie globalne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -866,6 +866,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201702Z" creationid="biegajacy-zajac" creationdate="20230321T201702Z">
         <seg>Item is missing scope</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Item name is empty or missing</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T204129Z" creationid="biegajacy-zajac" creationdate="20230321T204129Z">
+        <seg>Nazwa elementu jest pusta lub jej brakuje</seg>
       </tuv>
     </tu>
     <tu>
