@@ -62,6 +62,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore matches with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201148Z" creationid="biegajacy-zajac" creationdate="20230321T201148Z">
+        <seg>Ignoruj dopasowania z silnie różniącymi się dużymi i małymi literami (np. FOO vs. foo) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Layout:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201238Z" creationid="biegajacy-zajac" creationdate="20230321T201238Z">
+        <seg>Układ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Properties...</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230321T160949Z" creationid="janmars" creationdate="20230321T160949Z">
@@ -507,6 +523,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201244Z" creationid="biegajacy-zajac" creationdate="20230321T201244Z">
+        <seg>Domyślny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Delimiter</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170327Z" creationid="littlewhitedirect" creationdate="20230321T170327Z">
@@ -895,6 +919,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Merge alternate definitions of the same term</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201228Z" creationid="biegajacy-zajac" creationdate="20230321T201228Z">
+        <seg>Połącz alternatywne definicje tego samego terminu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170008Z" creationid="littlewhitedirect" creationdate="20230321T165905Z">
@@ -1127,6 +1159,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230321T163736Z" creationid="Maja" creationdate="20230321T163736Z">
         <seg>Zastąp tłumaczenie dopasowaniem lub wyborem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace matches when inserting source text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201032Z" creationid="biegajacy-zajac" creationdate="20230321T201032Z">
+        <seg>Zastąp dopasowania podczas wstawiania tekstu źródłowego</seg>
       </tuv>
     </tu>
     <tu>
