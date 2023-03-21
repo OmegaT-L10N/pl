@@ -56,6 +56,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An item named "{0}" already exists in this location.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230321T161057Z" creationid="JU" creationdate="20230321T161057Z">
+        <seg>An item named "{0}" already exists in this location.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Application Folder</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230321T141706Z" creationid="leoi23" creationdate="20230321T141706Z">
