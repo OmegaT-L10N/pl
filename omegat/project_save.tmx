@@ -894,6 +894,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201616Z" creationid="biegajacy-zajac" creationdate="20230321T201616Z">
+        <seg>Local project commands are disabled for security reasons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Machine Translation</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195248Z" creationid="biegajacy-zajac" creationdate="20230321T195248Z">
