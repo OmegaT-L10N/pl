@@ -1009,8 +1009,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Select Issue Types</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164552Z" creationid="biegajacy-zajac" creationdate="20230321T164552Z">
-        <seg>Select Issue Types</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T193856Z" creationid="biegajacy-zajac" creationdate="20230321T164552Z">
+        <seg>Wybierz typ problemu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1027,6 +1027,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230321T162516Z" creationid="Maja" creationdate="20230321T162516Z">
         <seg>Wybierz plik wtyczki (*.jar, *.zip)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select issue types to check.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T193919Z" creationid="biegajacy-zajac" creationdate="20230321T193919Z">
+        <seg>Wybierz typ problemu do sprawdzenia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1158,11 +1166,12 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Czy: problemy z terminologią (?)</note>
       <tuv lang="EN">
         <seg>Terminology Issues</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161626Z" creationid="biegajacy-zajac" creationdate="20230321T161626Z">
-        <seg>Terminology Issues</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T193805Z" creationid="biegajacy-zajac" creationdate="20230321T161626Z">
+        <seg>Problemy terminologiczne</seg>
       </tuv>
     </tu>
     <tu>
