@@ -644,6 +644,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195145Z" creationid="biegajacy-zajac" creationdate="20230321T195145Z">
+        <seg>General</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Global External Searches</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165834Z" creationid="littlewhitedirect" creationdate="20230321T165727Z">
@@ -968,6 +976,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reload the current project to apply these changes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195111Z" creationid="biegajacy-zajac" creationdate="20230321T194940Z">
+        <seg>Ponownie załaduj bieżący projekt, aby zastosować te zmiany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remaining Characters (w/o spaces)</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145450Z" creationid="tobkub" creationdate="20230321T145450Z">
@@ -994,8 +1010,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Restart OmegaT to apply these changes</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194935Z" creationid="biegajacy-zajac" creationdate="20230321T194935Z">
-        <seg>Ponownie uruchom program OmegaT, żeby zastosować te zmiany.  </seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195040Z" creationid="biegajacy-zajac" creationdate="20230321T194935Z">
+        <seg>Ponownie uruchom program OmegaT, aby zastosować te zmiany</seg>
       </tuv>
     </tu>
     <tu>
