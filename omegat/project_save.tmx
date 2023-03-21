@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Undo Changes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194652Z" creationid="biegajacy-zajac" creationdate="20230321T194652Z">
+        <seg>&amp;Cofnij zmiany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(+{0} more)</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230321T163906Z" creationid="Maja" creationdate="20230321T163906Z">
@@ -566,8 +574,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Enter your password again for confirmation.</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194348Z" creationid="biegajacy-zajac" creationdate="20230321T194348Z">
-        <seg>Ponownie wprowadź hasło w celu potwierdzenia. </seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194539Z" creationid="biegajacy-zajac" creationdate="20230321T194348Z">
+        <seg>Wprowadź hasło ponownie w celu potwierdzenia. </seg>
       </tuv>
     </tu>
     <tu>
@@ -856,8 +864,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164822Z" creationid="biegajacy-zajac" creationdate="20230321T164822Z">
-        <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194621Z" creationid="biegajacy-zajac" creationdate="20230321T164822Z">
+        <seg>OmegaT może generować i przechowywać hasło główne master password so you don't have to enter it each time, but this is much less secure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -984,6 +992,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Restart OmegaT to apply these changes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194935Z" creationid="biegajacy-zajac" creationdate="20230321T194935Z">
+        <seg>Ponownie uruchom program OmegaT, żeby zastosować te zmiany.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore De&amp;faults</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194709Z" creationid="biegajacy-zajac" creationdate="20230321T194709Z">
+        <seg>Przywróć ustawienia domyślne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Se&amp;ntence-level segmenting</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T150057Z" creationid="tobkub" creationdate="20230321T145618Z">
@@ -1034,8 +1058,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Select a Category</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T170440Z" creationid="biegajacy-zajac" creationdate="20230321T170440Z">
-        <seg>Select a Category</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194634Z" creationid="biegajacy-zajac" creationdate="20230321T170440Z">
+        <seg>Wybierz kategorię</seg>
       </tuv>
     </tu>
     <tu>
