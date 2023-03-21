@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1303,6 +1303,14 @@ Both exact and keyword searches support the * and ?</seg>
       <tuv lang="PL" changeid="Hania M" changedate="20230321T141027Z" creationid="Hania M" creationdate="20230321T141027Z">
         <seg>Symbole wieloznaczne
 Both exact and keyword searches support the * and ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must enter a number between 1 and {0}.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230321T143458Z" creationid="luizakolosa" creationdate="20230321T143458Z">
+        <seg>You must enter a number between 1 and {0}.</seg>
       </tuv>
     </tu>
     <tu>
