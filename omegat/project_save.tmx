@@ -1718,8 +1718,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Use &amp;TAB to advance</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195232Z" creationid="biegajacy-zajac" creationdate="20230321T195232Z">
-        <seg>Użyj klawisza TAB, aby przejść do następnego segmentu</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T203114Z" creationid="biegajacy-zajac" creationdate="20230321T195232Z">
+        <seg>TAB zmienia segment</seg>
       </tuv>
     </tu>
     <tu>
