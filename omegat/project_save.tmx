@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Find...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T193415Z" creationid="biegajacy-zajac" creationdate="20230321T193415Z">
+        <seg>&amp;Find...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Properties...</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230321T160949Z" creationid="janmars" creationdate="20230321T160949Z">
@@ -155,6 +163,14 @@
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165354Z" creationid="biegajacy-zajac" creationdate="20230321T161526Z">
         <seg>Dodaj do słownika: “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Align project against {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T193404Z" creationid="biegajacy-zajac" creationdate="20230321T193404Z">
+        <seg>Align project against {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -431,6 +447,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145910Z" creationid="tobkub" creationdate="20230321T145658Z">
         <seg>Nie można było utworzyć katalogu projektu {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom branch</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T193347Z" creationid="biegajacy-zajac" creationdate="20230321T193347Z">
+        <seg>Custom branch</seg>
       </tuv>
     </tu>
     <tu>
@@ -1105,8 +1129,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Tag Issues</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161528Z" creationid="biegajacy-zajac" creationdate="20230321T161528Z">
-        <seg>Tag Issues</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T193651Z" creationid="biegajacy-zajac" creationdate="20230321T161528Z">
+        <seg>Problemy ze znacznikami</seg>
       </tuv>
     </tu>
     <tu>
@@ -1179,6 +1203,18 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230321T163839Z" creationid="Maja" creationdate="20230321T163839Z">
         <seg>Ten projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will
+delete your local data and re-download the project contents from
+the server.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T193349Z" creationid="biegajacy-zajac" creationdate="20230321T193349Z">
+        <seg>This will
+delete your local data and re-download the project contents from
+the server.</seg>
       </tuv>
     </tu>
     <tu>
