@@ -862,10 +862,18 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Item has neither URLs nor commands.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T204303Z" creationid="biegajacy-zajac" creationdate="20230321T204147Z">
+        <seg>Element nie zawiera adresów URL ani poleceń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Item is missing scope</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201702Z" creationid="biegajacy-zajac" creationdate="20230321T201702Z">
-        <seg>Item is missing scope</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T204337Z" creationid="biegajacy-zajac" creationdate="20230321T201702Z">
+        <seg>Element bez zakresu</seg>
       </tuv>
     </tu>
     <tu>
