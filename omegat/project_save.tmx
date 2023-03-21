@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -147,6 +147,14 @@
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165551Z" creationid="biegajacy-zajac" creationdate="20230321T161520Z">
         <seg>Wszystko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allow local external search commands</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170154Z" creationid="littlewhitedirect" creationdate="20230321T170154Z">
+        <seg>Allow local external search commands</seg>
       </tuv>
     </tu>
     <tu>
@@ -381,8 +389,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Context menu priority:</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165923Z" creationid="littlewhitedirect" creationdate="20230321T165923Z">
-        <seg>Context menu priority:</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170137Z" creationid="littlewhitedirect" creationdate="20230321T165923Z">
+        <seg>Priorytet menu kontekstowego:</seg>
       </tuv>
     </tu>
     <tu>
@@ -475,6 +483,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Search Set</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170234Z" creationid="littlewhitedirect" creationdate="20230321T170234Z">
+        <seg>Ustawienia wyszukiwania zewnętrznego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to create project!</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145749Z" creationid="tobkub" creationdate="20230321T143030Z">
@@ -525,8 +541,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>In editor</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165917Z" creationid="littlewhitedirect" creationdate="20230321T165917Z">
-        <seg>In editor</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170035Z" creationid="littlewhitedirect" creationdate="20230321T165917Z">
+        <seg>W edytorze</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,8 +654,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Name</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165905Z" creationid="littlewhitedirect" creationdate="20230321T165905Z">
-        <seg>Name</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170008Z" creationid="littlewhitedirect" creationdate="20230321T165905Z">
+        <seg>Nazwa</seg>
       </tuv>
     </tu>
     <tu>
@@ -881,8 +897,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Sets</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165854Z" creationid="littlewhitedirect" creationdate="20230321T165854Z">
-        <seg>Sets</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165959Z" creationid="littlewhitedirect" creationdate="20230321T165854Z">
+        <seg>Ustawienia</seg>
       </tuv>
     </tu>
     <tu>
@@ -1061,6 +1077,14 @@ Exact searches match the whole search string.</seg>
       <tuv lang="PL" changeid="janmars" changedate="20230321T161312Z" creationid="janmars" creationdate="20230321T161312Z">
         <seg>Types:
 Exact searches match the whole search string.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170245Z" creationid="littlewhitedirect" creationdate="20230321T170245Z">
+        <seg>[fuzzy] URL</seg>
       </tuv>
     </tu>
     <tu>
