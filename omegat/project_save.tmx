@@ -766,6 +766,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to Preferences &gt; Global External Searches to enable them.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T202703Z" creationid="biegajacy-zajac" creationdate="20230321T202703Z">
+        <seg>Go to Preferences &gt; Global External Searches to enable them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to Segment Source</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230321T162709Z" creationid="Maja" creationdate="20230321T162709Z">
@@ -904,8 +912,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Local project commands are disabled for security reasons.</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201616Z" creationid="biegajacy-zajac" creationdate="20230321T201616Z">
-        <seg>Local project commands are disabled for security reasons.</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T202416Z" creationid="biegajacy-zajac" creationdate="20230321T201616Z">
+        <seg>Polecenia projektów lokalnych są wyłączone ze względów bezpieczeństwa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1034,8 +1042,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>None</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T200748Z" creationid="biegajacy-zajac" creationdate="20230321T200748Z">
-        <seg>None</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T202346Z" creationid="biegajacy-zajac" creationdate="20230321T200748Z">
+        <seg>Brak</seg>
       </tuv>
     </tu>
     <tu>
@@ -1044,6 +1052,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230321T142308Z" creationid="luizakolosa" creationdate="20230321T142308Z">
         <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Classic</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T202310Z" creationid="biegajacy-zajac" creationdate="20230321T202310Z">
+        <seg>Klasyczna OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -1060,6 +1076,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194621Z" creationid="biegajacy-zajac" creationdate="20230321T164822Z">
         <seg>OmegaT może generować i przechowywać hasło główne master password so you don't have to enter it each time, but this is much less secure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT classic theme</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T202329Z" creationid="biegajacy-zajac" creationdate="20230321T202329Z">
+        <seg>Klasyczny motyw OmegaT</seg>
       </tuv>
     </tu>
     <tu>
