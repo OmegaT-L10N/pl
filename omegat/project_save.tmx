@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -149,6 +149,14 @@
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145615Z" creationid="tobkub" creationdate="20230321T145615Z">
         <seg>Tablica nie może być pusta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Available languages:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230321T161927Z" creationid="Maja" creationdate="20230321T161927Z">
+        <seg>Dostępne języki:</seg>
       </tuv>
     </tu>
     <tu>
@@ -363,6 +371,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Install</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230321T161815Z" creationid="Maja" creationdate="20230321T161815Z">
+        <seg>Instaluj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insufficient permissions for project dir {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145902Z" creationid="tobkub" creationdate="20230321T145700Z">
@@ -445,8 +461,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>No new languages available at the remote server.</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161451Z" creationid="biegajacy-zajac" creationdate="20230321T161451Z">
-        <seg>No new languages available at the remote server.</seg>
+      <tuv lang="PL" changeid="Maja" changedate="20230321T161910Z" creationid="biegajacy-zajac" creationdate="20230321T161451Z">
+        <seg>Brak nowych języków dostępnych w serwerze zdalnym.</seg>
       </tuv>
     </tu>
     <tu>
@@ -495,6 +511,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T150008Z" creationid="tobkub" creationdate="20230321T150008Z">
         <seg>Segmenty osierocone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plugin Installer</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230321T162230Z" creationid="Maja" creationdate="20230321T162230Z">
+        <seg>Instalator wtyczek</seg>
       </tuv>
     </tu>
     <tu>
@@ -601,6 +625,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161512Z" creationid="biegajacy-zajac" creationdate="20230321T161512Z">
         <seg>Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a plugin file (*.jar, *.zip)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230321T162516Z" creationid="Maja" creationdate="20230321T162516Z">
+        <seg>Wybierz plik wtyczki (*.jar, *.zip)</seg>
       </tuv>
     </tu>
     <tu>
