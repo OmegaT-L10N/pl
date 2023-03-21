@@ -554,11 +554,20 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Podaj/wpisz hasło?</note>
       <tuv lang="EN">
         <seg>Enter your master password.</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T170238Z" creationid="biegajacy-zajac" creationdate="20230321T170137Z">
-        <seg>Wpisz swoje hasło główne. </seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194100Z" creationid="biegajacy-zajac" creationdate="20230321T170137Z">
+        <seg>Podaj swoje hasło główne. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter your password again for confirmation.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194348Z" creationid="biegajacy-zajac" creationdate="20230321T194348Z">
+        <seg>Ponownie wprowadź hasło w celu potwierdzenia. </seg>
       </tuv>
     </tu>
     <tu>
@@ -639,6 +648,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230321T162709Z" creationid="Maja" creationdate="20230321T162709Z">
         <seg>Idź do Segmentu Źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194007Z" creationid="biegajacy-zajac" creationdate="20230321T194007Z">
+        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1178,8 +1195,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>The password cannot be empty.</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T170314Z" creationid="biegajacy-zajac" creationdate="20230321T170314Z">
-        <seg>The password cannot be empty.</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194145Z" creationid="biegajacy-zajac" creationdate="20230321T170314Z">
+        <seg>Hasło nie może być puste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1391,11 +1408,12 @@ Both exact and keyword searches support the * and ?</seg>
       </tuv>
     </tu>
     <tu>
+      <note>OmegiT czy programu OmegaT?</note>
       <tuv lang="EN">
         <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T170141Z" creationid="biegajacy-zajac" creationdate="20230321T170127Z">
-        <seg>Pojawi się komunikat z prośbą o wpisanie tego hasła przy każdym uruchomieniu OmegaT.</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194104Z" creationid="biegajacy-zajac" creationdate="20230321T170127Z">
+        <seg>Pojawi się komunikat z prośbą o podanie tego hasła przy każdym uruchomieniu programu OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
