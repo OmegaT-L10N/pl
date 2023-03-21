@@ -199,6 +199,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ASCII Only</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201358Z" creationid="biegajacy-zajac" creationdate="20230321T201358Z">
+        <seg>Tylko ASCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add to Dictionary: “{0}”</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165354Z" creationid="biegajacy-zajac" creationdate="20230321T161526Z">
@@ -317,6 +325,14 @@
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230321T161927Z" creationid="Maja" creationdate="20230321T161927Z">
         <seg>Dostępne języki:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Both</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201612Z" creationid="biegajacy-zajac" creationdate="20230321T201612Z">
+        <seg>Oba</seg>
       </tuv>
     </tu>
     <tu>
@@ -976,6 +992,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-ASCII Only</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201527Z" creationid="biegajacy-zajac" creationdate="20230321T201527Z">
+        <seg>Tylko nie-ASCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-breakable spaces</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230321T161330Z" creationid="janmars" creationdate="20230321T161330Z">
@@ -1012,6 +1036,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194621Z" creationid="biegajacy-zajac" creationdate="20230321T164822Z">
         <seg>OmegaT może generować i przechowywać hasło główne master password so you don't have to enter it each time, but this is much less secure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT default theme</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201348Z" creationid="biegajacy-zajac" creationdate="20230321T201348Z">
+        <seg>OmegaT default theme</seg>
       </tuv>
     </tu>
     <tu>
@@ -1630,8 +1662,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Use &amp;fuzzy matching</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164752Z" creationid="biegajacy-zajac" creationdate="20230321T164752Z">
-        <seg>Use &amp;fuzzy matching</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201319Z" creationid="biegajacy-zajac" creationdate="20230321T164752Z">
+        <seg>Zastosuj dopasowanie rozmyte</seg>
       </tuv>
     </tu>
     <tu>
