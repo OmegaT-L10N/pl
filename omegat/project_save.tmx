@@ -23,6 +23,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;opy All Data to Clipboard</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145452Z" creationid="tobkub" creationdate="20230321T145452Z">
+        <seg>C&amp;opy All Data to Clipboard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Completed and current translations saved as {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145334Z" creationid="tobkub" creationdate="20230321T145334Z">
+        <seg>Completed and current translations saved as {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145330Z" creationid="tobkub" creationdate="20230321T145330Z">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Directional Formatting Characters</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230321T141722Z" creationid="leoi23" creationdate="20230321T141722Z">
@@ -43,6 +67,22 @@
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T143030Z" creationid="tobkub" creationdate="20230321T143030Z">
         <seg>Utworzenie nowego projektu nie powiodło się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145403Z" creationid="tobkub" creationdate="20230321T145403Z">
+        <seg>Nazwa pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match Statistics</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145541Z" creationid="tobkub" creationdate="20230321T145541Z">
+        <seg>Match Statistics</seg>
       </tuv>
     </tu>
     <tu>
@@ -71,10 +111,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Post-processing commands completed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145336Z" creationid="tobkub" creationdate="20230321T145336Z">
+        <seg>Post-processing commands completed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project path only: Launch GUI and load specified project.</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230321T143638Z" creationid="leoi23" creationdate="20230321T143638Z">
         <seg>Wczytanie podanego projektu nie powiodło się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145450Z" creationid="tobkub" creationdate="20230321T145450Z">
+        <seg>Remaining Characters (w/o spaces)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Words</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145417Z" creationid="tobkub" creationdate="20230321T145417Z">
+        <seg>Wyrazów pozostało</seg>
       </tuv>
     </tu>
     <tu>
@@ -87,10 +151,66 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Statistics</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145500Z" creationid="tobkub" creationdate="20230321T145500Z">
+        <seg>Statystyki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145432Z" creationid="tobkub" creationdate="20230321T145432Z">
+        <seg>Całkowita liczba znaków (bez spacji)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145407Z" creationid="tobkub" creationdate="20230321T145407Z">
+        <seg>Total Segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Words</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145411Z" creationid="tobkub" creationdate="20230321T145411Z">
+        <seg>Całkowita liczba wyrazów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated file created</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145355Z" creationid="tobkub" creationdate="20230321T145355Z">
+        <seg>Translated file created</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated files created</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230321T142259Z" creationid="tobkub" creationdate="20230321T142259Z">
-        <seg>Pliki docelowo utworzono</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145352Z" creationid="tobkub" creationdate="20230321T142259Z">
+        <seg>Utworzono pliki docelowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Words</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145424Z" creationid="tobkub" creationdate="20230321T145424Z">
+        <seg>Unique Remaining Words</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Words</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145422Z" creationid="tobkub" creationdate="20230321T145422Z">
+        <seg>Unique Words</seg>
       </tuv>
     </tu>
     <tu>
