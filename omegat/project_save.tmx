@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -363,8 +363,8 @@
       <tuv lang="EN">
         <seg>Confirm:</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164611Z" creationid="biegajacy-zajac" creationdate="20230321T164611Z">
-        <seg>Confirm:</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T170256Z" creationid="biegajacy-zajac" creationdate="20230321T164611Z">
+        <seg>Zatwierdź:</seg>
       </tuv>
     </tu>
     <tu>
@@ -459,6 +459,22 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-check and try again.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T170415Z" creationid="biegajacy-zajac" creationdate="20230321T170415Z">
+        <seg>Double-check and try again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter your master password.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T170238Z" creationid="biegajacy-zajac" creationdate="20230321T170137Z">
+        <seg>Wpisz swoje hasło główne. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Event: application startup</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230321T143011Z" creationid="leoi23" creationdate="20230321T143011Z">
@@ -543,6 +559,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170035Z" creationid="littlewhitedirect" creationdate="20230321T165917Z">
         <seg>W edytorze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Incorrect password.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T170247Z" creationid="biegajacy-zajac" creationdate="20230321T170247Z">
+        <seg>Hasło nieprawidłowe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -991,6 +1015,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The password cannot be empty.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T170314Z" creationid="biegajacy-zajac" creationdate="20230321T170314Z">
+        <seg>The password cannot be empty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The passwords do not match.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T170320Z" creationid="biegajacy-zajac" creationdate="20230321T170320Z">
+        <seg>Hasła się nie zgadzają.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project cannot be verified</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230321T161337Z" creationid="janmars" creationdate="20230321T161337Z">
@@ -1165,8 +1205,8 @@ Both exact and keyword searches support the * and ?</seg>
       <tuv lang="EN">
         <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T170127Z" creationid="biegajacy-zajac" creationdate="20230321T170127Z">
-        <seg>Pojawi się komunikat z prośbą o podanie tego hasła przy każdym uruchomieniu OmegaT.</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T170141Z" creationid="biegajacy-zajac" creationdate="20230321T170127Z">
+        <seg>Pojawi się komunikat z prośbą o wpisanie tego hasła przy każdym uruchomieniu OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
