@@ -6,6 +6,38 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>50%-74%:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145554Z" creationid="tobkub" creationdate="20230321T145554Z">
+        <seg>50%-74%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>75%-84%:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145550Z" creationid="tobkub" creationdate="20230321T145550Z">
+        <seg>75%-84%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>85%-94%:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145546Z" creationid="tobkub" creationdate="20230321T145546Z">
+        <seg>85%-94%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>95%-100%:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145545Z" creationid="tobkub" creationdate="20230321T145545Z">
+        <seg>95%-100%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while processing an application startup event:
 {0}</seg>
       </tuv>
@@ -19,6 +51,14 @@
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230321T141706Z" creationid="leoi23" creationdate="20230321T141706Z">
         <seg>Katalog glosariuszy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arrays must not be null</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145615Z" creationid="tobkub" creationdate="20230321T145615Z">
+        <seg>Tablica nie może być pusta</seg>
       </tuv>
     </tu>
     <tu>
@@ -41,8 +81,8 @@
       <tuv lang="EN">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230321T145330Z" creationid="tobkub" creationdate="20230321T145330Z">
-        <seg>Could not create project dir at {0}</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145825Z" creationid="tobkub" creationdate="20230321T145658Z">
+        <seg>Nie można było utworzyć projekcie na ścieżce {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -65,8 +105,8 @@
       <tuv lang="EN">
         <seg>Failed to create project!</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230321T143030Z" creationid="tobkub" creationdate="20230321T143030Z">
-        <seg>Utworzenie nowego projektu nie powiodło się!</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145749Z" creationid="tobkub" creationdate="20230321T143030Z">
+        <seg>Utworzenie nowego projektu nie powiodło się</seg>
       </tuv>
     </tu>
     <tu>
@@ -79,10 +119,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145700Z" creationid="tobkub" creationdate="20230321T145700Z">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Languages</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145635Z" creationid="tobkub" creationdate="20230321T145635Z">
+        <seg>Languages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145541Z" creationid="tobkub" creationdate="20230321T145541Z">
         <seg>Match Statistics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No match:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145602Z" creationid="tobkub" creationdate="20230321T145602Z">
+        <seg>Brak dopasowania:</seg>
       </tuv>
     </tu>
     <tu>
@@ -119,6 +183,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Properties</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145625Z" creationid="tobkub" creationdate="20230321T145625Z">
+        <seg>Właściwości projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project path only: Launch GUI and load specified project.</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230321T143638Z" creationid="leoi23" creationdate="20230321T143638Z">
@@ -139,6 +211,14 @@
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145417Z" creationid="tobkub" creationdate="20230321T145417Z">
         <seg>Wyrazów pozostało</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Se&amp;ntence-level segmenting</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145618Z" creationid="tobkub" creationdate="20230321T145618Z">
+        <seg>Se&amp;ntence-level segmenting</seg>
       </tuv>
     </tu>
     <tu>
@@ -183,6 +263,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Total:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145606Z" creationid="tobkub" creationdate="20230321T145606Z">
+        <seg>Total:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated file created</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145355Z" creationid="tobkub" creationdate="20230321T145355Z">
@@ -195,6 +283,14 @@
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145352Z" creationid="tobkub" creationdate="20230321T142259Z">
         <seg>Utworzono pliki docelowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to build new TMX file!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230321T145644Z" creationid="tobkub" creationdate="20230321T145644Z">
+        <seg>Unable to build new TMX file!</seg>
       </tuv>
     </tu>
     <tu>
