@@ -105,8 +105,8 @@
       <tuv lang="EN">
         <seg>Add to Dictionary: “{0}”</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161526Z" creationid="biegajacy-zajac" creationdate="20230321T161526Z">
-        <seg>Add to Dictionary: “{0}”</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165354Z" creationid="biegajacy-zajac" creationdate="20230321T161526Z">
+        <seg>Dodaj do słownika: “{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -155,8 +155,8 @@
       <tuv lang="EN">
         <seg>Apply &amp;Fix</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161621Z" creationid="biegajacy-zajac" creationdate="20230321T161621Z">
-        <seg>Apply &amp;Fix</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165532Z" creationid="biegajacy-zajac" creationdate="20230321T161621Z">
+        <seg>Zastosuj i napraw</seg>
       </tuv>
     </tu>
     <tu>
@@ -445,8 +445,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Ignore: “{0}”</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161528Z" creationid="biegajacy-zajac" creationdate="20230321T161528Z">
-        <seg>Ignore: “{0}”</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165358Z" creationid="biegajacy-zajac" creationdate="20230321T161528Z">
+        <seg>Ignoruj: “{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -823,8 +823,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Tags</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164130Z" creationid="biegajacy-zajac" creationdate="20230321T161529Z">
-        <seg>Tagi</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165453Z" creationid="biegajacy-zajac" creationdate="20230321T161529Z">
+        <seg>Znaczniki</seg>
       </tuv>
     </tu>
     <tu>
