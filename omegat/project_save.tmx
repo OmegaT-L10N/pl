@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14,10 +14,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165921Z" creationid="littlewhitedirect" creationdate="20230321T165921Z">
+        <seg>&amp;Dodaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Edit</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165930Z" creationid="littlewhitedirect" creationdate="20230321T165930Z">
+        <seg>&amp;Edytuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Properties...</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230321T160949Z" creationid="janmars" creationdate="20230321T160949Z">
         <seg>&amp;Properties...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Remove</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165926Z" creationid="littlewhitedirect" creationdate="20230321T165926Z">
+        <seg>&amp;Usuń</seg>
       </tuv>
     </tu>
     <tu>
@@ -339,6 +363,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Context menu priority:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165923Z" creationid="littlewhitedirect" creationdate="20230321T165923Z">
+        <seg>Context menu priority:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145910Z" creationid="tobkub" creationdate="20230321T145658Z">
@@ -445,7 +477,7 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Global External Searches</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165727Z" creationid="littlewhitedirect" creationdate="20230321T165727Z">
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165834Z" creationid="littlewhitedirect" creationdate="20230321T165727Z">
         <seg>Zewnętrzne wyszukiwanie globalne</seg>
       </tuv>
     </tu>
@@ -463,6 +495,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165358Z" creationid="biegajacy-zajac" creationdate="20230321T161528Z">
         <seg>Ignoruj: “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In editor</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165917Z" creationid="littlewhitedirect" creationdate="20230321T165917Z">
+        <seg>In editor</seg>
       </tuv>
     </tu>
     <tu>
@@ -539,6 +579,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local External Searches</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165738Z" creationid="littlewhitedirect" creationdate="20230321T165738Z">
+        <seg>Zewnętrzne wyszukiwanie lokalne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Machine translate highlight</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230321T161325Z" creationid="janmars" creationdate="20230321T161325Z">
@@ -551,6 +599,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T150035Z" creationid="tobkub" creationdate="20230321T145541Z">
         <seg>Statystyka dopasowań</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165905Z" creationid="littlewhitedirect" creationdate="20230321T165905Z">
+        <seg>Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -782,6 +838,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sets</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165854Z" creationid="littlewhitedirect" creationdate="20230321T165854Z">
+        <seg>Sets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shortcut</seg>
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230321T164920Z" creationid="MS" creationdate="20230321T164920Z">
@@ -826,6 +890,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145500Z" creationid="tobkub" creationdate="20230321T145500Z">
         <seg>Statystyki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165904Z" creationid="littlewhitedirect" creationdate="20230321T165904Z">
+        <seg>Podsumowanie</seg>
       </tuv>
     </tu>
     <tu>
