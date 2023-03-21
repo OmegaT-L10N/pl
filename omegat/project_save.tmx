@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -66,6 +66,14 @@
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170547Z" creationid="littlewhitedirect" creationdate="20230321T170547Z">
         <seg>&amp;Show in Editor context menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(+{0} more)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230321T163906Z" creationid="Maja" creationdate="20230321T163906Z">
+        <seg>(+{0} więcej)</seg>
       </tuv>
     </tu>
     <tu>
@@ -563,6 +571,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Found in:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230321T163834Z" creationid="Maja" creationdate="20230321T163834Z">
+        <seg>Znajduje się w:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Full text</seg>
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230321T165006Z" creationid="MS" creationdate="20230321T165006Z">
@@ -1047,6 +1063,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TM Matching Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230321T163923Z" creationid="Maja" creationdate="20230321T163923Z">
+        <seg>Opcje z Pamięci tłumaczeniowej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag Issues</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161528Z" creationid="biegajacy-zajac" creationdate="20230321T161528Z">
@@ -1115,6 +1139,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230321T161345Z" creationid="janmars" creationdate="20230321T161345Z">
         <seg>The project will be loaded as a local project without team functionality.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230321T163839Z" creationid="Maja" creationdate="20230321T163839Z">
+        <seg>Ten projekt</seg>
       </tuv>
     </tu>
     <tu>
