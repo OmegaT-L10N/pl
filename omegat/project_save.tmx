@@ -79,6 +79,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161659Z" creationid="biegajacy-zajac" creationdate="20230321T161659Z">
+        <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add to Dictionary: “{0}”</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161526Z" creationid="biegajacy-zajac" creationdate="20230321T161526Z">
@@ -125,6 +133,14 @@
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230321T141706Z" creationid="leoi23" creationdate="20230321T141706Z">
         <seg>Katalog glosariuszy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apply &amp;Fix</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161621Z" creationid="biegajacy-zajac" creationdate="20230321T161621Z">
+        <seg>Apply &amp;Fix</seg>
       </tuv>
     </tu>
     <tu>
@@ -235,6 +251,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Disable rule “{0}”</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161625Z" creationid="biegajacy-zajac" creationdate="20230321T161625Z">
+        <seg>Disable rule “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Don't Ask What to Check First</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161523Z" creationid="biegajacy-zajac" creationdate="20230321T161523Z">
@@ -311,6 +335,22 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T160859Z" creationid="biegajacy-zajac" creationdate="20230321T160859Z">
         <seg>Issues for {0} ({1} of {2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161625Z" creationid="biegajacy-zajac" creationdate="20230321T161625Z">
+        <seg>LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool Issues</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161624Z" creationid="biegajacy-zajac" creationdate="20230321T161624Z">
+        <seg>LanguageTool Issues</seg>
       </tuv>
     </tu>
     <tu>
@@ -573,6 +613,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Terminology</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161633Z" creationid="biegajacy-zajac" creationdate="20230321T161633Z">
+        <seg>Terminology</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terminology Issues</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161626Z" creationid="biegajacy-zajac" creationdate="20230321T161626Z">
+        <seg>Terminology Issues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project cannot be verified</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230321T161337Z" creationid="janmars" creationdate="20230321T161337Z">
@@ -705,6 +761,22 @@ Both exact and keyword searches support the * and ?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161635Z" creationid="biegajacy-zajac" creationdate="20230321T161635Z">
+        <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161634Z" creationid="biegajacy-zajac" creationdate="20230321T161634Z">
+        <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} ({1})</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161521Z" creationid="biegajacy-zajac" creationdate="20230321T161521Z">
@@ -737,6 +809,14 @@ Both exact and keyword searches support the * and ?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0}.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161926Z" creationid="biegajacy-zajac" creationdate="20230321T161926Z">
+        <seg>{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0}_{1}</seg>
       </tuv>
       <tuv lang="PL" changeid="AgnieszkaS" changedate="20230321T151424Z" creationid="AgnieszkaS" creationdate="20230321T151424Z">
@@ -749,6 +829,22 @@ Both exact and keyword searches support the * and ?</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230321T143144Z" creationid="luizakolosa" creationdate="20230321T143144Z">
         <seg>{0}_{1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}”</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161636Z" creationid="biegajacy-zajac" creationdate="20230321T161636Z">
+        <seg>“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}” ({1})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161636Z" creationid="biegajacy-zajac" creationdate="20230321T161636Z">
+        <seg>“{0}” ({1})</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
