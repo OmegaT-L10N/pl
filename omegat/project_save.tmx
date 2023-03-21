@@ -182,12 +182,12 @@
       </tuv>
     </tu>
     <tu>
-      <note>checks - kontrole czy sprawdzanie?</note>
+      <note>checks - kontrole czy sprawdzanie? W jednym z późniejszym segmentów według mnie lepiej pasuje "kontrola", a tutaj "sprawdzanie". Jednak chciałabym zachować spójność.</note>
       <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T205233Z" creationid="biegajacy-zajac" creationdate="20230321T160844Z">
-        <seg>&lt;html&gt;&lt;center&gt;Ładowanie...&lt;br&gt;&lt;br&gt;Rada: Włącz/wyłącz sprawdzanie at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T205413Z" creationid="biegajacy-zajac" creationdate="20230321T160844Z">
+        <seg>&lt;html&gt;&lt;center&gt;Ładowanie...&lt;br&gt;&lt;br&gt;Rada: Włącz/wyłącz kontrole w dowolnum momencie z menu Opcje.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -624,6 +624,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T205116Z" creationid="biegajacy-zajac" creationdate="20230321T161523Z">
         <seg>Nie pytaj, co sprawdzić najpierw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't ask before checking issues</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T205443Z" creationid="biegajacy-zajac" creationdate="20230321T205443Z">
+        <seg>Nie pytaj przed sprawdzaniem błędów</seg>
       </tuv>
     </tu>
     <tu>
@@ -1099,8 +1107,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194621Z" creationid="biegajacy-zajac" creationdate="20230321T164822Z">
-        <seg>OmegaT może generować i przechowywać hasło główne master password so you don't have to enter it each time, but this is much less secure.</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T205603Z" creationid="biegajacy-zajac" creationdate="20230321T164822Z">
+        <seg>OmegaT może generować i przechowywać hasło główne, aby nie trzeba było go wprowadzać za każdym razem, ale jest to znacznie mniej bezpieczne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1798,12 +1806,12 @@ Both exact and keyword searches support the * and ?</seg>
       </tuv>
     </tu>
     <tu>
-      <note>OmegiT czy programu OmegaT?</note>
+      <note>Problem z odmianą: OmegaT, OmegiT czy programu OmegaT?</note>
       <tuv lang="EN">
         <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T203501Z" creationid="biegajacy-zajac" creationdate="20230321T170127Z">
-        <seg>Komunikat z prośbą o podanie tego hasła pojawi się przy każdym uruchomieniu programu OmegaT.</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T205508Z" creationid="biegajacy-zajac" creationdate="20230321T170127Z">
+        <seg>Komunikat z prośbą o podanie tego hasła pojawi się przy każdym uruchomieniu OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
