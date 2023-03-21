@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26,6 +26,14 @@
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165930Z" creationid="littlewhitedirect" creationdate="20230321T165930Z">
         <seg>&amp;Edytuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Enable character table</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230321T165855Z" creationid="MS" creationdate="20230321T165855Z">
+        <seg>&amp;Włącz tablicę znaków</seg>
       </tuv>
     </tu>
     <tu>
@@ -203,8 +211,8 @@
       <tuv lang="EN">
         <seg>Autotext</seg>
       </tuv>
-      <tuv lang="PL" changeid="MS" changedate="20230321T165104Z" creationid="MS" creationdate="20230321T165104Z">
-        <seg>Tekst automatyczny</seg>
+      <tuv lang="PL" changeid="MS" changedate="20230321T165116Z" creationid="MS" creationdate="20230321T165104Z">
+        <seg>Autotekst</seg>
       </tuv>
     </tu>
     <tu>
@@ -253,6 +261,14 @@
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161002Z" creationid="biegajacy-zajac" creationdate="20230321T161002Z">
         <seg>Character</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character table auto-completer options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230321T165924Z" creationid="MS" creationdate="20230321T165924Z">
+        <seg>Ustawienia autouzupełniania tablicy znaków</seg>
       </tuv>
     </tu>
     <tu>
@@ -375,6 +391,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145910Z" creationid="tobkub" creationdate="20230321T145658Z">
         <seg>Nie można było utworzyć katalogu projektu {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customize character &amp;table</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230321T170007Z" creationid="MS" creationdate="20230321T170007Z">
+        <seg>Personalizacja tablicy znaków</seg>
       </tuv>
     </tu>
     <tu>
