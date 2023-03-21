@@ -207,6 +207,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230321T170426Z" creationid="MS" creationdate="20230321T170426Z">
+        <seg>W celu </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add to Dictionary: “{0}”</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165354Z" creationid="biegajacy-zajac" creationdate="20230321T161526Z">
