@@ -71,6 +71,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164546Z" creationid="biegajacy-zajac" creationdate="20230321T164546Z">
+        <seg>&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T160844Z" creationid="biegajacy-zajac" creationdate="20230321T160844Z">
@@ -253,6 +261,14 @@
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145334Z" creationid="tobkub" creationdate="20230321T145334Z">
         <seg>Completed and current translations saved as {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164611Z" creationid="biegajacy-zajac" creationdate="20230321T164611Z">
+        <seg>Confirm:</seg>
       </tuv>
     </tu>
     <tu>
@@ -531,6 +547,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Password:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164558Z" creationid="biegajacy-zajac" creationdate="20230321T164558Z">
+        <seg>Hasło:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Plugin Installer</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230321T162230Z" creationid="Maja" creationdate="20230321T162230Z">
@@ -649,6 +673,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161512Z" creationid="biegajacy-zajac" creationdate="20230321T161512Z">
         <seg>Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Issue Types</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164552Z" creationid="biegajacy-zajac" creationdate="20230321T164552Z">
+        <seg>Select Issue Types</seg>
       </tuv>
     </tu>
     <tu>
@@ -933,6 +965,14 @@ Both exact and keyword searches support the * and ?</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230321T143144Z" creationid="luizakolosa" creationdate="20230321T143144Z">
         <seg>{0}_{1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164544Z" creationid="biegajacy-zajac" creationdate="20230321T164544Z">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
       </tuv>
     </tu>
     <tu>
