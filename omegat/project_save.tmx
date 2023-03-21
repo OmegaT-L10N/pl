@@ -618,6 +618,15 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Oba słowa powinny być od wielkich czy małych liter?</note>
+      <tuv lang="EN">
+        <seg>Master Password</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165931Z" creationid="biegajacy-zajac" creationdate="20230321T165931Z">
+        <seg>Hasło główne</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
@@ -858,6 +867,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230321T162516Z" creationid="Maja" creationdate="20230321T162516Z">
         <seg>Wybierz plik wtyczki (*.jar, *.zip)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set a master password to protect your private data.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T170009Z" creationid="biegajacy-zajac" creationdate="20230321T170009Z">
+        <seg>Ustaw hasło główne, żeby chronić swoje prywatne dane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1118,6 +1135,14 @@ Both exact and keyword searches support the * and ?</seg>
       <tuv lang="PL" changeid="Hania M" changedate="20230321T141027Z" creationid="Hania M" creationdate="20230321T141027Z">
         <seg>Symbole wieloznaczne
 Both exact and keyword searches support the * and ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T170127Z" creationid="biegajacy-zajac" creationdate="20230321T170127Z">
+        <seg>Pojawi się komunikat z prośbą o podanie tego hasła przy każdym uruchomieniu OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
