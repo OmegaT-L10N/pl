@@ -419,8 +419,8 @@
       <tuv lang="EN">
         <seg>Command is missing command string</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T200633Z" creationid="littlewhitedirect" creationdate="20230321T164826Z">
-        <seg>Polecenie bez łańcucha poleceń</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T202145Z" creationid="littlewhitedirect" creationdate="20230321T164826Z">
+        <seg>Polecenie bez ciągu poleceń</seg>
       </tuv>
     </tu>
     <tu>
@@ -1621,8 +1621,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>URL is missing encoding</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165014Z" creationid="littlewhitedirect" creationdate="20230321T165014Z">
-        <seg>URL is missing encoding</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201944Z" creationid="littlewhitedirect" creationdate="20230321T165014Z">
+        <seg>URL bez kodowania</seg>
       </tuv>
     </tu>
     <tu>
