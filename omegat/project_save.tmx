@@ -719,6 +719,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External GPG did not return a valid signature; got: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T211337Z" creationid="biegajacy-zajac" creationdate="20230321T211337Z">
+        <seg>External GPG did not return a valid signature; got: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Search Set</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170234Z" creationid="littlewhitedirect" creationdate="20230321T170234Z">
