@@ -509,8 +509,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Double-check and try again.</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T170415Z" creationid="biegajacy-zajac" creationdate="20230321T170415Z">
-        <seg>Double-check and try again.</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T192932Z" creationid="biegajacy-zajac" creationdate="20230321T170415Z">
+        <seg>Sprawdź i spróbuj ponownie</seg>
       </tuv>
     </tu>
     <tu>
@@ -951,6 +951,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search ({0})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T170428Z" creationid="biegajacy-zajac" creationdate="20230321T170428Z">
+        <seg>Szukaj ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Searches can also be performed on a specified folder hierarchy.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230321T161018Z" creationid="janmars" creationdate="20230321T161018Z">
@@ -979,6 +987,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164552Z" creationid="biegajacy-zajac" creationdate="20230321T164552Z">
         <seg>Select Issue Types</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a Category</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T170440Z" creationid="biegajacy-zajac" creationdate="20230321T170440Z">
+        <seg>Select a Category</seg>
       </tuv>
     </tu>
     <tu>
