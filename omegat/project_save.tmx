@@ -28,6 +28,16 @@
         <seg> </seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wildcards:
+Both exact and keyword searches support the * and ?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230321T141027Z" creationid="Hania M" creationdate="20230321T141027Z">
+        <seg>Symbole wieloznaczne
+Both exact and keyword searches support the * and ?</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
