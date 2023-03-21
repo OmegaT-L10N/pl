@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18,6 +18,14 @@
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230321T160949Z" creationid="janmars" creationdate="20230321T160949Z">
         <seg>&amp;Properties...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230321T161217Z" creationid="MS" creationdate="20230321T161217Z">
+        <seg>&amp;Zapisz...</seg>
       </tuv>
     </tu>
     <tu>
@@ -161,6 +169,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-text file (*.autotext)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230321T164832Z" creationid="MS" creationdate="20230321T164832Z">
+        <seg>plik Autotekstu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Autotext</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230321T165104Z" creationid="MS" creationdate="20230321T165104Z">
+        <seg>Tekst automatyczny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Available languages:</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230321T161927Z" creationid="Maja" creationdate="20230321T161927Z">
@@ -261,6 +285,14 @@
       </tuv>
       <tuv lang="PL" changeid="oladp" changedate="20230321T161759Z" creationid="oladp" creationdate="20230321T161205Z">
         <seg>Command is missing target </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230321T165011Z" creationid="MS" creationdate="20230321T165011Z">
+        <seg>Komentarz</seg>
       </tuv>
     </tu>
     <tu>
@@ -375,6 +407,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145403Z" creationid="tobkub" creationdate="20230321T145403Z">
         <seg>Nazwa pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230321T165006Z" creationid="MS" creationdate="20230321T165006Z">
+        <seg>Pełny tekst</seg>
       </tuv>
     </tu>
     <tu>
@@ -701,6 +741,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230321T164920Z" creationid="MS" creationdate="20230321T164920Z">
+        <seg>Skrót</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So&amp;urce Files...</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230321T160951Z" creationid="janmars" creationdate="20230321T160951Z">
@@ -867,6 +915,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145644Z" creationid="tobkub" creationdate="20230321T145644Z">
         <seg>Unable to build new TMX file!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to save data.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230321T164903Z" creationid="MS" creationdate="20230321T164903Z">
+        <seg>Nie można zapisać danych.</seg>
       </tuv>
     </tu>
     <tu>
