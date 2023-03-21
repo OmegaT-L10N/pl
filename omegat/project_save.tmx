@@ -433,6 +433,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Con&amp;figure</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195525Z" creationid="biegajacy-zajac" creationdate="20230321T195525Z">
+        <seg>Skonfiguruj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Confirm:</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T170256Z" creationid="biegajacy-zajac" creationdate="20230321T164611Z">
@@ -539,6 +547,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display TBX &amp;glossaries context description</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195634Z" creationid="biegajacy-zajac" creationdate="20230321T195529Z">
+        <seg>Wyświetl opis zawartości TBX i glosariuszy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you want to replace it with the one you're moving?</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230321T161758Z" creationid="JU" creationdate="20230321T161758Z">
@@ -567,6 +583,15 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230321T161808Z" creationid="JU" creationdate="20230321T161808Z">
         <seg>Drop a project here to open it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Włączono? </note>
+      <tuv lang="EN">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195512Z" creationid="biegajacy-zajac" creationdate="20230321T195512Z">
+        <seg>Aktywne</seg>
       </tuv>
     </tu>
     <tu>
@@ -672,6 +697,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165834Z" creationid="littlewhitedirect" creationdate="20230321T165727Z">
         <seg>Zewnętrzne wyszukiwanie globalne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossaries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195532Z" creationid="biegajacy-zajac" creationdate="20230321T195528Z">
+        <seg>Glosariusze</seg>
       </tuv>
     </tu>
     <tu>
@@ -825,6 +858,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T150035Z" creationid="tobkub" creationdate="20230321T145541Z">
         <seg>Statystyka dopasowań</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match term groups even if the terms appear separately</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195739Z" creationid="biegajacy-zajac" creationdate="20230321T195739Z">
+        <seg>Match term groups even if the terms appear separately</seg>
       </tuv>
     </tu>
     <tu>
