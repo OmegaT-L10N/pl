@@ -355,6 +355,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to Segment Source</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230321T162709Z" creationid="Maja" creationdate="20230321T162709Z">
+        <seg>Idź do Segmentu Źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore: “{0}”</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161528Z" creationid="biegajacy-zajac" creationdate="20230321T161528Z">
@@ -367,6 +375,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230321T142047Z" creationid="klaudiakempa" creationdate="20230321T142047Z">
         <seg>Insert Bidi Control C&amp;haracter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Match or Selection into Translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230321T163640Z" creationid="Maja" creationdate="20230321T163640Z">
+        <seg>Wprowadź Dopasowanie lub Wybór w Tłumaczenie</seg>
       </tuv>
     </tu>
     <tu>
