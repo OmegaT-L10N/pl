@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -227,8 +227,16 @@
       <tuv lang="EN">
         <seg>Command does not contain "{0}"</seg>
       </tuv>
-      <tuv lang="PL" changeid="oladp" changedate="20230321T161750Z" creationid="oladp" creationdate="20230321T161125Z">
-        <seg>Polecenie nie zawiera "{0}"</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165041Z" creationid="oladp" creationdate="20230321T161125Z">
+        <seg>Command is missing command string "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing command string</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165033Z" creationid="littlewhitedirect" creationdate="20230321T164826Z">
+        <seg>Command is missing command string</seg>
       </tuv>
     </tu>
     <tu>
@@ -843,6 +851,14 @@ Exact searches match the whole search string.</seg>
       <tuv lang="PL" changeid="janmars" changedate="20230321T161312Z" creationid="janmars" creationdate="20230321T161312Z">
         <seg>Types:
 Exact searches match the whole search string.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing encoding</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165014Z" creationid="littlewhitedirect" creationdate="20230321T165014Z">
+        <seg>URL is missing encoding</seg>
       </tuv>
     </tu>
     <tu>
