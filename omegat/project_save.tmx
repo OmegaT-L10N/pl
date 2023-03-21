@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>Application Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230321T141706Z" creationid="leoi23" creationdate="20230321T141706Z">
+        <seg>Katalog glosariuszy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Directional Formatting Characters</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230321T141722Z" creationid="leoi23" creationdate="20230321T141722Z">
+        <seg>Format pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230321T141524Z" creationid="leoi23" creationdate="20230321T141524Z">
