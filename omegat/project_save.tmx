@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>,</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161525Z" creationid="biegajacy-zajac" creationdate="20230321T161525Z">
+        <seg>,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>50%-74%:</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145554Z" creationid="tobkub" creationdate="20230321T145554Z">
@@ -42,6 +50,22 @@
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T160844Z" creationid="biegajacy-zajac" creationdate="20230321T160844Z">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add to Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161526Z" creationid="biegajacy-zajac" creationdate="20230321T161526Z">
+        <seg>Add to Dictionary: “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161520Z" creationid="biegajacy-zajac" creationdate="20230321T161520Z">
+        <seg>All</seg>
       </tuv>
     </tu>
     <tu>
@@ -120,6 +144,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161522Z" creationid="biegajacy-zajac" creationdate="20230321T161522Z">
+        <seg>Check {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Completed and current translations saved as {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145334Z" creationid="tobkub" creationdate="20230321T145334Z">
@@ -136,10 +168,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161512Z" creationid="biegajacy-zajac" creationdate="20230321T161512Z">
+        <seg>Description</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Directional Formatting Characters</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230321T141722Z" creationid="leoi23" creationdate="20230321T141722Z">
         <seg>Format pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't Ask What to Check First</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161523Z" creationid="biegajacy-zajac" creationdate="20230321T161523Z">
+        <seg>Don't Ask What to Check First</seg>
       </tuv>
     </tu>
     <tu>
@@ -180,6 +228,14 @@
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145403Z" creationid="tobkub" creationdate="20230321T145403Z">
         <seg>Nazwa pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore: “{0}”</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161528Z" creationid="biegajacy-zajac" creationdate="20230321T161528Z">
+        <seg>Ignore: “{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -240,6 +296,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No new languages available at the remote server.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161451Z" creationid="biegajacy-zajac" creationdate="20230321T161451Z">
+        <seg>No new languages available at the remote server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No option: Launch GUI.</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230321T142943Z" creationid="leoi23" creationdate="20230321T142943Z">
@@ -260,6 +324,14 @@
       </tuv>
       <tuv lang="PL" changeid="Dell" changedate="20230321T142210Z" creationid="Dell" creationdate="20230321T142210Z">
         <seg>Licencja OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161522Z" creationid="biegajacy-zajac" creationdate="20230321T161522Z">
+        <seg>Options</seg>
       </tuv>
     </tu>
     <tu>
@@ -328,10 +400,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161512Z" creationid="biegajacy-zajac" creationdate="20230321T161512Z">
+        <seg>Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161524Z" creationid="biegajacy-zajac" creationdate="20230321T161524Z">
+        <seg>Spelling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling Issues</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161524Z" creationid="biegajacy-zajac" creationdate="20230321T161524Z">
+        <seg>Spelling Issues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145500Z" creationid="tobkub" creationdate="20230321T145500Z">
         <seg>Statystyki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Issues</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161528Z" creationid="biegajacy-zajac" creationdate="20230321T161528Z">
+        <seg>Tag Issues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161529Z" creationid="biegajacy-zajac" creationdate="20230321T161529Z">
+        <seg>Tags</seg>
       </tuv>
     </tu>
     <tu>
@@ -384,6 +496,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161512Z" creationid="biegajacy-zajac" creationdate="20230321T161512Z">
+        <seg>Type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to build new TMX file!</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145644Z" creationid="tobkub" creationdate="20230321T145644Z">
@@ -414,6 +534,22 @@ Both exact and keyword searches support the * and ?</seg>
       <tuv lang="PL" changeid="Hania M" changedate="20230321T141027Z" creationid="Hania M" creationdate="20230321T141027Z">
         <seg>Symbole wieloznaczne
 Both exact and keyword searches support the * and ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} ({1})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161521Z" creationid="biegajacy-zajac" creationdate="20230321T161521Z">
+        <seg>{0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} x{1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161529Z" creationid="biegajacy-zajac" creationdate="20230321T161529Z">
+        <seg>{0} x{1}</seg>
       </tuv>
     </tu>
     <tu>
