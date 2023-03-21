@@ -81,8 +81,8 @@
       <tuv lang="EN">
         <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161659Z" creationid="biegajacy-zajac" creationdate="20230321T161659Z">
-        <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164541Z" creationid="biegajacy-zajac" creationdate="20230321T161659Z">
+        <seg>&lt;html&gt;Termin: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glosariusze:&lt;br&gt;{1}&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -671,8 +671,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Spelling</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161524Z" creationid="biegajacy-zajac" creationdate="20230321T161524Z">
-        <seg>Spelling</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164034Z" creationid="biegajacy-zajac" creationdate="20230321T161524Z">
+        <seg>Pisownia</seg>
       </tuv>
     </tu>
     <tu>
@@ -703,16 +703,16 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Tags</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161529Z" creationid="biegajacy-zajac" creationdate="20230321T161529Z">
-        <seg>Tags</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164130Z" creationid="biegajacy-zajac" creationdate="20230321T161529Z">
+        <seg>Tagi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Terminology</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161633Z" creationid="biegajacy-zajac" creationdate="20230321T161633Z">
-        <seg>Terminology</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164140Z" creationid="biegajacy-zajac" creationdate="20230321T161633Z">
+        <seg>Terminologia</seg>
       </tuv>
     </tu>
     <tu>
