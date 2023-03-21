@@ -182,11 +182,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>checks - kontrole czy sprawdzanie?</note>
       <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T160844Z" creationid="biegajacy-zajac" creationdate="20230321T160844Z">
-        <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T205233Z" creationid="biegajacy-zajac" creationdate="20230321T160844Z">
+        <seg>&lt;html&gt;&lt;center&gt;Ładowanie...&lt;br&gt;&lt;br&gt;Rada: Włącz/wyłącz sprawdzanie at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -597,8 +598,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Disable rule “{0}”</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161625Z" creationid="biegajacy-zajac" creationdate="20230321T161625Z">
-        <seg>Disable rule “{0}”</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T205056Z" creationid="biegajacy-zajac" creationdate="20230321T161625Z">
+        <seg>Wyłącz regułę“{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -621,8 +622,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Don't Ask What to Check First</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161523Z" creationid="biegajacy-zajac" creationdate="20230321T161523Z">
-        <seg>Don't Ask What to Check First</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T205116Z" creationid="biegajacy-zajac" creationdate="20230321T161523Z">
+        <seg>Nie pytaj, co sprawdzić najpierw</seg>
       </tuv>
     </tu>
     <tu>
@@ -800,8 +801,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T204921Z" creationid="biegajacy-zajac" creationdate="20230321T194007Z">
-        <seg>Jeśli sprawdzanie problemów jest powolne, spróbuj wyłączyć niektóre z opcjonalnych </seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T204935Z" creationid="biegajacy-zajac" creationdate="20230321T194007Z">
+        <seg>Jeśli sprawdzanie problemów jest powolne, spróbuj wyłączyć niektóre z opcjonalnych kontroli. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1817,16 +1818,16 @@ Both exact and keyword searches support the * and ?</seg>
       <tuv lang="EN">
         <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161635Z" creationid="biegajacy-zajac" creationdate="20230321T161635Z">
-        <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T205036Z" creationid="biegajacy-zajac" creationdate="20230321T161635Z">
+        <seg>[{0}] “{1}” w oryginale; spodziewane jedno z {2} w tłumaczeniu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161634Z" creationid="biegajacy-zajac" creationdate="20230321T161634Z">
-        <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T205011Z" creationid="biegajacy-zajac" creationdate="20230321T161634Z">
+        <seg>[{0}] “{1}” w oryginale; spodziewane “{2}” w tłumaczeniu</seg>
       </tuv>
     </tu>
     <tu>
