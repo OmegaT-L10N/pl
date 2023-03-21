@@ -613,6 +613,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace Translation with Match or Selection</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230321T163736Z" creationid="Maja" creationdate="20230321T163736Z">
+        <seg>Zastąp tłumaczenie dopasowaniem lub wyborem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Se&amp;ntence-level segmenting</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T150057Z" creationid="tobkub" creationdate="20230321T145618Z">
@@ -845,6 +853,14 @@ Both exact and keyword searches support the * and ?</seg>
       <tuv lang="PL" changeid="Hania M" changedate="20230321T141027Z" creationid="Hania M" creationdate="20230321T141027Z">
         <seg>Symbole wieloznaczne
 Both exact and keyword searches support the * and ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[Fuzzy]</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230321T163827Z" creationid="Maja" creationdate="20230321T163827Z">
+        <seg>[Rozmyty]</seg>
       </tuv>
     </tu>
     <tu>
