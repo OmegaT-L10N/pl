@@ -854,6 +854,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Item is missing scope</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201702Z" creationid="biegajacy-zajac" creationdate="20230321T201702Z">
+        <seg>Item is missing scope</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161625Z" creationid="biegajacy-zajac" creationdate="20230321T161625Z">
@@ -963,6 +971,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170337Z" creationid="littlewhitedirect" creationdate="20230321T170331Z">
         <seg>Nazwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201640Z" creationid="biegajacy-zajac" creationdate="20230321T201640Z">
+        <seg>Nazwa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1589,8 +1605,16 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>URL does not contain "{0}"</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T200446Z" creationid="biegajacy-zajac" creationdate="20230321T200446Z">
-        <seg>URL does not contain "{0}"</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201839Z" creationid="biegajacy-zajac" creationdate="20230321T200446Z">
+        <seg>URL nie zawiera "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing URL string</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201821Z" creationid="biegajacy-zajac" creationdate="20230321T201821Z">
+        <seg>URL bez ciągu URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -1599,6 +1623,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165014Z" creationid="littlewhitedirect" creationdate="20230321T165014Z">
         <seg>URL is missing encoding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing target</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201935Z" creationid="biegajacy-zajac" creationdate="20230321T201935Z">
+        <seg>URL bez adresu docelowego</seg>
       </tuv>
     </tu>
     <tu>
