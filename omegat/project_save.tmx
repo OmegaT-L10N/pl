@@ -453,6 +453,25 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Error initializing marker '{0}'</seg>
       </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T185332Z">
+        <seg>Błąd znacznika początku '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error loading : {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T185434Z" creationid="ZOO" creationdate="20230324T185434Z">
+        <seg>Błąd ładowania : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error loading plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T185406Z" creationid="ZOO" creationdate="20230324T185406Z">
+        <seg>Błąd ładowania wtyczki klasy '{0}': {1}: {2}</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -460,6 +479,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185225Z" creationid="ZOO" creationdate="20230324T185225Z">
         <seg>Błąd wczytywania TMX level2 w linii {0} kolumnie {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error unloading plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T185417Z" creationid="ZOO" creationdate="20230324T185417Z">
+        <seg>Błąd ładowania wtyczki klasy '{0}': {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -601,6 +628,14 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Item name is empty or missing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jar used for plugins: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T185500Z" creationid="ZOO" creationdate="20230324T185500Z">
+        <seg>Jar zastosowano dla wtyczek: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -804,6 +839,9 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Plugin successfully loaded from class '{0}'</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T185609Z">
+        <seg>Wtyczka została pomyślnie załadowana z klasy '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -1174,6 +1212,14 @@ Exact searches match the whole search string.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Unique Words</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unknown plugin type '{0}' in '{1}'</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T185327Z" creationid="ZOO" creationdate="20230324T185327Z">
+        <seg>Nieznany typ wtyczki w '{0}' w '{1}'</seg>
       </tuv>
     </tu>
     <tu>
