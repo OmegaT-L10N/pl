@@ -810,6 +810,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Format:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191206Z" creationid="ZOO" creationdate="20230324T191206Z">
+        <seg>Format:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Found in:</seg>
       </tuv>
     </tu>
@@ -918,6 +926,14 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid file format</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191307Z" creationid="ZOO" creationdate="20230324T191307Z">
+        <seg>Nieprawidłowy format pliku</seg>
       </tuv>
     </tu>
     <tu>
@@ -1076,6 +1092,22 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190303Z" creationid="ZOO" creationdate="20230324T190303Z">
         <seg>Pliki Microsoft Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Missing attribute '{0}' in &lt;{1}&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191336Z" creationid="ZOO" creationdate="20230324T191336Z">
+        <seg>Brak atrybutu '{0}' in &lt;{1}&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Monolin&amp;gual</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191218Z" creationid="ZOO" creationdate="20230324T191218Z">
+        <seg>Monolin&amp;gwalne</seg>
       </tuv>
     </tu>
     <tu>
@@ -1383,6 +1415,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SDL XLIFF</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191340Z" creationid="ZOO" creationdate="20230324T191340Z">
+        <seg>SDL XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SDL project (beta)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191349Z" creationid="ZOO" creationdate="20230324T191349Z">
+        <seg>Porjekt SDL (beta)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Se&amp;ntence-level segmenting</seg>
       </tuv>
     </tu>
@@ -1541,6 +1589,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Standar&amp;d</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191211Z" creationid="ZOO" creationdate="20230324T191211Z">
+        <seg>Standar&amp;d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start a new paragraph &amp;on Word soft return</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190820Z" creationid="ZOO" creationdate="20230324T190820Z">
@@ -1602,6 +1658,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185910Z" creationid="ZOO" creationdate="20230324T185910Z">
         <seg>Opcje filtra tekstu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The PO filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191240Z" creationid="ZOO" creationdate="20230324T191240Z">
+        <seg>Filtr PO napotkał problem:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1854,6 +1918,30 @@ Both exact and keyword searches support the * and ?</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190603Z" creationid="ZOO" creationdate="20230324T190603Z">
         <seg>WordAr&amp;t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XLIFF (legacy filter)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191411Z" creationid="ZOO" creationdate="20230324T191411Z">
+        <seg>Pliki XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XLIFF 1</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191312Z" creationid="ZOO" creationdate="20230324T191312Z">
+        <seg>XLIFF 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XLIFF 2</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191314Z" creationid="ZOO" creationdate="20230324T191314Z">
+        <seg>XLIFF 2</seg>
       </tuv>
     </tu>
     <tu>
