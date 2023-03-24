@@ -432,6 +432,9 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Enabled</seg>
       </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T185855Z">
+        <seg>Aktywne</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -528,6 +531,22 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>File Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File format</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T185852Z" creationid="ZOO" creationdate="20230324T185852Z">
+        <seg>Format pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter '{0}' could not be loaded from '{1}'</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T185816Z" creationid="ZOO" creationdate="20230324T185816Z">
+        <seg>Nie można wczytać filtru '{0}' z '{1}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -1022,6 +1041,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T185758Z" creationid="ZOO" creationdate="20230324T185758Z">
+        <seg>Pominięto poprzednio załadowaną wtyczkę klasy '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So&amp;urce Files...</seg>
       </tuv>
     </tu>
@@ -1145,6 +1172,16 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated file path cannot be identical to the source file path:
+{0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T185849Z" creationid="ZOO" creationdate="20230324T185849Z">
+        <seg>Przetłumaczona ścieżka pliku nie może być identyczna ze ścieżką pliku źródłowego:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated files created</seg>
       </tuv>
     </tu>
@@ -1201,7 +1238,23 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to parse filters configuration file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T185804Z" creationid="ZOO" creationdate="20230324T185804Z">
+        <seg>Błąd przy analizowaniu pliku konfiguracyjnego filtrów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to save data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to save filters configuration file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T185807Z" creationid="ZOO" creationdate="20230324T185807Z">
+        <seg>Błąd przy zapisywaniu pliku konfiguracyjnego filtrów</seg>
       </tuv>
     </tu>
     <tu>
