@@ -50,6 +50,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Compatibility with OmegaT 2.6</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191454Z" creationid="ZOO" creationdate="20230324T191454Z">
+        <seg>&amp;Kompatybilność z OmegaT 2.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Edit</seg>
       </tuv>
     </tu>
@@ -233,6 +241,22 @@
     <tu>
       <tuv lang="EN">
         <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191544Z" creationid="ZOO" creationdate="20230324T191544Z">
+        <seg>&lt;trans-unit&gt; &amp;resname atrybut, jeśli jest dostępny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;trans-unit&gt; I&amp;D</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191526Z" creationid="ZOO" creationdate="20230324T191526Z">
+        <seg>&lt;trans-unit&gt; I&amp;D</seg>
       </tuv>
     </tu>
     <tu>
@@ -882,6 +906,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Identifier used for alternative translations</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191505Z" creationid="ZOO" creationdate="20230324T191505Z">
+        <seg>Identyfikator stosowany w przypadku tłumaczeń alternatywnych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
       </tuv>
     </tu>
@@ -1350,6 +1382,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Previous and &amp;next paragraphs</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191522Z" creationid="ZOO" creationdate="20230324T191522Z">
+        <seg>Poprzednie i &amp;następne akapity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Properties</seg>
       </tuv>
     </tu>
@@ -1625,6 +1665,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag handling compatibility</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191435Z" creationid="ZOO" creationdate="20230324T191435Z">
+        <seg>Zgodność obsługi znaczników</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag shortcuts (do not apply to OmegaT 2.6 compatible files):</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191619Z" creationid="ZOO" creationdate="20230324T191619Z">
+        <seg>Skróty znaczników (nie dotyczą plików zgodnych z OmegaT 2.6):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tags</seg>
       </tuv>
     </tu>
@@ -1895,6 +1951,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When unavailable, the ID will be used as a fallback</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191608Z" creationid="ZOO" creationdate="20230324T191608Z">
+        <seg>Jeśli nie jest dostępny, identyfikator zostanie użyty jako rozwiązanie awaryjne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Whitespaces</seg>
       </tuv>
     </tu>
@@ -1942,6 +2006,14 @@ Both exact and keyword searches support the * and ?</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191314Z" creationid="ZOO" creationdate="20230324T191314Z">
         <seg>XLIFF 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XLIFF Filter Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191424Z" creationid="ZOO" creationdate="20230324T191415Z">
+        <seg>Opcje filtra XLIFF</seg>
       </tuv>
     </tu>
     <tu>
