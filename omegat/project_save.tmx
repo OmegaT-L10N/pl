@@ -410,6 +410,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Column index must be equal to 1</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T183735Z" creationid="ZOO" creationdate="20230324T183735Z">
+        <seg>Numer kolumny musi być równy 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Command</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170347Z" creationid="littlewhitedirect" creationdate="20230321T170321Z">
@@ -919,6 +927,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Language not specified for translation unit variant.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T183739Z" creationid="ZOO" creationdate="20230324T183739Z">
+        <seg>Nie określono języka dla wariantu jednostki tłumaczenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161625Z" creationid="biegajacy-zajac" creationdate="20230321T161625Z">
@@ -1165,6 +1181,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="Dell" changedate="20230321T142210Z" creationid="Dell" creationdate="20230321T142210Z">
         <seg>Licencja OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will try to resegment the TMX file...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T184425Z" creationid="ZOO" creationdate="20230324T184425Z">
+        <seg>OmegaT spróbuje przebudować plik TMX...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1473,6 +1497,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230321T160951Z" creationid="janmars" creationdate="20230321T160951Z">
         <seg>So&amp;urce Files...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source language: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T183737Z" creationid="ZOO" creationdate="20230324T183737Z">
+        <seg>Język źródłowy: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1844,6 +1876,14 @@ Both exact and keyword searches support the * and ?</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T205508Z" creationid="biegajacy-zajac" creationdate="20230321T170127Z">
         <seg>Komunikat z prośbą o podanie tego hasła pojawi się przy każdym uruchomieniu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your current project uses sentence segmentation, but the TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T183746Z" creationid="ZOO" creationdate="20230324T183746Z">
+        <seg>Bieżący projekt używa segmentacji opartej na zdaniach, zaś plik TMX segmentacji opartej na akapitach.</seg>
       </tuv>
     </tu>
     <tu>
