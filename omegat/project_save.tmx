@@ -701,6 +701,14 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Error initializing marker '{0}'</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T184448Z" creationid="ZOO" creationdate="20230324T184448Z">
+        <seg>Błąd znacznika początku '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Ma zostać angielska wersja?</note>
       <tuv lang="EN">
         <seg>Escape</seg>
@@ -1389,6 +1397,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search thread died unexpectedly!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T184434Z" creationid="ZOO" creationdate="20230324T184434Z">
+        <seg>Zadanie wyszukiwania niespodziewanie zakończyło się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Searches can also be performed on a specified folder hierarchy.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230321T161018Z" creationid="janmars" creationdate="20230321T161018Z">
@@ -1800,6 +1816,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145422Z" creationid="tobkub" creationdate="20230321T145422Z">
         <seg>Unique Words</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported project file version ({0})!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T184441Z" creationid="ZOO" creationdate="20230324T184441Z">
+        <seg>Nieobsługiwana wersja pliku projektu ({0})!</seg>
       </tuv>
     </tu>
     <tu>
