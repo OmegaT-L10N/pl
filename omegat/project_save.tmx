@@ -26,6 +26,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Bookmarks</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190215Z" creationid="ZOO" creationdate="20230324T190215Z">
+        <seg>&amp;Zakładki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Comments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190222Z" creationid="ZOO" creationdate="20230324T190222Z">
+        <seg>&amp;Komentarze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Edit</seg>
       </tuv>
     </tu>
@@ -44,7 +60,23 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Endnotes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190331Z" creationid="ZOO" creationdate="20230324T190331Z">
+        <seg>Prz&amp;ypisy końcowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Find...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Footnotes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190331Z" creationid="ZOO" creationdate="20230324T190331Z">
+        <seg>P&amp;rzypisy</seg>
       </tuv>
     </tu>
     <tu>
@@ -55,6 +87,14 @@
     <tu>
       <tuv lang="EN">
         <seg>&amp;Ignore matches with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Index entries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190213Z" creationid="ZOO" creationdate="20230324T190213Z">
+        <seg>Hasła &amp;indeksy</seg>
       </tuv>
     </tu>
     <tu>
@@ -80,6 +120,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Notes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190221Z" creationid="ZOO" creationdate="20230324T190221Z">
+        <seg>&amp;Notatki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Presentation notes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190228Z" creationid="ZOO" creationdate="20230324T190228Z">
+        <seg>Notatki &amp;prezentacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Properties...</seg>
       </tuv>
     </tu>
@@ -91,6 +147,14 @@
     <tu>
       <tuv lang="EN">
         <seg>&amp;Save...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Sheet names</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190254Z" creationid="ZOO" creationdate="20230324T190254Z">
+        <seg>&amp;Nazwy arkuszy</seg>
       </tuv>
     </tu>
     <tu>
@@ -252,6 +316,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bookmark &amp;references</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190218Z" creationid="ZOO" creationdate="20230324T190218Z">
+        <seg>&amp;Odnośniki do zakładek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Both</seg>
       </tuv>
     </tu>
@@ -288,6 +360,14 @@
     <tu>
       <tuv lang="EN">
         <seg>Check {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Co&amp;mments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190330Z" creationid="ZOO" creationdate="20230324T190330Z">
+        <seg>Ko&amp;mentarze</seg>
       </tuv>
     </tu>
     <tu>
@@ -336,6 +416,14 @@
     <tu>
       <tuv lang="EN">
         <seg>Commands</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comme&amp;nts</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190428Z" creationid="ZOO" creationdate="20230324T190428Z">
+        <seg>Kom&amp;entarze</seg>
       </tuv>
     </tu>
     <tu>
@@ -444,6 +532,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Doc&amp;ument properties</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190414Z" creationid="ZOO" creationdate="20230324T190414Z">
+        <seg>Właściwości dok&amp;umentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DocBook</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190035Z" creationid="ZOO" creationdate="20230324T190035Z">
@@ -487,6 +583,14 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Duplicate fallbac&amp;k text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190358Z" creationid="ZOO" creationdate="20230324T190358Z">
+        <seg>Duplikat tekstu awaryjne&amp;go</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Włączono? </note>
       <tuv lang="EN">
         <seg>Enabled</seg>
@@ -509,6 +613,14 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Enter your password again for confirmation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error in file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190257Z" creationid="ZOO" creationdate="20230324T190257Z">
+        <seg>Błąd w pliku</seg>
       </tuv>
     </tu>
     <tu>
@@ -582,6 +694,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Excel</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190428Z" creationid="ZOO" creationdate="20230324T190428Z">
+        <seg>Excel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External GPG did not return a valid signature; got: {0}</seg>
       </tuv>
     </tu>
@@ -618,6 +738,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Foote&amp;rs</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190332Z" creationid="ZOO" creationdate="20230324T190332Z">
+        <seg>&amp;Stopki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Found in:</seg>
       </tuv>
     </tu>
@@ -629,6 +757,14 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>General</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Global</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190505Z" creationid="ZOO" creationdate="20230324T190505Z">
+        <seg>Globalne</seg>
       </tuv>
     </tu>
     <tu>
@@ -649,6 +785,14 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Go to Segment Source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>He&amp;aders</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190332Z" creationid="ZOO" creationdate="20230324T190332Z">
+        <seg>N&amp;agłówki</seg>
       </tuv>
     </tu>
     <tu>
@@ -783,6 +927,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Links (&amp;URL)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190238Z" creationid="ZOO" creationdate="20230324T190238Z">
+        <seg>Linki (&amp;URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading glossary {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185227Z" creationid="ZOO" creationdate="20230324T185227Z">
@@ -836,6 +988,22 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Merge alternate definitions of the same term</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Office Open XML</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190301Z" creationid="ZOO" creationdate="20230324T190301Z">
+        <seg>Pliki Microsoft Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Office Open XML (legacy filter)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190303Z" creationid="ZOO" creationdate="20230324T190303Z">
+        <seg>Pliki Microsoft Open XML</seg>
       </tuv>
     </tu>
     <tu>
@@ -896,6 +1064,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-visible instruction te&amp;xt</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190329Z" creationid="ZOO" creationdate="20230324T190329Z">
+        <seg>&amp;Tekst ukryty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>None</seg>
       </tuv>
     </tu>
@@ -944,6 +1120,30 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open XML Filter Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190310Z" creationid="ZOO" creationdate="20230324T190310Z">
+        <seg>Opcje filtra Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenDocument</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190203Z" creationid="ZOO" creationdate="20230324T190203Z">
+        <seg>Pliki OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenDocument Filter Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190205Z" creationid="ZOO" creationdate="20230324T190205Z">
+        <seg>Opcje filtra OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options</seg>
       </tuv>
     </tu>
@@ -973,6 +1173,14 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Post-processing commands completed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PowerPoint</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190430Z" creationid="ZOO" creationdate="20230324T190430Z">
+        <seg>Power Point</seg>
       </tuv>
     </tu>
     <tu>
@@ -1051,6 +1259,14 @@ project without team functionality.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>S&amp;lide comments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190432Z" creationid="ZOO" creationdate="20230324T190432Z">
+        <seg>Komentarze &amp;do slajdów</seg>
       </tuv>
     </tu>
     <tu>
@@ -1152,6 +1368,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185758Z" creationid="ZOO" creationdate="20230324T185758Z">
         <seg>Pominięto poprzednio załadowaną wtyczkę klasy '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sli&amp;de masters</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190432Z" creationid="ZOO" creationdate="20230324T190432Z">
+        <seg>&amp;Wzorce slajdów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slide la&amp;youts</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190448Z" creationid="ZOO" creationdate="20230324T190448Z">
+        <seg>Uk&amp;łady slajdów</seg>
       </tuv>
     </tu>
     <tu>
@@ -1302,6 +1534,14 @@ the server.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Total:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translate the following elements:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190207Z" creationid="ZOO" creationdate="20230324T190207Z">
+        <seg>Tłumacz następujące elementy:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1470,6 +1710,14 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Wildcards:
 Both exact and keyword searches support the * and ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190421Z" creationid="ZOO" creationdate="20230324T190326Z">
+        <seg>Word</seg>
       </tuv>
     </tu>
     <tu>
