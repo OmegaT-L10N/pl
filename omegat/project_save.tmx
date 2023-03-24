@@ -16,6 +16,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow blank target segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190939Z" creationid="ZOO" creationdate="20230324T190939Z">
+        <seg>&amp;Zezwalaj na puste segmenty docelowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Always confirm quit</seg>
       </tuv>
     </tu>
@@ -313,6 +321,14 @@
     <tu>
       <tuv lang="EN">
         <seg>Assign &amp;shortcut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto &amp;replace plural specification</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191202Z" creationid="ZOO" creationdate="20230324T191202Z">
+        <seg>&amp;Zastępuj automatycznie mnogą specyfikację</seg>
       </tuv>
     </tu>
     <tu>
@@ -863,6 +879,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore &amp;PO header</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191033Z" creationid="ZOO" creationdate="20230324T191033Z">
+        <seg>Ignoruj nagłówek &amp;PO </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore: “{0}”</seg>
       </tuv>
     </tu>
@@ -1206,6 +1230,38 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190609Z" creationid="ZOO" creationdate="20230324T190609Z">
         <seg>Pozostałe opcje:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF text contents</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190847Z" creationid="ZOO" creationdate="20230324T190847Z">
+        <seg>Treść teksty PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PO</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190909Z" creationid="ZOO" creationdate="20230324T190909Z">
+        <seg>Pliki PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PO Filter Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190929Z" creationid="ZOO" creationdate="20230324T190929Z">
+        <seg>Opcje filtra PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password-protected PDF files are not supported: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T190907Z" creationid="ZOO" creationdate="20230324T190907Z">
+        <seg>Pliki PDF chronione hasłem nie są obsługiwane: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1598,6 +1654,14 @@ the server.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Total:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translate &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T191013Z" creationid="ZOO" creationdate="20230324T191004Z">
+        <seg>Tłumacz &amp;puste segmenty źródłowe </seg>
       </tuv>
     </tu>
     <tu>
