@@ -8,63 +8,39 @@
       <tuv lang="EN">
         <seg>&amp;Access Project Contents</seg>
       </tuv>
-      <tuv lang="FR" changeid="janmars" changedate="20230321T160955Z" creationid="janmars" creationdate="20230321T160955Z">
-        <seg>&amp;Access Project Contents</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Add</seg>
-      </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T165921Z" creationid="littlewhitedirect" creationdate="20230321T165921Z">
-        <seg>&amp;Dodaj</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Always confirm quit</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T195243Z" creationid="biegajacy-zajac" creationdate="20230321T195243Z">
-        <seg>&amp;Zawsze potwierdzaj zakończenie</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Automatically fetch translations</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T195327Z" creationid="biegajacy-zajac" creationdate="20230321T195327Z">
-        <seg>&amp;Automatycznie pobieraj tłumaczenia</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Edit</seg>
       </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T165930Z" creationid="littlewhitedirect" creationdate="20230321T165930Z">
-        <seg>&amp;Edytuj</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Enable character table</seg>
       </tuv>
-      <tuv lang="FR" changeid="MS" changedate="20230321T165855Z" creationid="MS" creationdate="20230321T165855Z">
-        <seg>&amp;Włącz tablicę znaków</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Find...</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T193415Z" creationid="biegajacy-zajac" creationdate="20230321T193415Z">
-        <seg>&amp;Find...</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
-      </tuv>
-      <tuv lang="FR" changeid="maciej-pqr" changedate="20230321T151354Z" creationid="maciej-pqr" creationdate="20230321T151354Z">
         <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
       </tuv>
     </tu>
@@ -72,23 +48,14 @@
       <tuv lang="EN">
         <seg>&amp;Ignore matches with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T205852Z" creationid="biegajacy-zajac" creationdate="20230321T201148Z">
-        <seg>Ignoruj dopasowania z bardzo różniącymi się dużymi i małymi literami (np. FOO vs. foo) </seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Layout:</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T201238Z" creationid="biegajacy-zajac" creationdate="20230321T201238Z">
-        <seg>Układ</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&amp;Properties...</seg>
-      </tuv>
-      <tuv lang="FR" changeid="janmars" changedate="20230321T160949Z" creationid="janmars" creationdate="20230321T160949Z">
         <seg>&amp;Properties...</seg>
       </tuv>
     </tu>
@@ -96,23 +63,14 @@
       <tuv lang="EN">
         <seg>&amp;Remove</seg>
       </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T165926Z" creationid="littlewhitedirect" creationdate="20230321T165926Z">
-        <seg>&amp;Usuń</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Save...</seg>
       </tuv>
-      <tuv lang="FR" changeid="MS" changedate="20230321T161217Z" creationid="MS" creationdate="20230321T161217Z">
-        <seg>&amp;Zapisz...</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&amp;Show in Editor context menu</seg>
-      </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T170547Z" creationid="littlewhitedirect" creationdate="20230321T170547Z">
         <seg>&amp;Show in Editor context menu</seg>
       </tuv>
     </tu>
@@ -120,16 +78,10 @@
       <tuv lang="EN">
         <seg>&amp;Undo Changes</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T194652Z" creationid="biegajacy-zajac" creationdate="20230321T194652Z">
-        <seg>&amp;Cofnij zmiany</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>(+{0} more)</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Maja" changedate="20230321T163906Z" creationid="Maja" creationdate="20230321T163906Z">
-        <seg>(+{0} więcej)</seg>
       </tuv>
     </tu>
     <tu>
@@ -137,15 +89,9 @@
         <seg>(You will still able to use OmegaT
 3.6 to edit this project as a team project.)</seg>
       </tuv>
-      <tuv lang="FR" changeid="janmars" changedate="20230321T161444Z" creationid="janmars" creationdate="20230321T161402Z">
-        <seg>sdfsdfffffffffffffff</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>,</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T161525Z" creationid="biegajacy-zajac" creationdate="20230321T161525Z">
         <seg>,</seg>
       </tuv>
     </tu>
@@ -153,15 +99,9 @@
       <tuv lang="EN">
         <seg>50%-74%:</seg>
       </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145554Z" creationid="tobkub" creationdate="20230321T145554Z">
-        <seg>50%-74%:</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>75%-84%:</seg>
-      </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145550Z" creationid="tobkub" creationdate="20230321T145550Z">
         <seg>75%-84%:</seg>
       </tuv>
     </tu>
@@ -169,23 +109,14 @@
       <tuv lang="EN">
         <seg>85%-94%:</seg>
       </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145546Z" creationid="tobkub" creationdate="20230321T145546Z">
-        <seg>85%-94%:</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>95%-100%:</seg>
       </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145545Z" creationid="tobkub" creationdate="20230321T145545Z">
-        <seg>95%-100%:</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;br&gt;</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T164546Z" creationid="biegajacy-zajac" creationdate="20230321T164546Z">
         <seg>&lt;br&gt;</seg>
       </tuv>
     </tu>
@@ -194,47 +125,37 @@
       <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T210405Z" creationid="biegajacy-zajac" creationdate="20230321T160844Z">
-        <seg>&lt;html&gt;&lt;center&gt;Ładowanie...&lt;br&gt;&lt;br&gt;Rada: Włącz/wyłącz kontrole w dowolnym momencie z menu Opcje.&lt;/center&gt;&lt;/html&gt;</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T164541Z" creationid="biegajacy-zajac" creationdate="20230321T161659Z">
-        <seg>&lt;html&gt;Termin: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glosariusze:&lt;br&gt;{1}&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>ASCII Only</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T201358Z" creationid="biegajacy-zajac" creationdate="20230321T201358Z">
-        <seg>Tylko ASCII</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="MS" changedate="20230321T170426Z" creationid="MS" creationdate="20230321T170426Z">
-        <seg>W celu </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Add to Dictionary: “{0}”</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T165354Z" creationid="biegajacy-zajac" creationdate="20230321T161526Z">
-        <seg>Dodaj do słownika: “{0}”</seg>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Added {0} glossary entries from {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T185308Z" creationid="ZOO" creationdate="20230324T185308Z">
+        <seg>Dodano {0} hasła do glosariusza z {1}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Align project against {0}</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T193404Z" creationid="biegajacy-zajac" creationdate="20230321T193404Z">
         <seg>Align project against {0}</seg>
       </tuv>
     </tu>
@@ -242,15 +163,9 @@
       <tuv lang="EN">
         <seg>All</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T165551Z" creationid="biegajacy-zajac" creationdate="20230321T161520Z">
-        <seg>Wszystko</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Allow local external search commands</seg>
-      </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T170154Z" creationid="littlewhitedirect" creationdate="20230321T170154Z">
         <seg>Allow local external search commands</seg>
       </tuv>
     </tu>
@@ -259,112 +174,70 @@
         <seg>An error occurred while processing an application shutdown event:
 {0}</seg>
       </tuv>
-      <tuv lang="FR" changeid="leoi23" changedate="20230321T144619Z" creationid="leoi23" creationdate="20230321T144619Z">
-        <seg>Błąd podczas próby utworzenia nowego katalogu</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>An error occurred while processing an application startup event:
 {0}</seg>
       </tuv>
-      <tuv lang="FR" changeid="leoi23" changedate="20230321T144459Z" creationid="leoi23" creationdate="20230321T144459Z">
-        <seg>Błąd podczas próby utworzenia nowego katalogu</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>An item named "{0}" already exists in this location.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="JU" changedate="20230321T174613Z" creationid="JU" creationdate="20230321T161057Z">
-        <seg>jjjjAn item named "{0}" already exists in this location.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Appearance</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T200808Z" creationid="biegajacy-zajac" creationdate="20230321T200808Z">
-        <seg>Wygląd</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Application Folder</seg>
-      </tuv>
-      <tuv lang="FR" changeid="leoi23" changedate="20230321T141706Z" creationid="leoi23" creationdate="20230321T141706Z">
-        <seg>Katalog glosariuszy:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Apply &amp;Fix</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T165532Z" creationid="biegajacy-zajac" creationdate="20230321T161621Z">
-        <seg>Zastosuj i napraw</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Arrays must not be null</seg>
-      </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145615Z" creationid="tobkub" creationdate="20230321T145615Z">
-        <seg>Tablica nie może być pusta</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Assign &amp;shortcut</seg>
       </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T170603Z" creationid="littlewhitedirect" creationdate="20230321T170603Z">
-        <seg>Przypisz &amp;skrót</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Auto-text file (*.autotext)</seg>
-      </tuv>
-      <tuv lang="FR" changeid="MS" changedate="20230321T164832Z" creationid="MS" creationdate="20230321T164832Z">
-        <seg>plik Autotekstu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Autotext</seg>
       </tuv>
-      <tuv lang="FR" changeid="MS" changedate="20230321T165116Z" creationid="MS" creationdate="20230321T165104Z">
-        <seg>Autotekst</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Available languages:</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Maja" changedate="20230321T161927Z" creationid="Maja" creationdate="20230321T161927Z">
-        <seg>Dostępne języki:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Both</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T201612Z" creationid="biegajacy-zajac" creationdate="20230321T201612Z">
-        <seg>Oba</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T150029Z" creationid="tobkub" creationdate="20230321T145452Z">
-        <seg>Skopiuj wszyskie dane do schowka</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>C&amp;urrent Target File</seg>
-      </tuv>
-      <tuv lang="FR" changeid="janmars" changedate="20230321T161003Z" creationid="janmars" creationdate="20230321T161003Z">
         <seg>C&amp;urrent Target File</seg>
       </tuv>
     </tu>
@@ -372,23 +245,14 @@
       <tuv lang="EN">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145934Z" creationid="tobkub" creationdate="20230321T145921Z">
-        <seg>Katalog glosariusza niedostępny</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Cannot create folder for translated files:</seg>
       </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T150002Z" creationid="tobkub" creationdate="20230321T150002Z">
-        <seg>Nie można utworzyć katalogu dla plików docelowych:</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Character</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T161002Z" creationid="biegajacy-zajac" creationdate="20230321T161002Z">
         <seg>Character</seg>
       </tuv>
     </tu>
@@ -396,103 +260,64 @@
       <tuv lang="EN">
         <seg>Character table auto-completer options</seg>
       </tuv>
-      <tuv lang="FR" changeid="MS" changedate="20230321T165924Z" creationid="MS" creationdate="20230321T165924Z">
-        <seg>Ustawienia autouzupełniania tablicy znaków</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Check {0}</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T165156Z" creationid="biegajacy-zajac" creationdate="20230321T161522Z">
-        <seg>Sprawdź {0}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Column index must be equal to 1</seg>
       </tuv>
-      <tuv lang="FR" changeid="ZOO" changedate="20230324T183735Z" creationid="ZOO" creationdate="20230324T183735Z">
-        <seg>Numer kolumny musi być równy 1</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Command</seg>
-      </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T170347Z" creationid="littlewhitedirect" creationdate="20230321T170321Z">
-        <seg>Polecenie</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Command delimiter is empty</seg>
       </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T165427Z" creationid="oladp" creationdate="20230321T161915Z">
-        <seg>Separator polecenia jest pusty</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Command does not contain "{0}"</seg>
-      </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T165041Z" creationid="oladp" creationdate="20230321T161125Z">
-        <seg>Command is missing command string "{0}"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Command is missing command string</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T202145Z" creationid="littlewhitedirect" creationdate="20230321T164826Z">
-        <seg>Polecenie bez ciągu poleceń</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Command is missing delimiter</seg>
-      </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T165409Z" creationid="oladp" creationdate="20230321T161838Z">
-        <seg>Polecenie nie zawiera separatora</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Command is missing encoding</seg>
       </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T165356Z" creationid="oladp" creationdate="20230321T161801Z">
-        <seg>Polecenie nie zawiera kodowania  URL</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Command is missing target</seg>
-      </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T165113Z" creationid="oladp" creationdate="20230321T161205Z">
-        <seg>Polecenie nie zawiera docelowego adresu URL </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Commands</seg>
       </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T165554Z" creationid="littlewhitedirect" creationdate="20230321T165554Z">
-        <seg>Polecenia</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Comment</seg>
       </tuv>
-      <tuv lang="FR" changeid="MS" changedate="20230321T165011Z" creationid="MS" creationdate="20230321T165011Z">
-        <seg>Komentarz</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Completed and current translations saved as {0}</seg>
-      </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145334Z" creationid="tobkub" creationdate="20230321T145334Z">
         <seg>Completed and current translations saved as {0}</seg>
       </tuv>
     </tu>
@@ -500,32 +325,19 @@
       <tuv lang="EN">
         <seg>Con&amp;figure</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T195525Z" creationid="biegajacy-zajac" creationdate="20230321T195525Z">
-        <seg>Skonfiguruj</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Confirm:</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T170256Z" creationid="biegajacy-zajac" creationdate="20230321T164611Z">
-        <seg>Zatwierdź:</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
-      <tuv lang="FR" changeid="janmars" changedate="20230321T161340Z" creationid="janmars" creationdate="20230321T161340Z">
-        <seg>Connection available, the project is in team project mode.</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Contact your project administrator to find out if any
-additional steps need to be taken.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="janmars" changedate="20230321T161536Z" creationid="janmars" creationdate="20230321T161536Z">
         <seg>Contact your project administrator to find out if any
 additional steps need to be taken.</seg>
       </tuv>
@@ -534,23 +346,14 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Context menu priority:</seg>
       </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T170137Z" creationid="littlewhitedirect" creationdate="20230321T165923Z">
-        <seg>Priorytet menu kontekstowego:</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145910Z" creationid="tobkub" creationdate="20230321T145658Z">
-        <seg>Nie można było utworzyć katalogu projektu {0}</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Custom branch</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T193347Z" creationid="biegajacy-zajac" creationdate="20230321T193347Z">
         <seg>Custom branch</seg>
       </tuv>
     </tu>
@@ -558,79 +361,49 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Customize character &amp;table</seg>
       </tuv>
-      <tuv lang="FR" changeid="MS" changedate="20230321T170007Z" creationid="MS" creationdate="20230321T170007Z">
-        <seg>Personalizacja tablicy znaków</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Default</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T201244Z" creationid="biegajacy-zajac" creationdate="20230321T201244Z">
-        <seg>Domyślny</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Delimiter</seg>
       </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T170327Z" creationid="littlewhitedirect" creationdate="20230321T170327Z">
-        <seg>Separator</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Description</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T163902Z" creationid="biegajacy-zajac" creationdate="20230321T161512Z">
-        <seg>Opis</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Dictionaries</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T164616Z" creationid="biegajacy-zajac" creationdate="20230321T164616Z">
-        <seg>Słowniki</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Dictionary</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T164626Z" creationid="biegajacy-zajac" creationdate="20230321T164626Z">
-        <seg>Słownik</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Directional Formatting Characters</seg>
       </tuv>
-      <tuv lang="FR" changeid="leoi23" changedate="20230321T141722Z" creationid="leoi23" creationdate="20230321T141722Z">
-        <seg>Format pliku</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Disable rule “{0}”</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T205056Z" creationid="biegajacy-zajac" creationdate="20230321T161625Z">
-        <seg>Wyłącz regułę“{0}”</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Display TBX &amp;glossaries context description</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T195634Z" creationid="biegajacy-zajac" creationdate="20230321T195529Z">
-        <seg>Wyświetl opis zawartości TBX i glosariuszy</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Do you want to replace it with the one you're moving?</seg>
-      </tuv>
-      <tuv lang="FR" changeid="JU" changedate="20230321T161758Z" creationid="JU" creationdate="20230321T161758Z">
         <seg>Do you want to replace it with the one you're moving?</seg>
       </tuv>
     </tu>
@@ -638,31 +411,19 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Don't Ask What to Check First</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T205116Z" creationid="biegajacy-zajac" creationdate="20230321T161523Z">
-        <seg>Nie pytaj, co sprawdzić najpierw</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Don't ask before checking issues</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T205443Z" creationid="biegajacy-zajac" creationdate="20230321T205443Z">
-        <seg>Nie pytaj przed sprawdzaniem błędów</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Double-check and try again.</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T192932Z" creationid="biegajacy-zajac" creationdate="20230321T170415Z">
-        <seg>Sprawdź i spróbuj ponownie</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Drop a project here to open it.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="JU" changedate="20230321T161808Z" creationid="JU" creationdate="20230321T161808Z">
         <seg>Drop a project here to open it.</seg>
       </tuv>
     </tu>
@@ -671,16 +432,10 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Enabled</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T195512Z" creationid="biegajacy-zajac" creationdate="20230321T195512Z">
-        <seg>Aktywne</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Encoding</seg>
-      </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T170314Z" creationid="littlewhitedirect" creationdate="20230321T170314Z">
-        <seg>Kodowanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -688,24 +443,23 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Enter your master password.</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T194100Z" creationid="biegajacy-zajac" creationdate="20230321T170137Z">
-        <seg>Podaj swoje hasło główne. </seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Enter your password again for confirmation.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T194539Z" creationid="biegajacy-zajac" creationdate="20230321T194348Z">
-        <seg>Wprowadź hasło ponownie w celu potwierdzenia. </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Error initializing marker '{0}'</seg>
       </tuv>
-      <tuv lang="FR" changeid="ZOO" changedate="20230324T184448Z" creationid="ZOO" creationdate="20230324T184448Z">
-        <seg>Błąd znacznika początku '{0}'</seg>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error reading TMX level2 at line {0} column {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T185225Z" creationid="ZOO" creationdate="20230324T185225Z">
+        <seg>Błąd wczytywania TMX level2 w linii {0} kolumnie {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -713,39 +467,24 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Escape</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T200739Z" creationid="biegajacy-zajac" creationdate="20230321T200739Z">
-        <seg>Escape</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Event: application startup</seg>
-      </tuv>
-      <tuv lang="FR" changeid="leoi23" changedate="20230321T143011Z" creationid="leoi23" creationdate="20230321T143011Z">
-        <seg>Zdarzenie: start aplikacji</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Event: new entry activated</seg>
       </tuv>
-      <tuv lang="FR" changeid="leoi23" changedate="20230321T144636Z" creationid="leoi23" creationdate="20230321T144636Z">
-        <seg>Zdarzenie: aktywowano nową pozycję</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Event: new file activated ({0})</seg>
       </tuv>
-      <tuv lang="FR" changeid="leoi23" changedate="20230321T144625Z" creationid="leoi23" creationdate="20230321T144625Z">
-        <seg>Zdarzenie: aktywowano nowy plik ({0})</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>External GPG did not return a valid signature; got: {0}</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T211337Z" creationid="biegajacy-zajac" creationdate="20230321T211337Z">
         <seg>External GPG did not return a valid signature; got: {0}</seg>
       </tuv>
     </tu>
@@ -753,127 +492,79 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>External Search Set</seg>
       </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T170234Z" creationid="littlewhitedirect" creationdate="20230321T170234Z">
-        <seg>Ustawienia wyszukiwania zewnętrznego</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Failed to create project!</seg>
-      </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145749Z" creationid="tobkub" creationdate="20230321T143030Z">
-        <seg>Utworzenie nowego projektu nie powiodło się</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>File Name</seg>
       </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145403Z" creationid="tobkub" creationdate="20230321T145403Z">
-        <seg>Nazwa pliku</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Found in:</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Maja" changedate="20230321T163834Z" creationid="Maja" creationdate="20230321T163834Z">
-        <seg>Znajduje się w:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Full text</seg>
       </tuv>
-      <tuv lang="FR" changeid="MS" changedate="20230321T165006Z" creationid="MS" creationdate="20230321T165006Z">
-        <seg>Pełny tekst</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>General</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T204811Z" creationid="biegajacy-zajac" creationdate="20230321T195145Z">
-        <seg>Ogólne</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Global External Searches</seg>
       </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T165834Z" creationid="littlewhitedirect" creationdate="20230321T165727Z">
-        <seg>Zewnętrzne wyszukiwanie globalne</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Glossaries</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T195532Z" creationid="biegajacy-zajac" creationdate="20230321T195528Z">
-        <seg>Glosariusze</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Go to Preferences &gt; Global External Searches to enable them.</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T204028Z" creationid="biegajacy-zajac" creationdate="20230321T202703Z">
-        <seg>Aby je włączyć, idź do Preferencje &gt; Zewnętrzne wyszukiwanie globalne.</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Go to Segment Source</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Maja" changedate="20230321T162709Z" creationid="Maja" creationdate="20230321T162709Z">
-        <seg>Idź do Segmentu Źródłowego</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>I Understand; Do It Anyway</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T195832Z" creationid="biegajacy-zajac" creationdate="20230321T195832Z">
-        <seg>Rozumiem; Mimo wszystko wykonaj</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T204935Z" creationid="biegajacy-zajac" creationdate="20230321T194007Z">
-        <seg>Jeśli sprawdzanie problemów jest powolne, spróbuj wyłączyć niektóre z opcjonalnych kontroli. </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ignore: “{0}”</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T165358Z" creationid="biegajacy-zajac" creationdate="20230321T161528Z">
-        <seg>Ignoruj: “{0}”</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>In editor</seg>
-      </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T170035Z" creationid="littlewhitedirect" creationdate="20230321T165917Z">
-        <seg>W edytorze</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Incorrect password.</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T170247Z" creationid="biegajacy-zajac" creationdate="20230321T170247Z">
-        <seg>Hasło nieprawidłowe.</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Insert Bidi Control C&amp;haracter</seg>
-      </tuv>
-      <tuv lang="FR" changeid="klaudiakempa" changedate="20230321T142047Z" creationid="klaudiakempa" creationdate="20230321T142047Z">
         <seg>Insert Bidi Control C&amp;haracter</seg>
       </tuv>
     </tu>
@@ -881,31 +572,19 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Insert Match or Selection into Translation</seg>
       </tuv>
-      <tuv lang="FR" changeid="Maja" changedate="20230321T163640Z" creationid="Maja" creationdate="20230321T163640Z">
-        <seg>Wprowadź Dopasowanie lub Wybór w Tłumaczenie</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Install</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Maja" changedate="20230321T161815Z" creationid="Maja" creationdate="20230321T161815Z">
-        <seg>Instaluj</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Insufficient permissions for project dir {0}</seg>
       </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145902Z" creationid="tobkub" creationdate="20230321T145700Z">
-        <seg>Brak uprawnień do utworzenia katalogu projektu {0}</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Issues for {0} ({1} of {2})</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T160859Z" creationid="biegajacy-zajac" creationdate="20230321T160859Z">
         <seg>Issues for {0} ({1} of {2})</seg>
       </tuv>
     </tu>
@@ -913,39 +592,24 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Item has neither URLs nor commands.</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T204303Z" creationid="biegajacy-zajac" creationdate="20230321T204147Z">
-        <seg>Element nie zawiera adresów URL ani poleceń.</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Item is missing scope</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T204337Z" creationid="biegajacy-zajac" creationdate="20230321T201702Z">
-        <seg>Element bez zakresu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Item name is empty or missing</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T204129Z" creationid="biegajacy-zajac" creationdate="20230321T204129Z">
-        <seg>Nazwa elementu jest pusta lub jej brakuje</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Language not specified for translation unit variant.</seg>
       </tuv>
-      <tuv lang="FR" changeid="ZOO" changedate="20230324T183739Z" creationid="ZOO" creationdate="20230324T183739Z">
-        <seg>Nie określono języka dla wariantu jednostki tłumaczenia.</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>LanguageTool</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T161625Z" creationid="biegajacy-zajac" creationdate="20230321T161625Z">
         <seg>LanguageTool</seg>
       </tuv>
     </tu>
@@ -953,15 +617,9 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>LanguageTool Issues</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T203138Z" creationid="biegajacy-zajac" creationdate="20230321T161624Z">
-        <seg>Problemy z LanguageTool</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>LanguageTool: An error occurred during check.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="janmars" changedate="20230321T161323Z" creationid="janmars" creationdate="20230321T161323Z">
         <seg>LanguageTool: An error occurred during check.</seg>
       </tuv>
     </tu>
@@ -969,39 +627,32 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Languages</seg>
       </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T150100Z" creationid="tobkub" creationdate="20230321T145635Z">
-        <seg>Języki</seg>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading glossary {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T185227Z" creationid="ZOO" creationdate="20230324T185227Z">
+        <seg>Wczytywanie glosariusza {0}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Local External Searches</seg>
       </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T165738Z" creationid="littlewhitedirect" creationdate="20230321T165738Z">
-        <seg>Zewnętrzne wyszukiwanie lokalne</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Local project commands are disabled for security reasons.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T202416Z" creationid="biegajacy-zajac" creationdate="20230321T201616Z">
-        <seg>Polecenia projektów lokalnych są wyłączone ze względów bezpieczeństwa.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Machine Translation</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T195248Z" creationid="biegajacy-zajac" creationdate="20230321T195248Z">
-        <seg>Tłumaczenie maszynowe</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Machine translate highlight</seg>
-      </tuv>
-      <tuv lang="FR" changeid="janmars" changedate="20230321T161325Z" creationid="janmars" creationdate="20230321T161325Z">
         <seg>Machine translate highlight</seg>
       </tuv>
     </tu>
@@ -1010,56 +661,35 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Master Password</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T165931Z" creationid="biegajacy-zajac" creationdate="20230321T165931Z">
-        <seg>Hasło główne</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Match Statistics</seg>
-      </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T150035Z" creationid="tobkub" creationdate="20230321T145541Z">
-        <seg>Statystyka dopasowań</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Match term groups even if the terms appear separately</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T205645Z" creationid="biegajacy-zajac" creationdate="20230321T195739Z">
-        <seg>Dopasuj grupy terminów, nawet jeśli pojawiają się osobno</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Merge alternate definitions of the same term</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T201228Z" creationid="biegajacy-zajac" creationdate="20230321T201228Z">
-        <seg>Połącz alternatywne definicje tego samego terminu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Name</seg>
       </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T170008Z" creationid="littlewhitedirect" creationdate="20230321T165905Z">
-        <seg>Nazwa</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Name:</seg>
       </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T170337Z" creationid="littlewhitedirect" creationdate="20230321T170331Z">
-        <seg>Nazwa</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Name: {0}</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T201640Z" creationid="biegajacy-zajac" creationdate="20230321T201640Z">
-        <seg>Nazwa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1067,39 +697,24 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>No Issues Found</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T165835Z" creationid="biegajacy-zajac" creationdate="20230321T160849Z">
-        <seg>Nie znaleziono błędów</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>No match:</seg>
-      </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145602Z" creationid="tobkub" creationdate="20230321T145602Z">
-        <seg>Brak dopasowania:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>No new languages available at the remote server.</seg>
       </tuv>
-      <tuv lang="FR" changeid="Maja" changedate="20230321T161910Z" creationid="biegajacy-zajac" creationdate="20230321T161451Z">
-        <seg>Brak nowych języków dostępnych w serwerze zdalnym.</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>No option: Launch GUI.</seg>
       </tuv>
-      <tuv lang="FR" changeid="leoi23" changedate="20230321T142943Z" creationid="leoi23" creationdate="20230321T142943Z">
-        <seg>&amp;Opcje</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>No script bound in slot #{0}.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="kapel" changedate="20230321T232348Z" creationid="kapel" creationdate="20230321T232348Z">
         <seg>No script bound in slot #{0}.</seg>
       </tuv>
     </tu>
@@ -1107,23 +722,14 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>No script set.</seg>
       </tuv>
-      <tuv lang="FR" changeid="kapel" changedate="20230321T161833Z" creationid="kapel" creationdate="20230321T161833Z">
-        <seg>Brak zestawu skryptów.</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Non-ASCII Only</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T201527Z" creationid="biegajacy-zajac" creationdate="20230321T201527Z">
-        <seg>Tylko nie-ASCII</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Non-breakable spaces</seg>
-      </tuv>
-      <tuv lang="FR" changeid="janmars" changedate="20230321T161330Z" creationid="janmars" creationdate="20230321T161330Z">
         <seg>Non-breakable spaces</seg>
       </tuv>
     </tu>
@@ -1131,15 +737,9 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>None</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T202346Z" creationid="biegajacy-zajac" creationdate="20230321T200748Z">
-        <seg>Brak</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>OmegaT</seg>
-      </tuv>
-      <tuv lang="FR" changeid="luizakolosa" changedate="20230321T142308Z" creationid="luizakolosa" creationdate="20230321T142308Z">
         <seg>OmegaT</seg>
       </tuv>
     </tu>
@@ -1147,55 +747,37 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>OmegaT Classic</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T202310Z" creationid="biegajacy-zajac" creationdate="20230321T202310Z">
-        <seg>Klasyczna OmegaT</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>OmegaT Default</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T203737Z" creationid="biegajacy-zajac" creationdate="20230321T200838Z">
-        <seg>Docelowa OmegaT</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T205603Z" creationid="biegajacy-zajac" creationdate="20230321T164822Z">
-        <seg>OmegaT może generować i przechowywać hasło główne, aby nie trzeba było go wprowadzać za każdym razem, ale jest to znacznie mniej bezpieczne.</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>OmegaT classic theme</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T202329Z" creationid="biegajacy-zajac" creationdate="20230321T202329Z">
-        <seg>Klasyczny motyw OmegaT</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>OmegaT default theme</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T203747Z" creationid="biegajacy-zajac" creationdate="20230321T201348Z">
-        <seg>Docelowy motyw OmegaT</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>OmegaT options:</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Dell" changedate="20230321T142210Z" creationid="Dell" creationdate="20230321T142210Z">
-        <seg>Licencja OmegaT</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>OmegaT will try to resegment the TMX file...</seg>
       </tuv>
-      <tuv lang="FR" changeid="ZOO" changedate="20230324T184425Z" creationid="ZOO" creationdate="20230324T184425Z">
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T185045Z">
         <seg>OmegaT spróbuje przebudować plik TMX...</seg>
       </tuv>
     </tu>
@@ -1203,47 +785,29 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Options</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T164019Z" creationid="biegajacy-zajac" creationdate="20230321T161522Z">
-        <seg>Opcje</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Orphan segments</seg>
-      </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T150008Z" creationid="tobkub" creationdate="20230321T150008Z">
-        <seg>Segmenty osierocone</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Password:</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T164558Z" creationid="biegajacy-zajac" creationdate="20230321T164558Z">
-        <seg>Hasło:</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Plugin Installer</seg>
-      </tuv>
-      <tuv lang="FR" changeid="Maja" changedate="20230321T162230Z" creationid="Maja" creationdate="20230321T162230Z">
-        <seg>Instalator wtyczek</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
-      <tuv lang="FR" changeid="ZOO" changedate="20230324T184756Z" creationid="janmars" creationdate="20230321T161319Z">
-        <seg>Le module d'extension a été chargé avec succès à partir de la classe « {0} »</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Post-processing commands completed.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145336Z" creationid="tobkub" creationdate="20230321T145336Z">
         <seg>Post-processing commands completed.</seg>
       </tuv>
     </tu>
@@ -1251,33 +815,20 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Preferences</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T195903Z" creationid="biegajacy-zajac" creationdate="20230321T195903Z">
-        <seg>Preferencje</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Preferences - {0}</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T204823Z" creationid="biegajacy-zajac" creationdate="20230321T204823Z">
-        <seg>Preferencje</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
-      <tuv lang="FR" changeid="janmars" changedate="20230321T161447Z" creationid="janmars" creationdate="20230321T161447Z">
-        <seg>Press 'Cancel' to leave the project unmodified and load it as a local
-project without team functionality.</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Press 'OK' to convert the project into a 4.x team project.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="janmars" changedate="20230321T161353Z" creationid="janmars" creationdate="20230321T161353Z">
         <seg>Press 'OK' to convert the project into a 4.x team project.</seg>
       </tuv>
     </tu>
@@ -1285,15 +836,9 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Project Properties</seg>
       </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145625Z" creationid="tobkub" creationdate="20230321T145625Z">
-        <seg>Właściwości projektu</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Project conversion successful.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="janmars" changedate="20230321T161405Z" creationid="janmars" creationdate="20230321T161405Z">
         <seg>Project conversion successful.</seg>
       </tuv>
     </tu>
@@ -1301,15 +846,9 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Project path only: Launch GUI and load specified project.</seg>
       </tuv>
-      <tuv lang="FR" changeid="leoi23" changedate="20230321T143638Z" creationid="leoi23" creationdate="20230321T143638Z">
-        <seg>Wczytanie podanego projektu nie powiodło się!</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Provider</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T195452Z" creationid="biegajacy-zajac" creationdate="20230321T195452Z">
         <seg>Provider</seg>
       </tuv>
     </tu>
@@ -1318,15 +857,9 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Reload the current project to apply these changes</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T200037Z" creationid="biegajacy-zajac" creationdate="20230321T194940Z">
-        <seg>Aby zastosować te zmiany, ponownie załaduj bieżący projekt</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Remaining Characters (w/o spaces)</seg>
-      </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145450Z" creationid="tobkub" creationdate="20230321T145450Z">
         <seg>Remaining Characters (w/o spaces)</seg>
       </tuv>
     </tu>
@@ -1334,24 +867,15 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remaining Words</seg>
       </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145417Z" creationid="tobkub" creationdate="20230321T145417Z">
-        <seg>Wyrazów pozostało</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Replace Translation with Match or Selection</seg>
       </tuv>
-      <tuv lang="FR" changeid="Maja" changedate="20230321T163736Z" creationid="Maja" creationdate="20230321T163736Z">
-        <seg>Zastąp tłumaczenie dopasowaniem lub wyborem</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Replace matches when inserting source text</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T201032Z" creationid="biegajacy-zajac" creationdate="20230321T201032Z">
-        <seg>Zastąp dopasowania podczas wstawiania tekstu źródłowego</seg>
       </tuv>
     </tu>
     <tu>
@@ -1359,55 +883,34 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Restart OmegaT to apply these changes</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T203730Z" creationid="biegajacy-zajac" creationdate="20230321T194935Z">
-        <seg>Aby zastosować te zmiany, ponownie uruchom OmegaT</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T194709Z" creationid="biegajacy-zajac" creationdate="20230321T194709Z">
-        <seg>Przywróć ustawienia domyślne</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Se&amp;ntence-level segmenting</seg>
       </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T150057Z" creationid="tobkub" creationdate="20230321T145618Z">
-        <seg>Segmentowanie na poziomie zdań</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Search &amp;automatically</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T200852Z" creationid="biegajacy-zajac" creationdate="20230321T200852Z">
-        <seg>Wyszukaj automatycznie</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Search ({0})</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T170428Z" creationid="biegajacy-zajac" creationdate="20230321T170428Z">
-        <seg>Szukaj ({0})</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Search thread died unexpectedly!</seg>
       </tuv>
-      <tuv lang="FR" changeid="ZOO" changedate="20230324T184434Z" creationid="ZOO" creationdate="20230324T184434Z">
-        <seg>Zadanie wyszukiwania niespodziewanie zakończyło się!</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Searches can also be performed on a specified folder hierarchy.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="janmars" changedate="20230321T161018Z" creationid="janmars" creationdate="20230321T161018Z">
         <seg>Searches can also be performed on a specified folder hierarchy.</seg>
       </tuv>
     </tu>
@@ -1415,15 +918,9 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>See Help &gt; User Manual for details, including available Java options.</seg>
       </tuv>
-      <tuv lang="FR" changeid="leoi23" changedate="20230321T144441Z" creationid="leoi23" creationdate="20230321T144441Z">
-        <seg>See Help &gt; User Manual for details, including available Java options.</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Segment</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T161512Z" creationid="biegajacy-zajac" creationdate="20230321T161512Z">
         <seg>Segment</seg>
       </tuv>
     </tu>
@@ -1431,87 +928,62 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Select Issue Types</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T193856Z" creationid="biegajacy-zajac" creationdate="20230321T164552Z">
-        <seg>Wybierz typ problemu</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select a Category</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T194634Z" creationid="biegajacy-zajac" creationdate="20230321T170440Z">
-        <seg>Wybierz kategorię</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select a plugin file (*.jar, *.zip)</seg>
       </tuv>
-      <tuv lang="FR" changeid="Maja" changedate="20230321T162516Z" creationid="Maja" creationdate="20230321T162516Z">
-        <seg>Wybierz plik wtyczki (*.jar, *.zip)</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select issue types to check.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T193919Z" creationid="biegajacy-zajac" creationdate="20230321T193919Z">
-        <seg>Wybierz typ problemu do sprawdzenia.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Set My Own Password</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T195755Z" creationid="biegajacy-zajac" creationdate="20230321T195755Z">
-        <seg>Ustaw moje własne hasło</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Set a master password to protect your private data.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T170009Z" creationid="biegajacy-zajac" creationdate="20230321T170009Z">
-        <seg>Ustaw hasło główne, żeby chronić swoje prywatne dane.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Sets</seg>
       </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T165959Z" creationid="littlewhitedirect" creationdate="20230321T165854Z">
-        <seg>Ustawienia</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Shortcut</seg>
-      </tuv>
-      <tuv lang="FR" changeid="MS" changedate="20230321T164920Z" creationid="MS" creationdate="20230321T164920Z">
-        <seg>Skrót</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Shortcut:</seg>
       </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T170544Z" creationid="littlewhitedirect" creationdate="20230321T170544Z">
-        <seg>Skrót</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Skip</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T164758Z" creationid="biegajacy-zajac" creationdate="20230321T164758Z">
-        <seg>Pomiń</seg>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skipped translation units for which no source segment was found.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230324T185036Z" creationid="ZOO" creationdate="20230324T185036Z">
+        <seg>Nie można zlokalizować segmentu źródłowego dla pewnych jednostek tłumaczenia. Jednostki te zostały pominięte.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>So&amp;urce Files...</seg>
-      </tuv>
-      <tuv lang="FR" changeid="janmars" changedate="20230321T160951Z" creationid="janmars" creationdate="20230321T160951Z">
         <seg>So&amp;urce Files...</seg>
       </tuv>
     </tu>
@@ -1519,88 +991,55 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Source language: {0}</seg>
       </tuv>
-      <tuv lang="FR" changeid="ZOO" changedate="20230324T183737Z" creationid="ZOO" creationdate="20230324T183737Z">
-        <seg>Język źródłowy: {0}</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
-      </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T170537Z" creationid="littlewhitedirect" creationdate="20230321T170333Z">
-        <seg>Określ mnemonik za pomocą "&amp;": "F&amp;oobar" aby użyć O</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Spelling</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T164034Z" creationid="biegajacy-zajac" creationdate="20230321T161524Z">
-        <seg>Pisownia</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Spelling Issues</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T210540Z" creationid="biegajacy-zajac" creationdate="20230321T161524Z">
-        <seg>Błędy w pisowni</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145500Z" creationid="tobkub" creationdate="20230321T145500Z">
-        <seg>Statystyki</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Summary</seg>
-      </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T165904Z" creationid="littlewhitedirect" creationdate="20230321T165904Z">
-        <seg>Podsumowanie</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>TM Matching Options</seg>
       </tuv>
-      <tuv lang="FR" changeid="Maja" changedate="20230321T163923Z" creationid="Maja" creationdate="20230321T163923Z">
-        <seg>Opcje z Pamięci tłumaczeniowej</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Tag Issues</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T193651Z" creationid="biegajacy-zajac" creationdate="20230321T161528Z">
-        <seg>Problemy ze znacznikami</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Tags</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T165453Z" creationid="biegajacy-zajac" creationdate="20230321T161529Z">
-        <seg>Znaczniki</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Target</seg>
       </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T170307Z" creationid="littlewhitedirect" creationdate="20230321T170307Z">
-        <seg>Tłumaczenie</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Terminology</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T164140Z" creationid="biegajacy-zajac" creationdate="20230321T161633Z">
-        <seg>Terminologia</seg>
       </tuv>
     </tu>
     <tu>
@@ -1608,39 +1047,24 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Terminology Issues</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T193805Z" creationid="biegajacy-zajac" creationdate="20230321T161626Z">
-        <seg>Problemy terminologiczne</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The password cannot be empty.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T194145Z" creationid="biegajacy-zajac" creationdate="20230321T170314Z">
-        <seg>Hasło nie może być puste.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The passwords do not match.</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T170320Z" creationid="biegajacy-zajac" creationdate="20230321T170320Z">
-        <seg>Hasła się nie zgadzają.</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The project cannot be verified</seg>
       </tuv>
-      <tuv lang="FR" changeid="janmars" changedate="20230321T161337Z" creationid="janmars" creationdate="20230321T161337Z">
-        <seg>The project cannot be verified</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>The project will be loaded as a local project without team functionality.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="janmars" changedate="20230321T161345Z" creationid="janmars" creationdate="20230321T161345Z">
         <seg>The project will be loaded as a local project without team functionality.</seg>
       </tuv>
     </tu>
@@ -1648,17 +1072,9 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>This project</seg>
       </tuv>
-      <tuv lang="FR" changeid="Maja" changedate="20230321T163839Z" creationid="Maja" creationdate="20230321T163839Z">
-        <seg>Ten projekt</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>This will
-delete your local data and re-download the project contents from
-the server.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T193349Z" creationid="biegajacy-zajac" creationdate="20230321T193349Z">
         <seg>This will
 delete your local data and re-download the project contents from
 the server.</seg>
@@ -1668,15 +1084,9 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Total Characters (w/o spaces)</seg>
       </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145432Z" creationid="tobkub" creationdate="20230321T145432Z">
-        <seg>Całkowita liczba znaków (bez spacji)</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Total Segments</seg>
-      </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145407Z" creationid="tobkub" creationdate="20230321T145407Z">
         <seg>Total Segments</seg>
       </tuv>
     </tu>
@@ -1684,23 +1094,14 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Total Words</seg>
       </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145411Z" creationid="tobkub" creationdate="20230321T145411Z">
-        <seg>Całkowita liczba wyrazów</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Total:</seg>
       </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T150045Z" creationid="tobkub" creationdate="20230321T145606Z">
-        <seg>Wszystkie:</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Translated file created</seg>
-      </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145355Z" creationid="tobkub" creationdate="20230321T145355Z">
         <seg>Translated file created</seg>
       </tuv>
     </tu>
@@ -1708,15 +1109,9 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Translated files created</seg>
       </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145352Z" creationid="tobkub" creationdate="20230321T142259Z">
-        <seg>Utworzono pliki docelowe</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Translator comments:</seg>
-      </tuv>
-      <tuv lang="FR" changeid="janmars" changedate="20230321T161334Z" creationid="janmars" creationdate="20230321T161334Z">
         <seg>Translator comments:</seg>
       </tuv>
     </tu>
@@ -1724,25 +1119,15 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Type</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T163828Z" creationid="biegajacy-zajac" creationdate="20230321T161512Z">
-        <seg>Typ</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
-      <tuv lang="FR" changeid="janmars" changedate="20230321T161312Z" creationid="janmars" creationdate="20230321T161312Z">
-        <seg>Types:
-Exact searches match the whole search string.</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>URL</seg>
-      </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T170343Z" creationid="littlewhitedirect" creationdate="20230321T170245Z">
         <seg>URL</seg>
       </tuv>
     </tu>
@@ -1750,47 +1135,29 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>URL does not contain "{0}"</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T201839Z" creationid="biegajacy-zajac" creationdate="20230321T200446Z">
-        <seg>URL nie zawiera "{0}"</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>URL is missing URL string</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T201821Z" creationid="biegajacy-zajac" creationdate="20230321T201821Z">
-        <seg>URL bez ciągu URL</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>URL is missing encoding</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T201944Z" creationid="littlewhitedirect" creationdate="20230321T165014Z">
-        <seg>URL bez kodowania</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>URL is missing target</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T201935Z" creationid="biegajacy-zajac" creationdate="20230321T201935Z">
-        <seg>URL bez adresu docelowego</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>URLs</seg>
       </tuv>
-      <tuv lang="FR" changeid="littlewhitedirect" changedate="20230321T165549Z" creationid="littlewhitedirect" creationdate="20230321T165549Z">
-        <seg>Adresy URL</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Unable to build new TMX file!</seg>
-      </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145644Z" creationid="tobkub" creationdate="20230321T145644Z">
         <seg>Unable to build new TMX file!</seg>
       </tuv>
     </tu>
@@ -1798,23 +1165,14 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Unable to save data.</seg>
       </tuv>
-      <tuv lang="FR" changeid="MS" changedate="20230321T164903Z" creationid="MS" creationdate="20230321T164903Z">
-        <seg>Nie można zapisać danych.</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Unique Remaining Words</seg>
       </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145424Z" creationid="tobkub" creationdate="20230321T145424Z">
-        <seg>Unique Remaining Words</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Unique Words</seg>
-      </tuv>
-      <tuv lang="FR" changeid="tobkub" changedate="20230321T145422Z" creationid="tobkub" creationdate="20230321T145422Z">
         <seg>Unique Words</seg>
       </tuv>
     </tu>
@@ -1822,24 +1180,15 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Unsupported project file version ({0})!</seg>
       </tuv>
-      <tuv lang="FR" changeid="ZOO" changedate="20230324T184441Z" creationid="ZOO" creationdate="20230324T184441Z">
-        <seg>Nieobsługiwana wersja pliku projektu ({0})!</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Untranslated segments &amp;only</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T195415Z" creationid="biegajacy-zajac" creationdate="20230321T195415Z">
-        <seg>Tylko nieprzetłumaczone segmenty</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Use &amp;Condensed view</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T204802Z" creationid="biegajacy-zajac" creationdate="20230321T200911Z">
-        <seg>Użyj widoku skompresowanego</seg>
       </tuv>
     </tu>
     <tu>
@@ -1847,31 +1196,19 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Use &amp;TAB to advance</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T203114Z" creationid="biegajacy-zajac" creationdate="20230321T195232Z">
-        <seg>TAB zmienia segment</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Use &amp;fuzzy matching</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T201319Z" creationid="biegajacy-zajac" creationdate="20230321T164752Z">
-        <seg>Zastosuj dopasowanie rozmyte</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Use &amp;stemming</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T210401Z" creationid="biegajacy-zajac" creationdate="20230321T200942Z">
-        <seg>Użyj lematyzacji</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Whitespaces</seg>
-      </tuv>
-      <tuv lang="FR" changeid="janmars" changedate="20230321T161326Z" creationid="janmars" creationdate="20230321T161326Z">
         <seg>Whitespaces</seg>
       </tuv>
     </tu>
@@ -1880,16 +1217,9 @@ Exact searches match the whole search string.</seg>
         <seg>Wildcards:
 Both exact and keyword searches support the * and ?</seg>
       </tuv>
-      <tuv lang="FR" changeid="Hania M" changedate="20230321T141027Z" creationid="Hania M" creationdate="20230321T141027Z">
-        <seg>Symbole wieloznaczne
-Both exact and keyword searches support the * and ?</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>You must enter a number between 1 and {0}.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="luizakolosa" changedate="20230321T143458Z" creationid="luizakolosa" creationdate="20230321T143458Z">
         <seg>You must enter a number between 1 and {0}.</seg>
       </tuv>
     </tu>
@@ -1898,47 +1228,29 @@ Both exact and keyword searches support the * and ?</seg>
       <tuv lang="EN">
         <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T205508Z" creationid="biegajacy-zajac" creationdate="20230321T170127Z">
-        <seg>Komunikat z prośbą o podanie tego hasła pojawi się przy każdym uruchomieniu OmegaT.</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Your current project uses sentence segmentation, but the TMX file was created using paragraph segmentation.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="ZOO" changedate="20230324T183746Z" creationid="ZOO" creationdate="20230324T183746Z">
-        <seg>Bieżący projekt używa segmentacji opartej na zdaniach, zaś plik TMX segmentacji opartej na akapitach.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>[Fuzzy]</seg>
       </tuv>
-      <tuv lang="FR" changeid="Maja" changedate="20230321T163827Z" creationid="Maja" creationdate="20230321T163827Z">
-        <seg>[Rozmyty]</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T205036Z" creationid="biegajacy-zajac" creationdate="20230321T161635Z">
-        <seg>[{0}] “{1}” w oryginale; spodziewane jedno z {2} w tłumaczeniu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T205011Z" creationid="biegajacy-zajac" creationdate="20230321T161634Z">
-        <seg>[{0}] “{1}” w oryginale; spodziewane “{2}” w tłumaczeniu</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>{0} ({1})</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T161521Z" creationid="biegajacy-zajac" creationdate="20230321T161521Z">
         <seg>{0} ({1})</seg>
       </tuv>
     </tu>
@@ -1946,15 +1258,9 @@ Both exact and keyword searches support the * and ?</seg>
       <tuv lang="EN">
         <seg>{0} x{1}</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T161529Z" creationid="biegajacy-zajac" creationdate="20230321T161529Z">
-        <seg>{0} x{1}</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>{0} {1}</seg>
-      </tuv>
-      <tuv lang="FR" changeid="janmars" changedate="20230321T160947Z" creationid="janmars" creationdate="20230321T160947Z">
         <seg>{0} {1}</seg>
       </tuv>
     </tu>
@@ -1962,15 +1268,9 @@ Both exact and keyword searches support the * and ?</seg>
       <tuv lang="EN">
         <seg>{0}-{1}_{2}_{3}</seg>
       </tuv>
-      <tuv lang="FR" changeid="luizakolosa" changedate="20230321T143255Z" creationid="luizakolosa" creationdate="20230321T143255Z">
-        <seg>{0}-{1}_{2}_{3}</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>{0}.</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T161926Z" creationid="biegajacy-zajac" creationdate="20230321T161926Z">
         <seg>{0}.</seg>
       </tuv>
     </tu>
@@ -1978,15 +1278,9 @@ Both exact and keyword searches support the * and ?</seg>
       <tuv lang="EN">
         <seg>{0}_{1}</seg>
       </tuv>
-      <tuv lang="FR" changeid="AgnieszkaS" changedate="20230321T151424Z" creationid="AgnieszkaS" creationdate="20230321T151424Z">
-        <seg>{0}_{1}</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>{0}_{1}_{2}</seg>
-      </tuv>
-      <tuv lang="FR" changeid="luizakolosa" changedate="20230321T143144Z" creationid="luizakolosa" creationdate="20230321T143144Z">
         <seg>{0}_{1}_{2}</seg>
       </tuv>
     </tu>
@@ -1994,23 +1288,14 @@ Both exact and keyword searches support the * and ?</seg>
       <tuv lang="EN">
         <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T164544Z" creationid="biegajacy-zajac" creationdate="20230321T164544Z">
-        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>“{0}”</seg>
       </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T161636Z" creationid="biegajacy-zajac" creationdate="20230321T161636Z">
-        <seg>“{0}”</seg>
-      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>“{0}” ({1})</seg>
-      </tuv>
-      <tuv lang="FR" changeid="biegajacy-zajac" changedate="20230321T161636Z" creationid="biegajacy-zajac" creationdate="20230321T161636Z">
         <seg>“{0}” ({1})</seg>
       </tuv>
     </tu>
