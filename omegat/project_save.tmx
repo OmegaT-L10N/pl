@@ -79,6 +79,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable autotext</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T105325Z" creationid="janmars" creationdate="20230327T105325Z">
+        <seg>i umożliwij autotekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable character table</seg>
       </tuv>
     </tu>
@@ -196,8 +204,8 @@
       <tuv lang="EN">
         <seg>&amp;Save...</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T102414Z">
-        <seg>&amp;Save...</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T105532Z">
+        <seg>i&amp;Save...</seg>
       </tuv>
     </tu>
     <tu>
@@ -425,8 +433,8 @@
       <tuv lang="EN">
         <seg>Auto-text configuration</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T102445Z" creationid="janmars" creationdate="20230327T102445Z">
-        <seg>Auto-text configuration</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T105504Z" creationid="janmars" creationdate="20230327T102445Z">
+        <seg>Konfiguracja autotekstu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1116,8 +1124,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Follow capitalization of the typed text</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T105300Z" creationid="janmars" creationdate="20230327T105300Z">
-        <seg>Kontynuuj rozpoczynanie wielką literą</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T105310Z" creationid="janmars" creationdate="20230327T105300Z">
+        <seg>Kontynuuj rozpoczynanie wielką literą we wpisywanym teksćie</seg>
       </tuv>
     </tu>
     <tu>
@@ -1175,6 +1183,9 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Glossaries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T105313Z">
+        <seg>Glosariusze</seg>
       </tuv>
     </tu>
     <tu>
@@ -2179,10 +2190,26 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T105354Z" creationid="janmars" creationdate="20230327T105354Z">
+        <seg>Sortuj &amp;alfabetycznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort by &amp;full text, not shortcut</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T102412Z" creationid="janmars" creationdate="20230327T102412Z">
-        <seg>Sort by &amp;full text, not shortcut</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T105457Z" creationid="janmars" creationdate="20230327T102412Z">
+        <seg>Sortuj pod kątem &amp;pełnego tekstu, a nie skrótu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by len&amp;gth</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T105359Z" creationid="janmars" creationdate="20230327T105344Z">
+        <seg>Sortuj pod kątem dłu&amp;gości</seg>
       </tuv>
     </tu>
     <tu>
