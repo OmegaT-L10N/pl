@@ -24,6 +24,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow local post-processing commands</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104001Z" creationid="janmars" creationdate="20230327T104001Z">
+        <seg>&amp;Umożliwij lokalne post-przetwarzanie komend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Always confirm quit</seg>
       </tuv>
     </tu>
@@ -936,6 +944,14 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Error: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103757Z" creationid="janmars" creationdate="20230327T103757Z">
+        <seg>Błąd: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Ma zostać angielska wersja?</note>
       <tuv lang="EN">
         <seg>Escape</seg>
@@ -1050,6 +1066,14 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Global External Searches</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Global post-processing commands</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103930Z" creationid="janmars" creationdate="20230327T103930Z">
+        <seg>Globalne komendy post-przetwarzania. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1328,6 +1352,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Minutes:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103906Z" creationid="janmars" creationdate="20230327T103906Z">
+        <seg>Minuty:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Missing attribute '{0}' in &lt;{1}&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191336Z" creationid="ZOO" creationdate="20230324T191336Z">
@@ -1415,6 +1447,14 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Non-ASCII Only</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-breakable space</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104014Z" creationid="janmars" creationdate="20230327T104014Z">
+        <seg>Spacja nierozdzielalna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1655,6 +1695,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project data saving interval</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103901Z" creationid="janmars" creationdate="20230327T103901Z">
+        <seg>Czas zapisywania danych projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project path only: Launch GUI and load specified project.</seg>
       </tuv>
     </tu>
@@ -1758,10 +1806,18 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saving and Output</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103837Z" creationid="janmars" creationdate="20230327T103824Z">
+        <seg>Zapis i wyjście.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving and Output Options</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T102126Z" creationid="janmars" creationdate="20230327T102126Z">
-        <seg>Saving and Output Options</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103828Z" creationid="janmars" creationdate="20230327T102126Z">
+        <seg>Opcje zapisu i wyjścia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1787,6 +1843,14 @@ project without team functionality.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Searches can also be performed on a specified folder hierarchy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Seconds:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103909Z" creationid="janmars" creationdate="20230327T103909Z">
+        <seg>Sekundy:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1866,6 +1930,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185758Z" creationid="ZOO" creationdate="20230324T185758Z">
         <seg>Pominięto poprzednio załadowaną wtyczkę klasy '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skipping.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103744Z" creationid="janmars" creationdate="20230327T103744Z">
+        <seg>Pomiń.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1993,6 +2065,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104026Z" creationid="janmars" creationdate="20230327T104026Z">
+        <seg>Tabulator </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104029Z" creationid="janmars" creationdate="20230327T104029Z">
+        <seg>Tag </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag Issues</seg>
       </tuv>
     </tu>
@@ -2055,6 +2143,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185910Z" creationid="ZOO" creationdate="20230324T185910Z">
         <seg>Opcje filtra tekstu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text to remove</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104039Z" creationid="janmars" creationdate="20230327T104039Z">
+        <seg>Tekst do usunięcia </seg>
       </tuv>
     </tu>
     <tu>
