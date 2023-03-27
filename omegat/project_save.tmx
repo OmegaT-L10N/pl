@@ -84,6 +84,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable glossary suggestions</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T105233Z" creationid="janmars" creationdate="20230327T105233Z">
+        <seg>i umożliwij sugestie glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Endnotes</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190331Z" creationid="ZOO" creationdate="20230324T190331Z">
@@ -767,6 +775,22 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T105204Z" creationid="janmars" creationdate="20230327T105204Z">
+        <seg>Pokaż wpisy w porządku "&lt;cel&gt; → &lt;źródło&gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T105127Z" creationid="janmars" creationdate="20230327T105127Z">
+        <seg>Pokaż wpisy w porządku "&lt;cel&gt; → &lt;źródło&gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you want to replace it with the one you're moving?</seg>
       </tuv>
     </tu>
@@ -1090,6 +1114,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Follow capitalization of the typed text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T105300Z" creationid="janmars" creationdate="20230327T105300Z">
+        <seg>Kontynuuj rozpoczynanie wielką literą</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Foote&amp;rs</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190332Z" creationid="ZOO" creationdate="20230324T190332Z">
@@ -1143,6 +1175,14 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Glossaries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary auto-completer options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T105029Z" creationid="janmars" creationdate="20230327T105029Z">
+        <seg>Opcje autokompletera glosariusza</seg>
       </tuv>
     </tu>
     <tu>
@@ -1206,6 +1246,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191505Z" creationid="ZOO" creationdate="20230324T191505Z">
         <seg>Identyfikator stosowany w przypadku tłumaczeń alternatywnych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the entries are sorted alphabetically.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T105015Z" creationid="janmars" creationdate="20230327T105015Z">
+        <seg>Po najechaniu kursorem, wpisy są sortowane automatycznie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2065,6 +2113,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show &amp;source term first</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T105141Z" creationid="janmars" creationdate="20230327T105141Z">
+        <seg>Pokaż najpierw &amp;terminy źródłowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show &amp;target term first</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T105058Z" creationid="janmars" creationdate="20230327T105032Z">
+        <seg>Pokaż najpierw &amp;terminy docelowe </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip</seg>
       </tuv>
     </tu>
@@ -2295,6 +2359,14 @@ project without team functionality.</seg>
       <note>Czy: problemy z terminologią (?)</note>
       <tuv lang="EN">
         <seg>Terminology Issues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terms with multiple targets</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T105244Z" creationid="janmars" creationdate="20230327T105244Z">
+        <seg>Terminy z wieloma celami</seg>
       </tuv>
     </tu>
     <tu>
@@ -2614,8 +2686,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>When checked, the items in the glossary auto-completer view will also contain the source text.</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T104811Z" creationid="janmars" creationdate="20230327T102410Z">
-        <seg>Po najechaniu kursorem terminy w widoku auto-kompletera glosariusza będą zawierać także tekst źródłowy.</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T105034Z" creationid="janmars" creationdate="20230327T102410Z">
+        <seg>Po najechaniu kursorem terminy w widoku autokompletera glosariusza będą zawierać także tekst źródłowy.</seg>
       </tuv>
     </tu>
     <tu>
