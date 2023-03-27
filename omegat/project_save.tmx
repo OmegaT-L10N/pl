@@ -433,6 +433,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Autotext entries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104518Z" creationid="janmars" creationdate="20230327T104444Z">
+        <seg>Fragmenty z autotekstu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Available languages:</seg>
       </tuv>
     </tu>
@@ -494,8 +502,8 @@
       <tuv lang="EN">
         <seg>Character table</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T102146Z" creationid="janmars" creationdate="20230327T102146Z">
-        <seg>Character table</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104528Z" creationid="janmars" creationdate="20230327T102146Z">
+        <seg>Tabela znaków </seg>
       </tuv>
     </tu>
     <tu>
@@ -734,6 +742,14 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Disable rule “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displa&amp;y source terms</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104630Z" creationid="janmars" creationdate="20230327T104630Z">
+        <seg>Pokaż terminy źródłowe &amp;y</seg>
       </tuv>
     </tu>
     <tu>
@@ -1131,6 +1147,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary entries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104433Z" creationid="janmars" creationdate="20230327T104433Z">
+        <seg>Terminy z glosariusza </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to Preferences &gt; Global External Searches to enable them.</seg>
       </tuv>
     </tu>
@@ -1145,6 +1169,22 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190332Z" creationid="ZOO" creationdate="20230324T190332Z">
         <seg>N&amp;agłówki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Completions</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104539Z" creationid="janmars" creationdate="20230327T104539Z">
+        <seg>Historia wpisów </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Predictions</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104546Z" creationid="janmars" creationdate="20230327T104546Z">
+        <seg>Historia przewidywań</seg>
       </tuv>
     </tu>
     <tu>
@@ -1420,6 +1460,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191336Z" creationid="ZOO" creationdate="20230324T191336Z">
         <seg>Brak atrybutu '{0}' in &lt;{1}&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Missing tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104452Z" creationid="janmars" creationdate="20230327T104441Z">
+        <seg>Brak etykiet</seg>
       </tuv>
     </tu>
     <tu>
@@ -1734,6 +1782,14 @@ project without team functionality.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Press 'OK' to convert the project into a 4.x team project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104421Z" creationid="janmars" creationdate="20230327T104421Z">
+        <seg>Wciśnij &lt;u&gt;{0}&lt;/u&gt; aby przejść do sugestii &lt;b&gt;{1}&lt;/b&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2526,8 +2582,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>When checked, the items in the glossary auto-completer view will also contain the source text.</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T102410Z" creationid="janmars" creationdate="20230327T102410Z">
-        <seg>When checked, the items in the glossary auto-completer view will also contain the source text.</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104733Z" creationid="janmars" creationdate="20230327T102410Z">
+        <seg>Po najechaniu kursorem, terminy w widoku auto-kompletera glosariusza będą zawierać także tekst źródłowy.</seg>
       </tuv>
     </tu>
     <tu>
