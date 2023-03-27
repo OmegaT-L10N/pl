@@ -201,6 +201,10 @@
         <seg>(You will still able to use OmegaT
 3.6 to edit this project as a team project.)</seg>
       </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102302Z">
+        <seg>(Wciąż będzie można użyć OmegaT
+3.6 do edycji projektu w trybie projektu zbiorowego.)</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -274,6 +278,9 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102122Z">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
     </tu>
@@ -418,6 +425,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Character table</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102146Z" creationid="janmars" creationdate="20230327T102146Z">
+        <seg>Character table</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Character table auto-completer options</seg>
       </tuv>
     </tu>
@@ -533,6 +548,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not save credentials to text file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102148Z" creationid="janmars" creationdate="20230327T102148Z">
+        <seg>Could not save credentials to text file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create paragraphs on:</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185913Z" creationid="ZOO" creationdate="20230324T185913Z">
@@ -542,6 +565,14 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Custom branch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom tags (regular expression):</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102117Z" creationid="janmars" creationdate="20230327T102117Z">
+        <seg>Custom tags (regular expression):</seg>
       </tuv>
     </tu>
     <tu>
@@ -647,6 +678,14 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Double-check and try again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-check it and try again.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102129Z" creationid="janmars" creationdate="20230327T102129Z">
+        <seg>Double-check it and try again.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1021,7 +1060,23 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool is misconfigured.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102136Z" creationid="janmars" creationdate="20230327T102136Z">
+        <seg>LanguageTool is misconfigured.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool: An error occurred during check.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: server returned XML when JSON was expected.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102144Z" creationid="janmars" creationdate="20230327T102144Z">
+        <seg>LanguageTool: server returned XML when JSON was expected.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1264,6 +1319,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open it in the OmegaT GUI to convert it to the new format.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102152Z" creationid="janmars" creationdate="20230327T102152Z">
+        <seg>Open it in the OmegaT GUI to convert it to the new format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OpenDocument</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190203Z" creationid="ZOO" creationdate="20230324T190203Z">
@@ -1374,6 +1437,10 @@ additional steps need to be taken.</seg>
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102155Z">
+        <seg>Press 'Cancel' to leave the project unmodified and load it as a local
+project without team functionality.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -1395,6 +1462,9 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project conversion successful.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T101944Z">
         <seg>Project conversion successful.</seg>
       </tuv>
     </tu>
@@ -1471,6 +1541,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saving and Output Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102126Z" creationid="janmars" creationdate="20230327T102126Z">
+        <seg>Saving and Output Options</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Se&amp;ntence-level segmenting</seg>
       </tuv>
     </tu>
@@ -1496,6 +1574,9 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Help &gt; User Manual for details, including available Java options.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T101954Z">
         <seg>See Help &gt; User Manual for details, including available Java options.</seg>
       </tuv>
     </tu>
@@ -1655,6 +1736,9 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TM Matching Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102131Z">
         <seg>TM Matching Options</seg>
       </tuv>
     </tu>
