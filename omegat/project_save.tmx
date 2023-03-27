@@ -252,6 +252,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;No suggestions&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104332Z" creationid="janmars" creationdate="20230327T104208Z">
+        <seg>&lt;Brak sugestii&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;br&gt;</seg>
       </tuv>
     </tu>
@@ -430,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bad nesting</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104054Z" creationid="janmars" creationdate="20230327T104054Z">
+        <seg>Złe zaczepienie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bookmark &amp;references</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190218Z" creationid="ZOO" creationdate="20230324T190218Z">
@@ -485,6 +501,14 @@
     <tu>
       <tuv lang="EN">
         <seg>Character table auto-completer options</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check the tag issues again.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104204Z" creationid="janmars" creationdate="20230327T104204Z">
+        <seg>Ponowanie sprawdź problemy z etykietą.</seg>
       </tuv>
     </tu>
     <tu>
@@ -808,6 +832,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Duplicate</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104043Z" creationid="janmars" creationdate="20230327T104043Z">
+        <seg>Duplikat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Duplicate fallbac&amp;k text</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190358Z" creationid="ZOO" creationdate="20230324T190358Z">
@@ -869,6 +901,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103048Z" creationid="janmars" creationdate="20230327T103048Z">
         <seg>Błąd przy wyprowadzaniu projektu z repertorium zdalnego:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error fixing tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104214Z" creationid="janmars" creationdate="20230327T104143Z">
+        <seg>Błąd naprawy etykiet</seg>
       </tuv>
     </tu>
     <tu>
@@ -996,6 +1036,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190520Z" creationid="ZOO" creationdate="20230324T190520Z">
         <seg>Lin&amp;ki zewnętrzne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extraneous</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104100Z" creationid="janmars" creationdate="20230327T104100Z">
+        <seg>Zewnętrzne</seg>
       </tuv>
     </tu>
     <tu>
@@ -1360,6 +1408,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Missing</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104056Z" creationid="janmars" creationdate="20230327T104056Z">
+        <seg>Brak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Missing attribute '{0}' in &lt;{1}&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191336Z" creationid="ZOO" creationdate="20230324T191336Z">
@@ -1570,10 +1626,26 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Orphaned</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104130Z" creationid="janmars" creationdate="20230327T104130Z">
+        <seg>Porzucono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other options:</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190609Z" creationid="ZOO" creationdate="20230324T190609Z">
         <seg>Pozostałe opcje:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Out-of-order</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104110Z" creationid="janmars" creationdate="20230327T104110Z">
+        <seg>Zmieniona kolejność</seg>
       </tuv>
     </tu>
     <tu>
@@ -1662,6 +1734,14 @@ project without team functionality.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Press 'OK' to convert the project into a 4.x team project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104404Z" creationid="janmars" creationdate="20230327T104404Z">
+        <seg>Wciśnij &lt;u&gt;{0}&lt;/u&gt; aby powrócić do sugestii &lt;b&gt;{1}&lt;/b&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -2075,8 +2155,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Tag</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T104029Z" creationid="janmars" creationdate="20230327T104029Z">
-        <seg>Tag </seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104310Z" creationid="janmars" creationdate="20230327T104029Z">
+        <seg>Etykieta </seg>
       </tuv>
     </tu>
     <tu>
@@ -2179,6 +2259,14 @@ project without team functionality.</seg>
     <tu>
       <tuv lang="EN">
         <seg>The project will be loaded as a local project without team functionality.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translation has changed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104153Z" creationid="janmars" creationdate="20230327T104153Z">
+        <seg>Zmiana w tłumaczeniu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2389,6 +2477,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unspecified</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104134Z" creationid="janmars" creationdate="20230327T104134Z">
+        <seg>Niezdefiniowano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unsupported project file version ({0})!</seg>
       </tuv>
     </tu>
@@ -2440,6 +2536,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191608Z" creationid="ZOO" creationdate="20230324T191608Z">
         <seg>Jeśli nie jest dostępny, identyfikator zostanie użyty jako rozwiązanie awaryjne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104124Z" creationid="janmars" creationdate="20230327T104124Z">
+        <seg>Twarda spacja</seg>
       </tuv>
     </tu>
     <tu>
