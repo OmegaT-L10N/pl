@@ -822,6 +822,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End rebase</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103503Z" creationid="janmars" creationdate="20230327T103503Z">
+        <seg>Zakończ rebazowanie. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter username/password for {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102921Z" creationid="janmars" creationdate="20230327T102921Z">
@@ -905,10 +913,26 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error retrieving {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103615Z" creationid="janmars" creationdate="20230327T103615Z">
+        <seg>Błąd odzyskiwania {0} w ramach zdalnego pliku projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error unloading plugin from class '{0}': {1}</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185417Z" creationid="ZOO" creationdate="20230324T185417Z">
         <seg>Błąd ładowania wtyczki klasy '{0}': {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error updating repository.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103735Z" creationid="janmars" creationdate="20230327T103735Z">
+        <seg>Błąd przy aktulizacji repozytorium.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1372,6 +1396,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No predefined credentials passed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103542Z" creationid="janmars" creationdate="20230327T103504Z">
+        <seg>Nie przekazano żadnych uprzednio określonych danych użytkownika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No script bound in slot #{0}.</seg>
       </tuv>
     </tu>
@@ -1476,6 +1508,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190205Z" creationid="ZOO" creationdate="20230324T190205Z">
         <seg>Opcje filtra OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening team project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103645Z" creationid="janmars" creationdate="20230327T103645Z">
+        <seg>Tworzenie projektu grupowego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1649,6 +1689,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote repository network communication error: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103723Z" creationid="janmars" creationdate="20230327T103723Z">
+        <seg>Błąd komunikacji sieci zdalnego repozytorium: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace Translation with Match or Selection</seg>
       </tuv>
     </tu>
@@ -1663,6 +1711,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102650Z" creationid="janmars" creationdate="20230327T102650Z">
         <seg>Repozytorium (typ: {0}) URL nie zdefiniowano na ścieżce: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository Credentials</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103624Z" creationid="janmars" creationdate="20230327T103624Z">
+        <seg>Dane repozytorium.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1905,8 +1961,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Start rebase</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T103454Z" creationid="janmars" creationdate="20230327T103454Z">
-        <seg>Stwórz rebazę. </seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103510Z" creationid="janmars" creationdate="20230327T103454Z">
+        <seg>Rozpocznij rebazowanie. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1917,6 +1973,14 @@ project without team functionality.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Summary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synchronization of repositories</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103636Z" creationid="janmars" creationdate="20230327T103636Z">
+        <seg>Synchronizacja repozytoriów.</seg>
       </tuv>
     </tu>
     <tu>
