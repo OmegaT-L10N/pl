@@ -128,6 +128,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Load...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102427Z" creationid="janmars" creationdate="20230327T102427Z">
+        <seg>&amp;Załaduj...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Never</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185921Z" creationid="ZOO" creationdate="20230324T185921Z">
@@ -170,6 +178,9 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102414Z">
         <seg>&amp;Save...</seg>
       </tuv>
     </tu>
@@ -364,6 +375,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-text configuration</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102445Z" creationid="janmars" creationdate="20230327T102445Z">
+        <seg>Auto-text configuration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-text file (*.autotext)</seg>
       </tuv>
     </tu>
@@ -535,6 +554,9 @@
         <seg>Contact your project administrator to find out if any
 additional steps need to be taken.</seg>
       </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102609Z">
+        <seg>Skontaktuj się z administratorem projektu i dowiedz się, czy należy jeszcze podjąć jakieś kroki.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -621,6 +643,14 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Disable rule “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102440Z" creationid="janmars" creationdate="20230327T102440Z">
+        <seg>Widok</seg>
       </tuv>
     </tu>
     <tu>
@@ -732,6 +762,14 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Enter your password again for confirmation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102435Z" creationid="janmars" creationdate="20230327T102435Z">
+        <seg>Treść</seg>
       </tuv>
     </tu>
     <tu>
@@ -1220,6 +1258,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No connection available, the project is in offline mode.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102516Z" creationid="janmars" creationdate="20230327T102516Z">
+        <seg>No connection available, the project is in offline mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No match:</seg>
       </tuv>
     </tu>
@@ -1464,8 +1510,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Project conversion successful.</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T101944Z">
-        <seg>Project conversion successful.</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102356Z">
+        <seg>Konwersja projektu powiodła się. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1674,6 +1720,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort by &amp;full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102412Z" creationid="janmars" creationdate="20230327T102412Z">
+        <seg>Sort by &amp;full text, not shortcut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source file encoding</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185904Z" creationid="ZOO" creationdate="20230324T185904Z">
@@ -1686,6 +1740,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185902Z" creationid="ZOO" creationdate="20230324T185902Z">
         <seg>Wzór nazwy pliku źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102513Z" creationid="janmars" creationdate="20230327T102513Z">
+        <seg>Source folder {0} does not exist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2031,6 +2093,14 @@ Exact searches match the whole search string.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Use &amp;stemming</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When checked, the items in the glossary auto-completer view will also contain the source text.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102410Z" creationid="janmars" creationdate="20230327T102410Z">
+        <seg>When checked, the items in the glossary auto-completer view will also contain the source text.</seg>
       </tuv>
     </tu>
     <tu>
