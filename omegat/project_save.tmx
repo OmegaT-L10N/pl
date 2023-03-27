@@ -333,6 +333,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when trying to detect the project file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103257Z" creationid="janmars" creationdate="20230327T103257Z">
+        <seg>Błąd przy próbie namierzenia pliku projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while processing an application shutdown event:
 {0}</seg>
       </tuv>
@@ -596,8 +604,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Could not save credentials to text file</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T102148Z" creationid="janmars" creationdate="20230327T102148Z">
-        <seg>Could not save credentials to text file</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103211Z" creationid="janmars" creationdate="20230327T102148Z">
+        <seg>Nie można było zachować danych użytkownika na pliku tekstowym</seg>
       </tuv>
     </tu>
     <tu>
@@ -666,6 +674,14 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Description</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Detecting...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103239Z" creationid="janmars" creationdate="20230327T103239Z">
+        <seg>Wykrywanie...</seg>
       </tuv>
     </tu>
     <tu>
@@ -757,8 +773,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Double-check it and try again.</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T102129Z" creationid="janmars" creationdate="20230327T102129Z">
-        <seg>Double-check it and try again.</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103413Z" creationid="janmars" creationdate="20230327T102129Z">
+        <seg>Sprawdź ponownie i spróbuj jeszcze raz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1625,6 +1641,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote repository git+ssh credential error: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103234Z" creationid="janmars" creationdate="20230327T103234Z">
+        <seg>Błąd danych użytkownika repozytorium zdalnego git+ssh: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace Translation with Match or Selection</seg>
       </tuv>
     </tu>
@@ -1879,6 +1903,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start rebase</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103454Z" creationid="janmars" creationdate="20230327T103454Z">
+        <seg>Stwórz rebazę. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
     </tu>
@@ -1987,6 +2019,38 @@ project without team functionality.</seg>
     <tu>
       <tuv lang="EN">
         <seg>The project will be loaded as a local project without team functionality.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This URL appears to be invalid.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103355Z" creationid="janmars" creationdate="20230327T103355Z">
+        <seg>URL zdaje się nieprawidłowe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a Git repository.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103308Z" creationid="janmars" creationdate="20230327T103308Z">
+        <seg>To jest repozytorium Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a Subversion repository.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103323Z" creationid="janmars" creationdate="20230327T103323Z">
+        <seg>To jest wersja pochodna repozytorium.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a valid project file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T103340Z" creationid="janmars" creationdate="20230327T103340Z">
+        <seg>To jest poprawny plik projektu.</seg>
       </tuv>
     </tu>
     <tu>
