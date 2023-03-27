@@ -1210,6 +1210,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, the longer entries are placed on the list first.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104853Z" creationid="janmars" creationdate="20230327T104809Z">
+        <seg>Po najechaniu kursorem dłuższe terminy są przesuwane na początek listy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
       </tuv>
     </tu>
@@ -2049,6 +2057,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show &amp;longer target terms first</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104800Z" creationid="janmars" creationdate="20230327T104800Z">
+        <seg>Pokaż najpierw &amp;dłuższe terminy docelowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip</seg>
       </tuv>
     </tu>
@@ -2103,6 +2119,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102412Z" creationid="janmars" creationdate="20230327T102412Z">
         <seg>Sort by &amp;full text, not shortcut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by source term &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104920Z" creationid="janmars" creationdate="20230327T104920Z">
+        <seg>Sortuj pod kątem źródła terminu i alfabetycznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort tar&amp;get terms alphabetically</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104958Z" creationid="janmars" creationdate="20230327T104958Z">
+        <seg>Sortuj etykiety i uporządkuj terminy alfabetycznie</seg>
       </tuv>
     </tu>
     <tu>
@@ -2582,8 +2614,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>When checked, the items in the glossary auto-completer view will also contain the source text.</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T104733Z" creationid="janmars" creationdate="20230327T102410Z">
-        <seg>Po najechaniu kursorem, terminy w widoku auto-kompletera glosariusza będą zawierać także tekst źródłowy.</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T104811Z" creationid="janmars" creationdate="20230327T102410Z">
+        <seg>Po najechaniu kursorem terminy w widoku auto-kompletera glosariusza będą zawierać także tekst źródłowy.</seg>
       </tuv>
     </tu>
     <tu>
