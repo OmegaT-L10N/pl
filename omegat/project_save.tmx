@@ -367,6 +367,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Authentication</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102848Z" creationid="janmars" creationdate="20230327T102848Z">
+        <seg>Uwierzytelnianie </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto &amp;replace plural specification</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191202Z" creationid="ZOO" creationdate="20230324T191202Z">
@@ -453,6 +461,14 @@
     <tu>
       <tuv lang="EN">
         <seg>Character table auto-completer options</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check whether your repository has correct commits and files.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102746Z" creationid="janmars" creationdate="20230327T102746Z">
+        <seg>Sprawdź, czy w repozytorium dodano poprawne foldery i pliki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1508,6 +1524,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project conversion failed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102700Z" creationid="janmars" creationdate="20230327T102700Z">
+        <seg>Konwersja projektu nie powiodła się.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project conversion successful.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102356Z">
@@ -1548,6 +1572,14 @@ project without team functionality.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Replace matches when inserting source text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository (type: {0}) URL not defined on path: {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102650Z" creationid="janmars" creationdate="20230327T102650Z">
+        <seg>Repozytorium (typ: {0}) URL nie zdefiniowano na ścieżce: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2176,6 +2208,14 @@ Both exact and keyword searches support the * and ?</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190033Z" creationid="ZOO" creationdate="20230324T190033Z">
         <seg>Arkusz kalkulacyjny XML 2003</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may have forgotten an initial commit.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230327T102821Z" creationid="janmars" creationdate="20230327T102821Z">
+        <seg>Być może zapomniałeś/aś o zatwierdzeniu wstępnym.</seg>
       </tuv>
     </tu>
     <tu>
