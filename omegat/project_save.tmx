@@ -674,6 +674,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating translated files: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T064719Z" creationid="tobkub" creationdate="20230328T064719Z">
+        <seg>Creating translated files: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creation of new team project cancelled</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103114Z" creationid="janmars" creationdate="20230327T103114Z">
@@ -1102,6 +1110,9 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>File Name</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T064643Z">
+        <seg>jFile Name</seg>
       </tuv>
     </tu>
     <tu>
@@ -2540,6 +2551,9 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Translated file created</seg>
       </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T064707Z">
+        <seg>Translated file created</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -2570,6 +2584,9 @@ the server.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Translated files created</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T064716Z">
+        <seg>Utworzono pliki docelowe</seg>
       </tuv>
     </tu>
     <tu>
