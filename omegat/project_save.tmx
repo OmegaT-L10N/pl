@@ -679,6 +679,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose MED project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T072115Z" creationid="tobkub" creationdate="20230328T072115Z">
+        <seg>Wybierz projekt MED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Co&amp;mments</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190330Z" creationid="ZOO" creationdate="20230324T190330Z">
@@ -798,6 +806,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Project Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T072018Z" creationid="tobkub" creationdate="20230328T072018Z">
+        <seg>Stwórz katalog projektów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create paragraphs on:</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185913Z" creationid="ZOO" creationdate="20230324T185913Z">
@@ -896,6 +912,14 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Dictionary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary Files Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T072041Z" creationid="tobkub" creationdate="20230328T071854Z">
+        <seg>Katalog plików słownika</seg>
       </tuv>
     </tu>
     <tu>
@@ -1301,6 +1325,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Export Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T072037Z" creationid="tobkub" creationdate="20230328T071846Z">
+        <seg>Eksportuj katalog plików pamięci tłumaczeniowej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Export translation memories folder:</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T071005Z" creationid="tobkub" creationdate="20230328T071005Z">
@@ -1474,6 +1506,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070920Z" creationid="tobkub" creationdate="20230328T070920Z">
         <seg>Katalog glosariuszy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary Files Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T072031Z" creationid="tobkub" creationdate="20230328T071818Z">
+        <seg>Katalog plików glosariusza</seg>
       </tuv>
     </tu>
     <tu>
@@ -1757,6 +1797,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185227Z" creationid="ZOO" creationdate="20230324T185227Z">
         <seg>Wczytywanie glosariusza {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Local External Searc&amp;hes...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071940Z" creationid="tobkub" creationdate="20230328T071940Z">
+        <seg>Lokalne wyszukiwanie zewnętrzne</seg>
       </tuv>
     </tu>
     <tu>
@@ -2349,6 +2397,14 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;pository Mapping...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071918Z" creationid="tobkub" creationdate="20230328T071918Z">
+        <seg>&amp;Mapowanie zasobów</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Ten sam problem co wyżej: czy można tak zmieniać szyk?</note>
       <tuv lang="EN">
         <seg>Reload the current project to apply these changes</seg>
@@ -2706,6 +2762,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some project folders seem to have been moved.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071948Z" creationid="tobkub" creationdate="20230328T071948Z">
+        <seg>Niektóre z katalogów projektu mogły zostać przeniesione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort &amp;alphabetically</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T105354Z" creationid="janmars" creationdate="20230327T105354Z">
@@ -2748,8 +2812,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Source Files Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T071803Z" creationid="tobkub" creationdate="20230328T071803Z">
-        <seg>Folder plików źródłowych</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T072025Z" creationid="tobkub" creationdate="20230328T071803Z">
+        <seg>Katalog plików źródłowych</seg>
       </tuv>
     </tu>
     <tu>
@@ -2808,6 +2872,14 @@ project without team functionality.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T072006Z" creationid="tobkub" creationdate="20230328T072006Z">
+        <seg>Podaj ich nową lokalizację lub stwórz je na nowo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3141,8 +3213,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Translated Files Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T071810Z" creationid="tobkub" creationdate="20230328T071810Z">
-        <seg>Folder plików docelowych</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T072029Z" creationid="tobkub" creationdate="20230328T071810Z">
+        <seg>Katalog plików docelowych</seg>
       </tuv>
     </tu>
     <tu>
@@ -3201,6 +3273,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T071042Z" creationid="tobkub" creationdate="20230328T071042Z">
         <seg>Język plików docelowych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T072033Z" creationid="tobkub" creationdate="20230328T071832Z">
+        <seg>Katalog plików pamięci tłumaczeniowej</seg>
       </tuv>
     </tu>
     <tu>
@@ -3494,6 +3574,14 @@ Both exact and keyword searches support the * and ?</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T065957Z" creationid="tobkub" creationdate="20230328T065957Z">
         <seg>Liczba wyrazów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071904Z" creationid="tobkub" creationdate="20230328T071904Z">
+        <seg>Nadpisywalny plik glosariusza</seg>
       </tuv>
     </tu>
     <tu>
