@@ -1909,6 +1909,9 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Plugin Installer</seg>
       </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230328T070315Z">
+        <seg>Instalator wtyczek</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -2238,6 +2241,9 @@ project without team functionality.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Select a plugin file (*.jar, *.zip)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230328T070337Z">
+        <seg>Wybierz plik wtyczki (*.jar, *.zip)</seg>
       </tuv>
     </tu>
     <tu>
