@@ -1092,8 +1092,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Error on application startup</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maja" changedate="20230328T071140Z" creationid="Maja" creationdate="20230328T071140Z">
-        <seg>[fuzzy]Błąd przy starcie aplikacji</seg>
+      <tuv lang="PL" changeid="Maja" changedate="20230328T071315Z" creationid="Maja" creationdate="20230328T071140Z">
+        <seg>Błąd przy starcie aplikacji</seg>
       </tuv>
     </tu>
     <tu>
