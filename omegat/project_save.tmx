@@ -74,6 +74,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081513Z" creationid="sandraczapska" creationdate="20230328T081513Z">
+        <seg>&amp;Close</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Comments</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190222Z" creationid="ZOO" creationdate="20230324T190222Z">
@@ -128,6 +136,22 @@
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190331Z" creationid="ZOO" creationdate="20230324T190331Z">
         <seg>Prz&amp;ypisy końcowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Filter</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081438Z" creationid="sandraczapska" creationdate="20230328T081438Z">
+        <seg>&amp;Filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Find Next</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081443Z" creationid="sandraczapska" creationdate="20230328T081443Z">
+        <seg>&amp;Find Next</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,6 +254,17 @@
     <tu>
       <tuv lang="EN">
         <seg>&amp;Remove</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081521Z">
+        <seg>&amp;Remove</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Save As...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081451Z" creationid="sandraczapska" creationdate="20230328T081451Z">
+        <seg>&amp;Save As...</seg>
       </tuv>
     </tu>
     <tu>
@@ -766,6 +801,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081508Z" creationid="sandraczapska" creationdate="20230328T081508Z">
+        <seg>Confirm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Confirm:</seg>
       </tuv>
     </tu>
@@ -810,6 +853,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103211Z" creationid="janmars" creationdate="20230327T102148Z">
         <seg>Nie można było zachować danych użytkownika na pliku tekstowym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create &amp;Translated Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081531Z" creationid="sandraczapska" creationdate="20230328T081531Z">
+        <seg>Create &amp;Translated Files</seg>
       </tuv>
     </tu>
     <tu>
@@ -1793,6 +1844,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081421Z" creationid="sandraczapska" creationdate="20230328T081421Z">
+        <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Line length in target files (0 = no limit)</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185943Z" creationid="ZOO" creationdate="20230324T185943Z">
@@ -2138,6 +2197,14 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>OmegaT options:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT ran out of memory and will close when you click OK.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081503Z" creationid="sandraczapska" creationdate="20230328T081503Z">
+        <seg>OmegaT ran out of memory and will close when you click OK.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3325,6 +3392,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation last modified by {0} on {1} at {2}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081541Z" creationid="sandraczapska" creationdate="20230328T081541Z">
+        <seg>Translation last modified by {0} on {1} at {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation memories folder:</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070914Z" creationid="tobkub" creationdate="20230328T070914Z">
@@ -3571,6 +3646,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103132Z" creationid="janmars" creationdate="20230327T103132Z">
         <seg>Błędne dane użytkownika, odmowa dostępu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warn: Report invalid tags to stdout.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081435Z" creationid="sandraczapska" creationdate="20230328T081435Z">
+        <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
     </tu>
     <tu>
