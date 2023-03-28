@@ -117,6 +117,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Edit...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T094013Z" creationid="sandraczapska" creationdate="20230328T094013Z">
+        <seg>&amp;Edit...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Empty lines</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185920Z" creationid="ZOO" creationdate="20230324T185920Z">
