@@ -790,6 +790,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230328T072813Z" creationid="Maja" creationdate="20230328T072813Z">
+        <seg>Kopiuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T065022Z">
@@ -855,6 +863,14 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Customize character &amp;table</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230328T072809Z" creationid="Maja" creationdate="20230328T072809Z">
+        <seg>Wytnij</seg>
       </tuv>
     </tu>
     <tu>
@@ -1075,6 +1091,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T071719Z" creationid="tobkub" creationdate="20230328T071719Z">
         <seg>&amp;Wyjątki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Either update to the latest JDK 1.6, or remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230328T072758Z" creationid="Maja" creationdate="20230328T072758Z">
+        <seg>Zaktualizauj do najnowszej wersji JDK 1.6 lub usuń pliki jaxb-*.jar z Omegi T /lib dir</seg>
       </tuv>
     </tu>
     <tu>
@@ -2247,6 +2271,14 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Password:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230328T072817Z" creationid="Maja" creationdate="20230328T072817Z">
+        <seg>Wklej</seg>
       </tuv>
     </tu>
     <tu>
