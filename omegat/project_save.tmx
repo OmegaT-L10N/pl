@@ -408,6 +408,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add Online MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084625Z" creationid="sandraczapska" creationdate="20230328T084625Z">
+        <seg>Add Online MediaWiki Page</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102122Z">
@@ -722,6 +730,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Close the search window.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084347Z" creationid="sandraczapska" creationdate="20230328T084347Z">
+        <seg>Close the search window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Co&amp;mments</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190330Z" creationid="ZOO" creationdate="20230324T190330Z">
@@ -943,6 +959,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103007Z" creationid="janmars" creationdate="20230327T103007Z">
         <seg>Domyślna ścieżka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Defaults to xml.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084629Z" creationid="sandraczapska" creationdate="20230328T084629Z">
+        <seg>Defaults to xml.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2241,6 +2265,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open {0} Target Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084402Z" creationid="sandraczapska" creationdate="20230328T084402Z">
+        <seg>Open {0} Target Files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OpenDocument</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190203Z" creationid="ZOO" creationdate="20230324T190203Z">
@@ -2362,6 +2394,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185609Z">
         <seg>Wtyczka została pomyślnie załadowana z klasy '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pop Directional Formatting (PDF U+202&amp;C)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084619Z" creationid="sandraczapska" creationdate="20230328T084619Z">
+        <seg>Pop Directional Formatting (PDF U+202&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
