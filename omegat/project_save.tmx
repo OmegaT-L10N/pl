@@ -45,6 +45,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Auto-propagation of translations</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071132Z" creationid="tobkub" creationdate="20230328T071111Z">
+        <seg>&amp;Autopropagacja tłumaczeń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Automatically fetch translations</seg>
       </tuv>
     </tu>
@@ -1672,6 +1680,22 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local post-processing commands</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071150Z" creationid="tobkub" creationdate="20230328T071150Z">
+        <seg>Lokalne post-przetwarzanie komend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Local post-processing commands (disabled):</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071154Z" creationid="tobkub" creationdate="20230328T071154Z">
+        <seg>Local post-processing commands (disabled):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Local project commands are disabled for security reasons.</seg>
       </tuv>
     </tu>
@@ -1890,6 +1914,9 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071018Z">
         <seg>OmegaT</seg>
       </tuv>
     </tu>
@@ -2275,6 +2302,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove ta&amp;gs</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071138Z" creationid="tobkub" creationdate="20230328T071138Z">
+        <seg>Usuń &amp;tagi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repetitions from other files:</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070640Z" creationid="tobkub" creationdate="20230328T070640Z">
@@ -2622,10 +2657,26 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source files language:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071037Z" creationid="tobkub" creationdate="20230328T071037Z">
+        <seg>Język plików źródłowych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source folder {0} does not exist.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102513Z" creationid="janmars" creationdate="20230327T102513Z">
         <seg>Source folder {0} does not exist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source language tokenizer:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071117Z" creationid="tobkub" creationdate="20230328T071048Z">
+        <seg>Tokenizer języka źródłowego:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2703,6 +2754,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TMX Level 1</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071026Z" creationid="tobkub" creationdate="20230328T071026Z">
+        <seg>TMX Level 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMX Level 2</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071027Z" creationid="tobkub" creationdate="20230328T071027Z">
+        <seg>TMX Level 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tab</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104026Z" creationid="janmars" creationdate="20230327T104026Z">
@@ -2746,6 +2813,14 @@ project without team functionality.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Target</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target language tokenizer:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071123Z" creationid="tobkub" creationdate="20230328T071123Z">
+        <seg>Tokenizer języka docelowego:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2990,10 +3065,26 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated files language:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071042Z" creationid="tobkub" creationdate="20230328T071042Z">
+        <seg>Język plików docelowych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation memories folder:</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070914Z" creationid="tobkub" creationdate="20230328T070914Z">
         <seg>Katalog pamięci tłumaczeniowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memories to export:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071018Z" creationid="tobkub" creationdate="20230328T071018Z">
+        <seg>Pamięci tłumaczeniowe do eksportu</seg>
       </tuv>
     </tu>
     <tu>
