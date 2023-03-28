@@ -238,6 +238,9 @@
       <tuv lang="EN">
         <seg>(+{0} more)</seg>
       </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230328T071101Z">
+        <seg>(+{0} więcej)</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -1079,6 +1082,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error on application startup</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230328T071140Z" creationid="Maja" creationdate="20230328T071140Z">
+        <seg>[fuzzy]Błąd przy starcie aplikacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error reading TMX level2 at line {0} column {1}</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185225Z" creationid="ZOO" creationdate="20230324T185225Z">
@@ -1304,6 +1315,9 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Found in:</seg>
       </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230328T071000Z">
+        <seg>Znajduje się w:</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -1387,6 +1401,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190332Z" creationid="ZOO" creationdate="20230324T190332Z">
         <seg>N&amp;agłówki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hide '{0}'</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230328T071138Z" creationid="Maja" creationdate="20230328T071138Z">
+        <seg>Ukryj '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -2279,8 +2301,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Replace Translation with Match or Selection</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maja" changedate="20230328T070920Z">
-        <seg>Zastąp tłumaczenie dopasowaniem</seg>
+      <tuv lang="PL" changeid="Maja" changedate="20230328T070932Z">
+        <seg>Zastąp tłumaczenie dopasowaniem lub zaznaczeniem</seg>
       </tuv>
     </tu>
     <tu>
@@ -2675,8 +2697,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>TM Matching Options</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T102131Z">
-        <seg>TM Matching Options</seg>
+      <tuv lang="PL" changeid="Maja" changedate="20230328T071129Z">
+        <seg>Opcje dopasowania z pamięci tłumaczeniowej</seg>
       </tuv>
     </tu>
     <tu>
@@ -2848,6 +2870,9 @@ project without team functionality.</seg>
     <tu>
       <tuv lang="EN">
         <seg>This project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230328T071007Z">
+        <seg>Ten projekt</seg>
       </tuv>
     </tu>
     <tu>
@@ -3331,6 +3356,9 @@ Both exact and keyword searches support the * and ?</seg>
     <tu>
       <tuv lang="EN">
         <seg>[Fuzzy]</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230328T070953Z">
+        <seg>[Rozmyte]</seg>
       </tuv>
     </tu>
     <tu>
