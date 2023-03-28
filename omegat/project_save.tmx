@@ -1323,6 +1323,9 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Go to Segment Source</seg>
       </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230328T070708Z">
+        <seg>Przejdź do segmentu źródłowego</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -1430,13 +1433,16 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Insert Match or Selection into Translation</seg>
       </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230328T070738Z">
+        <seg>[fuzzy]Wstaw dopasowanie lub zaznaczenie do tłumaczenia</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Install</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maja" changedate="20230328T070111Z">
-        <seg>[fuzzy]Instaluj</seg>
+      <tuv lang="PL" changeid="Maja" changedate="20230328T070700Z">
+        <seg>Instaluj</seg>
       </tuv>
     </tu>
     <tu>
@@ -2182,6 +2188,9 @@ project without team functionality.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Replace Translation with Match or Selection</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230328T070920Z">
+        <seg>Zastąp tłumaczenie dopasowaniem</seg>
       </tuv>
     </tu>
     <tu>
