@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -315,10 +315,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Refresh</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T065547Z" creationid="littlewhitedirect" creationdate="20230328T065547Z">
+        <seg>&amp;Refresh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Remove</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081521Z">
         <seg>&amp;Remove</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Reset Master Password</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T065559Z" creationid="littlewhitedirect" creationdate="20230328T065559Z">
+        <seg>&amp;Reset Master Password</seg>
       </tuv>
     </tu>
     <tu>
@@ -1322,6 +1338,14 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Encoding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T065627Z" creationid="littlewhitedirect" creationdate="20230328T065627Z">
+        <seg>Encoding:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2362,6 +2386,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T065604Z" creationid="littlewhitedirect" creationdate="20230328T065604Z">
+        <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT options:</seg>
       </tuv>
     </tu>
@@ -3024,6 +3056,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set &amp; stored</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T065556Z" creationid="littlewhitedirect" creationdate="20230328T065556Z">
+        <seg>Set &amp; stored</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set My Own Password</seg>
       </tuv>
     </tu>
@@ -3379,6 +3419,9 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Target</seg>
       </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T065637Z">
+        <seg>Target</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -3704,6 +3747,9 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>URL</seg>
       </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T065630Z">
+        <seg>URL</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -3896,6 +3942,9 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &amp;fuzzy matching</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T065551Z">
         <seg>Use &amp;fuzzy matching</seg>
       </tuv>
     </tu>
