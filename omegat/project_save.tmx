@@ -404,6 +404,9 @@
       <tuv lang="EN">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230328T071115Z">
+        <seg>An item named "{0}" already exists in this location.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
