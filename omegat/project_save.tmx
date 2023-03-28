@@ -503,10 +503,16 @@
       <tuv lang="EN">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T065102Z">
+        <seg>Katalog glosariusza niedostępny</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Cannot create folder for translated files:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T065114Z">
+        <seg>Nie można utworzyć katalogu dla plików docelowych:</seg>
       </tuv>
     </tu>
     <tu>
@@ -654,6 +660,9 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T065022Z">
+        <seg>Nie można było utworzyć katalogu projektu {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1078,6 +1087,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Executing post-processing commands...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T065137Z" creationid="tobkub" creationdate="20230328T065137Z">
+        <seg>Wykonywanie komend post-przetwarzania…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External GPG did not return a valid signature; got: {0}</seg>
       </tuv>
     </tu>
@@ -1106,13 +1123,16 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Failed to create project!</seg>
       </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T064944Z">
+        <seg>Utworzenie nowego projektu nie powiodło się</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>File Name</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T064643Z">
-        <seg>jFile Name</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T064855Z">
+        <seg>Nazwa pliku</seg>
       </tuv>
     </tu>
     <tu>
@@ -1332,6 +1352,9 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T065049Z">
+        <seg>Niewystarczające uprawnienia do utworzenia katalogu projektu {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1748,6 +1771,9 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Orphan segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T065119Z">
+        <seg>Segmenty osierocone</seg>
       </tuv>
     </tu>
     <tu>
@@ -2520,6 +2546,9 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Total Segments</seg>
       </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T064858Z">
+        <seg>Total Segments</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -2551,8 +2580,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Translated file created</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T064707Z">
-        <seg>Translated file created</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T064917Z">
+        <seg>Utworzono plik docelowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -2638,6 +2667,9 @@ Exact searches match the whole search string.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Unable to build new TMX file!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T064933Z">
+        <seg>Utworzenie nowego pliku TMX jest niemożliwe</seg>
       </tuv>
     </tu>
     <tu>
