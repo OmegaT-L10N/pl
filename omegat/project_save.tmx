@@ -627,6 +627,9 @@
       <tuv lang="EN">
         <seg>Appearance</seg>
       </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140221Z">
+        <seg>Appearance</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -918,6 +921,9 @@
       <tuv lang="EN">
         <seg>Command is missing delimiter</seg>
       </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140210Z">
+        <seg>Command is missing delimiter</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -1146,6 +1152,9 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Dictionary</seg>
       </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140214Z">
+        <seg>[fuzzy]&amp;Dictionaries</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -1312,6 +1321,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ed&amp;it</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140158Z" creationid="littlewhitedirect" creationdate="20230328T140158Z">
+        <seg>Ed&amp;it</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Either update to the latest JDK 1.6, or remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230328T072758Z" creationid="Maja" creationdate="20230328T072758Z">
@@ -1338,6 +1355,9 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Encoding</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140139Z">
+        <seg>[fuzzy]Encoding:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1603,6 +1623,9 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Search Set</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140201Z">
         <seg>External Search Set</seg>
       </tuv>
     </tu>
@@ -2129,6 +2152,9 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Local project commands are disabled for security reasons.</seg>
       </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140223Z">
+        <seg>Local project commands are disabled for security reasons.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -2642,6 +2668,9 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Preferences - {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140217Z">
+        <seg>[fuzzy]&amp;Preferences...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3770,6 +3799,9 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>URL is missing target</seg>
       </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140537Z">
+        <seg>URL is missing target</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -3950,6 +3982,9 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &amp;stemming</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140219Z">
         <seg>Use &amp;stemming</seg>
       </tuv>
     </tu>
