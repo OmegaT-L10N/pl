@@ -66,6 +66,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071705Z" creationid="tobkub" creationdate="20230328T071655Z">
+        <seg>&amp;Przeglądaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Comments</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190222Z" creationid="ZOO" creationdate="20230324T190222Z">
@@ -507,6 +515,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>B&amp;rowse...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071745Z" creationid="tobkub" creationdate="20230328T071745Z">
+        <seg>Przeg&amp;lądaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad nesting</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104054Z" creationid="janmars" creationdate="20230327T104054Z">
@@ -524,6 +540,46 @@
     <tu>
       <tuv lang="EN">
         <seg>Both</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bro&amp;wse...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071736Z" creationid="tobkub" creationdate="20230328T071724Z">
+        <seg>Prz&amp;eglądaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Brow&amp;se...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071741Z" creationid="tobkub" creationdate="20230328T071741Z">
+        <seg>Prze&amp;glądaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Brows&amp;e...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071756Z" creationid="tobkub" creationdate="20230328T071756Z">
+        <seg>Przeglą&amp;daj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Browse&amp;...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071730Z" creationid="tobkub" creationdate="20230328T071723Z">
+        <seg>P&amp;rzeglądaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071748Z" creationid="tobkub" creationdate="20230328T071748Z">
+        <seg>Przeglądaj</seg>
       </tuv>
     </tu>
     <tu>
@@ -981,6 +1037,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190358Z" creationid="ZOO" creationdate="20230324T190358Z">
         <seg>Duplikat tekstu awaryjne&amp;go</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E&amp;xclusions...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071719Z" creationid="tobkub" creationdate="20230328T071719Z">
+        <seg>&amp;Wyjątki</seg>
       </tuv>
     </tu>
     <tu>
@@ -2657,6 +2721,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source Files Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071803Z" creationid="tobkub" creationdate="20230328T071803Z">
+        <seg>Folder plików źródłowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source file encoding</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185904Z" creationid="ZOO" creationdate="20230324T185904Z">
@@ -3035,6 +3107,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190207Z" creationid="ZOO" creationdate="20230324T190207Z">
         <seg>Tłumacz następujące elementy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated Files Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071810Z" creationid="tobkub" creationdate="20230328T071810Z">
+        <seg>Folder plików docelowych</seg>
       </tuv>
     </tu>
     <tu>
