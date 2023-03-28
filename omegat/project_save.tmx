@@ -829,8 +829,8 @@
       <tuv lang="EN">
         <seg>Check the tag issues again.</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T104204Z" creationid="janmars" creationdate="20230327T104204Z">
-        <seg>Ponowanie sprawdź problemy z etykietą.</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230328T132708Z" creationid="janmars" creationdate="20230327T104204Z">
+        <seg>Ponowanie sprawdź problemy ze znacznikiem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1379,8 +1379,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Error fixing tags</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T104214Z" creationid="janmars" creationdate="20230327T104143Z">
-        <seg>Błąd naprawy etykiet</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230328T132700Z" creationid="janmars" creationdate="20230327T104143Z">
+        <seg>Błąd naprawy znaczników </seg>
       </tuv>
     </tu>
     <tu>
@@ -2200,8 +2200,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Missing tags</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T104452Z" creationid="janmars" creationdate="20230327T104441Z">
-        <seg>Brak etykiet</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230328T132721Z" creationid="janmars" creationdate="20230327T104441Z">
+        <seg>Brak znaczników</seg>
       </tuv>
     </tu>
     <tu>
@@ -3342,8 +3342,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Tag</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T104310Z" creationid="janmars" creationdate="20230327T104029Z">
-        <seg>Etykieta </seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230328T132643Z" creationid="janmars" creationdate="20230327T104029Z">
+        <seg>Znacznik </seg>
       </tuv>
     </tu>
     <tu>
