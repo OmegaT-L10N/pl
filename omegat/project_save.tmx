@@ -362,6 +362,9 @@
       <tuv lang="EN">
         <seg>Allow local external search commands</seg>
       </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T065338Z">
+        <seg>Allow local external search commands</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
