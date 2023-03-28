@@ -268,9 +268,15 @@
       <tuv lang="EN">
         <seg>85%-94%:</seg>
       </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070653Z">
+        <seg>85%-94%:</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>95%-100%:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070650Z">
         <seg>95%-100%:</seg>
       </tuv>
     </tu>
@@ -1128,6 +1134,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exact match:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070648Z" creationid="tobkub" creationdate="20230328T070648Z">
+        <seg>Dokładne dopasowania:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Excel</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190428Z" creationid="ZOO" creationdate="20230324T190428Z">
@@ -1580,8 +1594,16 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T070606Z">
-        <seg>Match Statistics</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070615Z">
+        <seg>Statystyki dopasowań</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match Statistics per File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070621Z" creationid="tobkub" creationdate="20230328T070621Z">
+        <seg>Statystyki dopasowań dla pliku</seg>
       </tuv>
     </tu>
     <tu>
@@ -2131,6 +2153,30 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103723Z" creationid="janmars" creationdate="20230327T103723Z">
         <seg>Błąd komunikacji sieci zdalnego repozytorium: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions from other files:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070640Z" creationid="tobkub" creationdate="20230328T070640Z">
+        <seg>Powtórzenia między plikami:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions within this file:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070632Z" creationid="tobkub" creationdate="20230328T070632Z">
+        <seg>Powtórzenia wewnątrz pliku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070624Z" creationid="tobkub" creationdate="20230328T070624Z">
+        <seg>Powtórzenia:</seg>
       </tuv>
     </tu>
     <tu>
