@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2013,6 +2013,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Language Installer</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T212316Z" creationid="sandraczapska" creationdate="20230328T212316Z">
+        <seg>Language Installer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Language not specified for translation unit variant.</seg>
       </tuv>
     </tu>
@@ -3081,6 +3089,14 @@ project without team functionality.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Select issue types to check.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the desired languages and click Install.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T212253Z" creationid="sandraczapska" creationdate="20230328T212253Z">
+        <seg>Select the desired languages and click Install.</seg>
       </tuv>
     </tu>
     <tu>
