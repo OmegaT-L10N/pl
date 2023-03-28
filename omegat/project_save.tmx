@@ -507,6 +507,9 @@
       <tuv lang="EN">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070600Z">
+        <seg>K&amp;opiuj wszystkie dane do schowka</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -1577,6 +1580,9 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070606Z">
+        <seg>Match Statistics</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -2073,6 +2079,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070521Z" creationid="tobkub" creationdate="20230328T070521Z">
+        <seg>Liczba pozostałych znaków (ze spacjami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remaining Characters (w/o spaces)</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070333Z">
@@ -2484,6 +2498,9 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070603Z">
+        <seg>Statystyki</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -2686,6 +2703,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Total Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070456Z" creationid="tobkub" creationdate="20230328T070456Z">
+        <seg>Całkowita liczba znaków (ze spacjami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Total Characters (w/o spaces)</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070321Z">
@@ -2851,10 +2876,34 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unique Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070531Z" creationid="tobkub" creationdate="20230328T070531Z">
+        <seg>Liczba znaków w niepowtarzających się segmentach (ze spacjami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unique Characters (w/o spaces)</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070419Z" creationid="tobkub" creationdate="20230328T070419Z">
         <seg>Liczba znaków w niepowtarzających się segmentach (bez spacji)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070545Z" creationid="tobkub" creationdate="20230328T070545Z">
+        <seg>Liczba znaków w pozostałych niepowtarzających się segmentach (ze spacjami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070444Z" creationid="tobkub" creationdate="20230328T070444Z">
+        <seg>Liczba znaków w pozostałych niepowtarzających się segmentach (bez spacji)</seg>
       </tuv>
     </tu>
     <tu>
