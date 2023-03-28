@@ -103,6 +103,9 @@
       <tuv lang="EN">
         <seg>&amp;Edit</seg>
       </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090728Z">
+        <seg>&amp;Edytuj</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -177,6 +180,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Go To</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090708Z" creationid="sandraczapska" creationdate="20230328T090708Z">
+        <seg>&amp;Go To</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Ignore matches with very different case (e.g. FOO vs foo)</seg>
       </tuv>
     </tu>
@@ -235,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Open...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090547Z" creationid="sandraczapska" creationdate="20230328T090547Z">
+        <seg>&amp;Otwórz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Preferences...</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T071339Z" creationid="tobkub" creationdate="20230328T071339Z">
@@ -260,6 +279,14 @@
     <tu>
       <tuv lang="EN">
         <seg>&amp;Properties...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Redo Last Action</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090619Z" creationid="sandraczapska" creationdate="20230328T090619Z">
+        <seg>&amp;Redo Last Action</seg>
       </tuv>
     </tu>
     <tu>
@@ -296,6 +323,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Search...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090645Z" creationid="sandraczapska" creationdate="20230328T090645Z">
+        <seg>&amp;Szukaj...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Sheet names</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190254Z" creationid="ZOO" creationdate="20230324T190254Z">
@@ -310,6 +345,14 @@
     <tu>
       <tuv lang="EN">
         <seg>&amp;Undo Changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Undo Last Action</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090742Z" creationid="sandraczapska" creationdate="20230328T090742Z">
+        <seg>&amp;Undo Last Action</seg>
       </tuv>
     </tu>
     <tu>
@@ -431,6 +474,22 @@
     <tu>
       <tuv lang="EN">
         <seg>ASCII Only</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add &amp;Files...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090607Z" creationid="sandraczapska" creationdate="20230328T090607Z">
+        <seg>Dodaj &amp;pliki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090616Z" creationid="sandraczapska" creationdate="20230328T090616Z">
+        <seg>Add Files to Source Folder...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2284,6 +2343,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Op&amp;en Recent...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090553Z" creationid="sandraczapska" creationdate="20230328T090553Z">
+        <seg>Op&amp;en Recent...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open Project</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070858Z" creationid="tobkub" creationdate="20230328T070858Z">
@@ -2642,6 +2709,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remo&amp;ve Translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090622Z" creationid="sandraczapska" creationdate="20230328T090622Z">
+        <seg>Remo&amp;ve Translation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote repository git+ssh credential error: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103234Z" creationid="janmars" creationdate="20230327T103234Z">
@@ -2703,6 +2778,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090639Z" creationid="sandraczapska" creationdate="20230328T090639Z">
+        <seg>Zamień...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repository (type: {0}) URL not defined on path: {1}</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102650Z" creationid="janmars" creationdate="20230327T102650Z">
@@ -2726,6 +2809,14 @@ project without team functionality.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090627Z" creationid="sandraczapska" creationdate="20230328T090627Z">
+        <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2788,6 +2879,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090641Z" creationid="sandraczapska" creationdate="20230328T090641Z">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search thread died unexpectedly!</seg>
       </tuv>
     </tu>
@@ -2830,7 +2929,31 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &amp;Next Match</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090634Z" creationid="sandraczapska" creationdate="20230328T090634Z">
+        <seg>Select &amp;Next Match</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &amp;Previous Match</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090629Z" creationid="sandraczapska" creationdate="20230328T090629Z">
+        <seg>Select &amp;Previous Match</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Issue Types</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;3</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090711Z" creationid="sandraczapska" creationdate="20230328T090711Z">
+        <seg>Select Match #&amp;3</seg>
       </tuv>
     </tu>
     <tu>
