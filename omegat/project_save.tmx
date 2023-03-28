@@ -325,6 +325,9 @@
       <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230328T070249Z">
+        <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -1221,6 +1224,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error while loading the source files.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230328T070246Z" creationid="biegajacy-zajac" creationdate="20230328T070246Z">
+        <seg>Error while loading the source files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103757Z" creationid="janmars" creationdate="20230327T103757Z">
@@ -1328,6 +1339,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T064944Z">
         <seg>Utworzenie nowego projektu nie powiodło się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230328T070155Z" creationid="biegajacy-zajac" creationdate="20230328T070155Z">
+        <seg>[coś w rodzaju]Przeszukaj p&amp;liki</seg>
       </tuv>
     </tu>
     <tu>
@@ -2551,6 +2570,9 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Segment</seg>
       </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230328T072040Z">
+        <seg>[coś w rodzaju]LIczba segmentów</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -2885,6 +2907,9 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag Issues</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230328T070126Z">
         <seg>Tag Issues</seg>
       </tuv>
     </tu>
@@ -3561,6 +3586,9 @@ Both exact and keyword searches support the * and ?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
+      </tuv>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230328T070151Z">
         <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
       </tuv>
     </tu>
