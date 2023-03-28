@@ -192,6 +192,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Preferences...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071339Z" creationid="tobkub" creationdate="20230328T071339Z">
+        <seg>&amp;Preferences...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Presentation notes</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190228Z" creationid="ZOO" creationdate="20230324T190228Z">
@@ -976,6 +984,14 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Enable them in Preferences &gt; Saving and Output....</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071654Z" creationid="tobkub" creationdate="20230328T071325Z">
+        <seg>Możesz je włączyć w oknie Właściwości &gt; Zapis i wyjście</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Włączono? </note>
       <tuv lang="EN">
         <seg>Enabled</seg>
@@ -1690,8 +1706,16 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Local post-processing commands (disabled):</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T071154Z" creationid="tobkub" creationdate="20230328T071154Z">
-        <seg>Local post-processing commands (disabled):</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071237Z" creationid="tobkub" creationdate="20230328T071154Z">
+        <seg>Lokalne post-przetwarzanie komend (wyłączone)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Local post-processing commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071258Z" creationid="tobkub" creationdate="20230328T071258Z">
+        <seg>Lokalne post-przetwarzanie komend jest wyłączone i nie zostanie wykonane.</seg>
       </tuv>
     </tu>
     <tu>
