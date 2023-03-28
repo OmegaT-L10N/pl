@@ -470,6 +470,9 @@
       <tuv lang="EN">
         <seg>Available languages:</seg>
       </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230328T070303Z">
+        <seg>Dostępne języki:</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -1407,6 +1410,9 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Install</seg>
       </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230328T070111Z">
+        <seg>[fuzzy]Instaluj</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -1683,6 +1689,9 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>No new languages available at the remote server.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230328T070146Z">
+        <seg>Brak dostępnych nowych słowników na serwerze zdalnym.</seg>
       </tuv>
     </tu>
     <tu>
