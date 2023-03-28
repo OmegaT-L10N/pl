@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>#Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070022Z" creationid="tobkub" creationdate="20230328T070022Z">
+        <seg>Przeszukaj p&amp;liki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Access Project Contents</seg>
       </tuv>
     </tu>
@@ -538,6 +546,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070010Z" creationid="tobkub" creationdate="20230328T070010Z">
+        <seg>Liczba znaków (ze spacjami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070005Z" creationid="tobkub" creationdate="20230328T070005Z">
+        <seg>Liczba znaków (bez spacji)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check the tag issues again.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104204Z" creationid="janmars" creationdate="20230327T104204Z">
@@ -1017,6 +1041,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185406Z" creationid="ZOO" creationdate="20230324T185406Z">
         <seg>Błąd ładowania wtyczki klasy '{0}': {1}: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error monitoring post-processing commands!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T065932Z" creationid="tobkub" creationdate="20230328T065825Z">
+        <seg>Nastąpił błąd przy monitorowaniu komend post-przetwarzania</seg>
       </tuv>
     </tu>
     <tu>
@@ -1889,8 +1921,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Post-processing commands completed.</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T065634Z">
-        <seg>Wykonano komenty post-przetwarzania.</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T065810Z">
+        <seg>Wykonano komendy post-przetwarzania.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1899,6 +1931,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T065737Z" creationid="tobkub" creationdate="20230328T065737Z">
         <seg>Wykonywanie komend post-przetwarzania nie powiodło się.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Post-processing commands were interrupted.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T065829Z" creationid="tobkub" creationdate="20230328T065807Z">
+        <seg>Wykonywanie komend post-przetwarzania zostało przerwane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1965,6 +2005,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Statistics</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T065939Z" creationid="tobkub" creationdate="20230328T065939Z">
+        <seg>Statystyki projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project conversion failed.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102700Z" creationid="janmars" creationdate="20230327T102700Z">
@@ -2011,6 +2059,14 @@ project without team functionality.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Remaining Words</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070026Z" creationid="tobkub" creationdate="20230328T070026Z">
+        <seg>Pozostało:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2150,6 +2206,14 @@ project without team functionality.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T065953Z" creationid="tobkub" creationdate="20230328T065953Z">
+        <seg>LIczba segmentów</seg>
       </tuv>
     </tu>
     <tu>
@@ -2605,6 +2669,9 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Total:</seg>
       </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T065948Z">
+        <seg>Całkowita liczba:</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -2746,7 +2813,23 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unique Remaining:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070053Z" creationid="tobkub" creationdate="20230328T070053Z">
+        <seg>Niepowtarzających się pozostało:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unique Words</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070103Z" creationid="tobkub" creationdate="20230328T070103Z">
+        <seg>Niepowtarzających się, ogólnie:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2853,6 +2936,14 @@ Both exact and keyword searches support the * and ?</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190603Z" creationid="ZOO" creationdate="20230324T190603Z">
         <seg>WordAr&amp;t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Words</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T065957Z" creationid="tobkub" creationdate="20230328T065957Z">
+        <seg>Liczba wyrazów</seg>
       </tuv>
     </tu>
     <tu>
