@@ -21,6 +21,9 @@
       <tuv lang="EN">
         <seg>&amp;Add</seg>
       </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084650Z">
+        <seg>&amp;Add</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -187,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Insert</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084654Z" creationid="sandraczapska" creationdate="20230328T084654Z">
+        <seg>&amp;Insert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Layout:</seg>
       </tuv>
     </tu>
@@ -263,8 +274,8 @@
       <tuv lang="EN">
         <seg>&amp;Save As...</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081451Z" creationid="sandraczapska" creationdate="20230328T081451Z">
-        <seg>&amp;Save As...</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084945Z" creationid="sandraczapska" creationdate="20230328T081451Z">
+        <seg>&amp;Zapisz jako...</seg>
       </tuv>
     </tu>
     <tu>
@@ -273,6 +284,14 @@
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230328T071124Z">
         <seg>Zapisz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Search</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084648Z" creationid="sandraczapska" creationdate="20230328T084648Z">
+        <seg>&amp;Search</seg>
       </tuv>
     </tu>
     <tu>
@@ -314,6 +333,14 @@
     <tu>
       <tuv lang="EN">
         <seg>,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1) Reduce the number of files in the source folder;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084641Z" creationid="sandraczapska" creationdate="20230328T084641Z">
+        <seg>1) Reduce the number of files in the source folder;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1235,6 +1262,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084713Z" creationid="sandraczapska" creationdate="20230328T084713Z">
+        <seg>Błąd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error checking out the project from remote repository:</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103048Z" creationid="janmars" creationdate="20230327T103048Z">
@@ -1716,6 +1751,14 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the project contains files but their content is not displayed here:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084634Z" creationid="sandraczapska" creationdate="20230328T084634Z">
+        <seg>If the project contains files but their content is not displayed here:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3649,6 +3692,16 @@ Exact searches match the whole search string.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Untranslated segments &amp;only</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
+	See --help.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084645Z" creationid="sandraczapska" creationdate="20230328T084645Z">
+        <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
+	See --help.</seg>
       </tuv>
     </tu>
     <tu>
