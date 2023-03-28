@@ -424,6 +424,9 @@
       <tuv lang="EN">
         <seg>Arrays must not be null</seg>
       </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070719Z">
+        <seg>Tablica nie może być pusta</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -803,6 +806,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionaries folder:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070943Z" creationid="tobkub" creationdate="20230328T070943Z">
+        <seg>Katalog słowników</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionary</seg>
       </tuv>
     </tu>
@@ -1174,6 +1185,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Export translation memories folder:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T071005Z" creationid="tobkub" creationdate="20230328T071005Z">
+        <seg>Eksportuj folder pamięci tłumaczeniowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External GPG did not return a valid signature; got: {0}</seg>
       </tuv>
     </tu>
@@ -1224,6 +1243,22 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File locations</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070809Z" creationid="tobkub" creationdate="20230328T070758Z">
+        <seg>Lokalizacja pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File {0}: {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070704Z" creationid="tobkub" creationdate="20230328T070704Z">
+        <seg>Plik {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter '{0}' could not be loaded from '{1}'</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185816Z" creationid="ZOO" creationdate="20230324T185816Z">
@@ -1244,6 +1279,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190332Z" creationid="ZOO" creationdate="20230324T190332Z">
         <seg>&amp;Stopki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For all files:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070709Z" creationid="tobkub" creationdate="20230328T070709Z">
+        <seg>Dla wszystkich plików:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1296,6 +1339,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T105313Z">
         <seg>Glosariusze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossaries folder:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070920Z" creationid="tobkub" creationdate="20230328T070920Z">
+        <seg>Katalog glosariuszy</seg>
       </tuv>
     </tu>
     <tu>
@@ -1537,6 +1588,9 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Languages</seg>
       </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070743Z">
+        <seg>Języki</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -1573,6 +1627,22 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Local External Searches</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Local File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070828Z" creationid="tobkub" creationdate="20230328T070759Z">
+        <seg>&amp;Lokalne filtry plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Local Segmentation R&amp;ules...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070843Z" creationid="tobkub" creationdate="20230328T070843Z">
+        <seg>Lokalne &amp;zasady segmentacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -1727,6 +1797,9 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>No match:</seg>
       </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070657Z">
+        <seg>Brak dopasowania:</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -1835,6 +1908,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070858Z" creationid="tobkub" creationdate="20230328T070858Z">
+        <seg>Otwórz projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open XML Filter Options</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190310Z" creationid="ZOO" creationdate="20230324T190310Z">
@@ -1876,6 +1957,9 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070753Z">
+        <seg>Opcje</seg>
       </tuv>
     </tu>
     <tu>
@@ -2055,6 +2139,9 @@ project without team functionality.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Project Properties</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070741Z">
+        <seg>Właściwości projektu</seg>
       </tuv>
     </tu>
     <tu>
@@ -2268,6 +2355,9 @@ project without team functionality.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Se&amp;ntence-level segmenting</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070732Z">
+        <seg>S&amp;egmentuj na poziomie zdań</seg>
       </tuv>
     </tu>
     <tu>
@@ -2495,6 +2585,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185902Z" creationid="ZOO" creationdate="20230324T185902Z">
         <seg>Wzór nazwy pliku źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source files folder:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070908Z" creationid="tobkub" creationdate="20230328T070908Z">
+        <seg>Katalog plików źródłowych</seg>
       </tuv>
     </tu>
     <tu>
@@ -2856,6 +2954,22 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated files folder:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070956Z" creationid="tobkub" creationdate="20230328T070956Z">
+        <seg>Katalog plików docelowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memories folder:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070914Z" creationid="tobkub" creationdate="20230328T070914Z">
+        <seg>Katalog pamięci tłumaczeniowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translator comments:</seg>
       </tuv>
     </tu>
@@ -3058,6 +3172,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use local &amp;segmentation rules</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070853Z" creationid="tobkub" creationdate="20230328T070853Z">
+        <seg>Używaj lokalnych z&amp;asad segmentacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User credentials denied</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103132Z" creationid="janmars" creationdate="20230327T103132Z">
@@ -3121,6 +3243,14 @@ Both exact and keyword searches support the * and ?</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T065957Z" creationid="tobkub" creationdate="20230328T065957Z">
         <seg>Liczba wyrazów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writable glossary file:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070935Z" creationid="tobkub" creationdate="20230328T070935Z">
+        <seg>Nadpisywalny plik glosariusza</seg>
       </tuv>
     </tu>
     <tu>
