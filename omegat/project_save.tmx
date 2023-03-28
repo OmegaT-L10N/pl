@@ -101,6 +101,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Dictionaries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090806Z" creationid="sandraczapska" creationdate="20230328T090806Z">
+        <seg>&amp;Dictionaries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Edit</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090728Z">
@@ -340,6 +348,22 @@
     <tu>
       <tuv lang="EN">
         <seg>&amp;Show in Editor context menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Source Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090814Z" creationid="sandraczapska" creationdate="20230328T090814Z">
+        <seg>&amp;Pliki źródłowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Target Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090822Z" creationid="sandraczapska" creationdate="20230328T090822Z">
+        <seg>&amp;Pliki docelowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -2447,6 +2471,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>P&amp;roject Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090758Z" creationid="sandraczapska" creationdate="20230328T090758Z">
+        <seg>Folder p&amp;rojektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PDF text contents</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190847Z" creationid="ZOO" creationdate="20230324T190847Z">
@@ -3248,6 +3280,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103636Z" creationid="janmars" creationdate="20230327T103636Z">
         <seg>Synchronizacja repozytoriów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090834Z" creationid="sandraczapska" creationdate="20230328T090834Z">
+        <seg>T&amp;Ms</seg>
       </tuv>
     </tu>
     <tu>
