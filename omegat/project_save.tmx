@@ -1106,6 +1106,22 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exit code {0}: "{1}"</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T065753Z" creationid="tobkub" creationdate="20230328T065720Z">
+        <seg>Kod wyjścia {0}: "{1}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exit code: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T065713Z" creationid="tobkub" creationdate="20230328T065713Z">
+        <seg>Kod wyjścia: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External GPG did not return a valid signature; got: {0}</seg>
       </tuv>
     </tu>
@@ -1863,10 +1879,26 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Post-processing command failed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T065750Z" creationid="tobkub" creationdate="20230328T065750Z">
+        <seg>Wykonywanie komend post-przetwarzania nie powiodło się.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Post-processing commands completed.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T065634Z">
         <seg>Wykonano komenty post-przetwarzania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Post-processing commands failed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T065737Z" creationid="tobkub" creationdate="20230328T065737Z">
+        <seg>Wykonywanie komend post-przetwarzania nie powiodło się.</seg>
       </tuv>
     </tu>
     <tu>
