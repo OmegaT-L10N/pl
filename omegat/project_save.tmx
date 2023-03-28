@@ -2090,6 +2090,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Project Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T072127Z" creationid="tobkub" creationdate="20230328T072127Z">
+        <seg>Pliki projektu OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
       </tuv>
     </tu>
@@ -3306,6 +3314,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Trying with backup file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T072151Z" creationid="tobkub" creationdate="20230328T072151Z">
+        <seg>Próbuję odczytać plik zapasowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type</seg>
       </tuv>
     </tu>
@@ -3359,6 +3375,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185804Z" creationid="ZOO" creationdate="20230324T185804Z">
         <seg>Błąd przy analizowaniu pliku konfiguracyjnego filtrów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to read project file!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T072136Z" creationid="tobkub" creationdate="20230328T072136Z">
+        <seg>Nie można odczytać pliku projektu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3662,6 +3686,14 @@ Both exact and keyword searches support the * and ?</seg>
     <tu>
       <tuv lang="EN">
         <seg>Your current project uses sentence segmentation, but the TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ZIP files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T072118Z" creationid="tobkub" creationdate="20230328T072118Z">
+        <seg>Pliki ZIP</seg>
       </tuv>
     </tu>
     <tu>
