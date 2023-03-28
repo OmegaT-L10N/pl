@@ -1398,6 +1398,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Individual File Statistics:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070114Z" creationid="tobkub" creationdate="20230328T070114Z">
+        <seg>Statystyki poszczególnych plików:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Bidi Control C&amp;haracter</seg>
       </tuv>
     </tu>
@@ -2067,10 +2075,24 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remaining Characters (w/o spaces)</seg>
       </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070333Z">
+        <seg>Liczba pozostałych znaków (bez spacji)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070212Z" creationid="tobkub" creationdate="20230328T070138Z">
+        <seg>Liczba pozostałych segmentów</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Remaining Words</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070233Z">
+        <seg>Liczba pozostałych słów</seg>
       </tuv>
     </tu>
     <tu>
@@ -2666,18 +2688,24 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Total Characters (w/o spaces)</seg>
       </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070321Z">
+        <seg>Liczba znaków (bez spacji)</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Total Segments</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T064858Z">
-        <seg>Total Segments</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070214Z">
+        <seg>Całkowita liczba segmentów</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Total Words</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070222Z">
+        <seg>Całkowita liczba wyrazów</seg>
       </tuv>
     </tu>
     <tu>
@@ -2823,7 +2851,26 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unique Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070419Z" creationid="tobkub" creationdate="20230328T070419Z">
+        <seg>Liczba znaków w niepowtarzających się segmentach (bez spacji)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070207Z" creationid="tobkub" creationdate="20230328T070207Z">
+        <seg>Liczba pozostałych niepowtarzających się segmentów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unique Remaining Words</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070314Z">
+        <seg>Liczba słów w pozostałych niepowtarzających się segmentach</seg>
       </tuv>
     </tu>
     <tu>
@@ -2836,7 +2883,18 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unique Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070209Z" creationid="tobkub" creationdate="20230328T070149Z">
+        <seg>Liczba niepowtarzających się segmentów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unique Words</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230328T070302Z">
+        <seg>Liczba słów w niepowtarzających się segmentach</seg>
       </tuv>
     </tu>
     <tu>
