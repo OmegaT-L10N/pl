@@ -431,8 +431,8 @@
       <tuv lang="EN">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
-      <tuv lang="PL" changeid="JU" changedate="20230328T071115Z">
-        <seg>An item named "{0}" already exists in this location.</seg>
+      <tuv lang="PL" changeid="JU" changedate="20230328T071906Z">
+        <seg>Element "{0}" istnieje już w podanej lokalizacji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -944,6 +944,9 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you want to replace it with the one you're moving?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230328T071553Z">
         <seg>Do you want to replace it with the one you're moving?</seg>
       </tuv>
     </tu>
