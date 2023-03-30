@@ -443,6 +443,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Store for this session only</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T185149Z" creationid="Maja" creationdate="20230330T185149Z">
+        <seg>&amp;Przechowuj tylko dla tej sesji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Target Files</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090822Z" creationid="sandraczapska" creationdate="20230328T090822Z">
@@ -2100,6 +2108,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Folder ID</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T183933Z" creationid="Maja" creationdate="20230330T183933Z">
+        <seg>Identyfikator folderu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Follow capitalization of the typed text</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T105310Z" creationid="janmars" creationdate="20230327T105300Z">
@@ -2508,6 +2524,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep tags in translated text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T184223Z" creationid="Maja" creationdate="20230330T184223Z">
+        <seg>Pozostaw znaczniki w przetłumaczonym tekście</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LaTeX</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190008Z" creationid="ZOO" creationdate="20230324T190008Z">
@@ -2899,10 +2923,26 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No OAuth token specified</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T184324Z" creationid="Maja" creationdate="20230330T184324Z">
+        <seg>Nie określono tokena OAuth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No connection available, the project is in offline mode.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102516Z" creationid="janmars" creationdate="20230327T102516Z">
         <seg>No connection available, the project is in offline mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No folder ID specified</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T184337Z" creationid="Maja" creationdate="20230330T184337Z">
+        <seg>Nie określono identyfikatora folderu</seg>
       </tuv>
     </tu>
     <tu>
@@ -2993,6 +3033,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T184216Z" creationid="JU" creationdate="20230330T184216Z">
         <seg>Powiadom, jeśli segment zawiera  "{0}" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OAuth token</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T183943Z" creationid="Maja" creationdate="20230330T183943Z">
+        <seg>Token OAuth</seg>
       </tuv>
     </tu>
     <tu>
@@ -4741,10 +4789,34 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to parse IAM service response</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T184901Z" creationid="Maja" creationdate="20230330T184901Z">
+        <seg>Nie można odczytać odpowiedzi z usługi IAM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185804Z" creationid="ZOO" creationdate="20230324T185804Z">
         <seg>Błąd przy analizowaniu pliku konfiguracyjnego filtrów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to parse service error report</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T185105Z" creationid="Maja" creationdate="20230330T185105Z">
+        <seg>Nie można odczytać raportu o błędzie usługi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to parse translate service response</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T184931Z" creationid="Maja" creationdate="20230330T184931Z">
+        <seg>Nie można odczytać odpowiedzi z usługi tłumaczenia</seg>
       </tuv>
     </tu>
     <tu>
@@ -4949,6 +5021,14 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230330T161110Z" creationid="sandraczapska" creationdate="20230330T161110Z">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to open the dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use glossary terms</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T184300Z" creationid="Maja" creationdate="20230330T184300Z">
+        <seg>Użyj terminów z glosariusza</seg>
       </tuv>
     </tu>
     <tu>
