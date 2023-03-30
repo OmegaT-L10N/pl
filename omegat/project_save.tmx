@@ -395,6 +395,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Run</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T190048Z" creationid="Maja" creationdate="20230330T190048Z">
+        <seg>&amp;Uruchom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Save As...</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084945Z" creationid="sandraczapska" creationdate="20230328T081451Z">
@@ -996,6 +1004,22 @@
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230321T161003Z" creationid="janmars" creationdate="20230321T161003Z">
         <seg>C&amp;urrent Target File</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T190055Z" creationid="Maja" creationdate="20230330T190055Z">
+        <seg>Anuluj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T190404Z" creationid="Maja" creationdate="20230330T190404Z">
+        <seg>"Anuluj" działa tylko w przypadku skryptów, które jawnie sprawdzają możliwość anulowania.</seg>
       </tuv>
     </tu>
     <tu>
