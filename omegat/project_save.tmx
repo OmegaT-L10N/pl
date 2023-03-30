@@ -1529,6 +1529,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays alternative translations you have created for repeated segments in the project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T185307Z" creationid="Maja" creationdate="20230330T185307Z">
+        <seg>Wyświetla alternatywne tłumaczenia, które utworzyłeś dla powtarzających się segmentów w projekcie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T105204Z" creationid="janmars" creationdate="20230327T105204Z">
@@ -2854,6 +2862,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191218Z" creationid="ZOO" creationdate="20230324T191218Z">
         <seg>Monolin&amp;gwalne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multiple Translations</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T185211Z" creationid="Maja" creationdate="20230330T185211Z">
+        <seg>Wielokrotne tłumaczenia</seg>
       </tuv>
     </tu>
     <tu>
@@ -5021,6 +5037,14 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230330T161110Z" creationid="sandraczapska" creationdate="20230330T161110Z">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to open the dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use as Default Translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T185433Z" creationid="Maja" creationdate="20230330T185433Z">
+        <seg>Użyj jako tłumaczenie domyślne</seg>
       </tuv>
     </tu>
     <tu>
