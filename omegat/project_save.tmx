@@ -104,8 +104,8 @@
       <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081513Z" creationid="sandraczapska" creationdate="20230328T081513Z">
-        <seg>&amp;Close</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203228Z" creationid="sandraczapska" creationdate="20230328T081513Z">
+        <seg>&amp;Zakończ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1356,6 +1356,14 @@
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190330Z" creationid="ZOO" creationdate="20230324T190330Z">
         <seg>Ko&amp;mentarze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Co&amp;mmit Source Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203306Z" creationid="sandraczapska" creationdate="20230330T203306Z">
+        <seg>Co&amp;mmit Source Files</seg>
       </tuv>
     </tu>
     <tu>
@@ -5425,6 +5433,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230321T161337Z" creationid="janmars" creationdate="20230321T161337Z">
         <seg>The project cannot be verified</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The project is empty</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203519Z" creationid="sandraczapska" creationdate="20230330T203519Z">
+        <seg>Projekt jest pusty</seg>
       </tuv>
     </tu>
     <tu>
