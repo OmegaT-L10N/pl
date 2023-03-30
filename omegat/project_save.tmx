@@ -2428,6 +2428,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep Your Version</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T183618Z" creationid="JU" creationdate="20230330T183618Z">
+        <seg>Zachowaj swoją wersję</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LaTeX</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190008Z" creationid="ZOO" creationdate="20230324T190008Z">
@@ -3045,6 +3053,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Original version</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T183439Z" creationid="JU" creationdate="20230330T183439Z">
+        <seg>Wersja początkowa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Orphan segments</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T065119Z">
@@ -3409,6 +3425,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote version</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T183552Z" creationid="JU" creationdate="20230330T183552Z">
+        <seg>Wersja zdalna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove ta&amp;gs</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T071138Z" creationid="tobkub" creationdate="20230328T071138Z">
@@ -3705,8 +3729,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Select your version, the original version or the remote version.</seg>
       </tuv>
-      <tuv lang="PL" changeid="JU" changedate="20230330T181739Z" creationid="JU" creationdate="20230330T181739Z">
-        <seg>Select your version, the original version or the remote version.</seg>
+      <tuv lang="PL" changeid="JU" changedate="20230330T183427Z" creationid="JU" creationdate="20230330T181739Z">
+        <seg>Wybierz swoją wersję, wersję początkową lub wersję zdalną.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4945,6 +4969,14 @@ Your page is not found</seg>
     <tu>
       <tuv lang="EN">
         <seg>Your current project uses sentence segmentation, but the TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your version</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T183447Z" creationid="JU" creationdate="20230330T183447Z">
+        <seg>Twoja wersja</seg>
       </tuv>
     </tu>
     <tu>
