@@ -742,6 +742,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Algorithm:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201930Z" creationid="JU" creationdate="20230330T201930Z">
+        <seg>Algorytm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Align</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201925Z" creationid="JU" creationdate="20230330T201925Z">
+        <seg>Wyrównaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align Files</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T200624Z" creationid="JU" creationdate="20230330T200624Z">
@@ -952,6 +968,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Average Score: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202034Z" creationid="JU" creationdate="20230330T202034Z">
+        <seg>Średni wynik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>B&amp;rowse...</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T071745Z" creationid="tobkub" creationdate="20230328T071745Z">
@@ -1052,6 +1076,14 @@
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230321T161003Z" creationid="janmars" creationdate="20230321T161003Z">
         <seg>C&amp;urrent Target File</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculator:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201933Z" creationid="JU" creationdate="20230330T201933Z">
+        <seg>Kalkulator</seg>
       </tuv>
     </tu>
     <tu>
@@ -1328,6 +1360,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comparison Mode:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202024Z" creationid="JU" creationdate="20230330T202024Z">
+        <seg>Tryb porównania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Completed and current translations saved as {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230321T145334Z" creationid="tobkub" creationdate="20230321T145334Z">
@@ -1393,6 +1433,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202117Z" creationid="JU" creationdate="20230330T202117Z">
+        <seg>Kontynuuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230328T072813Z" creationid="Maja" creationdate="20230328T072813Z">
@@ -1421,6 +1469,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103211Z" creationid="janmars" creationdate="20230327T102148Z">
         <seg>Nie można było zachować danych użytkownika na pliku tekstowym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Counter:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201936Z" creationid="JU" creationdate="20230330T201936Z">
+        <seg>Licznik</seg>
       </tuv>
     </tu>
     <tu>
@@ -2244,6 +2300,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File Filters...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201921Z" creationid="JU" creationdate="20230330T201921Z">
+        <seg>Filtry plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File Name</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T064855Z">
@@ -2280,6 +2344,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185816Z" creationid="ZOO" creationdate="20230324T185816Z">
         <seg>Nie można wczytać filtru '{0}' z '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filters...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202103Z" creationid="JU" creationdate="20230330T202103Z">
+        <seg>Filtry</seg>
       </tuv>
     </tu>
     <tu>
@@ -2472,6 +2544,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230328T071138Z" creationid="Maja" creationdate="20230328T071138Z">
         <seg>Ukryj '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hide Tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202100Z" creationid="JU" creationdate="20230330T202100Z">
+        <seg>Ukryj znaczniki</seg>
       </tuv>
     </tu>
     <tu>
@@ -3661,6 +3741,22 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pattern...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202107Z" creationid="JU" creationdate="20230330T202107Z">
+        <seg>Wzorzec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pinpoint Align: Select corresponding cell</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202207Z" creationid="JU" creationdate="20230330T202207Z">
+        <seg>Dokładne wyrównanie: wybierz odpowiednią komórkę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Plugin Installer</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230328T070315Z">
@@ -3985,6 +4081,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove Tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201907Z" creationid="JU" creationdate="20230330T201907Z">
+        <seg>Usuń znaczniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Translation</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T185643Z" creationid="Maja" creationdate="20230330T185643Z">
@@ -4118,6 +4222,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090627Z" creationid="sandraczapska" creationdate="20230328T090627Z">
         <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rules...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202057Z" creationid="JU" creationdate="20230330T202057Z">
+        <seg>Zasady...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4323,6 +4435,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T183824Z" creationid="JU" creationdate="20230330T183824Z">
         <seg>Właściwości segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201916Z" creationid="JU" creationdate="20230330T201916Z">
+        <seg>Zasady segmentacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -4776,6 +4896,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070603Z">
         <seg>Statystyki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 1: Adjust alignment parameters</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202131Z" creationid="JU" creationdate="20230330T202131Z">
+        <seg>Dopasuj ustawienia wyrównania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 2: Make manual corrections</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202147Z" creationid="JU" creationdate="20230330T202147Z">
+        <seg>Wykonaj ręczne korekcje</seg>
       </tuv>
     </tu>
     <tu>
@@ -6033,6 +6169,22 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161636Z" creationid="biegajacy-zajac" creationdate="20230321T161636Z">
         <seg>“{0}” ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▲</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202041Z" creationid="JU" creationdate="20230330T202041Z">
+        <seg>▲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▼</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202046Z" creationid="JU" creationdate="20230330T202046Z">
+        <seg>▼</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
