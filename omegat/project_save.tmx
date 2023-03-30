@@ -5533,6 +5533,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Your project does not seem to contain translatable files.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T195936Z" creationid="sandraczapska" creationdate="20230330T195936Z">
+        <seg>Projekt nie zawiera plików do przetłumaczenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Your version</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T183447Z" creationid="JU" creationdate="20230330T183447Z">
