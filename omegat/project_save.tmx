@@ -597,6 +597,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T195539Z" creationid="sandraczapska" creationdate="20230330T195539Z">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;br&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164546Z" creationid="biegajacy-zajac" creationdate="20230321T164546Z">
