@@ -1184,6 +1184,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose Source File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201347Z" creationid="JU" creationdate="20230330T201347Z">
+        <seg>Wybierz plik źródłowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose Target File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201355Z" creationid="JU" creationdate="20230330T201355Z">
+        <seg>Wybierz plik docelowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201523Z" creationid="JU" creationdate="20230330T201523Z">
+        <seg>Zamknij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Close the search window.</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084347Z" creationid="sandraczapska" creationdate="20230328T084347Z">
@@ -1785,6 +1809,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201525Z" creationid="JU" creationdate="20230330T201525Z">
+        <seg>Edytuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Either update to the latest JDK 1.6, or remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230328T072758Z" creationid="Maja" creationdate="20230328T072758Z">
@@ -2182,8 +2214,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>File</seg>
       </tuv>
-      <tuv lang="PL" changeid="JU" changedate="20230330T184319Z" creationid="biegajacy-zajac" creationdate="20230328T070155Z">
-        <seg>Pliki[coś w rodzaju]Przeszukaj p&amp;liki</seg>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201457Z" creationid="biegajacy-zajac" creationdate="20230328T070155Z">
+        <seg>Pliki</seg>
       </tuv>
     </tu>
     <tu>
@@ -2938,6 +2970,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Merge</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201554Z" creationid="JU" creationdate="20230330T201554Z">
+        <seg>Scal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Merge alternate definitions of the same term</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201228Z" creationid="biegajacy-zajac" creationdate="20230321T201228Z">
@@ -3006,6 +3046,22 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191218Z" creationid="ZOO" creationdate="20230324T191218Z">
         <seg>Monolin&amp;gwalne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move Down</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201539Z" creationid="JU" creationdate="20230330T201539Z">
+        <seg>Przenieś w dół</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move Up</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201533Z" creationid="JU" creationdate="20230330T201533Z">
+        <seg>Przenieś do góry</seg>
       </tuv>
     </tu>
     <tu>
@@ -3759,6 +3815,14 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Reload</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201520Z" creationid="JU" creationdate="20230330T201520Z">
+        <seg>Załaduj ponownie</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Ten sam problem co wyżej: czy można tak zmieniać szyk?</note>
       <tuv lang="EN">
         <seg>Reload the current project to apply these changes</seg>
@@ -3937,6 +4001,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201515Z" creationid="JU" creationdate="20230330T201515Z">
+        <seg>Resetuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Resource name</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T184527Z" creationid="JU" creationdate="20230330T184527Z">
@@ -4022,6 +4094,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T190906Z" creationid="Maja" creationdate="20230330T190906Z">
         <seg>Zapisz skrypt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save TMX...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201508Z" creationid="JU" creationdate="20230330T201508Z">
+        <seg>Zapisz jako TMX</seg>
       </tuv>
     </tu>
     <tu>
@@ -4572,6 +4652,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Split</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201548Z" creationid="JU" creationdate="20230330T201548Z">
+        <seg>Rozdziel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Standar&amp;d</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191211Z" creationid="ZOO" creationdate="20230324T191211Z">
@@ -4608,6 +4696,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165904Z" creationid="littlewhitedirect" creationdate="20230321T165904Z">
         <seg>Podsumowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Supported Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201444Z" creationid="JU" creationdate="20230330T201444Z">
+        <seg>Wspierane pliki</seg>
       </tuv>
     </tu>
     <tu>
