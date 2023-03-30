@@ -267,6 +267,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Jump to Segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T203125Z" creationid="JU" creationdate="20230330T203125Z">
+        <seg>Przejdź do segmentu &amp; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Layout:</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201238Z" creationid="biegajacy-zajac" creationdate="20230321T201238Z">
@@ -381,8 +389,8 @@
       <tuv lang="EN">
         <seg>&amp;Refresh</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T065547Z" creationid="littlewhitedirect" creationdate="20230328T065547Z">
-        <seg>&amp;Refresh</seg>
+      <tuv lang="PL" changeid="JU" changedate="20230330T203141Z" creationid="littlewhitedirect" creationdate="20230328T065547Z">
+        <seg>Odśwież&amp;</seg>
       </tuv>
     </tu>
     <tu>
@@ -455,6 +463,14 @@
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190254Z" creationid="ZOO" creationdate="20230324T190254Z">
         <seg>&amp;Nazwy arkuszy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show All</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T203130Z" creationid="JU" creationdate="20230330T203130Z">
+        <seg>Pokaż wszystko</seg>
       </tuv>
     </tu>
     <tu>
@@ -1226,8 +1242,8 @@
       <tuv lang="EN">
         <seg>Character</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161002Z" creationid="biegajacy-zajac" creationdate="20230321T161002Z">
-        <seg>Character</seg>
+      <tuv lang="PL" changeid="JU" changedate="20230330T203113Z" creationid="biegajacy-zajac" creationdate="20230321T161002Z">
+        <seg>Znak</seg>
       </tuv>
     </tu>
     <tu>
@@ -2524,6 +2540,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Forward-Backward</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T203054Z" creationid="JU" creationdate="20230330T203054Z">
+        <seg>Przekaż dalej-Wstecz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Found in:</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230328T071000Z">
@@ -2896,6 +2920,22 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T200317Z" creationid="JU" creationdate="20230330T200317Z">
         <seg>Alternatywny segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T203146Z" creationid="JU" creationdate="20230330T203146Z">
+        <seg>Problemy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T203156Z" creationid="JU" creationdate="20230330T203156Z">
+        <seg>Problemy ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -3921,6 +3961,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185609Z">
         <seg>Wtyczka została pomyślnie załadowana z klasy '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Poisson</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T203103Z" creationid="JU" creationdate="20230330T203103Z">
+        <seg>Poisson</seg>
       </tuv>
     </tu>
     <tu>
@@ -6021,6 +6069,14 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T201832Z" creationid="JU" creationdate="20230330T201832Z">
         <seg>Widok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Viterbi</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202959Z" creationid="JU" creationdate="20230330T202959Z">
+        <seg>Viterbi</seg>
       </tuv>
     </tu>
     <tu>
