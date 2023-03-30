@@ -58,8 +58,8 @@
       <tuv lang="EN">
         <seg>&amp;Automatically Fetch Translations</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maja" changedate="20230330T175911Z" creationid="Maja" creationdate="20230330T175911Z">
-        <seg>Pobieraj tłumaczenie automatycznie</seg>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T180028Z" creationid="Maja" creationdate="20230330T175911Z">
+        <seg>Pobieraj tłumaczenia automatycznie </seg>
       </tuv>
     </tu>
     <tu>
@@ -417,6 +417,14 @@
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090742Z" creationid="sandraczapska" creationdate="20230328T090742Z">
         <seg>&amp;Undo Last Action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Untranslated Segments Only</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T180039Z" creationid="Maja" creationdate="20230330T180039Z">
+        <seg>Tylko nieprzetłumaczone segmenty</seg>
       </tuv>
     </tu>
     <tu>
@@ -1859,6 +1867,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Google Translate v2</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T180230Z" creationid="Maja" creationdate="20230330T180230Z">
+        <seg>Tłumacz Google v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>He&amp;aders</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190332Z" creationid="ZOO" creationdate="20230324T190332Z">
@@ -2202,6 +2218,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140223Z">
         <seg>Local project commands are disabled for security reasons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MT engine error({0}) {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T180142Z" creationid="Maja" creationdate="20230330T180142Z">
+        <seg>Błąd silnika tłumaczenia maszynowego</seg>
       </tuv>
     </tu>
     <tu>
