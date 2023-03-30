@@ -1021,6 +1021,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy error to clipboard</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T171850Z" creationid="sandraczapska" creationdate="20230330T171850Z">
+        <seg>Copy error to clipboard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T065022Z">
@@ -2966,6 +2974,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090627Z" creationid="sandraczapska" creationdate="20230328T090627Z">
         <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Run OmegaT" in the user manual.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T171540Z" creationid="sandraczapska" creationdate="20230330T171540Z">
+        <seg>Run OmegaT" in the user manual.</seg>
       </tuv>
     </tu>
     <tu>
