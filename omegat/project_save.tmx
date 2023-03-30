@@ -2587,8 +2587,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Local project commands are disabled for security reasons.</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140223Z">
-        <seg>Local project commands are disabled for security reasons.</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230330T182914Z">
+        <seg>Polecenia projektów lokalnych są wyłączone ze względów bezpieczeństwa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4495,8 +4495,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>URL is missing target</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140537Z">
-        <seg>URL is missing target</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230330T182922Z">
+        <seg>URL bez adresu docelowego</seg>
       </tuv>
     </tu>
     <tu>
