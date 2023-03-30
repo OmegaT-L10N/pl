@@ -568,8 +568,8 @@
       <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230330T182205Z">
-        <seg>&lt;html&gt;&lt;center&gt;Ładuje się&lt;br&gt;&lt;br&gt;Rada: Włącz/wyłącz kontrole w dowolnym momencie z menu Opcje&lt;/center&gt;&lt;/html&gt;</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230330T183239Z">
+        <seg>&lt;html&gt;&lt;center&gt;Ładuje się&lt;br&gt;&lt;br&gt;Rada: Włącz/wyłącz kontrole w dowolnym momencie z menu Opcji&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
