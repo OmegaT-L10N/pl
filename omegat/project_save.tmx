@@ -758,6 +758,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T190551Z" creationid="Maja" creationdate="20230330T190551Z">
+        <seg>Wystąpił błąd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred when loading the script: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T190614Z" creationid="Maja" creationdate="20230330T190614Z">
+        <seg>Podczas ładowania skryptu wystąpił błąd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103257Z" creationid="janmars" creationdate="20230327T103257Z">
@@ -900,6 +916,14 @@
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230328T070303Z">
         <seg>Dostępne języki:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Available script engines:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T190642Z" creationid="Maja" creationdate="20230330T190642Z">
+        <seg>Dostępne silniki skryptowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -4549,6 +4573,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The script "{0}" is running...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T190429Z" creationid="Maja" creationdate="20230330T190429Z">
+        <seg>Skrypt "{0}" jest uruchomiony...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The server is not a valid Apertium server.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T182333Z" creationid="Maja" creationdate="20230330T182333Z">
@@ -5409,6 +5441,22 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230330T183053Z" creationid="biegajacy-zajac" creationdate="20230321T161634Z">
         <seg>[{0}] “{1}” w oryginale; spodziewano się “{2}” w tłumaczeniu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>canceled ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T190525Z" creationid="Maja" creationdate="20230330T190525Z">
+        <seg>anulowane (upłynęło {0} ms)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>done ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T190508Z" creationid="Maja" creationdate="20230330T190508Z">
+        <seg>zrobione (upłynęło {0} ms)</seg>
       </tuv>
     </tu>
     <tu>
