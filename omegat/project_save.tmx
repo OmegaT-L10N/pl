@@ -307,6 +307,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Open Script...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T190029Z" creationid="Maja" creationdate="20230330T190029Z">
+        <seg>&amp;Otwórz skrypt...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Open...</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090547Z" creationid="sandraczapska" creationdate="20230328T090547Z">
@@ -561,6 +569,14 @@
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070650Z">
         <seg>95%-100%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;EMPTY&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T185856Z" creationid="Maja" creationdate="20230330T185856Z">
+        <seg>&lt;PUSTE&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3790,6 +3806,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103828Z" creationid="janmars" creationdate="20230327T102126Z">
         <seg>Opcje zapisu i wyjścia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripting</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T190006Z" creationid="Maja" creationdate="20230330T190006Z">
+        <seg>Wykonywanie skryptów</seg>
       </tuv>
     </tu>
     <tu>
