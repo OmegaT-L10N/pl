@@ -2188,6 +2188,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Google API key not available.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T183257Z" creationid="Maja" creationdate="20230330T183257Z">
+        <seg>Klucz interfejsu Google API niedostępny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Google Translate v2</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T180230Z" creationid="Maja" creationdate="20230330T180230Z">
@@ -3209,6 +3217,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140217Z">
         <seg>[fuzzy]&amp;Preferences...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Premium Edition</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T183054Z" creationid="Maja" creationdate="20230330T183054Z">
+        <seg>Edycja Premium</seg>
       </tuv>
     </tu>
     <tu>
