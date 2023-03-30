@@ -483,6 +483,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Leave the Password empty if you are using an API key.)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T183921Z" creationid="Maja" creationdate="20230330T183921Z">
+        <seg>Zostaw pole Hasło puste, jeśli używasz klucza interfejsu API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(You will still able to use OmegaT
 3.6 to edit this project as a team project.)</seg>
       </tuv>
@@ -1349,6 +1357,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T180412Z" creationid="Maja" creationdate="20230330T180412Z">
         <seg>DeepL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DeepL API key not available.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T183651Z" creationid="Maja" creationdate="20230330T183651Z">
+        <seg>Klucz interfejsu DeepL API niedostępny</seg>
       </tuv>
     </tu>
     <tu>
@@ -2252,6 +2268,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IBM Watson not available.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T183830Z" creationid="Maja" creationdate="20230330T183830Z">
+        <seg>IBM Watson niedostępny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ILIAS Language File</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190154Z" creationid="ZOO" creationdate="20230324T190154Z">
@@ -2734,6 +2758,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230328T132721Z" creationid="janmars" creationdate="20230327T104441Z">
         <seg>Brak znaczników</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Model ID:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T183741Z" creationid="Maja" creationdate="20230330T183741Z">
+        <seg>Identyfikator modelu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3635,6 +3667,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T101954Z">
         <seg>See Help &gt; User Manual for details, including available Java options.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the user manual for instructions.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T183634Z" creationid="Maja" creationdate="20230330T183634Z">
+        <seg>Zobacz instrukcje w podręczniku użytkownika</seg>
       </tuv>
     </tu>
     <tu>
@@ -4541,6 +4581,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>URL:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T183750Z" creationid="Maja" creationdate="20230330T183750Z">
+        <seg>Adres URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>URLs</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165549Z" creationid="littlewhitedirect" creationdate="20230321T165549Z">
@@ -4781,6 +4829,14 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103132Z" creationid="janmars" creationdate="20230327T103132Z">
         <seg>Błędne dane użytkownika, odmowa dostępu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username or API key:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T183706Z" creationid="Maja" creationdate="20230330T183706Z">
+        <seg>Nazwa użytkownika lub klucz interfejsu API</seg>
       </tuv>
     </tu>
     <tu>
