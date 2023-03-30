@@ -2013,8 +2013,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Error while loading the source files.</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230328T070246Z" creationid="biegajacy-zajac" creationdate="20230328T070246Z">
-        <seg>Error while loading the source files.</seg>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201338Z" creationid="biegajacy-zajac" creationdate="20230328T070246Z">
+        <seg>Błąd podczas ładowania pliku źródłowego</seg>
       </tuv>
     </tu>
     <tu>
@@ -4789,6 +4789,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The file "{0}" is not supported.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T200931Z" creationid="JU" creationdate="20230330T200931Z">
+        <seg>Plik "{0}" nie jest wspierany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The password cannot be empty.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194145Z" creationid="biegajacy-zajac" creationdate="20230321T170314Z">
@@ -4833,6 +4841,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T182333Z" creationid="Maja" creationdate="20230330T182333Z">
         <seg>Serwer nie jest prawidłowym serwerem Aperitum </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified files are not supported.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T200939Z" creationid="JU" creationdate="20230330T200939Z">
+        <seg>Wybrane pliki nie są wspierane.</seg>
       </tuv>
     </tu>
     <tu>
