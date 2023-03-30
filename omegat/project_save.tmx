@@ -2428,10 +2428,26 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to copy files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203126Z" creationid="sandraczapska" creationdate="20230330T203126Z">
+        <seg>Nie można skopiować plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to create project!</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T064944Z">
         <seg>Utworzenie nowego projektu nie powiodło się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to download page</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203112Z" creationid="sandraczapska" creationdate="20230330T203112Z">
+        <seg>Nie można pobrać strony</seg>
       </tuv>
     </tu>
     <tu>
@@ -4156,6 +4172,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230330T182707Z" creationid="biegajacy-zajac" creationdate="20230321T195452Z">
         <seg>Dostawca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;load</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203217Z" creationid="sandraczapska" creationdate="20230330T203217Z">
+        <seg>&amp;Wczytaj ponownie</seg>
       </tuv>
     </tu>
     <tu>
