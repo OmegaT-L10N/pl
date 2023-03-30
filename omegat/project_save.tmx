@@ -3844,8 +3844,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Run OmegaT" in the user manual.</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T193256Z" creationid="sandraczapska" creationdate="20230330T171540Z">
-        <seg>Uruchom OmegaT" w podręczniku użytkownika.</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T193934Z" creationid="sandraczapska" creationdate="20230330T171540Z">
+        <seg>uruchomić program OmegaT" w podręczniku użytkownika.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3860,8 +3860,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Running on Java {0} ({1}-bit)</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T193303Z" creationid="sandraczapska" creationdate="20230330T193303Z">
-        <seg>Running on Java {0} ({1}-bit)</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T194646Z" creationid="sandraczapska" creationdate="20230330T193303Z">
+        <seg>Działa w środowisku Java {0} ({1}-bit)</seg>
       </tuv>
     </tu>
     <tu>
