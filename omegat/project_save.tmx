@@ -2452,6 +2452,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep Remote Version</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T183759Z" creationid="JU" creationdate="20230330T183759Z">
+        <seg>Zachowaj zdalną wersję</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep Your Version</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T183618Z" creationid="JU" creationdate="20230330T183618Z">
@@ -2557,6 +2565,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190238Z" creationid="ZOO" creationdate="20230324T190238Z">
         <seg>Linki (&amp;URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>List View</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T183838Z" creationid="JU" creationdate="20230330T183838Z">
+        <seg>Widok listy</seg>
       </tuv>
     </tu>
     <tu>
@@ -2921,6 +2937,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T202346Z" creationid="biegajacy-zajac" creationdate="20230321T200748Z">
         <seg>Brak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has "{0}"</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184216Z" creationid="JU" creationdate="20230330T184216Z">
+        <seg>Powiadom, jeśli segment zawiera  "{0}" </seg>
       </tuv>
     </tu>
     <tu>
@@ -3687,6 +3711,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment Properties</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T183824Z" creationid="JU" creationdate="20230330T183824Z">
+        <seg>Właściwości segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segments</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T065953Z" creationid="tobkub" creationdate="20230328T065953Z">
@@ -3843,6 +3875,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T105058Z" creationid="janmars" creationdate="20230327T105032Z">
         <seg>Pokaż najpierw &amp;terminy docelowe </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Raw Key Names</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184013Z" creationid="JU" creationdate="20230330T184013Z">
+        <seg>Pokaż nazwy kluczy podstawowych</seg>
       </tuv>
     </tu>
     <tu>
@@ -4128,6 +4168,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104026Z" creationid="janmars" creationdate="20230327T104026Z">
         <seg>Tabulator </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table View</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T183830Z" creationid="JU" creationdate="20230330T183830Z">
+        <seg>Widok tabeli</seg>
       </tuv>
     </tu>
     <tu>
