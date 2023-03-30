@@ -3850,6 +3850,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Run script in slot #{0}.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T191131Z" creationid="Maja" creationdate="20230330T191012Z">
+        <seg>Uruchom skrypt w gnieździe #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>S&amp;lide comments</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190432Z" creationid="ZOO" creationdate="20230324T190432Z">
@@ -3894,6 +3902,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103828Z" creationid="janmars" creationdate="20230327T102126Z">
         <seg>Opcje zapisu i wyjścia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script "{0}" saved.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T190943Z" creationid="Maja" creationdate="20230330T190943Z">
+        <seg>Skrypt "{0}" został zapisany</seg>
       </tuv>
     </tu>
     <tu>
