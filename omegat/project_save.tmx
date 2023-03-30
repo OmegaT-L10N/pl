@@ -1064,6 +1064,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot read selected script file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T190809Z" creationid="Maja" creationdate="20230330T190809Z">
+        <seg>Nie można odczytać wybranego pliku skryptu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed by</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T184440Z" creationid="JU" creationdate="20230330T184440Z">
@@ -1983,6 +1991,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T180540Z" creationid="Maja" creationdate="20230330T180540Z">
         <seg>Błąd podczas odczytywania wyników tłumaczenia maszynowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error while trying to save script.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T190930Z" creationid="Maja" creationdate="20230330T190930Z">
+        <seg>Błąd podczas próby zapisania skryptu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3064,6 +3080,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No script selected.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T190735Z" creationid="Maja" creationdate="20230330T190735Z">
+        <seg>Nie wybrano skryptu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No script set.</seg>
       </tuv>
     </tu>
@@ -3608,6 +3632,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Refreshing script folder "{0}"</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T190847Z" creationid="Maja" creationdate="20230330T190847Z">
+        <seg>Odświeżanie folderu skryptu "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T185838Z" creationid="Maja" creationdate="20230330T185838Z">
@@ -3842,6 +3874,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save Script</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T190906Z" creationid="Maja" creationdate="20230330T190906Z">
+        <seg>Zapisz skrypt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving and Output</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103837Z" creationid="janmars" creationdate="20230327T103824Z">
@@ -3858,10 +3898,26 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Script Result</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T190834Z" creationid="Maja" creationdate="20230330T190834Z">
+        <seg>Wyniki skryptu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scripting</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T190006Z" creationid="Maja" creationdate="20230330T190006Z">
         <seg>Wykonywanie skryptów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripts Folder:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T190703Z" creationid="Maja" creationdate="20230330T190703Z">
+        <seg>Folder skryptów</seg>
       </tuv>
     </tu>
     <tu>
@@ -3991,10 +4047,26 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Scripts Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T190714Z" creationid="Maja" creationdate="20230330T190714Z">
+        <seg>Wybierz folder skryptów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a Category</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194634Z" creationid="biegajacy-zajac" creationdate="20230321T170440Z">
         <seg>Wybierz kategorię</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a Script File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T190723Z" creationid="Maja" creationdate="20230330T190723Z">
+        <seg>Wybierz plik skryptu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4035,6 +4107,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T183427Z" creationid="JU" creationdate="20230330T181739Z">
         <seg>Wybierz swoją wersję, wersję początkową lub wersję zdalną.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selected Engine: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T190820Z" creationid="Maja" creationdate="20230330T190820Z">
+        <seg>Wybrany silnik: {0}</seg>
       </tuv>
     </tu>
     <tu>
