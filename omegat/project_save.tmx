@@ -56,6 +56,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically Fetch Translations</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T175911Z" creationid="Maja" creationdate="20230330T175911Z">
+        <seg>Pobieraj tłumaczenie automatycznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Automatically fetch translations</seg>
       </tuv>
     </tu>
