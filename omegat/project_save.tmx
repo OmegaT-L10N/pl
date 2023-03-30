@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T200624Z" creationid="JU" creationdate="20230330T200624Z">
+        <seg>Wyrównanie plików </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T193404Z" creationid="biegajacy-zajac" creationdate="20230321T193404Z">
@@ -762,6 +770,14 @@
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T065338Z">
         <seg>Allow local external search commands</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternative</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T200323Z" creationid="JU" creationdate="20230330T200323Z">
+        <seg>Alternatywa</seg>
       </tuv>
     </tu>
     <tu>
@@ -2372,6 +2388,22 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Has Comment, see Comments Tab</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T200303Z" creationid="JU" creationdate="20230330T200303Z">
+        <seg>Zawiera komentarze, sprawdź kartę komentarzy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Has Note, see Notes Tab</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T200133Z" creationid="JU" creationdate="20230330T200133Z">
+        <seg>W segmencie znajduje się notatka, sprawdź kartę notatnika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>He&amp;aders</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190332Z" creationid="ZOO" creationdate="20230324T190332Z">
@@ -2568,6 +2600,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191307Z" creationid="ZOO" creationdate="20230324T191307Z">
         <seg>Nieprawidłowy format pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Is alternative</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T200317Z" creationid="JU" creationdate="20230330T200317Z">
+        <seg>Alternatywny segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -2882,6 +2922,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match type</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T200337Z" creationid="JU" creationdate="20230330T200337Z">
+        <seg>Rodzaj dopasowania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maximum line length:</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185959Z" creationid="ZOO" creationdate="20230324T185959Z">
@@ -3025,12 +3073,36 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184545Z" creationid="JU" creationdate="20230330T184545Z">
+        <seg>Nie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No Comment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T200307Z" creationid="JU" creationdate="20230330T200307Z">
+        <seg>Brak komentarzy</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Błędów czy problemów?</note>
       <tuv lang="EN">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165835Z" creationid="biegajacy-zajac" creationdate="20230321T160849Z">
         <seg>Nie znaleziono błędów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No Note</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T200155Z" creationid="JU" creationdate="20230330T200155Z">
+        <seg>Brak notatek</seg>
       </tuv>
     </tu>
     <tu>
@@ -3145,6 +3217,22 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T202346Z" creationid="biegajacy-zajac" creationdate="20230321T200748Z">
         <seg>Brak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not Alternative</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T200327Z" creationid="JU" creationdate="20230330T200327Z">
+        <seg>Brak alternatywy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184551Z" creationid="JU" creationdate="20230330T184551Z">
+        <seg>Notatki</seg>
       </tuv>
     </tu>
     <tu>
@@ -3329,6 +3417,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070753Z">
         <seg>Opcje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Origin</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T200341Z" creationid="JU" creationdate="20230330T200341Z">
+        <seg>Źródło</seg>
       </tuv>
     </tu>
     <tu>
@@ -3761,6 +3857,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repeated</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184539Z" creationid="JU" creationdate="20230330T184539Z">
+        <seg>Powtórzony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repetitions from other files:</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070640Z" creationid="tobkub" creationdate="20230328T070640Z">
@@ -3829,6 +3933,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103624Z" creationid="janmars" creationdate="20230327T103624Z">
         <seg>Dane repozytorium.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resource name</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184527Z" creationid="JU" creationdate="20230330T184527Z">
+        <seg>Nazwa zasobu</seg>
       </tuv>
     </tu>
     <tu>
