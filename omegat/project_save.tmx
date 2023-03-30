@@ -1417,6 +1417,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T195507Z" creationid="sandraczapska" creationdate="20230330T195507Z">
+        <seg>Aktualne wykorzystanie pamięci przez VM: {0}MB; w tym wolna pamięć: {1}MB; maksymalna pamięć dostępna: {2}MB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom branch</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103018Z">
