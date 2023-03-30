@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Place the caret at the location where you want to split the text.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202529Z" creationid="JU" creationdate="20230330T202529Z">
+        <seg>&lt;html&gt;Umieść kursor w miejscu, w którym chcesz rozdzielić tekst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102937Z" creationid="janmars" creationdate="20230327T102937Z">
@@ -1925,6 +1933,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T201525Z" creationid="JU" creationdate="20230330T201525Z">
         <seg>Edytuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Highlight Pattern</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202407Z" creationid="JU" creationdate="20230330T202407Z">
+        <seg>Edytuj wzorzec wyróżnienia</seg>
       </tuv>
     </tu>
     <tu>
@@ -4370,6 +4386,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save changes to filter settings?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202602Z" creationid="JU" creationdate="20230330T202602Z">
+        <seg>Zapisać zmiany ustawien filtrów?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save changes to segmentation rules?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202547Z" creationid="JU" creationdate="20230330T202547Z">
+        <seg>Zapisać zmiany w zasadach segmentacji?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving and Output</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103837Z" creationid="janmars" creationdate="20230327T103824Z">
@@ -4775,6 +4807,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some alignments still need review.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202749Z" creationid="JU" creationdate="20230330T202749Z">
+        <seg>Niektóre dopasowania nadal potrzebują recenzji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T071948Z" creationid="tobkub" creationdate="20230328T071948Z">
@@ -4928,6 +4968,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T201548Z" creationid="JU" creationdate="20230330T201548Z">
         <seg>Rozdziel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Split Text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202419Z" creationid="JU" creationdate="20230330T202419Z">
+        <seg>Rozdziel tekst</seg>
       </tuv>
     </tu>
     <tu>
