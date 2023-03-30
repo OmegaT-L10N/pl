@@ -814,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when saving the TMX.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202317Z" creationid="JU" creationdate="20230330T202317Z">
+        <seg>Błąd podczas zapisywania TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103257Z" creationid="janmars" creationdate="20230327T103257Z">
@@ -852,6 +860,14 @@
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230328T071906Z">
         <seg>Element "{0}" istnieje już w podanej lokalizacji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An item with the name "{0}" already exists at this location.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202254Z" creationid="JU" creationdate="20230330T202254Z">
+        <seg>Element o nazwie "{0}" już istnieje w tej lokalizacji. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1441,6 +1457,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continue?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202334Z" creationid="JU" creationdate="20230330T202334Z">
+        <seg>Kontynuować?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230328T072813Z" creationid="Maja" creationdate="20230328T072813Z">
@@ -1753,6 +1777,22 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Distance</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202215Z" creationid="JU" creationdate="20230330T202215Z">
+        <seg>Odstęp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to overwrite it?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202302Z" creationid="JU" creationdate="20230330T202302Z">
+        <seg>Czy chesz go zastąpić?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you want to replace it with the one you're moving?</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T181519Z">
@@ -1885,6 +1925,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T201525Z" creationid="JU" creationdate="20230330T201525Z">
         <seg>Edytuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202340Z" creationid="JU" creationdate="20230330T202340Z">
+        <seg>Edytuj tekst?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2800,6 +2848,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185500Z" creationid="ZOO" creationdate="20230324T185500Z">
         <seg>Jar zastosowano dla wtyczek: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202217Z" creationid="JU" creationdate="20230330T202217Z">
+        <seg>Zachowaj</seg>
       </tuv>
     </tu>
     <tu>
@@ -4226,6 +4282,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Row</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202212Z" creationid="JU" creationdate="20230330T202212Z">
+        <seg>Wiersze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rules...</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T202057Z" creationid="JU" creationdate="20230330T202057Z">
@@ -4278,6 +4342,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191349Z" creationid="ZOO" creationdate="20230324T191349Z">
         <seg>Porjekt SDL (beta)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save Alignment Results</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202229Z" creationid="JU" creationdate="20230330T202229Z">
+        <seg>Zachowaj wyniki wyrównania</seg>
       </tuv>
     </tu>
     <tu>
@@ -5229,6 +5301,14 @@ the server.</seg>
         <seg>This will
 delete your local data and re-download the project contents from
 the server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will discard all changes you have made so far.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202329Z" creationid="JU" creationdate="20230330T202329Z">
+        <seg>To odrzuci dotychczasowe zmiany.</seg>
       </tuv>
     </tu>
     <tu>
