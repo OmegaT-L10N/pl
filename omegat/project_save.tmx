@@ -553,6 +553,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>API key:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T180559Z" creationid="Maja" creationdate="20230330T180559Z">
+        <seg>Klucz interfejsu API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ASCII Only</seg>
       </tuv>
     </tu>
@@ -1026,6 +1034,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connect to custom server instead of apertium.org</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T180833Z" creationid="Maja" creationdate="20230330T180833Z">
+        <seg>Połącz się z niestandardowym serwerem zamiast z apertium.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
     </tu>
@@ -1401,6 +1417,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Email:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T180547Z" creationid="Maja" creationdate="20230330T180547Z">
+        <seg>E-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable them in Preferences &gt; Saving and Output....</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T071654Z" creationid="tobkub" creationdate="20230328T071325Z">
@@ -1601,6 +1625,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T180540Z" creationid="Maja" creationdate="20230330T180540Z">
         <seg>Błąd podczas odczytywania wyników tłumaczenia maszynowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error {0}: {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T180626Z" creationid="Maja" creationdate="20230330T180626Z">
+        <seg>Błąd {0}: {1}</seg>
       </tuv>
     </tu>
     <tu>
