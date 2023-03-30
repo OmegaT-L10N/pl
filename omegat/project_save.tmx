@@ -438,8 +438,8 @@
       <tuv lang="EN">
         <seg>1) Reduce the number of files in the source folder;</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084641Z" creationid="sandraczapska" creationdate="20230328T084641Z">
-        <seg>1) Reduce the number of files in the source folder;</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T155539Z" creationid="sandraczapska" creationdate="20230328T084641Z">
+        <seg>1) Reduce thex`number of files in the source folder;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2634,6 +2634,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084619Z" creationid="sandraczapska" creationdate="20230328T084619Z">
         <seg>Pop Directional Formatting (PDF U+202&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Possible solutions:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T154952Z" creationid="sandraczapska" creationdate="20230330T154952Z">
+        <seg>Dostępne rozwiązania:</seg>
       </tuv>
     </tu>
     <tu>
