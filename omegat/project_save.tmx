@@ -770,8 +770,8 @@
       <tuv lang="EN">
         <seg>Appearance</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140221Z">
-        <seg>Appearance</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230330T182850Z">
+        <seg>Wygląd</seg>
       </tuv>
     </tu>
     <tu>
@@ -1419,8 +1419,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Dictionary</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140214Z">
-        <seg>[fuzzy]&amp;Dictionaries</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230330T182727Z">
+        <seg>Słownik</seg>
       </tuv>
     </tu>
     <tu>
@@ -3302,11 +3302,12 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Zastanawiam się, czy by nie zostawić słowa "provider"</note>
       <tuv lang="EN">
         <seg>Provider</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195452Z" creationid="biegajacy-zajac" creationdate="20230321T195452Z">
-        <seg>Provider</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230330T182707Z" creationid="biegajacy-zajac" creationdate="20230321T195452Z">
+        <seg>Dostawca</seg>
       </tuv>
     </tu>
     <tu>
@@ -3600,8 +3601,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Segment</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230328T072040Z">
-        <seg>[coś w rodzaju]LIczba segmentów</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230330T182217Z">
+        <seg>Segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -4061,8 +4062,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Tag Issues</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230328T070126Z">
-        <seg>Tag Issues</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230330T182232Z">
+        <seg>Problemy ze znacznikami</seg>
       </tuv>
     </tu>
     <tu>
@@ -4706,16 +4707,16 @@ Bieżące ustawienie to {0}MB;</seg>
       <tuv lang="EN">
         <seg>Use &amp;fuzzy matching</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T065551Z">
-        <seg>Use &amp;fuzzy matching</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230330T182731Z">
+        <seg>Zastosuj dopasowanie rozmyte</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Use &amp;stemming</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140219Z">
-        <seg>Use &amp;stemming</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230330T182713Z">
+        <seg>Użyj lematyzacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -4950,8 +4951,8 @@ Your page is not found</seg>
       <tuv lang="EN">
         <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230328T070151Z">
-        <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230330T182310Z">
+        <seg>[{0}] “{1}” w oryginale; spodziewane jedno z {2} w tłumaczeniu</seg>
       </tuv>
     </tu>
     <tu>
