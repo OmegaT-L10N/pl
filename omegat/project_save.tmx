@@ -992,6 +992,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changed by</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184440Z" creationid="JU" creationdate="20230330T184440Z">
+        <seg>Zmienione przez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed on</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184451Z" creationid="JU" creationdate="20230330T184451Z">
+        <seg>Zmienione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Character</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161002Z" creationid="biegajacy-zajac" creationdate="20230321T161002Z">
@@ -1285,6 +1301,22 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185913Z" creationid="ZOO" creationdate="20230324T185913Z">
         <seg>Podziel tekst źródłowy na segmenty przy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Created by</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184500Z" creationid="JU" creationdate="20230330T184500Z">
+        <seg>Utworzony przez</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Created on</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184512Z" creationid="JU" creationdate="20230330T184512Z">
+        <seg>Utworzony</seg>
       </tuv>
     </tu>
     <tu>
@@ -2022,8 +2054,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>File</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230328T070155Z" creationid="biegajacy-zajac" creationdate="20230328T070155Z">
-        <seg>[coś w rodzaju]Przeszukaj p&amp;liki</seg>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184319Z" creationid="biegajacy-zajac" creationdate="20230328T070155Z">
+        <seg>Pliki[coś w rodzaju]Przeszukaj p&amp;liki</seg>
       </tuv>
     </tu>
     <tu>
@@ -2272,6 +2304,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T183830Z" creationid="Maja" creationdate="20230330T183830Z">
         <seg>IBM Watson niedostępny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ID</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184331Z" creationid="JU" creationdate="20230330T184331Z">
+        <seg>ID</seg>
       </tuv>
     </tu>
     <tu>
@@ -2812,8 +2852,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Name</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170008Z" creationid="littlewhitedirect" creationdate="20230321T165905Z">
-        <seg>Nazwa</seg>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184219Z" creationid="littlewhitedirect" creationdate="20230321T165905Z">
+        <seg>NazwaNazwa</seg>
       </tuv>
     </tu>
     <tu>
@@ -2838,6 +2878,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103000Z" creationid="janmars" creationdate="20230327T103000Z">
         <seg>Nowy folder projektu lokalnego:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184428Z" creationid="JU" creationdate="20230330T184428Z">
+        <seg>Następny</seg>
       </tuv>
     </tu>
     <tu>
@@ -3205,6 +3253,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Path</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184435Z" creationid="JU" creationdate="20230330T184435Z">
+        <seg>Ścieżka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Plugin Installer</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230328T070315Z">
@@ -3331,6 +3387,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104404Z" creationid="janmars" creationdate="20230327T104404Z">
         <seg>Wciśnij &lt;u&gt;{0}&lt;/u&gt; aby powrócić do sugestii &lt;b&gt;{1}&lt;/b&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184432Z" creationid="JU" creationdate="20230330T184432Z">
+        <seg>Poprzedni</seg>
       </tuv>
     </tu>
     <tu>
@@ -4523,10 +4587,26 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184337Z" creationid="JU" creationdate="20230330T184337Z">
+        <seg>Tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation Memory Files Folder</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T072033Z" creationid="tobkub" creationdate="20230328T071832Z">
         <seg>Katalog plików pamięci tłumaczeniowej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation is</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184402Z" creationid="JU" creationdate="20230330T184402Z">
+        <seg>Tłumaczenie jest</seg>
       </tuv>
     </tu>
     <tu>
@@ -4781,6 +4861,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unknown/Manual</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184310Z" creationid="JU" creationdate="20230330T184310Z">
+        <seg>Nieznany/Ręczny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unspecified</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104134Z" creationid="janmars" creationdate="20230327T104134Z">
@@ -4885,6 +4973,14 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T183706Z" creationid="Maja" creationdate="20230330T183706Z">
         <seg>Nazwa użytkownika lub klucz interfejsu API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184223Z" creationid="JU" creationdate="20230330T184223Z">
+        <seg>Wartość</seg>
       </tuv>
     </tu>
     <tu>
@@ -5047,6 +5143,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184339Z" creationid="JU" creationdate="20230330T184339Z">
+        <seg>Tak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may have forgotten an initial commit.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102821Z" creationid="janmars" creationdate="20230327T102821Z">
@@ -5113,6 +5217,30 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230330T183053Z" creationid="biegajacy-zajac" creationdate="20230321T161634Z">
         <seg>[{0}] “{1}” w oryginale; spodziewano się “{2}” w tłumaczeniu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fuzzy</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184411Z" creationid="JU" creationdate="20230330T184411Z">
+        <seg>rozmyte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>no</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184342Z" creationid="JU" creationdate="20230330T184342Z">
+        <seg>nie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>not fuzzy</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T184417Z" creationid="JU" creationdate="20230330T184417Z">
+        <seg>nierozmyte</seg>
       </tuv>
     </tu>
     <tu>
