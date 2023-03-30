@@ -2443,8 +2443,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>OmegaT ran out of memory and will close when you click OK.</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081503Z" creationid="sandraczapska" creationdate="20230328T081503Z">
-        <seg>OmegaT ran out of memory and will close when you click OK.</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T154815Z" creationid="sandraczapska" creationdate="20230328T081503Z">
+        <seg>OmegaT ma za mało pamięci i zamknie się po naciśnięciu OK.</seg>
       </tuv>
     </tu>
     <tu>
