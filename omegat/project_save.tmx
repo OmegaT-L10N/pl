@@ -507,6 +507,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Title Case</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203636Z" creationid="sandraczapska" creationdate="20230330T203636Z">
+        <seg>&amp;Title Case</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Undo Changes</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194652Z" creationid="biegajacy-zajac" creationdate="20230321T194652Z">
@@ -527,6 +535,14 @@
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T180039Z" creationid="Maja" creationdate="20230330T180039Z">
         <seg>Tylko nieprzetłumaczone segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Writable Glossary</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203628Z" creationid="sandraczapska" creationdate="20230330T203628Z">
+        <seg>&amp;Writable Glossary</seg>
       </tuv>
     </tu>
     <tu>
@@ -1601,6 +1617,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Current Translate&amp;d File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203624Z" creationid="sandraczapska" creationdate="20230330T203624Z">
+        <seg>Create Current Translate&amp;d File</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create Project Folder</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T072018Z" creationid="tobkub" creationdate="20230328T072018Z">
@@ -2005,6 +2029,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T071719Z" creationid="tobkub" creationdate="20230328T071719Z">
         <seg>&amp;Wyjątki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E&amp;xport Selection</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203633Z" creationid="sandraczapska" creationdate="20230330T203633Z">
+        <seg>E&amp;xport Selection</seg>
       </tuv>
     </tu>
     <tu>
@@ -4755,6 +4787,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T193856Z" creationid="biegajacy-zajac" creationdate="20230321T164552Z">
         <seg>Wybierz typ problemu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;2</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203640Z" creationid="sandraczapska" creationdate="20230330T203640Z">
+        <seg>Select Match #&amp;2</seg>
       </tuv>
     </tu>
     <tu>
