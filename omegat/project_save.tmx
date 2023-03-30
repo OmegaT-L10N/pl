@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Abort: Exit with an error if tags invalid.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T152125Z" creationid="sandraczapska" creationdate="20230330T152125Z">
+        <seg>Abort: Exit with an error if tags invalid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add &amp;Files...</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090607Z" creationid="sandraczapska" creationdate="20230328T090607Z">
@@ -4061,6 +4069,18 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Wildcards:
 Both exact and keyword searches support the * and ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wind catches lily
+Scatt'ring petals to the wind:
+Your page is not found</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T152121Z" creationid="sandraczapska" creationdate="20230330T152121Z">
+        <seg>Wind catches lily
+Scatt'ring petals to the wind:
+Your page is not found</seg>
       </tuv>
     </tu>
     <tu>
