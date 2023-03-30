@@ -444,6 +444,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2) Increase the amount of memory available to OmegaT.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T161221Z" creationid="sandraczapska" creationdate="20230330T161221Z">
+        <seg>2) Increase the amount of memory available to OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>50%-74%:</seg>
       </tuv>
     </tu>
@@ -4026,6 +4034,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140219Z">
         <seg>Use &amp;stemming</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to open the dialog.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T161110Z" creationid="sandraczapska" creationdate="20230330T161110Z">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to open the dialog.</seg>
       </tuv>
     </tu>
     <tu>
