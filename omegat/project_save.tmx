@@ -299,6 +299,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;New...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T201805Z" creationid="sandraczapska" creationdate="20230330T201805Z">
+        <seg>&amp;Nowy...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Notes</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190221Z" creationid="ZOO" creationdate="20230324T190221Z">
@@ -343,6 +351,14 @@
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190720Z" creationid="ZOO" creationdate="20230324T190720Z">
         <seg>&amp;Zachowaj białe znaki dla wszystkich tagów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T201759Z" creationid="sandraczapska" creationdate="20230330T201759Z">
+        <seg>&amp;Projekt</seg>
       </tuv>
     </tu>
     <tu>
@@ -533,6 +549,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- drag and drop files on this pane;
+	- use Project &gt; Add Files...;
+	- use Project &gt; Source Files... and click on Add Files...;
+	- use your file manager to copy files to the 'source' folder,
+	  and then use Project &gt; Reload to reload the project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T201656Z" creationid="sandraczapska" creationdate="20230330T200655Z">
+        <seg>- przeciągnij i upuść pliki w tym okienku;
+	- wybierz Projekt &gt; Dodaj pliki...;
+	- wybierz Projekt &gt; Pliki źródłowe... i kliknij Dodaj pliki...;
+	- użyj menedżera plików, aby skopiować pliki do folderu 'źródłowego',
+	  następnie wybierz Projekt &gt; Odśwież, aby załadować ponownie projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1) Reduce the number of files in the source folder;</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230330T171954Z" creationid="sandraczapska" creationdate="20230328T084641Z">
@@ -712,8 +744,24 @@
       <tuv lang="EN">
         <seg>Add Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090616Z" creationid="sandraczapska" creationdate="20230328T090616Z">
-        <seg>Add Files to Source Folder...</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T202830Z" creationid="sandraczapska" creationdate="20230328T090616Z">
+        <seg>Dodaj pliki do katalogu źródłowego...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T202836Z" creationid="sandraczapska" creationdate="20230330T202836Z">
+        <seg>Add MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T202930Z" creationid="sandraczapska" creationdate="20230330T202930Z">
+        <seg>Add MediaWiki Page</seg>
       </tuv>
     </tu>
     <tu>
@@ -1805,6 +1853,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T181519Z">
         <seg>Czy chcesz go zamienić? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do&amp;wnload Team Project...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T202709Z" creationid="sandraczapska" creationdate="20230330T202709Z">
+        <seg>&amp;Pobierz projekt grupowy...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5357,6 +5413,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T202329Z" creationid="JU" creationdate="20230330T202329Z">
         <seg>To odrzuci dotychczasowe zmiany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add files to the project you can:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T200701Z" creationid="sandraczapska" creationdate="20230330T200029Z">
+        <seg>Aby dodać pliki do projektu:</seg>
       </tuv>
     </tu>
     <tu>
