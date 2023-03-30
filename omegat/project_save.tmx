@@ -1513,6 +1513,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continue anyway?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202757Z" creationid="JU" creationdate="20230330T202757Z">
+        <seg>Kontynuować mimo wszystko?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Continue?</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T202334Z" creationid="JU" creationdate="20230330T202334Z">
@@ -2656,6 +2664,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190332Z" creationid="ZOO" creationdate="20230324T190332Z">
         <seg>N&amp;agłówki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Heapwise</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202947Z" creationid="JU" creationdate="20230330T202947Z">
+        <seg>Wszystko</seg>
       </tuv>
     </tu>
     <tu>
@@ -3833,6 +3849,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190929Z" creationid="ZOO" creationdate="20230324T190929Z">
         <seg>Opcje filtra PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Parsewise</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202954Z" creationid="JU" creationdate="20230330T202954Z">
+        <seg>Pojedynczo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6005,6 +6029,14 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081435Z" creationid="sandraczapska" creationdate="20230328T081435Z">
         <seg>Warn: Report invalid tags to stdout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T202801Z" creationid="JU" creationdate="20230330T202801Z">
+        <seg>Ostrzeżenie</seg>
       </tuv>
     </tu>
     <tu>
