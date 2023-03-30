@@ -3844,8 +3844,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Run OmegaT" in the user manual.</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T171540Z" creationid="sandraczapska" creationdate="20230330T171540Z">
-        <seg>Run OmegaT" in the user manual.</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T193256Z" creationid="sandraczapska" creationdate="20230330T171540Z">
+        <seg>Uruchom OmegaT" w podręczniku użytkownika.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3854,6 +3854,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T191131Z" creationid="Maja" creationdate="20230330T191012Z">
         <seg>Uruchom skrypt w gnieździe #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running on Java {0} ({1}-bit)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T193303Z" creationid="sandraczapska" creationdate="20230330T193303Z">
+        <seg>Running on Java {0} ({1}-bit)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3987,6 +3995,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103909Z" creationid="janmars" creationdate="20230327T103909Z">
         <seg>Sekundy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See "How To...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T193203Z" creationid="sandraczapska" creationdate="20230330T193203Z">
+        <seg>See "How To... ccdxxxxxxxx</seg>
       </tuv>
     </tu>
     <tu>
