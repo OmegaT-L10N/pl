@@ -1064,6 +1064,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cancel Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201827Z" creationid="JU" creationdate="20230330T201827Z">
+        <seg>Anuluj dokładne wyrównanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T190404Z" creationid="Maja" creationdate="20230330T190404Z">
@@ -1196,6 +1204,14 @@
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T201355Z" creationid="JU" creationdate="20230330T201355Z">
         <seg>Wybierz plik docelowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear Mark</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201643Z" creationid="JU" creationdate="20230330T201643Z">
+        <seg>Usuń znacznik</seg>
       </tuv>
     </tu>
     <tu>
@@ -1866,6 +1882,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201813Z" creationid="JU" creationdate="20230330T201813Z">
+        <seg>Zakończ dokładne wyrównanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>End rebase</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103503Z" creationid="janmars" creationdate="20230327T103503Z">
@@ -2452,6 +2476,22 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Highlight</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201843Z" creationid="JU" creationdate="20230330T201843Z">
+        <seg>Wyróżnienie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlight Pattern...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201900Z" creationid="JU" creationdate="20230330T201900Z">
+        <seg>Wzorzec wyróżnienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>History Completions</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104539Z" creationid="janmars" creationdate="20230327T104539Z">
@@ -2684,6 +2724,22 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep All</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201705Z" creationid="JU" creationdate="20230330T201705Z">
+        <seg>Zachowaj wszystkie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep None</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201712Z" creationid="JU" creationdate="20230330T201712Z">
+        <seg>Nie zachowuj niczego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep Remote Version</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T183759Z" creationid="JU" creationdate="20230330T183759Z">
@@ -2909,6 +2965,22 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230321T161325Z" creationid="janmars" creationdate="20230321T161325Z">
         <seg>Machine translate highlight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Accepted</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201612Z" creationid="JU" creationdate="20230330T201612Z">
+        <seg>Zaznacz jako zaakceptowane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Needs Review</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201631Z" creationid="JU" creationdate="20230330T201631Z">
+        <seg>Zaznacz jako Potrzebny przegląd</seg>
       </tuv>
     </tu>
     <tu>
@@ -3800,6 +3872,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Realign Pending</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201658Z" creationid="JU" creationdate="20230330T201658Z">
+        <seg>Wyrównaj ponownie oczekujące</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Refreshing script folder "{0}"</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T190847Z" creationid="Maja" creationdate="20230330T190847Z">
@@ -4668,6 +4748,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201802Z" creationid="JU" creationdate="20230330T201802Z">
+        <seg>Zacznij dokładne wyrównanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start a new paragraph &amp;on Word soft return</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190820Z" creationid="ZOO" creationdate="20230324T190820Z">
@@ -5005,6 +5093,14 @@ the server.</seg>
         <seg>This will
 delete your local data and re-download the project contents from
 the server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toggle Selected</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201741Z" creationid="JU" creationdate="20230330T201741Z">
+        <seg>Przełącz wybrane</seg>
       </tuv>
     </tu>
     <tu>
@@ -5565,6 +5661,14 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T184223Z" creationid="JU" creationdate="20230330T184223Z">
         <seg>Wartość</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T201832Z" creationid="JU" creationdate="20230330T201832Z">
+        <seg>Widok</seg>
       </tuv>
     </tu>
     <tu>
