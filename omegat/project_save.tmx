@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>API key (optional)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T182153Z" creationid="Maja" creationdate="20230330T182153Z">
+        <seg>Klucz interfejsu API (opcjonalnie)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>API key:</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T180559Z" creationid="Maja" creationdate="20230330T180559Z">
@@ -1297,6 +1305,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom server URL</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T182014Z" creationid="Maja" creationdate="20230330T182014Z">
+        <seg>URL serwera niestandardowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom tags (regular expression):</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102117Z" creationid="janmars" creationdate="20230327T102117Z">
@@ -1654,6 +1670,22 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103503Z" creationid="janmars" creationdate="20230327T103503Z">
         <seg>Zakończ rebazowanie. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ensure the URL is correct.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T182445Z" creationid="Maja" creationdate="20230330T182356Z">
+        <seg>Upewnij się, że adres URL jest prawidłowy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ensure the server URL is correct.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T182450Z" creationid="Maja" creationdate="20230330T182300Z">
+        <seg>Upewnij się, że adres URL serwera jest prawidłowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -2581,6 +2613,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230321T161325Z" creationid="janmars" creationdate="20230321T161325Z">
         <seg>Machine translate highlight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark unknown words</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T182521Z" creationid="Maja" creationdate="20230330T182521Z">
+        <seg>Zaznacz nieznane słowa</seg>
       </tuv>
     </tu>
     <tu>
@@ -4164,6 +4204,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The server is not a valid Apertium server.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T182333Z" creationid="Maja" creationdate="20230330T182333Z">
+        <seg>Serwer nie jest prawidłowym serwerem Aperitum </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The translation has changed.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104153Z" creationid="janmars" creationdate="20230327T104153Z">
@@ -4464,6 +4512,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T064933Z">
         <seg>Utworzenie nowego pliku TMX jest niemożliwe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to connect to server.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T182219Z" creationid="Maja" creationdate="20230330T182219Z">
+        <seg>Nie można połączyć się z serwerem</seg>
       </tuv>
     </tu>
     <tu>
