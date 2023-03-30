@@ -4027,6 +4027,18 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" from the command 
+line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T173222Z" creationid="sandraczapska" creationdate="20230330T173222Z">
+        <seg>Użyj "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" z wiersza 
+poleceń lub w skrypcie startowym OmegaT;
+Bieżące ustawienie to {0}MB;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &amp;Condensed view</seg>
       </tuv>
     </tu>
