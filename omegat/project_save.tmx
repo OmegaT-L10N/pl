@@ -1036,8 +1036,8 @@
       <tuv lang="EN">
         <seg>Connect to custom server instead of apertium.org</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maja" changedate="20230330T180833Z" creationid="Maja" creationdate="20230330T180833Z">
-        <seg>Połącz się z niestandardowym serwerem zamiast z apertium.org</seg>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T180917Z" creationid="Maja" creationdate="20230330T180833Z">
+        <seg>Połącz się z serwerem niestandardowym zamiast z apertium.org</seg>
       </tuv>
     </tu>
     <tu>
