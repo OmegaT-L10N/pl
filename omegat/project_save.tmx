@@ -657,6 +657,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apertium</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T180332Z" creationid="Maja" creationdate="20230330T180332Z">
+        <seg>Aperitum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appearance</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140221Z">
@@ -750,6 +758,14 @@
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104054Z" creationid="janmars" creationdate="20230327T104054Z">
         <seg>Złe zaczepienie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Belazar</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T180255Z" creationid="Maja" creationdate="20230330T180255Z">
+        <seg>Belazar</seg>
       </tuv>
     </tu>
     <tu>
@@ -1134,6 +1150,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190547Z" creationid="ZOO" creationdate="20230324T190547Z">
         <seg>D&amp;iagramy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DeepL</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T180412Z" creationid="Maja" creationdate="20230330T180412Z">
+        <seg>DeepL</seg>
       </tuv>
     </tu>
     <tu>
@@ -1573,6 +1597,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error while reading MT results</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T180540Z" creationid="Maja" creationdate="20230330T180540Z">
+        <seg>Błąd podczas odczytywania wyników tłumaczenia maszynowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103757Z" creationid="janmars" creationdate="20230327T103757Z">
@@ -1908,6 +1940,14 @@ additional steps need to be taken.</seg>
     <tu>
       <tuv lang="EN">
         <seg>I Understand; Do It Anyway</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IBM Watson</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T180417Z" creationid="Maja" creationdate="20230330T180417Z">
+        <seg>IBM Watson</seg>
       </tuv>
     </tu>
     <tu>
@@ -2332,6 +2372,22 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191218Z" creationid="ZOO" creationdate="20230324T191218Z">
         <seg>Monolin&amp;gwalne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MyMemory (human)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T180347Z" creationid="Maja" creationdate="20230330T180347Z">
+        <seg>MyMemory (człowiek)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MyMemory (machine)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T180407Z" creationid="Maja" creationdate="20230330T180407Z">
+        <seg>MyMemory (maszyna)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4261,6 +4317,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190033Z" creationid="ZOO" creationdate="20230324T190033Z">
         <seg>Arkusz kalkulacyjny XML 2003</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yandex.Cloud</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T180424Z" creationid="Maja" creationdate="20230330T180424Z">
+        <seg>Yandex.Cloud</seg>
       </tuv>
     </tu>
     <tu>
