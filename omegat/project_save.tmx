@@ -2868,8 +2868,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Multiple Translations</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maja" changedate="20230330T185211Z" creationid="Maja" creationdate="20230330T185211Z">
-        <seg>Wielokrotne tłumaczenia</seg>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T185544Z" creationid="Maja" creationdate="20230330T185211Z">
+        <seg>Wiele tłumaczeń</seg>
       </tuv>
     </tu>
     <tu>
@@ -3049,6 +3049,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T184216Z" creationid="JU" creationdate="20230330T184216Z">
         <seg>Powiadom, jeśli segment zawiera  "{0}" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Multiple Translations</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T185619Z" creationid="Maja" creationdate="20230330T185516Z">
+        <seg>Powiadom mnie, gdy segment ma wiele tłumaczeń</seg>
       </tuv>
     </tu>
     <tu>
@@ -3535,6 +3543,14 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Register Identical Translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T185838Z" creationid="Maja" creationdate="20230330T185838Z">
+        <seg>Zarejestruj identyczne tłumaczenia</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Ten sam problem co wyżej: czy można tak zmieniać szyk?</note>
       <tuv lang="EN">
         <seg>Reload the current project to apply these changes</seg>
@@ -3617,6 +3633,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove Translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T185643Z" creationid="Maja" creationdate="20230330T185643Z">
+        <seg>Usuń tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove ta&amp;gs</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T071138Z" creationid="tobkub" creationdate="20230328T071138Z">
@@ -3653,6 +3677,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230328T070932Z">
         <seg>Zastąp tłumaczenie dopasowaniem lub zaznaczeniem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace Translation with Text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T185448Z" creationid="Maja" creationdate="20230330T185448Z">
+        <seg>Zastąp tłumaczenie tekstem</seg>
       </tuv>
     </tu>
     <tu>
@@ -3939,6 +3971,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T065556Z" creationid="littlewhitedirect" creationdate="20230328T065556Z">
         <seg>Set &amp; stored</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set Empty Translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maja" changedate="20230330T185638Z" creationid="Maja" creationdate="20230330T185638Z">
+        <seg>Ustaw puste tłumaczenie</seg>
       </tuv>
     </tu>
     <tu>
