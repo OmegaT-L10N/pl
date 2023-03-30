@@ -48,6 +48,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Apply to all</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T181545Z" creationid="JU" creationdate="20230330T181545Z">
+        <seg>&amp;Zastosuj do wszystkich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Auto-propagation of translations</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T071132Z" creationid="tobkub" creationdate="20230328T071111Z">
@@ -335,6 +343,14 @@
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081521Z">
         <seg>&amp;Remove</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T181528Z" creationid="JU" creationdate="20230330T181528Z">
+        <seg>[fuzzy]Zamień...</seg>
       </tuv>
     </tu>
     <tu>
@@ -641,6 +657,14 @@
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103257Z" creationid="janmars" creationdate="20230327T103257Z">
         <seg>Błąd przy próbie namierzenia pliku projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while opening the item.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T181622Z" creationid="JU" creationdate="20230330T181622Z">
+        <seg>Wystąpił błąd przy otwieraniu elementu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1295,8 +1319,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Do you want to replace it with the one you're moving?</seg>
       </tuv>
-      <tuv lang="PL" changeid="JU" changedate="20230328T072749Z">
-        <seg>Czy chceś zamienićDo you want to replace it with the one you're moving?</seg>
+      <tuv lang="PL" changeid="JU" changedate="20230330T181519Z">
+        <seg>Czy chcesz go zamienić? </seg>
       </tuv>
     </tu>
     <tu>
@@ -3256,6 +3280,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select appropriate version</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T181627Z" creationid="JU" creationdate="20230330T181627Z">
+        <seg>Select appropriate version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select issue types to check.</seg>
       </tuv>
     </tu>
@@ -3265,6 +3297,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T212253Z" creationid="sandraczapska" creationdate="20230328T212253Z">
         <seg>Select the desired languages and click Install.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select your version, the original version or the remote version.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="JU" changedate="20230330T181739Z" creationid="JU" creationdate="20230330T181739Z">
+        <seg>Select your version, the original version or the remote version.</seg>
       </tuv>
     </tu>
     <tu>
