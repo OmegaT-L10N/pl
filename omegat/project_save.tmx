@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;About...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T175413Z" creationid="klaudiakempa" creationdate="20230331T175413Z">
+        <seg>&amp;O programie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Access Project Contents</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153630Z" creationid="janmars" creationdate="20230321T160955Z">
@@ -358,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T175356Z" creationid="klaudiakempa" creationdate="20230331T175356Z">
+        <seg>Pomo&amp;c</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Ignore matches with very different case (e.g. FOO vs foo)</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T205852Z" creationid="biegajacy-zajac" creationdate="20230321T201148Z">
@@ -410,6 +426,14 @@
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T203125Z" creationid="JU" creationdate="20230330T203125Z">
         <seg>Przejdź do segmentu &amp; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Last Changes...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T175426Z" creationid="klaudiakempa" creationdate="20230331T175426Z">
+        <seg>Ostatnie zmiany</seg>
       </tuv>
     </tu>
     <tu>
@@ -834,6 +858,14 @@
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T180039Z" creationid="Maja" creationdate="20230330T180039Z">
         <seg>Tylko nieprzetłumaczone segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;User Manual...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T175405Z" creationid="klaudiakempa" creationdate="20230331T175405Z">
+        <seg>&amp;Podręcznik użytkownika...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4196,6 +4228,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155000Z" creationid="maciej-pqr" creationdate="20230331T155000Z">
         <seg>Pliki tekstowe formatu "klucz=wartość"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>L&amp;og...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T175950Z" creationid="klaudiakempa" creationdate="20230331T175950Z">
+        <seg>L&amp;og...</seg>
       </tuv>
     </tu>
     <tu>
