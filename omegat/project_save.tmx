@@ -1129,6 +1129,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Access &amp;Configuration Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T175339Z" creationid="klaudiakempa" creationdate="20230331T175339Z">
+        <seg>Folder &amp;konfiguracji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add &amp;Files...</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090607Z" creationid="sandraczapska" creationdate="20230328T090607Z">
