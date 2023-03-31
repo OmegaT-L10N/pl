@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1815,6 +1815,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create &amp;Glossary Entry...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T155715Z" creationid="sandraczapska" creationdate="20230331T155715Z">
+        <seg>Create &amp;Glossary Entry...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create &amp;Translated Files</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153312Z" creationid="sandraczapska" creationdate="20230328T081531Z">
@@ -3334,6 +3342,22 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T153023Z" creationid="luizakolosa" creationdate="20230331T153023Z">
         <seg>Tryb wstawiania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Next Missing T&amp;ag</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T155742Z" creationid="sandraczapska" creationdate="20230331T155700Z">
+        <seg>Wprowadź następny brakujący znacznik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Tag {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T155711Z" creationid="sandraczapska" creationdate="20230331T155711Z">
+        <seg>Wprowadź znacznik {0}</seg>
       </tuv>
     </tu>
     <tu>
