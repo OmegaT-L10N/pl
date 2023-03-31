@@ -790,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Show relevant suggestions automatically</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T180154Z" creationid="klaudiakempa" creationdate="20230331T180154Z">
+        <seg>&amp;Pokaż sugestie automatyczne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Source Files</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090814Z" creationid="sandraczapska" creationdate="20230328T090814Z">
@@ -7258,6 +7266,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T201444Z" creationid="JU" creationdate="20230330T201444Z">
         <seg>Wspierane pliki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch views with {0} and {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T180407Z" creationid="klaudiakempa" creationdate="20230331T180407Z">
+        <seg>Przełącz podgląd za pomocą {0} i {1}</seg>
       </tuv>
     </tu>
     <tu>
