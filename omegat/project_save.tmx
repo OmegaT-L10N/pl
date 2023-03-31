@@ -7935,6 +7935,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The command must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T210058Z" creationid="littlewhitedirect" creationdate="20230331T210058Z">
+        <seg>Polecenie musi zawierać "{tekst docelowy}", który zostanie zastąpiony wyszukiwanym tekstem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The file "{0}" is not supported.</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T200931Z" creationid="JU" creationdate="20230330T200931Z">
