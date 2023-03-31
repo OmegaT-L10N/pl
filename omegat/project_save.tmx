@@ -6232,13 +6232,14 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>albo: Zarówno w wyszukiwaniu dokładnym, jak i słów kluczowych, można użyć symboli wieloznacznych * i ?</note>
       <tuv lang="EN">
         <seg>Wildcards:
 Both exact and keyword searches support the * and ?</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230321T141027Z" creationid="Hania M" creationdate="20230321T141027Z">
+      <tuv lang="PL" changeid="Hania M" changedate="20230331T094342Z" creationid="Hania M" creationdate="20230321T141027Z">
         <seg>Symbole wieloznaczne
-Both exact and keyword searches support the * and ?</seg>
+Oba rodzaje wyszukiwania obsługują symbole wieloznaczne "*" i "?"</seg>
       </tuv>
     </tu>
     <tu>
