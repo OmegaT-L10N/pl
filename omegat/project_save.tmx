@@ -3953,6 +3953,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local File Filters</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230331T163255Z" creationid="ghuzytkownik" creationdate="20230331T163255Z">
+        <seg>Lokalne filtry plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local Segmentation R&amp;ules...</seg>
       </tuv>
       <tuv lang="pl" changeid="tobkub" changedate="20230328T070843Z" creationid="tobkub" creationdate="20230328T070843Z">
@@ -4577,6 +4585,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="pl" changeid="Maja" changedate="20230330T185619Z" creationid="Maja" creationdate="20230330T185516Z">
         <seg>Powiadom mnie, gdy segment ma wiele tłumaczeń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>O&amp;ptions...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230331T163108Z" creationid="ghuzytkownik" creationdate="20230331T163108Z">
+        <seg>Opcje</seg>
       </tuv>
     </tu>
     <tu>
