@@ -3180,6 +3180,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global File Filters</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230331T163308Z" creationid="ghuzytkownik" creationdate="20230331T163308Z">
+        <seg>Globalne filtry plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global post-processing commands</seg>
       </tuv>
       <tuv lang="pl" changeid="janmars" changedate="20230327T103930Z" creationid="janmars" creationdate="20230327T103930Z">
@@ -6301,6 +6309,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="pl" changeid="JU" changedate="20230330T202749Z" creationid="JU" creationdate="20230330T202749Z">
         <seg>Niektóre dopasowania nadal potrzebują recenzji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some filters do not allow encoding modifications.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230331T163618Z" creationid="ghuzytkownik" creationdate="20230331T163618Z">
+        <seg>Niektóre filtry nie pozwalają na modyfikacje kodowania</seg>
       </tuv>
     </tu>
     <tu>
