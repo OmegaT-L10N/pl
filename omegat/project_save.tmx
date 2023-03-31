@@ -3113,8 +3113,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Issues ({0} of {1})</seg>
       </tuv>
-      <tuv lang="PL" changeid="JU" changedate="20230330T203253Z" creationid="JU" creationdate="20230330T203253Z">
-        <seg>Problemy  ({0} z {1}) </seg>
+      <tuv lang="PL" changeid="JU" changedate="20230331T141048Z" creationid="JU" creationdate="20230330T203253Z">
+        <seg>Problemy  ({0} z  {1}) </seg>
       </tuv>
     </tu>
     <tu>
