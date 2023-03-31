@@ -2836,6 +2836,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception occurred:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230331T162715Z" creationid="ghuzytkownik" creationdate="20230331T162715Z">
+        <seg>Wystąpił błąd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Executing post-processing commands...</seg>
       </tuv>
       <tuv lang="pl" changeid="tobkub" changedate="20230328T065137Z" creationid="tobkub" creationdate="20230328T065137Z">
@@ -2936,6 +2944,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="pl" changeid="JU" changedate="20230330T201457Z" creationid="biegajacy-zajac" creationdate="20230328T070155Z">
         <seg>Pliki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File &amp;format</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230331T162753Z" creationid="ghuzytkownik" creationdate="20230331T162753Z">
+        <seg>Format pliku</seg>
       </tuv>
     </tu>
     <tu>
