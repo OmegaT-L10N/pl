@@ -6724,6 +6724,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sample Output</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T210203Z" creationid="littlewhitedirect" creationdate="20230331T210203Z">
+        <seg>Przykładowe wyjście</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sample Text</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T160549Z" creationid="luizakolosa" creationdate="20230331T160549Z">
@@ -7859,6 +7867,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T105244Z" creationid="janmars" creationdate="20230327T105244Z">
         <seg>Terminy z wieloma celami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T210219Z" creationid="littlewhitedirect" creationdate="20230331T210219Z">
+        <seg>Testowanie</seg>
       </tuv>
     </tu>
     <tu>
