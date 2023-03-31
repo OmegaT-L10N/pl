@@ -240,8 +240,8 @@
       <tuv lang="EN">
         <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
       </tuv>
-      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T151306Z">
-        <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"j</seg>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T151904Z">
+        <seg>&amp;Użyj skrótu "&lt;f &gt;"  dla znacznika &lt;it pos="end"&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -264,8 +264,8 @@
       <tuv lang="EN">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T151436Z" creationid="maciej-pqr" creationdate="20230331T151436Z">
-        <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T152010Z" creationid="maciej-pqr" creationdate="20230331T151436Z">
+        <seg>&amp;Ignoruj atrybuty type i ctype przy tworzeniu skrótów znaczników &lt;ph&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3038,6 +3038,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230331T135525Z" creationid="leoi23" creationdate="20230331T135525Z">
         <seg>Ignoruj wszystkie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T152103Z" creationid="maciej-pqr" creationdate="20230331T152103Z">
+        <seg>&amp;Ignoruj atrybuty type i ctype przy tworzeniu skrótów znaczników  &lt;&amp;bpt&gt; i &lt;ept&gt;</seg>
       </tuv>
     </tu>
     <tu>
