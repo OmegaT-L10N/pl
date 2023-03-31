@@ -136,8 +136,8 @@
       <tuv lang="EN">
         <seg>&amp;Dictionaries</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090806Z" creationid="sandraczapska" creationdate="20230328T090806Z">
-        <seg>&amp;Dictionaries</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153659Z" creationid="sandraczapska" creationdate="20230328T090806Z">
+        <seg>&amp;Słowniki</seg>
       </tuv>
     </tu>
     <tu>
@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Exported TMs</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153954Z" creationid="sandraczapska" creationdate="20230331T153954Z">
+        <seg>&amp;Exported TMs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Filter</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081438Z" creationid="sandraczapska" creationdate="20230328T081438Z">
@@ -242,6 +250,14 @@
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T151904Z">
         <seg>&amp;Użyj skrótu "&lt;f &gt;"  dla znacznika &lt;it pos="end"&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Glossaries</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153709Z" creationid="sandraczapska" creationdate="20230331T153709Z">
+        <seg>&amp;Glosariusze</seg>
       </tuv>
     </tu>
     <tu>
@@ -4253,8 +4269,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>P&amp;roject Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090758Z" creationid="sandraczapska" creationdate="20230328T090758Z">
-        <seg>Folder p&amp;rojektu</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153649Z" creationid="sandraczapska" creationdate="20230328T090758Z">
+        <seg>Folder projektu</seg>
       </tuv>
     </tu>
     <tu>
