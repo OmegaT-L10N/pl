@@ -4793,8 +4793,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Select Match #&amp;1</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T065659Z" creationid="klaudiakempa" creationdate="20230331T065659Z">
-        <seg>[fuzzy]Wybierz dopasowanie nr &amp;1</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T070039Z" creationid="klaudiakempa" creationdate="20230331T065659Z">
+        <seg>Wybierz dopasowanie nr &amp;1</seg>
       </tuv>
     </tu>
     <tu>
