@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Clear Menu</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T151832Z" creationid="sandraczapska" creationdate="20230331T151832Z">
+        <seg>&amp;Wyczyść menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203228Z" creationid="sandraczapska" creationdate="20230328T081513Z">
@@ -3981,8 +3989,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Op&amp;en Recent...</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090553Z" creationid="sandraczapska" creationdate="20230328T090553Z">
-        <seg>Op&amp;en Recent...</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T151639Z" creationid="sandraczapska" creationdate="20230328T090553Z">
+        <seg>Otwórz ostatni projekt...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4506,6 +4514,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T190847Z" creationid="Maja" creationdate="20230330T190847Z">
         <seg>Odświeżanie folderu skryptu "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Register I&amp;dentical Translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T151605Z" creationid="sandraczapska" creationdate="20230331T151605Z">
+        <seg>Register I&amp;dentical Translation</seg>
       </tuv>
     </tu>
     <tu>
