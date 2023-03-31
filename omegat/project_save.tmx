@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -636,6 +636,22 @@
 	- wybierz Projekt &gt; Pliki źródłowe... i kliknij Dodaj pliki...;
 	- użyj menedżera plików, aby skopiować pliki do folderu 'źródłowego',
 	  następnie wybierz Projekt &gt; Odśwież, aby załadować ponownie projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--/--</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T153221Z" creationid="luizakolosa" creationdate="20230331T153221Z">
+        <seg>--/--</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T153417Z" creationid="luizakolosa" creationdate="20230331T153417Z">
+        <seg>--/-- (--/--, --)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2039,6 +2055,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you really want to quit?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T153330Z" creationid="luizakolosa" creationdate="20230331T153330Z">
+        <seg>Czy na pewno chcesz zamknąć?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you want to overwrite it?</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T202302Z" creationid="JU" creationdate="20230330T202302Z">
@@ -3018,6 +3042,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>INS</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T153220Z" creationid="luizakolosa" creationdate="20230331T153220Z">
+        <seg>INS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Identifier used for alternative translations</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191505Z" creationid="ZOO" creationdate="20230324T191505Z">
@@ -3318,6 +3350,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T184223Z" creationid="Maja" creationdate="20230330T184223Z">
         <seg>Pozostaw znaczniki w przetłumaczonym tekście</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LCK</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T153131Z" creationid="luizakolosa" creationdate="20230331T153131Z">
+        <seg>LCK</seg>
       </tuv>
     </tu>
     <tu>
@@ -3959,6 +3999,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T183943Z" creationid="Maja" creationdate="20230330T183943Z">
         <seg>Token OAuth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OVR</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T153219Z" creationid="luizakolosa" creationdate="20230331T153219Z">
+        <seg>OVR</seg>
       </tuv>
     </tu>
     <tu>
@@ -5530,6 +5578,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source/translation length (characters)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T153416Z" creationid="luizakolosa" creationdate="20230331T153416Z">
+        <seg>Źródło/długość tłumaczenia (znaki)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170537Z" creationid="littlewhitedirect" creationdate="20230321T170333Z">
@@ -6259,6 +6315,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>UNL</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T153218Z" creationid="luizakolosa" creationdate="20230331T153218Z">
+        <seg>UNL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>URL</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T065630Z">
@@ -6968,6 +7032,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="Hania M" changedate="20230331T094437Z" creationid="Hania M" creationdate="20230331T094437Z">
         <seg>wildcards.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T153459Z" creationid="luizakolosa" creationdate="20230331T153459Z">
+        <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
       </tuv>
     </tu>
     <tu>
