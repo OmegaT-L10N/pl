@@ -4735,6 +4735,30 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Source File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T162300Z" creationid="luizakolosa" creationdate="20230331T162300Z">
+        <seg>Open Source File</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Source File Location</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T162346Z" creationid="luizakolosa" creationdate="20230331T162346Z">
+        <seg>Otwórz lokalizację pliku źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Target File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T162359Z" creationid="luizakolosa" creationdate="20230331T162359Z">
+        <seg>Otwórz pliki docelowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open XML Filter Options</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190310Z" creationid="ZOO" creationdate="20230324T190310Z">
@@ -4751,10 +4775,18 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open {0} Source Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T162329Z" creationid="luizakolosa" creationdate="20230331T162329Z">
+        <seg>Otwórz {0} Pliki źródłowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open {0} Target Files</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084402Z" creationid="sandraczapska" creationdate="20230328T084402Z">
-        <seg>Open {0} Target Files</seg>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T162531Z" creationid="sandraczapska" creationdate="20230328T084402Z">
+        <seg>Otwórz {0} Pliki docelowe</seg>
       </tuv>
     </tu>
     <tu>
