@@ -1193,6 +1193,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T205715Z" creationid="littlewhitedirect" creationdate="20230331T205715Z">
+        <seg>Dodaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add &amp;Files...</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090607Z" creationid="sandraczapska" creationdate="20230328T090607Z">
