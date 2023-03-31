@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3665,6 +3665,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Last modified by {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T160110Z" creationid="luizakolosa" creationdate="20230331T155959Z">
+        <seg>Ostatnio edytowane przez {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081421Z" creationid="sandraczapska" creationdate="20230328T081421Z">
@@ -6709,8 +6717,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Translation last modified by {0} on {1} at {2}</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081541Z" creationid="sandraczapska" creationdate="20230328T081541Z">
-        <seg>Translation last modified by {0} on {1} at {2}</seg>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T160049Z" creationid="sandraczapska" creationdate="20230328T081541Z">
+        <seg>Tłumaczenie ostatnio edytowane przez {0} dnia {1} o godzinie {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7538,6 +7546,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T184417Z" creationid="JU" creationdate="20230330T184417Z">
         <seg>nierozmyte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>segment 0000</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T155901Z" creationid="luizakolosa" creationdate="20230331T155901Z">
+        <seg>segment 0000</seg>
       </tuv>
     </tu>
     <tu>
