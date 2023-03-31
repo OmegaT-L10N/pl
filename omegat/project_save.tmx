@@ -7739,6 +7739,14 @@ Bieżące ustawienie to {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use local file fil&amp;ter settings</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230331T164608Z" creationid="ghuzytkownik" creationdate="20230331T164608Z">
+        <seg>Używaj lokalnych ustawień filtra plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User credentials denied</seg>
       </tuv>
       <tuv lang="pl" changeid="janmars" changedate="20230327T103132Z" creationid="janmars" creationdate="20230327T103132Z">
