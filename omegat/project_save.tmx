@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1418,6 +1418,18 @@
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104054Z" creationid="janmars" creationdate="20230327T104054Z">
         <seg>Złe zaczepienie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bartender yells loud:
+Your page cannot be found, boy
+Buy another drink</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T165539Z" creationid="luizakolosa" creationdate="20230331T165539Z">
+        <seg>Bartender yells loud:
+Your page cannot be found, boy
+Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
@@ -2936,6 +2948,18 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ghuzytkownik" changedate="20230331T162715Z" creationid="ghuzytkownik" creationdate="20230331T162715Z">
         <seg>Wystąpił błąd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exciting help page
+Gossamer threads hold you back
+404 not found</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T165206Z" creationid="luizakolosa" creationdate="20230331T164120Z">
+        <seg>Pomoc
+Gossamer threads hold you back
+404 nie znaleziono</seg>
       </tuv>
     </tu>
     <tu>
@@ -4741,6 +4765,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Number of unique segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T162634Z" creationid="luizakolosa" creationdate="20230331T162634Z">
+        <seg>Liczba niepowtarzających się segmentów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>O&amp;ptions...</seg>
       </tuv>
       <tuv lang="PL" changeid="ghuzytkownik" changedate="20230331T163108Z" creationid="ghuzytkownik" creationdate="20230331T163108Z">
@@ -4939,6 +4971,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T162359Z" creationid="luizakolosa" creationdate="20230331T162359Z">
         <seg>Otwórz pliki docelowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Target File Location</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T162554Z" creationid="luizakolosa" creationdate="20230331T162554Z">
+        <seg>Otwórz lokalizację pliku docelowego</seg>
       </tuv>
     </tu>
     <tu>
@@ -7235,6 +7275,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Total number of segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T162606Z" creationid="luizakolosa" creationdate="20230331T162606Z">
+        <seg>Całkowita liczba segmentów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Total:</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T065948Z">
@@ -7321,6 +7369,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T071042Z" creationid="tobkub" creationdate="20230328T071042Z">
         <seg>Język plików docelowych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated unique segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T162659Z" creationid="luizakolosa" creationdate="20230331T162659Z">
+        <seg>Przetłumaczone niepowtarzające się segmenty</seg>
       </tuv>
     </tu>
     <tu>
