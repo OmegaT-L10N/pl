@@ -232,6 +232,9 @@
       <tuv lang="EN">
         <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
       </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T151306Z">
+        <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"j</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -247,6 +250,14 @@
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T205852Z" creationid="biegajacy-zajac" creationdate="20230321T201148Z">
         <seg>Ignoruj dopasowania z bardzo różniącymi się dużymi i małymi literami (np. FOO vs. foo) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T151436Z" creationid="maciej-pqr" creationdate="20230331T151436Z">
+        <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
     </tu>
     <tu>
