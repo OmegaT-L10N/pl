@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -50,6 +50,22 @@
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195243Z" creationid="biegajacy-zajac" creationdate="20230321T195243Z">
         <seg>&amp;Zawsze potwierdzaj zakończenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Apply a different font size to the dictionary pane</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T160936Z" creationid="luizakolosa" creationdate="20230331T160936Z">
+        <seg>&amp;Zastosuj inny rozmiar czcionki w okienku słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Apply this font to tabular data (source files list, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T160814Z" creationid="luizakolosa" creationdate="20230331T160814Z">
+        <seg>&amp;Zastosuj tę czcionkę do danych tabelarycznych (listy plików źródłowych, statystyki, itp.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2932,6 +2948,22 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filename</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T161012Z" creationid="luizakolosa" creationdate="20230331T160953Z">
+        <seg>Nazwa pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T161029Z" creationid="luizakolosa" creationdate="20230331T161029Z">
+        <seg>Filtr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter '{0}' could not be loaded from '{1}'</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185816Z" creationid="ZOO" creationdate="20230324T185816Z">
@@ -2984,6 +3016,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T105310Z" creationid="janmars" creationdate="20230327T105300Z">
         <seg>Kontynuuj rozpoczynanie wielką literą we wpisywanym teksćie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T160329Z" creationid="luizakolosa" creationdate="20230331T160329Z">
+        <seg>Czcionka</seg>
       </tuv>
     </tu>
     <tu>
@@ -3598,8 +3638,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
-      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T155458Z" creationid="luizakolosa" creationdate="20230331T155458Z">
-        <seg>Jumping to last edited segment...</seg>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T160245Z" creationid="luizakolosa" creationdate="20230331T155458Z">
+        <seg>Przechodzenie do ostatnio edytowanego segmentu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5532,6 +5572,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sample Text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T160549Z" creationid="luizakolosa" creationdate="20230331T160549Z">
+        <seg>Przykładowy tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Alignment Results</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T202229Z" creationid="JU" creationdate="20230330T202229Z">
@@ -6009,6 +6057,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T160333Z" creationid="luizakolosa" creationdate="20230331T160333Z">
+        <seg>Rozmiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164758Z" creationid="biegajacy-zajac" creationdate="20230321T164758Z">
@@ -6125,6 +6181,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T200629Z" creationid="JU" creationdate="20230330T200629Z">
         <seg>Źródło</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T160958Z" creationid="luizakolosa" creationdate="20230331T160952Z">
+        <seg>Pliki źródłowe ({0} of {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Files ({0})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T160947Z" creationid="luizakolosa" creationdate="20230331T160947Z">
+        <seg>Pliki źródłowe ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -6715,6 +6787,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103340Z" creationid="janmars" creationdate="20230327T103340Z">
         <seg>To jest poprawny plik projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the way text will look when displayed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T160449Z" creationid="luizakolosa" creationdate="20230331T160449Z">
+        <seg>Tak będzie wyglądać wyświetlany tekst. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7772,6 +7852,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T155901Z" creationid="luizakolosa" creationdate="20230331T155901Z">
         <seg>segment 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>unknown</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T160318Z" creationid="luizakolosa" creationdate="20230331T160117Z">
+        <seg>nieznany</seg>
       </tuv>
     </tu>
     <tu>
