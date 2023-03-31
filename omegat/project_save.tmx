@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Current Source File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T155023Z" creationid="sandraczapska" creationdate="20230331T154011Z">
+        <seg>&amp;Obecny dokument źródłowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Dictionaries</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153659Z" creationid="sandraczapska" creationdate="20230328T090806Z">
@@ -200,8 +208,8 @@
       <tuv lang="EN">
         <seg>&amp;Exported TMs</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153954Z" creationid="sandraczapska" creationdate="20230331T153954Z">
-        <seg>&amp;Exported TMs</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T154456Z" creationid="sandraczapska" creationdate="20230331T153954Z">
+        <seg>&amp;Eksportowane pamięci tłumaczeniowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,10 +430,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Quit</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T154131Z" creationid="sandraczapska" creationdate="20230331T154131Z">
+        <seg>&amp;Zamknij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Redo Last Action</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090619Z" creationid="sandraczapska" creationdate="20230328T090619Z">
-        <seg>&amp;Redo Last Action</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T154207Z" creationid="sandraczapska" creationdate="20230328T090619Z">
+        <seg>&amp;Ponów ostatnią czynność</seg>
       </tuv>
     </tu>
     <tu>
@@ -466,6 +482,14 @@
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T065559Z" creationid="littlewhitedirect" creationdate="20230328T065559Z">
         <seg>&amp;Reset Master Password</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Restart</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T154139Z" creationid="sandraczapska" creationdate="20230331T154139Z">
+        <seg>&amp;Uruchom ponownie</seg>
       </tuv>
     </tu>
     <tu>
@@ -584,8 +608,8 @@
       <tuv lang="EN">
         <seg>&amp;Undo Last Action</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090742Z" creationid="sandraczapska" creationdate="20230328T090742Z">
-        <seg>&amp;Undo Last Action</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T154200Z" creationid="sandraczapska" creationdate="20230328T090742Z">
+        <seg>&amp;Cofnij ostatnią czynność</seg>
       </tuv>
     </tu>
     <tu>
@@ -600,8 +624,8 @@
       <tuv lang="EN">
         <seg>&amp;Writable Glossary</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203628Z" creationid="sandraczapska" creationdate="20230330T203628Z">
-        <seg>&amp;Writable Glossary</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T154829Z" creationid="sandraczapska" creationdate="20230330T203628Z">
+        <seg>&amp;Nadpisywalny glosariusz</seg>
       </tuv>
     </tu>
     <tu>
@@ -1288,8 +1312,8 @@
       <tuv lang="EN">
         <seg>C&amp;urrent Target File</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230321T161003Z" creationid="janmars" creationdate="20230321T161003Z">
-        <seg>C&amp;urrent Target File</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T155028Z" creationid="janmars" creationdate="20230321T161003Z">
+        <seg>Obecny dokument docelowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -4718,6 +4742,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>R&amp;eplace with Match or Selection</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T154302Z" creationid="sandraczapska" creationdate="20230331T154302Z">
+        <seg>R&amp;eplace with Match or Selection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Re&amp;load</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203217Z" creationid="sandraczapska" creationdate="20230330T203217Z">
@@ -5844,8 +5876,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>T&amp;Ms</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090834Z" creationid="sandraczapska" creationdate="20230328T090834Z">
-        <seg>T&amp;Ms</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T154330Z" creationid="sandraczapska" creationdate="20230328T090834Z">
+        <seg>Pamięci tłumaczeniowe</seg>
       </tuv>
     </tu>
     <tu>
