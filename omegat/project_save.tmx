@@ -2028,6 +2028,22 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Committing source files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T182539Z" creationid="klaudiakempa" creationdate="20230331T182334Z">
+        <seg>Wysyłanie plików źródłowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Committing target files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T182513Z" creationid="klaudiakempa" creationdate="20230331T182513Z">
+        <seg>Committing target files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comparison Mode:</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T202024Z" creationid="JU" creationdate="20230330T202024Z">
@@ -3304,6 +3320,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T182241Z" creationid="klaudiakempa" creationdate="20230331T182241Z">
         <seg>Wysyłanie plików źródłowych nie powiodło się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit target files!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T182316Z" creationid="klaudiakempa" creationdate="20230331T182316Z">
+        <seg>Wysłanie plików docelowych nie powiodło się!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7125,6 +7149,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185902Z" creationid="ZOO" creationdate="20230324T185902Z">
         <seg>Wzór nazwy pliku źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source files committed</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T182440Z" creationid="klaudiakempa" creationdate="20230331T182440Z">
+        <seg>Wysłane pliki źródłowe</seg>
       </tuv>
     </tu>
     <tu>
