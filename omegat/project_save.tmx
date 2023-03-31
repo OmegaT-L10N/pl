@@ -2044,6 +2044,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T205856Z" creationid="littlewhitedirect" creationdate="20230331T205856Z">
+        <seg>Polecenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commands</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165554Z" creationid="littlewhitedirect" creationdate="20230321T165554Z">
@@ -2485,6 +2493,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Delimiter:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T205915Z" creationid="littlewhitedirect" creationdate="20230331T205915Z">
+        <seg>Separator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Description</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T163902Z" creationid="biegajacy-zajac" creationdate="20230321T161512Z">
@@ -2847,8 +2863,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Ed&amp;it</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140158Z" creationid="littlewhitedirect" creationdate="20230328T140158Z">
-        <seg>Ed&amp;it</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T205744Z" creationid="littlewhitedirect" creationdate="20230328T140158Z">
+        <seg>Edytuj</seg>
       </tuv>
     </tu>
     <tu>
@@ -2956,8 +2972,8 @@ Your help page not found</seg>
       <tuv lang="EN">
         <seg>Encoding:</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T065627Z" creationid="littlewhitedirect" creationdate="20230328T065627Z">
-        <seg>Encoding:</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T205910Z" creationid="littlewhitedirect" creationdate="20230328T065627Z">
+        <seg>Kodowanie:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3388,10 +3404,26 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Search Command</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T205851Z" creationid="littlewhitedirect" creationdate="20230331T205851Z">
+        <seg>Polecenie wyszukiwania zewnętrznego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Search Set</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T205521Z">
         <seg>Ustawienia wyszukiwania zewnętrznego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Search URL</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T205809Z" creationid="littlewhitedirect" creationdate="20230331T205809Z">
+        <seg>Wyszukiwanie zewnętrzne URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -6371,6 +6403,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remo&amp;ve</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T205739Z" creationid="littlewhitedirect" creationdate="20230331T205739Z">
+        <seg>Usuń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remo&amp;ve Translation</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T160124Z" creationid="sandraczapska" creationdate="20230328T090622Z">
@@ -7782,6 +7822,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T205903Z" creationid="littlewhitedirect" creationdate="20230331T205903Z">
+        <seg>Tekst docelowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Team synchronization...</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103100Z" creationid="janmars" creationdate="20230327T103100Z">
@@ -7875,6 +7923,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191240Z" creationid="ZOO" creationdate="20230324T191240Z">
         <seg>Filtr PO napotkał problem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T210042Z" creationid="littlewhitedirect" creationdate="20230331T210042Z">
+        <seg>Kod URL musi zawierać "{tekst docelowy}", który zostanie zastąpiony wyszukiwanym tekstem.</seg>
       </tuv>
     </tu>
     <tu>
