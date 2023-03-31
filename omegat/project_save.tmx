@@ -267,6 +267,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Install new language...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T140035Z" creationid="leoi23" creationdate="20230331T140035Z">
+        <seg>&amp;Zainstaluj nowy język...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Jump to Segment</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T203125Z" creationid="JU" creationdate="20230330T203125Z">
@@ -1760,6 +1768,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230328T072809Z" creationid="Maja" creationdate="20230328T072809Z">
         <seg>Wytnij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>D&amp;elete</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T140049Z" creationid="leoi23" creationdate="20230331T140049Z">
+        <seg>U&amp;suń</seg>
       </tuv>
     </tu>
     <tu>
@@ -4266,6 +4282,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Proceed?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T140244Z" creationid="leoi23" creationdate="20230331T140244Z">
+        <seg>Kontynuować?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Properties</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070741Z">
@@ -6072,6 +6096,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>URL of downloadable spellchecking dictionaries:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T140209Z" creationid="leoi23" creationdate="20230331T140145Z">
+        <seg>URL słowników sprawdzania pisowni do pobrania:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>URL:</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T183750Z" creationid="Maja" creationdate="20230330T183750Z">
@@ -6575,6 +6607,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T184339Z" creationid="JU" creationdate="20230330T184339Z">
         <seg>Tak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are deleting the spellchecking dictionary that your project currently uses.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T140239Z" creationid="leoi23" creationdate="20230331T140239Z">
+        <seg>Odinstalowujesz słownik sprawdzania pisowni, którego twój projekt aktualnie używa.</seg>
       </tuv>
     </tu>
     <tu>
