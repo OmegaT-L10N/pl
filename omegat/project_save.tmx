@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2783,6 +2783,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error creating project!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T170352Z" creationid="luizakolosa" creationdate="20230331T170352Z">
+        <seg>Błąd podczas tworzenia projektu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error fixing tags</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230328T132700Z" creationid="janmars" creationdate="20230327T104143Z">
@@ -2865,8 +2873,8 @@ No one hears your screams</seg>
       <tuv lang="EN">
         <seg>Error saving project file!</seg>
       </tuv>
-      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T170219Z" creationid="luizakolosa" creationdate="20230331T170219Z">
-        <seg>Error saving project file!</seg>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T170307Z" creationid="luizakolosa" creationdate="20230331T170219Z">
+        <seg>Błąd podczas zapisywania projektu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3256,6 +3264,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230331T140647Z" creationid="leoi23" creationdate="20230331T140647Z">
         <seg>Folder nie istnieje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Folder {0} was automatically created for team mode project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T170516Z" creationid="luizakolosa" creationdate="20230331T170516Z">
+        <seg>Folder {0} został automatycznie utworzony dla projektu grupowego </seg>
       </tuv>
     </tu>
     <tu>
@@ -4161,6 +4177,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T170213Z" creationid="luizakolosa" creationdate="20230331T170213Z">
         <seg>Ładowanie projektu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T170530Z" creationid="luizakolosa" creationdate="20230331T170530Z">
+        <seg>Ładowanie: {0}</seg>
       </tuv>
     </tu>
     <tu>
