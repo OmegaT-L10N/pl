@@ -5551,8 +5551,8 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T065604Z" creationid="littlewhitedirect" creationdate="20230328T065604Z">
-        <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T210829Z" creationid="littlewhitedirect" creationdate="20230328T065604Z">
+        <seg>OmegaT szyfruje poufne hasła i indywidualne klucze API za pomocą podstawowego hasła.</seg>
       </tuv>
     </tu>
     <tu>
