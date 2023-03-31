@@ -2946,6 +2946,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the segment number:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T182934Z" creationid="klaudiakempa" creationdate="20230331T182934Z">
+        <seg>Podaj numer segmentu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter username/password for {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102921Z" creationid="janmars" creationdate="20230327T102921Z">
@@ -3720,6 +3728,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T204028Z" creationid="biegajacy-zajac" creationdate="20230321T202703Z">
         <seg>Aby je włączyć, idź do Preferencje &gt; Zewnętrzne wyszukiwanie globalne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to Segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T182939Z" creationid="klaudiakempa" creationdate="20230331T182939Z">
+        <seg>Przejdź do segmentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4834,6 +4850,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154158Z" creationid="maciej-pqr" creationdate="20230331T154158Z">
         <seg>Opcje filtra Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T183142Z" creationid="klaudiakempa" creationdate="20230331T183142Z">
+        <seg>Więcej</seg>
       </tuv>
     </tu>
     <tu>
@@ -6259,6 +6283,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repeated segments: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T183044Z" creationid="klaudiakempa" creationdate="20230331T183044Z">
+        <seg>Powtarzające się segmenty: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repetitions from other files:</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070640Z" creationid="tobkub" creationdate="20230328T070640Z">
@@ -6717,6 +6749,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T183824Z" creationid="JU" creationdate="20230330T183824Z">
         <seg>Właściwości segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment {0,number,#}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T183129Z" creationid="klaudiakempa" creationdate="20230331T183129Z">
+        <seg>Segment {0,numer,#}</seg>
       </tuv>
     </tu>
     <tu>
