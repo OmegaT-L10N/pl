@@ -1862,8 +1862,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Completed and current translations saved as {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230321T145334Z" creationid="tobkub" creationdate="20230321T145334Z">
-        <seg>Completed and current translations saved as {0}</seg>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T171528Z" creationid="tobkub" creationdate="20230321T145334Z">
+        <seg>Przetłumaczone i bieżące segmenty zapisane jako {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2087,8 +2087,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Creating translated files: {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T064719Z" creationid="tobkub" creationdate="20230328T064719Z">
-        <seg>Creating translated files: {0}</seg>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T171624Z" creationid="tobkub" creationdate="20230328T064719Z">
+        <seg>Tworzenie przetłumaczonych plików:{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6922,6 +6922,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190820Z" creationid="ZOO" creationdate="20230324T190820Z">
         <seg>Rozpocznij nowy akapit &amp;w Word miękki koniec wiersza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start new project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T171543Z" creationid="luizakolosa" creationdate="20230331T171543Z">
+        <seg>Rozpocznij nowy projekt.</seg>
       </tuv>
     </tu>
     <tu>
