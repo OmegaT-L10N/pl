@@ -2030,8 +2030,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Command is missing target</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165113Z" creationid="oladp" creationdate="20230321T161205Z">
-        <seg>Polecenie nie zawiera docelowego adresu URL </seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T204823Z" creationid="oladp" creationdate="20230321T161205Z">
+        <seg>Polecenie bez adresu docelowego </seg>
       </tuv>
     </tu>
     <tu>
