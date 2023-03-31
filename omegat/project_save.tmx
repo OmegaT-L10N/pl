@@ -1834,6 +1834,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check whether this is intentional.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T182922Z" creationid="klaudiakempa" creationdate="20230331T182922Z">
+        <seg>Sprawdź, czy działanie jest zamierzone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check whether your repository has correct commits and files.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102746Z" creationid="janmars" creationdate="20230327T102746Z">
@@ -2038,8 +2046,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Committing target files</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T182513Z" creationid="klaudiakempa" creationdate="20230331T182513Z">
-        <seg>Committing target files</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T182605Z" creationid="klaudiakempa" creationdate="20230331T182513Z">
+        <seg>Wysyłanie plików docelowych</seg>
       </tuv>
     </tu>
     <tu>
@@ -3376,6 +3384,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T181628Z" creationid="klaudiakempa" creationdate="20230331T181628Z">
         <seg>Wczytanie pamięci tłumaczeniowej {0} do projektu nie powiodło się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to update project properties</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T182802Z" creationid="klaudiakempa" creationdate="20230331T182802Z">
+        <seg>Nie udało się zaktualizować właściwości projektu</seg>
       </tuv>
     </tu>
     <tu>
@@ -7502,6 +7518,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target files committed</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T182646Z" creationid="klaudiakempa" creationdate="20230331T182646Z">
+        <seg>Wysłane pliki docelowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target language tokenizer:</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T071123Z" creationid="tobkub" creationdate="20230328T071123Z">
@@ -7727,6 +7751,14 @@ But others await</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T181028Z" creationid="klaudiakempa" creationdate="20230331T181028Z">
         <seg>Motyw:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are no Git settings in the remote project file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T182825Z" creationid="klaudiakempa" creationdate="20230331T182825Z">
+        <seg>There are no Git settings in the remote project file.</seg>
       </tuv>
     </tu>
     <tu>
