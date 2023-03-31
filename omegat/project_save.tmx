@@ -1558,6 +1558,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Code has been contributed by:
+{0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155835Z" creationid="maciej-pqr" creationdate="20230331T155835Z">
+        <seg>Code has been contributed by:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Column index must be equal to 1</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185858Z">
@@ -3498,6 +3508,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jean-Christophe Helary is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155632Z" creationid="maciej-pqr" creationdate="20230331T155632Z">
+        <seg>Jean-Christophe Helary jest koordynatorem projektu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T155458Z" creationid="luizakolosa" creationdate="20230331T155458Z">
@@ -4511,6 +4529,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104130Z" creationid="janmars" creationdate="20230327T104130Z">
         <seg>Porzucono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other contributions are detailed in the readme.txt file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155927Z" creationid="maciej-pqr" creationdate="20230331T155927Z">
+        <seg>Other contributions are detailed in the readme.txt file</seg>
       </tuv>
     </tu>
     <tu>
