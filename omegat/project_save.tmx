@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Next Segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T160804Z" creationid="klaudiakempa" creationdate="20230331T160804Z">
+        <seg>&amp;Następny segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Notes</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190221Z" creationid="ZOO" creationdate="20230324T190221Z">
@@ -434,6 +442,14 @@
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190720Z" creationid="ZOO" creationdate="20230324T190720Z">
         <seg>&amp;Zachowaj białe znaki dla wszystkich tagów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Previous Segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T160819Z" creationid="klaudiakempa" creationdate="20230331T160819Z">
+        <seg>&amp;Poprzedni segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -4190,6 +4206,30 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T184428Z" creationid="JU" creationdate="20230330T184428Z">
         <seg>Następny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next &amp;Translated Segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T160719Z" creationid="klaudiakempa" creationdate="20230331T160719Z">
+        <seg>Następny &amp;przetłumaczony segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next &amp;Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T160647Z" creationid="klaudiakempa" creationdate="20230331T160647Z">
+        <seg>Następny &amp;nieprzetłumaczony segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next N&amp;ote</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T160933Z" creationid="klaudiakempa" creationdate="20230331T160933Z">
+        <seg>Następna N&amp;otatka</seg>
       </tuv>
     </tu>
     <tu>
