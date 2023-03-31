@@ -680,6 +680,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>---- Localization Notes ----</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154441Z" creationid="maciej-pqr" creationdate="20230331T154441Z">
+        <seg>---- Notatki dotyczące lokalizacji ----</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--/--</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T153221Z" creationid="luizakolosa" creationdate="20230331T153221Z">
@@ -1094,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Android Resources</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154950Z" creationid="maciej-pqr" creationdate="20230331T154950Z">
+        <seg>Pliki Android Resource</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apertium</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T180332Z" creationid="Maja" creationdate="20230330T180332Z">
@@ -1322,6 +1338,14 @@
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T201933Z" creationid="JU" creationdate="20230330T201933Z">
         <seg>Kalkulator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Camtasia for Windows</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155049Z" creationid="maciej-pqr" creationdate="20230331T155049Z">
+        <seg>Camtasia dla systemu Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -3026,6 +3050,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Help &amp; Manual</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155213Z" creationid="maciej-pqr" creationdate="20230331T155213Z">
+        <seg>Pliki pomocy i podręczników</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hide '{0}'</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230328T071138Z" creationid="Maja" creationdate="20230328T071138Z">
@@ -3362,6 +3394,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java Properties XML</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154849Z" creationid="maciej-pqr" creationdate="20230331T154849Z">
+        <seg>Java Properties XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java Resource Bundles</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T153055Z" creationid="maciej-pqr" creationdate="20230331T153055Z">
@@ -3430,6 +3470,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T184223Z" creationid="Maja" creationdate="20230330T184223Z">
         <seg>Pozostaw znaczniki w przetłumaczonym tekście</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Key=Value Text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155000Z" creationid="maciej-pqr" creationdate="20230331T155000Z">
+        <seg>Pliki tekstowe formatu "klucz=wartość"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3647,6 +3695,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Magento CE Locale CSV</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155230Z" creationid="maciej-pqr" creationdate="20230331T155230Z">
+        <seg>Magento CE Locale CSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Accepted</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T201612Z" creationid="JU" creationdate="20230330T201612Z">
@@ -3844,6 +3900,30 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154243Z" creationid="maciej-pqr" creationdate="20230331T154243Z">
         <seg>Opcje filtra Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154329Z" creationid="maciej-pqr" creationdate="20230331T154329Z">
+        <seg>Pliki Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla FTL Filter Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154346Z" creationid="maciej-pqr" creationdate="20230331T154346Z">
+        <seg>Opcje filtra Mozilla FTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla Lang</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154406Z" creationid="maciej-pqr" creationdate="20230331T154406Z">
+        <seg>Pliki Mozilla Lang</seg>
       </tuv>
     </tu>
     <tu>
@@ -4750,6 +4830,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>RELAX NG</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154924Z" creationid="maciej-pqr" creationdate="20230331T154924Z">
+        <seg>RELAX NG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Re&amp;load</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203217Z" creationid="sandraczapska" creationdate="20230330T203217Z">
@@ -4999,6 +5087,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ResX</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154446Z" creationid="maciej-pqr" creationdate="20230331T154446Z">
+        <seg>Pliki ResX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T201515Z" creationid="JU" creationdate="20230330T201515Z">
@@ -5104,6 +5200,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SVG / Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155241Z" creationid="maciej-pqr" creationdate="20230331T155241Z">
+        <seg>Eksport plików SVG / Adobe Illustratort</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Alignment Results</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T202229Z" creationid="JU" creationdate="20230330T202229Z">
@@ -5164,6 +5268,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T152233Z" creationid="luizakolosa" creationdate="20230331T152233Z">
         <seg>Zapisywanie projektu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Schematron</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154919Z" creationid="maciej-pqr" creationdate="20230331T154919Z">
+        <seg>Schematron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scribus</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155242Z" creationid="maciej-pqr" creationdate="20230331T155242Z">
+        <seg>Scribus</seg>
       </tuv>
     </tu>
     <tu>
@@ -5850,6 +5970,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SubRip Subtitles</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155054Z" creationid="maciej-pqr" creationdate="20230331T155054Z">
+        <seg>Pliki napisów SubRip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Summary</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165904Z" creationid="littlewhitedirect" creationdate="20230321T165904Z">
@@ -6061,8 +6189,16 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>The Mozilla DTD filter encountered an error:</seg>
       </tuv>
-      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154255Z" creationid="maciej-pqr" creationdate="20230331T154255Z">
-        <seg>The Mozilla DTD filter encountered an error:</seg>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154325Z" creationid="maciej-pqr" creationdate="20230331T154255Z">
+        <seg>Filtr Mozilla DTD napotkał błąd:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Mozilla FTL filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154357Z" creationid="maciej-pqr" creationdate="20230331T154357Z">
+        <seg>Filtr Mozilla FTL napotkał błąd:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6467,6 +6603,22 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Typo3 LocManager</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155128Z" creationid="maciej-pqr" creationdate="20230331T155128Z">
+        <seg>Pliki Typo3 LocManager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typo3 l10nmgr</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155131Z" creationid="maciej-pqr" creationdate="20230331T155131Z">
+        <seg>Typo3 l10nmgr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>UNL</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T153218Z" creationid="luizakolosa" creationdate="20230331T153218Z">
@@ -6863,6 +7015,14 @@ Bieżące ustawienie to {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Visio</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155243Z" creationid="maciej-pqr" creationdate="20230331T155243Z">
+        <seg>Visio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Viterbi</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T202959Z" creationid="JU" creationdate="20230330T202959Z">
@@ -6883,6 +7043,14 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T202801Z" creationid="JU" creationdate="20230330T202801Z">
         <seg>Ostrzeżenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WebVTT Subtitles</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155123Z" creationid="maciej-pqr" creationdate="20230331T155123Z">
+        <seg>Pliki napisów WebVTT</seg>
       </tuv>
     </tu>
     <tu>
@@ -6915,6 +7083,14 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230321T161326Z" creationid="janmars" creationdate="20230321T161326Z">
         <seg>Whitespaces</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WiX Localization</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155207Z" creationid="maciej-pqr" creationdate="20230331T155207Z">
+        <seg>Lokalizacja WiX</seg>
       </tuv>
     </tu>
     <tu>
@@ -7091,6 +7267,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T205508Z" creationid="biegajacy-zajac" creationdate="20230321T170127Z">
         <seg>Komunikat z prośbą o podanie tego hasła pojawi się przy każdym uruchomieniu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>YouTube Subtitles</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155108Z" creationid="maciej-pqr" creationdate="20230331T155108Z">
+        <seg>Pliki napisów YouTube</seg>
       </tuv>
     </tu>
     <tu>
