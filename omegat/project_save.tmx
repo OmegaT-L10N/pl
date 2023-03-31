@@ -1286,6 +1286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-Popu&amp;lated Segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T162108Z" creationid="klaudiakempa" creationdate="20230331T162108Z">
+        <seg>Automatyczne wypełnianie segmentów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-text configuration</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T105504Z" creationid="janmars" creationdate="20230327T102445Z">
