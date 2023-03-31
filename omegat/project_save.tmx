@@ -2597,6 +2597,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit Filter Patterns</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230331T172528Z" creationid="ghuzytkownik" creationdate="20230331T172528Z">
+        <seg>Edytuj wzorzec filtra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit Highlight Pattern</seg>
       </tuv>
       <tuv lang="pl" changeid="JU" changedate="20230330T202407Z" creationid="JU" creationdate="20230330T202407Z">
@@ -3508,6 +3516,14 @@ Its winter has come</seg>
         <seg>Help you are seeking
 From your path it is fleeing
 Its winter has come</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230331T172757Z" creationid="ghuzytkownik" creationdate="20230331T172757Z">
+        <seg>Ukryj znaczniki początku i końca</seg>
       </tuv>
     </tu>
     <tu>
