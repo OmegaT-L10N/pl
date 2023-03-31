@@ -2525,6 +2525,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Downloading project...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T170200Z" creationid="luizakolosa" creationdate="20230331T170200Z">
+        <seg>Pobieranie projektu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dra&amp;wings</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190559Z" creationid="ZOO" creationdate="20230324T190559Z">
@@ -2625,6 +2633,18 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T180547Z" creationid="Maja" creationdate="20230330T180547Z">
         <seg>E-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emptiness of soul
+Forever aching blackness
+Your help page not found</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T170114Z" creationid="luizakolosa" creationdate="20230331T170114Z">
+        <seg>Emptiness of soul
+Forever aching blackness
+Your help page not found</seg>
       </tuv>
     </tu>
     <tu>
@@ -2731,6 +2751,18 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102435Z" creationid="janmars" creationdate="20230327T102435Z">
         <seg>Treść</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ephemeral page
+I am the Blue Screen of Death
+No one hears your screams</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T170115Z" creationid="luizakolosa" creationdate="20230331T170115Z">
+        <seg>Ephemeral page
+I am the Blue Screen of Death
+No one hears your screams</seg>
       </tuv>
     </tu>
     <tu>
@@ -2972,10 +3004,10 @@ additional steps need to be taken.</seg>
 Gossamer threads hold you back
 404 not found</seg>
       </tuv>
-      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T165206Z" creationid="luizakolosa" creationdate="20230331T164120Z">
-        <seg>Pomoc
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T170106Z" creationid="luizakolosa" creationdate="20230331T164120Z">
+        <seg>Exciting help page
 Gossamer threads hold you back
-404 nie znaleziono</seg>
+404 not found</seg>
       </tuv>
     </tu>
     <tu>
@@ -3440,6 +3472,18 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155213Z" creationid="maciej-pqr" creationdate="20230331T155213Z">
         <seg>Pliki pomocy i podręczników</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help you are seeking
+From your path it is fleeing
+Its winter has come</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T170118Z" creationid="luizakolosa" creationdate="20230331T170118Z">
+        <seg>Help you are seeking
+From your path it is fleeing
+Its winter has come</seg>
       </tuv>
     </tu>
     <tu>
@@ -4382,6 +4426,18 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154158Z" creationid="maciej-pqr" creationdate="20230331T154158Z">
         <seg>Opcje filtra Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mourning and sorrow
+404 not with us now
+Lost to paradise</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T170117Z" creationid="luizakolosa" creationdate="20230331T170117Z">
+        <seg>Mourning and sorrow
+404 not with us now
+Lost to paradise</seg>
       </tuv>
     </tu>
     <tu>
@@ -5554,6 +5610,18 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154924Z" creationid="maciej-pqr" creationdate="20230331T154924Z">
         <seg>RELAX NG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather than beep
+Or a rude error message
+These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T170116Z" creationid="luizakolosa" creationdate="20230331T170116Z">
+        <seg>Rather than beep
+Or a rude error message
+These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
@@ -7067,6 +7135,18 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The help page you seek
+Lies beyond our perception
+But others await</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T170113Z" creationid="luizakolosa" creationdate="20230331T170113Z">
+        <seg>The help page you seek
+Lies beyond our perception
+But others await</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The password cannot be empty.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194145Z" creationid="biegajacy-zajac" creationdate="20230321T170314Z">
@@ -7151,6 +7231,18 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104153Z" creationid="janmars" creationdate="20230327T104153Z">
         <seg>Zmiana w tłumaczeniu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These three are certain:
+Death, taxes, and page not found
+You, victim of one</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T170111Z" creationid="luizakolosa" creationdate="20230331T170111Z">
+        <seg>These three are certain:
+Death, taxes, and page not found
+You, victim of one</seg>
       </tuv>
     </tu>
     <tu>
