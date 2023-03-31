@@ -5039,8 +5039,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Select &amp;Previous Match</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090629Z" creationid="sandraczapska" creationdate="20230328T090629Z">
-        <seg>Select &amp;Previous Match</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T151651Z" creationid="sandraczapska" creationdate="20230328T090629Z">
+        <seg>Wybierz &amp;poprzednie dopasowanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -5055,24 +5055,32 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Select Match #&amp;1</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T070039Z" creationid="klaudiakempa" creationdate="20230331T065659Z">
-        <seg>Wybierz dopasowanie nr &amp;1</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T151754Z" creationid="klaudiakempa" creationdate="20230331T065659Z">
+        <seg>Wybierz dopasowanie #&amp;1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #&amp;2</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203640Z" creationid="sandraczapska" creationdate="20230330T203640Z">
-        <seg>Select Match #&amp;2</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T151815Z" creationid="sandraczapska" creationdate="20230330T203640Z">
+        <seg>Wybierz dopasowanie #&amp;2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #&amp;3</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090711Z" creationid="sandraczapska" creationdate="20230328T090711Z">
-        <seg>Select Match #&amp;3</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T151839Z" creationid="sandraczapska" creationdate="20230328T090711Z">
+        <seg>Wybierz dopasowanie #&amp;3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;4</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T151945Z" creationid="klaudiakempa" creationdate="20230331T151945Z">
+        <seg>Wybierz dopasowanie #&amp;4</seg>
       </tuv>
     </tu>
     <tu>
