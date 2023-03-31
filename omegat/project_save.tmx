@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2828,16 +2828,16 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
-      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T154603Z" creationid="luizakolosa" creationdate="20230331T154057Z">
-        <seg>Pliki projektu: przetłumaczone / liczba segmentów (Projekt:  translated / unique, całkowita liczba segmentów)</seg>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T155431Z" creationid="luizakolosa" creationdate="20230331T154057Z">
+        <seg>Pliki projektu: przetłumaczone / liczba segmentów (Projekt: indywidualnie tłumaczone / indywidualne, całkowita liczba segmentów)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
       </tuv>
-      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T154856Z" creationid="luizakolosa" creationdate="20230331T154856Z">
-        <seg>Plik: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T155741Z" creationid="luizakolosa" creationdate="20230331T154856Z">
+        <seg>Plik: indywidualnie tłumaczone % (indywidualnych pozostało) / projekt: indywidualnie tłumaczone % (indywidualnych pozostało), całkowita liczba segmentów </seg>
       </tuv>
     </tu>
     <tu>
@@ -3470,6 +3470,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T153157Z" creationid="maciej-pqr" creationdate="20230331T153157Z">
         <seg>Opcje filtra pakietów zasobów Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jumping to last edited segment...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T155458Z" creationid="luizakolosa" creationdate="20230331T155458Z">
+        <seg>Jumping to last edited segment...</seg>
       </tuv>
     </tu>
     <tu>
