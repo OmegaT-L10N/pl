@@ -392,8 +392,8 @@
       <tuv lang="EN">
         <seg>&amp;Go to Downloads</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211654Z" creationid="littlewhitedirect" creationdate="20230331T211654Z">
-        <seg>&amp;Przejdź do Pobranych</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T212841Z" creationid="littlewhitedirect" creationdate="20230331T211654Z">
+        <seg>&amp;Przejdź do pobranych</seg>
       </tuv>
     </tu>
     <tu>
@@ -5815,6 +5815,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT {0} is now available.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T213020Z" creationid="littlewhitedirect" creationdate="20230331T213020Z">
+        <seg>OmegaT {0} jest teraz dostępna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Op&amp;en Recent...</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230331T151639Z" creationid="sandraczapska" creationdate="20230328T090553Z">
@@ -6135,6 +6143,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230328T070315Z">
         <seg>Instalator wtyczek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plugin installation failed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T213133Z" creationid="littlewhitedirect" creationdate="20230331T213133Z">
+        <seg>Instalowanie wtyczki nie powiodło się.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8383,6 +8399,14 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This file is not a plugin archive.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T213118Z" creationid="littlewhitedirect" creationdate="20230331T213118Z">
+        <seg>Ten plik nie stanowi archiwum wtyczek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is a Git repository.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103308Z" creationid="janmars" creationdate="20230327T103308Z">
@@ -9442,6 +9466,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You already have the latest version.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T213050Z" creationid="littlewhitedirect" creationdate="20230331T213050Z">
+        <seg>Posiadasz już najnowszą wersję.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are deleting the spellchecking dictionary that your project currently uses.</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230331T140239Z" creationid="leoi23" creationdate="20230331T140239Z">
@@ -9462,8 +9494,8 @@ Your page is not found</seg>
       <tuv lang="EN">
         <seg>You currently have {1}.</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211721Z" creationid="littlewhitedirect" creationdate="20230331T211721Z">
-        <seg>You currently have {1}.</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T213005Z" creationid="littlewhitedirect" creationdate="20230331T211721Z">
+        <seg>Obecnie posiadasz {1}.</seg>
       </tuv>
     </tu>
     <tu>
