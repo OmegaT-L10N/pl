@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2484,8 +2484,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Encoding</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140139Z">
-        <seg>[fuzzy]Encoding:</seg>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T161123Z">
+        <seg>[rozmyte]Kodowanie:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2942,16 +2942,16 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
-      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T155431Z" creationid="luizakolosa" creationdate="20230331T154057Z">
-        <seg>Pliki projektu: przetłumaczone / liczba segmentów (Projekt: indywidualnie tłumaczone / indywidualne, całkowita liczba segmentów)</seg>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T161318Z" creationid="luizakolosa" creationdate="20230331T154057Z">
+        <seg>Pliki projektu: przetłumaczone / liczba segmentów (Projekt: niepowtarzające się przetłumaczone / niepowtarzające się, całkowita liczba segmentów)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
       </tuv>
-      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T155741Z" creationid="luizakolosa" creationdate="20230331T154856Z">
-        <seg>Plik: indywidualnie tłumaczone % (indywidualnych pozostało) / projekt: indywidualnie tłumaczone % (indywidualnych pozostało), całkowita liczba segmentów </seg>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T161416Z" creationid="luizakolosa" creationdate="20230331T154856Z">
+        <seg>Plik: niepowtarzające się przetłumaczone % (niepowtarzających się pozostało) / projekt: niepowtarzające się przetłumaczone % (niepowtarzających się pozostało), całkowita liczba segmentów </seg>
       </tuv>
     </tu>
     <tu>
@@ -4134,6 +4134,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154158Z" creationid="maciej-pqr" creationdate="20230331T154158Z">
         <seg>Opcje filtra Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;First</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T161623Z" creationid="luizakolosa" creationdate="20230331T161623Z">
+        <seg>Umieść &amp;First</seg>
       </tuv>
     </tu>
     <tu>
@@ -5843,8 +5851,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Segments</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T065953Z" creationid="tobkub" creationdate="20230328T065953Z">
-        <seg>LIczba segmentów</seg>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T161140Z" creationid="tobkub" creationdate="20230328T065953Z">
+        <seg>Segmenty</seg>
       </tuv>
     </tu>
     <tu>
@@ -7335,6 +7343,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unique segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T161451Z" creationid="luizakolosa" creationdate="20230331T161125Z">
+        <seg>Segmenty niepowtarzające się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unique:</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070103Z" creationid="tobkub" creationdate="20230328T070103Z">
@@ -7750,6 +7766,16 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230331T140239Z" creationid="leoi23" creationdate="20230331T140239Z">
         <seg>Odinstalowujesz słownik sprawdzania pisowni, którego twój projekt aktualnie używa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can find detailed statistic information in the file:
+{0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T161557Z" creationid="luizakolosa" creationdate="20230331T161231Z">
+        <seg>Szczegółowe dane statystyczne znajdziesz w pliku:
+{0}</seg>
       </tuv>
     </tu>
     <tu>
