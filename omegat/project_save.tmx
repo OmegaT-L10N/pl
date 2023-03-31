@@ -2663,6 +2663,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Folder does not exist</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T140647Z" creationid="leoi23" creationdate="20230331T140647Z">
+        <seg>Folder nie istnieje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Follow capitalization of the typed text</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T105310Z" creationid="janmars" creationdate="20230327T105300Z">
@@ -5771,6 +5779,14 @@ project without team functionality.</seg>
         <seg>The specified spellchecking dictionary folder cannot be used.</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230331T140550Z" creationid="leoi23" creationdate="20230331T134400Z">
+        <seg>Wybrany folder słownika sprawdzania pisowni nie może być użyty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified spellchecking dictionary folder does not exist.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T140706Z" creationid="leoi23" creationdate="20230331T140706Z">
         <seg>Wybrany folder słownika sprawdzania pisowni nie może być użyty.</seg>
       </tuv>
     </tu>
