@@ -2273,8 +2273,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>E&amp;xport Selection</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203633Z" creationid="sandraczapska" creationdate="20230330T203633Z">
-        <seg>E&amp;xport Selection</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T155449Z" creationid="sandraczapska" creationdate="20230330T203633Z">
+        <seg>Eksportuj zaznaczony fragment</seg>
       </tuv>
     </tu>
     <tu>
@@ -3114,6 +3114,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I&amp;nsert Source</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T155301Z" creationid="sandraczapska" creationdate="20230331T155301Z">
+        <seg>Wstaw &amp;tekst źródłowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IBM Watson</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T180417Z" creationid="Maja" creationdate="20230330T180417Z">
@@ -3270,6 +3278,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230328T070738Z">
         <seg>[fuzzy]Wstaw dopasowanie lub zaznaczenie do tłumaczenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Missing Source &amp;Tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T155518Z" creationid="sandraczapska" creationdate="20230331T155518Z">
+        <seg>Wprowadź brakujący znacznik źródłowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -4846,6 +4862,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Re&amp;place with Source</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T155315Z" creationid="sandraczapska" creationdate="20230331T155315Z">
+        <seg>Zastąp tekstem źródłowym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Re&amp;pository Mapping...</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T071918Z" creationid="tobkub" creationdate="20230328T071918Z">
@@ -5059,6 +5083,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201032Z" creationid="biegajacy-zajac" creationdate="20230321T201032Z">
         <seg>Zastąp dopasowania podczas wstawiania tekstu źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace with &amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T155238Z" creationid="sandraczapska" creationdate="20230331T155238Z">
+        <seg>Zastąp tłumaczeniem maszynowym</seg>
       </tuv>
     </tu>
     <tu>
@@ -5316,6 +5348,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T190703Z" creationid="Maja" creationdate="20230330T190703Z">
         <seg>Folder skryptów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Se&amp;lect Source Text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T155330Z" creationid="sandraczapska" creationdate="20230331T155330Z">
+        <seg>Se&amp;lect Source Text</seg>
       </tuv>
     </tu>
     <tu>
