@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2750,6 +2750,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070704Z" creationid="tobkub" creationdate="20230328T070704Z">
         <seg>Plik {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T154057Z" creationid="luizakolosa" creationdate="20230331T154057Z">
+        <seg>Pliki projektu: przetłumaczone / liczba segmentów (Projekt:  translated / unique, total number of segments)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7070,8 +7078,8 @@ Your page is not found</seg>
       <tuv lang="EN">
         <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
       </tuv>
-      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T153459Z" creationid="luizakolosa" creationdate="20230331T153459Z">
-        <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T153751Z" creationid="luizakolosa" creationdate="20230331T153459Z">
+        <seg>{0} ({1} pozostało) / {2} ({3} pozostało), {4}</seg>
       </tuv>
     </tu>
     <tu>
