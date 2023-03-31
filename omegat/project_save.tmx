@@ -6729,6 +6729,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source file loading complete</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T170711Z" creationid="luizakolosa" creationdate="20230331T170711Z">
+        <seg>Ładowanie pliku źródłowego zakończone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source filename pattern</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185902Z" creationid="ZOO" creationdate="20230324T185902Z">
@@ -6749,6 +6757,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T071037Z" creationid="tobkub" creationdate="20230328T071037Z">
         <seg>Język plików źródłowych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T171031Z" creationid="luizakolosa" creationdate="20230331T171031Z">
+        <seg>Pliki źródłowe zostały załadowane, ale niektóre zostały pominięte z powodu błędów filtrów plików </seg>
       </tuv>
     </tu>
     <tu>
