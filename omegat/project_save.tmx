@@ -1938,6 +1938,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211516Z" creationid="littlewhitedirect" creationdate="20230331T211516Z">
+        <seg>Klasa </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clear</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T210450Z" creationid="littlewhitedirect" creationdate="20230331T210450Z">
