@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T180054Z" creationid="klaudiakempa" creationdate="20230331T180054Z">
+        <seg>&amp;Dostępność aktualizacji...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Clear Menu</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230331T151832Z" creationid="sandraczapska" creationdate="20230331T151832Z">
