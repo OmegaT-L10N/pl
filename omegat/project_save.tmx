@@ -3484,6 +3484,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Global File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T174632Z" creationid="klaudiakempa" creationdate="20230331T174632Z">
+        <seg>Globalne filtry plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Global File Filters</seg>
       </tuv>
       <tuv lang="PL" changeid="ghuzytkownik" changedate="20230331T163308Z" creationid="ghuzytkownik" creationdate="20230331T163308Z">
@@ -3700,6 +3708,22 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T165411Z" creationid="klaudiakempa" creationdate="20230331T165411Z">
         <seg>Podświetl segmenty &amp;z notatkami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History &amp;Completion</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T174317Z" creationid="klaudiakempa" creationdate="20230331T174317Z">
+        <seg>Historia uzupełniania </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History &amp;Prediction</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T174343Z" creationid="klaudiakempa" creationdate="20230331T174343Z">
+        <seg>Historia przewidywań</seg>
       </tuv>
     </tu>
     <tu>
