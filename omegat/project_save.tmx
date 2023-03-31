@@ -280,8 +280,8 @@
       <tuv lang="EN">
         <seg>&amp;Go To</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090708Z" creationid="sandraczapska" creationdate="20230328T090708Z">
-        <seg>&amp;Go To</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T160554Z" creationid="sandraczapska" creationdate="20230328T090708Z">
+        <seg>&amp;Przejdź do</seg>
       </tuv>
     </tu>
     <tu>
@@ -5074,8 +5074,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Register I&amp;dentical Translation</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T151605Z" creationid="sandraczapska" creationdate="20230331T151605Z">
-        <seg>Register I&amp;dentical Translation</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T160531Z" creationid="sandraczapska" creationdate="20230331T151605Z">
+        <seg>Zapisz identyczne tłumaczenie</seg>
       </tuv>
     </tu>
     <tu>
