@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -594,6 +594,14 @@
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090645Z" creationid="sandraczapska" creationdate="20230328T090645Z">
         <seg>&amp;Szukaj...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Segment Number...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T161036Z" creationid="klaudiakempa" creationdate="20230331T161036Z">
+        <seg>Numer segmentu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4274,6 +4282,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next Uni&amp;que Segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T161342Z" creationid="klaudiakempa" creationdate="20230331T161342Z">
+        <seg>Następny nie&amp;powtarzający się segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T184545Z" creationid="JU" creationdate="20230330T184545Z">
@@ -4923,6 +4939,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190430Z" creationid="ZOO" creationdate="20230324T190430Z">
         <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pre&amp;vious Note</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T161011Z" creationid="klaudiakempa" creationdate="20230331T161011Z">
+        <seg>Poprze&amp;dnia notatka</seg>
       </tuv>
     </tu>
     <tu>
