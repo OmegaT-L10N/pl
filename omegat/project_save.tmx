@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Editor...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T174732Z" creationid="klaudiakempa" creationdate="20230331T174732Z">
+        <seg>&amp;Edytor...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Empty lines</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185920Z" creationid="ZOO" creationdate="20230324T185920Z">
