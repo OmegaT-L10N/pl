@@ -6478,6 +6478,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>wildcards.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230331T094437Z" creationid="Hania M" creationdate="20230331T094437Z">
+        <seg>wildcards.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} ({1})</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161521Z" creationid="biegajacy-zajac" creationdate="20230321T161521Z">
