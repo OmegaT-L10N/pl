@@ -2321,6 +2321,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display &amp;Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T165514Z" creationid="klaudiakempa" creationdate="20230331T165514Z">
+        <seg>Zaznacz &amp;twarde spacje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display &amp;Paragraph Delimitations</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T164933Z" creationid="klaudiakempa" creationdate="20230331T164933Z">
@@ -3448,6 +3456,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T165137Z" creationid="klaudiakempa" creationdate="20230331T165031Z">
         <seg>Podświetl powtarzające się segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlight Segments &amp;with Notes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T165411Z" creationid="klaudiakempa" creationdate="20230331T165411Z">
+        <seg>Podświetl segmenty &amp;z notatkami</seg>
       </tuv>
     </tu>
     <tu>
