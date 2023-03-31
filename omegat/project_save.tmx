@@ -938,8 +938,8 @@
         <seg>An error occurred while processing an application startup event:
 {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="leoi23" changedate="20230321T144459Z" creationid="leoi23" creationdate="20230321T144459Z">
-        <seg>Błąd podczas próby utworzenia nowego katalogu</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T134633Z" creationid="leoi23" creationdate="20230321T144459Z">
+        <seg>Błąd podczas uruchamiania aplikacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -5521,6 +5521,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T200939Z" creationid="JU" creationdate="20230330T200939Z">
         <seg>Wybrane pliki nie są wspierane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified spellchecking dictionary folder cannot be used.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T134400Z" creationid="leoi23" creationdate="20230331T134400Z">
+        <seg>Odinstalowujesz słownik sprawdzania pisowni, którego twój projekt aktualnie używa.</seg>
       </tuv>
     </tu>
     <tu>
