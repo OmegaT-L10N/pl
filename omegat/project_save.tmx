@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Auto-Completion</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T173942Z" creationid="klaudiakempa" creationdate="20230331T173942Z">
+        <seg>&amp;Auto uzupełnianie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Auto-propagation of translations</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T071132Z" creationid="tobkub" creationdate="20230328T071111Z">
@@ -722,6 +730,14 @@
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T203130Z" creationid="JU" creationdate="20230330T203130Z">
         <seg>Pokaż wszystko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T174108Z" creationid="klaudiakempa" creationdate="20230331T174108Z">
+        <seg>&amp;Pokaż sugestie automatyczne</seg>
       </tuv>
     </tu>
     <tu>
@@ -8158,6 +8174,14 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T204802Z" creationid="biegajacy-zajac" creationdate="20230321T200911Z">
         <seg>Użyj widoku skompresowanego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;Fuzzy Matching</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T173829Z" creationid="klaudiakempa" creationdate="20230331T173829Z">
+        <seg>Zastosuj dopasowanie rozmyte</seg>
       </tuv>
     </tu>
     <tu>
