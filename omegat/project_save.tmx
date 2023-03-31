@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1841,6 +1841,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create A&amp;lternative Translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T160052Z" creationid="klaudiakempa" creationdate="20230331T155956Z">
+        <seg>Utwórz tłumaczenie a&amp;lternatywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create Current Translate&amp;d File</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153403Z" creationid="sandraczapska" creationdate="20230330T203624Z">
@@ -3326,8 +3334,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Insert Bidi Control C&amp;haracter</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230321T142047Z" creationid="klaudiakempa" creationdate="20230321T142047Z">
-        <seg>Insert Bidi Control C&amp;haracter</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T153350Z" creationid="klaudiakempa" creationdate="20230321T142047Z">
+        <seg>Wstaw dwukierunkowe z&amp;naki sterujące</seg>
       </tuv>
     </tu>
     <tu>
@@ -3673,10 +3681,18 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T154538Z" creationid="klaudiakempa" creationdate="20230331T154538Z">
+        <seg>Wstawianie od lewej do prawej (LRE U+202&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081421Z" creationid="sandraczapska" creationdate="20230328T081421Z">
-        <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T153834Z" creationid="sandraczapska" creationdate="20230328T081421Z">
+        <seg>Oznaczenie od lewej do prawej (LRM U+200&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5107,8 +5123,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remo&amp;ve Translation</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090622Z" creationid="sandraczapska" creationdate="20230328T090622Z">
-        <seg>Remo&amp;ve Translation</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T160124Z" creationid="sandraczapska" creationdate="20230328T090622Z">
+        <seg>Usuń tłumaczenie</seg>
       </tuv>
     </tu>
     <tu>
@@ -5290,10 +5306,18 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-to-Left Embedding (RLE U+202&amp;B)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T154554Z" creationid="klaudiakempa" creationdate="20230331T154554Z">
+        <seg>Wstawianie od prawej do lewej (RLE U+202&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090627Z" creationid="sandraczapska" creationdate="20230328T090627Z">
-        <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T153946Z" creationid="sandraczapska" creationdate="20230328T090627Z">
+        <seg>Oznaczenie od prawej do lewej (RLM U+200&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5655,6 +5679,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Match #&amp;5</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T152036Z" creationid="klaudiakempa" creationdate="20230331T152036Z">
+        <seg>Wybierz dopasowanie #&amp;5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Scripts Folder</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T190714Z" creationid="Maja" creationdate="20230330T190714Z">
@@ -5737,8 +5769,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Set Empty Translation</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maja" changedate="20230330T185638Z" creationid="Maja" creationdate="20230330T185638Z">
-        <seg>Ustaw puste tłumaczenie</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T160231Z" creationid="Maja" creationdate="20230330T185638Z">
+        <seg>Oznacz tłumaczenie jako puste</seg>
       </tuv>
     </tu>
     <tu>
@@ -7125,6 +7157,14 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230330T161110Z" creationid="sandraczapska" creationdate="20230330T161110Z">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to open the dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use as Default Translati&amp;on</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T155927Z" creationid="klaudiakempa" creationdate="20230331T155927Z">
+        <seg>Uzyj jako tłumaczenia domyślnego</seg>
       </tuv>
     </tu>
     <tu>
