@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2818,6 +2818,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Force Unicode literals compatibility with Java 8</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154028Z" creationid="maciej-pqr" creationdate="20230331T154028Z">
+        <seg>Wymuś kompatybilność z Java 8 dla literałów Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Format:</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191206Z" creationid="ZOO" creationdate="20230324T191206Z">
@@ -3370,6 +3378,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep Unico&amp;de literals (\uXXXX)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T153946Z" creationid="maciej-pqr" creationdate="20230331T153946Z">
+        <seg>Pozostaw literały (\uXXXX) Unico&amp;de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep Your Version</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T183618Z" creationid="JU" creationdate="20230330T183618Z">
@@ -3752,6 +3768,22 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moodle PHP</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154147Z" creationid="maciej-pqr" creationdate="20230331T154147Z">
+        <seg>Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154158Z" creationid="maciej-pqr" creationdate="20230331T154158Z">
+        <seg>Opcje filtra Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move Down</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T201539Z" creationid="JU" creationdate="20230330T201539Z">
@@ -3764,6 +3796,22 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T201533Z" creationid="JU" creationdate="20230330T201533Z">
         <seg>Przenieś do góry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla DTD</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154305Z" creationid="maciej-pqr" creationdate="20230331T154228Z">
+        <seg>Pliki Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla DTD Filter Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154243Z" creationid="maciej-pqr" creationdate="20230331T154243Z">
+        <seg>Opcje filtra Mozilla DTD</seg>
       </tuv>
     </tu>
     <tu>
@@ -5955,6 +6003,30 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Java Resource Bundles filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154127Z" creationid="maciej-pqr" creationdate="20230331T154127Z">
+        <seg>Filtr Pakietów Zasobów Java napotkał błąd:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moodle PHP filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154226Z" creationid="maciej-pqr" creationdate="20230331T154226Z">
+        <seg>Filtre Moodle PHP napotkał błąd:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Mozilla DTD filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154255Z" creationid="maciej-pqr" creationdate="20230331T154255Z">
+        <seg>The Mozilla DTD filter encountered an error:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191240Z" creationid="ZOO" creationdate="20230324T191240Z">
@@ -6826,6 +6898,14 @@ Your page is not found</seg>
         <seg>Wind catches lily
 Scatt'ring petals to the wind:
 Your page is not found</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows Resources</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154145Z" creationid="maciej-pqr" creationdate="20230331T154145Z">
+        <seg>Pliki Windows Resource</seg>
       </tuv>
     </tu>
     <tu>
