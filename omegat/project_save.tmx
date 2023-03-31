@@ -2762,6 +2762,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T154856Z" creationid="luizakolosa" creationdate="20230331T154856Z">
+        <seg>Plik: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter '{0}' could not be loaded from '{1}'</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185816Z" creationid="ZOO" creationdate="20230324T185816Z">
