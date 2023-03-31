@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable history completion</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T180836Z" creationid="klaudiakempa" creationdate="20230331T180836Z">
+        <seg>&amp;Włącz historię uzupełniania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Endnotes</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190331Z" creationid="ZOO" creationdate="20230324T190331Z">
@@ -1482,6 +1490,14 @@
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191202Z" creationid="ZOO" creationdate="20230324T191202Z">
         <seg>&amp;Zastępuj automatycznie mnogą specyfikację</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-Completion</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T180419Z" creationid="klaudiakempa" creationdate="20230331T180419Z">
+        <seg>Auto uzupełnianie</seg>
       </tuv>
     </tu>
     <tu>
