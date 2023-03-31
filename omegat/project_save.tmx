@@ -656,8 +656,8 @@
       <tuv lang="EN">
         <seg>&amp;Remove</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081521Z">
-        <seg>&amp;Remove</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T205452Z">
+        <seg>&amp;Usuń</seg>
       </tuv>
     </tu>
     <tu>
@@ -3382,8 +3382,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>External Search Set</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140201Z">
-        <seg>External Search Set</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T205521Z">
+        <seg>Ustawienia wyszukiwania zewnętrznego</seg>
       </tuv>
     </tu>
     <tu>
