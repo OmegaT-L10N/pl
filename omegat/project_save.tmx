@@ -3476,6 +3476,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Global &amp;Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T174709Z" creationid="klaudiakempa" creationdate="20230331T174709Z">
+        <seg>Globalne &amp;Ustawienia segmentacji...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Global External Searches</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165834Z" creationid="littlewhitedirect" creationdate="20230321T165727Z">
