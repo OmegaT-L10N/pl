@@ -3532,6 +3532,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External program failed({1}): {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T212501Z" creationid="littlewhitedirect" creationdate="20230331T212501Z">
+        <seg>Program zewnętrzny nie powiódł się({1}): {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Extraneous</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104100Z" creationid="janmars" creationdate="20230327T104100Z">
@@ -5390,6 +5398,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211547Z" creationid="littlewhitedirect" creationdate="20230331T211547Z">
         <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No GPG key found for key ID ''{0}''; check or set git config user.signingKey</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T212347Z" creationid="littlewhitedirect" creationdate="20230331T212347Z">
+        <seg>Nie znaleziono GPG dla klucza ID ''{0}''; sprawdź lub ustaw użytkownika git user.signingKey</seg>
       </tuv>
     </tu>
     <tu>
