@@ -1313,6 +1313,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All preferences protected by the master password will be reset.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211221Z" creationid="littlewhitedirect" creationdate="20230331T211221Z">
+        <seg>Wszystkie preferencje chronione przez hasło główne zostaną zresetowane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow local external search commands</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T205316Z">
@@ -1466,6 +1474,14 @@
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165532Z" creationid="biegajacy-zajac" creationdate="20230321T161621Z">
         <seg>Zastosuj i napraw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to reset the master password?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211148Z" creationid="littlewhitedirect" creationdate="20230331T211148Z">
+        <seg>Czy jesteś pewien, że chcesz zresetować hasło główne?</seg>
       </tuv>
     </tu>
     <tu>
