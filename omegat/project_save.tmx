@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26,6 +26,14 @@
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084650Z">
         <seg>&amp;Add</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Add Files...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T162127Z" creationid="luizakolosa" creationdate="20230331T162127Z">
+        <seg>&amp;Dodaj pliki...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1630,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clo&amp;se</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T162250Z" creationid="luizakolosa" creationdate="20230331T162250Z">
+        <seg>Zamknij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Close</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T201523Z" creationid="JU" creationdate="20230330T201523Z">
@@ -3012,6 +3028,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filter:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T162136Z" creationid="luizakolosa" creationdate="20230331T162136Z">
+        <seg>Filtr:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filters...</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T202103Z" creationid="JU" creationdate="20230330T202103Z">
@@ -4162,10 +4186,34 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move &amp;Down</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T161732Z" creationid="luizakolosa" creationdate="20230331T161732Z">
+        <seg>Przenieś &amp;w dół</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move &amp;First</seg>
       </tuv>
-      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T161623Z" creationid="luizakolosa" creationdate="20230331T161623Z">
-        <seg>Umieść &amp;First</seg>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T161637Z" creationid="luizakolosa" creationdate="20230331T161623Z">
+        <seg>Umieść w&amp;Pierwszym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;Last</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T162116Z" creationid="luizakolosa" creationdate="20230331T162116Z">
+        <seg>Przenieś &amp;ostatni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;Up</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T161712Z" creationid="luizakolosa" creationdate="20230331T161625Z">
+        <seg>Przenieś &amp;wyżej</seg>
       </tuv>
     </tu>
     <tu>
