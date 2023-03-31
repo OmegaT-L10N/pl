@@ -2841,6 +2841,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable history &amp;prediction</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T180957Z" creationid="klaudiakempa" creationdate="20230331T180957Z">
+        <seg>Włącz przewidywanie &amp;historii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable them in Preferences &gt; Saving and Output....</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T071654Z" creationid="tobkub" creationdate="20230328T071325Z">
@@ -3796,6 +3804,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T165411Z" creationid="klaudiakempa" creationdate="20230331T165411Z">
         <seg>Podświetl segmenty &amp;z notatkami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T181010Z" creationid="klaudiakempa" creationdate="20230331T181010Z">
+        <seg>Historia</seg>
       </tuv>
     </tu>
     <tu>
