@@ -2356,6 +2356,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Event: application shutdown</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T134638Z" creationid="leoi23" creationdate="20230331T134638Z">
+        <seg>Zdarzenie: zamknięcie aplikacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Event: application startup</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230321T143011Z" creationid="leoi23" creationdate="20230321T143011Z">
