@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T173749Z" creationid="klaudiakempa" creationdate="20230331T173749Z">
+        <seg>&amp;Tłumaczenie maszynowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Match Statistics</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T173116Z" creationid="klaudiakempa" creationdate="20230331T173116Z">
@@ -502,10 +510,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T173606Z" creationid="klaudiakempa" creationdate="20230331T173606Z">
+        <seg>&amp;Opcje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Preferences...</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T071339Z" creationid="tobkub" creationdate="20230328T071339Z">
-        <seg>&amp;Preferences...</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T173701Z" creationid="tobkub" creationdate="20230328T071339Z">
+        <seg>&amp;Ustawienia...</seg>
       </tuv>
     </tu>
     <tu>
