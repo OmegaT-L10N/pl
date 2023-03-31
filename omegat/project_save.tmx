@@ -6286,6 +6286,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source of Selected &amp;Match</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T161525Z" creationid="klaudiakempa" creationdate="20230331T161525Z">
+        <seg>Źródło wybranego &amp;dopasowania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source/translation length (characters)</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T153416Z" creationid="luizakolosa" creationdate="20230331T153416Z">
