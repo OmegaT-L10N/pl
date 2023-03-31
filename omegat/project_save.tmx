@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16,8 +16,8 @@
       <tuv lang="EN">
         <seg>&amp;Access Project Contents</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230321T160955Z" creationid="janmars" creationdate="20230321T160955Z">
-        <seg>&amp;Access Project Contents</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153630Z" creationid="janmars" creationdate="20230321T160955Z">
+        <seg>&amp;Dostęp do treści projektu</seg>
       </tuv>
     </tu>
     <tu>
@@ -400,8 +400,8 @@
       <tuv lang="EN">
         <seg>&amp;Properties...</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230321T160949Z" creationid="janmars" creationdate="20230321T160949Z">
-        <seg>&amp;Properties...</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153436Z" creationid="janmars" creationdate="20230321T160949Z">
+        <seg>&amp;Właściwości...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1739,6 +1739,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153403Z" creationid="sandraczapska" creationdate="20230330T203624Z">
         <seg>Utwórz aktualnie tłumaczony dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create MED Project...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153421Z" creationid="sandraczapska" creationdate="20230331T153421Z">
+        <seg>Utwórz projekt MED...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4115,6 +4123,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open MED Project...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153415Z" creationid="sandraczapska" creationdate="20230331T153415Z">
+        <seg>Otwórz projekt MED...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open Project</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070858Z" creationid="tobkub" creationdate="20230328T070858Z">
@@ -5447,8 +5463,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>So&amp;urce Files...</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230321T160951Z" creationid="janmars" creationdate="20230321T160951Z">
-        <seg>So&amp;urce Files...</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153448Z" creationid="janmars" creationdate="20230321T160951Z">
+        <seg>Pliki źródłowe...</seg>
       </tuv>
     </tu>
     <tu>
