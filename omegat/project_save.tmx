@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Cycle</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T160425Z" creationid="sandraczapska" creationdate="20230331T160425Z">
+        <seg>&amp;Cycle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Dictionaries</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153659Z" creationid="sandraczapska" creationdate="20230328T090806Z">
@@ -550,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Sentence case</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T160418Z" creationid="sandraczapska" creationdate="20230331T160418Z">
+        <seg>&amp;Sentence case</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Sheet names</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190254Z" creationid="ZOO" creationdate="20230324T190254Z">
@@ -606,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;UPPER CASE</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T160302Z" creationid="sandraczapska" creationdate="20230331T160302Z">
+        <seg>&amp;WIELKIE LITERY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Undo Changes</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194652Z" creationid="biegajacy-zajac" creationdate="20230321T194652Z">
@@ -634,6 +658,14 @@
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230331T154829Z" creationid="sandraczapska" creationdate="20230330T203628Z">
         <seg>&amp;Nadpisywalny glosariusz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;lower case</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T160246Z" creationid="sandraczapska" creationdate="20230331T160246Z">
+        <seg>&amp;małe litery</seg>
       </tuv>
     </tu>
     <tu>
@@ -1827,8 +1859,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T155715Z" creationid="sandraczapska" creationdate="20230331T155715Z">
-        <seg>Create &amp;Glossary Entry...</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T160001Z" creationid="sandraczapska" creationdate="20230331T155715Z">
+        <seg>Wprowadź hasło do glosariusza...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5243,8 +5275,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Replace...</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090639Z" creationid="sandraczapska" creationdate="20230328T090639Z">
-        <seg>Zamień...</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T160047Z" creationid="sandraczapska" creationdate="20230328T090639Z">
+        <seg>Zastąp...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5366,6 +5398,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190432Z" creationid="ZOO" creationdate="20230324T190432Z">
         <seg>Komentarze &amp;do slajdów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>S&amp;witch Case to</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T160216Z" creationid="sandraczapska" creationdate="20230331T160216Z">
+        <seg>Zmień wielkość liter na</seg>
       </tuv>
     </tu>
     <tu>
@@ -5540,8 +5580,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Search Dictionaries</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090641Z" creationid="sandraczapska" creationdate="20230328T090641Z">
-        <seg>Search Dictionaries</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T160146Z" creationid="sandraczapska" creationdate="20230328T090641Z">
+        <seg>Przeszukaj słowniki</seg>
       </tuv>
     </tu>
     <tu>
