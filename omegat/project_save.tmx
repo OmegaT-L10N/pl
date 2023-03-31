@@ -112,8 +112,8 @@
       <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203228Z" creationid="sandraczapska" creationdate="20230328T081513Z">
-        <seg>&amp;Zakończ</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T152121Z" creationid="sandraczapska" creationdate="20230328T081513Z">
+        <seg>&amp;Zamknij</seg>
       </tuv>
     </tu>
     <tu>
@@ -450,6 +450,14 @@
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T190048Z" creationid="Maja" creationdate="20230330T190048Z">
         <seg>&amp;Uruchom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Save</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T151911Z" creationid="sandraczapska" creationdate="20230331T151911Z">
+        <seg>&amp;Zapisz</seg>
       </tuv>
     </tu>
     <tu>
@@ -803,24 +811,24 @@
       <tuv lang="EN">
         <seg>Add Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T202830Z" creationid="sandraczapska" creationdate="20230328T090616Z">
-        <seg>Dodaj pliki do katalogu źródłowego...</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T152047Z" creationid="sandraczapska" creationdate="20230328T090616Z">
+        <seg>Dodaj pliki do folderu źródłowego...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Add MediaWiki Pa&amp;ge...</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T202836Z" creationid="sandraczapska" creationdate="20230330T202836Z">
-        <seg>Add MediaWiki Pa&amp;ge...</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T152111Z" creationid="sandraczapska" creationdate="20230330T202836Z">
+        <seg>Dodaj Add MediaWiki Pa&amp;ge...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Add MediaWiki Page</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T202930Z" creationid="sandraczapska" creationdate="20230330T202930Z">
-        <seg>Add MediaWiki Page</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T152027Z" creationid="sandraczapska" creationdate="20230330T202930Z">
+        <seg>Dodaj Add MediaWiki Page</seg>
       </tuv>
     </tu>
     <tu>
