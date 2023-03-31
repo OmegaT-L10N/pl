@@ -5301,6 +5301,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT needs to reload the project to take the modifications into account.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T181134Z" creationid="klaudiakempa" creationdate="20230331T181134Z">
+        <seg>OmegaT musi załadować ponownie projekt, aby uwzględnić modyfikacje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT options:</seg>
       </tuv>
       <tuv lang="PL" changeid="Dell" changedate="20230321T142210Z" creationid="Dell" creationdate="20230321T142210Z">
@@ -6039,6 +6047,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T200037Z" creationid="biegajacy-zajac" creationdate="20230321T194940Z">
         <seg>Aby zastosować te zmiany, ponownie załaduj bieżący projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reload the project now?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T181307Z" creationid="klaudiakempa" creationdate="20230331T181307Z">
+        <seg>Czy chcesz teraz wczytać ponownie projekt?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7631,6 +7647,14 @@ But others await</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104153Z" creationid="janmars" creationdate="20230327T104153Z">
         <seg>Zmiana w tłumaczeniu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Theme:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T181028Z" creationid="klaudiakempa" creationdate="20230331T181028Z">
+        <seg>Motyw:</seg>
       </tuv>
     </tu>
     <tu>
