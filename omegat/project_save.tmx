@@ -1456,8 +1456,8 @@
       <tuv lang="EN">
         <seg>Co&amp;mmit Source Files</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203306Z" creationid="sandraczapska" creationdate="20230330T203306Z">
-        <seg>Co&amp;mmit Source Files</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153211Z" creationid="sandraczapska" creationdate="20230330T203306Z">
+        <seg>Prześlij pliki źródłowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -1472,8 +1472,8 @@
       <tuv lang="EN">
         <seg>Comm&amp;it Target Files</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T144300Z" creationid="sandraczapska" creationdate="20230331T144300Z">
-        <seg>Comm&amp;it Target Files</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153221Z" creationid="sandraczapska" creationdate="20230331T144300Z">
+        <seg>Prześlij pliki docelowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -1713,16 +1713,16 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Create &amp;Translated Files</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081531Z" creationid="sandraczapska" creationdate="20230328T081531Z">
-        <seg>Create &amp;Translated Files</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153312Z" creationid="sandraczapska" creationdate="20230328T081531Z">
+        <seg>&amp;Utwórz dokumenty docelowe</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Create Current Translate&amp;d File</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203624Z" creationid="sandraczapska" creationdate="20230330T203624Z">
-        <seg>Create Current Translate&amp;d File</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153403Z" creationid="sandraczapska" creationdate="20230330T203624Z">
+        <seg>Utwórz aktualnie tłumaczony dokument</seg>
       </tuv>
     </tu>
     <tu>
