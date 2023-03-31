@@ -32,8 +32,8 @@
       <tuv lang="EN">
         <seg>&amp;Add</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084650Z">
-        <seg>&amp;Add</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T205418Z">
+        <seg>&amp;Dodaj</seg>
       </tuv>
     </tu>
     <tu>
@@ -1307,8 +1307,8 @@
       <tuv lang="EN">
         <seg>Allow local external search commands</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T065338Z">
-        <seg>Allow local external search commands</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T205316Z">
+        <seg>Umożliwij zewnętrzne wyszukiwanie lokalne</seg>
       </tuv>
     </tu>
     <tu>
@@ -2151,8 +2151,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Context menu priority:</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170137Z" creationid="littlewhitedirect" creationdate="20230321T165923Z">
-        <seg>Priorytet menu kontekstowego:</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T205406Z" creationid="littlewhitedirect" creationdate="20230321T165923Z">
+        <seg>Priorytet z menu kontekstowego:</seg>
       </tuv>
     </tu>
     <tu>
