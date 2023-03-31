@@ -5979,6 +5979,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugins</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211226Z" creationid="littlewhitedirect" creationdate="20230331T211226Z">
+        <seg>Wtyczki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Poisson</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T203103Z" creationid="JU" creationdate="20230330T203103Z">
