@@ -1770,6 +1770,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Call to external program was interrupted: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T212533Z" creationid="littlewhitedirect" creationdate="20230331T212533Z">
+        <seg>Połączenie z programem zewnętrznym zostało przerwane: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Camtasia for Windows</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155049Z" creationid="maciej-pqr" creationdate="20230331T155049Z">
@@ -1814,6 +1822,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T065114Z">
         <seg>Nie można utworzyć katalogu dla plików docelowych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot prepare GPG environment properly</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T212610Z" creationid="littlewhitedirect" creationdate="20230331T212610Z">
+        <seg>Nie można prawidłowo przygotować środowiska GPG</seg>
       </tuv>
     </tu>
     <tu>
