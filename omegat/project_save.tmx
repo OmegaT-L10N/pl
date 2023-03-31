@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Align Files...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T173242Z" creationid="klaudiakempa" creationdate="20230331T173242Z">
+        <seg>Wyrównanie plików </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Allow blank target segments</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190939Z" creationid="ZOO" creationdate="20230324T190939Z">
@@ -6312,6 +6320,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T190834Z" creationid="Maja" creationdate="20230330T190834Z">
         <seg>Wyniki skryptu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scriptin&amp;g...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T173550Z" creationid="klaudiakempa" creationdate="20230331T173550Z">
+        <seg>Skryptowanie...</seg>
       </tuv>
     </tu>
     <tu>
