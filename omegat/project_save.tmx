@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4165,6 +4165,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Loading TMX files...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T171127Z" creationid="luizakolosa" creationdate="20230331T171032Z">
+        <seg>Ładowanie plików TMX ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading glossary {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185227Z" creationid="ZOO" creationdate="20230324T185227Z">
@@ -6763,8 +6771,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
       </tuv>
-      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T171031Z" creationid="luizakolosa" creationdate="20230331T171031Z">
-        <seg>Pliki źródłowe zostały załadowane, ale niektóre zostały pominięte z powodu błędów filtrów plików </seg>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T171034Z" creationid="luizakolosa" creationdate="20230331T171031Z">
+        <seg>Pliki źródłowe zostały załadowane, ale niektóre zostały pominięte z powodu błędów filtrów </seg>
       </tuv>
     </tu>
     <tu>
