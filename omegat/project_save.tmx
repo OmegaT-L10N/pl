@@ -1618,6 +1618,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Break/exception</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230331T190313Z" creationid="ghuzytkownik" creationdate="20230331T190313Z">
+        <seg>Segmentacja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bro&amp;wse...</seg>
       </tuv>
       <tuv lang="pl" changeid="tobkub" changedate="20230328T071736Z" creationid="tobkub" creationdate="20230328T071724Z">
@@ -1754,6 +1762,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Catalan</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230331T190144Z" creationid="ghuzytkownik" creationdate="20230331T190144Z">
+        <seg>Kataloński</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changed by</seg>
       </tuv>
       <tuv lang="pl" changeid="JU" changedate="20230330T184440Z" creationid="JU" creationdate="20230330T184440Z">
@@ -1854,6 +1870,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="pl" changeid="biegajacy-zajac" changedate="20230321T165156Z" creationid="biegajacy-zajac" creationdate="20230321T161522Z">
         <seg>Sprawdź {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chinese</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230331T190134Z" creationid="ghuzytkownik" creationdate="20230331T190134Z">
+        <seg>Chiński</seg>
       </tuv>
     </tu>
     <tu>
@@ -2369,6 +2393,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="pl" changeid="Maja" changedate="20230328T072809Z" creationid="Maja" creationdate="20230328T072809Z">
         <seg>Wytnij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230331T190148Z" creationid="ghuzytkownik" creationdate="20230331T190148Z">
+        <seg>Czeski</seg>
       </tuv>
     </tu>
     <tu>
@@ -4464,7 +4496,23 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language name</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230331T190347Z" creationid="ghuzytkownik" creationdate="20230331T190347Z">
+        <seg>Nazwa języka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language not specified for translation unit variant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language pattern</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230331T190339Z" creationid="ghuzytkownik" creationdate="20230331T190339Z">
+        <seg>Wzorzec języka</seg>
       </tuv>
     </tu>
     <tu>
@@ -5779,6 +5827,22 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pattern after</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230331T190247Z" creationid="ghuzytkownik" creationdate="20230331T190203Z">
+        <seg>Po</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pattern before</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230331T190242Z" creationid="ghuzytkownik" creationdate="20230331T190242Z">
+        <seg>Przed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pattern...</seg>
       </tuv>
       <tuv lang="pl" changeid="JU" changedate="20230330T202107Z" creationid="JU" creationdate="20230330T202107Z">
@@ -5815,6 +5879,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="pl" changeid="JU" changedate="20230330T203103Z" creationid="JU" creationdate="20230330T203103Z">
         <seg>Poisson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230331T190117Z" creationid="ghuzytkownik" creationdate="20230331T190117Z">
+        <seg>Polski</seg>
       </tuv>
     </tu>
     <tu>
@@ -6540,6 +6612,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Russian</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230331T190121Z" creationid="ghuzytkownik" creationdate="20230331T190121Z">
+        <seg>Rosyjski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>S&amp;lide comments</seg>
       </tuv>
       <tuv lang="pl" changeid="ZOO" changedate="20230324T190432Z" creationid="ZOO" creationdate="20230324T190432Z">
@@ -7153,6 +7233,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230331T190130Z" creationid="ghuzytkownik" creationdate="20230331T190130Z">
+        <seg>Słowacki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>So&amp;urce Files...</seg>
       </tuv>
       <tuv lang="pl" changeid="sandraczapska" changedate="20230331T153448Z" creationid="janmars" creationdate="20230321T160951Z">
@@ -7522,6 +7610,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="pl" changeid="JU" changedate="20230330T201444Z" creationid="JU" creationdate="20230330T201444Z">
         <seg>Wspierane pliki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Swedish</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230331T190126Z" creationid="ghuzytkownik" creationdate="20230331T190126Z">
+        <seg>Szwedzki</seg>
       </tuv>
     </tu>
     <tu>
