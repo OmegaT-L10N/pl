@@ -616,8 +616,8 @@
       <tuv lang="EN">
         <seg>&amp;Title Case</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203636Z" creationid="sandraczapska" creationdate="20230330T203636Z">
-        <seg>&amp;Title Case</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T160730Z" creationid="sandraczapska" creationdate="20230330T203636Z">
+        <seg>&amp;wielkie pierwsze litery</seg>
       </tuv>
     </tu>
     <tu>
@@ -5665,8 +5665,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Select &amp;Next Match</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090634Z" creationid="sandraczapska" creationdate="20230328T090634Z">
-        <seg>Select &amp;Next Match</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T160553Z" creationid="sandraczapska" creationdate="20230328T090634Z">
+        <seg>Wybierz następne dopasowanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -5683,6 +5683,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T193856Z" creationid="biegajacy-zajac" creationdate="20230321T164552Z">
         <seg>Wybierz typ problemu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Mat&amp;ch</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T160600Z" creationid="sandraczapska" creationdate="20230331T160541Z">
+        <seg>Wybierz dopasowanie</seg>
       </tuv>
     </tu>
     <tu>
