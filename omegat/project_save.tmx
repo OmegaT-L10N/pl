@@ -184,8 +184,8 @@
       <tuv lang="EN">
         <seg>&amp;Cycle</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T160425Z" creationid="sandraczapska" creationdate="20230331T160425Z">
-        <seg>&amp;Cycle</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T160753Z" creationid="sandraczapska" creationdate="20230331T160425Z">
+        <seg>&amp;Zmieniaj cyklicznie</seg>
       </tuv>
     </tu>
     <tu>
@@ -362,6 +362,14 @@
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084654Z" creationid="sandraczapska" creationdate="20230328T084654Z">
         <seg>&amp;Insert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T161441Z" creationid="sandraczapska" creationdate="20230331T161441Z">
+        <seg>&amp;Wstaw dopasowanie lub zaznaczenie</seg>
       </tuv>
     </tu>
     <tu>
@@ -648,8 +656,8 @@
       <tuv lang="EN">
         <seg>&amp;Sentence case</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T160418Z" creationid="sandraczapska" creationdate="20230331T160418Z">
-        <seg>&amp;Sentence case</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T161015Z" creationid="sandraczapska" creationdate="20230331T160418Z">
+        <seg>&amp;małe pierwsze litery</seg>
       </tuv>
     </tu>
     <tu>
@@ -812,6 +820,22 @@
 	- wybierz Projekt &gt; Pliki źródłowe... i kliknij Dodaj pliki...;
 	- użyj menedżera plików, aby skopiować pliki do folderu 'źródłowego',
 	  następnie wybierz Projekt &gt; Odśwież, aby załadować ponownie projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- verify that their format is supported by OmegaT:
+	  if per-project filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T165332Z" creationid="sandraczapska" creationdate="20230331T162723Z">
+        <seg>- sprawdź, czy format plików jest obsługiwany przez program OmegaT:
+	  jeśli włączone są ustawienia filtrów dla projektu
+	  wybierz Projekt &gt; Właściwości... &gt; Local File Filters...,
+	  jeśli nie, wybierz Opcje &gt; Globalne filtry plików...;
+	- otwórz je w ... i sprawdź czy nie są puste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3534,8 +3558,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>If the project contains files but their content is not displayed here:</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084634Z" creationid="sandraczapska" creationdate="20230328T084634Z">
-        <seg>If the project contains files but their content is not displayed here:</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T163851Z" creationid="sandraczapska" creationdate="20230328T084634Z">
+        <seg>Jeśli projekt zawiera pliki, ale ich zawartość nie jest wyświetlana:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4759,8 +4783,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>OmegaT automatically chose the 'Yes' option.</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T151342Z" creationid="sandraczapska" creationdate="20230331T151342Z">
-        <seg>OmegaT automatically chose the 'Yes' option.</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T162221Z" creationid="sandraczapska" creationdate="20230331T151342Z">
+        <seg>OmegaT automatycznie wybrał opcję 'Tak'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5436,8 +5460,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>R&amp;eplace with Match or Selection</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T154302Z" creationid="sandraczapska" creationdate="20230331T154302Z">
-        <seg>R&amp;eplace with Match or Selection</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T161507Z" creationid="sandraczapska" creationdate="20230331T154302Z">
+        <seg>Zastąp dopasowaniem lub zaznaczeniem</seg>
       </tuv>
     </tu>
     <tu>
@@ -5982,8 +6006,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Se&amp;lect Source Text</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T155330Z" creationid="sandraczapska" creationdate="20230331T155330Z">
-        <seg>Se&amp;lect Source Text</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T161333Z" creationid="sandraczapska" creationdate="20230331T155330Z">
+        <seg>Zaznacz tekst źródłowy</seg>
       </tuv>
     </tu>
     <tu>
