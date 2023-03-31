@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -426,6 +426,14 @@
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081521Z">
         <seg>&amp;Remove</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T153302Z" creationid="maciej-pqr" creationdate="20230331T153302Z">
+        <seg>&amp;Usuń nieprzetłumaczone ciągi znaków w plikach docelowych</seg>
       </tuv>
     </tu>
     <tu>
@@ -2256,6 +2264,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Encountered illegal \u sequence</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T153108Z" creationid="maciej-pqr" creationdate="20230331T153108Z">
+        <seg>Napotkano niedozwolony ciąg \u</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>End Pinpoint Align</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T201813Z" creationid="JU" creationdate="20230330T201813Z">
@@ -3238,6 +3254,22 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185500Z" creationid="ZOO" creationdate="20230324T185500Z">
         <seg>Jar zastosowano dla wtyczek: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java Resource Bundles</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T153055Z" creationid="maciej-pqr" creationdate="20230331T153055Z">
+        <seg>Pakiety zasobów Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java Resource Bundles Filter Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T153157Z" creationid="maciej-pqr" creationdate="20230331T153157Z">
+        <seg>Opcje filtra pakietów zasobów Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -6706,6 +6738,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190603Z" creationid="ZOO" creationdate="20230324T190603Z">
         <seg>WordAr&amp;t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wordfast TXML</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T152423Z" creationid="maciej-pqr" creationdate="20230331T152423Z">
+        <seg>Wordfast TXML</seg>
       </tuv>
     </tu>
     <tu>
