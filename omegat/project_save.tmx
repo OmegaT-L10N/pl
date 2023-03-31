@@ -3300,6 +3300,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to commit source files!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T182241Z" creationid="klaudiakempa" creationdate="20230331T182241Z">
+        <seg>Wysyłanie plików źródłowych nie powiodło się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to copy files</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203126Z" creationid="sandraczapska" creationdate="20230330T203126Z">
