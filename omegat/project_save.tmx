@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Copy Support Info</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T160610Z" creationid="maciej-pqr" creationdate="20230331T160610Z">
+        <seg>&amp;Kopiuj informacje o pomocy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Current Source File</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230331T155023Z" creationid="sandraczapska" creationdate="20230331T154011Z">
@@ -1593,8 +1601,8 @@
         <seg>Code has been contributed by:
 {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155835Z" creationid="maciej-pqr" creationdate="20230331T155835Z">
-        <seg>Code has been contributed by:
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T160456Z" creationid="maciej-pqr" creationdate="20230331T155835Z">
+        <seg>Kod powstał dzięki udziałowi następujących osób:
 {0}</seg>
       </tuv>
     </tu>
@@ -2213,6 +2221,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T153330Z" creationid="luizakolosa" creationdate="20230331T153330Z">
         <seg>Czy na pewno chcesz zamknąć?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you really want to remove pattern {0}?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T160846Z" creationid="maciej-pqr" creationdate="20230331T160846Z">
+        <seg>Czy na pewno chcesz usunąć wzorzec? {0}?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2904,6 +2920,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185816Z" creationid="ZOO" creationdate="20230324T185816Z">
         <seg>Nie można wczytać filtru '{0}' z '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter Settings</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T160822Z" creationid="maciej-pqr" creationdate="20230331T160822Z">
+        <seg>Ustawienia filtra</seg>
       </tuv>
     </tu>
     <tu>
@@ -3705,6 +3729,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Last changes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T160653Z" creationid="maciej-pqr" creationdate="20230331T160653Z">
+        <seg>Ostatnie zmiany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Last modified by {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T160110Z" creationid="luizakolosa" creationdate="20230331T155959Z">
@@ -3829,6 +3861,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230330T182914Z">
         <seg>Polecenia projektów lokalnych są wyłączone ze względów bezpieczeństwa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Log:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T160720Z" creationid="maciej-pqr" creationdate="20230331T160720Z">
+        <seg>Dziennik:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4453,6 +4493,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT license</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T160642Z" creationid="maciej-pqr" creationdate="20230331T160642Z">
+        <seg>Licencja OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT options:</seg>
       </tuv>
       <tuv lang="PL" changeid="Dell" changedate="20230321T142210Z" creationid="Dell" creationdate="20230321T142210Z">
@@ -4465,6 +4513,16 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230330T154815Z" creationid="sandraczapska" creationdate="20230328T081503Z">
         <seg>OmegaT ma za mało pamięci i zamknie się po naciśnięciu OK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses the following libraries:
+{1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T160413Z" creationid="maciej-pqr" creationdate="20230331T160053Z">
+        <seg>Program OmegaT wykorzystuje następujące biblioteki:
+{1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4591,8 +4649,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Other contributions are detailed in the readme.txt file</seg>
       </tuv>
-      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155927Z" creationid="maciej-pqr" creationdate="20230331T155927Z">
-        <seg>Other contributions are detailed in the readme.txt file</seg>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T160442Z" creationid="maciej-pqr" creationdate="20230331T155927Z">
+        <seg>Udział innych osób jest wymieniony w pliku readme.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -5615,6 +5673,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See /docs/contributors.txt</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T160516Z" creationid="maciej-pqr" creationdate="20230331T160414Z">
+        <seg>Więcej informacji w /docs/contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See /docs/libraries.txt</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T160527Z" creationid="maciej-pqr" creationdate="20230331T160527Z">
+        <seg>Więcej informacji w /docs/libraries.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Help &gt; User Manual for details, including available Java options.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T101954Z">
@@ -6601,6 +6675,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103340Z" creationid="janmars" creationdate="20230327T103340Z">
         <seg>To jest poprawny plik projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T160808Z" creationid="maciej-pqr" creationdate="20230331T160808Z">
+        <seg>Ten program jest rozpowszechniany w nadziei, że będzie użyteczny, ale BEZ JAKIEJKOLWIEK GWARANCJI; nawet bez domyślnej gwarancji PRZYDATNOŚCI HANDLOWEJ albo PRZYDATNOŚCI DO OKREŚLONYCH ZASTOSOWAŃ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T160747Z" creationid="maciej-pqr" creationdate="20230331T160747Z">
+        <seg>Ten program jest darmowym oprogramowaniem; można go rozprowadzać dalej lub/i modyfikować zgodnie z warunkami GNU General Public License opublikowanymi przez Free Software Foundation; wersja 2. Licencji lub jakakolwiek późniejsza.</seg>
       </tuv>
     </tu>
     <tu>
