@@ -814,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add to Dictionary</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T135537Z" creationid="leoi23" creationdate="20230331T135537Z">
+        <seg>Dodaj do słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add to Dictionary: “{0}”</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165354Z" creationid="biegajacy-zajac" creationdate="20230321T161526Z">
@@ -1616,6 +1624,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T065022Z">
         <seg>Nie można było utworzyć katalogu projektu {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not delete {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T135511Z" creationid="leoi23" creationdate="20230331T135511Z">
+        <seg>Nie można usunąć {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2943,6 +2959,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore All</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T135525Z" creationid="leoi23" creationdate="20230331T135525Z">
+        <seg>Ignoruj wszystkie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore: “{0}”</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165358Z" creationid="biegajacy-zajac" creationdate="20230321T161528Z">
@@ -3622,6 +3646,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No Suggestions</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T135516Z" creationid="leoi23" creationdate="20230331T135516Z">
+        <seg>Żadnych propozycji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No connection available, the project is in offline mode.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102516Z" creationid="janmars" creationdate="20230327T102516Z">
@@ -4242,6 +4274,30 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project closed</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T135359Z" creationid="leoi23" creationdate="20230331T135359Z">
+        <seg>Projekt zamknięty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project compiling end</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T135409Z" creationid="leoi23" creationdate="20230331T135409Z">
+        <seg>Koniec kompilowania projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project compiling start</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T135406Z" creationid="leoi23" creationdate="20230331T135406Z">
+        <seg>Start kompilowania projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project conversion failed.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102700Z" creationid="janmars" creationdate="20230327T102700Z">
@@ -4254,6 +4310,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102356Z">
         <seg>Konwersja projektu powiodła się. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project creating end</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T135430Z" creationid="leoi23" creationdate="20230331T135430Z">
+        <seg>Koniec tworzenia projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project creating start</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T135420Z" creationid="leoi23" creationdate="20230331T135420Z">
+        <seg>Start tworzenia projektu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5251,6 +5323,30 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T072006Z" creationid="tobkub" creationdate="20230328T072006Z">
         <seg>Podaj ich nową lokalizację lub stwórz je na nowo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellcheck the tr&amp;anslation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T135709Z" creationid="leoi23" creationdate="20230331T135709Z">
+        <seg>Sprawdź pisownię tł&amp;umaczenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellchecker</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T135612Z" creationid="leoi23" creationdate="20230331T135557Z">
+        <seg>Sprawdzanie pisowni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellchecker Setup</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T135547Z" creationid="leoi23" creationdate="20230331T135547Z">
+        <seg>Ustawienia sprawdzania pisowni</seg>
       </tuv>
     </tu>
     <tu>
