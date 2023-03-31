@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse Online</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211251Z" creationid="littlewhitedirect" creationdate="20230331T211251Z">
+        <seg>&amp;Przeglądaj online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Browse...</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T071705Z" creationid="tobkub" creationdate="20230328T071655Z">
