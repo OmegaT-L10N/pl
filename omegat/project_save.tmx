@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Go to Downloads</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211654Z" creationid="littlewhitedirect" creationdate="20230331T211654Z">
+        <seg>&amp;Przejdź do Pobranych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Help</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T175356Z" creationid="klaudiakempa" creationdate="20230331T175356Z">
@@ -1105,6 +1113,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211621Z" creationid="littlewhitedirect" creationdate="20230331T211621Z">
+        <seg>&lt;html&gt;Aktualna wersja: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Place the caret at the location where you want to split the text.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T202529Z" creationid="JU" creationdate="20230330T202529Z">
@@ -1125,6 +1141,14 @@
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164541Z" creationid="biegajacy-zajac" creationdate="20230321T161659Z">
         <seg>&lt;html&gt;Termin: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glosariusze:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211843Z" creationid="littlewhitedirect" creationdate="20230331T211551Z">
+        <seg>&lt;html&gt;Kanał aktualizacji: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1518,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211532Z" creationid="littlewhitedirect" creationdate="20230331T211532Z">
+        <seg>Autor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto &amp;replace plural specification</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191202Z" creationid="ZOO" creationdate="20230324T191202Z">
@@ -1554,6 +1586,14 @@
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230321T164832Z" creationid="MS" creationdate="20230321T164832Z">
         <seg>plik Autotekstu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Automatically check for updates</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211811Z" creationid="littlewhitedirect" creationdate="20230331T211811Z">
+        <seg>Automatyczne sprawdzanie aktualizacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -1866,10 +1906,26 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;automatically</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211715Z" creationid="littlewhitedirect" creationdate="20230331T211715Z">
+        <seg>Sprawdź &amp;automatycznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check Issues for &amp;Current File</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T173051Z" creationid="klaudiakempa" creationdate="20230331T173051Z">
         <seg>Wyświetlanie błędów dla &amp;wybranego pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211747Z" creationid="littlewhitedirect" creationdate="20230331T211747Z">
+        <seg>Sprawdź teraz</seg>
       </tuv>
     </tu>
     <tu>
@@ -3532,6 +3588,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to fetch latest version info: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211643Z" creationid="littlewhitedirect" creationdate="20230331T211643Z">
+        <seg>Nie udało się pobrać informacji o najnowszej wersji: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to load specified project!</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T181724Z" creationid="klaudiakempa" creationdate="20230331T181724Z">
@@ -4685,6 +4749,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Latest</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211818Z" creationid="littlewhitedirect" creationdate="20230331T211739Z">
+        <seg>Najnowsze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T154538Z" creationid="klaudiakempa" creationdate="20230331T154538Z">
@@ -5302,6 +5374,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T200307Z" creationid="JU" creationdate="20230330T200307Z">
         <seg>Brak komentarzy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211547Z" creationid="littlewhitedirect" creationdate="20230331T211547Z">
+        <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
       </tuv>
     </tu>
     <tu>
@@ -7726,6 +7806,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211549Z" creationid="littlewhitedirect" creationdate="20230331T211549Z">
+        <seg>Standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start Pinpoint Align</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T201802Z" creationid="JU" creationdate="20230330T201802Z">
@@ -8860,6 +8948,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Updates</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211626Z" creationid="littlewhitedirect" creationdate="20230331T211626Z">
+        <seg>Aktualizacje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
 	See --help.</seg>
       </tuv>
@@ -9015,6 +9111,14 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T184223Z" creationid="JU" creationdate="20230330T184223Z">
         <seg>Wartość</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211522Z" creationid="littlewhitedirect" creationdate="20230331T211522Z">
+        <seg>Wersja: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9288,6 +9392,14 @@ Your page is not found</seg>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T161557Z" creationid="luizakolosa" creationdate="20230331T161231Z">
         <seg>Szczegółowe dane statystyczne znajdziesz w pliku:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You currently have {1}.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211721Z" creationid="littlewhitedirect" creationdate="20230331T211721Z">
+        <seg>You currently have {1}.</seg>
       </tuv>
     </tu>
     <tu>
