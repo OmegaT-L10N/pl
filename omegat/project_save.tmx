@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -830,11 +830,11 @@
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T170153Z" creationid="sandraczapska" creationdate="20230331T162723Z">
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T171110Z" creationid="sandraczapska" creationdate="20230331T162723Z">
         <seg>- sprawdź, czy format plików jest obsługiwany przez program OmegaT:
 	  jeśli włączone są ustawienia filtrów dla projektu
-	  wybierz Projekt &gt; Właściwości... &gt; Local filtry plików...,
-	  jeśli nie, wybierz Opcje &gt; Globalne filtry plików...;
+	  wybierz Projekt &gt; Właściwości... &gt; Filtry plików...,
+	  jeśli nie, wybierz Opcje &gt; Filtry plików...;
 	- otwórz je w ich początkowej aplikacji i sprawdź, czy nie są puste.</seg>
       </tuv>
     </tu>
