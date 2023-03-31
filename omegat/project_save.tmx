@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1775,6 +1775,22 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cursor locked</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T152734Z" creationid="luizakolosa" creationdate="20230331T152734Z">
+        <seg>Kursor zablokowany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T152745Z" creationid="luizakolosa" creationdate="20230331T152745Z">
+        <seg>Kursor odblokowany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom branch</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103018Z">
@@ -3106,6 +3122,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Mode</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T153023Z" creationid="luizakolosa" creationdate="20230331T153023Z">
+        <seg>Tryb wstawiania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Install</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230328T070700Z">
@@ -4123,6 +4147,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Overwrite Mode</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T152829Z" creationid="luizakolosa" creationdate="20230331T152829Z">
+        <seg>Tryb zastępowania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>P&amp;roject Folder</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090758Z" creationid="sandraczapska" creationdate="20230328T090758Z">
@@ -4477,6 +4509,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project saved</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T152247Z" creationid="luizakolosa" creationdate="20230331T152247Z">
+        <seg>Projekt zapisany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project saving end</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230331T135319Z" creationid="leoi23" creationdate="20230331T135319Z">
@@ -4563,6 +4603,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T200037Z" creationid="biegajacy-zajac" creationdate="20230321T194940Z">
         <seg>Aby zastosować te zmiany, ponownie załaduj bieżący projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reload the project?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T152211Z" creationid="luizakolosa" creationdate="20230331T152211Z">
+        <seg>Chcesz ponownie załadować projekt?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4900,6 +4948,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103828Z" creationid="janmars" creationdate="20230327T102126Z">
         <seg>Opcje zapisu i wyjścia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving project...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T152233Z" creationid="luizakolosa" creationdate="20230331T152233Z">
+        <seg>Zapisywanie projektu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6760,8 +6816,8 @@ Your page is not found</seg>
       <tuv lang="EN">
         <seg>You must enter a number between 1 and {0}.</seg>
       </tuv>
-      <tuv lang="PL" changeid="luizakolosa" changedate="20230321T143458Z" creationid="luizakolosa" creationdate="20230321T143458Z">
-        <seg>You must enter a number between 1 and {0}.</seg>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T152114Z" creationid="luizakolosa" creationdate="20230321T143458Z">
+        <seg>Wybierz liczbę od 1 do {0}.</seg>
       </tuv>
     </tu>
     <tu>
