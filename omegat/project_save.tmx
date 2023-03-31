@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -98,6 +98,14 @@
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195327Z" creationid="biegajacy-zajac" creationdate="20230321T195327Z">
         <seg>&amp;Automatycznie pobieraj tłumaczenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Back in History</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T161558Z" creationid="klaudiakempa" creationdate="20230331T161558Z">
+        <seg>&amp;poprzedni segment w historii</seg>
       </tuv>
     </tu>
     <tu>
@@ -290,6 +298,14 @@
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T151904Z">
         <seg>&amp;Użyj skrótu "&lt;f &gt;"  dla znacznika &lt;it pos="end"&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Forward in History</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T161703Z" creationid="klaudiakempa" creationdate="20230331T161703Z">
+        <seg>&amp;Następny segment w historii</seg>
       </tuv>
     </tu>
     <tu>
