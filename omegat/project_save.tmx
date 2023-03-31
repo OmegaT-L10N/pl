@@ -4336,6 +4336,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installed plugins:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211314Z" creationid="littlewhitedirect" creationdate="20230331T211314Z">
+        <seg>Zainstalowane wtyczki:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insufficient permissions for project dir {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T065049Z">
@@ -5827,6 +5835,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190609Z" creationid="ZOO" creationdate="20230324T190609Z">
         <seg>Pozostałe opcje:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other plugins are available online.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211307Z" creationid="littlewhitedirect" creationdate="20230331T211307Z">
+        <seg>Inne wtyczki są dostępne online.</seg>
       </tuv>
     </tu>
     <tu>
