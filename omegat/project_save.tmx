@@ -7863,6 +7863,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uncheck the box to disable it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230331T172336Z" creationid="ghuzytkownik" creationdate="20230331T172336Z">
+        <seg>Aby wyłączyć filtr usuń zaznaczenie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique Characters (w/ spaces)</seg>
       </tuv>
       <tuv lang="pl" changeid="tobkub" changedate="20230328T070531Z" creationid="tobkub" creationdate="20230328T070531Z">
