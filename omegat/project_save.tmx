@@ -5405,6 +5405,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not assigned</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T210300Z" creationid="littlewhitedirect" creationdate="20230331T210300Z">
+        <seg>Nie przypisano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T184551Z" creationid="JU" creationdate="20230330T184551Z">
