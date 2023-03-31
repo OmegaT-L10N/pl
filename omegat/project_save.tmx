@@ -792,8 +792,8 @@
       <tuv lang="EN">
         <seg>&amp;Show in Editor context menu</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170547Z" creationid="littlewhitedirect" creationdate="20230321T170547Z">
-        <seg>&amp;Show in Editor context menu</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T205643Z" creationid="littlewhitedirect" creationdate="20230321T170547Z">
+        <seg>&amp;Pokaż w menu kontekstowym edytora</seg>
       </tuv>
     </tu>
     <tu>
