@@ -1914,6 +1914,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T210450Z" creationid="littlewhitedirect" creationdate="20230331T210450Z">
+        <seg>Usuń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clear Mark</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T201643Z" creationid="JU" creationdate="20230330T201643Z">
@@ -6085,6 +6093,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press the keyboard shortcut you wish to assign, then click OK.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T210406Z" creationid="littlewhitedirect" creationdate="20230331T210406Z">
+        <seg>Wybierz skrót na klawiaturze, który chcesz przypisać i kliknij OK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T184432Z" creationid="JU" creationdate="20230330T184432Z">
@@ -6925,6 +6941,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103909Z" creationid="janmars" creationdate="20230327T103909Z">
         <seg>Sekundy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secure Store</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T210521Z" creationid="littlewhitedirect" creationdate="20230331T210521Z">
+        <seg>Bezpieczne przechowywanie danych</seg>
       </tuv>
     </tu>
     <tu>
