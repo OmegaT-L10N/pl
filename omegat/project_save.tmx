@@ -5706,6 +5706,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target segment status</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T152139Z" creationid="maciej-pqr" creationdate="20230331T152139Z">
+        <seg>Status segmentu docelowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Team synchronization...</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103100Z" creationid="janmars" creationdate="20230327T103100Z">
@@ -6442,6 +6450,14 @@ The current setting is {0}MB;</seg>
         <seg>Użyj "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" z wiersza 
 poleceń lub w skrypcie startowym OmegaT;
 Bieżące ustawienie to {0}MB;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T152418Z" creationid="maciej-pqr" creationdate="20230331T152418Z">
+        <seg>Użyj "needs-review-translation" zamiast "translated"</seg>
       </tuv>
     </tu>
     <tu>
