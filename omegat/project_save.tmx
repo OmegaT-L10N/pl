@@ -5429,6 +5429,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not set</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211105Z" creationid="littlewhitedirect" creationdate="20230331T211013Z">
+        <seg>Nieustawiony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T184551Z" creationid="JU" creationdate="20230330T184551Z">
@@ -6627,6 +6635,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reset Master Password</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211112Z" creationid="littlewhitedirect" creationdate="20230331T211112Z">
+        <seg>Resetuj hasło główne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Resource name</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T184527Z" creationid="JU" creationdate="20230330T184527Z">
@@ -7193,10 +7209,18 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211037Z" creationid="littlewhitedirect" creationdate="20230331T211037Z">
+        <seg>Ustawiony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set &amp; stored</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T065556Z" creationid="littlewhitedirect" creationdate="20230328T065556Z">
-        <seg>Set &amp; stored</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211026Z" creationid="littlewhitedirect" creationdate="20230328T065556Z">
+        <seg>Ustawienia &amp; zapis</seg>
       </tuv>
     </tu>
     <tu>
