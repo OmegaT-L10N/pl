@@ -1649,8 +1649,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Copy error to clipboard</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T151213Z" creationid="sandraczapska" creationdate="20230330T171850Z">
-        <seg>Kopiuj błąd do schowka</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T151403Z" creationid="sandraczapska" creationdate="20230330T171850Z">
+        <seg>Kopiuj treść błędu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3911,6 +3911,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T072127Z" creationid="tobkub" creationdate="20230328T072127Z">
         <seg>Pliki projektu OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT automatically chose the 'Yes' option.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T151342Z" creationid="sandraczapska" creationdate="20230331T151342Z">
+        <seg>OmegaT automatically chose the 'Yes' option.</seg>
       </tuv>
     </tu>
     <tu>
