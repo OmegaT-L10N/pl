@@ -1435,6 +1435,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comm&amp;it Target Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T144300Z" creationid="sandraczapska" creationdate="20230331T144300Z">
+        <seg>Comm&amp;it Target Files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Command</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170347Z" creationid="littlewhitedirect" creationdate="20230321T170321Z">
