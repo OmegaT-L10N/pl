@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;License</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155407Z" creationid="maciej-pqr" creationdate="20230331T155407Z">
+        <seg>&amp;Licencja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Line breaks</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185918Z" creationid="ZOO" creationdate="20230324T185918Z">
@@ -869,6 +877,14 @@
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230330T152125Z" creationid="sandraczapska" creationdate="20230330T152125Z">
         <seg>Abort: Exit with an error if tags invalid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>About OmegaT</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155352Z" creationid="maciej-pqr" creationdate="20230331T155352Z">
+        <seg>O programie OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -1755,6 +1771,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230331T151403Z" creationid="sandraczapska" creationdate="20230330T171850Z">
         <seg>Kopiuj treść błędu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright © 2000-2022 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155402Z" creationid="maciej-pqr" creationdate="20230331T155402Z">
+        <seg>Copyright © 2000-2022 Keith Godfrey, Maxym Mykhalchuk i inni</seg>
       </tuv>
     </tu>
     <tu>
@@ -2834,6 +2858,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Flash XML Export</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155319Z" creationid="maciej-pqr" creationdate="20230331T155301Z">
+        <seg>Eksport do pliku Flash XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Folder ID</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T183933Z" creationid="Maja" creationdate="20230330T183933Z">
@@ -3262,6 +3294,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070114Z" creationid="tobkub" creationdate="20230328T070114Z">
         <seg>Statystyki poszczególnych plików:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Infix</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155252Z" creationid="maciej-pqr" creationdate="20230331T155252Z">
+        <seg>Infix</seg>
       </tuv>
     </tu>
     <tu>
@@ -4291,6 +4331,22 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform computer-assisted translation (CAT) tool offering fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155547Z" creationid="maciej-pqr" creationdate="20230331T155547Z">
+        <seg>OmegaT jest wolnym (open source) narzędziem CAT (Computer Assisted Translation - tłumaczenie wspomagane komputerowo), działającym na różnych platformach, oferującym dopasowania rozmyte, pamięci tłumaczeniowe, wyszukiwanie słów kluczowych, glosariusze i przenoszenie tłumaczenia do uaktualnionych projektów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is the original work of Keith Godfrey.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155555Z" creationid="maciej-pqr" creationdate="20230331T155555Z">
+        <seg>OmegaT jest oryginalnem dziełem Keitha Godfrey'a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT options:</seg>
       </tuv>
       <tuv lang="PL" changeid="Dell" changedate="20230321T142210Z" creationid="Dell" creationdate="20230321T142210Z">
@@ -4838,6 +4894,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155251Z" creationid="maciej-pqr" creationdate="20230331T155251Z">
+        <seg>Pliki QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>R&amp;eplace with Match or Selection</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230331T154302Z" creationid="sandraczapska" creationdate="20230331T154302Z">
@@ -5234,8 +5298,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>SVG / Adobe Illustrator Export</seg>
       </tuv>
-      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155241Z" creationid="maciej-pqr" creationdate="20230331T155241Z">
-        <seg>Eksport plików SVG / Adobe Illustratort</seg>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155305Z" creationid="maciej-pqr" creationdate="20230331T155241Z">
+        <seg>Eksport do pliku SVG / Adobe Illustratort</seg>
       </tuv>
     </tu>
     <tu>
@@ -7190,6 +7254,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Wordpress XML export</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155329Z" creationid="maciej-pqr" creationdate="20230331T155329Z">
+        <seg>Export do pliku Wordpress XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Words</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T065957Z" creationid="tobkub" creationdate="20230328T065957Z">
@@ -7432,6 +7504,22 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161521Z" creationid="biegajacy-zajac" creationdate="20230321T161521Z">
         <seg>{0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} version {1} ({2})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155341Z" creationid="maciej-pqr" creationdate="20230331T155341Z">
+        <seg>{0} wersja {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} version {1}, update {2} ({3})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155346Z" creationid="maciej-pqr" creationdate="20230331T155346Z">
+        <seg>{0} wersja {1}, update {2} ({3})</seg>
       </tuv>
     </tu>
     <tu>
