@@ -1826,6 +1826,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot find GPG executable on the bash $PATH</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T212731Z" creationid="littlewhitedirect" creationdate="20230331T212731Z">
+        <seg>Nie udało się znaleźć wykonalnego GPG w bashu $PATH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cannot prepare GPG environment properly</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T212610Z" creationid="littlewhitedirect" creationdate="20230331T212610Z">
@@ -3331,6 +3339,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103735Z" creationid="janmars" creationdate="20230327T103735Z">
         <seg>Błąd przy aktulizacji repozytorium.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error while getting output of external program</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T212822Z" creationid="littlewhitedirect" creationdate="20230331T212822Z">
+        <seg>Błąd podczas pobierania danych wyjściowych z zewnętrznego programu</seg>
       </tuv>
     </tu>
     <tu>
