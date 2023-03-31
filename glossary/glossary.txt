@@ -1,3 +1,4 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
 encoding declaration	deklaracja kodowania
 segmentation	segmentacja
 Note:	Uwaga:
@@ -151,3 +152,4 @@ Previous Note	Poprzednia notatka	<FR>Note précédente
 Scripting	Skrypty	<FR>Scripts
 Machine Translate	Tłumaczenie maszynowe	<FR>Traduction automatique
 Root	Folder główny projektu	<FR> Racine
+tag	znacznik
