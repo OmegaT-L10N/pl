@@ -2863,6 +2863,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error saving project file!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T170219Z" creationid="luizakolosa" creationdate="20230331T170219Z">
+        <seg>Error saving project file!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error starting post-processing commands: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T065254Z" creationid="tobkub" creationdate="20230328T065138Z">
@@ -4145,6 +4153,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185227Z" creationid="ZOO" creationdate="20230324T185227Z">
         <seg>Wczytywanie glosariusza {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading project...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T170213Z" creationid="luizakolosa" creationdate="20230331T170213Z">
+        <seg>Ładowanie projektu...</seg>
       </tuv>
     </tu>
     <tu>
