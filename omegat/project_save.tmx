@@ -4917,6 +4917,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Looking for a GPG executable: path {0} from $PATH is not accessible; skipping</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T212205Z" creationid="littlewhitedirect" creationdate="20230331T212205Z">
+        <seg>Szukanie pliku wykonalnego GPG: brak dostępu do ścieżki {0}z $PATH; pomiń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MT engine error({0}) {1}</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T180142Z" creationid="Maja" creationdate="20230330T180142Z">
@@ -9087,6 +9095,14 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="ghuzytkownik" changedate="20230331T164608Z" creationid="ghuzytkownik" creationdate="20230331T164608Z">
         <seg>Używaj lokalnych ustawień filtra plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User canceled signing (no passphrase provided)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T212057Z" creationid="littlewhitedirect" creationdate="20230331T212057Z">
+        <seg>Podpis unieważniony przez użytkownika (nie podano hasła)</seg>
       </tuv>
     </tu>
     <tu>
