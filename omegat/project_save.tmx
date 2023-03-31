@@ -1547,6 +1547,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Confirm deletion</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T140255Z" creationid="leoi23" creationdate="20230331T140255Z">
+        <seg>Potwierdź odinstalowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Confirm:</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T170256Z" creationid="biegajacy-zajac" creationdate="20230321T164611Z">
@@ -1774,8 +1782,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>D&amp;elete</seg>
       </tuv>
-      <tuv lang="PL" changeid="leoi23" changedate="20230331T140049Z" creationid="leoi23" creationdate="20230331T140049Z">
-        <seg>U&amp;suń</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T140351Z" creationid="leoi23" creationdate="20230331T140049Z">
+        <seg>O&amp;dinstaluj</seg>
       </tuv>
     </tu>
     <tu>
@@ -1824,6 +1832,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084629Z" creationid="sandraczapska" creationdate="20230328T084629Z">
         <seg>Defaults to xml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deletion failed</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T140311Z" creationid="leoi23" creationdate="20230331T140311Z">
+        <seg>Odinstalowanie nie powiodło się</seg>
       </tuv>
     </tu>
     <tu>
@@ -3043,6 +3059,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230328T070700Z">
         <seg>Instaluj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install failed</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T140434Z" creationid="leoi23" creationdate="20230331T140434Z">
+        <seg>Instalowanie nie powiodło się</seg>
       </tuv>
     </tu>
     <tu>
@@ -5746,8 +5770,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>The specified spellchecking dictionary folder cannot be used.</seg>
       </tuv>
-      <tuv lang="PL" changeid="leoi23" changedate="20230331T134400Z" creationid="leoi23" creationdate="20230331T134400Z">
-        <seg>Odinstalowujesz słownik sprawdzania pisowni, którego twój projekt aktualnie używa.</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T140550Z" creationid="leoi23" creationdate="20230331T134400Z">
+        <seg>Wybrany folder słownika sprawdzania pisowni nie może być użyty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6132,6 +6156,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T182219Z" creationid="Maja" creationdate="20230330T182219Z">
         <seg>Nie można połączyć się z serwerem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to delete the selected dictionary</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230331T140307Z" creationid="leoi23" creationdate="20230331T140307Z">
+        <seg>Nie można odinstalować wybranego słownika</seg>
       </tuv>
     </tu>
     <tu>
