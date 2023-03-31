@@ -2014,24 +2014,24 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Command is missing delimiter</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140210Z">
-        <seg>Command is missing delimiter</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T205013Z">
+        <seg>Polecenie nie zawiera separatora</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Command is missing encoding</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165356Z" creationid="oladp" creationdate="20230321T161801Z">
-        <seg>Polecenie nie zawiera kodowania  URL</seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T205000Z" creationid="oladp" creationdate="20230321T161801Z">
+        <seg>Polecenie nie zawiera kodowania</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Command is missing target</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T204823Z" creationid="oladp" creationdate="20230321T161205Z">
-        <seg>Polecenie bez adresu docelowego </seg>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T204929Z" creationid="oladp" creationdate="20230321T161205Z">
+        <seg>Polecenie nie zawiera adresu docelowego </seg>
       </tuv>
     </tu>
     <tu>
