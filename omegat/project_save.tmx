@@ -3324,6 +3324,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to load translation memory {0} for project!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T181628Z" creationid="klaudiakempa" creationdate="20230331T181628Z">
+        <seg>Wczytanie pamięci tłumaczeniowej {0} do projektu nie powiodło się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T201457Z" creationid="biegajacy-zajac" creationdate="20230328T070155Z">
@@ -6917,6 +6925,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T164758Z" creationid="biegajacy-zajac" creationdate="20230321T164758Z">
         <seg>Pomiń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skipped source file {0} because it could not be loaded.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T181521Z" creationid="klaudiakempa" creationdate="20230331T181521Z">
+        <seg>Pominięto plik źródłowy {0} ponieważ nie można go załadować.</seg>
       </tuv>
     </tu>
     <tu>
