@@ -774,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Search for Selection</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T170256Z" creationid="Hania M" creationdate="20230401T170256Z">
+        <seg>&amp;Search for Selection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Search...</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090645Z" creationid="sandraczapska" creationdate="20230328T090645Z">
@@ -3831,8 +3839,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>File</seg>
       </tuv>
-      <tuv lang="PL" changeid="JU" changedate="20230330T201457Z" creationid="biegajacy-zajac" creationdate="20230328T070155Z">
-        <seg>Pliki</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T170227Z" creationid="biegajacy-zajac" creationdate="20230328T070155Z">
+        <seg>Plik</seg>
       </tuv>
     </tu>
     <tu>
@@ -10082,6 +10090,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161521Z" creationid="biegajacy-zajac" creationdate="20230321T161521Z">
         <seg>{0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} +{1} more</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T170204Z" creationid="Hania M" creationdate="20230401T170204Z">
+        <seg>{0} + {1} więcej</seg>
       </tuv>
     </tu>
     <tu>
