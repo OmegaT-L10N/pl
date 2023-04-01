@@ -2794,6 +2794,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detail View</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T170631Z" creationid="MS" creationdate="20230401T170631Z">
+        <seg>Widok szczegółów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Details unavailable</seg>
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230401T165739Z" creationid="MS" creationdate="20230401T165739Z">
@@ -5938,6 +5946,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T210300Z" creationid="littlewhitedirect" creationdate="20230331T210300Z">
         <seg>Nie przypisano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not present</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T170616Z" creationid="MS" creationdate="20230401T170616Z">
+        <seg>Nieistniejący</seg>
       </tuv>
     </tu>
     <tu>
