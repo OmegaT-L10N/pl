@@ -7757,6 +7757,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment marker background</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T172535Z" creationid="MS" creationdate="20230401T172535Z">
+        <seg>Tło znacznika segmentów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment marker text</seg>
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230401T172347Z" creationid="MS" creationdate="20230401T172347Z">
@@ -8326,6 +8334,22 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T161525Z" creationid="klaudiakempa" creationdate="20230331T161525Z">
         <seg>Źródło wybranego &amp;dopasowania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T172617Z" creationid="MS" creationdate="20230401T172617Z">
+        <seg>Źródło segmentów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source segments text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T172714Z" creationid="MS" creationdate="20230401T172714Z">
+        <seg>Tekst segmentów oryginalnych</seg>
       </tuv>
     </tu>
     <tu>
