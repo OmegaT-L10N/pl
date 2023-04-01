@@ -1364,6 +1364,14 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aborted.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T205542Z" creationid="kapel" creationdate="20230401T205542Z">
+        <seg>Aborted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About OmegaT</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155352Z" creationid="maciej-pqr" creationdate="20230331T155352Z">
@@ -9324,8 +9332,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Tag validation failed</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T205010Z" creationid="kapel" creationdate="20230401T204852Z">
-        <seg>Walidacja znacznika nie powiodła się</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T205559Z" creationid="kapel" creationdate="20230401T204852Z">
+        <seg>Sprawdzanie znacznika nie powiodło się</seg>
       </tuv>
     </tu>
     <tu>
@@ -10607,8 +10615,8 @@ Bieżące ustawienie to {0}MB;</seg>
       <tuv lang="EN">
         <seg>Validating tags</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T205248Z" creationid="kapel" creationdate="20230401T205248Z">
-        <seg>[fuzzy]Sprawdzanie znaczników...</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T205524Z" creationid="kapel" creationdate="20230401T205248Z">
+        <seg>Sprawdzanie znaczników</seg>
       </tuv>
     </tu>
     <tu>
