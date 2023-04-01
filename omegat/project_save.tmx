@@ -728,8 +728,8 @@
       <tuv lang="EN">
         <seg>&amp;Replace...</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T183752Z" creationid="kapel" creationdate="20230401T183752Z">
-        <seg>[fuzzy]Zastąp...</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T183809Z" creationid="kapel" creationdate="20230401T183752Z">
+        <seg>&amp;Zastąp...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4665,6 +4665,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T180230Z" creationid="Maja" creationdate="20230330T180230Z">
         <seg>Tłumacz Google v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Goto &amp;Line...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T183811Z" creationid="kapel" creationdate="20230401T183811Z">
+        <seg>Goto &amp;Line...</seg>
       </tuv>
     </tu>
     <tu>
