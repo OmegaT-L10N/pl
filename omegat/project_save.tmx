@@ -4737,6 +4737,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T212244Z" creationid="kapel" creationdate="20230401T212244Z">
+        <seg>Folder z glosariuszem {0} nie istnieje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary matches</seg>
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230401T174853Z" creationid="MS" creationdate="20230401T174853Z">
@@ -10180,6 +10188,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T071018Z" creationid="tobkub" creationdate="20230328T071018Z">
         <seg>Pamięci tłumaczeniowe do eksportu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memory folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T212403Z" creationid="kapel" creationdate="20230401T212403Z">
+        <seg>Folder z pamięcią tłumaczeniową {0} nie istnieje.</seg>
       </tuv>
     </tu>
     <tu>
