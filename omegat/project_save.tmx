@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;New Script</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T182722Z" creationid="kapel" creationdate="20230401T182722Z">
+        <seg>&amp;Nowy skrypt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;New...</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230330T201805Z" creationid="sandraczapska" creationdate="20230330T201805Z">
@@ -1328,6 +1336,14 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T175339Z" creationid="klaudiakempa" creationdate="20230331T175339Z">
         <seg>Folder &amp;konfiguracji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Scripts Folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T182813Z" creationid="kapel" creationdate="20230401T182813Z">
+        <seg>Access Scripts Folder</seg>
       </tuv>
     </tu>
     <tu>
@@ -8335,6 +8351,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195755Z" creationid="biegajacy-zajac" creationdate="20230321T195755Z">
         <seg>Ustaw moje własne hasło</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set Scripts Folder...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T182811Z" creationid="kapel" creationdate="20230401T182811Z">
+        <seg>Ustaw folder skryptów...</seg>
       </tuv>
     </tu>
     <tu>
