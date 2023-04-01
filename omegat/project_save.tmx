@@ -5695,6 +5695,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Loading Project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T210559Z" creationid="kapel" creationdate="20230401T210559Z">
+        <seg>[fuzzy]Ładowanie projektu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading TMX files...</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T171127Z" creationid="luizakolosa" creationdate="20230331T171032Z">
