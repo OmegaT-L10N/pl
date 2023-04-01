@@ -9073,8 +9073,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Source folder {0} does not exist.</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T102513Z" creationid="janmars" creationdate="20230327T102513Z">
-        <seg>Source folder {0} does not exist.</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T211819Z" creationid="janmars" creationdate="20230327T102513Z">
+        <seg>Folder źródłowy {0} nie istnieje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9483,6 +9483,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T182646Z" creationid="klaudiakempa" creationdate="20230331T182646Z">
         <seg>Wysłane pliki docelowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T212124Z" creationid="kapel" creationdate="20230401T212124Z">
+        <seg>Folder docelowy {0} nie istnieje.</seg>
       </tuv>
     </tu>
     <tu>
