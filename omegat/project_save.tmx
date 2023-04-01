@@ -3998,6 +3998,14 @@ ew. "wyszukiwania" (zamiast "przeszukiwania")</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Escaped decimal char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T214051Z" creationid="Hania M" creationdate="20230401T214051Z">
+        <seg>Dziesiętny znak specjalny zawiera nieprawidłowe dane ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Event: application shutdown</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230331T134638Z" creationid="leoi23" creationdate="20230331T134638Z">
@@ -4350,6 +4358,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070809Z" creationid="tobkub" creationdate="20230328T070758Z">
         <seg>Lokalizacja pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File {0} does not exist!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T214130Z" creationid="Hania M" creationdate="20230401T214130Z">
+        <seg>Plik {0} nie istnieje!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7452,6 +7468,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T140217Z">
         <seg>[fuzzy]&amp;Preferences...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences system save operation failed!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T214142Z" creationid="Hania M" creationdate="20230401T214142Z">
+        <seg>[fuzzy]Zapisanie systemu preferencji nie powiodło się!</seg>
       </tuv>
     </tu>
     <tu>
