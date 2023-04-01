@@ -1991,6 +1991,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change date</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T170724Z" creationid="MS" creationdate="20230401T170724Z">
+        <seg>Data modyfikacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed by</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T184440Z" creationid="JU" creationdate="20230330T184440Z">
@@ -2003,6 +2011,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T184451Z" creationid="JU" creationdate="20230330T184451Z">
         <seg>Zmienione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changer</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T170732Z" creationid="MS" creationdate="20230401T170732Z">
+        <seg>Zmodyfikowany przez</seg>
       </tuv>
     </tu>
     <tu>
@@ -2602,10 +2618,26 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creation date</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T170826Z" creationid="MS" creationdate="20230401T170826Z">
+        <seg>Data stworzenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creation of new team project cancelled</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103114Z" creationid="janmars" creationdate="20230327T103114Z">
         <seg>Anulowano tworzenie nowego projektu grupowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creator</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T170923Z" creationid="MS" creationdate="20230401T170923Z">
+        <seg>Stworzony przez</seg>
       </tuv>
     </tu>
     <tu>
@@ -4785,6 +4817,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Is default translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T170950Z" creationid="MS" creationdate="20230401T170950Z">
+        <seg>Tłumaczenie domyślne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Issues</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T203146Z" creationid="JU" creationdate="20230330T203146Z">
@@ -5743,6 +5783,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T161342Z" creationid="klaudiakempa" creationdate="20230331T161342Z">
         <seg>Następny nie&amp;powtarzający się segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next →</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T170716Z" creationid="MS" creationdate="20230401T170716Z">
+        <seg>Następny →</seg>
       </tuv>
     </tu>
     <tu>
@@ -10262,6 +10310,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0}/{1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T170645Z" creationid="MS" creationdate="20230401T170645Z">
+        <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0}_{1}</seg>
       </tuv>
       <tuv lang="PL" changeid="AgnieszkaS" changedate="20230321T151424Z" creationid="AgnieszkaS" creationdate="20230321T151424Z">
@@ -10298,6 +10354,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161636Z" creationid="biegajacy-zajac" creationdate="20230321T161636Z">
         <seg>“{0}” ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>← Back</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T170704Z" creationid="MS" creationdate="20230401T170704Z">
+        <seg>← Wstecz</seg>
       </tuv>
     </tu>
     <tu>
