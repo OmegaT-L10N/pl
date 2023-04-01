@@ -4271,8 +4271,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>From 100% memory</seg>
       </tuv>
-      <tuv lang="PL" changeid="MS" changedate="20230401T173647Z" creationid="MS" creationdate="20230401T173647Z">
-        <seg>[fuzzy]Z pamięci</seg>
+      <tuv lang="PL" changeid="MS" changedate="20230401T173659Z" creationid="MS" creationdate="20230401T173647Z">
+        <seg>Z pamięci 100%</seg>
       </tuv>
     </tu>
     <tu>
@@ -4281,6 +4281,22 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230401T173646Z" creationid="MS" creationdate="20230401T173646Z">
         <seg>Z pamięci ICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From auto memory</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T173720Z" creationid="MS" creationdate="20230401T173720Z">
+        <seg>Z pamięci automatycznej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From enforced memory</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T174402Z" creationid="MS" creationdate="20230401T174402Z">
+        <seg>Z pamięci wymuszonej</seg>
       </tuv>
     </tu>
     <tu>
