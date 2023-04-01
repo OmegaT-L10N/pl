@@ -8275,8 +8275,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>SVN '{0}' error: {1}</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T213945Z" creationid="kapel" creationdate="20230401T213945Z">
-        <seg>SVN '{0}' error: {1}</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T214015Z" creationid="kapel" creationdate="20230401T213945Z">
+        <seg>Błąd SVN '{0}': {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -10424,6 +10424,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T064933Z">
         <seg>Utworzenie nowego pliku TMX jest niemożliwe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to commit because remote translation was changed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T214017Z" creationid="kapel" creationdate="20230401T214017Z">
+        <seg>Unable to commit because remote translation was changed.</seg>
       </tuv>
     </tu>
     <tu>
