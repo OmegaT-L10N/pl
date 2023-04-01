@@ -3290,6 +3290,22 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drop files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T180857Z" creationid="MS" creationdate="20230401T180857Z">
+        <seg>Przeciągnij pliki tutaj, aby dodać je do projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop glossary files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T180857Z" creationid="MS" creationdate="20230401T180857Z">
+        <seg>[fuzzy]Przeciągnij pliki tutaj, aby dodać je do projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Duplicate</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104043Z" creationid="janmars" creationdate="20230327T104043Z">
