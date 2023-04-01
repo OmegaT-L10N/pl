@@ -1056,10 +1056,26 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(close tag)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T211919Z" creationid="Hania M" creationdate="20230401T211919Z">
+        <seg>(znacznik zamykający)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(comment tag)</seg>
       </tuv>
       <tuv lang="PL" changeid="Hania M" changedate="20230401T211433Z" creationid="Hania M" creationdate="20230401T211433Z">
         <seg>(znacznik komentarza)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(empty tag)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T211913Z" creationid="Hania M" creationdate="20230401T211913Z">
+        <seg>(pusty znacznik)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3638,6 +3654,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T201813Z" creationid="JU" creationdate="20230330T201813Z">
         <seg>Zakończ dokładne wyrównanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End of stream encountered without finding close block!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T212157Z" creationid="Hania M" creationdate="20230401T212157Z">
+        <seg>Wystąpił koniec strumienia, ale nie znaleziono bloku zamykającego!</seg>
       </tuv>
     </tu>
     <tu>
@@ -11231,6 +11255,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="ghuzytkownik" changedate="20230401T153020Z" creationid="ghuzytkownik" creationdate="20230401T153020Z">
         <seg>lan&amp;g (atrybut języka)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>loaded {0} attributes.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T212032Z" creationid="Hania M" creationdate="20230401T212032Z">
+        <seg>Wczytane {0} atrybuty.</seg>
       </tuv>
     </tu>
     <tu>
