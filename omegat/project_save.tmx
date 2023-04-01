@@ -6620,6 +6620,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Paragraph delimitation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T174623Z" creationid="MS" creationdate="20230401T174623Z">
+        <seg>Ograniczenie paragrafu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Parsewise</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T202954Z" creationid="JU" creationdate="20230330T202954Z">
