@@ -1698,6 +1698,16 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       </tuv>
     </tu>
     <tu>
+      <note>ew. zamiast "folder": "katalog"
+</note>
+      <tuv lang="EN">
+        <seg>Bad folder name {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T164834Z" creationid="Hania M" creationdate="20230401T164834Z">
+        <seg>[fuzzy]Niepoprawna nazwa folderu {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Bad nesting</seg>
       </tuv>
@@ -4177,6 +4187,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T180230Z" creationid="Maja" creationdate="20230330T180230Z">
         <seg>Tłumacz Google v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T164805Z" creationid="Hania M" creationdate="20230401T164805Z">
+        <seg>Grupa {0} nie istnieje w wyszukiwanych wyrażeniu</seg>
       </tuv>
     </tu>
     <tu>
@@ -7350,6 +7368,9 @@ These words: 'Page not found'</seg>
     <tu>
       <tuv lang="EN">
         <seg>Search thread died unexpectedly!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T164929Z">
+        <seg>Zadanie wyszukiwania niespodziewanie się zakończyło!</seg>
       </tuv>
     </tu>
     <tu>
