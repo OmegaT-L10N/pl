@@ -3979,6 +3979,16 @@ ew. "wyszukiwania" (zamiast "przeszukiwania")</note>
       </tuv>
     </tu>
     <tu>
+      <note>albo "znak ucieczki/modyfikacji"?</note>
+      <tuv lang="EN">
+        <seg>Escaped binary char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T213724Z" creationid="Hania M" creationdate="20230401T213724Z">
+        <seg>Binarny znak specjalny zawiera nieprawidłowe dane ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>lub po "znaku ucieczki/modyfikacji"</note>
       <tuv lang="EN">
         <seg>Escaped character never terminated!</seg>
       </tuv>
