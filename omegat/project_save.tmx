@@ -3980,6 +3980,14 @@ ew. "wyszukiwania" (zamiast "przeszukiwania")</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Escaped character never terminated!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T212350Z" creationid="Hania M" creationdate="20230401T212350Z">
+        <seg>Po znaku specjalnym rozpoczynającym sekwencję brak zakończenia sekwencji!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Event: application shutdown</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230331T134638Z" creationid="leoi23" creationdate="20230331T134638Z">
