@@ -989,6 +989,14 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>+{0} more</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T170135Z" creationid="Hania M" creationdate="20230401T170135Z">
+        <seg>+{0} więcej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>,</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161525Z" creationid="biegajacy-zajac" creationdate="20230321T161525Z">
@@ -1725,8 +1733,8 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       <tuv lang="EN">
         <seg>Bad folder name {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230401T164834Z" creationid="Hania M" creationdate="20230401T164834Z">
-        <seg>[fuzzy]Niepoprawna nazwa folderu {0}</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T165924Z" creationid="Hania M" creationdate="20230401T164834Z">
+        <seg>Niepoprawna nazwa folderu {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4165,6 +4173,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T170107Z" creationid="Hania M" creationdate="20230401T170107Z">
+        <seg>Glosariusz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary Files Folder</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T072031Z" creationid="tobkub" creationdate="20230328T071818Z">
@@ -4231,8 +4247,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Group {0} does not exist in search expression</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230401T164805Z" creationid="Hania M" creationdate="20230401T164805Z">
-        <seg>Grupa {0} nie istnieje w wyszukiwanych wyrażeniu</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T165940Z" creationid="Hania M" creationdate="20230401T164805Z">
+        <seg>Grupa {0} nie istnieje w wyszukiwanym wyrażeniu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5329,8 +5345,8 @@ Its winter has come</seg>
       <tuv lang="EN">
         <seg>Matching segments: {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230401T165352Z" creationid="Hania M" creationdate="20230401T165352Z">
-        <seg>Matching segments: {0}</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T170013Z" creationid="Hania M" creationdate="20230401T165352Z">
+        <seg>Dopasowane segmenty: {0}</seg>
       </tuv>
     </tu>
     <tu>
