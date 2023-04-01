@@ -4093,6 +4093,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Extracted comments:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T203643Z" creationid="kapel" creationdate="20230401T203643Z">
+        <seg>Wyodrębnione komentarze:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Extraneous</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104100Z" creationid="janmars" creationdate="20230327T104100Z">
@@ -9965,8 +9973,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Translator comments:</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230321T161334Z" creationid="janmars" creationdate="20230321T161334Z">
-        <seg>Translator comments:</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T203458Z" creationid="janmars" creationdate="20230321T161334Z">
+        <seg>Komentarze tłumacza:</seg>
       </tuv>
     </tu>
     <tu>
