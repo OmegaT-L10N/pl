@@ -1956,6 +1956,14 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backed up preferences to {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T214909Z" creationid="Hania M" creationdate="20230401T214909Z">
+        <seg>Stworzono kopię zapasową preferencji w {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Background</seg>
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230401T171830Z" creationid="MS" creationdate="20230401T171830Z">
@@ -7295,6 +7303,15 @@ Vanishing like mist</seg>
       </tuv>
     </tu>
     <tu>
+      <note>ew. "analizy" zamiast "interpretacji"</note>
+      <tuv lang="EN">
+        <seg>Parse error encountered reading preferences file!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T214644Z" creationid="Hania M" creationdate="20230401T214644Z">
+        <seg>Wystąpił błąd interpretacji przy odczycie pliku preferencji!</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Parsewise</seg>
       </tuv>
@@ -7506,8 +7523,8 @@ Vanishing like mist</seg>
       <tuv lang="EN">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230401T214142Z" creationid="Hania M" creationdate="20230401T214142Z">
-        <seg>[fuzzy]Zapisanie systemu preferencji nie powiodło się!</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T214552Z" creationid="Hania M" creationdate="20230401T214142Z">
+        <seg>Zapisanie systemu preferencji nie powiodło się!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10540,6 +10557,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to read file</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T214743Z" creationid="Hania M" creationdate="20230401T214743Z">
+        <seg>Nie można odczytać pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to read project file!</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T072136Z" creationid="tobkub" creationdate="20230328T072136Z">
@@ -10696,6 +10721,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="PL" changeid="Hania M" changedate="20230401T210607Z" creationid="Hania M" creationdate="20230401T210607Z">
         <seg>Nieobsługiwana wersja XML {0}!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported file encoding</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T214737Z" creationid="Hania M" creationdate="20230401T214737Z">
+        <seg>Nieobsługiwane kodowanie pliku</seg>
       </tuv>
     </tu>
     <tu>
