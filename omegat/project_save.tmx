@@ -750,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T210255Z" creationid="Hania M" creationdate="20230401T210255Z">
+        <seg>Resetuj opcje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Restart</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230331T154139Z" creationid="sandraczapska" creationdate="20230331T154139Z">
@@ -805,11 +813,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Nie jestem pewna, czy "selection" tłumaczyć jako "zaznaczony element" (ew. "zaznaczony tekst")</note>
       <tuv lang="EN">
         <seg>&amp;Search for Selection</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230401T170256Z" creationid="Hania M" creationdate="20230401T170256Z">
-        <seg>&amp;Search for Selection</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T210224Z" creationid="Hania M" creationdate="20230401T170256Z">
+        <seg>Szukaj zaznaczonego elementu</seg>
       </tuv>
     </tu>
     <tu>
@@ -10193,6 +10202,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230331T140307Z" creationid="leoi23" creationdate="20230331T140307Z">
         <seg>Nie można odinstalować wybranego słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to initialize reading of XML file!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T210339Z" creationid="Hania M" creationdate="20230401T210339Z">
+        <seg>[fuzzy]Nie można rozpocząć odczytu z pliku XML!</seg>
       </tuv>
     </tu>
     <tu>
