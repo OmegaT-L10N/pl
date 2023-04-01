@@ -152,3 +152,4 @@ Scripting	Skrypty	<FR>Scripts
 Machine Translate	Tłumaczenie maszynowe	<FR>Traduction automatique
 Root	Folder główny projektu	<FR> Racine
 tag	znacznik
+Wildacrds	Symbole wieloznaczne	<FR> Les caractères jokers
