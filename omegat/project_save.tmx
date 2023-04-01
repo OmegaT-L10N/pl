@@ -1639,6 +1639,14 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow to save password as plain text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T214935Z" creationid="kapel" creationdate="20230401T214935Z">
+        <seg>Zezwól na zapisanie hasła jako zwykłego tekstu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternative</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T200323Z" creationid="JU" creationdate="20230330T200323Z">
@@ -7782,8 +7790,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Push failed.</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T214551Z" creationid="kapel" creationdate="20230401T214551Z">
-        <seg>Push failed.</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T214652Z" creationid="kapel" creationdate="20230401T214551Z">
+        <seg>Próba nie powiodła się.</seg>
       </tuv>
     </tu>
     <tu>
