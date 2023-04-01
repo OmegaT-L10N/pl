@@ -4669,8 +4669,16 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Git '{0}' did nothing because there were no changes</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T214418Z" creationid="kapel" creationdate="20230401T214418Z">
-        <seg>Git '{0}' did nothing because there were no changes</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T214518Z" creationid="kapel" creationdate="20230401T214418Z">
+        <seg>Git '{0}' nie wykonał niczego, ponieważ nie było żadnych zmian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git '{0}' error: {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T214525Z" creationid="kapel" creationdate="20230401T214525Z">
+        <seg>Git '{0}' error: {1}</seg>
       </tuv>
     </tu>
     <tu>
