@@ -1691,6 +1691,14 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bad regular expression!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T122908Z" creationid="Hania M" creationdate="20230401T122834Z">
+        <seg>Niepoprawne wyrażenie regularne!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bartender yells loud:
 Your page cannot be found, boy
 Buy another drink</seg>
@@ -3256,6 +3264,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T170352Z" creationid="luizakolosa" creationdate="20230331T170352Z">
         <seg>Błąd podczas tworzenia projektu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T122856Z" creationid="Hania M" creationdate="20230401T122856Z">
+        <seg>Error during regular expression replacement:</seg>
       </tuv>
     </tu>
     <tu>
