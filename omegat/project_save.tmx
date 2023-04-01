@@ -2147,8 +2147,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Close the search window.</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084347Z" creationid="sandraczapska" creationdate="20230328T084347Z">
-        <seg>Close the search window.</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T165000Z" creationid="sandraczapska" creationdate="20230328T084347Z">
+        <seg>Zamknij okno wyszukiwania.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5297,6 +5297,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T165352Z" creationid="Hania M" creationdate="20230401T165352Z">
+        <seg>Matching segments: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maximum line length:</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185959Z" creationid="ZOO" creationdate="20230324T185959Z">
@@ -5706,6 +5714,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070657Z">
         <seg>Brak dopasowania:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No matches returned by search.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T165136Z" creationid="Hania M" creationdate="20230401T165136Z">
+        <seg>Wyszukiwanie nie przyniosło żadnych wyników.</seg>
       </tuv>
     </tu>
     <tu>
