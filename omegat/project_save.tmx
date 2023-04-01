@@ -4354,6 +4354,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fatal error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T215246Z" creationid="Hania M" creationdate="20230401T215246Z">
+        <seg>Błąd krytyczny przy analizie linii {0}, kolumny {1}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File</seg>
       </tuv>
       <tuv lang="PL" changeid="Hania M" changedate="20230401T170227Z" creationid="biegajacy-zajac" creationdate="20230328T070155Z">
@@ -5768,6 +5776,9 @@ Its winter has come</seg>
     <tu>
       <tuv lang="EN">
         <seg>Language not specified for translation unit variant.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T215419Z">
+        <seg>Nie określono języka dla wariantu jednostki tłumaczenia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9081,6 +9092,8 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <note>ew. "Pominięto jednostki tłumaczenia, dla których nie można znaleźć segmentu źródłowego".
+</note>
       <tuv lang="EN">
         <seg>Skipped translation units for which no source segment was found.</seg>
       </tuv>
@@ -10429,6 +10442,15 @@ the server.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>ew. "napotkana" (zamiast "wystąpiła")</note>
+      <tuv lang="EN">
+        <seg>Translation unit encountered before TMX header.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T215350Z" creationid="Hania M" creationdate="20230401T215350Z">
+        <seg>Jednostka tłumaczenia wystąpiła przed nagłówkiem TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Translator comments:</seg>
       </tuv>
@@ -11063,6 +11085,14 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T184223Z" creationid="JU" creationdate="20230330T184223Z">
         <seg>Wartość</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Variant skipped.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T215433Z" creationid="Hania M" creationdate="20230401T215433Z">
+        <seg>Wariant pominięto.</seg>
       </tuv>
     </tu>
     <tu>
