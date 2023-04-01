@@ -1595,6 +1595,14 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-sync with editor</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T121119Z" creationid="Hania M" creationdate="20230401T120847Z">
+        <seg>Autosynchronizacja z edytorem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-text configuration</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T105504Z" creationid="janmars" creationdate="20230327T102445Z">
@@ -9135,8 +9143,8 @@ Bieżące ustawienie to {0}MB;</seg>
       <tuv lang="EN">
         <seg>Use $n to refer to the nth group.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230401T120532Z" creationid="Hania M" creationdate="20230401T120532Z">
-        <seg>Use $n to refer to the nth group.</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T120923Z" creationid="Hania M" creationdate="20230401T120532Z">
+        <seg>Użyj "$n", aby odwołać się do grupy numer n. </seg>
       </tuv>
     </tu>
     <tu>
