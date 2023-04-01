@@ -4242,6 +4242,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to back up preferences file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T214913Z" creationid="Hania M" creationdate="20230401T214913Z">
+        <seg>Failed to back up preferences file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to commit source files!</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T182241Z" creationid="klaudiakempa" creationdate="20230331T182241Z">
