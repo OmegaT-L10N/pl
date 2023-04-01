@@ -4141,6 +4141,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Flagged text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T173324Z" creationid="MS" creationdate="20230401T173324Z">
+        <seg>Tekst oflagowany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Flash XML Export</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155319Z" creationid="maciej-pqr" creationdate="20230331T155301Z">
@@ -6058,14 +6066,6 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104014Z" creationid="janmars" creationdate="20230327T104014Z">
         <seg>Spacja nierozdzielalna.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Non-breakable spaces</seg>
-      </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230321T161330Z" creationid="janmars" creationdate="20230321T161330Z">
-        <seg>Non-breakable spaces</seg>
       </tuv>
     </tu>
     <tu>
@@ -10031,8 +10031,8 @@ Bieżące ustawienie to {0}MB;</seg>
       <tuv lang="EN">
         <seg>Whitespaces</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230321T161326Z" creationid="janmars" creationdate="20230321T161326Z">
-        <seg>Whitespaces</seg>
+      <tuv lang="PL" changeid="MS" changedate="20230401T173406Z" creationid="janmars" creationdate="20230321T161326Z">
+        <seg>Twarda spacja</seg>
       </tuv>
     </tu>
     <tu>
