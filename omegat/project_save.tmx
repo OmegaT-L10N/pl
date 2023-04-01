@@ -7757,6 +7757,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment marker text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T172347Z" creationid="MS" creationdate="20230401T172347Z">
+        <seg>tekst znacznika segmentów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment {0,number,#}</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T183129Z" creationid="klaudiakempa" creationdate="20230331T183129Z">
