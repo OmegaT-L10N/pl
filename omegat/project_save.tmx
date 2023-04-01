@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset Colour</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T180539Z" creationid="MS" creationdate="20230401T180539Z">
+        <seg>Reset kolorów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reset Master Password</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T210909Z" creationid="littlewhitedirect" creationdate="20230328T065559Z">
@@ -1184,6 +1192,14 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230330T183239Z">
         <seg>&lt;html&gt;&lt;center&gt;Ładuje się&lt;br&gt;&lt;br&gt;Rada: Włącz/wyłącz kontrole w dowolnym momencie z menu Opcji&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T180653Z" creationid="MS" creationdate="20230401T180653Z">
+        <seg>&lt;html&gt;&lt;i&gt;Preferencje&lt;/i&gt; &amp;gt; &lt;i&gt;Ogólne&lt;/i&gt; &amp;gt; &lt;i&gt;użyj klawisza TAB, aby przejść do następnego segmentu&lt;/i&gt; sprawdzone&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2317,6 +2333,14 @@ Buy another drink</seg>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T160456Z" creationid="maciej-pqr" creationdate="20230331T155835Z">
         <seg>Kod powstał dzięki udziałowi następujących osób:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Colours</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T180542Z" creationid="MS" creationdate="20230401T180542Z">
+        <seg>Kolory</seg>
       </tuv>
     </tu>
     <tu>
@@ -5085,6 +5109,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T204129Z" creationid="biegajacy-zajac" creationdate="20230321T204129Z">
         <seg>Nazwa elementu jest pusta lub jej brakuje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Item:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T180531Z" creationid="MS" creationdate="20230401T180531Z">
+        <seg>Element</seg>
       </tuv>
     </tu>
     <tu>
@@ -10664,6 +10696,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230401T165457Z" creationid="MS" creationdate="20230401T165457Z">
         <seg>Segmenty{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T180836Z" creationid="MS" creationdate="20230401T180836Z">
+        <seg>przełącz między LTR (od lewej do prawej), RTL (od prawej do lewej) i w zależności od języka</seg>
       </tuv>
     </tu>
     <tu>
