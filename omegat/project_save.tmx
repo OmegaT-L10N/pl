@@ -9133,6 +9133,14 @@ Bieżące ustawienie to {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T120532Z" creationid="Hania M" creationdate="20230401T120532Z">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &amp;Condensed view</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T204802Z" creationid="biegajacy-zajac" creationdate="20230321T200911Z">
