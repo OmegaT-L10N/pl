@@ -7797,6 +7797,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segments with notes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T172721Z" creationid="MS" creationdate="20230401T172721Z">
+        <seg>Segmenty z uwagami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segments with notes text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T172734Z" creationid="MS" creationdate="20230401T172734Z">
+        <seg>Tekst segmentów z uwagami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &amp;Next Match</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230331T160553Z" creationid="sandraczapska" creationdate="20230328T090634Z">
@@ -9235,6 +9251,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T172927Z" creationid="MS" creationdate="20230401T172927Z">
+        <seg>Segmenty przetłumaczone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated unique segments</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T162659Z" creationid="luizakolosa" creationdate="20230331T162659Z">
@@ -9626,10 +9650,26 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Untranslated segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T172742Z" creationid="MS" creationdate="20230401T172742Z">
+        <seg>Segmenty nieprzetłumaczone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Untranslated segments &amp;only</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195415Z" creationid="biegajacy-zajac" creationdate="20230321T195415Z">
         <seg>Tylko nieprzetłumaczone segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T172842Z" creationid="MS" creationdate="20230401T172842Z">
+        <seg>Tekst segmentów nieprzetłumaczonych</seg>
       </tuv>
     </tu>
     <tu>
