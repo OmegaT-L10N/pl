@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow only unique characters</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T163201Z" creationid="MS" creationdate="20230401T163201Z">
+        <seg>Zezwalaj tylko na unikatowe znaki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Always confirm quit</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195243Z" creationid="biegajacy-zajac" creationdate="20230321T195243Z">
@@ -2554,6 +2562,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom table</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T163107Z" creationid="MS" creationdate="20230401T163107Z">
+        <seg>Tablica personalizowana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom tags (regular expression):</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102117Z" creationid="janmars" creationdate="20230327T102117Z">
@@ -3983,6 +3999,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="ghuzytkownik" changedate="20230331T185932Z" creationid="ghuzytkownik" creationdate="20230331T185932Z">
         <seg>Francuski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full table</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T163054Z" creationid="MS" creationdate="20230401T163054Z">
+        <seg>Pełna tablica</seg>
       </tuv>
     </tu>
     <tu>
