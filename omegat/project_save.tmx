@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9696,8 +9696,8 @@ Your page is not found</seg>
       <tuv lang="EN">
         <seg>wildcards.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230331T094437Z" creationid="Hania M" creationdate="20230331T094437Z">
-        <seg>wildcards.</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T103925Z" creationid="Hania M" creationdate="20230331T094437Z">
+        <seg>Symbole wieloznaczne.</seg>
       </tuv>
     </tu>
     <tu>
