@@ -1067,6 +1067,14 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1 segment</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T165609Z" creationid="MS" creationdate="20230401T165609Z">
+        <seg>segment 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1) Reduce the number of files in the source folder;</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230330T171954Z" creationid="sandraczapska" creationdate="20230328T084641Z">
@@ -10058,6 +10066,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T161521Z" creationid="biegajacy-zajac" creationdate="20230321T161521Z">
         <seg>{0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T165457Z" creationid="MS" creationdate="20230401T165457Z">
+        <seg>Segmenty{0}</seg>
       </tuv>
     </tu>
     <tu>
