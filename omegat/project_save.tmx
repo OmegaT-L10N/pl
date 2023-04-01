@@ -9901,6 +9901,22 @@ Zastępowanie tekstu można zastosować tylko w przypadku segmentów docelowych 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The TMX file will still be loaded.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T220648Z" creationid="Hania M" creationdate="20230401T220648Z">
+        <seg>Plik TMX będzie nadal wczytywany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TMX source language ({0}) differs from the project source language ({1}).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T220433Z" creationid="Hania M" creationdate="20230401T220433Z">
+        <seg>Język źródłowy TMX ({0}) różni się od języka źródłowego projektu ({1}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T210042Z" creationid="littlewhitedirect" creationdate="20230331T210042Z">
