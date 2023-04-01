@@ -8215,9 +8215,9 @@ These words: 'Page not found'</seg>
         <seg>Text Replace:
 Replace applies to the target segments of the project.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230401T112900Z" creationid="Hania M" creationdate="20230401T110230Z">
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T113228Z" creationid="Hania M" creationdate="20230401T110230Z">
         <seg>Zastępowanie tekstu:
-Replace applies to the target segments of the project.</seg>
+Zastępowanie tekstu można zastosować tylko w przypadku segmentów docelowych projektu. </seg>
       </tuv>
     </tu>
     <tu>
