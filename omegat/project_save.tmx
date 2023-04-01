@@ -8043,6 +8043,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save Current Set...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T192409Z" creationid="kapel" creationdate="20230401T192409Z">
+        <seg>Save Current Set...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Script</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T190906Z" creationid="Maja" creationdate="20230330T190906Z">
@@ -8637,8 +8645,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Show Replace Search Bar</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T192313Z" creationid="kapel" creationdate="20230401T192313Z">
-        <seg>Show Replace Search Bar</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T192354Z" creationid="kapel" creationdate="20230401T192313Z">
+        <seg>Pokaż zastąp pasek wyszukiwania</seg>
       </tuv>
     </tu>
     <tu>
