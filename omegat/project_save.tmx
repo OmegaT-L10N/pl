@@ -8273,10 +8273,18 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SVN '{0}' error: {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T213945Z" creationid="kapel" creationdate="20230401T213945Z">
+        <seg>SVN '{0}' error: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SVN '{0}' execution finished successfully</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T213902Z" creationid="kapel" creationdate="20230401T213902Z">
-        <seg>SVN '{0}' execution finished successfully</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T213944Z" creationid="kapel" creationdate="20230401T213902Z">
+        <seg>Wykonywanie SVN '{0}' zakończone pomyślnie</seg>
       </tuv>
     </tu>
     <tu>
