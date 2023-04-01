@@ -749,6 +749,8 @@
       </tuv>
     </tu>
     <tu>
+      <note>Ew. "zresetuj opcje" lub "reset opcji"
+</note>
       <tuv lang="EN">
         <seg>&amp;Reset Options</seg>
       </tuv>
@@ -5034,6 +5036,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IOException encountered:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T211018Z" creationid="Hania M" creationdate="20230401T211018Z">
+        <seg>Wystąpił wyjątek wejścia/wyjścia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Identifier used for alternative translations</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191505Z" creationid="ZOO" creationdate="20230324T191505Z">
@@ -6585,6 +6595,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T200327Z" creationid="JU" creationdate="20230330T200327Z">
         <seg>Brak alternatywy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not a valid XML file!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T210809Z" creationid="Hania M" creationdate="20230401T210809Z">
+        <seg>Nieprawidłowy plik XML!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10240,8 +10258,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Unable to initialize reading of XML file!</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230401T210339Z" creationid="Hania M" creationdate="20230401T210339Z">
-        <seg>[fuzzy]Nie można rozpocząć odczytu z pliku XML!</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T210554Z" creationid="Hania M" creationdate="20230401T210339Z">
+        <seg>Nie można rozpocząć odczytu z pliku XML!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10418,6 +10436,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104134Z" creationid="janmars" creationdate="20230327T104134Z">
         <seg>Niezdefiniowano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported XML version {0}!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T210607Z" creationid="Hania M" creationdate="20230401T210607Z">
+        <seg>Nieobsługiwana wersja XML {0}!</seg>
       </tuv>
     </tu>
     <tu>
