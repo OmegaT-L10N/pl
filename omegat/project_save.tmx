@@ -7007,8 +7007,8 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>OmegaT does not have access to the remote repository: verify your connection or your credentials.</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T215006Z" creationid="kapel" creationdate="20230401T215006Z">
-        <seg>OmegaT does not have access to the remote repository: verify your connection or your credentials.</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T221436Z" creationid="kapel" creationdate="20230401T215006Z">
+        <seg>OmegaT nie ma dostępu do zdalnego repozytorium: sprawdź połączenie lub swoje dane uwierzytelniające.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9989,6 +9989,14 @@ But others await</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203519Z" creationid="sandraczapska" creationdate="20230330T203519Z">
         <seg>Projekt jest pusty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The project is in offline mode.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T221438Z" creationid="kapel" creationdate="20230401T221438Z">
+        <seg>The project is in offline mode.</seg>
       </tuv>
     </tu>
     <tu>
