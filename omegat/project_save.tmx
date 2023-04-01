@@ -2885,6 +2885,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Created by: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T215136Z" creationid="Hania M" creationdate="20230401T215136Z">
+        <seg>Utworzony przez: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Created on</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T184512Z" creationid="JU" creationdate="20230330T184512Z">
@@ -4094,6 +4102,14 @@ ew. "wyszukiwania" (zamiast "przeszukiwania")</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exception while parsing:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T215211Z" creationid="Hania M" creationdate="20230401T215211Z">
+        <seg>Napotkano wyjątek przy analizowaniu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exceptions occurred while loading segmentation rules:</seg>
       </tuv>
       <tuv lang="PL" changeid="ghuzytkownik" changedate="20230331T190448Z" creationid="ghuzytkownik" creationdate="20230331T190448Z">
@@ -4252,8 +4268,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230401T214913Z" creationid="Hania M" creationdate="20230401T214913Z">
-        <seg>Failed to back up preferences file.</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T215034Z" creationid="Hania M" creationdate="20230401T214913Z">
+        <seg>Nie udało się stworzyć kopii zapasowej pliku preferencji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7872,6 +7888,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reading TMX file {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T215123Z" creationid="Hania M" creationdate="20230401T215123Z">
+        <seg>Wczytywanie pliku TMX {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reading of TMX file complete</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T215130Z" creationid="Hania M" creationdate="20230401T215130Z">
+        <seg>Wczytywanie pliku TMX zakończone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Realign Pending</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T201658Z" creationid="JU" creationdate="20230330T201658Z">
@@ -8706,6 +8738,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segmentation method: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T215151Z" creationid="Hania M" creationdate="20230401T215151Z">
+        <seg>Metoda segmentacji: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segments</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T161140Z" creationid="tobkub" creationdate="20230328T065953Z">
@@ -9283,6 +9323,9 @@ These words: 'Page not found'</seg>
     <tu>
       <tuv lang="EN">
         <seg>Source language: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T215156Z">
+        <seg>Język źródłowy: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -10767,6 +10810,9 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Unsupported project file version ({0})!</seg>
       </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T215115Z">
+        <seg>Nieobsługiwana wersja pliku projektu ({0})!</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -11029,6 +11075,14 @@ Bieżące ustawienie to {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Version: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T215142Z" creationid="Hania M" creationdate="20230401T215142Z">
+        <seg>Wersja: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>View</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T201832Z" creationid="JU" creationdate="20230330T201832Z">
@@ -11065,6 +11119,14 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T202801Z" creationid="JU" creationdate="20230330T202801Z">
         <seg>Ostrzeżenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T215233Z" creationid="Hania M" creationdate="20230401T215233Z">
+        <seg>Ostrzeżenie przy analizie linii {0}, kolumny {1}:</seg>
       </tuv>
     </tu>
     <tu>
