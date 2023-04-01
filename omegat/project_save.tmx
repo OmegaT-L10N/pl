@@ -4711,8 +4711,8 @@ Its winter has come</seg>
       <tuv lang="EN">
         <seg>Keyword searches are not available in the search string.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230401T114321Z" creationid="Hania M" creationdate="20230401T114321Z">
-        <seg>Wyszukiwanie słów kluczowych nie jest możliwe .</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T114514Z" creationid="Hania M" creationdate="20230401T114321Z">
+        <seg>Wyszukiwanie słów kluczowych nie jest dostępne w przypadku ciągu znaków.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9338,6 +9338,14 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191608Z" creationid="ZOO" creationdate="20230324T191608Z">
         <seg>Jeśli nie jest dostępny, identyfikator zostanie użyty jako rozwiązanie awaryjne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T115540Z" creationid="Hania M" creationdate="20230401T115540Z">
+        <seg>W przypadku stosowania wyrażeń regularnych ciąg zastępczy umożliwia odwołania do grup zdefiniowanych w ciągu znaków.</seg>
       </tuv>
     </tu>
     <tu>
