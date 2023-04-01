@@ -6540,6 +6540,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: The Source File Encoding setting only affects HHC and HHK files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230401T191316Z" creationid="ghuzytkownik" creationdate="20230401T191316Z">
+        <seg>Uwaga: Ustawienie kodowania pliku źródłowego w formacie HHC i HHK działa tylko wtedy, kiedy kodowania nie zadeklarowano wewnątrz pliku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: The Source file encoding setting only affects HTML files with no encoding declaration.</seg>
       </tuv>
       <tuv lang="pl" changeid="ghuzytkownik" changedate="20230401T151159Z" creationid="ghuzytkownik" creationdate="20230401T151159Z">
@@ -8931,8 +8939,9 @@ These words: 'Page not found'</seg>
         <seg>Specific sets should be put above general sets:
 "FR-CA" should be above "FR.*", which should be above ".*".</seg>
       </tuv>
-      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230401T153748Z" creationid="ghuzytkownik" creationdate="20230401T153748Z">
-        <seg>Ustawienia szczegółowe powinny </seg>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230401T191848Z" creationid="ghuzytkownik" creationdate="20230401T153748Z">
+        <seg>Zasady bardziej szczegółowe powinny być umieszczone przed zasadami ogólnymi:
+"FR-CA" powinno być wyżej niż "FR.*", które z kolei powinno być wyżej niż ".*". </seg>
       </tuv>
     </tu>
     <tu>
