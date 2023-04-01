@@ -4327,8 +4327,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Finished</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T205115Z" creationid="kapel" creationdate="20230401T205115Z">
-        <seg>[fuzzy]&amp;Finish</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T205246Z" creationid="kapel" creationdate="20230401T205115Z">
+        <seg>Ukończony</seg>
       </tuv>
     </tu>
     <tu>
@@ -10601,6 +10601,14 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T183706Z" creationid="Maja" creationdate="20230330T183706Z">
         <seg>Nazwa użytkownika lub klucz interfejsu API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validating tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T205248Z" creationid="kapel" creationdate="20230401T205248Z">
+        <seg>[fuzzy]Sprawdzanie znaczników...</seg>
       </tuv>
     </tu>
     <tu>
