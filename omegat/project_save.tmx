@@ -1807,6 +1807,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;lear</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T163208Z" creationid="MS" creationdate="20230401T163208Z">
+        <seg>Usuń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070600Z">
@@ -1947,6 +1955,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T203113Z" creationid="biegajacy-zajac" creationdate="20230321T161002Z">
         <seg>Znak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character Table</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T163241Z" creationid="MS" creationdate="20230401T163241Z">
+        <seg>Tablica znaków</seg>
       </tuv>
     </tu>
     <tu>
@@ -9475,6 +9491,14 @@ Bieżące ustawienie to {0}MB;</seg>
         <seg>Warning</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T202801Z" creationid="JU" creationdate="20230330T202801Z">
+        <seg>Ostrzeżenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T163848Z" creationid="MS" creationdate="20230401T163848Z">
         <seg>Ostrzeżenie</seg>
       </tuv>
     </tu>
