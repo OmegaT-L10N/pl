@@ -4074,8 +4074,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Executing script {0} (event {1})</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T211008Z" creationid="kapel" creationdate="20230401T211008Z">
-        <seg>Executing script {0} (event {1})</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T211743Z" creationid="kapel" creationdate="20230401T211008Z">
+        <seg>Wykonanie skryptu {0} (zdarzenie {1})</seg>
       </tuv>
     </tu>
     <tu>
