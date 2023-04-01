@@ -8249,6 +8249,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SVN '{0}' execution finished successfully</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T213902Z" creationid="kapel" creationdate="20230401T213902Z">
+        <seg>SVN '{0}' execution finished successfully</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN '{0}' execution start</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T213858Z" creationid="kapel" creationdate="20230401T213858Z">
+        <seg>Początek wykonywania SVN '{0}' </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sample Output</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T210203Z" creationid="littlewhitedirect" creationdate="20230331T210203Z">
@@ -9812,6 +9828,14 @@ But others await</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T200939Z" creationid="JU" creationdate="20230330T200939Z">
         <seg>Wybrane pliki nie są wspierane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified folder is not an OmegaT project, or the project file is broken, or there is no valid backup.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T213356Z" creationid="kapel" creationdate="20230401T213356Z">
+        <seg>Podany folder nie jest projektem OmegaT, plik projektu jest uszkodzony lub nie ma ważnej kopii zapasowej.</seg>
       </tuv>
     </tu>
     <tu>
