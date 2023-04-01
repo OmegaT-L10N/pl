@@ -1847,6 +1847,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bidirectional control characters</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T173633Z" creationid="MS" creationdate="20230401T173633Z">
+        <seg>Dwukierunkowy znak kontrolny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bookmark &amp;references</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190218Z" creationid="ZOO" creationdate="20230324T190218Z">
@@ -4257,6 +4265,30 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="PL" changeid="ghuzytkownik" changedate="20230331T185932Z" creationid="ghuzytkownik" creationdate="20230331T185932Z">
         <seg>Francuski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From 100% memory</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T173647Z" creationid="MS" creationdate="20230401T173647Z">
+        <seg>[fuzzy]Z pamięci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From ICE memory</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T173646Z" creationid="MS" creationdate="20230401T173646Z">
+        <seg>Z pamięci ICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From memory</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T173638Z" creationid="MS" creationdate="20230401T173638Z">
+        <seg>Z pamięci</seg>
       </tuv>
     </tu>
     <tu>
