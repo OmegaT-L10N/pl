@@ -7302,6 +7302,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Perhaps it is already opened in another OmegaT instance</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T212925Z" creationid="kapel" creationdate="20230401T212925Z">
+        <seg>Perhaps it is already opened in another OmegaT instance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pinpoint Align: Select corresponding cell</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T202207Z" creationid="JU" creationdate="20230330T202207Z">
@@ -7634,8 +7642,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Project locked.</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T212853Z" creationid="kapel" creationdate="20230401T212853Z">
-        <seg>Project locked.</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T212921Z" creationid="kapel" creationdate="20230401T212853Z">
+        <seg>Projekt zablokowany.</seg>
       </tuv>
     </tu>
     <tu>
