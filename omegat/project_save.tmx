@@ -2759,8 +2759,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Conversion to the new team project format cannot be performed in console mode.</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T221942Z" creationid="kapel" creationdate="20230401T221942Z">
-        <seg>Conversion to the new team project format cannot be performed in console mode.</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T222052Z" creationid="kapel" creationdate="20230401T221942Z">
+        <seg>Konwersja do nowego formatu projektu grupowego nie może zostać wykonana w trybie konsoli.</seg>
       </tuv>
     </tu>
     <tu>
