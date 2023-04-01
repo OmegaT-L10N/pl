@@ -3521,6 +3521,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclude orphan segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T121831Z" creationid="Hania M" creationdate="20230401T121831Z">
+        <seg>Wyklucz segmenty osierocone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Executing post-processing commands...</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T065137Z" creationid="tobkub" creationdate="20230328T065137Z">
