@@ -1414,8 +1414,8 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       <tuv lang="EN">
         <seg>Add Script</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T182018Z" creationid="kapel" creationdate="20230401T182018Z">
-        <seg>Add Script</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T182054Z" creationid="kapel" creationdate="20230401T182018Z">
+        <seg>Dodaj skrypt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7466,6 +7466,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove Script</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T182107Z" creationid="kapel" creationdate="20230401T182107Z">
+        <seg>Usuń skrypt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Tags</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T201907Z" creationid="JU" creationdate="20230330T201907Z">
@@ -7879,6 +7887,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155242Z" creationid="maciej-pqr" creationdate="20230331T155242Z">
         <seg>Scribus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script "{0}" bound to slot #{1}.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T182148Z" creationid="kapel" creationdate="20230401T182148Z">
+        <seg>[fuzzy]Brak skryptu powiązanego z gniazdem. #{0}.</seg>
       </tuv>
     </tu>
     <tu>
