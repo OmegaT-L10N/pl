@@ -10336,6 +10336,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unexpected char {0} ({1})!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T211314Z" creationid="Hania M" creationdate="20230401T211314Z">
+        <seg>Nieoczekiwany znak {0} ({1})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unique Characters (w/ spaces)</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070531Z" creationid="tobkub" creationdate="20230328T070531Z">
