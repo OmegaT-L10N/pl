@@ -1468,6 +1468,22 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aligner highlight</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T180317Z" creationid="MS" creationdate="20230401T180317Z">
+        <seg>Wyrównywanie wyróżnione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aligner table row highlight</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T180355Z" creationid="MS" creationdate="20230401T180355Z">
+        <seg>Wyrównywaniewierszy w tabely wyróżnione </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165551Z" creationid="biegajacy-zajac" creationdate="20230321T161520Z">
@@ -4445,6 +4461,30 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary note</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T175631Z" creationid="MS" creationdate="20230401T175631Z">
+        <seg>Uwagi z glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary source</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T175616Z" creationid="MS" creationdate="20230401T175616Z">
+        <seg>Źródło z glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T175624Z" creationid="MS" creationdate="20230401T175624Z">
+        <seg>Tłumaczenie z glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to Preferences &gt; Global External Searches to enable them.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T204028Z" creationid="biegajacy-zajac" creationdate="20230321T202703Z">
@@ -4669,6 +4709,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104546Z" creationid="janmars" creationdate="20230327T104546Z">
         <seg>Historia przewidywań</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hyperlinks</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T175651Z" creationid="MS" creationdate="20230401T175651Z">
+        <seg>Hiperłącza</seg>
       </tuv>
     </tu>
     <tu>
@@ -5488,8 +5536,8 @@ Its winter has come</seg>
       <tuv lang="EN">
         <seg>Machine translate highlight</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230321T161325Z" creationid="janmars" creationdate="20230321T161325Z">
-        <seg>Machine translate highlight</seg>
+      <tuv lang="PL" changeid="MS" changedate="20230401T180527Z" creationid="janmars" creationdate="20230321T161325Z">
+        <seg>Tłumaczenie maszynowe wyróżnione</seg>
       </tuv>
     </tu>
     <tu>
@@ -6248,6 +6296,22 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T163751Z" creationid="klaudiakempa" creationdate="20230331T163751Z">
         <seg>Notatnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notification (flash)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T180157Z" creationid="MS" creationdate="20230401T180157Z">
+        <seg>Powiadomienia (migające)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notification (steady)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T180147Z" creationid="MS" creationdate="20230401T180147Z">
+        <seg>Powiadomienia (stałę)</seg>
       </tuv>
     </tu>
     <tu>
