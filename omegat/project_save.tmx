@@ -7632,6 +7632,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project locked.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T212853Z" creationid="kapel" creationdate="20230401T212853Z">
+        <seg>Project locked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project path only: Launch GUI and load specified project.</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230321T143638Z" creationid="leoi23" creationdate="20230321T143638Z">
