@@ -9641,6 +9641,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T220719Z" creationid="Hania M" creationdate="20230401T220719Z">
+        <seg>Plik TMX został utworzony przez OmegaT w wersji 1.4.x lub wcześniejszej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tab</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104026Z" creationid="janmars" creationdate="20230327T104026Z">
@@ -10898,6 +10906,14 @@ nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Upgrading...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T220725Z" creationid="Hania M" creationdate="20230401T220725Z">
+        <seg>Uaktualnianie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
 	See --help.</seg>
       </tuv>
@@ -11494,6 +11510,9 @@ Your page is not found</seg>
     <tu>
       <tuv lang="EN">
         <seg>Your current project uses sentence segmentation, but the TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T220737Z">
+        <seg>Bieżący projekt używa segmentacji opartej na zdaniach, zaś plik TMX segmentacji opartej na akapitach.</seg>
       </tuv>
     </tu>
     <tu>
