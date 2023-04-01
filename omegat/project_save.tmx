@@ -8212,6 +8212,16 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text Replace:
+Replace applies to the target segments of the project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T112900Z" creationid="Hania M" creationdate="20230401T110230Z">
+        <seg>Zastępowanie tekstu:
+Replace applies to the target segments of the project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text to remove</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104039Z" creationid="janmars" creationdate="20230327T104039Z">
@@ -9347,7 +9357,9 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>albo: Zarówno w wyszukiwaniu dokładnym, jak i słów kluczowych, można użyć symboli wieloznacznych * i ?</note>
+      <note>albo: Zarówno w wyszukiwaniu dokładnym, jak i słów kluczowych, można użyć symboli wieloznacznych * i ?
+
+Zastanawiałam się, czy nie powinnam używać polskiego cudzysłowu, jednak po przejrzeniu podręcznika Microsoftu zdecydowałam się na użycie ' "" '.</note>
       <tuv lang="EN">
         <seg>Wildcards:
 Both exact and keyword searches support the * and ?</seg>
