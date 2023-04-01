@@ -2710,8 +2710,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230321T161340Z" creationid="janmars" creationdate="20230321T161340Z">
-        <seg>Connection available, the project is in team project mode.</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T221735Z" creationid="janmars" creationdate="20230321T161340Z">
+        <seg>Dostępne połączenie, projekt jest w trybie projektu grupowego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9995,8 +9995,8 @@ But others await</seg>
       <tuv lang="EN">
         <seg>The project is in offline mode.</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T221438Z" creationid="kapel" creationdate="20230401T221438Z">
-        <seg>The project is in offline mode.</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T221522Z" creationid="kapel" creationdate="20230401T221438Z">
+        <seg>Projekt jest w trybie offline.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10045,6 +10045,14 @@ But others await</seg>
       </tuv>
       <tuv lang="PL" changeid="kapel" changedate="20230401T213356Z" creationid="kapel" creationdate="20230401T213356Z">
         <seg>Podany folder nie jest projektem OmegaT, plik projektu jest uszkodzony lub nie ma ważnej kopii zapasowej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified project is an OmegaT 3.6 team project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T221746Z" creationid="kapel" creationdate="20230401T221746Z">
+        <seg>The specified project is an OmegaT 3.6 team project.</seg>
       </tuv>
     </tu>
     <tu>
