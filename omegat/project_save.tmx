@@ -1769,6 +1769,14 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Attribute:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T204157Z" creationid="kapel" creationdate="20230401T204157Z">
+        <seg>Atrybuty:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Authentication</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102848Z" creationid="janmars" creationdate="20230327T102848Z">
@@ -5125,6 +5133,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155252Z" creationid="maciej-pqr" creationdate="20230331T155252Z">
         <seg>Infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initializing</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T204159Z" creationid="kapel" creationdate="20230401T204159Z">
+        <seg>Initializing</seg>
       </tuv>
     </tu>
     <tu>
