@@ -5171,6 +5171,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Maximum number of finds has been reached ({0})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T122014Z" creationid="Hania M" creationdate="20230401T122014Z">
+        <seg>[fuzzy]Osiągnięto maksymalną liczbę wyników wyszukiwania ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Merge</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T201554Z" creationid="JU" creationdate="20230330T201554Z">
