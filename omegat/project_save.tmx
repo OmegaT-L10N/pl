@@ -4709,6 +4709,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyword searches are not available in the search string.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T114321Z" creationid="Hania M" creationdate="20230401T114321Z">
+        <seg>Wyszukiwanie słów kluczowych nie jest możliwe .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>L&amp;og...</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T175950Z" creationid="klaudiakempa" creationdate="20230331T175950Z">
