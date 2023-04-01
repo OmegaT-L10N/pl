@@ -4677,8 +4677,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Git '{0}' error: {1}</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T214525Z" creationid="kapel" creationdate="20230401T214525Z">
-        <seg>Git '{0}' error: {1}</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T214547Z" creationid="kapel" creationdate="20230401T214525Z">
+        <seg>Błąd Git '{0}': {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7751,6 +7751,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230330T182707Z" creationid="biegajacy-zajac" creationdate="20230321T195452Z">
         <seg>Dostawca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Push failed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T214551Z" creationid="kapel" creationdate="20230401T214551Z">
+        <seg>Push failed.</seg>
       </tuv>
     </tu>
     <tu>
