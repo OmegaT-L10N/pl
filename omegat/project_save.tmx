@@ -6166,6 +6166,9 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>No script set.</seg>
       </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T180037Z">
+        <seg>Nie ustawiono skryptu.No script set.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
