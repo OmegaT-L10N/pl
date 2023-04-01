@@ -4723,6 +4723,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Git notification: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T214955Z" creationid="kapel" creationdate="20230401T214955Z">
+        <seg>Powiadomienie Git: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Global</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190505Z" creationid="ZOO" creationdate="20230324T190505Z">
@@ -6966,6 +6974,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T203747Z" creationid="biegajacy-zajac" creationdate="20230321T201348Z">
         <seg>Docelowy motyw OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT does not have access to the remote repository: verify your connection or your credentials.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T215006Z" creationid="kapel" creationdate="20230401T215006Z">
+        <seg>OmegaT does not have access to the remote repository: verify your connection or your credentials.</seg>
       </tuv>
     </tu>
     <tu>
