@@ -1188,6 +1188,14 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant format): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T171530Z" creationid="MS" creationdate="20230401T171530Z">
+        <seg>&lt;html&gt;Dodaj wzorce wykorzystujące symbole wieloznaczne (Apache Ant format):&lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Przykład: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T211621Z" creationid="littlewhitedirect" creationdate="20230331T211621Z">
@@ -1384,6 +1392,14 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185308Z" creationid="ZOO" creationdate="20230324T185308Z">
         <seg>Dodano {0} hasła do glosariusza z {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Added: {1}, Deleted: {2}, Modified: {3} (Conflicts: {0})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T171105Z" creationid="MS" creationdate="20230401T171105Z">
+        <seg>Dodane: {1}, Usunięte: {2}, Zmodyfikowane: {3} (Konflikty: {0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -3749,6 +3765,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclusion Patterns</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T171213Z" creationid="MS" creationdate="20230401T171213Z">
+        <seg>Wzorce wyłączne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Executing post-processing commands...</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T065137Z" creationid="tobkub" creationdate="20230328T065137Z">
@@ -5389,6 +5413,14 @@ Its winter has come</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Mask</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T171219Z" creationid="MS" creationdate="20230401T171219Z">
+        <seg>Maska</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Oba słowa powinny być od wielkich czy małych liter?</note>
       <tuv lang="EN">
         <seg>Master Password</seg>
@@ -6016,8 +6048,8 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>Note</seg>
       </tuv>
-      <tuv lang="PL" changeid="JU" changedate="20230330T184551Z" creationid="JU" creationdate="20230330T184551Z">
-        <seg>Notatki</seg>
+      <tuv lang="PL" changeid="MS" changedate="20230401T171010Z" creationid="JU" creationdate="20230330T184551Z">
+        <seg>Uwaga</seg>
       </tuv>
     </tu>
     <tu>
