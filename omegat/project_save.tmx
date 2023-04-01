@@ -3615,6 +3615,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T192548Z" creationid="kapel" creationdate="20230401T192548Z">
+        <seg>Enter the name of this set:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T182934Z" creationid="klaudiakempa" creationdate="20230331T182934Z">
@@ -8045,8 +8053,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Save Current Set...</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T192409Z" creationid="kapel" creationdate="20230401T192409Z">
-        <seg>Save Current Set...</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T192545Z" creationid="kapel" creationdate="20230401T192409Z">
+        <seg>Zapisz bieżące ustawienia...</seg>
       </tuv>
     </tu>
     <tu>
