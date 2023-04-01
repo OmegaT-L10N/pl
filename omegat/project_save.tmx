@@ -2682,6 +2682,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom Colours Selection</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T171807Z" creationid="MS" creationdate="20230401T171807Z">
+        <seg>Wybór kolorów spersonalizowanych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom branch</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103018Z">
