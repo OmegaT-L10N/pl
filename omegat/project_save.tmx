@@ -1760,6 +1760,14 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T171830Z" creationid="MS" creationdate="20230401T171830Z">
+        <seg>Tło</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>ew. zamiast "folder": "katalog"
 </note>
       <tuv lang="EN">
@@ -2682,10 +2690,18 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom Colours</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T171826Z" creationid="MS" creationdate="20230401T171816Z">
+        <seg>Kolory personalizowane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom Colours Selection</seg>
       </tuv>
-      <tuv lang="PL" changeid="MS" changedate="20230401T171807Z" creationid="MS" creationdate="20230401T171807Z">
-        <seg>Wybór kolorów spersonalizowanych</seg>
+      <tuv lang="PL" changeid="MS" changedate="20230401T171819Z" creationid="MS" creationdate="20230401T171807Z">
+        <seg>Wybór kolorów personalizowanych</seg>
       </tuv>
     </tu>
     <tu>
@@ -8661,8 +8677,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Text</seg>
       </tuv>
-      <tuv lang="PL" changeid="ZOO" changedate="20230324T185909Z" creationid="ZOO" creationdate="20230324T185909Z">
-        <seg>Pliki tekstowe</seg>
+      <tuv lang="PL" changeid="MS" changedate="20230401T172038Z" creationid="ZOO" creationdate="20230324T185909Z">
+        <seg>Tekst</seg>
       </tuv>
     </tu>
     <tu>
