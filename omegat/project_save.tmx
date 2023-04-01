@@ -3315,11 +3315,13 @@ No one hears your screams</seg>
       </tuv>
     </tu>
     <tu>
+      <note>ew. zamiast "zamiana": "zastąpienie"?
+</note>
       <tuv lang="EN">
         <seg>Error during regular expression replacement:</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230401T122856Z" creationid="Hania M" creationdate="20230401T122856Z">
-        <seg>Error during regular expression replacement:</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T164637Z" creationid="Hania M" creationdate="20230401T122856Z">
+        <seg>Błąd poczas zamiany wyrażeń regularnych:</seg>
       </tuv>
     </tu>
     <tu>
