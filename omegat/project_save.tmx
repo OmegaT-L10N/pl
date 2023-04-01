@@ -4325,6 +4325,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finished</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T205115Z" creationid="kapel" creationdate="20230401T205115Z">
+        <seg>[fuzzy]&amp;Finish</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finnish</seg>
       </tuv>
       <tuv lang="PL" changeid="ghuzytkownik" changedate="20230331T185922Z" creationid="ghuzytkownik" creationdate="20230331T185922Z">
@@ -9316,8 +9324,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Tag validation failed</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T204852Z" creationid="kapel" creationdate="20230401T204852Z">
-        <seg>Tag validation failed</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T205010Z" creationid="kapel" creationdate="20230401T204852Z">
+        <seg>Walidacja znacznika nie powiodła się</seg>
       </tuv>
     </tu>
     <tu>
@@ -9967,6 +9975,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T162659Z" creationid="luizakolosa" creationdate="20230331T162659Z">
         <seg>Przetłumaczone niepowtarzające się segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translating Project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T205132Z" creationid="kapel" creationdate="20230401T205059Z">
+        <seg>Projekt tłumaczeniowy</seg>
       </tuv>
     </tu>
     <tu>
