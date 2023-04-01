@@ -3356,6 +3356,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error searching folder tree!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T122256Z" creationid="Hania M" creationdate="20230401T122256Z">
+        <seg>Error searching folder tree!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error starting post-processing commands: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T065254Z" creationid="tobkub" creationdate="20230328T065138Z">
