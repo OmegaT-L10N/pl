@@ -1029,6 +1029,20 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>-- 148&gt; | language = [[日本語]]・[[&lt;t0&gt;ドイツ&lt;/t0&gt;語]]
+---------
+-- 177&gt; [[2001年]]、&lt;t1&gt;ドイツ&lt;/t1&gt;の永住権を取得。
+---------</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T165703Z" creationid="Hania M" creationdate="20230401T165703Z">
+        <seg>-- 148&gt; | language = [[日本語]]・[[&lt;t0&gt;ドイツ&lt;/t0&gt;語]]
+---------
+-- 177&gt; [[2001年]]、&lt;t1&gt;ドイツ&lt;/t1&gt;の永住権を取得。
+---------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>---- Localization Notes ----</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154441Z" creationid="maciej-pqr" creationdate="20230331T154441Z">
@@ -2856,6 +2870,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195634Z" creationid="biegajacy-zajac" creationdate="20230321T195529Z">
         <seg>Wyświetl opis zawartości TBX i glosariuszy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display: all matching segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T165621Z" creationid="Hania M" creationdate="20230401T165621Z">
+        <seg>Display: all matching segments</seg>
       </tuv>
     </tu>
     <tu>
@@ -8599,6 +8621,14 @@ But others await</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T190429Z" creationid="Maja" creationdate="20230330T190429Z">
         <seg>Skrypt "{0}" jest uruchomiony...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The search window has its own menus:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Hania M" changedate="20230401T165740Z" creationid="Hania M" creationdate="20230401T165740Z">
+        <seg>The search window has its own menus:</seg>
       </tuv>
     </tu>
     <tu>
