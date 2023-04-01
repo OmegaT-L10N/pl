@@ -1412,6 +1412,14 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add Script</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T182018Z" creationid="kapel" creationdate="20230401T182018Z">
+        <seg>Add Script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230401T162915Z">
