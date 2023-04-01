@@ -1083,6 +1083,14 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1 conflict</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T165704Z" creationid="MS" creationdate="20230401T165704Z">
+        <seg>1 problem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1 segment</seg>
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230401T165609Z" creationid="MS" creationdate="20230401T165609Z">
@@ -2758,6 +2766,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T163902Z" creationid="biegajacy-zajac" creationdate="20230321T161512Z">
         <seg>Opis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Details unavailable</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T165739Z" creationid="MS" creationdate="20230401T165739Z">
+        <seg>Szczegóły niedostępne</seg>
       </tuv>
     </tu>
     <tu>
@@ -9517,6 +9533,22 @@ Bieżące ustawienie to {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use all mine</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T170022Z" creationid="MS" creationdate="20230401T170022Z">
+        <seg>Użyj wszystkich własnych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use all original</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T170216Z" creationid="MS" creationdate="20230401T170216Z">
+        <seg>Użyj wszystkich oryginalnych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use as Default Translati&amp;on</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T155927Z" creationid="klaudiakempa" creationdate="20230331T155927Z">
@@ -10098,6 +10130,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="Hania M" changedate="20230401T170204Z" creationid="Hania M" creationdate="20230401T170204Z">
         <seg>{0} + {1} więcej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} conflicts</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T165650Z" creationid="MS" creationdate="20230401T165650Z">
+        <seg>{0} problemy</seg>
       </tuv>
     </tu>
     <tu>
