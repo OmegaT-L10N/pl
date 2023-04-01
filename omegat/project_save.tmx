@@ -1252,6 +1252,14 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;none&gt;</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T182551Z" creationid="kapel" creationdate="20230401T182551Z">
+        <seg>&lt;brak&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191544Z" creationid="ZOO" creationdate="20230324T191544Z">
@@ -7893,8 +7901,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Script "{0}" bound to slot #{1}.</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T182148Z" creationid="kapel" creationdate="20230401T182148Z">
-        <seg>[fuzzy]Brak skryptu powiązanego z gniazdem. #{0}.</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T182446Z" creationid="kapel" creationdate="20230401T182148Z">
+        <seg>Skrypt ''{0}'' powiązany z gniazdem. #{0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7903,6 +7911,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T190943Z" creationid="Maja" creationdate="20230330T190943Z">
         <seg>Skrypt "{0}" został zapisany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script "{0}" unbound from slot #{1}.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T182516Z" creationid="kapel" creationdate="20230401T182516Z">
+        <seg>Skrypt "{0}" odłączony od gniazda. #{1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10640,6 +10656,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T190508Z" creationid="Maja" creationdate="20230330T190508Z">
         <seg>zrobione (upłynęło {0} ms)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>extensions:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T182631Z" creationid="kapel" creationdate="20230401T182631Z">
+        <seg>rozszerzenia:</seg>
       </tuv>
     </tu>
     <tu>
