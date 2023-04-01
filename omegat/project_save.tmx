@@ -1085,8 +1085,8 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       <tuv lang="EN">
         <seg>1 conflict</seg>
       </tuv>
-      <tuv lang="PL" changeid="MS" changedate="20230401T165704Z" creationid="MS" creationdate="20230401T165704Z">
-        <seg>1 problem</seg>
+      <tuv lang="PL" changeid="MS" changedate="20230401T170350Z" creationid="MS" creationdate="20230401T165704Z">
+        <seg>1 konflikt</seg>
       </tuv>
     </tu>
     <tu>
@@ -2393,6 +2393,22 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Conflict resolution</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T170411Z" creationid="MS" creationdate="20230401T170259Z">
+        <seg>Rozwiązywanie konfliktów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conflict {0} of {1}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T170342Z" creationid="MS" creationdate="20230401T170342Z">
+        <seg>Konflikt </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Connect to custom server instead of apertium.org</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T180917Z" creationid="Maja" creationdate="20230330T180833Z">
@@ -2738,6 +2754,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deleted</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T170419Z" creationid="MS" creationdate="20230401T170419Z">
+        <seg>Usunięty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Deletion failed</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230331T140311Z" creationid="leoi23" creationdate="20230331T140311Z">
@@ -3046,6 +3070,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T205443Z" creationid="biegajacy-zajac" creationdate="20230321T205443Z">
         <seg>Nie pytaj przed sprawdzaniem błędów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Done</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T170251Z" creationid="MS" creationdate="20230401T170251Z">
+        <seg>Ukończone</seg>
       </tuv>
     </tu>
     <tu>
@@ -6654,6 +6686,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Processing...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T170320Z" creationid="MS" creationdate="20230401T170320Z">
+        <seg>Przetwarzanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Properties</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T070741Z">
@@ -9549,6 +9589,14 @@ Bieżące ustawienie to {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use all updated</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T170239Z" creationid="MS" creationdate="20230401T170239Z">
+        <seg>Użyj wszystkich zaktualizowanych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use as Default Translati&amp;on</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T155927Z" creationid="klaudiakempa" creationdate="20230331T155927Z">
@@ -10136,8 +10184,8 @@ Your page is not found</seg>
       <tuv lang="EN">
         <seg>{0} conflicts</seg>
       </tuv>
-      <tuv lang="PL" changeid="MS" changedate="20230401T165650Z" creationid="MS" creationdate="20230401T165650Z">
-        <seg>{0} problemy</seg>
+      <tuv lang="PL" changeid="MS" changedate="20230401T170404Z" creationid="MS" creationdate="20230401T165650Z">
+        <seg>{0} konfliktów</seg>
       </tuv>
     </tu>
     <tu>
