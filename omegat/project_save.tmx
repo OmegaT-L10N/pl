@@ -4437,6 +4437,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary matches</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T174853Z" creationid="MS" creationdate="20230401T174853Z">
+        <seg>Dopasowania z glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to Preferences &gt; Global External Searches to enable them.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T204028Z" creationid="biegajacy-zajac" creationdate="20230321T202703Z">
@@ -5189,6 +5197,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T212316Z" creationid="sandraczapska" creationdate="20230328T212316Z">
         <seg>Language Installer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language checker</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T174708Z" creationid="MS" creationdate="20230401T174708Z">
+        <seg>Sprawdzanie pisowni</seg>
       </tuv>
     </tu>
     <tu>
@@ -7364,6 +7380,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T174634Z" creationid="MS" creationdate="20230401T174634Z">
+        <seg>Zamień</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace Translation with Match or Selection</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230328T070932Z">
@@ -8486,6 +8510,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T072006Z" creationid="tobkub" creationdate="20230328T072006Z">
         <seg>Podaj ich nową lokalizację lub stwórz je na nowo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellcheck</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T174949Z" creationid="MS" creationdate="20230401T174949Z">
+        <seg>Sprawdzanie pisowni</seg>
       </tuv>
     </tu>
     <tu>
