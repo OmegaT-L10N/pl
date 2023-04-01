@@ -4667,6 +4667,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Git '{0}' execution start</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T214328Z" creationid="kapel" creationdate="20230401T214328Z">
+        <seg>Git '{0}' execution start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Global</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190505Z" creationid="ZOO" creationdate="20230324T190505Z">
@@ -10430,8 +10438,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Unable to commit because remote translation was changed.</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T214017Z" creationid="kapel" creationdate="20230401T214017Z">
-        <seg>Unable to commit because remote translation was changed.</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T214235Z" creationid="kapel" creationdate="20230401T214017Z">
+        <seg>Nie można wykonać, ponieważ tłumaczenie zdalne zostało zmienione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11037,6 +11045,14 @@ Both exact and keyword searches support the * and ?</seg>
       <tuv lang="PL" changeid="Hania M" changedate="20230331T094342Z" creationid="Hania M" creationdate="20230321T141027Z">
         <seg>Symbole wieloznaczne
 Oba rodzaje wyszukiwania obsługują symbole wieloznaczne "*" i "?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Will be synchronized next time.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T214323Z" creationid="kapel" creationdate="20230401T214323Z">
+        <seg>Zostanie zsynchronizowany następnym razem.</seg>
       </tuv>
     </tu>
     <tu>
