@@ -1308,6 +1308,38 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Active segment source</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T172057Z" creationid="MS" creationdate="20230401T172057Z">
+        <seg>Źródło aktywnego segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Active segment source text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T172110Z" creationid="MS" creationdate="20230401T172110Z">
+        <seg>Tekst źródłowy aktywnego segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Active segment target</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T172123Z" creationid="MS" creationdate="20230401T172123Z">
+        <seg>Tłumaczenie aktywnego segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Active segment target text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T172315Z" creationid="MS" creationdate="20230401T172315Z">
+        <seg>Przetłumaczony tekst aktywnego segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T205715Z" creationid="littlewhitedirect" creationdate="20230331T205715Z">
