@@ -3827,6 +3827,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filename variables:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230401T145458Z" creationid="ghuzytkownik" creationdate="20230401T145458Z">
+        <seg>Zmienne nazwy pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter</seg>
       </tuv>
       <tuv lang="pl" changeid="luizakolosa" changedate="20230331T161029Z" creationid="luizakolosa" creationdate="20230331T161029Z">
@@ -4127,6 +4135,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="Maja" changedate="20230330T180230Z" creationid="Maja" creationdate="20230330T180230Z">
         <seg>Tłumacz Google v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HTML file too big!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230401T145621Z" creationid="ghuzytkownik" creationdate="20230401T145621Z">
+        <seg>Plik HTML zbyt duży.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4563,6 +4579,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="pl" changeid="tobkub" changedate="20230328T065049Z">
         <seg>Niewystarczające uprawnienia do utworzenia katalogu projektu {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invalid HTML file</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230401T145810Z" creationid="ghuzytkownik" creationdate="20230401T145810Z">
+        <seg>Nieprawidłowy plik HTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -6484,6 +6508,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project autosaved at {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230401T145550Z" creationid="ghuzytkownik" creationdate="20230401T145550Z">
+        <seg>Projekt zapisano automatycznie w</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project closed</seg>
       </tuv>
       <tuv lang="pl" changeid="leoi23" changedate="20230331T135359Z" creationid="leoi23" creationdate="20230331T135359Z">
@@ -7816,6 +7848,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source file encoding:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230401T145433Z" creationid="ghuzytkownik" creationdate="20230401T145433Z">
+        <seg>Kodowanie pliku źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="pl" changeid="luizakolosa" changedate="20230331T170711Z" creationid="luizakolosa" creationdate="20230331T170711Z">
@@ -7827,6 +7867,14 @@ These words: 'Page not found'</seg>
         <seg>Source filename pattern</seg>
       </tuv>
       <tuv lang="pl" changeid="ZOO" changedate="20230324T185902Z" creationid="ZOO" creationdate="20230324T185902Z">
+        <seg>Wzór nazwy pliku źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename pattern:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230401T145410Z" creationid="ghuzytkownik" creationdate="20230401T145410Z">
         <seg>Wzór nazwy pliku źródłowego</seg>
       </tuv>
     </tu>
@@ -8711,6 +8759,14 @@ the server.</seg>
         <seg>Translated file encoding</seg>
       </tuv>
       <tuv lang="pl" changeid="ZOO" changedate="20230324T185906Z" creationid="ZOO" creationdate="20230324T185906Z">
+        <seg>Kodowanie pliku docelowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated file encoding:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230401T145445Z" creationid="ghuzytkownik" creationdate="20230401T145445Z">
         <seg>Kodowanie pliku docelowego</seg>
       </tuv>
     </tu>
