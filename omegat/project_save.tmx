@@ -5607,6 +5607,54 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Matches changed</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T175003Z" creationid="MS" creationdate="20230401T175003Z">
+        <seg>Zmiany w dopasowaniach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches deleted active</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T175456Z" creationid="MS" creationdate="20230401T175456Z">
+        <seg>Usuwanie dopasowań aktywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches deleted inactive</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T175534Z" creationid="MS" creationdate="20230401T175534Z">
+        <seg>Usuwanie dopasowań nieaktywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches inserted active</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T175439Z" creationid="MS" creationdate="20230401T175439Z">
+        <seg>Wstawianie dopasowań aktywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches inserted inactive</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T175448Z" creationid="MS" creationdate="20230401T175448Z">
+        <seg>Wstawianie dopasowań nieaktywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches unchanged</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T175014Z" creationid="MS" creationdate="20230401T175014Z">
+        <seg>Dopasowania niezmienione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Matching segments: {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="Hania M" changedate="20230401T170013Z" creationid="Hania M" creationdate="20230401T165352Z">
