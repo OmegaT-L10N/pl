@@ -2757,6 +2757,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Conversion to the new team project format cannot be performed in console mode.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T221942Z" creationid="kapel" creationdate="20230401T221942Z">
+        <seg>Conversion to the new team project format cannot be performed in console mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230328T072813Z" creationid="Maja" creationdate="20230328T072813Z">
@@ -10051,8 +10059,8 @@ But others await</seg>
       <tuv lang="EN">
         <seg>The specified project is an OmegaT 3.6 team project.</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T221746Z" creationid="kapel" creationdate="20230401T221746Z">
-        <seg>The specified project is an OmegaT 3.6 team project.</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T221939Z" creationid="kapel" creationdate="20230401T221746Z">
+        <seg>Wyszczególniony projekt jest projektem grupowym OmegaT 3.6.</seg>
       </tuv>
     </tu>
     <tu>
