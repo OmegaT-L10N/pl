@@ -2767,8 +2767,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T222315Z" creationid="kapel" creationdate="20230401T222315Z">
-        <seg>Convert Old Team Project</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T222506Z" creationid="kapel" creationdate="20230401T222315Z">
+        <seg>Skonwertuj dawny projekt grupowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -7037,6 +7037,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has detected a 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T222831Z" creationid="kapel" creationdate="20230401T222831Z">
+        <seg>OmegaT wykrył projekt grupowy w stylu 3.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform computer-assisted translation (CAT) tool offering fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155547Z" creationid="maciej-pqr" creationdate="20230331T155547Z">
@@ -7632,8 +7640,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Press 'OK' to convert the project into a 4.x team project.</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230321T161353Z" creationid="janmars" creationdate="20230321T161353Z">
-        <seg>Press 'OK' to convert the project into a 4.x team project.</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T223018Z" creationid="janmars" creationdate="20230321T161353Z">
+        <seg>Kliknij 'OK', aby przekonwertować projekt na projekt grupowy 4.x.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10217,10 +10225,8 @@ You, victim of one</seg>
 delete your local data and re-download the project contents from
 the server.</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T193349Z" creationid="biegajacy-zajac" creationdate="20230321T193349Z">
-        <seg>This will
-delete your local data and re-download the project contents from
-the server.</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T223618Z" creationid="biegajacy-zajac" creationdate="20230321T193349Z">
+        <seg>Usunie to twoje lokalne dane i ponownie pobierze zawartość projektu z serwera.</seg>
       </tuv>
     </tu>
     <tu>
