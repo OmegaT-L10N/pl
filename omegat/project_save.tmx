@@ -4146,8 +4146,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Export translation memory folder {0} does not exist.</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T212409Z" creationid="kapel" creationdate="20230401T212409Z">
-        <seg>[fuzzy]Folder z pamięcią tłumaczeniową {0} nie istnieje.</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T212657Z" creationid="kapel" creationdate="20230401T212409Z">
+        <seg>Folder pamięci tłumaczeń eksportu {0} nie istnieje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6636,6 +6636,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="kapel" changedate="20230401T180126Z">
         <seg>Nie ustawiono skryptu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No writable glossary file in the glossary folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T212850Z" creationid="kapel" creationdate="20230401T212850Z">
+        <seg>Brak zapisywalnego pliku glosariusza w folderze z glosariuszem.</seg>
       </tuv>
     </tu>
     <tu>
