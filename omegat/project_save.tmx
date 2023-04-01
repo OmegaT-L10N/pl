@@ -2765,6 +2765,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert Old Team Project</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T222315Z" creationid="kapel" creationdate="20230401T222315Z">
+        <seg>Convert Old Team Project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230328T072813Z" creationid="Maja" creationdate="20230328T072813Z">
@@ -7185,8 +7193,8 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>Open it in the OmegaT GUI to convert it to the new format.</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T102152Z" creationid="janmars" creationdate="20230327T102152Z">
-        <seg>Open it in the OmegaT GUI to convert it to the new format.</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T222313Z" creationid="janmars" creationdate="20230327T102152Z">
+        <seg>Otwórz go w GUI OmegaT, aby przekonwertować go na nowy format.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10011,8 +10019,8 @@ But others await</seg>
       <tuv lang="EN">
         <seg>The project will be loaded as a local project without team functionality.</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230321T161345Z" creationid="janmars" creationdate="20230321T161345Z">
-        <seg>The project will be loaded as a local project without team functionality.</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T222242Z" creationid="janmars" creationdate="20230321T161345Z">
+        <seg>Projekt zostanie załadowany jako projekt lokalny bez funkcjonalności projektu grupowego.</seg>
       </tuv>
     </tu>
     <tu>
