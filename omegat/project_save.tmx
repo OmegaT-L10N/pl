@@ -5639,6 +5639,22 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modification info</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T173107Z" creationid="MS" creationdate="20230401T173107Z">
+        <seg>Informacja o modyfikacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification info text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T173306Z" creationid="MS" creationdate="20230401T173306Z">
+        <seg>Tekst informacji o modyfikacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Monolin&amp;gual</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191218Z" creationid="ZOO" creationdate="20230324T191218Z">
@@ -7240,6 +7256,22 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T184539Z" creationid="JU" creationdate="20230330T184539Z">
         <seg>Powtórzony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repeated segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T173035Z" creationid="MS" creationdate="20230401T173035Z">
+        <seg>Powtarzające się segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repeated segments background</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T173058Z" creationid="MS" creationdate="20230401T173058Z">
+        <seg>Tło powtarzających się segmentów</seg>
       </tuv>
     </tu>
     <tu>
@@ -9255,6 +9287,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230401T172927Z" creationid="MS" creationdate="20230401T172927Z">
         <seg>Segmenty przetłumaczone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated segments text</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T172940Z" creationid="MS" creationdate="20230401T172940Z">
+        <seg>Tekst segmentów przetłumaczonych</seg>
       </tuv>
     </tu>
     <tu>
