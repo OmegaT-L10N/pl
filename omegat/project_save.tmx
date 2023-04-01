@@ -5353,6 +5353,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mine</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T165153Z" creationid="MS" creationdate="20230401T165153Z">
+        <seg>Własny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Minutes:</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103906Z" creationid="janmars" creationdate="20230327T103906Z">
@@ -7086,6 +7094,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Resolve the conflicts by choosing a translation for each segment below.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T165442Z" creationid="MS" creationdate="20230401T165442Z">
+        <seg>Rozwiąż problemy, wybierając tłumaczenie dla każdego z poniższych segmentów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Resource name</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T184527Z" creationid="JU" creationdate="20230330T184527Z">
@@ -7651,6 +7667,22 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T190820Z" creationid="Maja" creationdate="20230330T190820Z">
         <seg>Wybrany silnik: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server (original)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T165139Z" creationid="MS" creationdate="20230401T165139Z">
+        <seg>Serwer (oryginalny)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server (updated)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230401T165205Z" creationid="MS" creationdate="20230401T165205Z">
+        <seg>Serwer (zaktualizowany)</seg>
       </tuv>
     </tu>
     <tu>
