@@ -9298,6 +9298,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T204125Z" creationid="kapel" creationdate="20230401T204125Z">
+        <seg>Znacznik: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tags</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165453Z" creationid="biegajacy-zajac" creationdate="20230321T161529Z">
@@ -9835,8 +9843,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Translate this plural as a plural form #{0}.</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T203728Z" creationid="kapel" creationdate="20230401T203728Z">
-        <seg>Translate this plural as a plural form #{0}.</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T204026Z" creationid="kapel" creationdate="20230401T203728Z">
+        <seg>Przetłumacz to w liczbie mnogiej #{0}.</seg>
       </tuv>
     </tu>
     <tu>
