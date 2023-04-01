@@ -416,8 +416,8 @@
       <tuv lang="EN">
         <seg>&amp;Help</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T175356Z" creationid="klaudiakempa" creationdate="20230331T175356Z">
-        <seg>Pomo&amp;c</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T203219Z" creationid="klaudiakempa" creationdate="20230331T175356Z">
+        <seg>&amp;Pomoc</seg>
       </tuv>
     </tu>
     <tu>
@@ -6656,6 +6656,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T203737Z" creationid="biegajacy-zajac" creationdate="20230321T200838Z">
         <seg>Docelowa OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Javadoc...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="kapel" changedate="20230401T203221Z" creationid="kapel" creationdate="20230401T203221Z">
+        <seg>OmegaT Javadoc...</seg>
       </tuv>
     </tu>
     <tu>
