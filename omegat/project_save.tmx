@@ -6909,6 +6909,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230410T151810Z" creationid="AgnieszkaS" creationdate="20230410T151810Z">
+        <seg>PL: Powiadom, jeśli segment zawiera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notify Me When a Segment Has Multiple Translations</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T185619Z" creationid="Maja" creationdate="20230330T185516Z">
