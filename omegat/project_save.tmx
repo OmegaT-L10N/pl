@@ -3333,6 +3333,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the translation memory segments that match the source segment.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230410T151912Z" creationid="AgnieszkaS" creationdate="20230410T151912Z">
+        <seg>Displays the translation memory segments that match the source segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Distance</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T202215Z" creationid="JU" creationdate="20230330T202215Z">
@@ -6204,6 +6212,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230401T175003Z" creationid="MS" creationdate="20230401T175003Z">
         <seg>Zmiany w dopasowaniach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches come from your current translation or the TMX files placed in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230410T151848Z" creationid="AgnieszkaS" creationdate="20230410T151848Z">
+        <seg>Matches come from your current translation or the TMX files placed in the /tm/ folder.</seg>
       </tuv>
     </tu>
     <tu>
