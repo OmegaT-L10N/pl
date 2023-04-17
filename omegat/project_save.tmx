@@ -889,6 +889,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source (segment {0}):</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T074139Z" creationid="leoi23" creationdate="20230417T074139Z">
+        <seg>Ź&amp;ródło (segment {0}):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Source Files</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230328T090814Z" creationid="sandraczapska" creationdate="20230328T090814Z">
@@ -5863,6 +5871,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool server started</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T074301Z" creationid="leoi23" creationdate="20230417T074301Z">
+        <seg>Uruchomiono serwer LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool: An error occurred during check.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230321T161323Z" creationid="janmars" creationdate="20230321T161323Z">
@@ -10566,6 +10582,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="kapel" changedate="20230401T203458Z" creationid="janmars" creationdate="20230321T161334Z">
         <seg>Komentarze tłumacza:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Try again later.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T074127Z" creationid="leoi23" creationdate="20230417T074127Z">
+        <seg>Spróbuj ponownie później.</seg>
       </tuv>
     </tu>
     <tu>
