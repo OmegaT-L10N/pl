@@ -5849,8 +5849,8 @@ Its winter has come</seg>
       <tuv lang="EN">
         <seg>Language Installer</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T212316Z" creationid="sandraczapska" creationdate="20230328T212316Z">
-        <seg>Language Installer</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T080636Z" creationid="sandraczapska" creationdate="20230328T212316Z">
+        <seg>Instalator języka</seg>
       </tuv>
     </tu>
     <tu>
@@ -5915,6 +5915,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230417T074512Z" creationid="janmars" creationdate="20230327T102136Z">
         <seg>LanguageTool jest źle skonfigurowany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool is not available for your target language.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T080450Z" creationid="leoi23" creationdate="20230417T080450Z">
+        <seg>LanguageTool nie jest dostępny w Twoim języku docelowym.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6075,6 +6083,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T183838Z" creationid="JU" creationdate="20230330T183838Z">
         <seg>Widok listy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Load a project to configure rules for that project's languages.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T080611Z" creationid="leoi23" creationdate="20230417T080611Z">
+        <seg>Załaduj projekt, aby skonfigurować zasady dla języków w tym projekcie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9151,8 +9167,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Select the desired languages and click Install.</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T212253Z" creationid="sandraczapska" creationdate="20230328T212253Z">
-        <seg>Select the desired languages and click Install.</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T080733Z" creationid="sandraczapska" creationdate="20230328T212253Z">
+        <seg>Wybierz żądane języki i kliknij na Instaluj.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10349,6 +10365,14 @@ But others await</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T182825Z" creationid="klaudiakempa" creationdate="20230331T182825Z">
         <seg>There are no Git settings in the remote project file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There was an error initializing LanguageTool.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T080538Z" creationid="leoi23" creationdate="20230417T080538Z">
+        <seg>Wystąpił błąd inicjalizacji LanguageTool.</seg>
       </tuv>
     </tu>
     <tu>
