@@ -5663,6 +5663,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JAR files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T075735Z" creationid="leoi23" creationdate="20230417T075735Z">
+        <seg>Pliki JAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Japanese</seg>
       </tuv>
       <tuv lang="PL" changeid="ghuzytkownik" changedate="20230331T185939Z" creationid="ghuzytkownik" creationdate="20230331T185939Z">
@@ -5903,10 +5911,26 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool settings</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T075424Z" creationid="leoi23" creationdate="20230417T075424Z">
+        <seg>Ustawienia LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool will be disabled until the project is closed.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T075404Z" creationid="leoi23" creationdate="20230417T075404Z">
+        <seg>LanguageTool będzie wyłączony do czasu zamknięcia projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool: An error occurred during check.</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230321T161323Z" creationid="janmars" creationdate="20230321T161323Z">
-        <seg>LanguageTool: An error occurred during check.</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T075337Z" creationid="janmars" creationdate="20230321T161323Z">
+        <seg>LanguageTool: Wystąpił błąd podczas weryfikacji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9049,6 +9073,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T193919Z" creationid="biegajacy-zajac" creationdate="20230321T193919Z">
         <seg>Wybierz typ problemu do sprawdzenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select languagetool-server.jar</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T075448Z" creationid="leoi23" creationdate="20230417T075448Z">
+        <seg>Wybierz languagetool-server.jar</seg>
       </tuv>
     </tu>
     <tu>
