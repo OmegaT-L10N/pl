@@ -5903,6 +5903,22 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool: bad local path</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T074809Z" creationid="leoi23" creationdate="20230417T074809Z">
+        <seg>LanguageTool: niepoprawna ścieżka lokalna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: local port is unavailable</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T074847Z" creationid="leoi23" creationdate="20230417T074847Z">
+        <seg>LanguageTool: lokalny port nie jest dostępny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool: server returned XML when JSON was expected.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102144Z" creationid="janmars" creationdate="20230327T102144Z">
