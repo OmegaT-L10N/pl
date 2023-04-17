@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Built-in (LanguageTool {0})</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T080002Z" creationid="leoi23" creationdate="20230417T080002Z">
+        <seg>&amp;Wbudowany (LanguageTool {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Check for Updates...</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T180054Z" creationid="klaudiakempa" creationdate="20230331T180054Z">
@@ -490,6 +498,14 @@
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T175426Z" creationid="klaudiakempa" creationdate="20230331T175426Z">
         <seg>Ostatnie zmiany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Launch local server</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T080045Z" creationid="leoi23" creationdate="20230417T080045Z">
+        <seg>&amp;Uruchomienie lokalnego serwera</seg>
       </tuv>
     </tu>
     <tu>
@@ -6708,6 +6724,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New LanguageTool rule</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T075924Z" creationid="leoi23" creationdate="20230417T075924Z">
+        <seg>Nowa zasada LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New Local Project Folder:</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103000Z" creationid="janmars" creationdate="20230327T103000Z">
@@ -8216,6 +8240,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T160124Z" creationid="sandraczapska" creationdate="20230328T090622Z">
         <seg>Usuń tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remote &amp;server</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T080117Z" creationid="leoi23" creationdate="20230417T080117Z">
+        <seg>&amp;Zdalny serwer</seg>
       </tuv>
     </tu>
     <tu>
@@ -10710,6 +10742,14 @@ the server.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T163828Z" creationid="biegajacy-zajac" creationdate="20230321T161512Z">
         <seg>Typ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type in new rule ID</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T075903Z" creationid="leoi23" creationdate="20230417T075903Z">
+        <seg>Wpisz ID nowej zasady</seg>
       </tuv>
     </tu>
     <tu>
