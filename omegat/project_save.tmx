@@ -5855,6 +5855,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool API version mismatch</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T074436Z" creationid="leoi23" creationdate="20230417T074436Z">
+        <seg>Wersja LanguageTool API nie jest zgodna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool Issues</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T203138Z" creationid="biegajacy-zajac" creationdate="20230321T161624Z">
@@ -5865,8 +5873,8 @@ Its winter has come</seg>
       <tuv lang="EN">
         <seg>LanguageTool is misconfigured.</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T102136Z" creationid="janmars" creationdate="20230327T102136Z">
-        <seg>LanguageTool is misconfigured.</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T074512Z" creationid="janmars" creationdate="20230327T102136Z">
+        <seg>LanguageTool jest źle skonfigurowany.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5875,6 +5883,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230417T074301Z" creationid="leoi23" creationdate="20230417T074301Z">
         <seg>Uruchomiono serwer LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool server terminated</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T074328Z" creationid="leoi23" creationdate="20230417T074328Z">
+        <seg>Zamknięto serwer LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -9685,6 +9701,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T180407Z" creationid="klaudiakempa" creationdate="20230331T180407Z">
         <seg>Przełącz podgląd za pomocą {0} i {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switching to built-in version.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230417T074729Z" creationid="leoi23" creationdate="20230417T074729Z">
+        <seg>Przełączenie na wersję wbudowaną.</seg>
       </tuv>
     </tu>
     <tu>
