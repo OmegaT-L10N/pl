@@ -6632,6 +6632,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Minimize</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T174406Z" creationid="AgnieszkaS" creationdate="20230418T174406Z">
+        <seg>PL: Minimalizuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Minutes:</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T103906Z" creationid="janmars" creationdate="20230327T103906Z">
