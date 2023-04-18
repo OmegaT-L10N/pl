@@ -3413,6 +3413,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the translation of the current segment provided by the machine translation services selected in Preferences &gt; Machine Translation if those services are available.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T170003Z" creationid="AgnieszkaS" creationdate="20230418T170003Z">
+        <seg>PL : Ten panel wyświetla tłumaczenie segmentu źródłowego za pomocą tłumaczenia maszynowego wybieranego w Preferencje &gt; Tłumaczenie maszynowe, jeśli jest ono dostępne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Distance</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T202215Z" creationid="JU" creationdate="20230330T202215Z">
@@ -6291,6 +6299,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195248Z" creationid="biegajacy-zajac" creationdate="20230321T195248Z">
         <seg>Tłumaczenie maszynowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Machine Translation Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T170004Z" creationid="AgnieszkaS" creationdate="20230418T170004Z">
+        <seg>Machine Translation Options</seg>
       </tuv>
     </tu>
     <tu>
