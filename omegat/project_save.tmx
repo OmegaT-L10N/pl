@@ -3381,6 +3381,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T164241Z" creationid="AgnieszkaS" creationdate="20230418T164241Z">
+        <seg>PL: Ten panel wyświetla hasła znalezione w plikach znajdujących się w folderze /dictionary/, jeżeli hasła te występują w segmencie źródłowym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T105204Z" creationid="janmars" creationdate="20230327T105204Z">
