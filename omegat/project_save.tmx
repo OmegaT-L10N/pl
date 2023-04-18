@@ -10806,6 +10806,15 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will reset all
+settings to their defaults.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T194512Z" creationid="AgnieszkaS" creationdate="20230418T194512Z">
+        <seg>Spowoduje to przywrócenie do ustawień fabrycznych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To add files to the project you can:</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230330T200701Z" creationid="sandraczapska" creationdate="20230330T200029Z">
