@@ -8733,6 +8733,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Restore</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T174518Z" creationid="AgnieszkaS" creationdate="20230418T174518Z">
+        <seg>PL: Przywróć</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194709Z" creationid="biegajacy-zajac" creationdate="20230321T194709Z">
