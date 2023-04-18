@@ -10417,6 +10417,16 @@ Zastępowanie tekstu można zastosować tylko w przypadku segmentów docelowych 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The
+current folder will be used instead.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T192935Z" creationid="AgnieszkaS" creationdate="20230418T192935Z">
+        <seg>Zamiast
+niego zostanie użyty bieżący folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The HTML parser encountered an error during file processing:</seg>
       </tuv>
       <tuv lang="PL" changeid="ghuzytkownik" changedate="20230401T154519Z" creationid="ghuzytkownik" creationdate="20230401T154519Z">
