@@ -6295,6 +6295,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Machine Translations</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T165722Z" creationid="AgnieszkaS" creationdate="20230418T165722Z">
+        <seg>PL: Tłumaczenia maszynowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Machine translate highlight</seg>
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230401T180527Z" creationid="janmars" creationdate="20230321T161325Z">
