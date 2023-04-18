@@ -7439,6 +7439,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T163845Z" creationid="AgnieszkaS" creationdate="20230418T163845Z">
+        <seg>PL: Otwórz plik z edytowalnym słownikiem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open XML Filter Options</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190310Z" creationid="ZOO" creationdate="20230324T190310Z">
