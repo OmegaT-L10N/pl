@@ -7141,6 +7141,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me Even If There Are No Search Results</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T165703Z" creationid="AgnieszkaS" creationdate="20230418T165703Z">
+        <seg>PL: Powiadom mnie nawet jeśli nie ma wyników</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notify Me When a Segment Has "{0}"</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T184216Z" creationid="JU" creationdate="20230330T184216Z">
