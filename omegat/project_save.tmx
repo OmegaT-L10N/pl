@@ -5156,6 +5156,22 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Got unexpected HTTP response {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T195757Z" creationid="AgnieszkaS" creationdate="20230418T195650Z">
+        <seg>Nieprzewidziana odpowiedź HTTP {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Got unexpected MIME TYPE {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T195838Z" creationid="AgnieszkaS" creationdate="20230418T195838Z">
+        <seg>Nieprzewidziany TYP MIME {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Goto &amp;Line...</seg>
       </tuv>
       <tuv lang="PL" changeid="kapel" changedate="20230401T192049Z" creationid="kapel" creationdate="20230401T183811Z">
@@ -10507,6 +10523,16 @@ niego zostanie użyty bieżący folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The current folder will be used
+instead.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T195622Z" creationid="AgnieszkaS" creationdate="20230418T195622Z">
+        <seg>Zamiast niego zostanie użyty bieżący
+folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The file "{0}" is not supported.</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T200931Z" creationid="JU" creationdate="20230330T200931Z">
@@ -12149,9 +12175,9 @@ Your page is not found</seg>
         <seg>You may therefore experience
 unexpected, but correct behaviour.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T195333Z" creationid="AgnieszkaS" creationdate="20230418T194515Z">
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T195717Z" creationid="AgnieszkaS" creationdate="20230418T194515Z">
         <seg>Mogą w związku z tym wystąpić
-nieoczekiwane ale poprawne zachowania.</seg>
+nieprzewidziane ale poprawne zachowania.</seg>
       </tuv>
     </tu>
     <tu>
