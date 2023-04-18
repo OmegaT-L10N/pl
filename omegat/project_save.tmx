@@ -3961,8 +3961,8 @@ No one hears your screams</seg>
       <tuv lang="EN">
         <seg>Error</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084713Z" creationid="sandraczapska" creationdate="20230328T084713Z">
-        <seg>Błąd</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T185936Z" creationid="sandraczapska" creationdate="20230328T084713Z">
+        <seg>PL: Błąd</seg>
       </tuv>
     </tu>
     <tu>
@@ -7507,6 +7507,18 @@ Lost to paradise</seg>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T160413Z" creationid="maciej-pqr" creationdate="20230331T160053Z">
         <seg>Program OmegaT wykorzystuje następujące biblioteki:
 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT was refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T185928Z" creationid="AgnieszkaS" creationdate="20230418T185928Z">
+        <seg>OmegaT was refused access to the system property containing
+the name of your OS and/or the system property containing
+your ho</seg>
       </tuv>
     </tu>
     <tu>
@@ -11761,8 +11773,8 @@ Bieżące ustawienie to {0}MB;</seg>
       <tuv lang="EN">
         <seg>Warning</seg>
       </tuv>
-      <tuv lang="PL" changeid="JU" changedate="20230330T202801Z" creationid="JU" creationdate="20230330T202801Z">
-        <seg>Ostrzeżenie</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190123Z" creationid="JU" creationdate="20230330T202801Z">
+        <seg>PL: Ostrzeżenie</seg>
       </tuv>
     </tu>
     <tu>
