@@ -1385,8 +1385,8 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       <tuv lang="EN">
         <seg>A note is simply a remark about the source text or its translation.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T171408Z" creationid="AgnieszkaS" creationdate="20230418T171408Z">
-        <seg>PL: Notatka może być po prostu uwagą na temat tekstu źródłowego lub jego tłumaczenia.</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190234Z" creationid="AgnieszkaS" creationdate="20230418T171408Z">
+        <seg>Notatka może być po prostu uwagą na temat tekstu źródłowego lub jego tłumaczenia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1537,8 +1537,8 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       <tuv lang="EN">
         <seg>Add Glossary Entry</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T164858Z" creationid="AgnieszkaS" creationdate="20230418T155128Z">
-        <seg>PL: Dodaj wpis do glosariusza</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190154Z" creationid="AgnieszkaS" creationdate="20230418T155128Z">
+        <seg>Dodaj wpis do glosariusza</seg>
       </tuv>
     </tu>
     <tu>
@@ -2670,16 +2670,16 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Comment:</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T171515Z" creationid="AgnieszkaS" creationdate="20230418T171515Z">
-        <seg>PL: Komentarz</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190253Z" creationid="AgnieszkaS" creationdate="20230418T171515Z">
+        <seg>Komentarz</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Comments</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T170236Z" creationid="AgnieszkaS" creationdate="20230418T170236Z">
-        <seg>PL: Komentarze</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190243Z" creationid="AgnieszkaS" creationdate="20230418T170236Z">
+        <seg>Komentarze</seg>
       </tuv>
     </tu>
     <tu>
@@ -3263,8 +3263,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Dictionaries</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T164027Z" creationid="biegajacy-zajac" creationdate="20230321T164616Z">
-        <seg>PL: Słowniki</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190208Z" creationid="biegajacy-zajac" creationdate="20230321T164616Z">
+        <seg>Słowniki</seg>
       </tuv>
     </tu>
     <tu>
@@ -3407,16 +3407,16 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Displays entries from in glossary files located in the /glossary/ folder if they are found in the source segment.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T164304Z" creationid="AgnieszkaS" creationdate="20230418T153852Z">
-        <seg>PL: Ten panel wyświetla hasła znajdujące się w plikach zlokalizowanych w folderze /glossary/, jeżeli hasła te występują w segmencie źródłowym.</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190144Z" creationid="AgnieszkaS" creationdate="20230418T153852Z">
+        <seg>Ten panel wyświetla hasła znajdujące się w plikach zlokalizowanych w folderze /glossary/, jeżeli hasła te występują w segmencie źródłowym.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T164241Z" creationid="AgnieszkaS" creationdate="20230418T164241Z">
-        <seg>PL: Ten panel wyświetla hasła znalezione w plikach znajdujących się w folderze /dictionary/, jeżeli hasła te występują w segmencie źródłowym.</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190211Z" creationid="AgnieszkaS" creationdate="20230418T164241Z">
+        <seg>Ten panel wyświetla hasła znalezione w plikach znajdujących się w folderze /dictionary/, jeżeli hasła te występują w segmencie źródłowym.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3447,8 +3447,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Displays the translation of the current segment provided by the machine translation services selected in Preferences &gt; Machine Translation if those services are available.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T170003Z" creationid="AgnieszkaS" creationdate="20230418T170003Z">
-        <seg>PL : Ten panel wyświetla tłumaczenie segmentu źródłowego za pomocą tłumaczenia maszynowego wybieranego w Preferencje &gt; Tłumaczenie maszynowe, jeśli jest ono dostępne.</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190223Z" creationid="AgnieszkaS" creationdate="20230418T170003Z">
+        <seg>Ten panel wyświetla tłumaczenie segmentu źródłowego za pomocą tłumaczenia maszynowego wybieranego w Preferencje &gt; Tłumaczenie maszynowe, jeśli jest ono dostępne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3543,8 +3543,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Dock</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T174641Z" creationid="AgnieszkaS" creationdate="20230418T174257Z">
-        <seg>PL: Złącz</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190305Z" creationid="AgnieszkaS" creationdate="20230418T174257Z">
+        <seg>Złącz</seg>
       </tuv>
     </tu>
     <tu>
@@ -3751,8 +3751,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Editor - {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T171936Z" creationid="AgnieszkaS" creationdate="20230418T171936Z">
-        <seg>PL: Edytor - {0}</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190300Z" creationid="AgnieszkaS" creationdate="20230418T171936Z">
+        <seg>Edytor - {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3941,8 +3941,8 @@ Your help page not found</seg>
       <tuv lang="EN">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T164830Z" creationid="AgnieszkaS" creationdate="20230418T153858Z">
-        <seg>PL: Wpisy w edytowalnym glosariuszu są pogrubione.</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190148Z" creationid="AgnieszkaS" creationdate="20230418T153858Z">
+        <seg>Wpisy w edytowalnym glosariuszu są pogrubione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4789,8 +4789,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>For file formats and filters that support comments (e.g. PO-filter), displays the comments for the translator concerning the active segment, if any.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T171052Z" creationid="AgnieszkaS" creationdate="20230418T171052Z">
-        <seg>PL: W przypadku filtrów i formatów plików obsługujących komentarze (jak np. filtr PO), opcja ta wyświetla tłumaczowi komentarze aktywnego segmentu.</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190245Z" creationid="AgnieszkaS" creationdate="20230418T171052Z">
+        <seg>W przypadku filtrów i formatów plików obsługujących komentarze (jak np. filtr PO), opcja ta wyświetla tłumaczowi komentarze aktywnego segmentu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5005,8 +5005,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Glossaries</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230410T230850Z">
-        <seg>PL: Glosariusze</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190141Z">
+        <seg>Glosariusze</seg>
       </tuv>
     </tu>
     <tu>
@@ -5625,8 +5625,8 @@ Its winter has come</seg>
       <tuv lang="EN">
         <seg>Insert Selection</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T162831Z" creationid="AgnieszkaS" creationdate="20230418T155450Z">
-        <seg>PL: Wstaw wybór</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190157Z" creationid="AgnieszkaS" creationdate="20230418T155450Z">
+        <seg>Wstaw wybór</seg>
       </tuv>
     </tu>
     <tu>
@@ -5761,8 +5761,8 @@ Its winter has come</seg>
       <tuv lang="EN">
         <seg>It is stored in the TMX file.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T171210Z" creationid="AgnieszkaS" creationdate="20230418T171210Z">
-        <seg>PL: It is stored in the TMX file.</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190236Z" creationid="AgnieszkaS" creationdate="20230418T171210Z">
+        <seg>It is stored in the TMX file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5929,8 +5929,8 @@ Its winter has come</seg>
       <tuv lang="EN">
         <seg>Key:</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T171503Z" creationid="AgnieszkaS" creationdate="20230418T171441Z">
-        <seg>PL: Klucz:</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190248Z" creationid="AgnieszkaS" creationdate="20230418T171441Z">
+        <seg>Klucz:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6385,16 +6385,16 @@ Its winter has come</seg>
       <tuv lang="EN">
         <seg>Machine Translation Options</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T170044Z" creationid="AgnieszkaS" creationdate="20230418T170004Z">
-        <seg>PL: Opcje tłumaczenia maszynowego</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190226Z" creationid="AgnieszkaS" creationdate="20230418T170004Z">
+        <seg>Opcje tłumaczenia maszynowego</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Machine Translations</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T165722Z" creationid="AgnieszkaS" creationdate="20230418T165722Z">
-        <seg>PL: Tłumaczenia maszynowe</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190220Z" creationid="AgnieszkaS" creationdate="20230418T165722Z">
+        <seg>Tłumaczenia maszynowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -6658,8 +6658,8 @@ Its winter has come</seg>
       <tuv lang="EN">
         <seg>Minimize</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T174406Z" creationid="AgnieszkaS" creationdate="20230418T174406Z">
-        <seg>PL: Minimalizuj</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190310Z" creationid="AgnieszkaS" creationdate="20230418T174406Z">
+        <seg>Minimalizuj</seg>
       </tuv>
     </tu>
     <tu>
@@ -7239,8 +7239,8 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>Notepad</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T170059Z" creationid="klaudiakempa" creationdate="20230331T163751Z">
-        <seg>PL: Notatnik</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190229Z" creationid="klaudiakempa" creationdate="20230331T163751Z">
+        <seg>Notatnik</seg>
       </tuv>
     </tu>
     <tu>
@@ -7263,8 +7263,8 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>Notify Me Even If There Are No Search Results</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T165703Z" creationid="AgnieszkaS" creationdate="20230418T165703Z">
-        <seg>PL: Powiadom mnie nawet jeśli nie ma wyników</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190217Z" creationid="AgnieszkaS" creationdate="20230418T165703Z">
+        <seg>Powiadom mnie nawet jeśli nie ma wyników</seg>
       </tuv>
     </tu>
     <tu>
@@ -7279,32 +7279,32 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Comments</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T171539Z" creationid="AgnieszkaS" creationdate="20230418T171539Z">
-        <seg>PL: Powiadom, jeśli segment zawiera notatki</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190258Z" creationid="AgnieszkaS" creationdate="20230418T171539Z">
+        <seg>Powiadom, jeśli segment zawiera notatki</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Dictionary Entries</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T165001Z" creationid="AgnieszkaS" creationdate="20230418T164714Z">
-        <seg>PL: Powiadom mnie, gdy w segmencie pojawią się wpisy słownikoweł</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190214Z" creationid="AgnieszkaS" creationdate="20230418T164714Z">
+        <seg>Powiadom mnie, gdy w segmencie pojawią się wpisy słownikoweł</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230410T151810Z" creationid="AgnieszkaS" creationdate="20230410T151810Z">
-        <seg>PL: Powiadom, jeśli segment zawiera</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190137Z" creationid="AgnieszkaS" creationdate="20230410T151810Z">
+        <seg>Powiadom, jeśli segment zawiera</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Glossary Hits</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T164915Z" creationid="AgnieszkaS" creationdate="20230418T155827Z">
-        <seg>PL: Powiadom mnie, gdy w segmencie pojawi się glosariusz</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190200Z" creationid="AgnieszkaS" creationdate="20230418T155827Z">
+        <seg>Powiadom mnie, gdy w segmencie pojawi się glosariusz</seg>
       </tuv>
     </tu>
     <tu>
@@ -7319,8 +7319,8 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Notes</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T170302Z" creationid="AgnieszkaS" creationdate="20230418T170302Z">
-        <seg>PL: Powiadom, jeśli segment zawiera notatki</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190238Z" creationid="AgnieszkaS" creationdate="20230418T170302Z">
+        <seg>Powiadom, jeśli segment zawiera notatki</seg>
       </tuv>
     </tu>
     <tu>
@@ -7613,8 +7613,8 @@ your ho</seg>
       <tuv lang="EN">
         <seg>Open Writable Glossary File</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T164927Z" creationid="AgnieszkaS" creationdate="20230418T163845Z">
-        <seg>PL: Otwórz plik z edytowalnym glosariuszem</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190202Z" creationid="AgnieszkaS" creationdate="20230418T163845Z">
+        <seg>Otwórz plik z edytowalnym glosariuszem</seg>
       </tuv>
     </tu>
     <tu>
@@ -7866,8 +7866,8 @@ Vanishing like mist</seg>
       <tuv lang="EN">
         <seg>Path:</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T171459Z" creationid="AgnieszkaS" creationdate="20230418T171453Z">
-        <seg>PL: Ścieżka</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190250Z" creationid="AgnieszkaS" creationdate="20230418T171453Z">
+        <seg>Ścieżka</seg>
       </tuv>
     </tu>
     <tu>
@@ -9693,8 +9693,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Sort by Target Term Length</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T164005Z" creationid="AgnieszkaS" creationdate="20230418T164005Z">
-        <seg>PL: Sortuj terminy docelowe według długości</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190205Z" creationid="AgnieszkaS" creationdate="20230418T164005Z">
+        <seg>Sortuj terminy docelowe według długości</seg>
       </tuv>
     </tu>
     <tu>
@@ -11024,8 +11024,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Translation:</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T171525Z" creationid="AgnieszkaS" creationdate="20230418T171525Z">
-        <seg>PL: Tłumaczenie</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190255Z" creationid="AgnieszkaS" creationdate="20230418T171525Z">
+        <seg>Tłumaczenie</seg>
       </tuv>
     </tu>
     <tu>
@@ -11589,8 +11589,8 @@ Bieżące ustawienie to {0}MB;</seg>
       <tuv lang="EN">
         <seg>Use Create Glossary Entry in the Edit menu to add new entries.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T164846Z" creationid="AgnieszkaS" creationdate="20230418T154626Z">
-        <seg>PL: Aby dodać wpis do glosariusza, należy użyć opcji Utwórz wpis w menu Edycja.</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190151Z" creationid="AgnieszkaS" creationdate="20230418T154626Z">
+        <seg>Aby dodać wpis do glosariusza, należy użyć opcji Utwórz wpis w menu Edycja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11741,8 +11741,8 @@ Bieżące ustawienie to {0}MB;</seg>
       <tuv lang="EN">
         <seg>View, add, remove or edit a note in the active segment.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T171121Z" creationid="AgnieszkaS" creationdate="20230418T170222Z">
-        <seg>PL: Ten panel pozwala na przeglądanie, dodawanie, usuwanie lub edycję notatek dla aktywnego segmentu.</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190231Z" creationid="AgnieszkaS" creationdate="20230418T170222Z">
+        <seg>Ten panel pozwala na przeglądanie, dodawanie, usuwanie lub edycję notatek dla aktywnego segmentu.</seg>
       </tuv>
     </tu>
     <tu>
