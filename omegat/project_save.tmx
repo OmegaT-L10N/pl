@@ -5480,6 +5480,18 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If access to the desired location is granted later,
+that location will be used and all settings will be reset to
+their default values.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T200727Z" creationid="AgnieszkaS" creationdate="20230418T200727Z">
+        <seg>Jeśli dostęp do żądanej lokalizacji zostanie przyznany później,
+użyta zostanie ta lokalizacja
+i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T105015Z" creationid="janmars" creationdate="20230327T105015Z">
