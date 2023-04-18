@@ -3733,6 +3733,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editor - {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T171936Z" creationid="AgnieszkaS" creationdate="20230418T171936Z">
+        <seg>PL: Edytor - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Either update to the latest JDK 1.6, or remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230328T072758Z" creationid="Maja" creationdate="20230328T072758Z">
