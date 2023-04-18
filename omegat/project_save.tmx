@@ -7221,6 +7221,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Notes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T170302Z" creationid="AgnieszkaS" creationdate="20230418T170302Z">
+        <seg>PL: Powiadom, jeśli segment zawiera notatki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Number of unique segments</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T162634Z" creationid="luizakolosa" creationdate="20230331T162634Z">
