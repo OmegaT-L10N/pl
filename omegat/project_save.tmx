@@ -11343,6 +11343,14 @@ Bieżące ustawienie to {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use Create Glossary Entry in the Edit menu to add new entries.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T154626Z" creationid="AgnieszkaS" creationdate="20230418T154626Z">
+        <seg>Use Create Glossary Entry in the Edit menu to add new entries.Aby dodać wpis do słownika, należy użyć opcji Utwórz wpis Create Glossary Entry z menu Edit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T182147Z" creationid="klaudiakempa" creationdate="20230331T182147Z">
