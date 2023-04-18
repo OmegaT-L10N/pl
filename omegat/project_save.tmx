@@ -9503,6 +9503,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort by Target Term Length</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T164005Z" creationid="AgnieszkaS" creationdate="20230418T164005Z">
+        <seg>PL: Sortuj terminy docelowe według długości</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort by len&amp;gth</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T105359Z" creationid="janmars" creationdate="20230327T105344Z">
