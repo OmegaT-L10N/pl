@@ -6576,6 +6576,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Maximize</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T174425Z" creationid="AgnieszkaS" creationdate="20230418T174425Z">
+        <seg>PL: Maksymalizuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maximum line length:</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T185959Z" creationid="ZOO" creationdate="20230324T185959Z">
