@@ -7788,6 +7788,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Path:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T171453Z" creationid="AgnieszkaS" creationdate="20230418T171453Z">
+        <seg>PL:Ścieżka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pattern after</seg>
       </tuv>
       <tuv lang="PL" changeid="ghuzytkownik" changedate="20230331T190247Z" creationid="ghuzytkownik" creationdate="20230331T190203Z">
