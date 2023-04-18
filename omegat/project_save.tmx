@@ -4739,6 +4739,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For file formats and filters that support comments (e.g. PO-filter), displays the comments for the translator concerning the active segment, if any.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T171052Z" creationid="AgnieszkaS" creationdate="20230418T171052Z">
+        <seg>PL: W przypadku filtrów i formatów plików obsługujących komentarze (jak np. filtr PO), opcja ta wyświetla tłumaczowi komentarze aktywnego segmentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Force Unicode literals compatibility with Java 8</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154028Z" creationid="maciej-pqr" creationdate="20230331T154028Z">
