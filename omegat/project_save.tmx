@@ -1473,8 +1473,8 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       <tuv lang="EN">
         <seg>Actions &amp; Settings</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T185635Z" creationid="AgnieszkaS" creationdate="20230418T185635Z">
-        <seg>PL: Działania i ustawienia</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190321Z" creationid="AgnieszkaS" creationdate="20230418T185635Z">
+        <seg>Działania i ustawienia</seg>
       </tuv>
     </tu>
     <tu>
@@ -3961,8 +3961,8 @@ No one hears your screams</seg>
       <tuv lang="EN">
         <seg>Error</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T185936Z" creationid="sandraczapska" creationdate="20230328T084713Z">
-        <seg>PL: Błąd</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190341Z" creationid="sandraczapska" creationdate="20230328T084713Z">
+        <seg>Błąd</seg>
       </tuv>
     </tu>
     <tu>
@@ -4692,8 +4692,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>First Steps</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T185657Z" creationid="AgnieszkaS" creationdate="20230418T185657Z">
-        <seg>PL: Pierwsze kroki</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190330Z" creationid="AgnieszkaS" creationdate="20230418T185657Z">
+        <seg>Pierwsze kroki</seg>
       </tuv>
     </tu>
     <tu>
@@ -5571,6 +5571,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155252Z" creationid="maciej-pqr" creationdate="20230331T155252Z">
         <seg>Infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Info</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190332Z" creationid="AgnieszkaS" creationdate="20230418T190332Z">
+        <seg>Info</seg>
       </tuv>
     </tu>
     <tu>
@@ -6594,8 +6602,8 @@ Its winter has come</seg>
       <tuv lang="EN">
         <seg>Maximize</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T174425Z" creationid="AgnieszkaS" creationdate="20230418T174425Z">
-        <seg>PL: Maksymalizuj</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190313Z" creationid="AgnieszkaS" creationdate="20230418T174425Z">
+        <seg>Maksymalizuj</seg>
       </tuv>
     </tu>
     <tu>
@@ -8763,8 +8771,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Restore</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T174518Z" creationid="AgnieszkaS" creationdate="20230418T174518Z">
-        <seg>PL: Przywróć</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190316Z" creationid="AgnieszkaS" creationdate="20230418T174518Z">
+        <seg>Przywróć</seg>
       </tuv>
     </tu>
     <tu>
@@ -11290,8 +11298,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Undock</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T174630Z" creationid="AgnieszkaS" creationdate="20230418T174630Z">
-        <seg>PL: Rozłącz</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190318Z" creationid="AgnieszkaS" creationdate="20230418T174630Z">
+        <seg>Rozłącz</seg>
       </tuv>
     </tu>
     <tu>
@@ -11773,8 +11781,8 @@ Bieżące ustawienie to {0}MB;</seg>
       <tuv lang="EN">
         <seg>Warning</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190123Z" creationid="JU" creationdate="20230330T202801Z">
-        <seg>PL: Ostrzeżenie</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190346Z" creationid="JU" creationdate="20230330T202801Z">
+        <seg>Ostrzeżenie</seg>
       </tuv>
     </tu>
     <tu>
