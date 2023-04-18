@@ -11583,6 +11583,14 @@ Bieżące ustawienie to {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>View, add, remove or edit a note in the active segment.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T170222Z" creationid="AgnieszkaS" creationdate="20230418T170222Z">
+        <seg>PL: Ten panel pozwala na przeglądanie, dodawanie, usuwanie lub edycję notatek dla bieżącego segmentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Visio</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155243Z" creationid="maciej-pqr" creationdate="20230331T155243Z">
