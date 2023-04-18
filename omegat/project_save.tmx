@@ -12146,6 +12146,16 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may therefore experience
+unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T195333Z" creationid="AgnieszkaS" creationdate="20230418T194515Z">
+        <seg>Mogą w związku z tym wystąpić
+nieoczekiwane ale poprawne zachowania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You must enter a number between 1 and {0}.</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T152114Z" creationid="luizakolosa" creationdate="20230321T143458Z">
