@@ -1383,6 +1383,14 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A note is simply a remark about the source text or its translation.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T171408Z" creationid="AgnieszkaS" creationdate="20230418T171408Z">
+        <seg>PL: Notatka może być po prostu uwagą na temat tekstu źródłowego lub jego tłumaczenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A rule ID can only contain Latin letters, underscores, and periods.</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230417T080358Z" creationid="leoi23" creationdate="20230417T080358Z">
@@ -5707,6 +5715,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T203240Z" creationid="JU" creationdate="20230330T203240Z">
         <seg>Problemy w  {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is stored in the TMX file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T171210Z" creationid="AgnieszkaS" creationdate="20230418T171210Z">
+        <seg>PL: It is stored in the TMX file.</seg>
       </tuv>
     </tu>
     <tu>
