@@ -5887,6 +5887,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Key:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T171441Z" creationid="AgnieszkaS" creationdate="20230418T171441Z">
+        <seg>PL:Klucz:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Key=Value Text</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155000Z" creationid="maciej-pqr" creationdate="20230331T155000Z">
