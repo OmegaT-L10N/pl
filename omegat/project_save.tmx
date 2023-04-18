@@ -7149,6 +7149,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Glossary Hits</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T155827Z" creationid="AgnieszkaS" creationdate="20230418T155827Z">
+        <seg>Notify Me When a Segment Has Glossary Hits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notify Me When a Segment Has Multiple Translations</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T185619Z" creationid="Maja" creationdate="20230330T185516Z">
