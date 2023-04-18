@@ -3533,6 +3533,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dock</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T174257Z" creationid="AgnieszkaS" creationdate="20230418T174257Z">
+        <seg>PL: Dock</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DokuWiki</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190127Z" creationid="ZOO" creationdate="20230324T190127Z">
