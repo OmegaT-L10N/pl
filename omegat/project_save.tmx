@@ -5816,6 +5816,16 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It was not possible to create the script folder
+inside the configuration folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T200217Z" creationid="AgnieszkaS" creationdate="20230418T200217Z">
+        <seg>Utworzenie folderu skryptu
+wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Italian</seg>
       </tuv>
       <tuv lang="PL" changeid="ghuzytkownik" changedate="20230331T185935Z" creationid="ghuzytkownik" creationdate="20230331T185935Z">
@@ -10519,6 +10529,16 @@ niego zostanie użyty bieżący folder.</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T210058Z" creationid="littlewhitedirect" creationdate="20230331T210058Z">
         <seg>Polecenie musi zawierać "{tekst docelowy}", który zostanie zastąpiony wyszukiwanym tekstem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The configuration folder will be used
+instead.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T195937Z" creationid="AgnieszkaS" creationdate="20230418T195937Z">
+        <seg>Zamiast niego zostanie użyty folder
+konfiguracyjny.</seg>
       </tuv>
     </tu>
     <tu>
