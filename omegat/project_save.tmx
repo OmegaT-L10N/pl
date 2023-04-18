@@ -2506,6 +2506,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on '{0}' menu item</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T191438Z" creationid="AgnieszkaS" creationdate="20230418T191438Z">
+        <seg>Kliknij na "{0}" menu item</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clo&amp;se</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T162250Z" creationid="luizakolosa" creationdate="20230331T162250Z">
