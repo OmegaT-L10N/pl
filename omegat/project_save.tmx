@@ -2652,6 +2652,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T170236Z" creationid="AgnieszkaS" creationdate="20230418T170236Z">
+        <seg>PL: Komentarze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Committing source files</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T182539Z" creationid="klaudiakempa" creationdate="20230331T182334Z">
