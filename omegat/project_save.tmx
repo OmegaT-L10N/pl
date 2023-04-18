@@ -10946,6 +10946,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T171525Z" creationid="AgnieszkaS" creationdate="20230418T171525Z">
+        <seg>PL: Tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translator comments:</seg>
       </tuv>
       <tuv lang="PL" changeid="kapel" changedate="20230401T203458Z" creationid="janmars" creationdate="20230321T161334Z">
