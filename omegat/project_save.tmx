@@ -7556,11 +7556,9 @@ Lost to paradise</seg>
 the name of your OS and/or the system property containing
 your home folder.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T191916Z" creationid="AgnieszkaS" creationdate="20230418T185928Z">
-        <seg>OmegaT nie uzyskała dostępu do właściwości systemowej zawierającejnazwę systemu operacyjnego lub
-zawierającej folder podstawowywas refused access to the system property containing
-the name of your OS and/or the system property containing
-your ho odmówienie dostępu</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T192201Z" creationid="AgnieszkaS" creationdate="20230418T185928Z">
+        <seg>OmegaT nie uzyskała dostępu do właściwości systemowej
+zawierającej nazwę systemu operacyjnego lub zawierającej folder podstawowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -10659,6 +10657,15 @@ But others await</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230417T080538Z" creationid="leoi23" creationdate="20230417T080538Z">
         <seg>Wystąpił błąd inicjalizacji LanguageTool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore, the location of OmegaT's
+configuration folder cannot be reliably determined.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T192631Z" creationid="AgnieszkaS" creationdate="20230418T191922Z">
+        <seg>Nie można więc wiarygodnie określić lokalizacji folderu konfiguracyjnego OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
