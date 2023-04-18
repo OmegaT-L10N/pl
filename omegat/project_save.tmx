@@ -3365,6 +3365,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays entries from in glossary files located in the /glossary/ folder if they are found in the source segment.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T154259Z" creationid="AgnieszkaS" creationdate="20230418T153852Z">
+        <seg>PL: Wyświetla hasła znajdujące się w plikach zlokalizowanych w folderze /glossary/, jeżeli hasła te występują w segmencie źródłowym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T105204Z" creationid="janmars" creationdate="20230327T105204Z">
@@ -3855,6 +3863,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102435Z" creationid="janmars" creationdate="20230327T102435Z">
         <seg>Treść</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entries from the writeable glossary are in bold.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T153858Z" creationid="AgnieszkaS" creationdate="20230418T153858Z">
+        <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
     </tu>
     <tu>
