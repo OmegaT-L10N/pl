@@ -12189,6 +12189,16 @@ nieoczekiwane ale poprawne zachowania.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Your operating system refused to let OmegaT
+create the configuration folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T195534Z" creationid="AgnieszkaS" creationdate="20230418T195534Z">
+        <seg>Twój system operacyjny nie umożliwił OmegaT
+utworzenia folderu konfiguracyjnego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Your project does not seem to contain translatable files.</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230330T195936Z" creationid="sandraczapska" creationdate="20230330T195936Z">
