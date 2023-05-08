@@ -12054,6 +12054,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unknown language code {0} specified</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Urszula" changedate="20230508T203512Z" creationid="Urszula" creationdate="20230508T203512Z">
+        <seg>Unknown language code {0} specified</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unknown plugin type '{0}' in '{1}'</seg>
       </tuv>
       <tuv lang="pl" changeid="ZOO" changedate="20230324T185327Z" creationid="ZOO" creationdate="20230324T185327Z">
