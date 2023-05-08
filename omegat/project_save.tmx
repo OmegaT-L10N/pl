@@ -7221,8 +7221,8 @@ Lost to paradise</seg>
       <tuv lang="en">
         <seg>Move &amp;Last</seg>
       </tuv>
-      <tuv lang="pl" changeid="luizakolosa" changedate="20230331T162116Z" creationid="luizakolosa" creationdate="20230331T162116Z">
-        <seg>Przenieś &amp;ostatni</seg>
+      <tuv lang="pl" changeid="Urszula" changedate="20230508T204144Z" creationid="luizakolosa" creationdate="20230331T162116Z">
+        <seg>Przenieś &amp;na koniec</seg>
       </tuv>
     </tu>
     <tu>
@@ -7253,8 +7253,8 @@ Lost to paradise</seg>
       <tuv lang="en">
         <seg>Move F&amp;irst</seg>
       </tuv>
-      <tuv lang="pl" changeid="Urszula" changedate="20230401T203310Z" creationid="Urszula" creationdate="20230401T203310Z">
-        <seg>Przenieś &amp;pierwszy</seg>
+      <tuv lang="pl" changeid="Urszula" changedate="20230508T204159Z" creationid="Urszula" creationdate="20230401T203310Z">
+        <seg>Przenieś &amp;na początek</seg>
       </tuv>
     </tu>
     <tu>
@@ -12056,8 +12056,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>Unknown language code {0} specified</seg>
       </tuv>
-      <tuv lang="pl" changeid="Urszula" changedate="20230508T203512Z" creationid="Urszula" creationdate="20230508T203512Z">
-        <seg>Unknown language code {0} specified</seg>
+      <tuv lang="pl" changeid="Urszula" changedate="20230508T204622Z" creationid="Urszula" creationdate="20230508T203512Z">
+        <seg>Nieznany kod określonego {0} języka </seg>
       </tuv>
     </tu>
     <tu>
