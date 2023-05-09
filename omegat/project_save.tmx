@@ -538,8 +538,8 @@
       <tuv lang="EN">
         <seg>&amp;Layout:</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T201238Z" creationid="biegajacy-zajac" creationdate="20230321T201238Z">
-        <seg>Układ</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T160750Z" creationid="biegajacy-zajac" creationdate="20230321T201238Z">
+        <seg>Układ:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9321,8 +9321,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Restart OmegaT to apply these changes</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T203730Z" creationid="biegajacy-zajac" creationdate="20230321T194935Z">
-        <seg>Aby zastosować te zmiany, ponownie uruchom OmegaT</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T160708Z" creationid="biegajacy-zajac" creationdate="20230321T194935Z">
+        <seg>Aby zastosować te zmiany, ponownie uruchom program OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -12901,12 +12901,11 @@ nieprzewidziane ale poprawne zachowania.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Problem z odmianą: OmegaT, OmegiT czy programu OmegaT?</note>
       <tuv lang="EN">
         <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T205508Z" creationid="biegajacy-zajac" creationdate="20230321T170127Z">
-        <seg>Komunikat z prośbą o podanie tego hasła pojawi się przy każdym uruchomieniu OmegaT.</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T160626Z" creationid="biegajacy-zajac" creationdate="20230321T170127Z">
+        <seg>Komunikat z prośbą o podanie tego hasła pojawi się przy każdym uruchomieniu programu OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
