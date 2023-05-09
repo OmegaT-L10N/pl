@@ -3637,6 +3637,7 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja, styl</note>
       <tuv lang="EN">
         <seg>Displays entries from in glossary files located in the /glossary/ folder if they are found in the source segment.</seg>
       </tuv>
@@ -4195,6 +4196,7 @@ Your help page not found</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Styl, leksyka</note>
       <tuv lang="EN">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
@@ -5959,6 +5961,7 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Uwaga na zbędne elementy</note>
       <tuv lang="EN">
         <seg>Insert Match or Selection into Translation</seg>
       </tuv>
@@ -7513,6 +7516,7 @@ Lost to paradise</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>No Suggestions</seg>
       </tuv>
@@ -11824,6 +11828,7 @@ Exact searches match the whole search string.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Styl</note>
       <tuv lang="EN">
         <seg>URL of downloadable spellchecking dictionaries:</seg>
       </tuv>
