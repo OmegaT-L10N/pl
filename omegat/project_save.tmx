@@ -7755,8 +7755,8 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>Notification (steady)</seg>
       </tuv>
-      <tuv lang="PL" changeid="MS" changedate="20230401T180147Z" creationid="MS" creationdate="20230401T180147Z">
-        <seg>Powiadomienia (stałę)</seg>
+      <tuv lang="PL" changeid="MS" changedate="20230509T145635Z" creationid="MS" creationdate="20230401T180147Z">
+        <seg>Powiadomienia (stałe)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9651,6 +9651,22 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230331T160146Z" creationid="sandraczapska" creationdate="20230328T090641Z">
         <seg>Przeszukaj słowniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search found mark</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230509T145732Z" creationid="MS" creationdate="20230509T145732Z">
+        <seg>Szukaj znalezionych znaków</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search replaced mark</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230509T145708Z" creationid="MS" creationdate="20230509T145708Z">
+        <seg>Szukaj zmienionych znaków</seg>
       </tuv>
     </tu>
     <tu>
