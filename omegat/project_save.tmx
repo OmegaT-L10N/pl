@@ -3486,8 +3486,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Detail View</seg>
       </tuv>
-      <tuv lang="PL" changeid="MS" changedate="20230401T170631Z" creationid="MS" creationdate="20230401T170631Z">
-        <seg>Widok szczegółów</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230509T155010Z" creationid="janmars" creationdate="20230509T155010Z">
+        <seg>Detail View</seg>
       </tuv>
     </tu>
     <tu>
@@ -7851,8 +7851,8 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Multiple Translations</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maja" changedate="20230330T185619Z" creationid="Maja" creationdate="20230330T185516Z">
-        <seg>Powiadom mnie, gdy segment ma wiele tłumaczeń</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230509T155048Z" creationid="janmars" creationdate="20230509T155048Z">
+        <seg>Notify Me When a Segment Has Multiple Translations</seg>
       </tuv>
     </tu>
     <tu>
@@ -9502,14 +9502,6 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Save Current Set...</seg>
-      </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T192545Z" creationid="kapel" creationdate="20230401T192409Z">
-        <seg>Zapisz bieżące ustawienia...</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Save Script</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T190906Z" creationid="Maja" creationdate="20230330T190906Z">
@@ -10104,8 +10096,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Sets</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T165959Z" creationid="littlewhitedirect" creationdate="20230321T165854Z">
-        <seg>Ustawienia</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230509T155053Z">
+        <seg>Sets</seg>
       </tuv>
     </tu>
     <tu>
@@ -11295,8 +11287,8 @@ But others await</seg>
       <tuv lang="EN">
         <seg>The specified folder is not an OmegaT project, or the project file is broken, or there is no valid backup.</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T213356Z" creationid="kapel" creationdate="20230401T213356Z">
-        <seg>Podany folder nie jest projektem OmegaT, plik projektu jest uszkodzony lub nie ma ważnej kopii zapasowej.</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230509T155115Z" creationid="janmars" creationdate="20230509T155115Z">
+        <seg>The specified folder is not an OmegaT project, or the project file is broken, or there is no valid backup.</seg>
       </tuv>
     </tu>
     <tu>
