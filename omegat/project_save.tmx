@@ -3388,6 +3388,7 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Default branch</seg>
       </tuv>
@@ -4006,6 +4007,7 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja, terminologia</note>
       <tuv lang="EN">
         <seg>Either update to the latest JDK 1.6, or remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
@@ -4316,6 +4318,7 @@ No one hears your screams</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Error on application startup</seg>
       </tuv>
@@ -5463,6 +5466,7 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Goto &amp;Line...</seg>
       </tuv>
@@ -7933,6 +7937,7 @@ Lost to paradise</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia, leksyka, sens</note>
       <tuv lang="EN">
         <seg>OmegaT has detected a 3.6-style team project.</seg>
       </tuv>
@@ -10090,6 +10095,7 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ortografia</note>
       <tuv lang="EN">
         <seg>Show Find Search Bar</seg>
       </tuv>
