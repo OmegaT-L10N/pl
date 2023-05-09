@@ -184,3 +184,4 @@ serwer	server	ES: el servidor
 custom	niestandardowy	ES: personalizado
 menu Opcji	Options menu	<ES> menú Opciones
 Preferences	Preferencje	<ES> Preferencias
+launch	uruchomić	<ES> iniciar
