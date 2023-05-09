@@ -7947,8 +7947,8 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T205603Z" creationid="biegajacy-zajac" creationdate="20230321T164822Z">
-        <seg>OmegaT może generować i przechowywać hasło główne, aby nie trzeba było go wprowadzać za każdym razem, ale jest to znacznie mniej bezpieczne.</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T162229Z" creationid="biegajacy-zajac" creationdate="20230321T164822Z">
+        <seg>Program OmegaT może generować i przechowywać hasło główne, aby nie trzeba było go wprowadzać za każdym razem, ale jest to znacznie mniej bezpieczne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8590,8 +8590,8 @@ Vanishing like mist</seg>
       <tuv lang="EN">
         <seg>Preferences - {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T152418Z">
-        <seg>Preferencje</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T162246Z">
+        <seg>Preferencje -</seg>
       </tuv>
     </tu>
     <tu>
