@@ -4320,8 +4320,8 @@ No one hears your screams</seg>
       <tuv lang="EN">
         <seg>Error monitoring post-processing commands!</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T065932Z" creationid="tobkub" creationdate="20230328T065825Z">
-        <seg>Nastąpił błąd przy monitorowaniu komend post-przetwarzania</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230509T140940Z" creationid="tobkub" creationdate="20230328T065825Z">
+        <seg>Nastąpił błąd przy monitorowaniu komend post-przetwarzania.</seg>
       </tuv>
     </tu>
     <tu>
