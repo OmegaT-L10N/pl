@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4040,8 +4040,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Either update to the latest JDK 1.6, or remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maja" changedate="20230328T072758Z" creationid="Maja" creationdate="20230328T072758Z">
-        <seg>Zaktualizauj do najnowszej wersji JDK 1.6 lub usuń pliki jaxb-*.jar z Omegi T /lib dir</seg>
+      <tuv lang="PL" changeid="Maja" changedate="20230509T153419Z" creationid="Maja" creationdate="20230328T072758Z">
+        <seg>Zaktualizauj do najnowszego JDK 1.6 lub usuń pliki jaxb-*.jar z Omegi T /lib dir</seg>
       </tuv>
     </tu>
     <tu>
@@ -4351,8 +4351,8 @@ No one hears your screams</seg>
       <tuv lang="EN">
         <seg>Error on application startup</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maja" changedate="20230328T071315Z" creationid="Maja" creationdate="20230328T071140Z">
-        <seg>Błąd przy starcie aplikacji</seg>
+      <tuv lang="PL" changeid="Maja" changedate="20230509T153231Z" creationid="Maja" creationdate="20230328T071140Z">
+        <seg>Błąd uruchomienia aplikacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -5998,8 +5998,8 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
       <tuv lang="EN">
         <seg>Insert Match or Selection into Translation</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maja" changedate="20230328T070738Z">
-        <seg>[fuzzy]Wstaw dopasowanie lub zaznaczenie do tłumaczenia</seg>
+      <tuv lang="PL" changeid="Maja" changedate="20230509T153113Z">
+        <seg>Wstaw dopasowanie lub zaznaczenie do tłumaczenia</seg>
       </tuv>
     </tu>
     <tu>
