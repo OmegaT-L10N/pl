@@ -405,6 +405,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
       </tuv>
@@ -5500,6 +5501,7 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Styl</note>
       <tuv lang="EN">
         <seg>HTML file too big!</seg>
       </tuv>
@@ -8651,6 +8653,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Sens</note>
       <tuv lang="EN">
         <seg>Project autosaved at {0}</seg>
       </tuv>
@@ -11030,6 +11033,7 @@ niego zostanie użyty bieżący folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Pisownia</note>
       <tuv lang="EN">
         <seg>The Moodle PHP filter encountered an error:</seg>
       </tuv>
@@ -11379,6 +11383,7 @@ You, victim of one</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Może 2 os. l. poj. (Możesz go rozpowszechniać...)?</note>
       <tuv lang="EN">
         <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
       </tuv>
