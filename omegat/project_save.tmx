@@ -4302,6 +4302,7 @@ No one hears your screams</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Interpunkcja, terminologia</note>
       <tuv lang="EN">
         <seg>Error monitoring post-processing commands!</seg>
       </tuv>
@@ -6340,6 +6341,7 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Styl, ekwiwalencja</note>
       <tuv lang="EN">
         <seg>Keyword searches are not available in the search string.</seg>
       </tuv>
@@ -12635,6 +12637,7 @@ Your page is not found</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Powtórzenie</note>
       <tuv lang="EN">
         <seg>Words</seg>
       </tuv>
