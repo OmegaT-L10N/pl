@@ -1407,8 +1407,8 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T155801Z">
-        <seg>&lt;html&gt;&lt;center&gt;Ładuje się&lt;br&gt;&lt;br&gt;Rada: Włącz/wyłącz kontrole w dowolnym momencie z menu Opcji.&lt;/center&gt;&lt;/html&gt;G</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T160434Z">
+        <seg>&lt;html&gt;&lt;center&gt;Ładuje się&lt;br&gt;&lt;br&gt;Rada: Włącz/wyłącz kontrole w dowolnym momencie z menu Opcji.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1712,8 +1712,8 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       <tuv lang="EN">
         <seg>Add to Dictionary: “{0}”</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165354Z" creationid="biegajacy-zajac" creationdate="20230321T161526Z">
-        <seg>Dodaj do słownika: “{0}”</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T160425Z" creationid="biegajacy-zajac" creationdate="20230321T161526Z">
+        <seg>Dodaj do słownika: „{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -3559,8 +3559,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Disable rule “{0}”</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T205056Z" creationid="biegajacy-zajac" creationdate="20230321T161625Z">
-        <seg>Wyłącz regułę“{0}”</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T160409Z" creationid="biegajacy-zajac" creationdate="20230321T161625Z">
+        <seg>Wyłącz regułę „{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -5903,8 +5903,8 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
       <tuv lang="EN">
         <seg>Ignore: “{0}”</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165358Z" creationid="biegajacy-zajac" creationdate="20230321T161528Z">
-        <seg>Ignoruj: “{0}”</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T160417Z" creationid="biegajacy-zajac" creationdate="20230321T161528Z">
+        <seg>Ignoruj: „{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -12988,8 +12988,8 @@ utworzenia folderu konfiguracyjnego.</seg>
       <tuv lang="EN">
         <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T150506Z">
-        <seg>[{0}] “{1}” w źródle; spodziewano się jednego z {2} w tłumaczeniu</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T160344Z">
+        <seg>[{0}] „{1}” w źródle; spodziewano się jednego z {2} w tłumaczeniu</seg>
       </tuv>
     </tu>
     <tu>
@@ -12997,8 +12997,8 @@ utworzenia folderu konfiguracyjnego.</seg>
       <tuv lang="EN">
         <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T150459Z" creationid="biegajacy-zajac" creationdate="20230321T161634Z">
-        <seg>[{0}] “{1}” w źródle; spodziewano się “{2}” w tłumaczeniu</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T160359Z" creationid="biegajacy-zajac" creationdate="20230321T161634Z">
+        <seg>[{0}] „{1}” w źródle; spodziewano się „{2}” w tłumaczeniu</seg>
       </tuv>
     </tu>
     <tu>
