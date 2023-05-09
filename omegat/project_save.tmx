@@ -12941,8 +12941,8 @@ utworzenia folderu konfiguracyjnego.</seg>
       <tuv lang="EN">
         <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230330T183114Z">
-        <seg>[{0}] “{1}” w oryginale; spodziewano się jednego z {2} w tłumaczeniu</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T150506Z">
+        <seg>[{0}] “{1}” w źródle; spodziewano się jednego z {2} w tłumaczeniu</seg>
       </tuv>
     </tu>
     <tu>
@@ -12950,8 +12950,8 @@ utworzenia folderu konfiguracyjnego.</seg>
       <tuv lang="EN">
         <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230330T183053Z" creationid="biegajacy-zajac" creationdate="20230321T161634Z">
-        <seg>[{0}] “{1}” w oryginale; spodziewano się “{2}” w tłumaczeniu</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T150459Z" creationid="biegajacy-zajac" creationdate="20230321T161634Z">
+        <seg>[{0}] “{1}” w źródle; spodziewano się “{2}” w tłumaczeniu</seg>
       </tuv>
     </tu>
     <tu>
