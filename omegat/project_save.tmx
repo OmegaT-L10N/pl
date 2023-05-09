@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1407,8 +1407,8 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T150858Z">
-        <seg>&lt;html&gt;&lt;center&gt;Ładuje się&lt;br&gt;&lt;br&gt;Rada: Włącz/wyłącz kontrole w dowolnym momencie z menu Opcji&lt;/center&gt;&lt;/html&gt;G</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T155801Z">
+        <seg>&lt;html&gt;&lt;center&gt;Ładuje się&lt;br&gt;&lt;br&gt;Rada: Włącz/wyłącz kontrole w dowolnym momencie z menu Opcji.&lt;/center&gt;&lt;/html&gt;G</seg>
       </tuv>
     </tu>
     <tu>
@@ -3857,8 +3857,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Double-check and try again.</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T192932Z" creationid="biegajacy-zajac" creationdate="20230321T170415Z">
-        <seg>Sprawdź i spróbuj ponownie</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T155946Z" creationid="biegajacy-zajac" creationdate="20230321T170415Z">
+        <seg>Sprawdź i spróbuj ponownie.</seg>
       </tuv>
     </tu>
     <tu>
