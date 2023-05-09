@@ -165,3 +165,8 @@ target	tŁumacyenie	<ES> traducción
 term	termin	<ES> término
 glossary	glosariusz	<ES> glosario
 master password	hasło główne	<ES> contraseña maestra
+machine Translation	tłumaczenie maszynowe	<ES> traducción automática
+provider	dostawca	<ES> proveedor
+stemming	lematyzacja
+match	dopasowanie
+layout	układ
