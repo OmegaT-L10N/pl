@@ -3568,6 +3568,7 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia, ekwiwalencja (Pokaż granice akapitów)</note>
       <tuv lang="EN">
         <seg>Display &amp;Paragraph Delimitations</seg>
       </tuv>
@@ -4877,6 +4878,7 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja, ortografia, styl</note>
       <tuv lang="EN">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
@@ -5594,6 +5596,7 @@ Its winter has come</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Brak tłumaczenia</note>
       <tuv lang="EN">
         <seg>Highlight &amp;Auto-Populated Segments</seg>
       </tuv>
@@ -7421,6 +7424,7 @@ Lost to paradise</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ortografia</note>
       <tuv lang="EN">
         <seg>Next N&amp;ote</seg>
       </tuv>
@@ -8936,6 +8940,7 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Styl, terminologia</note>
       <tuv lang="EN">
         <seg>Reload the project?</seg>
       </tuv>
@@ -13036,6 +13041,7 @@ utworzenia folderu konfiguracyjnego.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Szyk</note>
       <tuv lang="EN">
         <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
       </tuv>
