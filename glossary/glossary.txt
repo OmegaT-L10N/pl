@@ -156,3 +156,4 @@ Wildacrds	Symbole wieloznaczne	<FR> Les caractères jokers
 Maximum number of finds	Maksymalna liczba wyników wyszukiwania	<FR> Le nombre maximum de résultats
 IO (input/output)	wejście/wyjście	<FR> Entrée/Sortie
 Unsupported	Nieobsługiwane	<FR> non pris en charge
+segment	segment	<ES> segmento
