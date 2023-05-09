@@ -174,3 +174,4 @@ fuzzy matching	dopasowanie rozmyte
 appearance	wygląd	<ES> apariencia
 URL	adres URL	<ES> URL
 command	polecenie	<ES> comando
+delimiter	separator	<ES> delimitador
