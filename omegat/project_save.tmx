@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1262,6 +1262,16 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T153417Z" creationid="luizakolosa" creationdate="20230331T153417Z">
         <seg>--/-- (--/--, --)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--quiet
+	  Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230509T155426Z" creationid="littlewhitedirect" creationdate="20230509T155426Z">
+        <seg>--quiet
+	  Reduce output to command line stdout.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7675,6 +7685,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104014Z" creationid="janmars" creationdate="20230327T104014Z">
         <seg>Spacja nierozdzielalna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-breakable spaces</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230321T161330Z" creationid="janmars" creationdate="20230321T161330Z">
+        <seg>Non-breakable spaces</seg>
       </tuv>
     </tu>
     <tu>
