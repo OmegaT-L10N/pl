@@ -1149,9 +1149,9 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
         <seg>(You will still able to use OmegaT
 3.6 to edit this project as a team project.)</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T102302Z">
+      <tuv lang="PL" changeid="kapel" changedate="20230509T204727Z">
         <seg>(Wciąż będzie można użyć OmegaT
-3.6 do edycji projektu w trybie projektu zbiorowego.)</seg>
+3.6 do edycji projektu w trybie projektu zbiorowego.</seg>
       </tuv>
     </tu>
     <tu>
