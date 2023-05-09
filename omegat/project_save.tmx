@@ -8623,9 +8623,8 @@ Vanishing like mist</seg>
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T102155Z">
-        <seg>Press 'Cancel' to leave the project unmodified and load it as a local
-project without team functionality.</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230509T160918Z">
+        <seg>Kliknij 'Anuluj', aby zapisać projekt bez zachowania zmian i załadować go jako projekt lokalny bez funkcji projektu grupowego.</seg>
       </tuv>
     </tu>
     <tu>
