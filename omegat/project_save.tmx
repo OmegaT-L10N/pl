@@ -12271,12 +12271,11 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Czy: &amp;TAB zmienia segment?</note>
       <tuv lang="EN">
         <seg>Use &amp;TAB to advance</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T203114Z" creationid="biegajacy-zajac" creationdate="20230321T195232Z">
-        <seg>TAB zmienia segment</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T154856Z" creationid="biegajacy-zajac" creationdate="20230321T195232Z">
+        <seg>Użyj TAB, żeby przejść do kolejnego elementu</seg>
       </tuv>
     </tu>
     <tu>
