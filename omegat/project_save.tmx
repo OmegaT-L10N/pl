@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3649,8 +3649,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Displays entries from in glossary files located in the /glossary/ folder if they are found in the source segment.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190144Z" creationid="AgnieszkaS" creationdate="20230418T153852Z">
-        <seg>Ten panel wyświetla hasła znajdujące się w plikach zlokalizowanych w folderze /glossary/, jeżeli hasła te występują w segmencie źródłowym.</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230509T143750Z" creationid="AgnieszkaS" creationdate="20230418T153852Z">
+        <seg>Wyświetla hasła znajdujące się w plikach glosariusza zlokalizowanych w folderze /glossary/, jeżeli hasła te występują w segmencie źródłowym.</seg>
       </tuv>
     </tu>
     <tu>
