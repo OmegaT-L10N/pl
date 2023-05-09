@@ -175,3 +175,10 @@ appearance	wygląd	<ES> apariencia
 URL	adres URL	<ES> URL
 command	polecenie	<ES> comando
 delimiter	separator	<ES> delimitador
+slot	gniazdo	ES: ranura
+script engines	silniki skryptowe	ES: motores de scripts
+default	domyślny	predeterminado
+ID	identyfikator	ES: ID
+adres URL	the URL	ES: la URL
+serwer	server	ES: el servidor
+custom	niestandardowy	ES: personalizado
