@@ -161,7 +161,6 @@ tag	znacznik	<ES> etiqueta
 issue	problem	<ES> problema
 terminology	terminologia	<ES> terminología
 source	źródło	<ES> original
-target	tŁumacyenie	<ES> traducción
 term	termin	<ES> término
 glossary	glosariusz	<ES> glosario
 master password	hasło główne	<ES> contraseña maestra
@@ -170,3 +169,8 @@ provider	dostawca	<ES> proveedor
 stemming	lematyzacja
 match	dopasowanie
 layout	układ
+target	tłumaczenie	<ES> traducción
+fuzzy matching	dopasowanie rozmyte
+appearance	wygląd	<ES> apariencia
+URL	adres URL	<ES> URL
+command	polecenie	<ES> comando
