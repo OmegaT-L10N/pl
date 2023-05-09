@@ -1984,8 +1984,8 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       <tuv lang="EN">
         <seg>Apply &amp;Fix</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T165532Z" creationid="biegajacy-zajac" creationdate="20230321T161621Z">
-        <seg>Zastosuj i napraw</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T150653Z" creationid="biegajacy-zajac" creationdate="20230321T161621Z">
+        <seg>Zastosuj i popraw</seg>
       </tuv>
     </tu>
     <tu>
