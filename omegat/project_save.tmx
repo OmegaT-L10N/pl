@@ -469,6 +469,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja</note>
       <tuv lang="EN">
         <seg>&amp;Index entries</seg>
       </tuv>
@@ -549,6 +550,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>&amp;Line breaks</seg>
       </tuv>
