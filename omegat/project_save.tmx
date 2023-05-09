@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1262,6 +1262,28 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T153417Z" creationid="luizakolosa" creationdate="20230331T153417Z">
         <seg>--/-- (--/--, --)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--remote-project
+	  Download an omegat.project file from the URL given as &lt;project
+	  path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230509T155223Z" creationid="littlewhitedirect" creationdate="20230509T155223Z">
+        <seg>--remote-project
+	  Download an omegat.project file from the URL given as &lt;project
+	  path&gt; and load the project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-h, --help
+	  Print this help message.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230509T155152Z" creationid="littlewhitedirect" creationdate="20230509T155152Z">
+        <seg>-h, --help
+	  Print this help message.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12213,6 +12235,14 @@ nowa wersja: {2}</seg>
       </tuv>
       <tuv lang="PL" changeid="Hania M" changedate="20230401T220725Z" creationid="Hania M" creationdate="20230401T220725Z">
         <seg>Uaktualnianie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230509T155155Z" creationid="littlewhitedirect" creationdate="20230509T155155Z">
+        <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
     </tu>
     <tu>
