@@ -3616,8 +3616,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Display TBX &amp;glossaries context description</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T195634Z" creationid="biegajacy-zajac" creationdate="20230321T195529Z">
-        <seg>Wyświetl opis zawartości TBX i glosariuszy</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T153333Z" creationid="biegajacy-zajac" creationdate="20230321T195529Z">
+        <seg>Wyświetl opis zawartości glosariuszy TBX</seg>
       </tuv>
     </tu>
     <tu>
