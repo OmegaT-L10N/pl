@@ -792,6 +792,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Uwaga na zbędne elementy</note>
       <tuv lang="EN">
         <seg>&amp;Replace</seg>
       </tuv>
@@ -1659,6 +1660,7 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ortografia</note>
       <tuv lang="EN">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
@@ -1843,6 +1845,7 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
@@ -2464,6 +2467,7 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Changed by</seg>
       </tuv>
@@ -3308,6 +3312,7 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Może personalizuj?</note>
       <tuv lang="EN">
         <seg>Customize character &amp;table</seg>
       </tuv>
@@ -3461,6 +3466,7 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Detecting...</seg>
       </tuv>
