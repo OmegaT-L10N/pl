@@ -183,3 +183,4 @@ adres URL	the URL	ES: la URL
 serwer	server	ES: el servidor
 custom	niestandardowy	ES: personalizado
 menu Opcji	Options menu	<ES> menú Opciones
+Preferences	Preferencje	<ES> Preferencias
