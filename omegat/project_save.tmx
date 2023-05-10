@@ -4209,6 +4209,7 @@ Your help page not found</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Enter the segment number:</seg>
       </tuv>
@@ -5470,7 +5471,6 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Go to Segment</seg>
       </tuv>
@@ -12679,7 +12679,9 @@ Bieżące ustawienie to {0}MB;</seg>
     <tu>
       <note>albo: Zarówno w wyszukiwaniu dokładnym, jak i słów kluczowych, można użyć symboli wieloznacznych * i ?
 
-Zastanawiałam się, czy nie powinnam używać polskiego cudzysłowu, jednak po przejrzeniu podręcznika Microsoftu zdecydowałam się na użycie ' "" '.</note>
+Zastanawiałam się, czy nie powinnam używać polskiego cudzysłowu, jednak po przejrzeniu podręcznika Microsoftu zdecydowałam się na użycie ' "" '.
+
+MRK: Druga propozycja jest lepsza, ale uwaga na ekwiwalencję, interpunkcję i sens (patrz segment niżej). Należy używać polskiego cudzysłowu, co nie znaczy, że błędne używanie innych nie jest praktykowane.</note>
       <tuv lang="EN">
         <seg>Wildcards:
 Both exact and keyword searches support the * and ?</seg>
