@@ -894,7 +894,9 @@
       </tuv>
     </tu>
     <tu>
-      <note>Nie jestem pewna, czy "selection" tłumaczyć jako "zaznaczony element" (ew. "zaznaczony tekst")</note>
+      <note>Nie jestem pewna, czy "selection" tłumaczyć jako "zaznaczony element" (ew. "zaznaczony tekst")
+
+MRK: Może "Szukaj zaznaczenia"?</note>
       <tuv lang="EN">
         <seg>&amp;Search for Selection</seg>
       </tuv>
