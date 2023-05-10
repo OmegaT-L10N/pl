@@ -6967,7 +6967,9 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Oba słowa powinny być od wielkich czy małych liter?</note>
+      <note>Oba słowa powinny być od wielkich czy małych liter?
+
+MRK: Powinno być tak, jak jest teraz :)</note>
       <tuv lang="EN">
         <seg>Master Password</seg>
       </tuv>
