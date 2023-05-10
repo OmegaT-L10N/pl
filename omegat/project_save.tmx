@@ -3606,6 +3606,7 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Display &amp;Modification Info</seg>
       </tuv>
@@ -12376,6 +12377,7 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Brak tłumaczenia</note>
       <tuv lang="EN">
         <seg>Use Aggressive &amp;Font Fallback</seg>
       </tuv>
@@ -13050,6 +13052,7 @@ utworzenia folderu konfiguracyjnego.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>for Current &amp;Segment</seg>
       </tuv>
