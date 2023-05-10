@@ -9834,6 +9834,7 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Zawartość nawiasu nie podlega tłumaczeniu.</note>
       <tuv lang="EN">
         <seg>Segment {0,number,#}</seg>
       </tuv>
@@ -12914,6 +12915,7 @@ nieprzewidziane ale poprawne zachowania.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>You must enter a number between 1 and {0}.</seg>
       </tuv>
