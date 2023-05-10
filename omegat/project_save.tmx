@@ -1412,7 +1412,9 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       </tuv>
     </tu>
     <tu>
-      <note>checks - kontrole czy sprawdzanie? W jednym z późniejszym segmentów według mnie lepiej pasuje "kontrola", a tutaj "sprawdzanie". Jednak chciałabym zachować spójność.</note>
+      <note>checks - kontrole czy sprawdzanie? W jednym z późniejszym segmentów według mnie lepiej pasuje "kontrola", a tutaj "sprawdzanie". Jednak chciałabym zachować spójność.
+
+MRK: Tutaj lepiej brzmi "sprawdzanie". Lepiej też użyć rzeczownika "Ładowanie".</note>
       <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
@@ -6195,6 +6197,7 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Brak tłumaczenia</note>
       <tuv lang="EN">
         <seg>Issues for {0} ({1} of {2})</seg>
       </tuv>
@@ -7560,7 +7563,9 @@ Lost to paradise</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Błędów czy problemów?</note>
+      <note>Błędów czy problemów?
+
+MRK: Tutaj "błędów".</note>
       <tuv lang="EN">
         <seg>No Issues Found</seg>
       </tuv>
