@@ -6628,6 +6628,7 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
       </tuv>
@@ -6636,6 +6637,7 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
       </tuv>
@@ -8519,6 +8521,7 @@ Vanishing like mist</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Pop Directional Formatting (PDF U+202&amp;C)</seg>
       </tuv>
@@ -9346,6 +9349,7 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Right-to-Left Embedding (RLE U+202&amp;B)</seg>
       </tuv>
@@ -9354,6 +9358,7 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
       </tuv>
