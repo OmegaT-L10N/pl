@@ -1114,7 +1114,8 @@
     <tu>
       <note>lub: Znak "*" reprezentuje zero...
 Zamiast "run" można użyć polskiego słowa np. "tak": "tak", "taki", "także", "taka" itp.
-.</note>
+
+MRK: Trzeba użyć polskiego słowa.</note>
       <tuv lang="EN">
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', 'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
@@ -4305,7 +4306,8 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <note>ew. zamiast "zamiana": "zastąpienie"?
-</note>
+
+MRK: Należy zachować spójność terminologiczną. Ekwiwalencja, styl, pisownia</note>
       <tuv lang="EN">
         <seg>Error during regular expression replacement:</seg>
       </tuv>
