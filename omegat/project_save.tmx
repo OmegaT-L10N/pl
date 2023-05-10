@@ -4231,7 +4231,9 @@ Your help page not found</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Podaj/wpisz hasło?</note>
+      <note>Podaj/wpisz hasło?
+
+MRK: Obydwa warianty są poprawne (należałoby sprawdzić, który pojawia się w pozostałych fragmentach tłumaczenia).</note>
       <tuv lang="EN">
         <seg>Enter your master password.</seg>
       </tuv>
@@ -5972,6 +5974,7 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Tutaj bez kropki, szyk</note>
       <tuv lang="EN">
         <seg>Incorrect password.</seg>
       </tuv>
