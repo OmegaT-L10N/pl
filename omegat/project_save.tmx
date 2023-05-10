@@ -641,6 +641,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja</note>
       <tuv lang="EN">
         <seg>&amp;Next Segment from tm/auto/</seg>
       </tuv>
@@ -729,6 +730,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja</note>
       <tuv lang="EN">
         <seg>&amp;Previous Segment from tm/auto/</seg>
       </tuv>
@@ -7404,6 +7406,7 @@ Lost to paradise</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Brak tłumaczenia</note>
       <tuv lang="EN">
         <seg>N&amp;ext Segment from tm/enforce/</seg>
       </tuv>
@@ -8301,6 +8304,7 @@ zawierającej nazwę systemu operacyjnego lub zawierającej folder podstawowy</s
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Brak tłumaczenia</note>
       <tuv lang="EN">
         <seg>P&amp;revious Segment from tm/enforce/</seg>
       </tuv>
