@@ -3572,6 +3572,7 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Displa&amp;y Whitespace</seg>
       </tuv>
@@ -3596,6 +3597,7 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Display &amp;Bidi Control Characters</seg>
       </tuv>
@@ -3612,6 +3614,7 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Display &amp;Non-Breakable Spaces</seg>
       </tuv>
@@ -3629,6 +3632,7 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
@@ -5673,6 +5677,7 @@ Its winter has come</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Highlight &amp;Untranslated Segments</seg>
       </tuv>
@@ -5689,6 +5694,7 @@ Its winter has come</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Highlight Repeated Se&amp;gments</seg>
       </tuv>
@@ -5697,6 +5703,7 @@ Its winter has come</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Highlight Segments &amp;with Notes</seg>
       </tuv>
