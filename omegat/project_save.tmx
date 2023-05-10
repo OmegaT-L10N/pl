@@ -4109,7 +4109,9 @@ Your help page not found</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Włączono? </note>
+      <note>Włączono?
+
+MRK: Kwestia uzgodnienia</note>
       <tuv lang="EN">
         <seg>Enabled</seg>
       </tuv>
@@ -8878,7 +8880,9 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Zastanawiam się, czy by nie zostawić słowa "provider"</note>
+      <note>Zastanawiam się, czy by nie zostawić słowa "provider"
+
+MRK: Polski odpowiednik jest używany.</note>
       <tuv lang="EN">
         <seg>Provider</seg>
       </tuv>
