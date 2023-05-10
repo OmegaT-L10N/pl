@@ -1195,6 +1195,7 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Interpunkcja, szyk</note>
       <tuv lang="EN">
         <seg>- drag and drop files on this pane;
 	- use Project &gt; Add Files...;
@@ -1211,6 +1212,7 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Interpunkcja, szyk, leksyka</note>
       <tuv lang="EN">
         <seg>- verify that their format is supported by OmegaT:
 	  if per-project filter settings are enabled
