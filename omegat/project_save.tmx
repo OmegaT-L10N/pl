@@ -5470,6 +5470,7 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Go to Segment</seg>
       </tuv>
@@ -9019,6 +9020,7 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia, styl</note>
       <tuv lang="EN">
         <seg>Reload the project now?</seg>
       </tuv>
