@@ -11048,7 +11048,9 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Czy: problemy z terminologią (?)</note>
+      <note>Czy: problemy z terminologią (?)
+
+MRK: Myślę, że jednak "Błędy terminologiczne".</note>
       <tuv lang="EN">
         <seg>Terminology Issues</seg>
       </tuv>
