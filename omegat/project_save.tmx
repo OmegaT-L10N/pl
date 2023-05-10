@@ -2759,6 +2759,7 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Co&amp;mmit Source Files</seg>
       </tuv>
@@ -2793,6 +2794,7 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Comm&amp;it Target Files</seg>
       </tuv>
