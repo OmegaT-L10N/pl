@@ -6173,6 +6173,7 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka/terminologia (tu i dalej)</note>
       <tuv lang="EN">
         <seg>Issues</seg>
       </tuv>
@@ -6181,6 +6182,7 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Uwaga na podwójne spacje</note>
       <tuv lang="EN">
         <seg>Issues ({0} of {1})</seg>
       </tuv>
@@ -6206,6 +6208,7 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Uwaga na podwójne spacje</note>
       <tuv lang="EN">
         <seg>Issues for {0} ({1})</seg>
       </tuv>
