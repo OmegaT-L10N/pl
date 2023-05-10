@@ -9359,7 +9359,9 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Zmiana szyku po polsku lepiej brzmi - czy tak możemy zrobić? Czy przed "OmegaT" dodawać słowo 'program'?</note>
+      <note>Zmiana szyku po polsku lepiej brzmi - czy tak możemy zrobić? Czy przed "OmegaT" dodawać słowo 'program'?
+
+MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miarę możliwości zachować spójność. Najlepiej użyć określenia "program OmegaT".</note>
       <tuv lang="EN">
         <seg>Restart OmegaT to apply these changes</seg>
       </tuv>
