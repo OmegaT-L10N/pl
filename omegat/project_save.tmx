@@ -4273,7 +4273,7 @@ MRK: Obydwa warianty są poprawne (należałoby sprawdzić, który pojawia się 
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Styl, leksyka</note>
+      <note>MRK: Styl, leksyka, terminologia</note>
       <tuv lang="EN">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
@@ -12475,6 +12475,7 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Use Create Glossary Entry in the Edit menu to add new entries.</seg>
       </tuv>
