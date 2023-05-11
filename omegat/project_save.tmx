@@ -313,6 +313,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>&amp;Empty lines</seg>
       </tuv>
@@ -6692,6 +6693,7 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Line length in target files (0 = no limit)</seg>
       </tuv>
@@ -6700,6 +6702,7 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Line length:</seg>
       </tuv>
@@ -7128,6 +7131,7 @@ MRK: Powinno być tak, jak jest teraz :)</note>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Maximum line length:</seg>
       </tuv>
