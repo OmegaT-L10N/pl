@@ -3738,6 +3738,7 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Brak tłumaczenia</note>
       <tuv lang="EN">
         <seg>Displays the translation memory segments that match the source segment.</seg>
       </tuv>
@@ -7072,6 +7073,7 @@ MRK: Powinno być tak, jak jest teraz :)</note>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Brak tłumaczenia</note>
       <tuv lang="EN">
         <seg>Matches come from your current translation or the TMX files placed in the /tm/ folder.</seg>
       </tuv>
@@ -7902,6 +7904,7 @@ MRK: Tutaj "błędów".</note>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja</note>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
       </tuv>
