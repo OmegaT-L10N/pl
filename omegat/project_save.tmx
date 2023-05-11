@@ -3762,6 +3762,7 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Interpunkcja!!!</note>
       <tuv lang="EN">
         <seg>Do not use the file name to &amp;identify alternate translations</seg>
       </tuv>
@@ -4619,6 +4620,7 @@ MRK: Muszę to sprawdzić. Gdyby mi umknęło, to proszę o przypomnienie.</note
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Interpunkcja</note>
       <tuv lang="EN">
         <seg>Exception occurred:</seg>
       </tuv>
@@ -9211,6 +9213,7 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Pisownia</note>
       <tuv lang="EN">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
