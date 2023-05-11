@@ -8543,6 +8543,7 @@ Vanishing like mist</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Szyk</note>
       <tuv lang="EN">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
