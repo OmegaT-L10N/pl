@@ -4351,6 +4351,7 @@ MRK: Należy zachować spójność terminologiczną. Ekwiwalencja, styl, pisowni
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Error in file {0}, line {1}</seg>
       </tuv>
@@ -8261,6 +8262,7 @@ zawierającej nazwę systemu operacyjnego lub zawierającej folder podstawowy</s
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>OpenDocument Filter Options</seg>
       </tuv>
