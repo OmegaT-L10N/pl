@@ -2942,6 +2942,7 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja</note>
       <tuv lang="EN">
         <seg>Completed and current translations saved as {0}</seg>
       </tuv>
@@ -10412,6 +10413,7 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Brak części tłumaczenia</note>
       <tuv lang="EN">
         <seg>Source Files ({0} of {1})</seg>
       </tuv>
@@ -10500,6 +10502,7 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Powtórzenie, styl</note>
       <tuv lang="EN">
         <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
       </tuv>
