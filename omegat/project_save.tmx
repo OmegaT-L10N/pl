@@ -1659,6 +1659,7 @@ MRK: Tutaj lepiej brzmi "sprawdzanie". Lepiej też użyć rzeczownika "Ładowani
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Add Glossary Entry</seg>
       </tuv>
@@ -6090,6 +6091,7 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Insert Selection</seg>
       </tuv>
@@ -7913,6 +7915,7 @@ MRK: Tutaj "błędów".</note>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Sens</note>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Glossary Hits</seg>
       </tuv>
