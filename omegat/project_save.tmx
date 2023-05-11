@@ -3257,6 +3257,7 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Creating translated files: {0}</seg>
       </tuv>
@@ -11662,6 +11663,7 @@ settings to their defaults.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Translated file created</seg>
       </tuv>
@@ -11704,6 +11706,7 @@ settings to their defaults.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Translated files created</seg>
       </tuv>
