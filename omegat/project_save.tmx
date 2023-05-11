@@ -2457,6 +2457,7 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Cannot create folder for translated files:</seg>
       </tuv>
@@ -4438,6 +4439,7 @@ ew. "wyszukiwania" (zamiast "przeszukiwania")</note>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Error starting post-processing commands: {0}</seg>
       </tuv>
@@ -4671,6 +4673,7 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Executing post-processing commands...</seg>
       </tuv>
@@ -8592,6 +8595,7 @@ Vanishing like mist</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Post-processing commands completed.</seg>
       </tuv>
@@ -8600,6 +8604,7 @@ Vanishing like mist</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Post-processing commands failed.</seg>
       </tuv>
