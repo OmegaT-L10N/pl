@@ -6894,6 +6894,7 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja</note>
       <tuv lang="EN">
         <seg>MT engine error({0}) {1}</seg>
       </tuv>
