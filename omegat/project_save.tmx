@@ -11223,6 +11223,7 @@ niego zostanie użyty bieżący folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>The TMX source language ({0}) differs from the project source language ({1}).</seg>
       </tuv>
