@@ -4602,6 +4602,7 @@ MRK: Muszę to sprawdzić. Gdyby mi umknęło, to proszę o przypomnienie.</note
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Event: project change - "{0}"</seg>
       </tuv>
@@ -12013,7 +12014,7 @@ Exact searches match the whole search string.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Styl</note>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>URL of downloadable spellchecking dictionaries:</seg>
       </tuv>
