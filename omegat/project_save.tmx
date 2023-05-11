@@ -12063,6 +12063,7 @@ Exact searches match the whole search string.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia/leksyka</note>
       <tuv lang="EN">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
@@ -12111,6 +12112,7 @@ Exact searches match the whole search string.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia/leksyka</note>
       <tuv lang="EN">
         <seg>Unable to save filters configuration file</seg>
       </tuv>
