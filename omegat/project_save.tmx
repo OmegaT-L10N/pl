@@ -7874,6 +7874,7 @@ MRK: Tutaj "błędów".</note>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Interpunkcja</note>
       <tuv lang="EN">
         <seg>Notify Me Even If There Are No Search Results</seg>
       </tuv>
@@ -7898,6 +7899,7 @@ MRK: Tutaj "błędów".</note>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka, pisownia</note>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Dictionary Entries</seg>
       </tuv>
@@ -8227,6 +8229,7 @@ zawierającej nazwę systemu operacyjnego lub zawierającej folder podstawowy</s
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Open Writable Glossary File</seg>
       </tuv>
