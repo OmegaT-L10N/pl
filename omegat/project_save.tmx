@@ -7836,6 +7836,7 @@ MRK: Tutaj "błędów".</note>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Interpunkcja</note>
       <tuv lang="EN">
         <seg>Note: The Source file encoding setting only affects HTML files with no encoding declaration.</seg>
       </tuv>
@@ -8784,7 +8785,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Sens</note>
+      <note>MRK: Ekwiwalencja</note>
       <tuv lang="EN">
         <seg>Project autosaved at {0}</seg>
       </tuv>
