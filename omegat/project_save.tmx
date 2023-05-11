@@ -3113,6 +3113,7 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja, terminologia</note>
       <tuv lang="EN">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
@@ -4830,6 +4831,7 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Interpunkcja</note>
       <tuv lang="EN">
         <seg>Failed to create project!</seg>
       </tuv>
@@ -11983,6 +11985,7 @@ Exact searches match the whole search string.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Interpunkcja</note>
       <tuv lang="EN">
         <seg>Unable to build new TMX file!</seg>
       </tuv>
