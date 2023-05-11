@@ -4400,6 +4400,7 @@ MRK: Należy zachować spójność terminologiczną. Ekwiwalencja, styl, pisowni
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Error reading TMX level2 at line {0} column {1}</seg>
       </tuv>
@@ -12239,6 +12240,7 @@ Exact searches match the whole search string.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja</note>
       <tuv lang="EN">
         <seg>Unknown plugin type '{0}' in '{1}'</seg>
       </tuv>
