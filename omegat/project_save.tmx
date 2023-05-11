@@ -5,6 +5,7 @@
   <body>
 <!-- Default translations -->
     <tu>
+      <note>MRK: Ekwiwalencja</note>
       <tuv lang="EN">
         <seg>#Files</seg>
       </tuv>
