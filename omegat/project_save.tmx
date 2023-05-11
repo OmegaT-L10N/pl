@@ -109,6 +109,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja, interpunkcja</note>
       <tuv lang="EN">
         <seg>&amp;Apply this font to tabular data (source files list, statistics, etc.)</seg>
       </tuv>
@@ -4963,6 +4964,7 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Styl</note>
       <tuv lang="EN">
         <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
       </tuv>
@@ -10561,6 +10563,7 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja</note>
       <tuv lang="EN">
         <seg>Source/translation length (characters)</seg>
       </tuv>
