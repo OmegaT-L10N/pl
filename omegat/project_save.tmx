@@ -2579,6 +2579,7 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Powtórzenie</note>
       <tuv lang="EN">
         <seg>Characters (w/ spaces)</seg>
       </tuv>
@@ -2587,6 +2588,7 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Powtórzenie</note>
       <tuv lang="EN">
         <seg>Characters (w/o spaces)</seg>
       </tuv>
@@ -4379,7 +4381,7 @@ MRK: Należy zachować spójność terminologiczną. Ekwiwalencja, styl, pisowni
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Interpunkcja, terminologia</note>
+      <note>MRK: Interpunkcja, leksyka</note>
       <tuv lang="EN">
         <seg>Error monitoring post-processing commands!</seg>
       </tuv>
@@ -8587,6 +8589,7 @@ Vanishing like mist</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Post-processing command failed.</seg>
       </tuv>
@@ -8613,6 +8616,7 @@ Vanishing like mist</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Post-processing commands were interrupted.</seg>
       </tuv>
