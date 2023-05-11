@@ -10404,6 +10404,7 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Sens</note>
       <tuv lang="EN">
         <seg>Sort by Target Term Length</seg>
       </tuv>
