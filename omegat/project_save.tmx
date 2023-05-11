@@ -6741,6 +6741,7 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Styl</note>
       <tuv lang="EN">
         <seg>Load a project to configure rules for that project's languages.</seg>
       </tuv>
@@ -11460,6 +11461,7 @@ But others await</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Styl</note>
       <tuv lang="EN">
         <seg>There was an error initializing LanguageTool.</seg>
       </tuv>
