@@ -9782,6 +9782,7 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Brak tłumaczenia</note>
       <tuv lang="EN">
         <seg>Searches can also be performed on a specified folder hierarchy.</seg>
       </tuv>
@@ -11899,6 +11900,7 @@ settings to their defaults.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Brak tłumaczenia</note>
       <tuv lang="EN">
         <seg>Types:
 Exact searches match the whole search string.</seg>
@@ -13211,6 +13213,7 @@ utworzenia folderu konfiguracyjnego.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Sens (kontynuacja poprzedniego segmentu)</note>
       <tuv lang="EN">
         <seg>wildcards.</seg>
       </tuv>
