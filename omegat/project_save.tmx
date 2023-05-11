@@ -4082,7 +4082,7 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Ekwiwalencja, terminologia</note>
+      <note>MRK: Ekwiwalencja, terminologia, pisownia</note>
       <tuv lang="EN">
         <seg>Either update to the latest JDK 1.6, or remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
