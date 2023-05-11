@@ -5966,6 +5966,7 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Ignored paragraphs (regular expression)</seg>
       </tuv>
@@ -8147,6 +8148,7 @@ zawierającej nazwę systemu operacyjnego lub zawierającej folder podstawowy</s
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
