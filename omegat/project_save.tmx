@@ -9103,6 +9103,7 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Remaining Words</seg>
       </tuv>
@@ -11595,6 +11596,7 @@ settings to their defaults.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Total Characters (w/o spaces)</seg>
       </tuv>
@@ -11611,6 +11613,7 @@ settings to their defaults.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Total Words</seg>
       </tuv>
@@ -12172,6 +12175,7 @@ Exact searches match the whole search string.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Unique Remaining Words</seg>
       </tuv>
@@ -12196,6 +12200,7 @@ Exact searches match the whole search string.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Unique Words</seg>
       </tuv>
