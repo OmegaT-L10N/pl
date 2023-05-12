@@ -3616,6 +3616,7 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Sens</note>
       <tuv lang="EN">
         <seg>Display</seg>
       </tuv>
@@ -4282,6 +4283,7 @@ MRK: Obydwa warianty są poprawne (należałoby sprawdzić, który pojawia się 
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Sens</note>
       <tuv lang="EN">
         <seg>Entries</seg>
       </tuv>
@@ -10430,6 +10432,7 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Sort by &amp;full text, not shortcut</seg>
       </tuv>
@@ -10447,6 +10450,7 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Sort by len&amp;gth</seg>
       </tuv>
