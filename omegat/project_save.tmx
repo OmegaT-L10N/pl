@@ -1432,6 +1432,7 @@ MRK: Tutaj lepiej brzmi "sprawdzanie". Lepiej też użyć rzeczownika "Ładowani
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ortografia</note>
       <tuv lang="EN">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
@@ -3958,6 +3959,7 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Brak tłumaczenia</note>
       <tuv lang="EN">
         <seg>Drop a project here to open it.</seg>
       </tuv>
@@ -13365,6 +13367,7 @@ utworzenia folderu konfiguracyjnego.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja</note>
       <tuv lang="EN">
         <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
       </tuv>
