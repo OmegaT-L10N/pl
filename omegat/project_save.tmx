@@ -3151,6 +3151,7 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Could not save credentials to text file</seg>
       </tuv>
@@ -9188,6 +9189,7 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Szyk</note>
       <tuv lang="EN">
         <seg>Remote repository git+ssh credential error: {0}</seg>
       </tuv>
@@ -11513,6 +11515,7 @@ You, victim of one</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia/leksyka</note>
       <tuv lang="EN">
         <seg>This URL appears to be invalid.</seg>
       </tuv>
@@ -11553,6 +11556,7 @@ You, victim of one</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>This is a Subversion repository.</seg>
       </tuv>
