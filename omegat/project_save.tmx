@@ -6455,6 +6455,7 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: "własną"</note>
       <tuv lang="EN">
         <seg>Keep Your Version</seg>
       </tuv>
@@ -10150,6 +10151,7 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
     </tu>
     <tu>
+      <note>MRK: "własną"</note>
       <tuv lang="EN">
         <seg>Select your version, the original version or the remote version.</seg>
       </tuv>
@@ -13138,6 +13140,7 @@ utworzenia folderu konfiguracyjnego.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: "Własna"</note>
       <tuv lang="EN">
         <seg>Your version</seg>
       </tuv>
