@@ -960,6 +960,7 @@ MRK: Może "Szukaj zaznaczenia"?</note>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ortografia</note>
       <tuv lang="EN">
         <seg>&amp;Show in Editor context menu</seg>
       </tuv>
