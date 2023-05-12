@@ -2377,6 +2377,7 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Interpunkcja</note>
       <tuv lang="EN">
         <seg>Browse...</seg>
       </tuv>
@@ -10512,6 +10513,7 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Sens</note>
       <tuv lang="EN">
         <seg>Source</seg>
       </tuv>
@@ -11363,6 +11365,7 @@ folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>The file "{0}" is not supported.</seg>
       </tuv>
