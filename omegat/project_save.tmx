@@ -7535,6 +7535,7 @@ Lost to paradise</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Z dwukropkiem</note>
       <tuv lang="EN">
         <seg>Name:</seg>
       </tuv>
@@ -10708,7 +10709,7 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Ortografia, leksyka</note>
+      <note>MRK: Interpunkcja, leksyka</note>
       <tuv lang="EN">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
