@@ -4185,6 +4185,7 @@ MRK: Kwestia uzgodnienia</note>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>End rebase</seg>
       </tuv>
@@ -10805,6 +10806,7 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Start rebase</seg>
       </tuv>
