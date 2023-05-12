@@ -322,6 +322,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>MRK: ?</note>
       <tuv lang="EN">
         <seg>&amp;Enable autotext</seg>
       </tuv>
@@ -338,6 +339,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>MRK: ?</note>
       <tuv lang="EN">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
@@ -10262,6 +10264,7 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
     </tu>
     <tu>
+      <note>MRK: L. poj.</note>
       <tuv lang="EN">
         <seg>Show &amp;source term first</seg>
       </tuv>
@@ -10270,6 +10273,7 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
     </tu>
     <tu>
+      <note>MRK: L. poj.</note>
       <tuv lang="EN">
         <seg>Show &amp;target term first</seg>
       </tuv>
@@ -11154,6 +11158,7 @@ MRK: Myślę, że jednak "Błędy terminologiczne".</note>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: ?</note>
       <tuv lang="EN">
         <seg>Terms with multiple targets</seg>
       </tuv>
