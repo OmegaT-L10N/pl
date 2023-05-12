@@ -11103,6 +11103,7 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Pisownia</note>
       <tuv lang="EN">
         <seg>Team synchronization...</seg>
       </tuv>
@@ -12595,6 +12596,7 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja</note>
       <tuv lang="EN">
         <seg>User credentials denied</seg>
       </tuv>
