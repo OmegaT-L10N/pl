@@ -3286,6 +3286,7 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Może "utworzenia"?</note>
       <tuv lang="EN">
         <seg>Creation date</seg>
       </tuv>
@@ -3302,6 +3303,7 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Może "Utworzony"?</note>
       <tuv lang="EN">
         <seg>Creator</seg>
       </tuv>
