@@ -5645,6 +5645,7 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka, brak spójności (patrz wyżej)</note>
       <tuv lang="EN">
         <seg>Has Comment, see Comments Tab</seg>
       </tuv>
@@ -7624,6 +7625,7 @@ Lost to paradise</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: L. poj.</note>
       <tuv lang="EN">
         <seg>No Comment</seg>
       </tuv>
@@ -7659,6 +7661,7 @@ MRK: Tutaj "błędów".</note>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: L. poj.</note>
       <tuv lang="EN">
         <seg>No Note</seg>
       </tuv>
