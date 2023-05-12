@@ -8259,6 +8259,7 @@ zawierającej nazwę systemu operacyjnego lub zawierającej folder podstawowy</s
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Styl</note>
       <tuv lang="EN">
         <seg>Open it in the OmegaT GUI to convert it to the new format.</seg>
       </tuv>
@@ -11420,6 +11421,7 @@ But others await</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia/leksyka</note>
       <tuv lang="EN">
         <seg>The specified project is an OmegaT 3.6 team project.</seg>
       </tuv>
