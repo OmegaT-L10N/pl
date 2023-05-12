@@ -1321,6 +1321,7 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja</note>
       <tuv lang="EN">
         <seg>1 segment</seg>
       </tuv>
@@ -3015,6 +3016,7 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja</note>
       <tuv lang="EN">
         <seg>Conflict {0} of {1}</seg>
       </tuv>
@@ -13340,6 +13342,7 @@ utworzenia folderu konfiguracyjnego.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Brakuje spacji.</note>
       <tuv lang="EN">
         <seg>{0} segments</seg>
       </tuv>
