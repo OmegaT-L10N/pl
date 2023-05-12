@@ -6222,6 +6222,7 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja</note>
       <tuv lang="EN">
         <seg>Is default translation</seg>
       </tuv>
@@ -7855,6 +7856,7 @@ MRK: Tutaj "błędów".</note>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja</note>
       <tuv lang="EN">
         <seg>Note</seg>
       </tuv>
