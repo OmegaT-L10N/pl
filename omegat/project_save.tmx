@@ -4515,6 +4515,7 @@ ew. "wyszukiwania" (zamiast "przeszukiwania")</note>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: L. mn.</note>
       <tuv lang="EN">
         <seg>Error while loading the source files.</seg>
       </tuv>
@@ -11458,6 +11459,7 @@ But others await</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>The specified files are not supported.</seg>
       </tuv>
