@@ -2669,6 +2669,7 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Sens</note>
       <tuv lang="EN">
         <seg>Check whether your repository has correct commits and files.</seg>
       </tuv>
