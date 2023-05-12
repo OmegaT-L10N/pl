@@ -2156,6 +2156,7 @@ MRK: Tutaj lepiej brzmi "sprawdzanie". Lepiej też użyć rzeczownika "Ładowani
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ortografia, ekwiwalencja</note>
       <tuv lang="EN">
         <seg>Auto-text file (*.autotext)</seg>
       </tuv>
@@ -3380,7 +3381,7 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Może personalizuj?</note>
+      <note>MRK: Może "Personalizuj"?</note>
       <tuv lang="EN">
         <seg>Customize character &amp;table</seg>
       </tuv>
