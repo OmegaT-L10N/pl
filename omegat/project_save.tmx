@@ -1848,6 +1848,7 @@ MRK: Tutaj lepiej brzmi "sprawdzanie". Lepiej też użyć rzeczownika "Ładowani
       </tuv>
     </tu>
     <tu>
+      <note>MRK: "umożliw"?</note>
       <tuv lang="EN">
         <seg>Allow local external search commands</seg>
       </tuv>
