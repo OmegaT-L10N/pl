@@ -2080,6 +2080,7 @@ MRK: Tutaj lepiej brzmi "sprawdzanie". Lepiej też użyć rzeczownika "Ładowani
       </tuv>
     </tu>
     <tu>
+      <note>MRK: L. poj.</note>
       <tuv lang="EN">
         <seg>Attribute:</seg>
       </tuv>
@@ -10283,6 +10284,7 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ortografia</note>
       <tuv lang="EN">
         <seg>Show Replace Search Bar</seg>
       </tuv>
@@ -11007,6 +11009,7 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
     </tu>
     <tu>
+      <note>MRK: L. mn.</note>
       <tuv lang="EN">
         <seg>Tag validation failed</seg>
       </tuv>
