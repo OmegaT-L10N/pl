@@ -1156,6 +1156,7 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Terminologia, leksyka, sens</note>
       <tuv lang="EN">
         <seg>(You will still able to use OmegaT
 3.6 to edit this project as a team project.)</seg>
@@ -8730,6 +8731,7 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Sens</note>
       <tuv lang="EN">
         <seg>Press 'OK' to convert the project into a 4.x team project.</seg>
       </tuv>
