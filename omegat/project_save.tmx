@@ -1500,9 +1500,9 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
         <seg>--script=&lt;path&gt;
 	  A script file to be executed on project events.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T142706Z" creationid="NBany" creationdate="20230513T142706Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230513T155455Z" creationid="NBany" creationdate="20230513T142706Z">
         <seg>--script=&lt;path&gt;
-	  Uruchom dany skrypt podczas pracy nad projektem.</seg>
+	  Skrypt, który ma być uruchamiany podczas pracy nad projektem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1520,9 +1520,9 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
         <seg>--tag-validation=[abort|warn]
 	  Validate tags.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T142446Z" creationid="NBany" creationdate="20230513T142446Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230513T155506Z" creationid="NBany" creationdate="20230513T142446Z">
         <seg>--tag-validation=[abort|warn]
-	  Zatwierdź tagi.</seg>
+	  Zatwierdzenie tagów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1796,8 +1796,8 @@ MRK: Tutaj lepiej brzmi "sprawdzanie". Lepiej też użyć rzeczownika "Ładowani
       <tuv lang="EN">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T142429Z" creationid="sandraczapska" creationdate="20230330T152125Z">
-        <seg>Abort: Wyjdź mimo błędu, jeśli tagi są niepoprawne. </seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T155519Z" creationid="sandraczapska" creationdate="20230330T152125Z">
+        <seg>Abort: Wyjście mimo błędu, jeśli tagi są niepoprawne. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13086,8 +13086,8 @@ Bieżące ustawienie to {0}MB;</seg>
       <tuv lang="EN">
         <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T142215Z" creationid="sandraczapska" creationdate="20230328T081435Z">
-        <seg>Warn: Zgłoś niepoprawne tagi na stdout.</seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T155548Z" creationid="sandraczapska" creationdate="20230328T081435Z">
+        <seg>Warn: Zgłoszenie niepoprawnych tagów do stdout.</seg>
       </tuv>
     </tu>
     <tu>
