@@ -1389,6 +1389,26 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--script=&lt;path&gt;
+	  A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T142706Z" creationid="NBany" creationdate="20230513T142706Z">
+        <seg>--script=&lt;path&gt;
+	  Uruchom dany skrypt podczas pracy nad projektem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--tag-validation=[abort|warn]
+	  Validate tags.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T142446Z" creationid="NBany" creationdate="20230513T142446Z">
+        <seg>--tag-validation=[abort|warn]
+	  Zatwierdź tagi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>-h, --help
 	  Print this help message.</seg>
       </tuv>
@@ -1658,8 +1678,8 @@ MRK: Tutaj lepiej brzmi "sprawdzanie". Lepiej też użyć rzeczownika "Ładowani
       <tuv lang="EN">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T152125Z" creationid="sandraczapska" creationdate="20230330T152125Z">
-        <seg>Abort: Exit with an error if tags invalid.</seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T142429Z" creationid="sandraczapska" creationdate="20230330T152125Z">
+        <seg>Abort: Wyjdź mimo błędu, jeśli tagi są niepoprawne. </seg>
       </tuv>
     </tu>
     <tu>
