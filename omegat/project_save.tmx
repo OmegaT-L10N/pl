@@ -1327,9 +1327,9 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
         <seg>--no-team
 	  Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T133150Z" creationid="NBany" creationdate="20230513T133150Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230513T133311Z" creationid="NBany" creationdate="20230513T133150Z">
         <seg>--no-team
-	  Wyłączenie funkcji projekt zespołowy.</seg>
+	  Wyłącz funkcję projekt zespołowy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1358,9 +1358,9 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
         <seg>-h, --help
 	  Print this help message.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T132225Z" creationid="littlewhitedirect" creationdate="20230509T155152Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230513T133212Z" creationid="littlewhitedirect" creationdate="20230509T155152Z">
         <seg>-h, --help
-	  Pokaż ten komunikat pomocniczy.</seg>
+	  Pokaż okno pomocy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13419,6 +13419,16 @@ utworzenia folderu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="PL" changeid="ghuzytkownik" changedate="20230401T153007Z" creationid="ghuzytkownik" creationdate="20230401T153007Z">
         <seg>src (adresy &amp;obrazków)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>team init &lt;source language&gt; &lt;target language&gt;
+	  Team project tool.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T133549Z" creationid="NBany" creationdate="20230513T133549Z">
+        <seg>team init &lt;język źródłowy&gt; &lt;język docelowy&gt;
+	  Zarządzaj projektem zespołowym.</seg>
       </tuv>
     </tu>
     <tu>
