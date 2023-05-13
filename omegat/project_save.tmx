@@ -1340,9 +1340,9 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
         <seg>--config-file=&lt;path&gt;
 	  A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T143852Z" creationid="NBany" creationdate="20230513T143852Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230513T144430Z" creationid="NBany" creationdate="20230513T143852Z">
         <seg>--config-file=&lt;path&gt;
-	  Załaduj ustawienia domyślne z pliku Java .properties.</seg>
+	  Konfiguruj plik Java .properties i załaduj ustawienia domyślne.</seg>
       </tuv>
     </tu>
     <tu>
