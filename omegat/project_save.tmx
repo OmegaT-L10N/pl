@@ -1377,6 +1377,16 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--mode=[console mode name]
+	  Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T151403Z" creationid="NBany" creationdate="20230513T151403Z">
+        <seg>--mode=[nazwa trybu pracy konsoli]
+	  Wybierz inny tryb niż domyślny dla GUI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--no-team
 	  Disable team project functionality.</seg>
       </tuv>
@@ -1404,6 +1414,16 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       <tuv lang="PL" changeid="NBany" changedate="20230513T141729Z" creationid="littlewhitedirect" creationdate="20230509T155223Z">
         <seg>--remote-project
 	Pobierz plik omegat.project z adresu URL podanego jako &lt;ścieżka projektu&gt; i wczytaj projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T151220Z" creationid="NBany" creationdate="20230513T151208Z">
+        <seg>--resource-bundle=&lt;ścieżka&gt;
+	  Użyj plik Java .properties przy tworzeniu tekstu interfejsu.</seg>
       </tuv>
     </tu>
     <tu>
