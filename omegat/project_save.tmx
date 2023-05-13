@@ -1324,6 +1324,26 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--disable-location-save
+	  Do not remember the last folder opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T141629Z" creationid="NBany" creationdate="20230513T141629Z">
+        <seg>--disable-location-save
+	  Nie zapamiętuj ostatnio otwartego folderu w wyszukiwarce plików.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--disable-project-locking
+	  Do not attempt to lock the omegat.project file.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T140115Z" creationid="NBany" creationdate="20230513T140115Z">
+        <seg>--disable-project-locking
+	  Dezaktywuj możliwość zablokowania pliku omegat.project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--no-team
 	  Disable team project functionality.</seg>
       </tuv>
@@ -6002,8 +6022,8 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
         <seg>If invoked in a git working tree or svn checkout, the results
 	  will be staged/added.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T135740Z" creationid="NBany" creationdate="20230513T135740Z">
-        <seg>Jeśli zostanie wywołany w drzewie roboczym git'a lub w svn checkout, wynik zostanie zamieszczony / dodany. </seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T135925Z" creationid="NBany" creationdate="20230513T135740Z">
+        <seg>Wynik wywołany w drzewie roboczym gita lub w svn checkout, zostanie zamieszczony / dodany. </seg>
       </tuv>
     </tu>
     <tu>
