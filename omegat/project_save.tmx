@@ -9924,14 +9924,6 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>See Help &gt; User Manual for details, including available Java options.</seg>
-      </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T101954Z">
-        <seg>See Help &gt; User Manual for details, including available Java options.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>See the user manual for instructions.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T183634Z" creationid="Maja" creationdate="20230330T183634Z">
