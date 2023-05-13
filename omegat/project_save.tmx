@@ -10105,8 +10105,8 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       <tuv lang="EN">
         <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T143712Z" creationid="NBany" creationdate="20230513T143151Z">
-        <seg>Zobacz w OmegaT.jar/META-INF/MANIFEST.MF dopuszczalne wartości. </seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T144054Z" creationid="NBany" creationdate="20230513T143151Z">
+        <seg>Zobacz dopuszczalne wartości w OmegaT.jar/META-INF/MANIFEST.MF.</seg>
       </tuv>
     </tu>
     <tu>
