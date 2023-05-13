@@ -6145,10 +6145,18 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T133733Z" creationid="NBany" creationdate="20230513T133733Z">
+        <seg>Utwórz projekt zespołowy z określonymi językami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T133041Z" creationid="NBany" creationdate="20230513T133041Z">
-        <seg>Zainicjowano {0}-{1} projekt zespołowy. </seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T133702Z" creationid="NBany" creationdate="20230513T133041Z">
+        <seg>Utworzono {0}-{1} projekt zespołowy. </seg>
       </tuv>
     </tu>
     <tu>
