@@ -391,16 +391,16 @@
       <tuv lang="EN">
         <seg>&amp;Filter</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081438Z" creationid="sandraczapska" creationdate="20230328T081438Z">
-        <seg>&amp;Filter</seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T132732Z" creationid="sandraczapska" creationdate="20230328T081438Z">
+        <seg>&amp;Filtruj</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Find Next</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081443Z" creationid="sandraczapska" creationdate="20230328T081443Z">
-        <seg>&amp;Find Next</seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T132646Z" creationid="sandraczapska" creationdate="20230328T081443Z">
+        <seg>&amp;Szukaj Dalej</seg>
       </tuv>
     </tu>
     <tu>
@@ -415,8 +415,8 @@
       <tuv lang="EN">
         <seg>&amp;Finish</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T094010Z" creationid="sandraczapska" creationdate="20230328T094010Z">
-        <seg>&amp;Finish</seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T132546Z" creationid="sandraczapska" creationdate="20230328T094010Z">
+        <seg>&amp;Zakończ</seg>
       </tuv>
     </tu>
     <tu>
@@ -810,6 +810,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Remove Filter</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T132530Z" creationid="NBany" creationdate="20230513T132530Z">
+        <seg>&amp;Usuń filtry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T153302Z" creationid="maciej-pqr" creationdate="20230331T153302Z">
@@ -823,6 +831,14 @@
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T181528Z" creationid="JU" creationdate="20230330T181528Z">
         <seg>[fuzzy]Zamień...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace and Find Next</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T132635Z" creationid="NBany" creationdate="20230513T132635Z">
+        <seg>&amp;Zamień i Szukaj Dalej</seg>
       </tuv>
     </tu>
     <tu>
@@ -973,6 +989,14 @@ MRK: Może "Szukaj zaznaczenia"?</note>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T174108Z" creationid="klaudiakempa" creationdate="20230331T174108Z">
         <seg>&amp;Pokaż sugestie automatyczne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show Replacements</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T132725Z" creationid="NBany" creationdate="20230513T132725Z">
+        <seg>&amp;Pokaż zmiany</seg>
       </tuv>
     </tu>
     <tu>
@@ -8634,6 +8658,16 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Place source files in ./source and supplementary
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T132906Z" creationid="NBany" creationdate="20230513T132906Z">
+        <seg>Umieść pliki źródłowe w ./source, a materiały dodatkowe w ./tm, ./glossary i ./dictionary, jeśli to konieczne, a następnie zatwierdź wszystko..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Plugin Installer</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230328T070315Z">
@@ -9088,6 +9122,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203217Z" creationid="sandraczapska" creationdate="20230330T203217Z">
         <seg>&amp;Wczytaj ponownie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;place All</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T132712Z" creationid="NBany" creationdate="20230513T132712Z">
+        <seg>&amp;Zamień wszystkie</seg>
       </tuv>
     </tu>
     <tu>
@@ -10048,6 +10090,14 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230401T172734Z" creationid="MS" creationdate="20230401T172734Z">
         <seg>Tekst segmentów z uwagami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T132655Z" creationid="NBany" creationdate="20230513T132655Z">
+        <seg>Wybierz</seg>
       </tuv>
     </tu>
     <tu>
