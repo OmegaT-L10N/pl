@@ -1329,11 +1329,10 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
 	  Source- or target-language tokenizer to use (overrides project
 	  settings).</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T141852Z" creationid="NBany" creationdate="20230513T141852Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230513T143038Z" creationid="NBany" creationdate="20230513T141852Z">
         <seg>--ITokenizer=&lt;nazwa klasy&gt;
-	--ITokenizerTarget=&lt;classname&gt;
-	  Source- or target-language tokenizer to use (overrides project
-	  settings).</seg>
+	--ITokenizerTarget=&lt;nazwa klasy&gt;
+	  Tokenizer języka źródłowego lub docelowego (zastępuje ustawienia projektu).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10090,6 +10089,14 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
       <tuv lang="PL" changeid="NBany" changedate="20230513T131520Z" creationid="NBany" creationdate="20230513T131520Z">
         <seg>Szczegółowe informacje, w tym dostępne opcje Java, znajdują się w Pomoc &gt; Podręcznik użytkownika </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T143151Z" creationid="NBany" creationdate="20230513T143151Z">
+        <seg>Zobacz OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
       </tuv>
     </tu>
     <tu>
