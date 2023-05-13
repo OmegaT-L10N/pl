@@ -12457,8 +12457,8 @@ nowa wersja: {2}</seg>
       <tuv lang="EN">
         <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230509T155155Z" creationid="littlewhitedirect" creationdate="20230509T155155Z">
-        <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T131212Z" creationid="littlewhitedirect" creationdate="20230509T155155Z">
+        <seg>Użycie: java -jar [&lt;opcje java&gt;] OmegaT.jar [&lt;opcje OmegaT&gt;] [&lt;ścieżka projektu&gt;]]</seg>
       </tuv>
     </tu>
     <tu>
