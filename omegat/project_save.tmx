@@ -1337,12 +1337,22 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--config-dir=&lt;path&gt;
+	  The folder used to read or write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T150425Z" creationid="NBany" creationdate="20230513T150425Z">
+        <seg>--config-dir=&lt;path&gt;
+	  Podaj ścieżkę folderu używanego do odczytu lub zapisu plików konfiguracyjnych OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--config-file=&lt;path&gt;
 	  A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T144713Z" creationid="NBany" creationdate="20230513T143852Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230513T150334Z" creationid="NBany" creationdate="20230513T143852Z">
         <seg>--config-file=&lt;ścieżka&gt;
-	  Konfiguruj plik Java .properties i załaduj ustawienia domyślne.</seg>
+	  Podaj ścieżkę pliku Java .properties i załaduj ustawienia domyślne.</seg>
       </tuv>
     </tu>
     <tu>
