@@ -47,6 +47,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Add...</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T132359Z" creationid="NBany" creationdate="20230513T132359Z">
+        <seg>&amp;Dodaj...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Align Files...</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T173242Z" creationid="klaudiakempa" creationdate="20230331T173242Z">
@@ -497,8 +505,8 @@
       <tuv lang="EN">
         <seg>&amp;Insert</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084654Z" creationid="sandraczapska" creationdate="20230328T084654Z">
-        <seg>&amp;Insert</seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T132504Z" creationid="sandraczapska" creationdate="20230328T084654Z">
+        <seg>&amp;Zamieść</seg>
       </tuv>
     </tu>
     <tu>
@@ -1535,6 +1543,14 @@ MRK: Tutaj lepiej brzmi "sprawdzanie". Lepiej też użyć rzeczownika "Ładowani
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230417T080358Z" creationid="leoi23" creationdate="20230417T080358Z">
         <seg>ID zasady może zawierać tylko litery łacińskie, podkreślenia i kropki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&amp;dd</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T132413Z" creationid="NBany" creationdate="20230513T132413Z">
+        <seg>&amp;Dodaj</seg>
       </tuv>
     </tu>
     <tu>
@@ -9027,6 +9043,14 @@ MRK: Polski odpowiednik jest używany.</note>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155251Z" creationid="maciej-pqr" creationdate="20230331T155251Z">
         <seg>Pliki QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>R&amp;emove</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T132517Z" creationid="NBany" creationdate="20230513T132517Z">
+        <seg>&amp;Usuń</seg>
       </tuv>
     </tu>
     <tu>
