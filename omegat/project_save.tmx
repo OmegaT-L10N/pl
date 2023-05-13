@@ -5999,6 +5999,15 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If invoked in a git working tree or svn checkout, the results
+	  will be staged/added.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T135740Z" creationid="NBany" creationdate="20230513T135740Z">
+        <seg>Jeśli zostanie wywołany w drzewie roboczym git'a lub w svn checkout, wynik zostanie zamieszczony / dodany. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
       </tuv>
       <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T204935Z" creationid="biegajacy-zajac" creationdate="20230321T194007Z">
