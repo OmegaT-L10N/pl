@@ -1445,6 +1445,17 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T153744Z" creationid="NBany" creationdate="20230513T153744Z">
+        <seg>--output-file=[plik_wyjściowy]
+	    Zapis w określonym pliku lub </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--pseudotranslatetype=[equal|empty]
 	    What to put in the pseudotranslated TMX.</seg>
       </tuv>
