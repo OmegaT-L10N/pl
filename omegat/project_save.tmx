@@ -202,6 +202,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+      <tuv lang="PL" changeid="user" changedate="20230513T125816Z" creationid="user" creationdate="20230513T125816Z">
+        <seg>&amp;Anuluj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Check for Updates...</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T180054Z" creationid="klaudiakempa" creationdate="20230331T180054Z">
