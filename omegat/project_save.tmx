@@ -12616,9 +12616,9 @@ nowa wersja: {2}</seg>
         <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
 	See --help.</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084645Z" creationid="sandraczapska" creationdate="20230328T084645Z">
-        <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
-	See --help.</seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T142124Z" creationid="sandraczapska" creationdate="20230328T084645Z">
+        <seg>Zastosowanie: team init &lt;język źródłowy&gt; &lt;język docelowy&gt;
+	Zobacz --help.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12906,8 +12906,8 @@ Bieżące ustawienie to {0}MB;</seg>
       <tuv lang="EN">
         <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T081435Z" creationid="sandraczapska" creationdate="20230328T081435Z">
-        <seg>Warn: Report invalid tags to stdout.</seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T142215Z" creationid="sandraczapska" creationdate="20230328T081435Z">
+        <seg>Warn: Zgłoś niepoprawne tagi na stdout.</seg>
       </tuv>
     </tu>
     <tu>
