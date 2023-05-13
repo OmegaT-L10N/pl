@@ -1469,9 +1469,9 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
         <seg>--quiet
 	  Reduce output to command line stdout.</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230509T155426Z" creationid="littlewhitedirect" creationdate="20230509T155426Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230513T155349Z" creationid="littlewhitedirect" creationdate="20230509T155426Z">
         <seg>--quiet
-	  Reduce output to command line stdout.</seg>
+	  Sprowadza wynik do wiersza poleceń stdout.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3296,6 +3296,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Console only options:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T155217Z" creationid="NBany" creationdate="20230513T155217Z">
+        <seg>Opcje dotyczące tylko konsoli:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contact your project administrator to find out if any
 additional steps need to be taken.</seg>
       </tuv>
@@ -3724,8 +3732,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Defaults to xml.</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084629Z" creationid="sandraczapska" creationdate="20230328T084629Z">
-        <seg>Defaults to xml.</seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T155155Z" creationid="sandraczapska" creationdate="20230328T084629Z">
+        <seg>Domyślnym formatem jest xml.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6147,6 +6155,16 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191505Z" creationid="ZOO" creationdate="20230324T191505Z">
         <seg>Identyfikator stosowany w przypadku tłumaczeń alternatywnych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If --stats-type is not specified, the format is
+	    detected from the file extension.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T155126Z" creationid="NBany" creationdate="20230513T155126Z">
+        <seg>Bez --stats-type, format jest rozpoznawany
+	    na podstawie rozszerzenia pliku.</seg>
       </tuv>
     </tu>
     <tu>
