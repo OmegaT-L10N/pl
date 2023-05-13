@@ -896,8 +896,8 @@
       <tuv lang="EN">
         <seg>&amp;Search</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230328T084648Z" creationid="sandraczapska" creationdate="20230328T084648Z">
-        <seg>&amp;Search</seg>
+      <tuv lang="PL" changeid="user" changedate="20230513T125759Z" creationid="sandraczapska" creationdate="20230328T084648Z">
+        <seg>&amp;Szukaj</seg>
       </tuv>
     </tu>
     <tu>
@@ -8959,8 +8959,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Project path only: Launch GUI and load specified project.</seg>
       </tuv>
-      <tuv lang="PL" changeid="leoi23" changedate="20230321T143638Z" creationid="leoi23" creationdate="20230321T143638Z">
-        <seg>Wczytanie podanego projektu nie powiodło się!</seg>
+      <tuv lang="PL" changeid="user" changedate="20230513T125709Z" creationid="leoi23" creationdate="20230321T143638Z">
+        <seg>Wczytanie tego projektu nie powiodło się!</seg>
       </tuv>
     </tu>
     <tu>
