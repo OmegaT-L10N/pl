@@ -1350,9 +1350,9 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
         <seg>--disable-project-locking
 	  Do not attempt to lock the omegat.project file.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T140115Z" creationid="NBany" creationdate="20230513T140115Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230513T143201Z" creationid="NBany" creationdate="20230513T140115Z">
         <seg>--disable-project-locking
-	  Dezaktywuj możliwość zablokowania pliku omegat.project.</seg>
+	  Dezaktywuj opcję zablokowania pliku omegat.project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10095,8 +10095,8 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       <tuv lang="EN">
         <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T143151Z" creationid="NBany" creationdate="20230513T143151Z">
-        <seg>Zobacz OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T143712Z" creationid="NBany" creationdate="20230513T143151Z">
+        <seg>Zobacz w OmegaT.jar/META-INF/MANIFEST.MF dopuszczalne wartości. </seg>
       </tuv>
     </tu>
     <tu>
