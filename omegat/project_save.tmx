@@ -1387,6 +1387,18 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--mode=console-translate
+	  --source-pattern=&lt;pattern&gt;
+	    A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T152135Z" creationid="NBany" creationdate="20230513T152135Z">
+        <seg>--mode=console-translate
+	  --source-pattern=&lt;wzór&gt;
+	    Regexowa biała lista plików źródłowych do przetworzenia..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--no-team
 	  Disable team project functionality.</seg>
       </tuv>
@@ -3205,6 +3217,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="PL" changeid="kapel" changedate="20230401T221735Z" creationid="janmars" creationdate="20230321T161340Z">
         <seg>Dostępne połączenie, projekt jest w trybie projektu grupowego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Console mode names and their options:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T151551Z" creationid="NBany" creationdate="20230513T151551Z">
+        <seg>Nazwy trybów pracy konsoli i ich opcje: </seg>
       </tuv>
     </tu>
     <tu>
@@ -10137,6 +10157,14 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
       <tuv lang="PL" changeid="NBany" changedate="20230513T144054Z" creationid="NBany" creationdate="20230513T143151Z">
         <seg>Zobacz dopuszczalne wartości w OmegaT.jar/META-INF/MANIFEST.MF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See below for details.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T151435Z" creationid="NBany" creationdate="20230513T151435Z">
+        <seg>Zobacz szczegółowe informacje poniżej.</seg>
       </tuv>
     </tu>
     <tu>
