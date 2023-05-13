@@ -1306,10 +1306,9 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
 	  Download an omegat.project file from the URL given as &lt;project
 	  path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230509T155223Z" creationid="littlewhitedirect" creationdate="20230509T155223Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230513T132017Z" creationid="littlewhitedirect" creationdate="20230509T155223Z">
         <seg>--remote-project
-	  Download an omegat.project file from the URL given as &lt;project
-	  path&gt; and load the project.</seg>
+	Pobierz plik omegat.project z adresu URL podanego jako &lt;ścieżka projektu&gt; i załaduj projekt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1317,9 +1316,9 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
         <seg>-h, --help
 	  Print this help message.</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230509T155152Z" creationid="littlewhitedirect" creationdate="20230509T155152Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230513T131822Z" creationid="littlewhitedirect" creationdate="20230509T155152Z">
         <seg>-h, --help
-	  Print this help message.</seg>
+	  Pokaż ten komunikat pomocniczy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8967,8 +8966,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Project path only: Launch GUI and load specified project.</seg>
       </tuv>
-      <tuv lang="PL" changeid="user" changedate="20230513T125709Z" creationid="leoi23" creationdate="20230321T143638Z">
-        <seg>Wczytanie tego projektu nie powiodło się!</seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T131724Z" creationid="leoi23" creationdate="20230321T143638Z">
+        <seg>Wczytanie danego projektu nie powiodło się!</seg>
       </tuv>
     </tu>
     <tu>
