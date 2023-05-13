@@ -1449,9 +1449,9 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
 	    Prints to the specified file, or to standard output
 	    if no file is given or the option is not used.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T153744Z" creationid="NBany" creationdate="20230513T153744Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230513T154955Z" creationid="NBany" creationdate="20230513T153744Z">
         <seg>--output-file=[plik_wyjściowy]
-	    Zapis w określonym pliku lub </seg>
+	    Wysyłanie informacji do danego pliku pod warunkiem, że nie podano innego lub jeśli dana opcja nie jest używana dla standardowego pliku wyjściowego. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1503,6 +1503,16 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       <tuv lang="PL" changeid="NBany" changedate="20230513T142706Z" creationid="NBany" creationdate="20230513T142706Z">
         <seg>--script=&lt;path&gt;
 	  Uruchom dany skrypt podczas pracy nad projektem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--stats-type=[xml|text|txt|json]
+	    Specifies the output format.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="NBany" changedate="20230513T155041Z" creationid="NBany" creationdate="20230513T155041Z">
+        <seg>--stats-type=[xml|text|txt|json]
+	    Określenie formatu wyjściowego.</seg>
       </tuv>
     </tu>
     <tu>
