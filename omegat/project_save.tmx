@@ -1340,9 +1340,9 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
         <seg>--config-dir=&lt;path&gt;
 	  The folder used to read or write OmegaT configuration files.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T151103Z" creationid="NBany" creationdate="20230513T150425Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230513T154218Z" creationid="NBany" creationdate="20230513T150425Z">
         <seg>--config-dir=&lt;ścieżka&gt;
-	  Podaj ścieżkę folderu używanego do odczytu lub zapisu plików konfiguracyjnych OmegaT.</seg>
+	  Ścieżka folderu używanego do odczytu lub zapisu plików konfiguracyjnych OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1350,9 +1350,9 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
         <seg>--config-file=&lt;path&gt;
 	  A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T154158Z" creationid="NBany" creationdate="20230513T143852Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230513T154206Z" creationid="NBany" creationdate="20230513T143852Z">
         <seg>--config-file=&lt;ścieżka&gt;
-	  Ścieżka pliku Java .properties, w której znajdują się ustawienia domyślne</seg>
+	  Ścieżka pliku Java .properties, w której znajdują się ustawienia domyślne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1380,9 +1380,9 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
         <seg>--mode=[console mode name]
 	  Specify a mode other than the GUI default.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T152825Z" creationid="NBany" creationdate="20230513T151403Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230513T154314Z" creationid="NBany" creationdate="20230513T151403Z">
         <seg>--mode=[nazwa trybu konsoli]
-	  Wybierz inny tryb niż domyślny GUI.</seg>
+	  Wybór innego trybu niż domyślny GUI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1490,9 +1490,9 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
         <seg>--resource-bundle=&lt;path&gt;
 	  A Java .properties file to use for the interface text.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T152644Z" creationid="NBany" creationdate="20230513T151208Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230513T154248Z" creationid="NBany" creationdate="20230513T151208Z">
         <seg>--resource-bundle=&lt;ścieżka&gt;
-	  Użyj pliku Java .properties przy tworzeniu tekstu interfejsu.</seg>
+	  Plik Java .properties do użycia przy tworzeniu tekstu interfejsu.</seg>
       </tuv>
     </tu>
     <tu>
