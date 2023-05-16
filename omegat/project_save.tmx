@@ -854,8 +854,8 @@
       <tuv lang="EN">
         <seg>&amp;Reset Colour</seg>
       </tuv>
-      <tuv lang="PL" changeid="MS" changedate="20230516T134646Z" creationid="MS" creationdate="20230401T180539Z">
-        <seg>Ustawienie początowe kolorów</seg>
+      <tuv lang="PL" changeid="MS" changedate="20230516T134651Z" creationid="MS" creationdate="20230401T180539Z">
+        <seg>Ustawienie początkowe kolorów</seg>
       </tuv>
     </tu>
     <tu>
@@ -1658,8 +1658,8 @@ MRK: Tutaj lepiej brzmi "sprawdzanie". Lepiej też użyć rzeczownika "Ładowani
       <tuv lang="EN">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="PL" changeid="MS" changedate="20230401T180653Z" creationid="MS" creationdate="20230401T180653Z">
-        <seg>&lt;html&gt;&lt;i&gt;Preferencje&lt;/i&gt; &amp;gt; &lt;i&gt;Ogólne&lt;/i&gt; &amp;gt; &lt;i&gt;użyj klawisza TAB, aby przejść do następnego segmentu&lt;/i&gt; sprawdzone&lt;/html&gt;</seg>
+      <tuv lang="PL" changeid="MS" changedate="20230516T134800Z" creationid="MS" creationdate="20230401T180653Z">
+        <seg>&lt;html&gt;&lt;i&gt;preferencje&lt;/i&gt; &amp;gt; &lt;i&gt;ogólne&lt;/i&gt; &amp;gt; &lt;i&gt;użyj klawisza TAB, aby przejść do następnego segmentu&lt;/i&gt; sprawdzone&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
