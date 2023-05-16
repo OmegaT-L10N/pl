@@ -4204,8 +4204,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Drop TMX files here to add them to the project.</seg>
       </tuv>
-      <tuv lang="PL" changeid="MS" changedate="20230401T180934Z" creationid="MS" creationdate="20230401T180934Z">
-        <seg>Przeciągnij pliki TMX tutaj, aby dodać je do projektu</seg>
+      <tuv lang="PL" changeid="MS" changedate="20230516T134844Z" creationid="MS" creationdate="20230401T180934Z">
+        <seg>Przeciągnij pliki TMX tutaj, aby dodać je do projektu.</seg>
       </tuv>
     </tu>
     <tu>
