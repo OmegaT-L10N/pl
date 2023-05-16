@@ -13725,8 +13725,8 @@ utworzenia folderu konfiguracyjnego.</seg>
       <tuv lang="EN">
         <seg>{0} segments</seg>
       </tuv>
-      <tuv lang="PL" changeid="MS" changedate="20230401T165457Z" creationid="MS" creationdate="20230401T165457Z">
-        <seg>Segmenty{0}</seg>
+      <tuv lang="PL" changeid="MS" changedate="20230516T134148Z" creationid="MS" creationdate="20230401T165457Z">
+        <seg>Segmenty {0}</seg>
       </tuv>
     </tu>
     <tu>
