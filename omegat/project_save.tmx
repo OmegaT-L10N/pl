@@ -1548,8 +1548,8 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       <tuv lang="EN">
         <seg>1 segment</seg>
       </tuv>
-      <tuv lang="PL" changeid="MS" changedate="20230401T165609Z" creationid="MS" creationdate="20230401T165609Z">
-        <seg>segment 0000</seg>
+      <tuv lang="PL" changeid="MS" changedate="20230516T134219Z" creationid="MS" creationdate="20230401T165609Z">
+        <seg>1 segment </seg>
       </tuv>
     </tu>
     <tu>
