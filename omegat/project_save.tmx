@@ -3258,8 +3258,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Conflict {0} of {1}</seg>
       </tuv>
-      <tuv lang="PL" changeid="MS" changedate="20230401T170342Z" creationid="MS" creationdate="20230401T170342Z">
-        <seg>Konflikt </seg>
+      <tuv lang="PL" changeid="MS" changedate="20230516T134250Z" creationid="MS" creationdate="20230401T170342Z">
+        <seg>Problem  {0} z {1} </seg>
       </tuv>
     </tu>
     <tu>
