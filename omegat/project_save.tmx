@@ -2024,8 +2024,8 @@ MRK: Tutaj lepiej brzmi "sprawdzanie". Lepiej też użyć rzeczownika "Ładowani
       <tuv lang="EN">
         <seg>Aligner highlight</seg>
       </tuv>
-      <tuv lang="PL" changeid="MS" changedate="20230401T180317Z" creationid="MS" creationdate="20230401T180317Z">
-        <seg>Wyrównywanie wyróżnione</seg>
+      <tuv lang="PL" changeid="MS" changedate="20230516T134612Z" creationid="MS" creationdate="20230401T180317Z">
+        <seg>Wyrównywanie zaznaczone</seg>
       </tuv>
     </tu>
     <tu>
