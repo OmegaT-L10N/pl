@@ -2033,8 +2033,8 @@ MRK: Tutaj lepiej brzmi "sprawdzanie". Lepiej też użyć rzeczownika "Ładowani
       <tuv lang="EN">
         <seg>Aligner table row highlight</seg>
       </tuv>
-      <tuv lang="PL" changeid="MS" changedate="20230401T180355Z" creationid="MS" creationdate="20230401T180355Z">
-        <seg>Wyrównywaniewierszy w tabely wyróżnione </seg>
+      <tuv lang="PL" changeid="MS" changedate="20230516T134602Z" creationid="MS" creationdate="20230401T180355Z">
+        <seg>Wyrównywanie wierszy w tabeli podkreślone </seg>
       </tuv>
     </tu>
     <tu>
@@ -8199,8 +8199,8 @@ MRK: Tutaj "błędów".</note>
       <tuv lang="EN">
         <seg>Notification (flash)</seg>
       </tuv>
-      <tuv lang="PL" changeid="MS" changedate="20230401T180157Z" creationid="MS" creationdate="20230401T180157Z">
-        <seg>Powiadomienia (migające)</seg>
+      <tuv lang="PL" changeid="MS" changedate="20230516T134533Z" creationid="MS" creationdate="20230401T180157Z">
+        <seg>Powiadomienie (migające)</seg>
       </tuv>
     </tu>
     <tu>
