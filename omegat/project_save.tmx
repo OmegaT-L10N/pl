@@ -6629,8 +6629,8 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       <tuv lang="EN">
         <seg>Item:</seg>
       </tuv>
-      <tuv lang="PL" changeid="MS" changedate="20230401T180531Z" creationid="MS" creationdate="20230401T180531Z">
-        <seg>Element</seg>
+      <tuv lang="PL" changeid="MS" changedate="20230516T134625Z" creationid="MS" creationdate="20230401T180531Z">
+        <seg>Element:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7255,8 +7255,8 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       <tuv lang="EN">
         <seg>Machine translate highlight</seg>
       </tuv>
-      <tuv lang="PL" changeid="MS" changedate="20230401T180527Z" creationid="janmars" creationdate="20230321T161325Z">
-        <seg>Tłumaczenie maszynowe wyróżnione</seg>
+      <tuv lang="PL" changeid="MS" changedate="20230516T134618Z" creationid="janmars" creationdate="20230321T161325Z">
+        <seg>Tłumaczenie maszynowe zaznaczone</seg>
       </tuv>
     </tu>
     <tu>
