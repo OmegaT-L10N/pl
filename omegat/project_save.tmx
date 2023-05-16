@@ -2397,8 +2397,8 @@ MRK: Tutaj lepiej brzmi "sprawdzanie". Lepiej też użyć rzeczownika "Ładowani
       <tuv lang="EN">
         <seg>Auto-text file (*.autotext)</seg>
       </tuv>
-      <tuv lang="PL" changeid="MS" changedate="20230321T164832Z" creationid="MS" creationdate="20230321T164832Z">
-        <seg>plik Autotekstu</seg>
+      <tuv lang="PL" changeid="MS" changedate="20230516T133953Z" creationid="MS" creationdate="20230321T164832Z">
+        <seg>plik autotekstu</seg>
       </tuv>
     </tu>
     <tu>
@@ -13389,8 +13389,8 @@ Your page is not found</seg>
       <tuv lang="EN">
         <seg>You are trying to use the HunspellTokenizer with {0}, but no spelling dictionaries are installed for this language.</seg>
       </tuv>
-      <tuv lang="PL" changeid="MS" changedate="20230401T164655Z" creationid="MS" creationdate="20230401T164655Z">
-        <seg>Próbujesz użyć HunspellTokenizer z {0}, ale nie zainstalowano słowników pisowni dla tego języka.</seg>
+      <tuv lang="PL" changeid="MS" changedate="20230516T134055Z" creationid="MS" creationdate="20230401T164655Z">
+        <seg>Chcesz użyć HunspellTokenizer z {0}, ale nie zainstalowano słowników pisowni dla tego języka.</seg>
       </tuv>
     </tu>
     <tu>
