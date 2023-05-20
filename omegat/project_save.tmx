@@ -2701,8 +2701,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T065102Z">
-        <seg>Katalog glosariusza niedostępny</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T160800Z">
+        <seg>Nie można uzyskać dostępu do katalogu z glosariuszem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2710,8 +2710,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Cannot create folder for translated files:</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T065114Z">
-        <seg>Nie można utworzyć katalogu dla plików docelowych:</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T160825Z">
+        <seg>Nie można utworzyć katalogu dla przetłumaczonych plików:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3389,8 +3389,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230520T160643Z">
-        <seg>Nie można było utworzyć katalogu projektu w ścieżce {0}.</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T160653Z">
+        <seg>Nie udało się utworzyć katalogu projektu w ścieżce {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4734,8 +4734,8 @@ ew. "wyszukiwania" (zamiast "przeszukiwania")</note>
       <tuv lang="EN">
         <seg>Error starting post-processing commands: {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T065254Z" creationid="tobkub" creationdate="20230328T065138Z">
-        <seg>Błąd przy uruchamianiu post-przetwarzania komend: {0}</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T160904Z" creationid="tobkub" creationdate="20230328T065138Z">
+        <seg>Błąd przy uruchamianiu komend post-przetwarzania: {0}</seg>
       </tuv>
     </tu>
     <tu>
