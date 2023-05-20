@@ -2607,12 +2607,11 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Interpunkcja</note>
       <tuv lang="EN">
         <seg>Browse...</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T071748Z" creationid="tobkub" creationdate="20230328T071748Z">
-        <seg>Przeglądaj</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T161607Z" creationid="tobkub" creationdate="20230328T071748Z">
+        <seg>Przeglądaj…</seg>
       </tuv>
     </tu>
     <tu>
@@ -3564,6 +3563,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230330T195507Z" creationid="sandraczapska" creationdate="20230330T195507Z">
         <seg>Aktualne wykorzystanie pamięci przez VM: {0}MB; w tym wolna pamięć: {1}MB; maksymalna pamięć dostępna: {2}MB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current project configuration will be overridden by the remote project configuration.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T161750Z" creationid="tobkub" creationdate="20230520T161750Z">
+        <seg>Obecna konfiguracja projektu zostanie zastąpiona konfiguracją projektu zdalnego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12025,12 +12032,11 @@ settings to their defaults.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Total Characters (w/o spaces)</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T070321Z">
-        <seg>Liczba znaków (bez spacji)</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T161547Z">
+        <seg>Znaki (bez spacji)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12448,6 +12454,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T182219Z" creationid="Maja" creationdate="20230330T182219Z">
         <seg>Nie można połączyć się z serwerem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to create a backup file of {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T161700Z" creationid="tobkub" creationdate="20230520T161700Z">
+        <seg>Nie udało się stworzyć kopii zapasowej pliku {0}.</seg>
       </tuv>
     </tu>
     <tu>
