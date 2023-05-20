@@ -9529,6 +9529,14 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Remote repositories</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T161940Z" creationid="tobkub" creationdate="20230520T161940Z">
+        <seg>Zasoby zdalne</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>MRK: Szyk</note>
       <tuv lang="EN">
         <seg>Remote repository git+ssh credential error: {0}</seg>
@@ -9551,6 +9559,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T183552Z" creationid="JU" creationdate="20230330T183552Z">
         <seg>Wersja zdalna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T161924Z" creationid="tobkub" creationdate="20230520T161924Z">
+        <seg>Usuń</seg>
       </tuv>
     </tu>
     <tu>
@@ -11477,6 +11493,14 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Team Mode Repository Mapping</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T161917Z" creationid="tobkub" creationdate="20230520T161917Z">
+        <seg>Mapowanie katalogów w trybie zespołowym</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>MRK: Pisownia</note>
       <tuv lang="EN">
         <seg>Team synchronization...</seg>
@@ -11711,6 +11735,14 @@ But others await</seg>
         <seg>The help page you seek
 Lies beyond our perception
 But others await</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The original file is backed up as: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T161837Z" creationid="tobkub" creationdate="20230520T161837Z">
+        <seg>Utworzono kopię zapasową oryginalnego pliku: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12458,6 +12490,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to convert project!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T161851Z" creationid="tobkub" creationdate="20230520T161851Z">
+        <seg>Nie udało się przekonwertować projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to create a backup file of {0}</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230520T161700Z" creationid="tobkub" creationdate="20230520T161700Z">
@@ -12478,6 +12518,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230331T140307Z" creationid="leoi23" creationdate="20230331T140307Z">
         <seg>Nie można odinstalować wybranego słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to download team project!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T161903Z" creationid="tobkub" creationdate="20230520T161852Z">
+        <seg>Nie udało się pobrać projektu zespołowego.</seg>
       </tuv>
     </tu>
     <tu>
