@@ -3389,8 +3389,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T065022Z">
-        <seg>Nie można było utworzyć katalogu projektu {0}</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T160643Z">
+        <seg>Nie można było utworzyć katalogu projektu w ścieżce {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5132,8 +5132,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Failed to create project!</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T064944Z">
-        <seg>Utworzenie nowego projektu nie powiodło się</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T160140Z">
+        <seg>Utworzenie nowego projektu nie powiodło się.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12127,8 +12127,8 @@ settings to their defaults.</seg>
       <tuv lang="EN">
         <seg>Translated file created</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T064917Z">
-        <seg>Utworzono plik docelowy</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T160125Z">
+        <seg>Utworzono przetłumaczony plik</seg>
       </tuv>
     </tu>
     <tu>
@@ -12450,8 +12450,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Unable to build new TMX file!</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T064933Z">
-        <seg>Utworzenie nowego pliku TMX jest niemożliwe</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T160135Z">
+        <seg>Utworzenie nowego pliku TMX jest niemożliwe.</seg>
       </tuv>
     </tu>
     <tu>
