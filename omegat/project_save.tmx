@@ -3531,7 +3531,6 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Creating translated files: {0}</seg>
       </tuv>
@@ -4673,8 +4672,8 @@ MRK: Należy zachować spójność terminologiczną. Ekwiwalencja, styl, pisowni
       <tuv lang="EN">
         <seg>Error monitoring post-processing commands!</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230509T140940Z" creationid="tobkub" creationdate="20230328T065825Z">
-        <seg>Nastąpił błąd przy monitorowaniu komend post-przetwarzania.</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T161139Z" creationid="tobkub" creationdate="20230328T065825Z">
+        <seg>Nastąpił błąd przy monitorowaniu poleceń post-przetwarzania.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4734,8 +4733,8 @@ ew. "wyszukiwania" (zamiast "przeszukiwania")</note>
       <tuv lang="EN">
         <seg>Error starting post-processing commands: {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230520T160904Z" creationid="tobkub" creationdate="20230328T065138Z">
-        <seg>Błąd przy uruchamianiu komend post-przetwarzania: {0}</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T161031Z" creationid="tobkub" creationdate="20230328T065138Z">
+        <seg>Błąd przy uruchamianiu poleceń post-przetwarzania: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4971,8 +4970,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Executing post-processing commands...</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T065137Z" creationid="tobkub" creationdate="20230328T065137Z">
-        <seg>Wykonywanie komend post-przetwarzania…</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T161026Z" creationid="tobkub" creationdate="20230328T065137Z">
+        <seg>Wykonywanie poleceń post-przetwarzania…</seg>
       </tuv>
     </tu>
     <tu>
@@ -8970,8 +8969,8 @@ everything.</seg>
       <tuv lang="EN">
         <seg>Post-processing command failed.</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T065750Z" creationid="tobkub" creationdate="20230328T065750Z">
-        <seg>Wykonywanie komend post-przetwarzania nie powiodło się.</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T161112Z" creationid="tobkub" creationdate="20230328T065750Z">
+        <seg>Wykonywanie poleceń post-przetwarzania nie powiodło się.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8979,8 +8978,8 @@ everything.</seg>
       <tuv lang="EN">
         <seg>Post-processing commands completed.</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T065810Z">
-        <seg>Wykonano komendy post-przetwarzania.</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T161035Z">
+        <seg>Wykonano polecenia post-przetwarzania.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8997,8 +8996,8 @@ everything.</seg>
       <tuv lang="EN">
         <seg>Post-processing commands were interrupted.</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T065829Z" creationid="tobkub" creationdate="20230328T065807Z">
-        <seg>Wykonywanie komend post-przetwarzania zostało przerwane.</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T161120Z" creationid="tobkub" creationdate="20230328T065807Z">
+        <seg>Wykonywanie poleceń post-przetwarzania zostało przerwane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13264,7 +13263,6 @@ Your page is not found</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Powtórzenie</note>
       <tuv lang="EN">
         <seg>Words</seg>
       </tuv>
