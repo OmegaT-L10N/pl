@@ -5,12 +5,11 @@
   <body>
 <!-- Default translations -->
     <tu>
-      <note>MRK: Ekwiwalencja</note>
       <tuv lang="EN">
         <seg>#Files</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T070022Z" creationid="tobkub" creationdate="20230328T070022Z">
-        <seg>Przeszukaj p&amp;liki</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T161334Z" creationid="tobkub" creationdate="20230328T070022Z">
+        <seg>#Pliki</seg>
       </tuv>
     </tu>
     <tu>
@@ -2697,7 +2696,6 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Terminologia, styl</note>
       <tuv lang="EN">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
@@ -2706,7 +2704,6 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Cannot create folder for translated files:</seg>
       </tuv>
@@ -2829,7 +2826,6 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Powtórzenie</note>
       <tuv lang="EN">
         <seg>Characters (w/ spaces)</seg>
       </tuv>
@@ -2838,7 +2834,6 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Powtórzenie</note>
       <tuv lang="EN">
         <seg>Characters (w/o spaces)</seg>
       </tuv>
@@ -3385,7 +3380,6 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Ekwiwalencja, terminologia</note>
       <tuv lang="EN">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
@@ -4668,7 +4662,6 @@ MRK: Należy zachować spójność terminologiczną. Ekwiwalencja, styl, pisowni
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Interpunkcja, leksyka</note>
       <tuv lang="EN">
         <seg>Error monitoring post-processing commands!</seg>
       </tuv>
@@ -4729,7 +4722,6 @@ ew. "wyszukiwania" (zamiast "przeszukiwania")</note>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Error starting post-processing commands: {0}</seg>
       </tuv>
@@ -4966,7 +4958,6 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Executing post-processing commands...</seg>
       </tuv>
@@ -5127,7 +5118,6 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Interpunkcja</note>
       <tuv lang="EN">
         <seg>Failed to create project!</seg>
       </tuv>
@@ -8965,7 +8955,6 @@ everything.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Post-processing command failed.</seg>
       </tuv>
@@ -8974,7 +8963,6 @@ everything.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Post-processing commands completed.</seg>
       </tuv>
@@ -8983,7 +8971,6 @@ everything.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Post-processing commands failed.</seg>
       </tuv>
@@ -8992,7 +8979,6 @@ everything.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Post-processing commands were interrupted.</seg>
       </tuv>
@@ -9496,12 +9482,11 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Remaining Words</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T070233Z">
-        <seg>Liczba pozostałych słów</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T161509Z">
+        <seg>Pozostałe wyrazy</seg>
       </tuv>
     </tu>
     <tu>
@@ -12057,12 +12042,11 @@ settings to their defaults.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Total Words</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T070222Z">
-        <seg>Całkowita liczba wyrazów</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T161439Z">
+        <seg>Suma wyrazów</seg>
       </tuv>
     </tu>
     <tu>
@@ -12122,7 +12106,6 @@ settings to their defaults.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Translated file created</seg>
       </tuv>
@@ -12165,7 +12148,6 @@ settings to their defaults.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Translated files created</seg>
       </tuv>
@@ -12445,7 +12427,6 @@ Exact searches match the whole search string.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Interpunkcja</note>
       <tuv lang="EN">
         <seg>Unable to build new TMX file!</seg>
       </tuv>
@@ -12624,12 +12605,11 @@ Exact searches match the whole search string.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Unique Remaining Words</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T070314Z">
-        <seg>Liczba słów w pozostałych niepowtarzających się segmentach</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T161540Z">
+        <seg>Wyrazy w pozostałych niepowtarzających się segmentach</seg>
       </tuv>
     </tu>
     <tu>
@@ -12649,12 +12629,11 @@ Exact searches match the whole search string.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Terminologia</note>
       <tuv lang="EN">
         <seg>Unique Words</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230328T070302Z">
-        <seg>Liczba słów w niepowtarzających się segmentach</seg>
+      <tuv lang="PL" changeid="tobkub" changedate="20230520T161537Z">
+        <seg>Wyrazy w niepowtarzających się segmentach</seg>
       </tuv>
     </tu>
     <tu>
