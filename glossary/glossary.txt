@@ -189,3 +189,4 @@ Plugin Installer	Instalator wtyczek	ES: instalador de complementos
 translated file	przetłumaczony plik	<FR>fichier traduit; ~tobkub
 command	polecenie	<FR> commande
 word	wyraz	<FR> mot
+backup file	kopia zapasowa	<FR> fichier de sauvegarde
