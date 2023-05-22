@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Keyword search</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T223226Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T223226Z">
+        <seg>Wyszukiwanie słów &amp;kluczowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Last Changes...</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T175426Z" creationid="klaudiakempa" creationdate="20230331T175426Z">
@@ -9872,6 +9880,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T223215Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T223215Z">
+        <seg>Zastąp:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace...</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230331T160047Z" creationid="sandraczapska" creationdate="20230328T090639Z">
@@ -10337,6 +10353,14 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search for:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T223206Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T223206Z">
+        <seg>Wyszukaj:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search found mark</seg>
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230509T145732Z" creationid="MS" creationdate="20230509T145732Z">
@@ -10630,8 +10654,8 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       <tuv lang="EN">
         <seg>Select a different folder.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T223106Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T223106Z">
-        <seg>[fuzzy]Wybierz inny folder.</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T223139Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T223106Z">
+        <seg>Wybierz inny folder.</seg>
       </tuv>
     </tu>
     <tu>
