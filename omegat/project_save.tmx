@@ -5440,6 +5440,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Folder exists and is not empty.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T223100Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T223100Z">
+        <seg>Folder istnieje i nie jest pusty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Folder {0} was automatically created for team mode project</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T170516Z" creationid="luizakolosa" creationdate="20230331T170516Z">
@@ -8504,6 +8512,14 @@ MRK: Tutaj "błędów".</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT does not have read and write permissions for this folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T223124Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T223124Z">
+        <seg>OmegaT nie ma uprawnień do odczytu i zapisu w tym folderze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T210853Z" creationid="littlewhitedirect" creationdate="20230328T065604Z">
@@ -10608,6 +10624,14 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T190723Z" creationid="Maja" creationdate="20230330T190723Z">
         <seg>Wybierz plik skryptu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a different folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T223106Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T223106Z">
+        <seg>[fuzzy]Wybierz inny folder.</seg>
       </tuv>
     </tu>
     <tu>
