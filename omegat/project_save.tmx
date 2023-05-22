@@ -4963,6 +4963,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclude pattern</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T221611Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T221611Z">
+        <seg>Wzorzec wykluczeń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exclusion Patterns</seg>
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230401T171213Z" creationid="MS" creationdate="20230401T171213Z">
@@ -6311,6 +6319,14 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Include pattern</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T221622Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T221622Z">
+        <seg>Wzorzec włączeń</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>MRK: Tutaj bez kropki</note>
       <tuv lang="EN">
         <seg>Incorrect password.</seg>
@@ -7172,6 +7188,14 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local file/folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T221531Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T221531Z">
+        <seg>Plik/folder lokalny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Local installation path:</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230417T080227Z" creationid="leoi23" creationdate="20230417T080227Z">
@@ -7283,6 +7307,14 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230522T132621Z" creationid="leoi23" creationdate="20230417T075824Z">
         <seg>Ręcznie zdefiniowane ustawienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mapping of local folders to remote folders in repositories</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T221505Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T221420Z">
+        <seg>Mapowanie folderów lokalnych do folderów zdalnych w repozytoriach</seg>
       </tuv>
     </tu>
     <tu>
@@ -9554,6 +9586,15 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Pisownia</note>
+      <tuv lang="EN">
+        <seg>Remote file/folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T221556Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T221556Z">
+        <seg>Pli/folder zdalny</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Remote repositories</seg>
       </tuv>
@@ -9753,6 +9794,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230331T160047Z" creationid="sandraczapska" creationdate="20230328T090639Z">
         <seg>Zastąp...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T221525Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T221438Z">
+        <seg>Repozytorium</seg>
       </tuv>
     </tu>
     <tu>
