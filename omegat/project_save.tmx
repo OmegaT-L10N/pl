@@ -9120,8 +9120,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Proceed?</seg>
       </tuv>
-      <tuv lang="PL" changeid="leoi23" changedate="20230331T140244Z" creationid="leoi23" creationdate="20230331T140244Z">
-        <seg>Kontynuować?</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230522T131230Z" creationid="leoi23" creationdate="20230331T140244Z">
+        <seg>Czy kontynuować?</seg>
       </tuv>
     </tu>
     <tu>
@@ -12459,8 +12459,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>URL of downloadable spellchecking dictionaries:</seg>
       </tuv>
-      <tuv lang="PL" changeid="leoi23" changedate="20230522T131038Z" creationid="leoi23" creationdate="20230331T140145Z">
-        <seg>adres URL słowników sprawdzania pisowni do pobrania:</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230522T131053Z" creationid="leoi23" creationdate="20230331T140145Z">
+        <seg>Adres URL słowników sprawdzania pisowni do pobrania:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12468,8 +12468,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>URL:</seg>
       </tuv>
-      <tuv lang="PL" changeid="leoi23" changedate="20230417T080306Z" creationid="Maja" creationdate="20230330T183750Z">
-        <seg>URL:</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230522T131359Z" creationid="Maja" creationdate="20230330T183750Z">
+        <seg>Adres URL:</seg>
       </tuv>
     </tu>
     <tu>
