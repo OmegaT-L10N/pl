@@ -11054,6 +11054,7 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja</note>
       <tuv lang="EN">
         <seg>Sort fuzzy matches by:</seg>
       </tuv>
@@ -11740,6 +11741,7 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Pisownia</note>
       <tuv lang="EN">
         <seg>Template variables:</seg>
       </tuv>
