@@ -1746,8 +1746,8 @@ MRK: Tutaj lepiej brzmi "sprawdzanie". Lepiej też użyć rzeczownika "Ładowani
       <tuv lang="EN">
         <seg>A rule ID can only contain Latin letters, underscores, and periods.</seg>
       </tuv>
-      <tuv lang="PL" changeid="leoi23" changedate="20230417T080358Z" creationid="leoi23" creationdate="20230417T080358Z">
-        <seg>ID zasady może zawierać tylko litery łacińskie, podkreślenia i kropki.</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230522T132726Z" creationid="leoi23" creationdate="20230417T080358Z">
+        <seg>ID ustawienia może zawierać tylko litery łacińskie, podkreślenia i kropki</seg>
       </tuv>
     </tu>
     <tu>
@@ -6899,8 +6899,8 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       <tuv lang="EN">
         <seg>LanguageTool is not available for your target language.</seg>
       </tuv>
-      <tuv lang="PL" changeid="leoi23" changedate="20230417T080450Z" creationid="leoi23" creationdate="20230417T080450Z">
-        <seg>LanguageTool nie jest dostępny w Twoim języku docelowym.</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230522T132735Z" creationid="leoi23" creationdate="20230417T080450Z">
+        <seg>LanguageTool nie jest dostępny w Twoim języku docelowym</seg>
       </tuv>
     </tu>
     <tu>
@@ -6931,16 +6931,16 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       <tuv lang="EN">
         <seg>LanguageTool will be disabled until the project is closed.</seg>
       </tuv>
-      <tuv lang="PL" changeid="leoi23" changedate="20230417T075404Z" creationid="leoi23" creationdate="20230417T075404Z">
-        <seg>LanguageTool będzie wyłączony do czasu zamknięcia projektu.</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230522T132601Z" creationid="leoi23" creationdate="20230417T075404Z">
+        <seg>LanguageTool będzie wyłączony do czasu zamknięcia projektu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool: An error occurred during check.</seg>
       </tuv>
-      <tuv lang="PL" changeid="leoi23" changedate="20230417T075337Z" creationid="janmars" creationdate="20230321T161323Z">
-        <seg>LanguageTool: Wystąpił błąd podczas weryfikacji.</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230522T132556Z" creationid="janmars" creationdate="20230321T161323Z">
+        <seg>LanguageTool: wystąpił błąd podczas weryfikacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -7072,8 +7072,8 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       <tuv lang="EN">
         <seg>Load a project to configure rules for that project's languages.</seg>
       </tuv>
-      <tuv lang="PL" changeid="leoi23" changedate="20230522T131521Z" creationid="leoi23" creationdate="20230417T080611Z">
-        <seg>Załaduj projekt, aby skonfigurować ustawienia dla języków w tym projekcie.</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230522T132746Z" creationid="leoi23" creationdate="20230417T080611Z">
+        <seg>Załaduj projekt, aby skonfigurować ustawienia dla języków w tym projekcie</seg>
       </tuv>
     </tu>
     <tu>
@@ -7275,8 +7275,8 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       <tuv lang="EN">
         <seg>Manually defined rules</seg>
       </tuv>
-      <tuv lang="PL" changeid="leoi23" changedate="20230417T075824Z" creationid="leoi23" creationdate="20230417T075824Z">
-        <seg>Ręcznie zdefiniowane zasady</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230522T132621Z" creationid="leoi23" creationdate="20230417T075824Z">
+        <seg>Ręcznie zdefiniowane ustawienia</seg>
       </tuv>
     </tu>
     <tu>
@@ -7840,8 +7840,8 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>New LanguageTool rule</seg>
       </tuv>
-      <tuv lang="PL" changeid="leoi23" changedate="20230417T075924Z" creationid="leoi23" creationdate="20230417T075924Z">
-        <seg>Nowa zasada LanguageTool</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230522T132643Z" creationid="leoi23" creationdate="20230417T075924Z">
+        <seg>Nowe ustawienie LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -8024,8 +8024,8 @@ MRK: Tutaj "błędów".</note>
       <tuv lang="EN">
         <seg>No new languages available at the remote server.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maja" changedate="20230328T070146Z">
-        <seg>Brak dostępnych nowych słowników na serwerze zdalnym.</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230522T132806Z">
+        <seg>Brak dostępnych nowych słowników na serwerze zdalnym</seg>
       </tuv>
     </tu>
     <tu>
@@ -9859,8 +9859,8 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       <tuv lang="EN">
         <seg>Rules</seg>
       </tuv>
-      <tuv lang="PL" changeid="leoi23" changedate="20230417T080313Z" creationid="leoi23" creationdate="20230417T080313Z">
-        <seg>Zasady</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230522T132714Z" creationid="leoi23" creationdate="20230417T080313Z">
+        <seg>Ustawienia</seg>
       </tuv>
     </tu>
     <tu>
@@ -11904,8 +11904,8 @@ But others await</seg>
       <tuv lang="EN">
         <seg>There was an error initializing LanguageTool.</seg>
       </tuv>
-      <tuv lang="PL" changeid="leoi23" changedate="20230522T131431Z" creationid="leoi23" creationdate="20230417T080538Z">
-        <seg>Wystąpił błąd podczas inicjalizacji LanguageTool.</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230522T132740Z" creationid="leoi23" creationdate="20230417T080538Z">
+        <seg>Wystąpił błąd podczas inicjalizacji LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -11933,8 +11933,8 @@ You, victim of one</seg>
       <tuv lang="EN">
         <seg>This ID is already being used.</seg>
       </tuv>
-      <tuv lang="PL" changeid="leoi23" changedate="20230417T080425Z" creationid="leoi23" creationdate="20230417T080425Z">
-        <seg>To ID jest już w użyciu.</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230522T132731Z" creationid="leoi23" creationdate="20230417T080425Z">
+        <seg>To ID jest już w użyciu</seg>
       </tuv>
     </tu>
     <tu>
@@ -12374,8 +12374,8 @@ settings to their defaults.</seg>
       <tuv lang="EN">
         <seg>Type in new rule ID</seg>
       </tuv>
-      <tuv lang="PL" changeid="leoi23" changedate="20230417T075903Z" creationid="leoi23" creationdate="20230417T075903Z">
-        <seg>Wpisz ID nowej zasady</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230522T132634Z" creationid="leoi23" creationdate="20230417T075903Z">
+        <seg>Wpisz ID nowego ustawienia</seg>
       </tuv>
     </tu>
     <tu>
