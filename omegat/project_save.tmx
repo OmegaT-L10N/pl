@@ -13454,6 +13454,7 @@ Bieżące ustawienie to {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
