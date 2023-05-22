@@ -2292,6 +2292,7 @@ MRK: Tutaj lepiej brzmi "sprawdzanie". Lepiej też użyć rzeczownika "Ładowani
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Szyk</note>
       <tuv lang="EN">
         <seg>Are you sure you want to remove the {0} segmentation rules set?</seg>
       </tuv>
