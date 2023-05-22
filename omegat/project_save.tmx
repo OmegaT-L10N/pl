@@ -4392,6 +4392,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Empty repository URL in the mapping</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T221900Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T221900Z">
+        <seg>Pusty adres URL repozytorium w mapowaniu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable history &amp;prediction</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T180957Z" creationid="klaudiakempa" creationdate="20230331T180957Z">
@@ -5600,6 +5608,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Git</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T221904Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T221904Z">
+        <seg>Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Git '{0}' did nothing because there were no changes</seg>
       </tuv>
       <tuv lang="PL" changeid="kapel" changedate="20230401T214518Z" creationid="kapel" creationdate="20230401T214418Z">
@@ -6528,6 +6544,14 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191307Z" creationid="ZOO" creationdate="20230324T191307Z">
         <seg>Nieprawidłowy format pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid repository type: {0}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T221631Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T221631Z">
+        <seg>Nieprawidłowy typ repozytorium:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9822,6 +9846,23 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repository {0} is already present</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T221804Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T221804Z">
+        <seg>Repositorium {0} już istnieje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>MRK: ?</note>
+      <tuv lang="EN">
+        <seg>Repository {0} unknown</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T221849Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T221849Z">
+        <seg>Repositorium {0} nieznane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ResX</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T154446Z" creationid="maciej-pqr" creationdate="20230331T154446Z">
@@ -11312,6 +11353,14 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155054Z" creationid="maciej-pqr" creationdate="20230331T155054Z">
         <seg>Pliki napisów SubRip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subversion</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T221948Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T221948Z">
+        <seg>[fuzzy]Wersja pochodna</seg>
       </tuv>
     </tu>
     <tu>
