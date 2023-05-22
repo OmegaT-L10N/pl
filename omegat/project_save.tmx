@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7975,8 +7975,8 @@ MRK: Tutaj "błędów".</note>
       <tuv lang="EN">
         <seg>No Suggestions</seg>
       </tuv>
-      <tuv lang="PL" changeid="leoi23" changedate="20230331T135516Z" creationid="leoi23" creationdate="20230331T135516Z">
-        <seg>Żadnych propozycji</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230522T130845Z" creationid="leoi23" creationdate="20230331T135516Z">
+        <seg>Brak sugestii</seg>
       </tuv>
     </tu>
     <tu>
@@ -12459,8 +12459,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>URL of downloadable spellchecking dictionaries:</seg>
       </tuv>
-      <tuv lang="PL" changeid="leoi23" changedate="20230331T140209Z" creationid="leoi23" creationdate="20230331T140145Z">
-        <seg>URL słowników sprawdzania pisowni do pobrania:</seg>
+      <tuv lang="PL" changeid="leoi23" changedate="20230522T131038Z" creationid="leoi23" creationdate="20230331T140145Z">
+        <seg>adres URL słowników sprawdzania pisowni do pobrania:</seg>
       </tuv>
     </tu>
     <tu>
