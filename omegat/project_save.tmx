@@ -5102,6 +5102,7 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>External TMX Options</seg>
       </tuv>
@@ -8914,6 +8915,7 @@ Vanishing like mist</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Paragraph delimiter:</seg>
       </tuv>
