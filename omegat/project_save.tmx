@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6785,6 +6785,14 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyword searches match all space-separated keywords in any order.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T105752Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T105752Z">
+        <seg>[fuzzy]Wyszukiwanie słów kluczowych traktuje podany ciąg znaków jako zestaw słów kluczowych (oddzielonych spacjami), niezależnie od ich kolejności.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>L&amp;og...</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T175950Z" creationid="klaudiakempa" creationdate="20230331T175950Z">
@@ -9427,6 +9435,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T185838Z" creationid="Maja" creationdate="20230330T185838Z">
         <seg>Zarejestruj identyczne tłumaczenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T105800Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T105800Z">
+        <seg>[fuzzy]Wyszukiwanie za pomocą wyrażeń regularnych odpowiadają wyrażeniom regularnym w Javie, jak podano w podręczniku użytkownika.</seg>
       </tuv>
     </tu>
     <tu>
