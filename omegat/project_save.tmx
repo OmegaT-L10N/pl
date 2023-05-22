@@ -1446,6 +1446,7 @@ Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowi
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja</note>
       <tuv lang="EN">
         <seg>--output-file=[stats-output-file]
 	    Prints to the specified file, or to standard output
