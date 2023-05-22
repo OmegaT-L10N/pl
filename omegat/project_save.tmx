@@ -4509,6 +4509,16 @@ MRK: Kwestia uzgodnienia</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter a language code in xx-YY, xxx-YY, xx_YY or xxx_YY format, where xx or xxx 
+is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T222129Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T222129Z">
+        <seg>Wprowadź kod języka w formacie xx-YY, xxx-YY, xx_YY lub xxx_YY, gdzie xx lub xxx 
+to kod języka, a YY to kod regionu lub kraju (opcjonalnie).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
       <tuv lang="PL" changeid="Urszula" changedate="20230401T205959Z" creationid="Urszula" creationdate="20230401T205945Z">
@@ -5923,6 +5933,14 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>HTTP(S)</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T222056Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T222056Z">
+        <seg>HTTP(S)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>MRK: Leksyka, brak spójności (patrz wyżej)</note>
       <tuv lang="EN">
         <seg>Has Comment, see Comments Tab</seg>
@@ -6552,6 +6570,14 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
       </tuv>
       <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T221631Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T221631Z">
         <seg>Nieprawidłowy typ repozytorium:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid translated file language!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T222137Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T222137Z">
+        <seg>Nieprawidłowy język plików docelowych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9845,6 +9871,7 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: ?</note>
       <tuv lang="EN">
         <seg>Repository {0} is already present</seg>
       </tuv>
@@ -11356,11 +11383,12 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Subversion</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T221948Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T221948Z">
-        <seg>[fuzzy]Wersja pochodna</seg>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T222051Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T221948Z">
+        <seg>Wersja pochodna</seg>
       </tuv>
     </tu>
     <tu>
@@ -11840,12 +11868,29 @@ folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Sens</note>
+      <tuv lang="EN">
+        <seg>The export translation memory folder does not exist!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T222305Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T222305Z">
+        <seg>Wyeksportowany folder pamięci tłumaczeniowej nie istnieje!</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>The file "{0}" is not supported.</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T200931Z" creationid="JU" creationdate="20230330T200931Z">
         <seg>Plik "{0}" nie jest wspierany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The glossary files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T222157Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T222157Z">
+        <seg>Katalog glosariuszy nie istnieje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11941,6 +11986,22 @@ But others await</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>The source file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T222124Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T222124Z">
+        <seg>Podany język pliku źródłowego jest nieprawidłowy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The source files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T222144Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T222144Z">
+        <seg>Katalog plików źródłowych nie istnieje.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>The specified files are not supported.</seg>
@@ -11984,10 +12045,42 @@ But others await</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The translated files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T222150Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T222150Z">
+        <seg>Katalog plików docelowych nie istnieje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The translation has changed.</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T104153Z" creationid="janmars" creationdate="20230327T104153Z">
         <seg>Zmiana w tłumaczeniu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translation memory files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T222219Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T222219Z">
+        <seg>Katalog plików pamięci tłumaczeniowej nie istnieje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The writable glossary file folder does not exist!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T222204Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T222204Z">
+        <seg>Katalog edytowalnych glosariuszy nie istnieje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The writable glossary file must be inside the glossary folder</seg>
+      </tuv>
+      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T222214Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T222214Z">
+        <seg>Plik z edytowalnym glosariuszem musi znajdować się w katalogu glosariuszy.</seg>
       </tuv>
     </tu>
     <tu>
