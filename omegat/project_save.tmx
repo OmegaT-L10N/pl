@@ -1056,6 +1056,7 @@ MRK: Może "Szukaj zaznaczenia"?</note>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja, pisownia</note>
       <tuv lang="EN">
         <seg>&amp;Stop at segments that are untranslated or have alternative translations</seg>
       </tuv>
