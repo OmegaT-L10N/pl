@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1178,9 +1178,9 @@ MRK: Trzeba użyć polskiego słowa.</note>
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', 'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230401T110210Z" creationid="Hania M" creationdate="20230401T110210Z">
-        <seg>Znakowi "*" odpowiada zero lub więcej znaków (na przykład, szukany tekst "run*" będzie odpowiadał "run", "runs" i "running").
-Znakowi "?" odpowiada dokładnie jeden znak (na przykład, "run?" będzie odpowiadać "runs" i "rung", ale nie "run" czy "running").</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230522T235426Z" creationid="Hania M" creationdate="20230401T110210Z">
+        <seg>Znakowi „*" odpowiada zero lub więcej znaków (na przykład, szukany tekst „tak*" będzie odpowiadał „tak", „taki" i „także").
+Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie odpowiadać „taki" i „taka", ale nie „tak" czy „także").</seg>
       </tuv>
     </tu>
     <tu>
