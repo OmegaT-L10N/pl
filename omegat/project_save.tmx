@@ -3952,8 +3952,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Display &amp;Modification Info</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T172728Z" creationid="klaudiakempa" creationdate="20230331T172728Z">
-        <seg>Informacje o &amp;modyfikacji</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T124523Z" creationid="klaudiakempa" creationdate="20230331T172728Z">
+        <seg>Pokaż nformacje o &amp;modyfikacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -7450,8 +7450,8 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Language Checker Issues</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T171939Z" creationid="klaudiakempa" creationdate="20230331T171939Z">
-        <seg>Zaznacz &amp;problemy funkcji sprawdzania</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T124436Z" creationid="klaudiakempa" creationdate="20230331T171939Z">
+        <seg>Zaznacz &amp;problemy funkcji sprawdzania pisowni</seg>
       </tuv>
     </tu>
     <tu>
