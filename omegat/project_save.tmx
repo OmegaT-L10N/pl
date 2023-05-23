@@ -10426,8 +10426,8 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       <tuv lang="EN">
         <seg>Search thread died unexpectedly!</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230401T164929Z">
-        <seg>Zadanie wyszukiwania niespodziewanie się zakończyło!</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230523T113806Z">
+        <seg>Wyszukiwanie zostało niespodziewanie przerwane.</seg>
       </tuv>
     </tu>
     <tu>
