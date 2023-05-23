@@ -171,8 +171,8 @@
       <tuv lang="EN">
         <seg>&amp;Back in History</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T161558Z" creationid="klaudiakempa" creationdate="20230331T161558Z">
-        <seg>&amp;poprzedni segment w historii</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T122537Z" creationid="klaudiakempa" creationdate="20230331T161558Z">
+        <seg>poprzedni segment w historii</seg>
       </tuv>
     </tu>
     <tu>
@@ -674,8 +674,8 @@
       <tuv lang="EN">
         <seg>&amp;Next Segment from tm/auto/</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T163353Z" creationid="klaudiakempa" creationdate="20230331T163353Z">
-        <seg>&amp;Następny segment z </seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T122636Z" creationid="klaudiakempa" creationdate="20230331T163353Z">
+        <seg>&amp;Następny segment z tm/auto/ </seg>
       </tuv>
     </tu>
     <tu>
@@ -763,8 +763,8 @@
       <tuv lang="EN">
         <seg>&amp;Previous Segment from tm/auto/</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T163418Z" creationid="klaudiakempa" creationdate="20230331T163418Z">
-        <seg>&amp;Następny segment z </seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T122656Z" creationid="klaudiakempa" creationdate="20230331T163418Z">
+        <seg>&amp;Następny segment z tm/auto/ </seg>
       </tuv>
     </tu>
     <tu>
@@ -8055,8 +8055,8 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>Next N&amp;ote</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T121018Z" creationid="klaudiakempa" creationdate="20230331T160933Z">
-        <seg>Następna Notatka</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T122430Z" creationid="klaudiakempa" creationdate="20230331T160933Z">
+        <seg>Następna notatka</seg>
       </tuv>
     </tu>
     <tu>
