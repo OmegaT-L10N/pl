@@ -190,3 +190,4 @@ translated file	przetłumaczony plik	<FR>fichier traduit; ~tobkub
 command	polecenie	<FR> commande
 word	wyraz	<FR> mot
 backup file	kopia zapasowa	<FR> fichier de sauvegarde
+user manual	podręcznik użytkownika	fr. manuel d'utilisation
