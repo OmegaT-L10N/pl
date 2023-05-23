@@ -11596,8 +11596,8 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       <tuv lang="EN">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230401T220719Z" creationid="Hania M" creationdate="20230401T220719Z">
-        <seg>Plik TMX został utworzony przez OmegaT w wersji 1.4.x lub wcześniejszej.</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230523T114944Z" creationid="Hania M" creationdate="20230401T220719Z">
+        <seg>Plik TMX został utworzony przez program OmegaT w wersji 1.4.x lub wcześniejszej.</seg>
       </tuv>
     </tu>
     <tu>
