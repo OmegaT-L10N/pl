@@ -4965,8 +4965,8 @@ MRK: Muszę to sprawdzić. Gdyby mi umknęło, to proszę o przypomnienie.</note
       <tuv lang="EN">
         <seg>Event: project change - "{0}"</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T191601Z" creationid="AgnieszkaS" creationdate="20230418T191532Z">
-        <seg>Wydarzenie: zmiana projektu - "{0}"</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230523T125017Z" creationid="AgnieszkaS" creationdate="20230418T191532Z">
+        <seg>Wydarzenie: modyfikacja projektu - "{0}"</seg>
       </tuv>
     </tu>
     <tu>
