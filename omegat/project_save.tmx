@@ -3037,8 +3037,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T191438Z" creationid="AgnieszkaS" creationdate="20230418T191438Z">
-        <seg>Kliknij na "{0}" menu item</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230523T124907Z" creationid="AgnieszkaS" creationdate="20230418T191438Z">
+        <seg>Kliknij na "{0}" pozycji menu </seg>
       </tuv>
     </tu>
     <tu>
@@ -8447,8 +8447,8 @@ MRK: Tutaj "błędów".</note>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Notes</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190238Z" creationid="AgnieszkaS" creationdate="20230418T170302Z">
-        <seg>Powiadom, jeśli segment zawiera notatki</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230523T124529Z" creationid="AgnieszkaS" creationdate="20230418T170302Z">
+        <seg>Powiadom mnie, czy segment zawiera notatki</seg>
       </tuv>
     </tu>
     <tu>
