@@ -1165,8 +1165,8 @@ MRK: Może "Szukaj zaznaczenia"?</note>
       <tuv lang="EN">
         <seg>&amp;View</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T163858Z" creationid="klaudiakempa" creationdate="20230331T163858Z">
-        <seg>&amp;Podgląd</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T122836Z" creationid="klaudiakempa" creationdate="20230331T163858Z">
+        <seg>&amp;Widok</seg>
       </tuv>
     </tu>
     <tu>
@@ -3970,8 +3970,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Display &amp;Paragraph Delimitations</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T164933Z" creationid="klaudiakempa" creationdate="20230331T164933Z">
-        <seg>Wyświetl &amp;wyznaczenie obszarów</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T123251Z" creationid="klaudiakempa" creationdate="20230331T164933Z">
+        <seg>Pokaż granice akapitów</seg>
       </tuv>
     </tu>
     <tu>
@@ -3979,8 +3979,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T164957Z" creationid="klaudiakempa" creationdate="20230331T164957Z">
-        <seg>Wyświetl &amp;segmenty źródłowe</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T123324Z" creationid="klaudiakempa" creationdate="20230331T164957Z">
+        <seg>Pokaż &amp;segmenty źródłowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -6108,8 +6108,8 @@ Its winter has come</seg>
       <tuv lang="EN">
         <seg>Highlight &amp;Translated Segments</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T164028Z" creationid="klaudiakempa" creationdate="20230331T164028Z">
-        <seg>Zaznacz &amp;przetłumaczone segmenty</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T123209Z" creationid="klaudiakempa" creationdate="20230331T164028Z">
+        <seg>Podświetl &amp;przetłumaczone segmenty</seg>
       </tuv>
     </tu>
     <tu>
@@ -6117,8 +6117,8 @@ Its winter has come</seg>
       <tuv lang="EN">
         <seg>Highlight &amp;Untranslated Segments</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T164112Z" creationid="klaudiakempa" creationdate="20230331T164112Z">
-        <seg>Zaznacz &amp;nieprzetłumaczone segmenty</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T123217Z" creationid="klaudiakempa" creationdate="20230331T164112Z">
+        <seg>Podświetl &amp;nieprzetłumaczone segmenty</seg>
       </tuv>
     </tu>
     <tu>
@@ -7973,8 +7973,8 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>N&amp;ext Segment from tm/enforce/</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T163618Z" creationid="klaudiakempa" creationdate="20230331T163618Z">
-        <seg>N&amp;ext Segment from tm/enforce/</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T122745Z" creationid="klaudiakempa" creationdate="20230331T163618Z">
+        <seg>&amp;Następny segment z tm/enforce/</seg>
       </tuv>
     </tu>
     <tu>
@@ -8907,8 +8907,8 @@ zawierającej nazwę systemu operacyjnego lub zawierającej folder podstawowy</s
       <tuv lang="EN">
         <seg>P&amp;revious Segment from tm/enforce/</seg>
       </tuv>
-      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T171421Z" creationid="luizakolosa" creationdate="20230331T171421Z">
-        <seg>P&amp;revious Segment from tm/enforce/</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T122817Z" creationid="luizakolosa" creationdate="20230331T171421Z">
+        <seg>&amp;Poprzedni segment z tm/enforce/</seg>
       </tuv>
     </tu>
     <tu>
