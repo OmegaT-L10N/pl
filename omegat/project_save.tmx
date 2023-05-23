@@ -9530,8 +9530,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Project autosaved at {0}</seg>
       </tuv>
-      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230401T145550Z" creationid="ghuzytkownik" creationdate="20230401T145550Z">
-        <seg>Projekt zapisano automatycznie w</seg>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230523T155920Z" creationid="ghuzytkownik" creationdate="20230401T145550Z">
+        <seg>Projekt automatycznie zapisano w</seg>
       </tuv>
     </tu>
     <tu>
