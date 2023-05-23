@@ -175,13 +175,7 @@ appearance	wygląd	<ES> apariencia
 URL	adres URL	<ES> URL
 command	polecenie	<ES> comando
 delimiter	separator	<ES> delimitador
-slot	gniazdo	ES: ranura
-script engines	silniki skryptowe	ES: motores de scripts
 default	domyślny	predeterminado
-ID	identyfikator	ES: ID
-adres URL	the URL	ES: la URL
-serwer	server	ES: el servidor
-custom	niestandardowy	ES: personalizado
 menu Opcji	Options menu	<ES> menú Opciones
 Preferences	Preferencje	<ES> Preferencias
 launch	uruchomić	<ES> iniciar
@@ -191,3 +185,9 @@ command	polecenie	<FR> commande
 word	wyraz	<FR> mot
 backup file	kopia zapasowa	<FR> fichier de sauvegarde
 user manual	podręcznik użytkownika	fr. manuel d'utilisation
+slot	gniazdo	<ES> ranura
+script engines	silniki skryptowe	<ES> motores de scripts
+ID	identyfikator	<ES> ID
+adres URL	the URL	<ES> la URL
+serwer	server	<ES> el servidor
+custom	niestandardowy	<ES> personalizado
