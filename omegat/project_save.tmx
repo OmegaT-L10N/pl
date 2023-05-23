@@ -2236,8 +2236,8 @@ MRK: Tutaj lepiej brzmi "sprawdzanie". Lepiej też użyć rzeczownika "Ładowani
         <seg>An error occurred while processing a project change event:
 {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T191556Z" creationid="AgnieszkaS" creationdate="20230418T191556Z">
-        <seg>Błąd podczas zmiany czcionki</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230523T125113Z" creationid="AgnieszkaS" creationdate="20230418T191556Z">
+        <seg>Błąd podczas modyfikacji projektu wystąpił błąd:</seg>
       </tuv>
     </tu>
     <tu>
