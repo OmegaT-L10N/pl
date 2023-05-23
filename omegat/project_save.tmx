@@ -3943,8 +3943,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Display &amp;Bidi Control Characters</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T170018Z" creationid="klaudiakempa" creationdate="20230331T165737Z">
-        <seg>Wyświetl &amp;dwukierunkowe znaki sterujące</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T123953Z" creationid="klaudiakempa" creationdate="20230331T165737Z">
+        <seg>Pokaż &amp;dwukierunkowe znaki kontrolne</seg>
       </tuv>
     </tu>
     <tu>
@@ -3961,8 +3961,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Display &amp;Non-Breakable Spaces</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T123840Z" creationid="klaudiakempa" creationdate="20230331T165514Z">
-        <seg>Zaznacz &amp;spacje nierozdzielające</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T123920Z" creationid="klaudiakempa" creationdate="20230331T165514Z">
+        <seg>Pokaż &amp;spacje nierozdzielające</seg>
       </tuv>
     </tu>
     <tu>
@@ -6099,8 +6099,8 @@ Its winter has come</seg>
       <tuv lang="EN">
         <seg>Highlight &amp;Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T170458Z" creationid="klaudiakempa" creationdate="20230331T170458Z">
-        <seg>Highlight &amp;Auto-Populated Segments</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T124116Z" creationid="klaudiakempa" creationdate="20230331T170458Z">
+        <seg>Podświetl automatycznie uzupełnione segmenty</seg>
       </tuv>
     </tu>
     <tu>
