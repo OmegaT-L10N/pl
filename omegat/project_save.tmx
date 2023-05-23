@@ -9644,8 +9644,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Reload the project now?</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T181307Z" creationid="klaudiakempa" creationdate="20230331T181307Z">
-        <seg>Czy chcesz teraz wczytać ponownie projekt?</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T121714Z" creationid="klaudiakempa" creationdate="20230331T181307Z">
+        <seg>Załadować projekt ponownie?</seg>
       </tuv>
     </tu>
     <tu>
