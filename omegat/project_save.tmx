@@ -793,6 +793,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Redo</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230523T081755Z" creationid="sandraczapska" creationdate="20230523T081755Z">
+        <seg>&amp;Ponów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Redo Last Action</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230331T154207Z" creationid="sandraczapska" creationdate="20230328T090619Z">
@@ -1102,6 +1110,14 @@ MRK: Może "Szukaj zaznaczenia"?</note>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230331T160302Z" creationid="sandraczapska" creationdate="20230331T160302Z">
         <seg>&amp;WIELKIE LITERY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Undo</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230523T081747Z" creationid="sandraczapska" creationdate="20230523T081747Z">
+        <seg>&amp;Cofnij</seg>
       </tuv>
     </tu>
     <tu>
@@ -3054,8 +3070,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Co&amp;mmit Source Files</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153211Z" creationid="sandraczapska" creationdate="20230330T203306Z">
-        <seg>Prześlij pliki źródłowe</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230523T081706Z" creationid="sandraczapska" creationdate="20230330T203306Z">
+        <seg>Wyślij pliki źródłowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -3089,8 +3105,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Comm&amp;it Target Files</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153221Z" creationid="sandraczapska" creationdate="20230331T144300Z">
-        <seg>Prześlij pliki docelowe</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230523T081724Z" creationid="sandraczapska" creationdate="20230331T144300Z">
+        <seg>Wyślij pliki docelowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -6490,6 +6506,14 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Missing &amp;Tags</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230523T081903Z" creationid="sandraczapska" creationdate="20230523T081903Z">
+        <seg>Wprowadź brakujący znacznik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230331T155518Z" creationid="sandraczapska" creationdate="20230331T155518Z">
@@ -9505,8 +9529,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Re&amp;load</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T203217Z" creationid="sandraczapska" creationdate="20230330T203217Z">
-        <seg>&amp;Wczytaj ponownie</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230523T081648Z" creationid="sandraczapska" creationdate="20230330T203217Z">
+        <seg>&amp;Załaduj ponownie</seg>
       </tuv>
     </tu>
     <tu>
