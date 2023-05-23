@@ -4596,8 +4596,8 @@ to kod języka, a YY to kod regionu lub kraju (opcjonalnie).</seg>
       <tuv lang="EN">
         <seg>Enter the segment number:</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T121351Z" creationid="klaudiakempa" creationdate="20230331T182934Z">
-        <seg>Wprowadź numer segmentu:</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T124606Z" creationid="klaudiakempa" creationdate="20230331T182934Z">
+        <seg>Podaj numer segmentu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6500,8 +6500,8 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
       <tuv lang="EN">
         <seg>Insert Bidi Control C&amp;haracter</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T153350Z" creationid="klaudiakempa" creationdate="20230321T142047Z">
-        <seg>Wstaw dwukierunkowe z&amp;naki sterujące</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T132009Z" creationid="klaudiakempa" creationdate="20230321T142047Z">
+        <seg>Wstaw dwukierunkowe z&amp;naki kontrolne</seg>
       </tuv>
     </tu>
     <tu>
