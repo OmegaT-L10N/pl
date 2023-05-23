@@ -909,6 +909,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Restore OmegaT Window</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T121838Z" creationid="klaudiakempa" creationdate="20230523T121838Z">
+        <seg>&amp;Przywróc okno OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Run</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T190048Z" creationid="Maja" creationdate="20230330T190048Z">
