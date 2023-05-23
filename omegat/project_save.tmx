@@ -10071,8 +10071,8 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       <tuv lang="EN">
         <seg>Right-to-Left Embedding (RLE U+202&amp;B)</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T154554Z" creationid="klaudiakempa" creationdate="20230331T154554Z">
-        <seg>Wstawianie od prawej do lewej (RLE U+202&amp;B)</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T140000Z" creationid="klaudiakempa" creationdate="20230331T154554Z">
+        <seg>Osadzanie od prawej do lewej (RLE U+202&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
