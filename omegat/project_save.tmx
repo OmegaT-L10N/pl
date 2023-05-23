@@ -3917,8 +3917,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Displa&amp;y Whitespace</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T165732Z" creationid="klaudiakempa" creationdate="20230331T165732Z">
-        <seg>Zaznacz białe znaki</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T123913Z" creationid="klaudiakempa" creationdate="20230331T165732Z">
+        <seg>Pokaż twarde spacje</seg>
       </tuv>
     </tu>
     <tu>
@@ -3961,8 +3961,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Display &amp;Non-Breakable Spaces</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T165514Z" creationid="klaudiakempa" creationdate="20230331T165514Z">
-        <seg>Zaznacz &amp;twarde spacje</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T123840Z" creationid="klaudiakempa" creationdate="20230331T165514Z">
+        <seg>Zaznacz &amp;spacje nierozdzielające</seg>
       </tuv>
     </tu>
     <tu>
