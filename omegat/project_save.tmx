@@ -1307,12 +1307,12 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230523T081339Z" creationid="sandraczapska" creationdate="20230523T081339Z">
-        <seg>- verify that their format is supported by OmegaT:
-	  if local filter settings are enabled
-	  use Project &gt; Properties... &gt; Local File Filters...,
-	  otherwise use Options &gt; Global File Filters...;
-	- open them in their original application and verify that they are not empty.</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230523T133005Z" creationid="sandraczapska" creationdate="20230523T081339Z">
+        <seg>- sprawdź, czy format plików jest obsługiwany przez program OmegaT:
+	  jeśli włączone są ustawienia filtrów dla projektu
+	  wybierz Projekt &gt; Właściwości &gt; Filtry projektów...,
+	  jeśli nie, wybierz Opcje &gt; Filtry plików...;
+	- otwór je w ich początkowej aplikacji i sprawdź, czy nie są puste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3078,8 +3078,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Co&amp;mmit Source Files</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230523T081706Z" creationid="sandraczapska" creationdate="20230330T203306Z">
-        <seg>Wyślij pliki źródłowe</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230523T133309Z" creationid="sandraczapska" creationdate="20230330T203306Z">
+        <seg>Zatwierdź pliki źródłowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -3113,8 +3113,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Comm&amp;it Target Files</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230523T081724Z" creationid="sandraczapska" creationdate="20230331T144300Z">
-        <seg>Wyślij pliki docelowe</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230523T133314Z" creationid="sandraczapska" creationdate="20230331T144300Z">
+        <seg>Zatwierdź pliki docelowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -13212,8 +13212,8 @@ nowa wersja: {2}</seg>
 line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230330T173222Z" creationid="sandraczapska" creationdate="20230330T173222Z">
-        <seg>Użyj "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" z wiersza 
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230523T132440Z" creationid="sandraczapska" creationdate="20230330T173222Z">
+        <seg>Użyj "java -Xmx&lt;rozmiar-w-MB&gt;M -jar OmegaT.jar" z wiersza 
 poleceń lub w skrypcie startowym OmegaT;
 Bieżące ustawienie to {0}MB;</seg>
       </tuv>
