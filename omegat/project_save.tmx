@@ -5972,8 +5972,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Has Comment, see Comments Tab</seg>
       </tuv>
-      <tuv lang="PL" changeid="JU" changedate="20230330T200303Z" creationid="JU" creationdate="20230330T200303Z">
-        <seg>Zawiera komentarze, sprawdź kartę komentarzy</seg>
+      <tuv lang="PL" changeid="JU" changedate="20230523T080150Z" creationid="JU" creationdate="20230330T200303Z">
+        <seg>Zawiera komentarze, sprawdź kartę uwag </seg>
       </tuv>
     </tu>
     <tu>
@@ -8039,8 +8039,8 @@ Lost to paradise</seg>
       <tuv lang="EN">
         <seg>No Comment</seg>
       </tuv>
-      <tuv lang="PL" changeid="JU" changedate="20230330T200307Z" creationid="JU" creationdate="20230330T200307Z">
-        <seg>Brak komentarzy</seg>
+      <tuv lang="PL" changeid="JU" changedate="20230523T080213Z" creationid="JU" creationdate="20230330T200307Z">
+        <seg>Brak komentarza</seg>
       </tuv>
     </tu>
     <tu>
