@@ -13205,8 +13205,8 @@ Bieżące ustawienie to {0}MB;</seg>
       <tuv lang="EN">
         <seg>Use $n to refer to the nth group.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230401T120923Z" creationid="Hania M" creationdate="20230401T120532Z">
-        <seg>Użyj "$n", aby odwołać się do grupy numer n. </seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230523T105112Z" creationid="Hania M" creationdate="20230401T120532Z">
+        <seg>Użyj „$n" w celu odwołania się do grupy numer n. </seg>
       </tuv>
     </tu>
     <tu>
