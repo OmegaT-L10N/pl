@@ -4688,8 +4688,8 @@ MRK: Należy zachować spójność terminologiczną. Ekwiwalencja, styl, pisowni
       <tuv lang="EN">
         <seg>Error during regular expression replacement:</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230401T164637Z" creationid="Hania M" creationdate="20230401T122856Z">
-        <seg>Błąd poczas zamiany wyrażeń regularnych:</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230523T113314Z" creationid="Hania M" creationdate="20230401T122856Z">
+        <seg>Błąd przy zastępowaniu wyrażeń regularnych:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4793,7 +4793,8 @@ MRK: Należy zachować spójność terminologiczną. Ekwiwalencja, styl, pisowni
     </tu>
     <tu>
       <note>ew. "drzewa katalogów" lub samych "folderów/katalogów"
-ew. "wyszukiwania" (zamiast "przeszukiwania")</note>
+ew. "wyszukiwania" (zamiast "przeszukiwania")
+</note>
       <tuv lang="EN">
         <seg>Error searching folder tree!</seg>
       </tuv>
