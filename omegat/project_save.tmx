@@ -2020,8 +2020,8 @@ MRK: Tutaj lepiej brzmi "sprawdzanie". Lepiej też użyć rzeczownika "Ładowani
       <tuv lang="EN">
         <seg>Align Files</seg>
       </tuv>
-      <tuv lang="PL" changeid="JU" changedate="20230330T200624Z" creationid="JU" creationdate="20230330T200624Z">
-        <seg>Wyrównanie plików </seg>
+      <tuv lang="PL" changeid="JU" changedate="20230523T080521Z" creationid="JU" creationdate="20230330T200624Z">
+        <seg>Dopasowanie plików </seg>
       </tuv>
     </tu>
     <tu>
@@ -8035,7 +8035,6 @@ Lost to paradise</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: L. poj.</note>
       <tuv lang="EN">
         <seg>No Comment</seg>
       </tuv>
