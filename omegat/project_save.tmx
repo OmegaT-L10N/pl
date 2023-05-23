@@ -954,8 +954,8 @@ MRK: Może "Szukaj zaznaczenia"?</note>
       <tuv lang="EN">
         <seg>&amp;Search for Selection</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230401T210224Z" creationid="Hania M" creationdate="20230401T170256Z">
-        <seg>Szukaj zaznaczonego elementu</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230523T114147Z" creationid="Hania M" creationdate="20230401T170256Z">
+        <seg>Szukaj zaznaczenia</seg>
       </tuv>
     </tu>
     <tu>
@@ -8165,8 +8165,8 @@ MRK: Tutaj "błędów".</note>
       <tuv lang="EN">
         <seg>No matches returned by search.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230401T165136Z" creationid="Hania M" creationdate="20230401T165136Z">
-        <seg>Wyszukiwanie nie przyniosło żadnych wyników.</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230523T114111Z" creationid="Hania M" creationdate="20230401T165136Z">
+        <seg>Brak wyników wyszukiwania</seg>
       </tuv>
     </tu>
     <tu>
