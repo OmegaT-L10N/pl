@@ -5265,6 +5265,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to load translation memory {0} for the project.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230523T133610Z" creationid="ZOO" creationdate="20230523T133610Z">
+        <seg>Wczytanie pamięci tłumaczeniowej {0} do projektu nie powiodło się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to update project properties</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T182802Z" creationid="klaudiakempa" creationdate="20230331T182802Z">
