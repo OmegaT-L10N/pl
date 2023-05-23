@@ -4806,8 +4806,8 @@ ew. "wyszukiwania" (zamiast "przeszukiwania")</note>
       <tuv lang="EN">
         <seg>Error while loading the source files.</seg>
       </tuv>
-      <tuv lang="PL" changeid="JU" changedate="20230330T201338Z" creationid="biegajacy-zajac" creationdate="20230328T070246Z">
-        <seg>Błąd podczas ładowania pliku źródłowego</seg>
+      <tuv lang="PL" changeid="JU" changedate="20230523T080622Z" creationid="biegajacy-zajac" creationdate="20230328T070246Z">
+        <seg>Błąd podczas ładowania plików źródłowych</seg>
       </tuv>
     </tu>
     <tu>
@@ -5535,8 +5535,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Forward-Backward</seg>
       </tuv>
-      <tuv lang="PL" changeid="JU" changedate="20230330T203054Z" creationid="JU" creationdate="20230330T203054Z">
-        <seg>Przekaż dalej-Wstecz</seg>
+      <tuv lang="PL" changeid="JU" changedate="20230523T080730Z" creationid="JU" creationdate="20230330T203054Z">
+        <seg>Dalej-Wstecz</seg>
       </tuv>
     </tu>
     <tu>
@@ -6631,8 +6631,8 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
       <tuv lang="EN">
         <seg>Issues</seg>
       </tuv>
-      <tuv lang="PL" changeid="JU" changedate="20230330T203146Z" creationid="JU" creationdate="20230330T203146Z">
-        <seg>Problemy</seg>
+      <tuv lang="PL" changeid="JU" changedate="20230523T080805Z" creationid="JU" creationdate="20230330T203146Z">
+        <seg>Błędy</seg>
       </tuv>
     </tu>
     <tu>
@@ -11074,8 +11074,8 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       <tuv lang="EN">
         <seg>Source</seg>
       </tuv>
-      <tuv lang="PL" changeid="MS" changedate="20230516T134515Z" creationid="JU" creationdate="20230330T200629Z">
-        <seg>Oryginał</seg>
+      <tuv lang="PL" changeid="JU" changedate="20230523T080537Z" creationid="JU" creationdate="20230330T200629Z">
+        <seg>Tekst źródłowy </seg>
       </tuv>
     </tu>
     <tu>
@@ -11961,8 +11961,8 @@ folder.</seg>
       <tuv lang="EN">
         <seg>The file "{0}" is not supported.</seg>
       </tuv>
-      <tuv lang="PL" changeid="JU" changedate="20230330T200931Z" creationid="JU" creationdate="20230330T200931Z">
-        <seg>Plik "{0}" nie jest wspierany</seg>
+      <tuv lang="PL" changeid="JU" changedate="20230523T080547Z" creationid="JU" creationdate="20230330T200931Z">
+        <seg>Plik "{0}" nie jest obsługiwany</seg>
       </tuv>
     </tu>
     <tu>
@@ -12086,8 +12086,8 @@ But others await</seg>
       <tuv lang="EN">
         <seg>The specified files are not supported.</seg>
       </tuv>
-      <tuv lang="PL" changeid="JU" changedate="20230330T200939Z" creationid="JU" creationdate="20230330T200939Z">
-        <seg>Wybrane pliki nie są wspierane.</seg>
+      <tuv lang="PL" changeid="JU" changedate="20230523T080601Z" creationid="JU" creationdate="20230330T200939Z">
+        <seg>Wybrane pliki nie są obsługiwane.</seg>
       </tuv>
     </tu>
     <tu>
