@@ -3952,8 +3952,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Display &amp;Modification Info</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T124523Z" creationid="klaudiakempa" creationdate="20230331T172728Z">
-        <seg>Pokaż nformacje o &amp;modyfikacji</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T135048Z" creationid="klaudiakempa" creationdate="20230331T172728Z">
+        <seg>Pokaż informacje o &amp;modyfikacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -7178,8 +7178,8 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       <tuv lang="EN">
         <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T154538Z" creationid="klaudiakempa" creationdate="20230331T154538Z">
-        <seg>Wstawianie od lewej do prawej (LRE U+202&amp;A)</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T135953Z" creationid="klaudiakempa" creationdate="20230331T154538Z">
+        <seg>Osadzanie od lewej do prawej (LRE U+202&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7187,8 +7187,8 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       <tuv lang="EN">
         <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T153834Z" creationid="sandraczapska" creationdate="20230328T081421Z">
-        <seg>Oznaczenie od lewej do prawej (LRM U+200&amp;E)</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T135600Z" creationid="sandraczapska" creationdate="20230328T081421Z">
+        <seg>Znak od lewej do prawej (LRM U+200&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10080,8 +10080,8 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       <tuv lang="EN">
         <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T153946Z" creationid="sandraczapska" creationdate="20230328T090627Z">
-        <seg>Oznaczenie od prawej do lewej (RLM U+200&amp;F)</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T135610Z" creationid="sandraczapska" creationdate="20230328T090627Z">
+        <seg>Znak od prawej do lewej (RLM U+200&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
