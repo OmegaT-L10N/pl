@@ -11841,14 +11841,16 @@ MRK: Myślę, że jednak "Błędy terminologiczne".</note>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Styl</note>
+      <note>Albo: "Funkcji zastępowania tekstu można użyć tylko w segmentach docelowych fragmentu"?
+
+MRK: Styl</note>
       <tuv lang="EN">
         <seg>Text Replace:
 Replace applies to the target segments of the project.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230401T113228Z" creationid="Hania M" creationdate="20230401T110230Z">
+      <tuv lang="PL" changeid="Hania M" changedate="20230523T083421Z" creationid="Hania M" creationdate="20230401T110230Z">
         <seg>Zastępowanie tekstu:
-Zastępowanie tekstu można zastosować tylko w przypadku segmentów docelowych projektu. </seg>
+Zastępowanie tekstu można wykonać tylko w segmentach docelowych projektu. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13575,9 +13577,9 @@ MRK: Druga propozycja jest lepsza, ale uwaga na ekwiwalencję, interpunkcję i s
         <seg>Wildcards:
 Both exact and keyword searches support the * and ?</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230331T094342Z" creationid="Hania M" creationdate="20230321T141027Z">
-        <seg>Symbole wieloznaczne
-Oba rodzaje wyszukiwania obsługują symbole wieloznaczne "*" i "?"</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230523T082457Z" creationid="Hania M" creationdate="20230321T141027Z">
+        <seg>Symbole wieloznaczne:
+Zarówno w wyszukiwaniu dokładnym, jak i słów kluczowych, można użyć „*" i „?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -14068,8 +14070,8 @@ utworzenia folderu konfiguracyjnego.</seg>
       <tuv lang="EN">
         <seg>wildcards.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230401T103925Z" creationid="Hania M" creationdate="20230331T094437Z">
-        <seg>Symbole wieloznaczne.</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230523T082508Z" creationid="Hania M" creationdate="20230331T094437Z">
+        <seg>jako symboli wieloznacznych.</seg>
       </tuv>
     </tu>
     <tu>
