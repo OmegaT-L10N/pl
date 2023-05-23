@@ -4798,8 +4798,8 @@ ew. "wyszukiwania" (zamiast "przeszukiwania")
       <tuv lang="EN">
         <seg>Error searching folder tree!</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230401T122825Z" creationid="Hania M" creationdate="20230401T122256Z">
-        <seg>Błąd podczas przeszukiwania drzewa folderów!</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230523T113657Z" creationid="Hania M" creationdate="20230401T122256Z">
+        <seg>Błąd przy przeszukiwaniu drzewa folderów!</seg>
       </tuv>
     </tu>
     <tu>
