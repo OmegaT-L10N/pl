@@ -14185,6 +14185,14 @@ utworzenia folderu konfiguracyjnego.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230523T135114Z" creationid="leoi23" creationdate="20230523T135114Z">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0}-{1}_{2}_{3}</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230321T143255Z" creationid="luizakolosa" creationdate="20230321T143255Z">
