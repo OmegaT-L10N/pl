@@ -4588,8 +4588,8 @@ to kod języka, a YY to kod regionu lub kraju (opcjonalnie).</seg>
       <tuv lang="EN">
         <seg>Enter the segment number:</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T182934Z" creationid="klaudiakempa" creationdate="20230331T182934Z">
-        <seg>Podaj numer segmentu:</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T121351Z" creationid="klaudiakempa" creationdate="20230331T182934Z">
+        <seg>Wprowadź numer segmentu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10548,8 +10548,8 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       <tuv lang="EN">
         <seg>Segment {0,number,#}</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T183129Z" creationid="klaudiakempa" creationdate="20230331T183129Z">
-        <seg>Segment {0,numer,#}</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230523T121254Z" creationid="klaudiakempa" creationdate="20230331T183129Z">
+        <seg>Segment {0,number,#}</seg>
       </tuv>
     </tu>
     <tu>
