@@ -4080,8 +4080,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Displays the translation of the current segment provided by the machine translation services selected in Preferences &gt; Machine Translation if those services are available.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190223Z" creationid="AgnieszkaS" creationdate="20230418T170003Z">
-        <seg>Ten panel wyświetla tłumaczenie segmentu źródłowego za pomocą tłumaczenia maszynowego wybieranego w Preferencje &gt; Tłumaczenie maszynowe, jeśli jest ono dostępne.</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230523T124154Z" creationid="AgnieszkaS" creationdate="20230418T170003Z">
+        <seg>Ten panel wyświetla tłumaczenie maszynowe segmentu źródłowego wybranego w Preferencje &gt; Tłumaczenie maszynowe, jeśli jest ono dostępne.</seg>
       </tuv>
     </tu>
     <tu>
