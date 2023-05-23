@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -380,10 +380,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Exact search</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T204709Z" creationid="laura-maj" creationdate="20230330T204709Z">
+        <seg>Wyszukiwanie &amp;dokładne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Exported TMs</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230331T154456Z" creationid="sandraczapska" creationdate="20230331T153954Z">
         <seg>&amp;Eksportowane pamięci tłumaczeniowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Files</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210321Z" creationid="laura-maj" creationdate="20230330T210321Z">
+        <seg>Przeszukaj p&amp;liki</seg>
       </tuv>
     </tu>
     <tu>
@@ -447,8 +463,8 @@
       <tuv lang="EN">
         <seg>&amp;Glossaries</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T153709Z" creationid="sandraczapska" creationdate="20230331T153709Z">
-        <seg>&amp;Glosariusze</seg>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T205816Z" creationid="laura-maj" creationdate="20230330T205816Z">
+        <seg>&amp;Glosariuszach</seg>
       </tuv>
     </tu>
     <tu>
@@ -489,6 +505,14 @@
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T152010Z" creationid="maciej-pqr" creationdate="20230331T151436Z">
         <seg>&amp;Ignoruj atrybuty type i ctype przy tworzeniu skrótów znaczników &lt;ph&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;In translation</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T205913Z" creationid="laura-maj" creationdate="20230330T205913Z">
+        <seg>W pliku &amp;docelowym</seg>
       </tuv>
     </tu>
     <tu>
@@ -817,6 +841,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Regular expressions</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T204717Z" creationid="laura-maj" creationdate="20230330T204717Z">
+        <seg>Wyrażenia &amp;regularne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Remove</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230331T205452Z">
@@ -1110,6 +1142,14 @@ MRK: Może "Szukaj zaznaczenia"?</note>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T172937Z" creationid="klaudiakempa" creationdate="20230331T172937Z">
         <seg>&amp;Narzędzia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Translated</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T211808Z" creationid="laura-maj" creationdate="20230330T205840Z">
+        <seg>&amp;Przetłumaczonych segmentach</seg>
       </tuv>
     </tu>
     <tu>
@@ -2384,6 +2424,14 @@ MRK: Tutaj lepiej brzmi "sprawdzanie". Lepiej też użyć rzeczownika "Ładowani
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aut&amp;hor:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T204912Z" creationid="laura-maj" creationdate="20230330T204912Z">
+        <seg>&amp;Autor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Authenticated proxy credentials:</seg>
       </tuv>
       <tuv lang="PL" changeid="Urszula" changedate="20230401T210157Z" creationid="Urszula" creationdate="20230401T210157Z">
@@ -2671,6 +2719,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;ase sensitive</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T205005Z" creationid="laura-maj" creationdate="20230330T205005Z">
+        <seg>&amp;Uwzględniaj wielkość liter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;harts</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190533Z" creationid="ZOO" creationdate="20230324T190533Z">
@@ -2811,6 +2867,22 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230401T170724Z" creationid="MS" creationdate="20230401T170724Z">
         <seg>Data modyfikacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed &amp;before:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T204957Z" creationid="laura-maj" creationdate="20230330T204957Z">
+        <seg>Zmiana p&amp;rzed:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed after:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T211754Z" creationid="laura-maj" creationdate="20230330T204951Z">
+        <seg>Zmiana p&amp;o:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3624,8 +3696,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Current project configuration will be overridden by the remote project configuration.</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230520T161750Z" creationid="tobkub" creationdate="20230520T161750Z">
-        <seg>Obecna konfiguracja projektu zostanie zastąpiona konfiguracją projektu zdalnego.</seg>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T201633Z" creationid="laura-maj" creationdate="20230330T201633Z">
+        <seg>Bieżąca konfiguracja projektu zostanie zastąpiona przez konfigurację projektu zdalnego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4017,6 +4089,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210143Z" creationid="laura-maj" creationdate="20230330T210143Z">
+        <seg>Widok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display: all matching segments</seg>
       </tuv>
       <tuv lang="PL" changeid="Hania M" changedate="20230401T165621Z" creationid="Hania M" creationdate="20230401T165621Z">
@@ -4116,6 +4196,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T160846Z" creationid="maciej-pqr" creationdate="20230331T160846Z">
         <seg>Czy na pewno chcesz usunąć wzorzec? {0}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to continue?</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210451Z" creationid="laura-maj" creationdate="20230330T210451Z">
+        <seg>Czy chcesz kontynuować?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5670,6 +5758,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Full/half-&amp;width char insensitive</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T205456Z" creationid="laura-maj" creationdate="20230330T205456Z">
+        <seg>Ignoruj wielkość liter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fuzzy Matches</seg>
       </tuv>
       <tuv lang="PL" changeid="Urszula" changedate="20230401T210609Z" creationid="Urszula" creationdate="20230401T210609Z">
@@ -6072,6 +6168,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hide &amp;Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T204905Z" creationid="laura-maj" creationdate="20230330T204905Z">
+        <seg>Ukryj ustawienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hide &amp;leading and trailing tags</seg>
       </tuv>
       <tuv lang="PL" changeid="ghuzytkownik" changedate="20230331T172757Z" creationid="ghuzytkownik" creationdate="20230331T172757Z">
@@ -6414,10 +6518,34 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In comments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T204752Z" creationid="laura-maj" creationdate="20230330T204752Z">
+        <seg>&amp;W komentarzach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In editor</seg>
       </tuv>
       <tuv lang="PL" changeid="littlewhitedirect" changedate="20230321T170035Z" creationid="littlewhitedirect" creationdate="20230321T165917Z">
         <seg>W edytorze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In notes</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T204739Z" creationid="laura-maj" creationdate="20230330T204739Z">
+        <seg>&amp;W notatkach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In so&amp;urce</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T205917Z" creationid="laura-maj" creationdate="20230330T205905Z">
+        <seg>W pliku &amp;źródłowym</seg>
       </tuv>
     </tu>
     <tu>
@@ -6945,8 +7073,8 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       <tuv lang="EN">
         <seg>Keyword searches match all space-separated keywords in any order.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T105752Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T105752Z">
-        <seg>[fuzzy]Wyszukiwanie słów kluczowych traktuje podany ciąg znaków jako zestaw słów kluczowych (oddzielonych spacjami), niezależnie od ich kolejności.</seg>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T211623Z" creationid="laura-maj" creationdate="20230330T211209Z">
+        <seg>Wyszukiwanie słów kluczowych traktuje podany ciąg znaków jako zestaw słów kluczowych (oddzielonych spacjami), niezależnie od ich kolejności.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7372,6 +7500,14 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210254Z" creationid="laura-maj" creationdate="20230330T210254Z">
+        <seg>Położenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Log:</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T160720Z" creationid="maciej-pqr" creationdate="20230331T160720Z">
@@ -7435,6 +7571,14 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155230Z" creationid="maciej-pqr" creationdate="20230331T155230Z">
         <seg>Magento CE Locale CSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Main Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210029Z" creationid="laura-maj" creationdate="20230330T205630Z">
+        <seg>&amp;Głównej pamięci tłumaczeniowej</seg>
       </tuv>
     </tu>
     <tu>
@@ -8461,6 +8605,22 @@ MRK: Tutaj "błędów".</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T204923Z" creationid="laura-maj" creationdate="20230330T204923Z">
+        <seg>Teraz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Number of matching segments:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210504Z" creationid="laura-maj" creationdate="20230330T210504Z">
+        <seg>Liczba dopasowanych segmentów:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Number of unique segments</seg>
       </tuv>
       <tuv lang="PL" changeid="luizakolosa" changedate="20230331T162634Z" creationid="luizakolosa" creationdate="20230331T162634Z">
@@ -8535,8 +8695,8 @@ MRK: Tutaj "błędów".</note>
       <tuv lang="EN">
         <seg>OmegaT Project Folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T222517Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T222517Z">
-        <seg>Katalog projektu OmegaT</seg>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T204506Z" creationid="laura-maj" creationdate="20230330T204506Z">
+        <seg>Katalog projekt OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -9309,6 +9469,14 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210330Z" creationid="laura-maj" creationdate="20230330T210330Z">
+        <seg>Pro&amp;jekt</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>MRK: Styl</note>
       <tuv lang="EN">
         <seg>Proceed?</seg>
@@ -9601,6 +9769,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Recursi&amp;ve search</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210347Z" creationid="laura-maj" creationdate="20230330T210347Z">
+        <seg>Prz&amp;eszukiwanie rekursywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reference T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210048Z" creationid="laura-maj" creationdate="20230330T210048Z">
+        <seg>&amp;Pamięci tłumaczeniowej projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>References:</seg>
       </tuv>
       <tuv lang="PL" changeid="kapel" changedate="20230401T203726Z" creationid="kapel" creationdate="20230401T203726Z">
@@ -9635,8 +9819,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T105800Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T105800Z">
-        <seg>[fuzzy]Wyszukiwanie za pomocą wyrażeń regularnych odpowiadają wyrażeniom regularnym w Javie, jak podano w podręczniku użytkownika.</seg>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T211643Z" creationid="laura-maj" creationdate="20230330T211354Z">
+        <seg>Wyszukiwanie za pomocą wyrażeń regularnych odpowiadają wyrażeniom regularnym w Javie, jak podano w podręczniku użytkownika.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9739,20 +9923,19 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Pisownia</note>
       <tuv lang="EN">
         <seg>Remote file/folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230523T122225Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T221556Z">
-        <seg>Plik/folder zdalny</seg>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T202500Z" creationid="laura-maj" creationdate="20230330T202500Z">
+        <seg>Pli/folder zdalny</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Remote repositories</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230520T161940Z" creationid="tobkub" creationdate="20230520T161940Z">
-        <seg>Zasoby zdalne</seg>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T202119Z" creationid="laura-maj" creationdate="20230330T202119Z">
+        <seg>Repozytoria zdalne</seg>
       </tuv>
     </tu>
     <tu>
@@ -9982,20 +10165,18 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: ?</note>
       <tuv lang="EN">
         <seg>Repository {0} is already present</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T221804Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T221804Z">
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T202924Z" creationid="laura-maj" creationdate="20230330T202917Z">
         <seg>Repositorium {0} już istnieje</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: ?</note>
       <tuv lang="EN">
         <seg>Repository {0} unknown</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T221849Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T221849Z">
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T202941Z" creationid="laura-maj" creationdate="20230330T202941Z">
         <seg>Repositorium {0} nieznane</seg>
       </tuv>
     </tu>
@@ -10147,6 +10328,14 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T190432Z" creationid="ZOO" creationdate="20230324T190432Z">
         <seg>Komentarze &amp;do slajdów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>S&amp;pace matches nbsp</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T212249Z" creationid="laura-maj" creationdate="20230330T205421Z">
+        <seg>Wyszukiwanie spacji znajduje twardą spację</seg>
       </tuv>
     </tu>
     <tu>
@@ -10311,6 +10500,16 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scope:
+Searches apply to the project and cover its source and target text, reference TMs, glossaries, notes, and comments by default.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T212021Z" creationid="laura-maj" creationdate="20230330T210647Z">
+        <seg>Zakres:
+Wyszukiwania są przeprowadzane w bieżącym projekcie i obejmują jego tekst źródłowy i docelowy, pamięci tłumaczeniowe projektu, glosariusze, notatki i komentarze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scribus</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155242Z" creationid="maciej-pqr" creationdate="20230331T155242Z">
@@ -10432,6 +10631,14 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search in</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T205610Z" creationid="laura-maj" creationdate="20230330T205548Z">
+        <seg>Szukaj w:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search replaced mark</seg>
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230509T145708Z" creationid="MS" creationdate="20230509T145708Z">
@@ -10448,12 +10655,11 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Brak tłumaczenia</note>
       <tuv lang="EN">
         <seg>Searches can also be performed on a specified folder hierarchy.</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230321T161018Z" creationid="janmars" creationdate="20230321T161018Z">
-        <seg>Searches can also be performed on a specified folder hierarchy.</seg>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210954Z" creationid="janmars" creationdate="20230321T161018Z">
+        <seg>Wyszukiwanie może być również wykonywane w określonych folderach.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10631,6 +10837,14 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T151651Z" creationid="sandraczapska" creationdate="20230328T090629Z">
         <seg>Wybierz &amp;poprzednie dopasowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Fol&amp;der</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210300Z" creationid="laura-maj" creationdate="20230330T210300Z">
+        <seg>Wybierz &amp;katalog</seg>
       </tuv>
     </tu>
     <tu>
@@ -11512,12 +11726,11 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Leksyka</note>
       <tuv lang="EN">
         <seg>Subversion</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230523T122808Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T221948Z">
-        <seg>Subwersja</seg>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T203220Z" creationid="laura-maj" creationdate="20230330T203111Z">
+        <seg>Wersja pochodna</seg>
       </tuv>
     </tu>
     <tu>
@@ -11590,6 +11803,14 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230328T071129Z">
         <seg>Opcje dopasowania z pamięci tłumaczeniowej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TM Search &amp;Options</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T204858Z" creationid="laura-maj" creationdate="20230330T204858Z">
+        <seg>Ustawienia &amp;wyszukiwania w pamięci tłumaczeniowej </seg>
       </tuv>
     </tu>
     <tu>
@@ -11776,8 +11997,8 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       <tuv lang="EN">
         <seg>Team Mode Repository Mapping</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230520T161917Z" creationid="tobkub" creationdate="20230520T161917Z">
-        <seg>Mapowanie katalogów w trybie zespołowym</seg>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T202402Z" creationid="laura-maj" creationdate="20230330T202053Z">
+        <seg>Mapowanie repozytorium w trybie zespołowym</seg>
       </tuv>
     </tu>
     <tu>
@@ -11859,6 +12080,14 @@ MRK: Myślę, że jednak "Błędy terminologiczne".</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Text Replace</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210400Z" creationid="laura-maj" creationdate="20230330T210400Z">
+        <seg>Zamień tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Albo: "Funkcji zastępowania tekstu można użyć tylko w segmentach docelowych fragmentu"?
 
 MRK: Styl</note>
@@ -11869,6 +12098,14 @@ Replace applies to the target segments of the project.</seg>
       <tuv lang="PL" changeid="Hania M" changedate="20230523T083421Z" creationid="Hania M" creationdate="20230401T110230Z">
         <seg>Zastępowanie tekstu:
 Zastępowanie tekstu można wykonać tylko w segmentach docelowych projektu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Search</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210350Z" creationid="laura-maj" creationdate="20230330T210350Z">
+        <seg>Szukanie tekstu</seg>
       </tuv>
     </tu>
     <tu>
@@ -12016,11 +12253,10 @@ folder.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Sens</note>
       <tuv lang="EN">
         <seg>The export translation memory folder does not exist!</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T222305Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T222305Z">
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T204302Z" creationid="laura-maj" creationdate="20230330T204227Z">
         <seg>Wyeksportowany folder pamięci tłumaczeniowej nie istnieje!</seg>
       </tuv>
     </tu>
@@ -12057,8 +12293,8 @@ But others await</seg>
       <tuv lang="EN">
         <seg>The original file is backed up as: {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230520T161837Z" creationid="tobkub" creationdate="20230520T161837Z">
-        <seg>Utworzono kopię zapasową oryginalnego pliku: {0}</seg>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T201653Z" creationid="laura-maj" creationdate="20230330T201653Z">
+        <seg>Oryginalny plik jest zapisywany jako:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12137,8 +12373,8 @@ But others await</seg>
       <tuv lang="EN">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T222124Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T222124Z">
-        <seg>Podany język pliku źródłowego jest nieprawidłowy!</seg>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T203342Z" creationid="laura-maj" creationdate="20230330T203159Z">
+        <seg>Podany język pliku źródłowego jest nieprawidłowy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12405,6 +12641,14 @@ settings to their defaults.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tick or untick the appropriate boxes to change these settings.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210755Z" creationid="laura-maj" creationdate="20230330T210755Z">
+        <seg>Aby zmienić ustawienia, zaznacz odpowiednie pola lub usuń zaznaczenie. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To add files to the project you can:</seg>
       </tuv>
       <tuv lang="PL" changeid="sandraczapska" changedate="20230330T200701Z" creationid="sandraczapska" creationdate="20230330T200029Z">
@@ -12465,6 +12709,14 @@ settings to their defaults.</seg>
       </tuv>
       <tuv lang="PL" changeid="tobkub" changedate="20230328T065948Z">
         <seg>Całkowita liczba:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Trans&amp;lated or untranslated</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210135Z" creationid="laura-maj" creationdate="20230330T205934Z">
+        <seg>Przetłumaczonych lub nieprzetłumaczonych segmentach</seg>
       </tuv>
     </tu>
     <tu>
@@ -12714,7 +12966,7 @@ settings to their defaults.</seg>
       <tuv lang="EN">
         <seg>Type</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T163828Z" creationid="biegajacy-zajac" creationdate="20230321T161512Z">
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T202129Z" creationid="biegajacy-zajac" creationdate="20230321T161512Z">
         <seg>Typ</seg>
       </tuv>
     </tu>
@@ -12727,14 +12979,13 @@ settings to their defaults.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Brak tłumaczenia</note>
       <tuv lang="EN">
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230321T161312Z" creationid="janmars" creationdate="20230321T161312Z">
-        <seg>Types:
-Exact searches match the whole search string.</seg>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T212036Z" creationid="janmars" creationdate="20230321T161312Z">
+        <seg>Typy:
+Wyszukiwanie dokładne szuka całego podanego ciągu znaków.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12751,6 +13002,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="PL" changeid="maciej-pqr" changedate="20230331T155131Z" creationid="maciej-pqr" creationdate="20230331T155131Z">
         <seg>Typo3 l10nmgr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>U&amp;ntranslated</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210110Z" creationid="laura-maj" creationdate="20230330T205852Z">
+        <seg>&amp;Nieprzetłumaczonych segmentach</seg>
       </tuv>
     </tu>
     <tu>
@@ -12888,8 +13147,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Unable to download team project!</seg>
       </tuv>
-      <tuv lang="PL" changeid="tobkub" changedate="20230520T161903Z" creationid="tobkub" creationdate="20230520T161852Z">
-        <seg>Nie udało się pobrać projektu zespołowego.</seg>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T202358Z" creationid="laura-maj" creationdate="20230330T201808Z">
+        <seg>Nie udało się pobrać projektu grupowego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13693,12 +13952,11 @@ Your page is not found</seg>
       </tuv>
     </tu>
     <tu>
-      <note>MRK: Ekwiwalencja</note>
       <tuv lang="EN">
         <seg>Wrong URL detected in Linkifier: {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230523T122934Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T222508Z">
-        <seg>Wykryto nieprawidłowy adres URL:</seg>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T204438Z" creationid="laura-maj" creationdate="20230330T204438Z">
+        <seg>W Linkifier wykryto nieprawidłowy adres URL:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13795,6 +14053,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="PL" changeid="leoi23" changedate="20230331T140239Z" creationid="leoi23" creationdate="20230331T140239Z">
         <seg>Odinstalowujesz słownik sprawdzania pisowni, którego twój projekt aktualnie używa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are going to modify {0} segments.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210444Z" creationid="laura-maj" creationdate="20230330T210444Z">
+        <seg>Dokonasz modyfikacji pliku</seg>
       </tuv>
     </tu>
     <tu>
@@ -13954,6 +14220,14 @@ utworzenia folderu konfiguracyjnego.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>all matching segments</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210154Z" creationid="laura-maj" creationdate="20230330T210154Z">
+        <seg>&amp;Wyświetl wszystkie rezultaty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>canceled ({0} ms elapsed)</seg>
       </tuv>
       <tuv lang="PL" changeid="Maja" changedate="20230330T190525Z" creationid="Maja" creationdate="20230330T190525Z">
@@ -13974,6 +14248,14 @@ utworzenia folderu konfiguracyjnego.</seg>
       </tuv>
       <tuv lang="PL" changeid="kapel" changedate="20230401T182631Z" creationid="kapel" creationdate="20230401T182631Z">
         <seg>rozszerzenia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>file names</seg>
+      </tuv>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210243Z" creationid="laura-maj" creationdate="20230330T210243Z">
+        <seg>Nazwa pliku</seg>
       </tuv>
     </tu>
     <tu>
