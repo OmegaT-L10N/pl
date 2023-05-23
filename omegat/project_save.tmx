@@ -8520,8 +8520,8 @@ MRK: Tutaj "błędów".</note>
       <tuv lang="en">
         <seg>Note: The Source file encoding setting only affects HTML files with no encoding declaration.</seg>
       </tuv>
-      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230401T151159Z" creationid="ghuzytkownik" creationdate="20230401T151159Z">
-        <seg>Uwaga: Ustawienie kodowania pliku źródłowego w formacie HTML działa tylko wtedy, kiedy kodowania nie zadeklarowano wewnątrz pliku.</seg>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230523T161033Z" creationid="ghuzytkownik" creationdate="20230401T151159Z">
+        <seg>Uwaga: Ustawienie kodowania pliku źródłowego w formacie HTML działa tylko wtedy kiedy kodowania nie zadeklarowano wewnątrz pliku.</seg>
       </tuv>
     </tu>
     <tu>
