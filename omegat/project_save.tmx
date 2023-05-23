@@ -6512,8 +6512,8 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
       <tuv lang="en">
         <seg>Ignored paragraphs (regular expression)</seg>
       </tuv>
-      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230401T152150Z" creationid="ghuzytkownik" creationdate="20230401T152150Z">
-        <seg>Paragrafy pominięte (wyrażenie regularne)</seg>
+      <tuv lang="pl" changeid="ghuzytkownik" changedate="20230523T160728Z" creationid="ghuzytkownik" creationdate="20230401T152150Z">
+        <seg>Paragrafy pominięte (powtarzające się wyrażenie)</seg>
       </tuv>
     </tu>
     <tu>
