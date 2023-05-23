@@ -13680,8 +13680,8 @@ Your page is not found</seg>
       <tuv lang="EN">
         <seg>Wrong URL detected in Linkifier: {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="Maria Rombel-Kuśmierska" changedate="20230522T222508Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T222508Z">
-        <seg>W Linkifier wykryto nieprawidłowy adres URL:</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230523T122934Z" creationid="Maria Rombel-Kuśmierska" creationdate="20230522T222508Z">
+        <seg>Wykryto nieprawidłowy adres URL:</seg>
       </tuv>
     </tu>
     <tu>
