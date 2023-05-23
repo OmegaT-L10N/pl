@@ -4641,8 +4641,8 @@ MRK: Obydwa warianty są poprawne (należałoby sprawdzić, który pojawia się 
       <tuv lang="EN">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230523T123413Z" creationid="AgnieszkaS" creationdate="20230418T153858Z">
-        <seg>Wpisy w edytowalnym glosariuszu są napisane wytłuszczoną czcionką.</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230523T125801Z" creationid="AgnieszkaS" creationdate="20230418T153858Z">
+        <seg>Wpisy w edytowalnym glosariuszu są napisane pogrubioną czcionką.</seg>
       </tuv>
     </tu>
     <tu>
