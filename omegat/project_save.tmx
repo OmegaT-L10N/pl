@@ -1307,12 +1307,12 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230523T133005Z" creationid="sandraczapska" creationdate="20230523T081339Z">
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230523T140143Z" creationid="sandraczapska" creationdate="20230523T081339Z">
         <seg>- sprawdź, czy format plików jest obsługiwany przez program OmegaT:
 	  jeśli włączone są ustawienia filtrów dla projektu
 	  wybierz Projekt &gt; Właściwości &gt; Filtry projektów...,
 	  jeśli nie, wybierz Opcje &gt; Filtry plików...;
-	- otwór je w ich początkowej aplikacji i sprawdź, czy nie są puste.</seg>
+	- otwórz je w ich początkowej aplikacji i sprawdź, czy nie są puste.</seg>
       </tuv>
     </tu>
     <tu>
