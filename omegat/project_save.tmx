@@ -13539,8 +13539,8 @@ Bieżące ustawienie to {0}MB;</seg>
       <tuv lang="EN">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230523T112125Z" creationid="Hania M" creationdate="20230401T115540Z">
-        <seg>Podczas gdy używa się wyrażeń regularnych, ciąg zastępczy umożliwia odniesienia do grup zdefiniowanych w ciągu wyszukiwania.</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230523T112827Z" creationid="Hania M" creationdate="20230401T115540Z">
+        <seg>Podczas gdy używa się wyrażeń regularnych, ciąg zastępczy umożliwia odniesienia do grup określonych w ciągu wyszukiwania.</seg>
       </tuv>
     </tu>
     <tu>
