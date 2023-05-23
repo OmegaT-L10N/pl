@@ -1276,6 +1276,22 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>- verify that their format is supported by OmegaT:
+	  if local filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230523T081339Z" creationid="sandraczapska" creationdate="20230523T081339Z">
+        <seg>- verify that their format is supported by OmegaT:
+	  if local filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>MRK: Interpunkcja, szyk, leksyka</note>
       <tuv lang="EN">
         <seg>- verify that their format is supported by OmegaT:
@@ -3381,8 +3397,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Copy error to clipboard</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230331T151403Z" creationid="sandraczapska" creationdate="20230330T171850Z">
-        <seg>Kopiuj treść błędu</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230523T081524Z" creationid="sandraczapska" creationdate="20230330T171850Z">
+        <seg>Kopiuj treść błędu do schowka</seg>
       </tuv>
     </tu>
     <tu>
@@ -12698,8 +12714,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>URL</seg>
       </tuv>
-      <tuv lang="PL" changeid="littlewhitedirect" changedate="20230328T065630Z">
-        <seg>URL</seg>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230523T081535Z">
+        <seg>Adres URL</seg>
       </tuv>
     </tu>
     <tu>
