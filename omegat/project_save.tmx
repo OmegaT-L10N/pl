@@ -9170,6 +9170,7 @@ everything.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MPep: konsekwentniej będzie "poleceń"</note>
       <tuv lang="EN">
         <seg>Post-processing commands failed.</seg>
       </tuv>
