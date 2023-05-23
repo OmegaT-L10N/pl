@@ -11940,6 +11940,14 @@ niego zostanie użyty bieżący folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The PO filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="PL" changeid="ZOO" changedate="20230523T134025Z" creationid="ZOO" creationdate="20230523T134025Z">
+        <seg>PO napotkał błąd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="PL" changeid="ZOO" changedate="20230324T191240Z" creationid="ZOO" creationdate="20230324T191240Z">
