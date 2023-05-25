@@ -8460,6 +8460,14 @@ MRK: Tutaj "błędów".</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T122440Z" creationid="janmars" creationdate="20230525T122440Z">
+        <seg>Normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not Alternative</seg>
       </tuv>
       <tuv lang="PL" changeid="JU" changedate="20230330T200327Z" creationid="JU" creationdate="20230330T200327Z">
