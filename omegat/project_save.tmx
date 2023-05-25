@@ -358,8 +358,8 @@
       <tuv lang="EN">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T105233Z" creationid="janmars" creationdate="20230327T105233Z">
-        <seg>i umożliwij sugestie glosariusza</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T115100Z" creationid="janmars" creationdate="20230327T105233Z">
+        <seg>&amp;włącz sugestie glosariusza</seg>
       </tuv>
     </tu>
     <tu>
@@ -4133,8 +4133,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T105204Z" creationid="janmars" creationdate="20230327T105204Z">
-        <seg>Pokaż wpisy w porządku "&lt;cel&gt; → &lt;źródło&gt;"</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T115034Z" creationid="janmars" creationdate="20230327T105204Z">
+        <seg>Pokaż wpisy jako "&lt;cel&gt; → &lt;źródło&gt;"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4142,8 +4142,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T105127Z" creationid="janmars" creationdate="20230327T105127Z">
-        <seg>Pokaż wpisy w porządku "&lt;cel&gt; → &lt;źródło&gt;"</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T115013Z" creationid="janmars" creationdate="20230327T105127Z">
+        <seg>Pokaż wpisy jako "&lt;cel&gt; → &lt;źródło&gt;"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4617,8 +4617,8 @@ MRK: Kwestia uzgodnienia</note>
       <tuv lang="EN">
         <seg>End rebase</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T103503Z" creationid="janmars" creationdate="20230327T103503Z">
-        <seg>Zakończ rebazowanie. </seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T114831Z" creationid="janmars" creationdate="20230327T103503Z">
+        <seg>Zakończ ponowne przypisanie bazy. </seg>
       </tuv>
     </tu>
     <tu>
@@ -5937,8 +5937,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Glossary auto-completer options</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T105029Z" creationid="janmars" creationdate="20230327T105029Z">
-        <seg>Opcje autokompletera glosariusza</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T114911Z" creationid="janmars" creationdate="20230327T105029Z">
+        <seg>Opcje automatycznego uzupełniania glosariusza</seg>
       </tuv>
     </tu>
     <tu>
@@ -11144,8 +11144,8 @@ Wyszukiwania są przeprowadzane w bieżącym projekcie i obejmują jego tekst ź
       <tuv lang="EN">
         <seg>Show &amp;source term first</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T105141Z" creationid="janmars" creationdate="20230327T105141Z">
-        <seg>Pokaż najpierw &amp;terminy źródłowe</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T115026Z" creationid="janmars" creationdate="20230327T105141Z">
+        <seg>Pokaż najpierw &amp;termin źródłowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -11153,8 +11153,8 @@ Wyszukiwania są przeprowadzane w bieżącym projekcie i obejmują jego tekst ź
       <tuv lang="EN">
         <seg>Show &amp;target term first</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T105058Z" creationid="janmars" creationdate="20230327T105032Z">
-        <seg>Pokaż najpierw &amp;terminy docelowe </seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T115003Z" creationid="janmars" creationdate="20230327T105032Z">
+        <seg>Pokaż najpierw &amp;termin docelowy </seg>
       </tuv>
     </tu>
     <tu>
