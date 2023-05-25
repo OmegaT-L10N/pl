@@ -341,8 +341,8 @@
       <tuv lang="EN">
         <seg>&amp;Enable autotext</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T105325Z" creationid="janmars" creationdate="20230327T105325Z">
-        <seg>i umożliwij autotekst</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T115137Z" creationid="janmars" creationdate="20230327T105325Z">
+        <seg>&amp;umożliwij autotekst</seg>
       </tuv>
     </tu>
     <tu>
@@ -4006,8 +4006,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Display</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T102440Z" creationid="janmars" creationdate="20230327T102440Z">
-        <seg>Widok</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T115231Z" creationid="janmars" creationdate="20230327T102440Z">
+        <seg>Interfejs </seg>
       </tuv>
     </tu>
     <tu>
@@ -4728,8 +4728,8 @@ MRK: Obydwa warianty są poprawne (należałoby sprawdzić, który pojawia się 
       <tuv lang="EN">
         <seg>Entries</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T102435Z" creationid="janmars" creationdate="20230327T102435Z">
-        <seg>Treść</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T115238Z" creationid="janmars" creationdate="20230327T102435Z">
+        <seg>Hasła </seg>
       </tuv>
     </tu>
     <tu>
@@ -11310,8 +11310,8 @@ Wyszukiwania są przeprowadzane w bieżącym projekcie i obejmują jego tekst ź
       <tuv lang="EN">
         <seg>Sort by &amp;full text, not shortcut</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T105457Z" creationid="janmars" creationdate="20230327T102412Z">
-        <seg>Sortuj pod kątem &amp;pełnego tekstu, a nie skrótu</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T115209Z" creationid="janmars" creationdate="20230327T102412Z">
+        <seg>Sortuj według &amp;pełnego tekstu, a nie skrótu</seg>
       </tuv>
     </tu>
     <tu>
@@ -11328,8 +11328,8 @@ Wyszukiwania są przeprowadzane w bieżącym projekcie i obejmują jego tekst ź
       <tuv lang="EN">
         <seg>Sort by len&amp;gth</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T105359Z" creationid="janmars" creationdate="20230327T105344Z">
-        <seg>Sortuj pod kątem dłu&amp;gości</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T115159Z" creationid="janmars" creationdate="20230327T105344Z">
+        <seg>Sortuj według dłu&amp;gości</seg>
       </tuv>
     </tu>
     <tu>
@@ -12067,8 +12067,8 @@ MRK: Myślę, że jednak "Błędy terminologiczne".</note>
       <tuv lang="EN">
         <seg>Terms with multiple targets</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T105244Z" creationid="janmars" creationdate="20230327T105244Z">
-        <seg>Terminy z wieloma celami</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T115125Z" creationid="janmars" creationdate="20230327T105244Z">
+        <seg>Terminy z wieloma tłumaczeniami </seg>
       </tuv>
     </tu>
     <tu>
