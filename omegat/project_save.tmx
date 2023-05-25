@@ -3737,8 +3737,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Custom branch</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T103018Z">
-        <seg>Własna ścieżka</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T114337Z">
+        <seg>Ścieżka niestandardowa</seg>
       </tuv>
     </tu>
     <tu>
@@ -3851,8 +3851,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Default branch</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T103007Z" creationid="janmars" creationdate="20230327T103007Z">
-        <seg>Domyślna ścieżka</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T114348Z" creationid="janmars" creationdate="20230327T103007Z">
+        <seg>Ścieżka domyślna </seg>
       </tuv>
     </tu>
     <tu>
@@ -12022,8 +12022,8 @@ Wyszukiwania są przeprowadzane w bieżącym projekcie i obejmują jego tekst ź
       <tuv lang="EN">
         <seg>Team synchronization...</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T103100Z" creationid="janmars" creationdate="20230327T103100Z">
-        <seg>Synchornizacja zespołu...</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T114401Z" creationid="janmars" creationdate="20230327T103100Z">
+        <seg>Synchronizacja zespołu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13669,8 +13669,8 @@ Bieżące ustawienie to {0}MB;</seg>
       <tuv lang="EN">
         <seg>User credentials denied</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T103132Z" creationid="janmars" creationdate="20230327T103132Z">
-        <seg>Błędne dane użytkownika, odmowa dostępu</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T114452Z" creationid="janmars" creationdate="20230327T103132Z">
+        <seg>Odmowa danych użytkownika </seg>
       </tuv>
     </tu>
     <tu>
