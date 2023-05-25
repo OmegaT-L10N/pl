@@ -2232,8 +2232,8 @@ MRK: Tutaj lepiej brzmi "sprawdzanie". Lepiej też użyć rzeczownika "Ładowani
       <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T103257Z" creationid="janmars" creationdate="20230327T103257Z">
-        <seg>Błąd przy próbie namierzenia pliku projektu.</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T114635Z" creationid="janmars" creationdate="20230327T103257Z">
+        <seg>Błąd przy próbie rozpoznania pliku z projektem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3534,8 +3534,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Could not save credentials to text file</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T103211Z" creationid="janmars" creationdate="20230327T102148Z">
-        <seg>Nie można było zachować danych użytkownika na pliku tekstowym</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T114529Z" creationid="janmars" creationdate="20230327T102148Z">
+        <seg>Nie można było zapisać danych użytkownika jako pliku tekstowego</seg>
       </tuv>
     </tu>
     <tu>
@@ -3924,8 +3924,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Detecting...</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T103239Z" creationid="janmars" creationdate="20230327T103239Z">
-        <seg>Wykrywanie...</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T114613Z" creationid="janmars" creationdate="20230327T103239Z">
+        <seg>Rozpoznawanie...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9959,8 +9959,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Remote repository git+ssh credential error: {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T103234Z" creationid="janmars" creationdate="20230327T103234Z">
-        <seg>Błąd danych użytkownika repozytorium zdalnego git+ssh: {0}</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T114551Z" creationid="janmars" creationdate="20230327T103234Z">
+        <seg>Błąd repozytorium zdalnego git+ssh danych użytkownika : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11697,8 +11697,8 @@ Wyszukiwania są przeprowadzane w bieżącym projekcie i obejmują jego tekst ź
       <tuv lang="EN">
         <seg>Start rebase</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T103510Z" creationid="janmars" creationdate="20230327T103454Z">
-        <seg>Rozpocznij rebazowanie. </seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T114813Z" creationid="janmars" creationdate="20230327T103454Z">
+        <seg>Rozpocznij ponowne przypisanie bazy. </seg>
       </tuv>
     </tu>
     <tu>
@@ -12542,8 +12542,8 @@ You, victim of one</seg>
       <tuv lang="EN">
         <seg>This URL appears to be invalid.</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T103355Z" creationid="janmars" creationdate="20230327T103355Z">
-        <seg>URL zdaje się nieprawidłowe.</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T114710Z" creationid="janmars" creationdate="20230327T103355Z">
+        <seg>Wykryto błąd URL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12583,8 +12583,8 @@ You, victim of one</seg>
       <tuv lang="EN">
         <seg>This is a Subversion repository.</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T103323Z" creationid="janmars" creationdate="20230327T103323Z">
-        <seg>To jest wersja pochodna repozytorium.</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T114649Z" creationid="janmars" creationdate="20230327T103323Z">
+        <seg>To jest subwersja repozytorium.</seg>
       </tuv>
     </tu>
     <tu>
