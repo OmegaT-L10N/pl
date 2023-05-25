@@ -1277,9 +1277,9 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
         <seg>(You will still able to use OmegaT
 3.6 to edit this project as a team project.)</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230509T204727Z">
-        <seg>(Wciąż będzie można użyć OmegaT
-3.6 do edycji projektu w trybie projektu zbiorowego.</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T114105Z">
+        <seg>(Będzie możliwe dalsze korzystanie z programu OmegaT
+3.6 do edycji projektu w funkcji projektu zbiorowego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3036,8 +3036,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Check whether your repository has correct commits and files.</seg>
       </tuv>
-      <tuv lang="PL" changeid="janmars" changedate="20230327T102746Z" creationid="janmars" creationdate="20230327T102746Z">
-        <seg>Sprawdź, czy w repozytorium dodano poprawne foldery i pliki.</seg>
+      <tuv lang="PL" changeid="janmars" changedate="20230525T114151Z" creationid="janmars" creationdate="20230327T102746Z">
+        <seg>Sprawdź, czy w repozytorium znajdują się właściwe foldery i pliki.</seg>
       </tuv>
     </tu>
     <tu>
