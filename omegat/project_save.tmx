@@ -1887,6 +1887,14 @@ MRK: Tutaj lepiej brzmi "sprawdzanie". Lepiej też użyć rzeczownika "Ładowani
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Abort: Exit with an error if tags are invalid.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="leoi23" changedate="20230526T181636Z" creationid="leoi23" creationdate="20230526T181636Z">
+        <seg>Abort: Wyjście mimo błędu, jeśli tagi są niepoprawne. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
       <tuv lang="PL" changeid="NBany" changedate="20230513T155519Z" creationid="sandraczapska" creationdate="20230330T152125Z">
