@@ -10462,8 +10462,8 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       <tuv lang="EN">
         <seg>Save Current Set...</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230527T105021Z" creationid="biegajacy-zajac" creationdate="20230527T105021Z">
-        <seg>Zapisz bieżący zestaw...</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230527T105404Z" creationid="biegajacy-zajac" creationdate="20230527T105021Z">
+        <seg>Save Current Set...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11133,8 +11133,8 @@ Wyszukiwania są przeprowadzane w bieżącym projekcie i obejmują jego tekst ź
       <tuv lang="EN">
         <seg>Sets</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230527T104954Z">
-        <seg>Zestawy</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230527T105325Z">
+        <seg>Sets</seg>
       </tuv>
     </tu>
     <tu>
