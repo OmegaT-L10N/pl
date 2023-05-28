@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9966,8 +9966,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Remote file/folder</seg>
       </tuv>
-      <tuv lang="PL" changeid="laura-maj" changedate="20230330T202500Z" creationid="laura-maj" creationdate="20230330T202500Z">
-        <seg>Pli/folder zdalny</seg>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230528T210642Z" creationid="laura-maj" creationdate="20230330T202500Z">
+        <seg>Plik/folder zdalny</seg>
       </tuv>
     </tu>
     <tu>
@@ -10208,16 +10208,16 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Repository {0} is already present</seg>
       </tuv>
-      <tuv lang="PL" changeid="laura-maj" changedate="20230330T202924Z" creationid="laura-maj" creationdate="20230330T202917Z">
-        <seg>Repositorium {0} już istnieje</seg>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230528T210656Z" creationid="laura-maj" creationdate="20230330T202917Z">
+        <seg>Repozytorium {0} już istnieje</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Repository {0} unknown</seg>
       </tuv>
-      <tuv lang="PL" changeid="laura-maj" changedate="20230330T202941Z" creationid="laura-maj" creationdate="20230330T202941Z">
-        <seg>Repositorium {0} nieznane</seg>
+      <tuv lang="PL" changeid="laura-maj" changedate="20230528T210702Z" creationid="laura-maj" creationdate="20230330T202941Z">
+        <seg>Repozytorium {0} nieznane</seg>
       </tuv>
     </tu>
     <tu>
