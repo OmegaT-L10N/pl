@@ -8382,8 +8382,8 @@ MRK: Tutaj "błędów".</note>
       <tuv lang="EN">
         <seg>No option: Launch GUI.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230529T125840Z" creationid="leoi23" creationdate="20230321T142943Z">
-        <seg>Brak opcji: Uruchom GUI.</seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230529T130052Z" creationid="leoi23" creationdate="20230321T142943Z">
+        <seg>Brak opcji: Uruchom graficzny interfejs użytkownika.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9659,8 +9659,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Project path only: Launch GUI and load specified project.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230529T124335Z" creationid="leoi23" creationdate="20230321T143638Z">
-        <seg>Wczytanie podanego projektu nie powiodło się!</seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230529T125954Z" creationid="leoi23" creationdate="20230321T143638Z">
+        <seg>Tylko ścieżka projektu: Uruchom GUI i załaduj dany projekt.</seg>
       </tuv>
     </tu>
     <tu>
