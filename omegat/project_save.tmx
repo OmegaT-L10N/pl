@@ -398,8 +398,8 @@
       <tuv lang="EN">
         <seg>&amp;Files</seg>
       </tuv>
-      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210321Z" creationid="laura-maj" creationdate="20230330T210321Z">
-        <seg>Przeszukaj p&amp;liki</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230529T215454Z" creationid="laura-maj" creationdate="20230330T210321Z">
+        <seg>&amp;Pliki</seg>
       </tuv>
     </tu>
     <tu>
@@ -7534,8 +7534,8 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       <tuv lang="EN">
         <seg>Location</seg>
       </tuv>
-      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210254Z" creationid="laura-maj" creationdate="20230330T210254Z">
-        <seg>Położenie</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230529T215414Z" creationid="laura-maj" creationdate="20230330T210254Z">
+        <seg>Lokalizacja</seg>
       </tuv>
     </tu>
     <tu>
@@ -9835,8 +9835,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Recursi&amp;ve search</seg>
       </tuv>
-      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210347Z" creationid="laura-maj" creationdate="20230330T210347Z">
-        <seg>Prz&amp;eszukiwanie rekursywne</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230529T215545Z" creationid="laura-maj" creationdate="20230330T210347Z">
+        <seg>Wyszukiwanie rekurs&amp;ywne</seg>
       </tuv>
     </tu>
     <tu>
@@ -10575,9 +10575,9 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
         <seg>Scope:
 Searches apply to the project and cover its source and target text, reference TMs, glossaries, notes, and comments by default.</seg>
       </tuv>
-      <tuv lang="PL" changeid="laura-maj" changedate="20230330T212021Z" creationid="laura-maj" creationdate="20230330T210647Z">
+      <tuv lang="PL" changeid="Hania M" changedate="20230529T221319Z" creationid="laura-maj" creationdate="20230330T210647Z">
         <seg>Zakres:
-Wyszukiwania są przeprowadzane w bieżącym projekcie i obejmują jego tekst źródłowy i docelowy, pamięci tłumaczeniowe projektu, glosariusze, notatki i komentarze.</seg>
+Wyszukiwania przeprowadzane są w bieżącym projekcie i domyślnie obejmują jego tekst źródłowy i docelowy, pamięci referencyjne, glosariusze, notatki i komentarze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10915,8 +10915,8 @@ Wyszukiwania są przeprowadzane w bieżącym projekcie i obejmują jego tekst ź
       <tuv lang="EN">
         <seg>Select Fol&amp;der</seg>
       </tuv>
-      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210300Z" creationid="laura-maj" creationdate="20230330T210300Z">
-        <seg>Wybierz &amp;katalog</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230529T215421Z" creationid="laura-maj" creationdate="20230330T210300Z">
+        <seg>Wybierz &amp;folder</seg>
       </tuv>
     </tu>
     <tu>
@@ -12176,8 +12176,8 @@ Zastępowanie tekstu można wykonać tylko w segmentach docelowych projektu. </s
       <tuv lang="EN">
         <seg>Text Search</seg>
       </tuv>
-      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210350Z" creationid="laura-maj" creationdate="20230330T210350Z">
-        <seg>Szukanie tekstu</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230529T215554Z" creationid="laura-maj" creationdate="20230330T210350Z">
+        <seg>Wyszukiwanie tekstu</seg>
       </tuv>
     </tu>
     <tu>
