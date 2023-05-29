@@ -200,3 +200,4 @@ Name	Nazwa	<ES> nombre
 assign	przypisać	<ES> asignar
 Secure Store	Bezpieczne przechowywanie danych	<ES> Almacenamiento seguro
 Set	Ustawiony	<ES> establecido
+Reset	Resetuj	<ES> restablecer
