@@ -7105,8 +7105,8 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       <tuv lang="EN">
         <seg>Keyword searches match all space-separated keywords in any order.</seg>
       </tuv>
-      <tuv lang="PL" changeid="laura-maj" changedate="20230330T211623Z" creationid="laura-maj" creationdate="20230330T211209Z">
-        <seg>Wyszukiwanie słów kluczowych traktuje podany ciąg znaków jako zestaw słów kluczowych (oddzielonych spacjami), niezależnie od ich kolejności.</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230529T222444Z" creationid="laura-maj" creationdate="20230330T211209Z">
+        <seg>Wyszukiwanie słów kluczowych obejmuje wyszukiwanie wszystkich słów kluczowych oddzielonych spacjami, niezależnie od ich kolejności.</seg>
       </tuv>
     </tu>
     <tu>
