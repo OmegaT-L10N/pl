@@ -2865,8 +2865,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Cannot reset the filter to default patterns.</seg>
       </tuv>
-      <tuv lang="PL" changeid="ghuzytkownik" changedate="20230331T163806Z" creationid="ghuzytkownik" creationdate="20230331T163806Z">
-        <seg>Nie można przywrócić filtra do ustawień domyślnych</seg>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230529T120911Z" creationid="ghuzytkownik" creationdate="20230331T163806Z">
+        <seg> Nie można przywrócić filtra do ustawień domyślnych</seg>
       </tuv>
     </tu>
     <tu>
