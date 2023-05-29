@@ -4107,8 +4107,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Display:</seg>
       </tuv>
-      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210143Z" creationid="laura-maj" creationdate="20230330T210143Z">
-        <seg>Widok</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230529T215114Z" creationid="laura-maj" creationdate="20230330T210143Z">
+        <seg>Wyświetl:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14294,8 +14294,8 @@ utworzenia folderu konfiguracyjnego.</seg>
       <tuv lang="EN">
         <seg>all matching segments</seg>
       </tuv>
-      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210154Z" creationid="laura-maj" creationdate="20230330T210154Z">
-        <seg>&amp;Wyświetl wszystkie rezultaty</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230529T215331Z" creationid="laura-maj" creationdate="20230330T210154Z">
+        <seg>&amp;wszystkie dopasowane segmenty</seg>
       </tuv>
     </tu>
     <tu>
@@ -14326,8 +14326,8 @@ utworzenia folderu konfiguracyjnego.</seg>
       <tuv lang="EN">
         <seg>file names</seg>
       </tuv>
-      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210243Z" creationid="laura-maj" creationdate="20230330T210243Z">
-        <seg>Nazwa pliku</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230529T215355Z" creationid="laura-maj" creationdate="20230330T210243Z">
+        <seg>nazwy plików</seg>
       </tuv>
     </tu>
     <tu>
