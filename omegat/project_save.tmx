@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8641,6 +8641,14 @@ MRK: Tutaj "błędów".</note>
       </tuv>
       <tuv lang="PL" changeid="AgnieszkaS" changedate="20230523T124529Z" creationid="AgnieszkaS" creationdate="20230418T170302Z">
         <seg>Powiadom mnie, czy segment zawiera notatki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When the Segment Has Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230529T122222Z" creationid="sandraczapska" creationdate="20230529T122222Z">
+        <seg>Notify Me When the Segment Has Fuzzy Matches</seg>
       </tuv>
     </tu>
     <tu>
