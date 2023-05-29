@@ -1438,9 +1438,9 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
         <seg>--config-dir=&lt;path&gt;
 	  The folder used to read or write OmegaT configuration files.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230529T130928Z" creationid="NBany" creationdate="20230513T150425Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230529T131025Z" creationid="NBany" creationdate="20230513T150425Z">
         <seg>--config-dir=&lt;ścieżka&gt;
-	  Folder, który ma być używany przy odczycie lub zapisie plików konfiguracyjnych OmegaT.</seg>
+	  Folder, który ma być używany podczas odczytu lub zapisu plików konfiguracyjnych OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1449,9 +1449,9 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
         <seg>--config-file=&lt;path&gt;
 	  A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230529T130910Z" creationid="NBany" creationdate="20230513T143852Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230529T131009Z" creationid="NBany" creationdate="20230513T143852Z">
         <seg>--config-file=&lt;ścieżka&gt;
-	  Plik Java .properties, który ma być używany przy przywracaniu ustawień domyślnych.</seg>
+	  Plik Java .properties, który ma być używany podczas przywracania ustawień domyślnych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1591,9 +1591,9 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
         <seg>--resource-bundle=&lt;path&gt;
 	  A Java .properties file to use for the interface text.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T154248Z" creationid="NBany" creationdate="20230513T151208Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230529T131053Z" creationid="NBany" creationdate="20230513T151208Z">
         <seg>--resource-bundle=&lt;ścieżka&gt;
-	  Plik Java .properties do użycia przy tworzeniu tekstu interfejsu.</seg>
+	  Plik Java .properties, który ma być używany podczas tworzenia tekstu interfejsu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8382,8 +8382,8 @@ MRK: Tutaj "błędów".</note>
       <tuv lang="EN">
         <seg>No option: Launch GUI.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230529T130052Z" creationid="leoi23" creationdate="20230321T142943Z">
-        <seg>Brak opcji: Uruchom graficzny interfejs użytkownika.</seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230529T131121Z" creationid="leoi23" creationdate="20230321T142943Z">
+        <seg>Brak opcji: Uruchom GUI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9659,8 +9659,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Project path only: Launch GUI and load specified project.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230529T130130Z" creationid="leoi23" creationdate="20230321T143638Z">
-        <seg>Ścieżka projektu: Uruchom graficzny interfejs użytkownika i załaduj dany projekt.</seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230529T131128Z" creationid="leoi23" creationdate="20230321T143638Z">
+        <seg>Ścieżka projektu: Uruchom GUI i załaduj dany projekt.</seg>
       </tuv>
     </tu>
     <tu>
