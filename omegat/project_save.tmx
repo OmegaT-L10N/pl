@@ -10730,8 +10730,8 @@ Wyszukiwania przeprowadzane są w bieżącym projekcie i domyślnie obejmują je
       <tuv lang="EN">
         <seg>Searches can also be performed on a specified folder hierarchy.</seg>
       </tuv>
-      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210954Z" creationid="janmars" creationdate="20230321T161018Z">
-        <seg>Wyszukiwanie może być również wykonywane w określonych folderach.</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230529T222049Z" creationid="janmars" creationdate="20230321T161018Z">
+        <seg>Można również przeszukiwać określone foldery.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12715,8 +12715,8 @@ settings to their defaults.</seg>
       <tuv lang="EN">
         <seg>Tick or untick the appropriate boxes to change these settings.</seg>
       </tuv>
-      <tuv lang="PL" changeid="laura-maj" changedate="20230330T210755Z" creationid="laura-maj" creationdate="20230330T210755Z">
-        <seg>Aby zmienić ustawienia, zaznacz odpowiednie pola lub usuń zaznaczenie. </seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230529T221435Z" creationid="laura-maj" creationdate="20230330T210755Z">
+        <seg>Aby zmienić zakres wyszukiwania, zaznacz odpowiednie opcje. </seg>
       </tuv>
     </tu>
     <tu>
