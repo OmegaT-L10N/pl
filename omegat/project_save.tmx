@@ -8703,8 +8703,8 @@ MRK: Tutaj "błędów".</note>
       <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
-      <tuv lang="PL" changeid="Dell" changedate="20230314T150859Z" creationid="macie" creationdate="20230314T141625Z">
-        <seg>TOmegaT</seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230529T124205Z" creationid="macie" creationdate="20230314T141625Z">
+        <seg>Klasyczna TOmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -8849,8 +8849,8 @@ MRK: Tutaj "błędów".</note>
       <tuv lang="EN">
         <seg>OmegaT options:</seg>
       </tuv>
-      <tuv lang="PL" changeid="Dell" changedate="20230321T142210Z" creationid="Dell" creationdate="20230321T142210Z">
-        <seg>Licencja OmegaT</seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230529T124327Z" creationid="Dell" creationdate="20230321T142210Z">
+        <seg>Pozostałe opcje : </seg>
       </tuv>
     </tu>
     <tu>
@@ -9659,8 +9659,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Project path only: Launch GUI and load specified project.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T131724Z" creationid="leoi23" creationdate="20230321T143638Z">
-        <seg>Wczytanie danego projektu nie powiodło się!</seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230529T124335Z" creationid="leoi23" creationdate="20230321T143638Z">
+        <seg>Wczytanie podanego projektu nie powiodło się!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10762,8 +10762,8 @@ Wyszukiwania są przeprowadzane w bieżącym projekcie i obejmują jego tekst ź
       <tuv lang="EN">
         <seg>See Help &gt; User Manual for details, including available Java options.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T131520Z" creationid="NBany" creationdate="20230513T131520Z">
-        <seg>Szczegółowe informacje, w tym dostępne opcje Java, znajdują się w Pomoc &gt; Podręcznik użytkownika </seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230529T124245Z" creationid="NBany" creationdate="20230513T131520Z">
+        <seg>Zobacz instrukcje w podręczniku użytkownika &gt; Podręcznik użytkownika </seg>
       </tuv>
     </tu>
     <tu>
