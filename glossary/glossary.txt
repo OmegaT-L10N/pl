@@ -198,3 +198,4 @@ Global External Searches	zewnętrzne wyszukiwanie globalne	<ES> Búsquedas exter
 summary	podsumowanie	<ES> resumen
 Name	Nazwa	<ES> nombre
 assign	przypisać	<ES> asignar
+Secure Store	Bezpieczne przechowywanie danych	<ES> Almacenamiento seguro
