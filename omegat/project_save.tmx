@@ -1426,10 +1426,10 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
 	  Source- or target-language tokenizer to use (overrides project
 	  settings).</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T154027Z" creationid="NBany" creationdate="20230513T141852Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230529T130516Z" creationid="NBany" creationdate="20230513T141852Z">
         <seg>--ITokenizer=&lt;nazwa klasy&gt;
 	--ITokenizerTarget=&lt;nazwa klasy&gt;
-	  Użycie tokenizera języka źródłowego lub docelowego (zastępuje ustawienia projektu).</seg>
+	  Użycie tokenizatora języka źródłowego lub docelowego (zastępuje ustawienia projektu).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1449,9 +1449,9 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
         <seg>--config-file=&lt;path&gt;
 	  A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T154206Z" creationid="NBany" creationdate="20230513T143852Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230529T130721Z" creationid="NBany" creationdate="20230513T143852Z">
         <seg>--config-file=&lt;ścieżka&gt;
-	  Ścieżka pliku Java .properties, w której znajdują się ustawienia domyślne.</seg>
+	  Plik Java .properties do użycia przy przywracaniu ustawień domyślnych.</seg>
       </tuv>
     </tu>
     <tu>
