@@ -9883,8 +9883,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
       </tuv>
-      <tuv lang="PL" changeid="laura-maj" changedate="20230330T211643Z" creationid="laura-maj" creationdate="20230330T211354Z">
-        <seg>Wyszukiwanie za pomocą wyrażeń regularnych odpowiadają wyrażeniom regularnym w Javie, jak podano w podręczniku użytkownika.</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230529T222739Z" creationid="laura-maj" creationdate="20230330T211354Z">
+        <seg>Wyszukiwania wyrażeń regularnych odpowiadają wyrażeniom regularnym w języku Java, określonym w podręczniku użytkownika.</seg>
       </tuv>
     </tu>
     <tu>
