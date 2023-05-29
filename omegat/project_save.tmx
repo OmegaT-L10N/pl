@@ -7105,8 +7105,8 @@ wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
       <tuv lang="EN">
         <seg>Keyword searches match all space-separated keywords in any order.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230529T222444Z" creationid="laura-maj" creationdate="20230330T211209Z">
-        <seg>Wyszukiwanie słów kluczowych obejmuje wyszukiwanie wszystkich słów kluczowych oddzielonych spacjami, niezależnie od ich kolejności.</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230529T222756Z" creationid="laura-maj" creationdate="20230330T211209Z">
+        <seg>Wyszukiwania słów kluczowych obejmuje wyszukiwanie wszystkich słów kluczowych oddzielonych spacjami, niezależnie od ich kolejności.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9883,8 +9883,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230529T222739Z" creationid="laura-maj" creationdate="20230330T211354Z">
-        <seg>Wyszukiwania wyrażeń regularnych odpowiadają wyrażeniom regularnym w języku Java, określonym w podręczniku użytkownika.</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230529T222828Z" creationid="laura-maj" creationdate="20230330T211354Z">
+        <seg>Wyszukiwania wyrażeń regularnych obejmują wyszukiwania wyrażeń regularnych w języku Java, określonych w podręczniku użytkownika.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13055,9 +13055,9 @@ settings to their defaults.</seg>
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Hania M" changedate="20230529T222236Z" creationid="janmars" creationdate="20230321T161312Z">
+      <tuv lang="PL" changeid="Hania M" changedate="20230529T222753Z" creationid="janmars" creationdate="20230321T161312Z">
         <seg>Typy:
-Wyszukiwanie dokładne obejmuje cały podany ciąg wyszukiwania.</seg>
+Wyszukiwania dokładne obejmuje cały podany ciąg wyszukiwania.</seg>
       </tuv>
     </tu>
     <tu>
