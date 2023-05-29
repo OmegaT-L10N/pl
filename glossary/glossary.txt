@@ -197,3 +197,4 @@ Command delimiter	separator polecenia	<ES> el delimitador del comando
 Global External Searches	zewnętrzne wyszukiwanie globalne	<ES> Búsquedas externas globales
 summary	podsumowanie	<ES> resumen
 Name	Nazwa	<ES> nombre
+assign	przypisać	<ES> asignar
