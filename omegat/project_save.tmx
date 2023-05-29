@@ -8382,8 +8382,8 @@ MRK: Tutaj "błędów".</note>
       <tuv lang="EN">
         <seg>No option: Launch GUI.</seg>
       </tuv>
-      <tuv lang="PL" changeid="leoi23" changedate="20230321T142943Z" creationid="leoi23" creationdate="20230321T142943Z">
-        <seg>&amp;Opcje</seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230529T125840Z" creationid="leoi23" creationdate="20230321T142943Z">
+        <seg>Brak opcji: Uruchom GUI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8703,8 +8703,8 @@ MRK: Tutaj "błędów".</note>
       <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230529T124205Z" creationid="macie" creationdate="20230314T141625Z">
-        <seg>Klasyczna TOmegaT</seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230529T125532Z" creationid="macie" creationdate="20230314T141625Z">
+        <seg>TOmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -8849,8 +8849,8 @@ MRK: Tutaj "błędów".</note>
       <tuv lang="EN">
         <seg>OmegaT options:</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230529T124327Z" creationid="Dell" creationdate="20230321T142210Z">
-        <seg>Pozostałe opcje : </seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230529T125636Z" creationid="Dell" creationdate="20230321T142210Z">
+        <seg>Opcje OmegaT : </seg>
       </tuv>
     </tu>
     <tu>
