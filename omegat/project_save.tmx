@@ -2889,8 +2889,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
-      <tuv lang="PL" changeid="laura-maj" changedate="20230330T204957Z" creationid="laura-maj" creationdate="20230330T204957Z">
-        <seg>Zmiana p&amp;rzed:</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230529T213845Z" creationid="laura-maj" creationdate="20230330T204957Z">
+        <seg>Zmieniono p&amp;rzed:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10398,8 +10398,8 @@ MRK: Można zmieniać szyk, ale warto rozejrzeć się po projekcie, żeby w miar
       <tuv lang="EN">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
-      <tuv lang="PL" changeid="laura-maj" changedate="20230330T212249Z" creationid="laura-maj" creationdate="20230330T205421Z">
-        <seg>Wyszukiwanie spacji znajduje twardą spację</seg>
+      <tuv lang="PL" changeid="Hania M" changedate="20230529T214358Z" creationid="laura-maj" creationdate="20230330T205421Z">
+        <seg>Spacja obejmuje twardą spację</seg>
       </tuv>
     </tu>
     <tu>
