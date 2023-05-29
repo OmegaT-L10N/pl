@@ -1580,9 +1580,9 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
 	  Download an omegat.project file from the URL given as &lt;project
 	  path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T153853Z" creationid="littlewhitedirect" creationdate="20230509T155223Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230529T124852Z" creationid="littlewhitedirect" creationdate="20230509T155223Z">
         <seg>--remote-project
-	Pobranie pliku omegat.project z adresu URL podanego jako &lt;ścieżka projektu&gt; i wczytanie projektu.</seg>
+	Pobierz projekt grupowy z adresu URL podanego jako &lt;ścieżka projektu&gt; i wczytanie projektu.</seg>
       </tuv>
     </tu>
     <tu>
