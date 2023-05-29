@@ -1537,9 +1537,9 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
         <seg>--no-team
 	  Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T153907Z" creationid="NBany" creationdate="20230513T133150Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230529T125006Z" creationid="NBany" creationdate="20230513T133150Z">
         <seg>--no-team
-	  Wyłączenie opcji projekt zespołowy.</seg>
+	  Anulowano tworzenie nowego projektu grupowego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6644,8 +6644,8 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
       <tuv lang="EN">
         <seg>Initialize a minimal team project with the specified languages.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T153935Z" creationid="NBany" creationdate="20230513T133733Z">
-        <seg>Utworzenie projektu zespołowego z określonymi językami.</seg>
+      <tuv lang="PL" changeid="NBany" changedate="20230529T125110Z" creationid="NBany" creationdate="20230513T133733Z">
+        <seg>Utworzono projekt zespołowy z określonymi językami.</seg>
       </tuv>
     </tu>
     <tu>
