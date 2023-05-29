@@ -1438,9 +1438,9 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
         <seg>--config-dir=&lt;path&gt;
 	  The folder used to read or write OmegaT configuration files.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T154218Z" creationid="NBany" creationdate="20230513T150425Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230529T130928Z" creationid="NBany" creationdate="20230513T150425Z">
         <seg>--config-dir=&lt;ścieżka&gt;
-	  Ścieżka folderu używanego do odczytu lub zapisu plików konfiguracyjnych OmegaT.</seg>
+	  Folder, który ma być używany przy odczycie lub zapisie plików konfiguracyjnych OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1449,9 +1449,9 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
         <seg>--config-file=&lt;path&gt;
 	  A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230529T130721Z" creationid="NBany" creationdate="20230513T143852Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230529T130910Z" creationid="NBany" creationdate="20230513T143852Z">
         <seg>--config-file=&lt;ścieżka&gt;
-	  Plik Java .properties do użycia przy przywracaniu ustawień domyślnych.</seg>
+	  Plik Java .properties, który ma być używany przy przywracaniu ustawień domyślnych.</seg>
       </tuv>
     </tu>
     <tu>
