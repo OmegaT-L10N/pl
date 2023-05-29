@@ -203,3 +203,4 @@ Set	Ustawiony	<ES> establecido
 Reset	Resetuj	<ES> restablecer
 Plugins	Wtyczki	<ES> Complementos
 Standard	Standard	<ES> estándar
+GPG key	GPG	<ES> clave GPG
