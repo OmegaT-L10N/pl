@@ -1549,9 +1549,9 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
 	    Prints to the specified file, or to standard output
 	    if no file is given or the option is not used.</seg>
       </tuv>
-      <tuv lang="PL" changeid="NBany" changedate="20230513T154955Z" creationid="NBany" creationdate="20230513T153744Z">
+      <tuv lang="PL" changeid="NBany" changedate="20230529T131726Z" creationid="NBany" creationdate="20230513T153744Z">
         <seg>--output-file=[plik_wyjściowy]
-	    Wysyłanie informacji do danego pliku pod warunkiem, że nie podano innego lub jeśli dana opcja nie jest używana dla standardowego pliku wyjściowego. </seg>
+	    Przekazano informacje do danego pliku. Komenda działa pod warunkiem, że wcześniej nie został podany inny plik lub jeśli dana opcja nie jest używana dla standardowego pliku wyjściowego. </seg>
       </tuv>
     </tu>
     <tu>
