@@ -193,3 +193,5 @@ serwer	server	<ES> el servidor
 custom	niestandardowy	<ES> personalizado
 encoding	kodowanie	<ES> codificación
 command string	ciąg poleceń	<ES> cadena de comando
+Command delimiter	separator polecenia	<ES> el delimitador del comando
+Global External Searches	zewnętrzne wyszukiwanie globalne	<ES> Búsquedas externas globales
