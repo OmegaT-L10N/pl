@@ -13055,9 +13055,9 @@ settings to their defaults.</seg>
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
-      <tuv lang="PL" changeid="laura-maj" changedate="20230330T212036Z" creationid="janmars" creationdate="20230321T161312Z">
+      <tuv lang="PL" changeid="Hania M" changedate="20230529T222236Z" creationid="janmars" creationdate="20230321T161312Z">
         <seg>Typy:
-Wyszukiwanie dokładne szuka całego podanego ciągu znaków.</seg>
+Wyszukiwanie dokładne obejmuje cały podany ciąg wyszukiwania.</seg>
       </tuv>
     </tu>
     <tu>
