@@ -7772,6 +7772,14 @@ MRK: Powinno być tak, jak jest teraz :)</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Matches come from your current translation or the reference files placed in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="sandraczapska" changedate="20230529T143945Z" creationid="sandraczapska" creationdate="20230529T143945Z">
+        <seg>Matches come from your current translation or the reference files placed in the /tm/ folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Matches deleted active</seg>
       </tuv>
       <tuv lang="PL" changeid="MS" changedate="20230401T175456Z" creationid="MS" creationdate="20230401T175456Z">
