@@ -8663,8 +8663,8 @@ MRK: Tutaj "błędów".</note>
       <tuv lang="EN">
         <seg>Notify Me When the Segment Has Fuzzy Matches</seg>
       </tuv>
-      <tuv lang="PL" changeid="sandraczapska" changedate="20230529T122222Z" creationid="sandraczapska" creationdate="20230529T122222Z">
-        <seg>Notify Me When the Segment Has Fuzzy Matches</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230530T113612Z" creationid="sandraczapska" creationdate="20230529T122222Z">
+        <seg>Powiadom mnie, gdy segment ma rozmyte dopasowanie</seg>
       </tuv>
     </tu>
     <tu>
