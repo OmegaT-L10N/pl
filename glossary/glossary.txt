@@ -207,3 +207,7 @@ GPG key	GPG	<ES> clave GPG
 fuzzy matches	dopasowania rozmyte	<FR> correspondances
 settings	ustawienia	<FR>paramètres
 undock	rozłącz	<FR>décrocher
+restore	przywróć	<FR>rétablir
+maximize	maksymalizuj	<FR>agrandir
+minimize	minimalizuj	réduire
+minimize	minimalizuj	<FR>réduire
