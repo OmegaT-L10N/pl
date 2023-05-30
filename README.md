@@ -87,7 +87,7 @@ This command works on any operating system but some operating system specific fa
 
   * **MacOS**
   
-    If you used OmegaT_5.5.0_Beta_Without_JRE.zip, just run the following command from the Terminal:<br/>
+    If you used OmegaT_5.8.0_Beta_Without_JRE.zip, just run the following command from the Terminal:<br/>
     `java -jar /path/to/OmegaT.jar resource-bundle=/path/to/Bundle_pl.properties`.
   
     If you used OmegaT.app, just reopen OmegaT.app
