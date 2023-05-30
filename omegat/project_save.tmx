@@ -13627,8 +13627,8 @@ Bieżące ustawienie to {0}MB;</seg>
       <tuv lang="EN">
         <seg>Use Aggressive &amp;Font Fallback</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T171948Z" creationid="klaudiakempa" creationdate="20230331T171948Z">
-        <seg>Use Aggressive &amp;Font Fallback</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230530T125041Z" creationid="klaudiakempa" creationdate="20230331T171948Z">
+        <seg>Użyj Aggressive &amp;Font Fallback</seg>
       </tuv>
     </tu>
     <tu>
