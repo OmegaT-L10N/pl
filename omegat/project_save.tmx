@@ -13586,8 +13586,8 @@ Bieżące ustawienie to {0}MB;</seg>
       <tuv lang="EN">
         <seg>Use &amp;TAB to advance</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T160035Z" creationid="biegajacy-zajac" creationdate="20230321T195232Z">
-        <seg>Użyj klawisza TAB, żeby przejść do kolejnego elementu</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230530T195117Z" creationid="biegajacy-zajac" creationdate="20230321T195232Z">
+        <seg>Użyj klawisza TAB, żeby przejść dalej</seg>
       </tuv>
     </tu>
     <tu>
