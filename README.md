@@ -63,16 +63,17 @@ This command works on any operating system but some operating system specific fa
 
 * **MacOS**
 
-  OmegaT.app is not available as a developer (unreleased) build. If you translate the latest unreleased version, you'll have to use OmegaT_5.8.0_Beta_Without_JRE.zip to test your strings. This version doesn't include Java Runtime Environment, so you'll have to make sure Java is installed system-wide on your Mac. For OmegaT 5.x you need Java8, for OmegaT 6.x Java11 is needed. Java8 can be downloaded [here](https://adoptium.net/temurin/releases/?version=8); Java11 can be downloaded [here](https://adoptium.net/temurin/releases/?version=11). In either case select `macOS` under `Operating System` and `aarch64` (newer Macs with M1 or M2 processors), or `x86` (Macs with Intel processors) under `Architecture`. `Package Type` can be either `JRE` or `JDK`, but `JRE` is sufficient to run OmegaT and it is smaller.
+  - OmegaT.app is not available as a developer (unreleased) build. If you translate the latest unreleased version, you'll have to use OmegaT_5.8.0_Beta_Without_JRE.zip to test your strings. This version doesn't include Java Runtime Environment, so you'll have to make sure Java is installed system-wide on your Mac. For OmegaT 5.x you need Java8, for OmegaT 6.x Java11 is needed. Java8 can be downloaded [here](https://adoptium.net/temurin/releases/?version=8); Java11 can be downloaded [here](https://adoptium.net/temurin/releases/?version=11). In either case select `macOS` under `Operating System` and `aarch64` (newer Macs with M1 or M2 processors), or `x86` (Macs with Intel processors) under `Architecture`. `Package Type` can be either `JRE` or `JDK`, but `JRE` is sufficient to run OmegaT and it is smaller.
+
+    Once Java is installed and OmegaT is unzipped, you can run the startup command line as instructed above: `java -jar /path/to/OmegaT.jar resource-bundle=/path/to/Bundle_pl.properties`.
   
-  If you translate the Standard or Latest version of OmegaT, you can use the corresponding OmegaT.app to test your strings.
+  - If you translate the Standard or Latest version of OmegaT, you can use the corresponding OmegaT.app to test your strings.
   
-  Right click on OmegaT.app, "Show Package Contents" and open the file:
+    Right click on OmegaT.app, "Show Package Contents" and open the file:
   `OmegaT.app/Contents/Resources/Configuration.properties`
   
-  Copy the resource-bundle parameter at the end of the file:
+    Copy the resource-bundle parameter at the end of the file:
   `resource-bundle=/path/to/Bundle_pl.properties`
-  
   and save.
   
 ## 6. After modifications start OmegaT with the custom bundle file
