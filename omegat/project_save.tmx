@@ -11981,8 +11981,8 @@ Wyszukiwania przeprowadzane są w bieżącym projekcie i domyślnie obejmują je
       <tuv lang="EN">
         <seg>Tag validation failed</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230401T205559Z" creationid="kapel" creationdate="20230401T204852Z">
-        <seg>Sprawdzanie znacznika nie powiodło się</seg>
+      <tuv lang="PL" changeid="kapel" changedate="20230530T150045Z" creationid="kapel" creationdate="20230401T204852Z">
+        <seg>Sprawdzanie znaczników nie powiodło się</seg>
       </tuv>
     </tu>
     <tu>
