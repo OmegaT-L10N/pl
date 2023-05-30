@@ -8620,8 +8620,8 @@ MRK: Tutaj "błędów".</note>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Dictionary Entries</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190214Z" creationid="AgnieszkaS" creationdate="20230418T164714Z">
-        <seg>Powiadom mnie, gdy w segmencie pojawią się wpisy słownikoweł</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230530T122754Z" creationid="AgnieszkaS" creationdate="20230418T164714Z">
+        <seg>Powiadom mnie, gdy w segmencie pojawią się hasła słownikowe</seg>
       </tuv>
     </tu>
     <tu>
