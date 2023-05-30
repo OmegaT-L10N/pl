@@ -2384,8 +2384,8 @@ MRK: Tutaj lepiej brzmi "sprawdzanie". Lepiej też użyć rzeczownika "Ładowani
       <tuv lang="EN">
         <seg>Apply &amp;Fix</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230509T150653Z" creationid="biegajacy-zajac" creationdate="20230321T161621Z">
-        <seg>Zastosuj i popraw</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230530T145710Z" creationid="biegajacy-zajac" creationdate="20230321T161621Z">
+        <seg>Zastosuj poprawkę</seg>
       </tuv>
     </tu>
     <tu>
@@ -5002,8 +5002,8 @@ MRK: Najlepiej użyć polskiego ekwiwalentu.</note>
       <tuv lang="EN">
         <seg>Escape</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T200739Z" creationid="biegajacy-zajac" creationdate="20230321T200739Z">
-        <seg>Escape</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230530T145847Z" creationid="biegajacy-zajac" creationdate="20230321T200739Z">
+        <seg>Ucieczka</seg>
       </tuv>
     </tu>
     <tu>
@@ -6018,8 +6018,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Go to Preferences &gt; Global External Searches to enable them.</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T204028Z" creationid="biegajacy-zajac" creationdate="20230321T202703Z">
-        <seg>Aby je włączyć, idź do Preferencje &gt; Zewnętrzne wyszukiwanie globalne.</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230530T145902Z" creationid="biegajacy-zajac" creationdate="20230321T202703Z">
+        <seg>Aby je włączyć, przejdź do Preferencje &gt; Zewnętrzne wyszukiwanie globalne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6857,16 +6857,16 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
       <tuv lang="EN">
         <seg>Issues ({0} of {1})</seg>
       </tuv>
-      <tuv lang="PL" changeid="JU" changedate="20230523T080836Z" creationid="JU" creationdate="20230330T203253Z">
-        <seg>Błędy  ({0} z  {1}) </seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230530T145454Z" creationid="JU" creationdate="20230330T203253Z">
+        <seg>Błędy ({0} z {1}) </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Issues ({0})</seg>
       </tuv>
-      <tuv lang="PL" changeid="JU" changedate="20230330T203156Z" creationid="JU" creationdate="20230330T203156Z">
-        <seg>Problemy ({0})</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230530T151118Z" creationid="JU" creationdate="20230330T203156Z">
+        <seg>Błędy ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -6883,8 +6883,8 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
       <tuv lang="EN">
         <seg>Issues for {0} ({1})</seg>
       </tuv>
-      <tuv lang="PL" changeid="JU" changedate="20230523T080829Z" creationid="JU" creationdate="20230330T203240Z">
-        <seg>Błędy w  {0} ({1})</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230530T145507Z" creationid="JU" creationdate="20230330T203240Z">
+        <seg>Błędy w {0} ({1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -12114,8 +12114,8 @@ MRK: Myślę, że jednak "Błędy terminologiczne".</note>
       <tuv lang="EN">
         <seg>Terminology Issues</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T193805Z" creationid="biegajacy-zajac" creationdate="20230321T161626Z">
-        <seg>Problemy terminologiczne</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230530T145726Z" creationid="biegajacy-zajac" creationdate="20230321T161626Z">
+        <seg>Błędy terminologiczne</seg>
       </tuv>
     </tu>
     <tu>
