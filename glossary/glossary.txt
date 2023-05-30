@@ -213,3 +213,4 @@ minimize	minimalizuj	réduire
 minimize	minimalizuj	<FR>réduire
 dock	złącz	ancrer
 dock	złącz	<FR>ancrer
+comments	komentarze	<FR>commentaires
