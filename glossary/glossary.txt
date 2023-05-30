@@ -211,3 +211,5 @@ restore	przywróć	<FR>rétablir
 maximize	maksymalizuj	<FR>agrandir
 minimize	minimalizuj	réduire
 minimize	minimalizuj	<FR>réduire
+dock	złącz	ancrer
+dock	złącz	<FR>ancrer
