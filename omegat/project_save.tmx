@@ -8756,6 +8756,7 @@ MRK: Tutaj "błędów".</note>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Sens</note>
       <tuv lang="EN">
         <seg>OmegaT Project Folder</seg>
       </tuv>
@@ -14026,6 +14027,7 @@ Your page is not found</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Ekwiwalencja</note>
       <tuv lang="EN">
         <seg>Wrong URL detected in Linkifier: {0}</seg>
       </tuv>
