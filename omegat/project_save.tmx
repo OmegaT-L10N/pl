@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4167,8 +4167,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Displays the translation memory segments that match the source segment.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230410T151912Z" creationid="AgnieszkaS" creationdate="20230410T151912Z">
-        <seg>Displays the translation memory segments that match the source segment.</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230530T113429Z" creationid="AgnieszkaS" creationdate="20230410T151912Z">
+        <seg>Ten panel wyświetla segmenty pamięci tłumaczeniowej pasujące do segmentu źródłowego.</seg>
       </tuv>
     </tu>
     <tu>
