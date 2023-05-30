@@ -12326,6 +12326,7 @@ folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>MRK: Sens</note>
       <tuv lang="EN">
         <seg>The export translation memory folder does not exist!</seg>
       </tuv>
