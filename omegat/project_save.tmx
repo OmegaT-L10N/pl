@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1180,8 +1180,8 @@ MRK: Może "Szukaj zaznaczenia"?</note>
       <tuv lang="EN">
         <seg>&amp;Undo Changes</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230321T194652Z" creationid="biegajacy-zajac" creationdate="20230321T194652Z">
-        <seg>&amp;Cofnij zmiany</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230604T205854Z" creationid="biegajacy-zajac" creationdate="20230321T194652Z">
+        <seg>Cofnij zmiany</seg>
       </tuv>
     </tu>
     <tu>
@@ -4716,8 +4716,8 @@ to kod języka, a YY to kod regionu lub kraju (opcjonalnie).</seg>
       <tuv lang="EN">
         <seg>Enter your master password</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230523T155413Z" creationid="kapel" creationdate="20230523T155413Z">
-        <seg>[fuzzy]Podaj swoje hasło główne. </seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230604T205831Z" creationid="kapel" creationdate="20230523T155413Z">
+        <seg>Podaj swoje hasło główne. </seg>
       </tuv>
     </tu>
     <tu>
@@ -6593,8 +6593,8 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
       <tuv lang="EN">
         <seg>Incorrect password</seg>
       </tuv>
-      <tuv lang="PL" changeid="kapel" changedate="20230523T155429Z" creationid="kapel" creationdate="20230523T155429Z">
-        <seg>[fuzzy]Hasło nieprawidłowe.</seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230604T205834Z" creationid="kapel" creationdate="20230523T155429Z">
+        <seg>Hasło nieprawidłowe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6857,8 +6857,8 @@ i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
       <tuv lang="EN">
         <seg>Issues ({0} of {1})</seg>
       </tuv>
-      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230530T145454Z" creationid="JU" creationdate="20230330T203253Z">
-        <seg>Błędy ({0} z {1}) </seg>
+      <tuv lang="PL" changeid="biegajacy-zajac" changedate="20230604T205743Z" creationid="JU" creationdate="20230330T203253Z">
+        <seg>Błędy ({0} z {1})</seg>
       </tuv>
     </tu>
     <tu>
