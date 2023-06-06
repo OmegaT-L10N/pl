@@ -4336,6 +4336,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click characters, or select them and press the Insert key, to add them to the custom table.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="MS" changedate="20230606T095351Z" creationid="MS" creationdate="20230606T095351Z">
+        <seg>Kliknij dwukrotnie znaki lub zaznacz je i naciśnij klawisz Wstaw, aby dodać je do tabeli niestandardowej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download Team Project</seg>
       </tuv>
       <tuv lang="PL" changeid="janmars" changedate="20230327T102946Z" creationid="janmars" creationdate="20230327T102946Z">
