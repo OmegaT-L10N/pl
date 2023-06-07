@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="TOmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_2132a10" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11778,8 +11778,8 @@ Wyszukiwania przeprowadzane są w bieżącym projekcie i domyślnie obejmują je
       <tuv lang="en">
         <seg>Stemming, no tags and no numbers</seg>
       </tuv>
-      <tuv lang="pl" changeid="Urszula" changedate="20230401T205637Z" creationid="Urszula" creationdate="20230401T205637Z">
-        <seg>Stemming, bez znaczników i bez liczb</seg>
+      <tuv lang="pl" changeid="Urszula" changedate="20230607T194842Z" creationid="Urszula" creationdate="20230401T205637Z">
+        <seg>Lematyzacja, bez znaczników i bez liczb</seg>
       </tuv>
     </tu>
     <tu>
