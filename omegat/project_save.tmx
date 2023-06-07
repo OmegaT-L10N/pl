@@ -1067,8 +1067,8 @@ MRK: Może "Szukaj zaznaczenia"?</note>
       <tuv lang="en">
         <seg>&amp;Show in Editor context menu</seg>
       </tuv>
-      <tuv lang="pl" changeid="littlewhitedirect" changedate="20230331T205643Z" creationid="littlewhitedirect" creationdate="20230321T170547Z">
-        <seg>&amp;Pokaż w menu kontekstowym edytora</seg>
+      <tuv lang="pl" changeid="littlewhitedirect" changedate="20230607T191521Z" creationid="littlewhitedirect" creationdate="20230321T170547Z">
+        <seg>&amp;Pokaż w menu kontekstowym Edytora</seg>
       </tuv>
     </tu>
     <tu>
@@ -4600,8 +4600,8 @@ MRK: Kwestia uzgodnienia</note>
       <tuv lang="en">
         <seg>Encoding</seg>
       </tuv>
-      <tuv lang="pl" changeid="littlewhitedirect" changedate="20230331T205605Z">
-        <seg>Kodowanie:</seg>
+      <tuv lang="pl" changeid="littlewhitedirect" changedate="20230607T191439Z">
+        <seg>Kodowanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -8198,8 +8198,8 @@ Lost to paradise</seg>
       <tuv lang="en">
         <seg>Name:</seg>
       </tuv>
-      <tuv lang="pl" changeid="littlewhitedirect" changedate="20230321T170337Z" creationid="littlewhitedirect" creationdate="20230321T170331Z">
-        <seg>Nazwa</seg>
+      <tuv lang="pl" changeid="littlewhitedirect" changedate="20230607T191344Z" creationid="littlewhitedirect" creationdate="20230321T170331Z">
+        <seg>Nazwa:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11192,8 +11192,8 @@ Wyszukiwania przeprowadzane są w bieżącym projekcie i domyślnie obejmują je
       <tuv lang="en">
         <seg>Shortcut:</seg>
       </tuv>
-      <tuv lang="pl" changeid="littlewhitedirect" changedate="20230321T170544Z" creationid="littlewhitedirect" creationdate="20230321T170544Z">
-        <seg>Skrót</seg>
+      <tuv lang="pl" changeid="littlewhitedirect" changedate="20230607T191330Z" creationid="littlewhitedirect" creationdate="20230321T170544Z">
+        <seg>Skrót:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11617,8 +11617,8 @@ Wyszukiwania przeprowadzane są w bieżącym projekcie i domyślnie obejmują je
       <tuv lang="en">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
-      <tuv lang="pl" changeid="littlewhitedirect" changedate="20230321T170537Z" creationid="littlewhitedirect" creationdate="20230321T170333Z">
-        <seg>Określ mnemonik za pomocą "&amp;": "F&amp;oobar" aby użyć O</seg>
+      <tuv lang="pl" changeid="littlewhitedirect" changedate="20230607T191412Z" creationid="littlewhitedirect" creationdate="20230321T170333Z">
+        <seg>Podaj mnemonik za pomocą "&amp;": "F&amp;oobar", aby użyć O</seg>
       </tuv>
     </tu>
     <tu>
