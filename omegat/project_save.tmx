@@ -6428,9 +6428,9 @@ Its winter has come</seg>
 that location will be used and all settings will be reset to
 their default values.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T205943Z" creationid="AgnieszkaS" creationdate="20230418T200727Z">
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T210107Z" creationid="AgnieszkaS" creationdate="20230418T200727Z">
         <seg>Jeśli dostęp do żądanej lokalizacji zostanie przyznany później,
-zostanie ona użyta, a zostaną przywrócone
+zostanie ona użyta i zostaną przywrócone
 wszystkie ustawienia fabryczne.</seg>
       </tuv>
     </tu>
@@ -12719,9 +12719,9 @@ the server.</seg>
         <seg>This will reset all
 settings to their defaults.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T205153Z" creationid="AgnieszkaS" creationdate="20230418T194512Z">
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T210805Z" creationid="AgnieszkaS" creationdate="20230418T194512Z">
         <seg>Spowoduje to przywrócenie 
-do ustawień fabrycznych.</seg>
+ustawień domyślnych.</seg>
       </tuv>
     </tu>
     <tu>
