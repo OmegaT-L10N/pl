@@ -6066,8 +6066,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Got unexpected HTTP response {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T195757Z" creationid="AgnieszkaS" creationdate="20230418T195650Z">
-        <seg>Nieprzewidziana odpowiedź HTTP {0}</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T211912Z" creationid="AgnieszkaS" creationdate="20230418T195650Z">
+        <seg>Nieoczekiwana odpowiedź HTTP {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -14612,8 +14612,8 @@ utworzenia katalogu konfiguracyjnego.</seg>
       <tuv lang="EN">
         <seg>{1}, executed from '{2}'</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190948Z" creationid="AgnieszkaS" creationdate="20230418T190948Z">
-        <seg>{1}, wykonywany z "{2}"</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T212424Z" creationid="AgnieszkaS" creationdate="20230418T190948Z">
+        <seg>{1}, uruchamiany z "{2}"</seg>
       </tuv>
     </tu>
     <tu>
