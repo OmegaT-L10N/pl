@@ -6074,8 +6074,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Got unexpected MIME TYPE {0}</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T195838Z" creationid="AgnieszkaS" creationdate="20230418T195838Z">
-        <seg>Nieprzewidziany TYP MIME {0}</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T211855Z" creationid="AgnieszkaS" creationdate="20230418T195838Z">
+        <seg>Nieoczekiwany TYP MIME {0}</seg>
       </tuv>
     </tu>
     <tu>
