@@ -12311,8 +12311,8 @@ niego zostanie użyty bieżący katalog.</seg>
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T195937Z" creationid="AgnieszkaS" creationdate="20230418T195937Z">
-        <seg>Zamiast niego zostanie użyty folder
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T211649Z" creationid="AgnieszkaS" creationdate="20230418T195937Z">
+        <seg>Zamiast niego zostanie użyty katalog
 konfiguracyjny.</seg>
       </tuv>
     </tu>
