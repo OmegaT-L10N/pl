@@ -6428,10 +6428,10 @@ Its winter has come</seg>
 that location will be used and all settings will be reset to
 their default values.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T200727Z" creationid="AgnieszkaS" creationdate="20230418T200727Z">
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T205943Z" creationid="AgnieszkaS" creationdate="20230418T200727Z">
         <seg>Jeśli dostęp do żądanej lokalizacji zostanie przyznany później,
-użyta zostanie ta lokalizacja
-i zostaną przywrócone wszystkie ustawienia fabryczne.</seg>
+zostanie ona użyta, a zostaną przywrócone
+wszystkie ustawienia fabryczne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12321,9 +12321,9 @@ konfiguracyjny.</seg>
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T195622Z" creationid="AgnieszkaS" creationdate="20230418T195622Z">
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T205552Z" creationid="AgnieszkaS" creationdate="20230418T195622Z">
         <seg>Zamiast niego zostanie użyty bieżący
-folder.</seg>
+katalog.</seg>
       </tuv>
     </tu>
     <tu>
