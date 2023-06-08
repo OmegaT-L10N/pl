@@ -214,3 +214,4 @@ minimize	minimalizuj	<FR>réduire
 dock	złącz	ancrer
 dock	złącz	<FR>ancrer
 comments	komentarze	<FR>commentaires
+source segment	segment źródłowy	<FR> segment source
