@@ -8902,9 +8902,9 @@ MRK: Tutaj "błędów".</note>
 the name of your OS and/or the system property containing
 your home folder.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T192201Z" creationid="AgnieszkaS" creationdate="20230418T185928Z">
-        <seg>OmegaT nie uzyskała dostępu do właściwości systemowej
-zawierającej nazwę systemu operacyjnego lub zawierającej folder podstawowy</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T204515Z" creationid="AgnieszkaS" creationdate="20230418T185928Z">
+        <seg>OmegaT nie uzyskał dostępu do właściwości systemu
+zawierającej nazwę systemu operacyjnego lub zawierającej katalog podstawowy</seg>
       </tuv>
     </tu>
     <tu>
