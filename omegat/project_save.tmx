@@ -5679,8 +5679,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>For file formats and filters that support comments (e.g. PO-filter), displays the comments for the translator concerning the active segment, if any.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T190245Z" creationid="AgnieszkaS" creationdate="20230418T171052Z">
-        <seg>W przypadku filtrów i formatów plików obsługujących komentarze (jak np. filtr PO), opcja ta wyświetla tłumaczowi komentarze aktywnego segmentu.</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T202617Z" creationid="AgnieszkaS" creationdate="20230418T171052Z">
+        <seg>W przypadku filtrów i formatów plików, które mogą zawierać komentarze (jak np. filtr PO), opcja ta wyświetla komentarze aktywnego segmentu.</seg>
       </tuv>
     </tu>
     <tu>
