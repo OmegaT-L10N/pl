@@ -8646,8 +8646,8 @@ MRK: Tutaj "błędów".</note>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Glossary Hits</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230530T123100Z" creationid="AgnieszkaS" creationdate="20230418T155827Z">
-        <seg>Powiadom mnie, gdy w segmencie pojawi się hasło glosariusza</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T203632Z" creationid="AgnieszkaS" creationdate="20230418T155827Z">
+        <seg>Powiadom mnie, jeśli segment zawiera hasło glosariusza</seg>
       </tuv>
     </tu>
     <tu>
