@@ -14190,9 +14190,9 @@ Your page is not found</seg>
         <seg>You may therefore experience
 unexpected, but correct behaviour.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T195717Z" creationid="AgnieszkaS" creationdate="20230418T194515Z">
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T205420Z" creationid="AgnieszkaS" creationdate="20230418T194515Z">
         <seg>Mogą w związku z tym wystąpić
-nieprzewidziane ale poprawne zachowania.</seg>
+nieoczekiwane, ale poprawne zachowania.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14241,9 +14241,9 @@ nieprzewidziane ale poprawne zachowania.</seg>
         <seg>Your operating system refused to let OmegaT
 create the configuration folder.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T195534Z" creationid="AgnieszkaS" creationdate="20230418T195534Z">
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T205502Z" creationid="AgnieszkaS" creationdate="20230418T195534Z">
         <seg>Twój system operacyjny nie umożliwił OmegaT
-utworzenia folderu konfiguracyjnego.</seg>
+utworzenia katalogu konfiguracyjnego.</seg>
       </tuv>
     </tu>
     <tu>
