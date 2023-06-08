@@ -218,3 +218,4 @@ source segment	segment źródłowy	<FR> segment source
 notepad	notatnik	<FR>bloc-note
 Key	Klucz	<FR> clé
 Path	Ścieżka	<FR> Chemin
+Translation	Tłumaczenie	<FR> Traduction
