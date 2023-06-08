@@ -12580,8 +12580,8 @@ But others await</seg>
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T192631Z" creationid="AgnieszkaS" creationdate="20230418T191922Z">
-        <seg>Nie można więc wiarygodnie określić lokalizacji folderu konfiguracyjnego OmegaT.</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T204721Z" creationid="AgnieszkaS" creationdate="20230418T191922Z">
+        <seg>Nie można więc wiarygodnie określić lokalizacji pliku konfiguracyjnego OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
