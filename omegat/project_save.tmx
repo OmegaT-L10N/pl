@@ -8671,8 +8671,8 @@ MRK: Tutaj "błędów".</note>
       <tuv lang="EN">
         <seg>Notify Me When the Segment Has Fuzzy Matches</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T194647Z" creationid="sandraczapska" creationdate="20230529T122222Z">
-        <seg>Powiadom mnie, gdy segment posiada dopasowanie rozmyte </seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T203453Z" creationid="sandraczapska" creationdate="20230529T122222Z">
+        <seg>Powiadom mnie, jeśli segment zawiera dopasowanie rozmyte </seg>
       </tuv>
     </tu>
     <tu>
