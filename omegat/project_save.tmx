@@ -6909,9 +6909,9 @@ do wartości domyślnych.</seg>
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T200217Z" creationid="AgnieszkaS" creationdate="20230418T200217Z">
-        <seg>Utworzenie folderu skryptu
-wewnątrz folderu konfiguracyjnego nie było możliwe.</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T211632Z" creationid="AgnieszkaS" creationdate="20230418T200217Z">
+        <seg>Utworzenie katalogu skryptu
+wewnątrz katalogu konfiguracyjnego nie było możliwe.</seg>
       </tuv>
     </tu>
     <tu>
