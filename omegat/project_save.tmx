@@ -13647,8 +13647,8 @@ Bieżące ustawienie to {0}MB;</seg>
       <tuv lang="EN">
         <seg>Use Create Glossary Entry in the Edit menu to add new entries.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230530T123346Z" creationid="AgnieszkaS" creationdate="20230418T154626Z">
-        <seg>Aby dodać hasło do glosariusza, należy użyć opcji Utwórz hasło glosariusza w menu Edycja.</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T195926Z" creationid="AgnieszkaS" creationdate="20230418T154626Z">
+        <seg>Aby dodać hasło do glosariusza, użyj Utwórz hasło glosariusza w menu Edycja.</seg>
       </tuv>
     </tu>
     <tu>
