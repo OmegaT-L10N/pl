@@ -12211,9 +12211,9 @@ Zastępowanie tekstu można wykonać tylko w segmentach docelowych projektu. </s
         <seg>The
 current folder will be used instead.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T192935Z" creationid="AgnieszkaS" creationdate="20230418T192935Z">
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T205118Z" creationid="AgnieszkaS" creationdate="20230418T192935Z">
         <seg>Zamiast
-niego zostanie użyty bieżący folder.</seg>
+niego zostanie użyty bieżący katalog.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12719,8 +12719,9 @@ the server.</seg>
         <seg>This will reset all
 settings to their defaults.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230418T194512Z" creationid="AgnieszkaS" creationdate="20230418T194512Z">
-        <seg>Spowoduje to przywrócenie do ustawień fabrycznych.</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T205153Z" creationid="AgnieszkaS" creationdate="20230418T194512Z">
+        <seg>Spowoduje to przywrócenie 
+do ustawień fabrycznych.</seg>
       </tuv>
     </tu>
     <tu>
