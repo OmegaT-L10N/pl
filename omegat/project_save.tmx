@@ -7790,8 +7790,8 @@ MRK: Powinno być tak, jak jest teraz :)</note>
       <tuv lang="EN">
         <seg>Matches come from your current translation or the reference files placed in the /tm/ folder.</seg>
       </tuv>
-      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230530T113517Z" creationid="sandraczapska" creationdate="20230529T143945Z">
-        <seg>Dopasowania pochodzą z bieżącego tłumaczenia lub plików referencyjnych umieszczonych w folderze /tm/.</seg>
+      <tuv lang="PL" changeid="AgnieszkaS" changedate="20230608T194719Z" creationid="sandraczapska" creationdate="20230529T143945Z">
+        <seg>Dopasowania rozmyte pochodzą z bieżącego tłumaczenia lub z plików referencyjnych umieszczonych w folderze /tm/.</seg>
       </tuv>
     </tu>
     <tu>
