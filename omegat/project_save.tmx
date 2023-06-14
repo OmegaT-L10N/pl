@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_fae25e3d5" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_2132a10" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -445,10 +445,10 @@
     <tu>
       <note>MRK: Leksyka</note>
       <tuv lang="en">
-        <seg>&amp;Force &lt;it pos="end"> tags shortcut to "&lt;f >"</seg>
+        <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
       </tuv>
       <tuv lang="pl" changeid="maciej-pqr" changedate="20230331T151904Z">
-        <seg>&amp;Użyj skrótu "&lt;f >"  dla znacznika &lt;it pos="end"> </seg>
+        <seg>&amp;Użyj skrótu "&lt;f &gt;"  dla znacznika &lt;it pos="end"&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -501,10 +501,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&amp;Ignore type and ctype attributes when building &lt;ph> tag shortcuts</seg>
+        <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="pl" changeid="maciej-pqr" changedate="20230331T152010Z" creationid="maciej-pqr" creationdate="20230331T151436Z">
-        <seg>&amp;Ignoruj atrybuty type i ctype przy tworzeniu skrótów znaczników &lt;ph></seg>
+        <seg>&amp;Ignoruj atrybuty type i ctype przy tworzeniu skrótów znaczników &lt;ph&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1334,32 +1334,32 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
       <note>MRK: Interpunkcja, szyk</note>
       <tuv lang="en">
         <seg>- drag and drop files on this pane;
-	- use Project > Add Files...;
-	- use Project > Source Files... and click on Add Files...;
+	- use Project &gt; Add Files...;
+	- use Project &gt; Source Files... and click on Add Files...;
 	- use your file manager to copy files to the 'source' folder,
-	  and then use Project > Reload to reload the project.</seg>
+	  and then use Project &gt; Reload to reload the project.</seg>
       </tuv>
       <tuv lang="pl" changeid="sandraczapska" changedate="20230330T201656Z" creationid="sandraczapska" creationdate="20230330T200655Z">
         <seg>- przeciągnij i upuść pliki w tym okienku;
-	- wybierz Projekt > Dodaj pliki...;
-	- wybierz Projekt > Pliki źródłowe... i kliknij Dodaj pliki...;
+	- wybierz Projekt &gt; Dodaj pliki...;
+	- wybierz Projekt &gt; Pliki źródłowe... i kliknij Dodaj pliki...;
 	- użyj menedżera plików, aby skopiować pliki do folderu 'źródłowego',
-	  następnie wybierz Projekt > Odśwież, aby załadować ponownie projekt.</seg>
+	  następnie wybierz Projekt &gt; Odśwież, aby załadować ponownie projekt.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>- verify that their format is supported by OmegaT:
 	  if local filter settings are enabled
-	  use Project > Properties... > Local File Filters...,
-	  otherwise use Options > Global File Filters...;
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
       <tuv lang="pl" changeid="sandraczapska" changedate="20230523T135351Z" creationid="sandraczapska" creationdate="20230523T081339Z">
         <seg>- sprawdź, czy format plików jest obsługiwany przez program OmegaT:
 	  jeśli włączone są ustawienia filtrów dla projektu
-	  wybierz Projekt > Właściwości > Filtry plików...,
-	  jeśli nie, wybierz Opcje > Filtry plików...;
+	  wybierz Projekt &gt; Właściwości &gt; Filtry plików...,
+	  jeśli nie, wybierz Opcje &gt; Filtry plików...;
 	- otwór je w ich początkowej aplikacji i sprawdź, czy nie są puste.</seg>
       </tuv>
     </tu>
@@ -1368,29 +1368,29 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
       <tuv lang="en">
         <seg>- verify that their format is supported by OmegaT:
 	  if per-project filter settings are enabled
-	  use Project > Properties... > Local File Filters...,
-	  otherwise use Options > Global File Filters...;
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
       <tuv lang="pl" changeid="sandraczapska" changedate="20230331T171110Z" creationid="sandraczapska" creationdate="20230331T162723Z">
         <seg>- sprawdź, czy format plików jest obsługiwany przez program OmegaT:
 	  jeśli włączone są ustawienia filtrów dla projektu
-	  wybierz Projekt > Właściwości... > Filtry plików...,
-	  jeśli nie, wybierz Opcje > Filtry plików...;
+	  wybierz Projekt &gt; Właściwości... &gt; Filtry plików...,
+	  jeśli nie, wybierz Opcje &gt; Filtry plików...;
 	- otwórz je w ich początkowej aplikacji i sprawdź, czy nie są puste.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>-- 148> | language = [[日本語]]・[[&lt;t0>ドイツ&lt;/t0>語]]
+        <seg>-- 148&gt; | language = [[日本語]]・[[&lt;t0&gt;ドイツ&lt;/t0&gt;語]]
 ---------
--- 177> [[2001年]]、&lt;t1>ドイツ&lt;/t1>の永住権を取得。
+-- 177&gt; [[2001年]]、&lt;t1&gt;ドイツ&lt;/t1&gt;の永住権を取得。
 ---------</seg>
       </tuv>
       <tuv lang="pl" changeid="Hania M" changedate="20230401T165703Z" creationid="Hania M" creationdate="20230401T165703Z">
-        <seg>-- 148> | language = [[日本語]]・[[&lt;t0>ドイツ&lt;/t0>語]]
+        <seg>-- 148&gt; | language = [[日本語]]・[[&lt;t0&gt;ドイツ&lt;/t0&gt;語]]
 ---------
--- 177> [[2001年]]、&lt;t1>ドイツ&lt;/t1>の永住権を取得。
+-- 177&gt; [[2001年]]、&lt;t1&gt;ドイツ&lt;/t1&gt;の永住権を取得。
 ---------</seg>
       </tuv>
     </tu>
@@ -1421,36 +1421,36 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
     <tu>
       <note>MRK: Leksyka</note>
       <tuv lang="en">
-        <seg>--ITokenizer=&lt;classname>
-	--ITokenizerTarget=&lt;classname>
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
 	  Source- or target-language tokenizer to use (overrides project
 	  settings).</seg>
       </tuv>
       <tuv lang="pl" changeid="NBany" changedate="20230529T130516Z" creationid="NBany" creationdate="20230513T141852Z">
-        <seg>--ITokenizer=&lt;nazwa klasy>
-	--ITokenizerTarget=&lt;nazwa klasy>
+        <seg>--ITokenizer=&lt;nazwa klasy&gt;
+	--ITokenizerTarget=&lt;nazwa klasy&gt;
 	  Użycie tokenizatora języka źródłowego lub docelowego (zastępuje ustawienia projektu).</seg>
       </tuv>
     </tu>
     <tu>
       <note>MRK: Ekwiwalencja</note>
       <tuv lang="en">
-        <seg>--config-dir=&lt;path>
+        <seg>--config-dir=&lt;path&gt;
 	  The folder used to read or write OmegaT configuration files.</seg>
       </tuv>
       <tuv lang="pl" changeid="NBany" changedate="20230529T131025Z" creationid="NBany" creationdate="20230513T150425Z">
-        <seg>--config-dir=&lt;ścieżka>
+        <seg>--config-dir=&lt;ścieżka&gt;
 	  Folder, który ma być używany podczas odczytu lub zapisu plików konfiguracyjnych OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
       <note>MRK: Ekwiwalencja</note>
       <tuv lang="en">
-        <seg>--config-file=&lt;path>
+        <seg>--config-file=&lt;path&gt;
 	  A Java .properties file from which to load default settings.</seg>
       </tuv>
       <tuv lang="pl" changeid="NBany" changedate="20230529T131009Z" creationid="NBany" creationdate="20230513T143852Z">
-        <seg>--config-file=&lt;ścieżka>
+        <seg>--config-file=&lt;ścieżka&gt;
 	  Plik Java .properties, który ma być używany podczas przywracania ustawień domyślnych.</seg>
       </tuv>
     </tu>
@@ -1487,24 +1487,24 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
     <tu>
       <tuv lang="en">
         <seg>--mode=console-align
-	  --alignDir=&lt;path>
+	  --alignDir=&lt;path&gt;
 	    A folder containing the translated files.</seg>
       </tuv>
       <tuv lang="pl" changeid="NBany" changedate="20230513T153155Z" creationid="NBany" creationdate="20230513T153155Z">
         <seg>--mode=console-align
-	  --alignDir=&lt;ścieżka>
+	  --alignDir=&lt;ścieżka&gt;
 	    Folder zawierający przetłumaczone pliki.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx
-	  --pseudotranslatetmx=&lt;path>
+	  --pseudotranslatetmx=&lt;path&gt;
 	    The output pseudotranslated TMX file.</seg>
       </tuv>
       <tuv lang="pl" changeid="NBany" changedate="20230513T153023Z" creationid="NBany" creationdate="20230513T152938Z">
         <seg>--mode=console-createpseudotranslatetmx
-	  --pseudotranslatetmx=&lt;ścieżka>
+	  --pseudotranslatetmx=&lt;ścieżka&gt;
 	    Powstały plik TMX, który zawiera pseudotłumaczenie.</seg>
       </tuv>
     </tu>
@@ -1523,12 +1523,12 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
     <tu>
       <tuv lang="en">
         <seg>--mode=console-translate
-	  --source-pattern=&lt;pattern>
+	  --source-pattern=&lt;pattern&gt;
 	    A regex whitelist of source files to process.</seg>
       </tuv>
       <tuv lang="pl" changeid="NBany" changedate="20230513T152927Z" creationid="NBany" creationdate="20230513T152135Z">
         <seg>--mode=console-translate
-	  --source-pattern=&lt;wzór>
+	  --source-pattern=&lt;wzór&gt;
 	    Lista wyrażeń regularnych plików źródłowych do przetworzenia.</seg>
       </tuv>
     </tu>
@@ -1578,31 +1578,31 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
       <tuv lang="en">
         <seg>--remote-project
 	  Download an omegat.project file from the URL given as &lt;project
-	  path> and load the project.</seg>
+	  path&gt; and load the project.</seg>
       </tuv>
       <tuv lang="pl" changeid="NBany" changedate="20230529T130228Z" creationid="littlewhitedirect" creationdate="20230509T155223Z">
         <seg>--remote-project
-	Pobrano projekt grupowy z adresu URL podanego jako &lt;ścieżka projektu> i wczytano projekt.</seg>
+	Pobrano projekt grupowy z adresu URL podanego jako &lt;ścieżka projektu&gt; i wczytano projekt.</seg>
       </tuv>
     </tu>
     <tu>
       <note>MRK: Sens</note>
       <tuv lang="en">
-        <seg>--resource-bundle=&lt;path>
+        <seg>--resource-bundle=&lt;path&gt;
 	  A Java .properties file to use for the interface text.</seg>
       </tuv>
       <tuv lang="pl" changeid="NBany" changedate="20230529T131053Z" creationid="NBany" creationdate="20230513T151208Z">
-        <seg>--resource-bundle=&lt;ścieżka>
+        <seg>--resource-bundle=&lt;ścieżka&gt;
 	  Plik Java .properties, który ma być używany podczas tworzenia tekstu interfejsu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>--script=&lt;path>
+        <seg>--script=&lt;path&gt;
 	  A script file to be executed on project events.</seg>
       </tuv>
       <tuv lang="pl" changeid="NBany" changedate="20230513T155455Z" creationid="NBany" creationdate="20230513T142706Z">
-        <seg>--script=&lt;path>
+        <seg>--script=&lt;path&gt;
 	  Skrypt, który ma być uruchamiany podczas pracy nad projektem.</seg>
       </tuv>
     </tu>
@@ -1705,42 +1705,42 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;&amp;br> (breaks)</seg>
+        <seg>&lt;&amp;br&gt; (breaks)</seg>
       </tuv>
       <tuv lang="pl" changeid="ghuzytkownik" changedate="20230401T153420Z" creationid="ghuzytkownik" creationdate="20230401T153420Z">
-        <seg>&lt;&amp;br> (nowa linia)</seg>
+        <seg>&lt;&amp;br&gt; (nowa linia)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;EMPTY></seg>
+        <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Maja" changedate="20230330T185856Z" creationid="Maja" creationdate="20230330T185856Z">
-        <seg>&lt;PUSTE></seg>
+        <seg>&lt;PUSTE&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;No suggestions></seg>
+        <seg>&lt;No suggestions&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="janmars" changedate="20230327T104332Z" creationid="janmars" creationdate="20230327T104208Z">
-        <seg>&lt;Brak sugestii></seg>
+        <seg>&lt;Brak sugestii&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;auto></seg>
+        <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="sandraczapska" changedate="20230330T195539Z" creationid="sandraczapska" creationdate="20230330T195539Z">
-        <seg>&lt;auto></seg>
+        <seg>&lt;auto&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;br></seg>
+        <seg>&lt;br&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="biegajacy-zajac" changedate="20230321T164546Z" creationid="biegajacy-zajac" creationdate="20230321T164546Z">
-        <seg>&lt;br></seg>
+        <seg>&lt;br&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1748,91 +1748,91 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
 
 MRK: Tutaj lepiej brzmi "sprawdzanie". Lepiej też użyć rzeczownika "Ładowanie".</note>
       <tuv lang="en">
-        <seg>&lt;html>&lt;center>Loading...&lt;br>&lt;br>Tip: Enable/disable checks at any time from the Options menu.&lt;/center>&lt;/html></seg>
+        <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="biegajacy-zajac" changedate="20230509T160434Z">
-        <seg>&lt;html>&lt;center>Ładuje się&lt;br>&lt;br>Rada: Włącz/wyłącz kontrole w dowolnym momencie z menu Opcji.&lt;/center>&lt;/html></seg>
+        <seg>&lt;html&gt;&lt;center&gt;Ładuje się&lt;br&gt;&lt;br&gt;Rada: Włącz/wyłącz kontrole w dowolnym momencie z menu Opcji.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <note>MRK: Ortografia</note>
       <tuv lang="en">
-        <seg>&lt;html>&lt;i>Preferences&lt;/i> &amp;gt; &lt;i>General&lt;/i> &amp;gt; &lt;i>Use TAB to advance&lt;/i> is checked&lt;/html></seg>
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="MS" changedate="20230516T134800Z" creationid="MS" creationdate="20230401T180653Z">
-        <seg>&lt;html>&lt;i>preferencje&lt;/i> &amp;gt; &lt;i>ogólne&lt;/i> &amp;gt; &lt;i>użyj klawisza TAB, aby przejść do następnego segmentu&lt;/i> sprawdzone&lt;/html></seg>
+      <tuv lang="pl" changeid="JU" changedate="20230614T164501Z" creationid="MS" creationdate="20230401T180653Z">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;html>Add patterns using wildcards (Apache Ant format): &lt;code>*&lt;/code>, &lt;code>?&lt;/code>, &lt;code>**&lt;/code>&lt;br>Example: &lt;code>**/.svn/**&lt;/code>&lt;/html></seg>
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant format): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="MS" changedate="20230401T171530Z" creationid="MS" creationdate="20230401T171530Z">
-        <seg>&lt;html>Dodaj wzorce wykorzystujące symbole wieloznaczne (Apache Ant format):&lt;code>*&lt;/code>, &lt;code>?&lt;/code>, &lt;code>**&lt;/code>&lt;br>Przykład: &lt;code>**/.svn/**&lt;/code>&lt;/html></seg>
+        <seg>&lt;html&gt;Dodaj wzorce wykorzystujące symbole wieloznaczne (Apache Ant format):&lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Przykład: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;html>Current version: &lt;b>{0}&lt;/b>&lt;/html></seg>
+        <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="littlewhitedirect" changedate="20230331T211621Z" creationid="littlewhitedirect" creationdate="20230331T211621Z">
-        <seg>&lt;html>Aktualna wersja: &lt;b>{0}&lt;/b>&lt;/html></seg>
+        <seg>&lt;html&gt;Aktualna wersja: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;html>Place the caret at the location where you want to split the text.&lt;/html></seg>
+        <seg>&lt;html&gt;Place the caret at the location where you want to split the text.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="JU" changedate="20230330T202529Z" creationid="JU" creationdate="20230330T202529Z">
-        <seg>&lt;html>Umieść kursor w miejscu, w którym chcesz rozdzielić tekst.</seg>
+        <seg>&lt;html&gt;Umieść kursor w miejscu, w którym chcesz rozdzielić tekst.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;html>Repository URL:&lt;/html></seg>
+        <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="janmars" changedate="20230327T102937Z" creationid="janmars" creationdate="20230327T102937Z">
-        <seg>&lt;html>Repozytorium URL:&lt;/html></seg>
+        <seg>&lt;html&gt;Repozytorium URL:&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;html>Term: &lt;b>{0}&lt;/b>&lt;br>Glossaries:&lt;br>{1}&lt;/html></seg>
+        <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="biegajacy-zajac" changedate="20230321T164541Z" creationid="biegajacy-zajac" creationdate="20230321T161659Z">
-        <seg>&lt;html>Termin: &lt;b>{0}&lt;/b>&lt;br>Glosariusze:&lt;br>{1}&lt;/html></seg>
+        <seg>&lt;html&gt;Termin: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glosariusze:&lt;br&gt;{1}&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;html>Update channel: &lt;b>{0}&lt;/b>&lt;/html></seg>
+        <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="littlewhitedirect" changedate="20230331T211843Z" creationid="littlewhitedirect" creationdate="20230331T211551Z">
-        <seg>&lt;html>Kanał aktualizacji: &lt;b>{0}&lt;/b>&lt;/html></seg>
+        <seg>&lt;html&gt;Kanał aktualizacji: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;none></seg>
+        <seg>&lt;none&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="kapel" changedate="20230401T182551Z" creationid="kapel" creationdate="20230401T182551Z">
-        <seg>&lt;brak></seg>
+        <seg>&lt;brak&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;trans-unit> &amp;resname attribute when available</seg>
+        <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
       <tuv lang="pl" changeid="ZOO" changedate="20230324T191544Z" creationid="ZOO" creationdate="20230324T191544Z">
-        <seg>&lt;trans-unit> &amp;resname atrybut, jeśli jest dostępny</seg>
+        <seg>&lt;trans-unit&gt; &amp;resname atrybut, jeśli jest dostępny</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;trans-unit> I&amp;D</seg>
+        <seg>&lt;trans-unit&gt; I&amp;D</seg>
       </tuv>
       <tuv lang="pl" changeid="ZOO" changedate="20230324T191526Z" creationid="ZOO" creationdate="20230324T191526Z">
-        <seg>&lt;trans-unit> I&amp;D</seg>
+        <seg>&lt;trans-unit&gt; I&amp;D</seg>
       </tuv>
     </tu>
     <tu>
@@ -4147,19 +4147,19 @@ additional steps need to be taken.</seg>
     <tu>
       <note>MRK: Leksyka, sens</note>
       <tuv lang="en">
-        <seg>Displays the entries as "&lt;source> → &lt;target>"</seg>
+        <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
       </tuv>
       <tuv lang="pl" changeid="janmars" changedate="20230525T115034Z" creationid="janmars" creationdate="20230327T105204Z">
-        <seg>Pokaż wpisy jako "&lt;cel> → &lt;źródło>"</seg>
+        <seg>Pokaż wpisy jako "&lt;cel&gt; → &lt;źródło&gt;"</seg>
       </tuv>
     </tu>
     <tu>
       <note>MRK: Leksyka, sens</note>
       <tuv lang="en">
-        <seg>Displays the entries as "&lt;target> → &lt;source>"</seg>
+        <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
       <tuv lang="pl" changeid="janmars" changedate="20230525T115013Z" creationid="janmars" creationdate="20230327T105127Z">
-        <seg>Pokaż wpisy jako "&lt;cel> → &lt;źródło>"</seg>
+        <seg>Pokaż wpisy jako "&lt;cel&gt; → &lt;źródło&gt;"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4174,10 +4174,10 @@ additional steps need to be taken.</seg>
     <tu>
       <note>MRK: Styl, sens</note>
       <tuv lang="en">
-        <seg>Displays the translation of the current segment provided by the machine translation services selected in Preferences > Machine Translation if those services are available.</seg>
+        <seg>Displays the translation of the current segment provided by the machine translation services selected in Preferences &gt; Machine Translation if those services are available.</seg>
       </tuv>
       <tuv lang="pl" changeid="AgnieszkaS" changedate="20230608T201445Z" creationid="AgnieszkaS" creationdate="20230418T170003Z">
-        <seg>Ten panel wyświetla tłumaczenie segmentu źródłowego wykonane przez usługi tłumaczenia maszynowego wybrane w Preferencje > Tłumaczenie maszynowe, jeśli są one dostępne.</seg>
+        <seg>Ten panel wyświetla tłumaczenie segmentu źródłowego wykonane przez usługi tłumaczenia maszynowego wybrane w Preferencje &gt; Tłumaczenie maszynowe, jeśli są one dostępne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4578,10 +4578,10 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Enable them in Preferences > Saving and Output....</seg>
+        <seg>Enable them in Preferences &gt; Saving and Output....</seg>
       </tuv>
       <tuv lang="pl" changeid="tobkub" changedate="20230328T071654Z" creationid="tobkub" creationdate="20230328T071325Z">
-        <seg>Możesz je włączyć w oknie Właściwości > Zapis i wyjście</seg>
+        <seg>Możesz je włączyć w oknie Właściwości &gt; Zapis i wyjście</seg>
       </tuv>
     </tu>
     <tu>
@@ -5596,10 +5596,10 @@ Gossamer threads hold you back
     <tu>
       <note>ew. "przestawny/zmienny znak"?</note>
       <tuv lang="en">
-        <seg>Floating '?' character not tied to '>'!</seg>
+        <seg>Floating '?' character not tied to '&gt;'!</seg>
       </tuv>
       <tuv lang="pl" changeid="Hania M" changedate="20230401T211724Z" creationid="Hania M" creationdate="20230401T211724Z">
-        <seg>Wolny znak "?" niezwiązany z ">"!</seg>
+        <seg>Wolny znak "?" niezwiązany z "&gt;"!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5669,10 +5669,10 @@ Gossamer threads hold you back
     <tu>
       <note>MRK: Ortografia, styl</note>
       <tuv lang="en">
-        <seg>For best results, install the appropriate dictionaries via Preferences > Spellchecker.</seg>
+        <seg>For best results, install the appropriate dictionaries via Preferences &gt; Spellchecker.</seg>
       </tuv>
       <tuv lang="pl" changeid="MS" changedate="20230516T134136Z" creationid="MS" creationdate="20230401T164940Z">
-        <seg>W celu otrzymania lepszych wyników zainstaluj odpowiednie słowniki poprzez zakładkę preferencje > sprawdzanie pisowni.</seg>
+        <seg>W celu otrzymania lepszych wyników zainstaluj odpowiednie słowniki poprzez zakładkę preferencje &gt; sprawdzanie pisowni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6024,10 +6024,10 @@ Gossamer threads hold you back
     <tu>
       <note>MRK: "przejdź do"</note>
       <tuv lang="en">
-        <seg>Go to Preferences > Global External Searches to enable them.</seg>
+        <seg>Go to Preferences &gt; Global External Searches to enable them.</seg>
       </tuv>
       <tuv lang="pl" changeid="biegajacy-zajac" changedate="20230530T145902Z" creationid="biegajacy-zajac" creationdate="20230321T202703Z">
-        <seg>Aby je włączyć, przejdź do Preferencje > Zewnętrzne wyszukiwanie globalne.</seg>
+        <seg>Aby je włączyć, przejdź do Preferencje &gt; Zewnętrzne wyszukiwanie globalne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6485,10 +6485,10 @@ do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>If you simply want to reduce the number of tags in a &lt;a0>Microsoft Word&lt;/a0> (2007 and later) document, you can use the &lt;l1/> script.</seg>
+        <seg>If you simply want to reduce the number of tags in a &lt;a0&gt;Microsoft Word&lt;/a0&gt; (2007 and later) document, you can use the &lt;l1/&gt; script.</seg>
       </tuv>
       <tuv lang="pl" changeid="sandraczapska" changedate="20230330T155621Z" creationid="sandraczapska" creationdate="20230330T155621Z">
-        <seg>If you simply want to reduce the number of tags in a &lt;a0>Microsoft Word&lt;/a0> (2007 and later) document, you can use the &lt;l1/> script.</seg>
+        <seg>If you simply want to reduce the number of tags in a &lt;a0&gt;Microsoft Word&lt;/a0&gt; (2007 and later) document, you can use the &lt;l1/&gt; script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6509,10 +6509,10 @@ do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Ignore type and ctype attributes when building &lt;&amp;bpt> and &lt;ept> tag shortcuts</seg>
+        <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="pl" changeid="maciej-pqr" changedate="20230331T152103Z" creationid="maciej-pqr" creationdate="20230331T152103Z">
-        <seg>&amp;Ignoruj atrybuty type i ctype przy tworzeniu skrótów znaczników  &lt;&amp;bpt> i &lt;ept></seg>
+        <seg>&amp;Ignoruj atrybuty type i ctype przy tworzeniu skrótów znaczników  &lt;&amp;bpt&gt; i &lt;ept&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6525,10 +6525,10 @@ do wartości domyślnych.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Ignored &lt;meta> tags "content" attribute</seg>
+        <seg>Ignored &lt;meta&gt; tags "content" attribute</seg>
       </tuv>
       <tuv lang="pl" changeid="ghuzytkownik" changedate="20230401T191036Z" creationid="ghuzytkownik" creationdate="20230401T191036Z">
-        <seg>Pominięty atrybut "content" znaczników &lt;meta> </seg>
+        <seg>Pominięty atrybut "content" znaczników &lt;meta&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -7941,10 +7941,10 @@ MRK: Powinno być tak, jak jest teraz :)</note>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Missing attribute '{0}' in &lt;{1}></seg>
+        <seg>Missing attribute '{0}' in &lt;{1}&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="ZOO" changedate="20230324T191336Z" creationid="ZOO" creationdate="20230324T191336Z">
-        <seg>Brak atrybutu '{0}' in &lt;{1}></seg>
+        <seg>Brak atrybutu '{0}' in &lt;{1}&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9503,18 +9503,18 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Press &lt;u>{0}&lt;/u> to go to &lt;b>{1}&lt;/b> suggestions.</seg>
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
       <tuv lang="pl" changeid="janmars" changedate="20230327T104421Z" creationid="janmars" creationdate="20230327T104421Z">
-        <seg>Wciśnij &lt;u>{0}&lt;/u> aby przejść do sugestii &lt;b>{1}&lt;/b>.</seg>
+        <seg>Wciśnij &lt;u&gt;{0}&lt;/u&gt; aby przejść do sugestii &lt;b&gt;{1}&lt;/b&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Press &lt;u>{0}&lt;/u> to return to &lt;b>{1}&lt;/b> suggestions.</seg>
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
       <tuv lang="pl" changeid="janmars" changedate="20230327T104404Z" creationid="janmars" creationdate="20230327T104404Z">
-        <seg>Wciśnij &lt;u>{0}&lt;/u> aby powrócić do sugestii &lt;b>{1}&lt;/b> .</seg>
+        <seg>Wciśnij &lt;u&gt;{0}&lt;/u&gt; aby powrócić do sugestii &lt;b&gt;{1}&lt;/b&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -10785,10 +10785,10 @@ Wyszukiwania przeprowadzane są w bieżącym projekcie i domyślnie obejmują je
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>See Help > User Manual for details, including available Java options.</seg>
+        <seg>See Help &gt; User Manual for details, including available Java options.</seg>
       </tuv>
       <tuv lang="pl" changeid="NBany" changedate="20230529T124245Z" creationid="NBany" creationdate="20230513T131520Z">
-        <seg>Zobacz instrukcje w podręczniku użytkownika > Podręcznik użytkownika </seg>
+        <seg>Zobacz instrukcje w podręczniku użytkownika &gt; Podręcznik użytkownika </seg>
       </tuv>
     </tu>
     <tu>
@@ -13533,31 +13533,31 @@ nowa wersja: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Usage: java -jar [&lt;java options>] OmegaT.jar [&lt;OmegaT options>] [&lt;project path>]</seg>
+        <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="pl" changeid="NBany" changedate="20230513T131711Z" creationid="littlewhitedirect" creationdate="20230509T155155Z">
-        <seg>Zastosowanie: java -jar [&lt;opcje java>] OmegaT.jar [&lt;opcje OmegaT>] [&lt;ścieżka projektu>]</seg>
+        <seg>Zastosowanie: java -jar [&lt;opcje java&gt;] OmegaT.jar [&lt;opcje OmegaT&gt;] [&lt;ścieżka projektu&gt;]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Usage: team init &lt;source language> &lt;target language>
+        <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
 	See --help.</seg>
       </tuv>
       <tuv lang="pl" changeid="NBany" changedate="20230513T142124Z" creationid="sandraczapska" creationdate="20230328T084645Z">
-        <seg>Zastosowanie: team init &lt;język źródłowy> &lt;język docelowy>
+        <seg>Zastosowanie: team init &lt;język źródłowy&gt; &lt;język docelowy&gt;
 	Zobacz --help.</seg>
       </tuv>
     </tu>
     <tu>
       <note>MRK: Nieprzetłumaczony element</note>
       <tuv lang="en">
-        <seg>Use "java -Xmx&lt;size-in-MB>M -jar OmegaT.jar" from the command 
+        <seg>Use "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" from the command 
 line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="pl" changeid="sandraczapska" changedate="20230523T132440Z" creationid="sandraczapska" creationdate="20230330T173222Z">
-        <seg>Użyj "java -Xmx&lt;rozmiar-w-MB>M -jar OmegaT.jar" z wiersza 
+        <seg>Użyj "java -Xmx&lt;rozmiar-w-MB&gt;M -jar OmegaT.jar" z wiersza 
 poleceń lub w skrypcie startowym OmegaT;
 Bieżące ustawienie to {0}MB;</seg>
       </tuv>
@@ -13605,10 +13605,10 @@ Bieżące ustawienie to {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Use &amp;XML notation for standalone tags (e.g., &lt;i/>)</seg>
+        <seg>Use &amp;XML notation for standalone tags (e.g., &lt;i/&gt;)</seg>
       </tuv>
       <tuv lang="pl" changeid="Urszula" changedate="20230401T204234Z" creationid="Urszula" creationdate="20230401T204234Z">
-        <seg>Użyj &amp; normy XML do pojedynczych znaczników (np. &lt;i/>)</seg>
+        <seg>Użyj &amp; normy XML do pojedynczych znaczników (np. &lt;i/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13629,10 +13629,10 @@ Bieżące ustawienie to {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Use &lt;l0/>&lt;l1/> to open the dialog.</seg>
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to open the dialog.</seg>
       </tuv>
       <tuv lang="pl" changeid="sandraczapska" changedate="20230330T161110Z" creationid="sandraczapska" creationdate="20230330T161110Z">
-        <seg>Use &lt;l0/>&lt;l1/> to open the dialog.</seg>
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to open the dialog.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13655,10 +13655,10 @@ Bieżące ustawienie to {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Use Tools > Check Issues... to correct the tag errors and try again.</seg>
+        <seg>Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
       </tuv>
       <tuv lang="pl" changeid="klaudiakempa" changedate="20230331T182147Z" creationid="klaudiakempa" creationdate="20230331T182147Z">
-        <seg>Wejdź w Narzędzia > Wyświetlanie błędów... aby poprawić błędne tagi i spróbuj ponownie.</seg>
+        <seg>Wejdź w Narzędzia &gt; Wyświetlanie błędów... aby poprawić błędne tagi i spróbuj ponownie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14436,11 +14436,11 @@ utworzenia katalogu konfiguracyjnego.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>team init &lt;source language> &lt;target language>
+        <seg>team init &lt;source language&gt; &lt;target language&gt;
 	  Team project tool.</seg>
       </tuv>
       <tuv lang="pl" changeid="NBany" changedate="20230513T153914Z" creationid="NBany" creationdate="20230513T133549Z">
-        <seg>team init &lt;język źródłowy> &lt;język docelowy>
+        <seg>team init &lt;język źródłowy&gt; &lt;język docelowy&gt;
 	  Zarządzanie projektem zespołowym.</seg>
       </tuv>
     </tu>
@@ -14618,10 +14618,10 @@ utworzenia katalogu konfiguracyjnego.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>{1}: &lt;b>{2}&lt;/b></seg>
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="biegajacy-zajac" changedate="20230321T164544Z" creationid="biegajacy-zajac" creationdate="20230321T164544Z">
-        <seg>{1}: &lt;b>{2}&lt;/b></seg>
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
       </tuv>
     </tu>
     <tu>
