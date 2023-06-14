@@ -5144,10 +5144,9 @@ MRK: Najlepiej użyć polskiego ekwiwalentu.</note>
 Gossamer threads hold you back
 404 not found</seg>
       </tuv>
-      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T170106Z" creationid="luizakolosa" creationdate="20230331T164120Z">
-        <seg>Exciting help page
-Gossamer threads hold you back
-404 not found</seg>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230614T183659Z" creationid="luizakolosa" creationdate="20230331T164120Z">
+        <seg>Pomocy dziś nie otrzymasz
+404 błąd cię powstrzyma</seg>
       </tuv>
     </tu>
     <tu>
@@ -13966,9 +13965,9 @@ Zarówno w wyszukiwaniu dokładnym, jak i słów kluczowych, można użyć „*"
 Scatt'ring petals to the wind:
 Your page is not found</seg>
       </tuv>
-      <tuv lang="PL" changeid="luizakolosa" changedate="20230614T183423Z" creationid="sandraczapska" creationdate="20230330T152121Z">
-        <seg>Płatki lilii potargał wiatr
-Your page is not found</seg>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230614T183728Z" creationid="sandraczapska" creationdate="20230330T152121Z">
+        <seg>,Płatki lilii potargał wiatr
+Your page is not </seg>
       </tuv>
     </tu>
     <tu>
