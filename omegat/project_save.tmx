@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13639,8 +13639,8 @@ Bieżące ustawienie to {0}MB;</seg>
       <tuv lang="EN">
         <seg>Use Aggressive &amp;Font Fallback</seg>
       </tuv>
-      <tuv lang="PL" changeid="klaudiakempa" changedate="20230530T125041Z" creationid="klaudiakempa" creationdate="20230331T171948Z">
-        <seg>Użyj Aggressive &amp;Font Fallback</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230616T190948Z" creationid="klaudiakempa" creationdate="20230331T171948Z">
+        <seg>Wymuś użycie czcionki zastępczej</seg>
       </tuv>
     </tu>
     <tu>
