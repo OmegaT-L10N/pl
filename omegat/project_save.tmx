@@ -5376,6 +5376,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to load the project because the specified source folder contains a symbolic or hard link that points back to itself or one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230616T193648Z" creationid="klaudiakempa" creationdate="20230616T193648Z">
+        <seg>Nie udało się załadować projektu, ponieważ określony folder źródłowy zawiera dowiązania symboliczne i twarde, które wskazują na niego samego lub jeden z jego podfolderów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to load the project due to a file access issue.</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230616T192230Z" creationid="klaudiakempa" creationdate="20230616T192230Z">
