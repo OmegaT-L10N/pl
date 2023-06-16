@@ -7648,8 +7648,8 @@ wewnątrz katalogu konfiguracyjnego nie było możliwe.</seg>
       <tuv lang="EN">
         <seg>Make sure you have the correct permissions or that you can access the files if they are stored in the cloud.</seg>
       </tuv>
-      <tuv lang="PL" changeid="Urszula" changedate="20230529T180556Z" creationid="Urszula" creationdate="20230529T180556Z">
-        <seg>Make sure you have the correct permissions or that you can access the files if they are stored in the cloud.</seg>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230616T192526Z" creationid="Urszula" creationdate="20230529T180556Z">
+        <seg>Upewnij się, że masz odpowiednie uprawnienia lub że możesz uzyskać dostęp do plików, jeśli są one przechowywane w chmurze.</seg>
       </tuv>
     </tu>
     <tu>
