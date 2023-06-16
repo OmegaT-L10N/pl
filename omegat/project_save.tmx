@@ -7654,6 +7654,14 @@ wewnątrz katalogu konfiguracyjnego nie było możliwe.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure all links are outside the source folder and subfolders.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230616T193906Z" creationid="klaudiakempa" creationdate="20230616T193906Z">
+        <seg>Upewnij się, że wszystkie łącza znajdują się poza folderem źródłowym i podfolderami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make sure you have the correct permissions or that you can access the files if they are stored in the cloud.</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230616T192526Z" creationid="Urszula" creationdate="20230529T180556Z">
