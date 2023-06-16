@@ -5376,10 +5376,34 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to load the project due to a file access issue.</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230616T192230Z" creationid="klaudiakempa" creationdate="20230616T192230Z">
+        <seg>Nie udało się załadować projektu z powodu problemu z dostępem do pliku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to load the specified project!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230616T192017Z" creationid="klaudiakempa" creationdate="20230616T192017Z">
+        <seg>Nie udało się załadować projektu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
       <tuv lang="PL" changeid="klaudiakempa" changedate="20230331T181628Z" creationid="klaudiakempa" creationdate="20230331T181628Z">
         <seg>Wczytanie pamięci tłumaczeniowej {0} do projektu nie powiodło się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to load translation memory {0} for the project!</seg>
+      </tuv>
+      <tuv lang="PL" changeid="klaudiakempa" changedate="20230616T191905Z" creationid="klaudiakempa" creationdate="20230616T191905Z">
+        <seg>Nie udało się załadować pamięci tłumaczeniowej {0} do projektu!</seg>
       </tuv>
     </tu>
     <tu>
