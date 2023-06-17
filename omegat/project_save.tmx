@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_924066809" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12405,10 +12405,10 @@ katalog.</seg>
 Lies beyond our perception
 But others await</seg>
       </tuv>
-      <tuv lang="PL" changeid="luizakolosa" changedate="20230331T170113Z" creationid="luizakolosa" creationdate="20230331T170113Z">
-        <seg>The help page you seek
-Lies beyond our perception
-But others await</seg>
+      <tuv lang="PL" changeid="luizakolosa" changedate="20230617T122842Z" creationid="luizakolosa" creationdate="20230331T170113Z">
+        <seg>Pomoc, której poszukujesz
+Leży poza zasięgiem ludzkiej świadomości,
+Lecz inne czekają.</seg>
       </tuv>
     </tu>
     <tu>
