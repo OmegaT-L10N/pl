@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_c34ef2f2b" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Przeglądaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Commit Source Files</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230303T092841Z" creationid="d55" creationdate="20230303T092841Z">
+        <seg>Potwierdź pliki źródłowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Commit Target Files</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230303T092853Z" creationid="d55" creationdate="20230303T092853Z">
+        <seg>Potwierdź pliki docelowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Create Alternative Translation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Utwórz alternatywne tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>File Filters</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Filtry plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Insert Next Missing Tag</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wprowadź następny brakujący znacznik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Left-to-Right Embedding (LRE U+202A)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="akossek" changedate="20230414T082209Z" creationid="akossek" creationdate="20230414T082209Z">
+        <seg>Osadzanie od lewej do prawej (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="akossek" changedate="20230414T082133Z" creationid="akossek" creationdate="20230414T082133Z">
+        <seg>Znacznik od lewej do prawej (LRM U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Mark Glossary Matches</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230303T095844Z" creationid="d55" creationdate="20230303T095844Z">
+        <seg>Zaznacz dopasowania z glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Other Options:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pozostałe opcje:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="akossek" changedate="20230414T082303Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pokaż formatowanie kierunkowe (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Right-to-Left Embedding (RLE U+202B)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="akossek" changedate="20230414T082220Z" creationid="akossek" creationdate="20230414T082220Z">
+        <seg>Osadzanie od prawej do lewej (RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Right-to-Left Mark (RLM U+200F)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="akossek" changedate="20230414T082140Z" creationid="akossek" creationdate="20230414T082140Z">
+        <seg>Znacznik od prawej do lewej (RLM U+200F)</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
