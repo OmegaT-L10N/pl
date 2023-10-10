@@ -7,10 +7,1171 @@
     <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
+        <seg>#Files</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>#Pliki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;About...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;O programie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Access Project Contents</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Przejrzyj zawartość projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>&amp;Dodaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Add...</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>&amp;Dodaj…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Align Files...</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>&amp;Dopasuj pliki…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211643Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zezwól, aby tłumaczenie było t&amp;akie samo jak źródło</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Always</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Zawsze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Apply to all</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T100256Z" creationid="d55" creationdate="20230310T100256Z">
+        <seg>&amp;Zastosuj do wszystkich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Automatically Fetch Translations</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Pobieraj tłumaczenia automatycznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Back in History</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230414T085648Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wste&amp;cz w historii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Bookmarks</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Zakładki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Browse...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Wybierz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>&amp;Anuluj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230303T093122Z" creationid="d55" creationdate="20230303T093122Z">
+        <seg>&amp;Sprawdź aktualizacje...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>&amp;Zamknij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Comments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Komentarze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Cycle</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T210230Z" creationid="d55" creationdate="20230310T094122Z">
+        <seg>&amp;Kolejna opcja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Dictionaries</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Słowniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Edit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Edytuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Edit...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>&amp;Edytuj...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Editor...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Edytor...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Empty lines</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Pustej linii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Enable history completion</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230331T083311Z" creationid="d55" creationdate="20230303T095024Z">
+        <seg>&amp;Włącz uzupełnianie słowa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Exact search</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Wyszukiwanie dokładne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Files</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Pliki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Filter</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>&amp;Filtruj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>&amp;Zakończ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Forward in History</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;W przód w historii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Glossaries</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Glosariusze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Go To</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230414T090331Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Przejdź &amp;do</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230414T090411Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>P&amp;omoc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;In translation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;W tłumaczeniu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Insert</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>&amp;Wstaw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Wstaw dopasowanie lub zaznaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Keyword search</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Szukaj słów kluczowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Last Changes...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Ostatnie zmiany...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;License</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>&amp;Licencja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Line breaks</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Nowej &amp;linii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Match Statistics</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JG" changedate="20230414T083554Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Statystyki d&amp;opasowań</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Minimal similarity:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Minimalna zgodność:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Move Down</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Przesuń n&amp;iżej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Name/ID:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Imię/ID:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Never</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Nigdy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;New...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Nowy...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Next Segment</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Następny &amp;segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Notes</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Notatki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Open Script...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Otwórz skrypt...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Open...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Otwórz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Options</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Ustawienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Preferences...</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>&amp;Preferencje...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Prefix:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wstaw &amp;przed:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Previous Segment</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230414T085538Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pop&amp;rzedni segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Project</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>&amp;Projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Properties...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Właściwości...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Quit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Zakończ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Regular expressions</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Wyrażenie regularne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Remove</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>&amp;Usuń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Remove Filter</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>&amp;Usuń filtrowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Replace</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>&amp;Zastąp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Run</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Uruchom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Save</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zapi&amp;sz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Save As...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>&amp;Zapisz jako...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Search</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>&amp;Szukaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Search for Selection</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Szukaj zaznaczenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Segment Number...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230414T085454Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>N&amp;umer segmentu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Pokaż sugestie automatycznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Source (segment {0}):</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Źródło (segment {0}):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Source Files</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Pliki źródłowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Statistics</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Statystyki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Store for this session only</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T092011Z" creationid="d55" creationdate="20230310T092011Z">
+        <seg>&amp;Przechowuj tylko dla tej sesji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Target Files</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Pliki docelowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Title Case</seg>
+      </tuv>
+      <tuv lang="pl" changeid="akossek" changedate="20230414T081837Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Dużą &amp;Pierwszą Literę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Tools</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Narzędzia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Translated</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Przetłumaczone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Undo Changes</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>&amp;Cofnij zmiany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;Untranslated Segments Only</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Tylko nieprzetłumaczone segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&amp;View</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230303T093503Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Widok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>(+{0} more)</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>(+{0} więcej)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>(X)HTML Filter Options</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Opcje Filtra (X)HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>(close tag)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>(zamknięcie znacznika)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>(comment tag)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>(znacznik komentarza)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>(empty tag)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>(pusty znacznik)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&lt;EMPTY></seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&lt;PUSTE></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&lt;html>Current version: &lt;b>{0}&lt;/b>&lt;/html></seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T095203Z" creationid="d55" creationdate="20230310T095203Z">
+        <seg>&lt;html>Bieżąca wersja: &lt;b>{0}&lt;/b>&lt;/html></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&lt;html>Update channel: &lt;b>{0}&lt;/b>&lt;/html></seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T095304Z" creationid="d55" creationdate="20230310T095304Z">
+        <seg>&lt;html>Kanał aktualizacji: &lt;b>{0}&lt;/b>&lt;/html></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>A&amp;dd</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>D&amp;odaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Active segment source</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Aktywny segment (źródło)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Active segment source text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211910Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Aktywny segment (źródło) – tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Active segment target</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Aktywny segment (tłumaczenie)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Active segment target text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211911Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Aktywny segment (tłumaczenie) – tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Add Glossary Entry</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Dodaj wpis do glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Add Pattern</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Dodaj wzorzec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Added {0} glossary entries from {1}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Dodano {0} wpisów glosariusza z {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Allo&amp;w tag editing</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T213855Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zezwól na &amp;edycję znaczników</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Allow translated tags to be in a di&amp;fferent order</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zezwól na inny szyk dla tłumaczonych zn&amp;aczników</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>An error occurred</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wystąpił błąd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T093842Z" creationid="d55" creationdate="20230310T093842Z">
+        <seg>Wygląd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Arrays must not be null</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Tablica nie może być pusta!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Aut&amp;hor:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Au&amp;tor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Auto-Completion</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Autouzupełnianie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Automatically check for updates</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T095351Z" creationid="d55" creationdate="20230310T095351Z">
+        <seg>Automatycznie sprawdzaj aktualizacje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Available script engines:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Dostępne silniki skryptowe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Back to the initial segment on close</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Po zamknięciu powróć do ostatniego segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Backed up preferences to {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Preferencje zapisane w {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Tło</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Bad folder name {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Niewłaściwa nazwa folderu {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Bad regular expression!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Niewłaściwe wyrażenie regularne!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
         <seg>Browse</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Przeglądaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>C&amp;ase sensitive</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>U&amp;względnij wielkość liter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>C&amp;opy All Data to Clipboard</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>S&amp;kopiuj wszystkie dane do schowka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Anuluj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Cannot access glossary folder!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Folder glosariusza niedostępny!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Cannot create folder for translated files:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Nie można utworzyć folderu dla plików docelowych:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Cannot read selected script file.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Nie można wczytać wybranego skryptu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Catalan</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Kataloński</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Changed &amp;before:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zmiana&amp;po:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Changed after:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zmiana przed:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Liczba znaków (ze spacjami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Liczba znaków (bez spacji)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Check &amp;Issues...</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Sprawdź &amp;problemy...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Check &amp;automatically</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T095607Z" creationid="d55" creationdate="20230310T095607Z">
+        <seg>Sprawdzaj &amp;automatycznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T095359Z" creationid="d55" creationdate="20230310T095359Z">
+        <seg>Sprawdź teraz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Chinese</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Chiński</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Clo&amp;se</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zam&amp;knij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Co&amp;mments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Ko&amp;mentarze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Colours</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T093953Z" creationid="d55" creationdate="20230310T093953Z">
+        <seg>Kolory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Comme&amp;nts</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Komenta&amp;rze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Comment:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Komentarz:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Comments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Komentarze</seg>
       </tuv>
     </tu>
     <tu>
@@ -34,10 +1195,576 @@
     <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zatwierdź</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Confused by false start of comment tag!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wprowadzony w błąd przez nieprawidłowe otwarcie znacznika komentarza!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T092137Z" creationid="d55" creationdate="20230310T092137Z">
+        <seg>Kopiuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Could not create the specified folder.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Tworzenie folderu nie powiodło się.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Create &amp;Glossary Entry...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Utwórz &amp;wpis do glosariusza...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
         <seg>Create Alternative Translation</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Utwórz alternatywne tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Create Glossary Entry</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Utwórz wpis do glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Create MED Project...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230303T093126Z" creationid="d55" creationdate="20230303T093126Z">
+        <seg>Utwórz projekt MED...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Created by: {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Utworzony przez: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Aktualne użycie pamięci przez maszynę wirtualną: {0}MB; z tego wolnej pamięci: {1}MB; maksymalnie dostępna: {2}MB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Custom Colours</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Kolory niestandardowe OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Custom Colours Selection</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wybór kolorów niestandardowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T092145Z" creationid="d55" creationdate="20230310T092145Z">
+        <seg>Wytnij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Domyślny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T093707Z" creationid="d55" creationdate="20230310T093707Z">
+        <seg>Opis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Dictionary</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Słownik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Dictionary File Folder</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Folder plików słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Dictionary Files Folder</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Folder plików słownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Display &amp;Source Segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wyświetl &amp;segmenty źródłowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Display &amp;tags</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Wyświetl znaczniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Display:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wyświetl:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>To okno wyświetla wpisy ze słownika znalezione w jego plikach w folderze /dictionary/, pod warunkiem, że istnieją one w segmencie źródłowym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Do you really want to quit?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Chcesz zakończyć pracę i wyjść z programu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Dock</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zakotwicz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download Team Project</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kos Ivantsov" changedate="20231010T082219Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pobierz &amp;plik zespołowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Dutch</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Holenderski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>E&amp;xclusions...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>W&amp;yjątki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>E&amp;xport Selection</seg>
+      </tuv>
+      <tuv lang="pl" changeid="simon.kleist" changedate="20230421T081053Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Eksportuj zaznaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>ERROR: {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>BŁĄD: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Edytuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Edit Filter Patterns</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zmień wzorzec dla filtra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Edit Pattern</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zmień wzorzec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Editor - {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211908Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Edytor – {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Editor Options</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Parametry edytora...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Enable history &amp;prediction</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20230331T083654Z" creationid="d55" creationdate="20230303T095035Z">
+        <seg>Włącz &amp;podpowiadanie kolejnego słowa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Aktywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Encoding</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Kodowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Encountered illegal \u sequence</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211537Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Napotkano niedozwolony ciąg \u</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>End of stream encountered without finding close block!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Nastąpił koniec strumienia, ale nie znaleziono bloku zamykającego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Angielski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Enter a source term, a target term and a comment:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wprowadź wyrażenie źródłowe, docelowe oraz komentarz:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Enter the segment number:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wpisz numer segmentu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Błąd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Error creating project!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Błąd przy tworzeniu projektu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Error in file</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Błąd w pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Error in file {0}, line {1}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Błąd w pliku {0}, w linii {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Error on application startup</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T092212Z" creationid="d55" creationdate="20230310T092212Z">
+        <seg>Błąd przy starcie aplikacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Error reading TMX level2 at line {0} column {1}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Błąd przy wczytywaniu TMX level2 w linii {0} kolumny {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Error saving project file!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Błąd przy zapisywaniu pliku!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Error saving segmentation rules configuration:</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Błąd przy zapisywaniu ustawień segmentacji:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Error while reading MT results</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T091148Z" creationid="d55" creationdate="20230310T091148Z">
+        <seg>Błąd podczas odczytywania wyników TM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Error {0}: {1}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T091827Z" creationid="d55" creationdate="20230310T091827Z">
+        <seg>Błąd {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Escaped binary char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Binarny znak specjalny zawiera nieprawidłowe dane ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Escaped character never terminated!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Znak specjalny nie zakończony!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Escaped decimal char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Dziesiętny znak specjalny zawiera nieprawidłowe dane ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Exact match:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Dokładne dopasowanie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Exception while parsing:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Napotkano wyjątek przy analizowaniu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Exclude orphan segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pomiń segmenty osierocone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Exclusion Patterns</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wzorce wyjątków</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>External TMX Options</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Parametry zewnętrznego TMX-a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Failed to back up preferences file.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zapisywanie preferencji nie powiodło się.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Failed to create project!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Tworzenie nowego projektu nie powiodło się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Fatal error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211630Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Błąd krytyczny przy analizie linii {0}, kolumny {1}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Plik</seg>
       </tuv>
     </tu>
     <tu>
@@ -52,10 +1779,569 @@
     <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Nazwa pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>File locations</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T212517Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Lokalizacje plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>File {0} does not exist!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Plik {0} nie istnieje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>File {0}: {1}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Plik {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Filename</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Nazwa pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Filtruj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Filter '{0}' could not be loaded from '{1}'</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Filtr '{0}' nie mógł zostać załadowany z '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Filter:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Filtruj:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Finnish</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Fiński</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Floating '?' character not tied to '>'!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wolny znak '?' niezwiązany z '>'!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Folder does not exist</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Folder nie istnieje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Font</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Czcionka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Foote&amp;rs</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Stopk&amp;i</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>For all files:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wszystkie pliki:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Found in:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230303T095858Z" creationid="d55" creationdate="20230303T095858Z">
+        <seg>Znaleziono w:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>French</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Francuski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>From 100% memory</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211930Z" creationid="d55" creationdate="20230310T100958Z">
+        <seg>Z pamięci – 100%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>From ICE memory</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T100942Z" creationid="d55" creationdate="20230310T100942Z">
+        <seg>Z pamięci ICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>From auto memory</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Z auto pamięci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>From enforced memory</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T101114Z" creationid="d55" creationdate="20230310T101114Z">
+        <seg>Z pamięci wymuszonej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>From memory</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Z pamięci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Full text, including tags and numbers</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pełny tekst ze znacznikami i liczbami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Dopasowania rozmyte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T091251Z" creationid="d55" creationdate="20230310T091251Z">
+        <seg>Ogólne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>German</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Niemiecki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Glossary</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Glosariusz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Glossary Files Folder</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Folder plików glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Glossary file: {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Plik glosariusza: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Glossary note</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211831Z" creationid="d55" creationdate="20230310T101248Z">
+        <seg>Glosariusz – notatka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Glossary source</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211831Z" creationid="d55" creationdate="20230310T101229Z">
+        <seg>Glosariusz – źródło</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Glossary translation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211831Z" creationid="d55" creationdate="20230310T101238Z">
+        <seg>Glosariusz – tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>HHC file too big!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Plik HHC zbyt duży!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>HTML, XHTML, ODF and Infix segmentation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>segmentacja HTML, XHTML, ODF oraz Infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>He&amp;aders</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Na&amp;główki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Help &amp; Manual</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pomoc i podręcznik użytkownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Hide '{0}'</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T092236Z" creationid="d55" creationdate="20230310T092236Z">
+        <seg>Ukryj '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230303T093609Z" creationid="d55" creationdate="20230303T093609Z">
+        <seg>Historia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <note>Wo taucht das auf?</note>
+      <tuv lang="en">
+        <seg>History Completions</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T204557Z">
+        <seg>Uzupełniane słowa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>History Predictions</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T205154Z" creationid="SvK" creationdate="20231009T205154Z">
+        <seg>Podpowiadane słowa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Hyperlinks</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Hiperłącza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>I&amp;nsert Source</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wstaw &amp;tekst źródłowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>IOException encountered:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Napotkano wyjątek wejścia/wyjścia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>In comments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>W komentarzach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>In notes</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>W notatkach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>In so&amp;urce</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>W źr&amp;ódle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Individual File Statistics:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Statystyka poszczególnych plików:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Wprowadź następny brakujący znacznik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Insert Tag {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wstaw znacznik {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Insert the &amp;best fuzzy match</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wstaw najlepsze &amp;dopasowanie rozmyte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Insert the &amp;source text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Tek&amp;st źródłowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Install</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Instaluj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Invalid file format</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zły format pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Włoski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Item:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T100234Z" creationid="d55" creationdate="20230310T100234Z">
+        <seg>Element:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Japanese</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Japoński</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Jar used for plugins: {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Jar użyty dla wtyczek: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Jumping to last edited segment...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Przeskakiwanie do ostatnio edytowanego segmentu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Key:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wyrażenie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>L&amp;og...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230303T093102Z" creationid="d55" creationdate="20230303T092852Z">
+        <seg>D&amp;ziennik...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>LCK</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Kursor zablokowany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Languages</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Języki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Last modified by {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Ostatnia modyfikacja przez {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Latest</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T095335Z" creationid="d55" creationdate="20230310T095335Z">
+        <seg>Najnowszy</seg>
       </tuv>
     </tu>
     <tu>
@@ -79,10 +2365,568 @@
     <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
+        <seg>Line length:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Długość linii:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Loading TMX files...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wczytywanie plików TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Loading glossary {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wczytywanie glosariusza {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Loading project...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231006T171835Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wczytywanie projektu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Loading: {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wczytywanie:{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Położenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Machine Translation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Tłumaczenie maszynowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
         <seg>Mark Glossary Matches</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230303T095844Z" creationid="d55" creationdate="20230303T095844Z">
         <seg>Zaznacz dopasowania z glosariusza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Mask</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Maska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Match Statistics</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Statystyki dopasowań</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Match Statistics per &amp;File</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JG" changedate="20230414T082105Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Statystyki dopasowań dla p&amp;liku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Match Statistics per File</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Statystyki dopasowań dla pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Maximize</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Maksymalizuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Maximum line length:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Maksymalna długość linii:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Maximum number of finds has been reached ({0})</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Osiągnięto maksymalną ilość wyników wyszukiwania{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Minimize</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Minimalizuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Modification info</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Informacje o modyfikacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Modification info text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211928Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Informacje o modyfikacji – tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>More</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Więcej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Move &amp;Down</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Przesuń &amp;niżej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Move &amp;First</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Jako &amp;pierwsze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Move &amp;Last</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Jako &amp;ostatnie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Move &amp;Up</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Przesuń w&amp;yżej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Move Do&amp;wn</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Przesuń &amp;niżej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Move U&amp;p</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Przesuń &amp;wyżej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Multiple Translations</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Tłumaczenia wielokrotne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>MyMemory (human)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>MyMemory (człowiek)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>MyMemory (machine)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>MyMemory (maszyna)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T093702Z" creationid="d55" creationdate="20230310T093702Z">
+        <seg>Nazwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T093313Z" creationid="d55" creationdate="20230310T093313Z">
+        <seg>Następny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Next &amp;Translated Segment</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Następny &amp;przetłumaczony segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Next &amp;Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Następny &amp;nieprzetłumaczony segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Next N&amp;ote</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Następna n&amp;otatka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Next Uni&amp;que Segment</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Nastepny uni&amp;kalny segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>No match:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Brak dopasowania:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>No matches returned by search.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wyszukiwanie nie przyniosło żadnych wyników.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>No script selected.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Nie wybrano skryptu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>No tags and no numbers</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Bez znaczników i bez liczb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Non-breakable spaces</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Twarde spacje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Not a valid XML file!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Nieprawidłowy plik XML!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Notification (flash)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T095110Z" creationid="d55" creationdate="20230310T095110Z">
+        <seg>Powiadomienie (flash)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Notification (steady)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T095018Z" creationid="d55" creationdate="20230310T095018Z">
+        <seg>Powiadomienie (stałe)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Notify Me When a Segment Has Multiple Translations</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T092056Z" creationid="d55" creationdate="20230310T092056Z">
+        <seg>Powiadom mnie, gdy segment ma wiele tłumaczeń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Now</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Teraz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Number of matching segments:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Liczba wyników:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Number of unique segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211355Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Liczba segmentów unikalnych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>O&amp;ptions...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>O&amp;pcje...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="magdalenasek" changedate="20230414T080311Z" creationid="magdalenasek" creationdate="20230414T080238Z">
+        <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>OmegaT Project Files</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pliki projektu OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>OmegaT Project Folder</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Folder projektu OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>OmegaT classic theme</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T095541Z" creationid="d55" creationdate="20230310T095541Z">
+        <seg>OmegaT motyw klasyczny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>OmegaT default theme</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T095531Z" creationid="d55" creationdate="20230310T095531Z">
+        <seg>OmegaT motyw domyślny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>OmegaT license</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Licencja OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Only if (X)HTML file has a &amp;header</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Tylko gdy plik (X)HTML ma &amp;nagłówek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Tylko gdy plik (X)HTML ma d&amp;eklarację strony kodowej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Open MED Project...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230303T093055Z" creationid="d55" creationdate="20230303T093055Z">
+        <seg>Otwórz projekt MED...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Open Project</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Otwórz projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Open Source File</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Otwórz plik źródłowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Open Source File Location</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Otwórz lokację pliku źródłowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Open Target File</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Otwórz plik docelowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Open Target File Location</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Otwórz lokację pliku docelowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Ustawienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Orphan segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Segmenty osierocone</seg>
       </tuv>
     </tu>
     <tu>
@@ -97,10 +2941,352 @@
     <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="en">
+        <seg>PO Filter Options</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Ustawienia filtra PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Paragraph delimitation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231006T170518Z" creationid="d55" creationdate="20230310T101008Z">
+        <seg>Granica akapitu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Parse error encountered reading preferences file!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>UWAGA: napotkano błąd interpretacji przy odczycie pliku preferencji!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Password:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Hasło:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T092141Z" creationid="d55" creationdate="20230310T092141Z">
+        <seg>Wklej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Path:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Ścieżka:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Plugin successfully loaded from class '{0}'</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wtyczka została pomyślnie załadowana z klasy '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Polski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
         <seg>Pop Directional Formatting (PDF U+202C)</seg>
       </tuv>
       <tuv lang="pl" changeid="akossek" changedate="20230414T082303Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Pokaż formatowanie kierunkowe (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Preferences</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T094052Z" creationid="d55" creationdate="20230310T094052Z">
+        <seg>Preferencje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Preferences - {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211934Z" creationid="magdalenasek" creationdate="20230331T090808Z">
+        <seg>Preferencje – {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Preferences system save operation failed!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zapisanie systemu preferencji nie powiodło się</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pro&amp;jekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Project Statistics</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Statystyka projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Project saved</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Projekt zapisany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Provider</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T091247Z" creationid="d55" creationdate="20230310T091247Z">
+        <seg>Dostawca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>R&amp;emove</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Usuń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>R&amp;eplace with Match or Selection</seg>
+      </tuv>
+      <tuv lang="pl" changeid="akossek" changedate="20230414T081208Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Zastąp dopasowaniem lub zaznaczeniem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Re&amp;place All</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Za&amp;stąp wszystkie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Re&amp;place with Source</seg>
+      </tuv>
+      <tuv lang="pl" changeid="akossek" changedate="20230414T081302Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zastą&amp;p tekstem źródłowym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Reading of TMX file complete</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wczytywanie pliku TMX zakończone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Recursi&amp;ve search</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Przeszuki&amp;wanie rekursywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Register Identical Translation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Oznacz jako identyczne tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Znaków pozostało (ze spacjami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Znaków pozostało (bez spacji)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Remaining Segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Segmentów pozostało</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Remaining Words</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wyrazów pozostało</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Remaining:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pozostało:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Repetitions from other files:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Powtórzenia w pozostałych plikach:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Repetitions within this file:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Powtórzenia w tym pliku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Repetitions:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Powtórzenia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Zastąp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Replace Translation with Match or Selection</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zastąp tłumaczenie dopasowaniem lub zaznaczeniem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Replace Translation with Text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zastąp tłumaczenie tekstem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Replace with &amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="akossek" changedate="20230414T081224Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zamień używając tłumaczenia &amp;maszynowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zamień na:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Restart OmegaT to apply these changes</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T091719Z" creationid="d55" creationdate="20230310T091719Z">
+        <seg>Uruchom ponownie OmegaT, aby zastosować zmiany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Restore</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Przywróć</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Restore De&amp;faults</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Przywróć do&amp;myślne</seg>
       </tuv>
     </tu>
     <tu>
@@ -119,6 +3305,1059 @@
       </tuv>
       <tuv lang="pl" changeid="akossek" changedate="20230414T082140Z" creationid="akossek" creationdate="20230414T082140Z">
         <seg>Znacznik od prawej do lewej (RLM U+200F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Running on Java {0} ({1}-bit)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Uruchomione w środowisku Java {0} ({1}-bit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Russian</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Rosyjski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>S&amp;pace matches nbsp</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T213340Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>U&amp;względnij spację niełamiącą</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Sample Text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Tekst przykładowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Save Script</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zapisz skrypt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Saving project...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zapisuję projekt...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Scriptin&amp;g...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Skrypt&amp;y...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Scripting</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Skrypty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Scripts Folder:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Folder skryptów:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T210312Z" creationid="d55" creationdate="20230310T092636Z">
+        <seg>Szukaj w słownikach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Search for:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wyszukaj:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Search in</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Szukaj w</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Segment marker background</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211914Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Znacznik segmentu – tło</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Segment marker text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211913Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Znacznik segmentu – tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Segmentation method: {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Metoda segmentacji: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Segmentów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Segments with notes</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Segment z notatkami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Segments with notes text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211918Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Segment z notatkami – tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Wybierz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Select &amp;Next Match</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wybierz &amp;następne dopasowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Select &amp;Previous Match</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wybierz &amp;poprzednie dopasowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Select Fol&amp;der</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wybierz fol&amp;der</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Select Mat&amp;ch</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wybierz dop&amp;asowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Select Match #&amp;1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wybierz dopasowanie nr &amp;1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Select Match #&amp;2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wybierz dopasowanie nr &amp;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Select Match #&amp;3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wybierz dopasowanie nr &amp;3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Select Match #&amp;4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wybierz dopasowanie nr &amp;4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Select Match #&amp;5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wybierz dopasowanie nr &amp;5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Select Scripts Folder</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Folder skryptów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Selected Engine: {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wybrany silnik: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>&amp;Rozmiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Sort fuzzy matches by:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Sortuj dopasowania rozmyte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Źródło</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Source Files Folder</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Folder plików źródłowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Source file loading complete</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wczytywanie plików źródłowych zakończono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Source language: {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Język źródłowy: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Source of Selected &amp;Match</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Źródło wybranego &amp;dopasowania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Source segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Segment (źródło)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Source segments text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211920Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Segment (źródło) – tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Source term:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wyrażenie źródłowe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Hiszpański</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Spellcheck</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Sprawdzanie pisowni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Spellchecker</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230303T093408Z" creationid="d55" creationdate="20230303T093408Z">
+        <seg>Sprawdzanie pisowni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Spellchecker Setup</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Parametry sprawdzania pisowni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T095324Z" creationid="d55" creationdate="20230310T095324Z">
+        <seg>Standardowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Statistics</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Statystyki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Stemming, no tags and no numbers</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Skracanie, bez znaczników i bez liczb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Swedish</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Szwedzki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>T&amp;M-y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>TM Matching Options</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T092323Z" creationid="d55" creationdate="20230310T092323Z">
+        <seg>Opcje dopasowywania TM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Tags</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Znaczniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Target term:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wyrażenie docelowe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Terminology</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T101122Z" creationid="d55" creationdate="20230310T101122Z">
+        <seg>Terminologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Text Filter Options</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Opcje filtra tekstu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Text Replace</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Zamiana tekstu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Text Search</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Szukaj w tekście</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Text files segmentation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Segmentacja plików tekstowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The source file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Język pliku źródłowego jest nieprawidłowy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Theme:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230303T094512Z" creationid="d55" creationdate="20230303T094512Z">
+        <seg>Motyw:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>This is the way text will look when displayed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Tak będzie wyglądał wyświetlany tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>This project</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T092335Z" creationid="d55" creationdate="20230310T092335Z">
+        <seg>Ten projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Total Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Całkowita liczba znaków (ze spacjami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Total Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Całkowita liczba znaków (bez spacji)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Total Segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wszystkie segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Total Words</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Całkowita ilość wyrazów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Total number of segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Całkowita liczba segmentów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Total:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Całkowita liczba:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Trans&amp;lated or untranslated</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Przet&amp;łumaczone lub nieprzetłumaczone </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Translate the following elements:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Przetłumacz następujące elementy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Translated Files Folder</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Folder plików docelowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Translated segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Przetłumaczony segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Translated segments text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211925Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Przetłumaczony segment – tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Translated unique segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211402Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Przetłumaczone segmenty unikalne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Folder plików pamięci tłumaczeniowej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Translation last modified by {0} on {1} at {2}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Ostatnia modyfikacja tłumaczenia przez {0} w {1} na {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Translation unit encountered before TMX header.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Błąd: Jednostka tłumaczenia przed nagłówkiem TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Translation:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Tłumaczenie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>U&amp;ntranslated</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>N&amp;ieprzetłumaczone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>UNL</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Kursor odblokowany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Unable to build new TMX file!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Utworzenie nowego pliku TMX jest niemożliwe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Unable to parse filters configuration file</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Błąd przy analizowaniu pliku konfiguracyjnego filtrów:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Unable to read file</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Nie można odczytać pliku!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Unable to save filters configuration file</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Błąd przy zapisywaniu konfiguracji filtrów:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Undock</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Odczep</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Unexpected char {0} ({1})!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Nieoczekiwany znak {0} ({1})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Unique Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Unikalne wyrazy (ze spacjami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Unique Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Unikalne wyrazy (bez spacji)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Unikalnych wyrazów pozostało (ze spacjami)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Unikalnych wyrazów pozostało (bez spacji)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Unique Remaining Segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Unikalnych segmentów pozostało</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Unique Remaining Words</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Unikalnych wyrazów pozostało</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Unique Remaining:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211421Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Unikalnych pozostało:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Unique Segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Unikalne segmenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Unique Words</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Unikalne wyrazy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Unique segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Segmenty unikalne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Unique:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211425Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Unikalnych ogólnie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Unknown plugin type '{0}' in '{1}'</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Nieznany typ wtyczki '{0}' w '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Unsupported XML version {0}!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211525Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Nieobsługiwana wersja XML {0}!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Unsupported file encoding</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Nieobsługiwane kodowanie pliku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Unsupported project file version ({0})!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Nieobsługiwana wersja pliku projektu ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Untranslated segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Nieprzetłumaczony segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Untranslated segments text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211924Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Nieprzetłumaczony segment – tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Updates</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230310T095142Z" creationid="d55" creationdate="20230310T095142Z">
+        <seg>Aktualizacje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Use as Default Translation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Ustal jako domyślne tłumaczenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>User:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Użytkownik:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Version: {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wersja: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>View</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230303T093319Z" creationid="d55" creationdate="20230303T093319Z">
+        <seg>Widok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Uwaga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Warning on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SvK" changedate="20231009T211625Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Ostrzeżenie przy analizie linii {0}, kolumny {1}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Kiedy pojedynczy plik posiada więcej segmentów, dodatkowe zostaną wczytane "w locie" podczas przewijania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Whitespaces</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
+        <seg>Białe znaki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Words</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wyrazów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>You must enter a number between 1 and {0}.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Musisz wprowadzić numer od 1 do {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>all matching segments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>wszystkie rezultaty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>file names</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>nazwy plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>{0} +{1} more</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>{0} +{1} więcej</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
