@@ -4,6 +4,39 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_c34ef2f2b" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kos Ivantsov" changedate="20231010T084301Z" creationid="Kos Ivantsov" creationdate="20231010T084301Z">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kos Ivantsov" changedate="20231010T083823Z" creationid="Kos Ivantsov" creationdate="20231010T083823Z">
+        <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Help > User Manual for details, including available Java options.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kos Ivantsov" changedate="20231010T083905Z" creationid="Kos Ivantsov" creationdate="20231010T083905Z">
+        <seg>Zobacz instrukcje w podręczniku użytkownika > Podręcznik użytkownika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Usage: java -jar [&lt;java options>] OmegaT.jar [&lt;OmegaT options>] [&lt;project path>]</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Kos Ivantsov" changedate="20231010T083842Z" creationid="Kos Ivantsov" creationdate="20231010T083842Z">
+        <seg>Zastosowanie: java -jar [&lt;opcje java>] OmegaT.jar [&lt;opcje OmegaT>] [&lt;ścieżka projektu>]</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
