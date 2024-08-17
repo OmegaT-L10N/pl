@@ -46,10 +46,8 @@
             </repository>
             <repository type="http" url="https://raw.githubusercontent.com/omegat-org/omegat/releases/">
                 <mapping local="source/6.0/Bundle.properties" repository="6.0/src/org/omegat/Bundle.properties"/>
-            </repository>
-            <repository type="http" url="https://raw.githubusercontent.com/omegat-org/omegat/releases/">
                 <mapping local="source/5.8/Bundle.properties" repository="5.8/src/org/omegat/Bundle.properties"/>
-            </repository>            
+            </repository>
             <repository type="git" url="https://github.com/omegat-l10n/omegat-website.git">
                 <mapping local="source/website/" repository="_i18n/en/">
                    <excludes>**/howtos/**</excludes>
@@ -64,7 +62,7 @@
             </repository>
             <repository type="http" url="https://github.com/OmegaT-L10N/de/raw/master/">
                 <mapping local="tm/tmx2source/DE.tmx" repository="omegat/project_save.tmx"/>
-            </repository>            
+            </repository>
         </repositories>
     </project>
 </omegat>
