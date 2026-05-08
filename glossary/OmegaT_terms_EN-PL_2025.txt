@@ -1,0 +1,208 @@
+﻿active segment	aktywny segment	
+active segment source	tekst źródłowy aktywnego segmentu	
+active segment target	tekst docelowy aktywnego segmentu	
+aligner	zestawienie	
+alternative translation	alternatywne tłumaczenie	
+API key	klucz API	
+application startup	uruchamianie aplikacji	
+auto-completer	funkcja autouzupełniania	
+auto-completion	autouzupełnianie	
+auto-populated segment	automatycznie uzupełniony segment	
+autotext	tekst automatyczny	
+bad folder name	niepoprawna nazwa folderu	
+bad regular expression	niepoprawne wyrażenie regularne	
+bidrectional control character	dwukierunkowy znak kontrolny	
+blank source segment	pusty segment źródłowy	
+character table	tablica znaków	
+check for updates	sprawdź dostępność aktualizacji	
+check issue	zbadaj problem	
+close block	blok zamykający	
+colours selection	wybór kolorów
+command	polecenie	
+comment tag	znacznik komentarza	
+configuration folder	folder konfiguracji	
+ctype attribute	atrybut ctype	
+current segment	bieżący segment	
+current translation	bieżące tłumaczenie	
+custom colour	kolor niestandardowy	
+custom colours selection	wybór kolorów niestandardowych	
+custom table	niestandardowa tabela	
+custom tag	niestandardowy znacznik	
+custom tag in statistics	niestandardowy znacznik zaliczony do statystyk	
+default translation	tłumaczenie domyślne	
+delimitation	granica	
+delimiter	separator	
+dictionary	słownik	
+dictionary entry	hasło w słowniku	
+dictionary file	plik słownika	
+dictionary file folder	folder pliku słownika	
+dictionary files folder	folder plików słownika	
+dictionary folder	folder słownika	
+display source	wyświetl źródło	
+displays alternative translation	wyświetla alternatywne tłumaczenie	
+download team project	pobierz projekt zespołowy	
+encoding declaration	deklaracja kodowania	
+error encountered reading	wystąpił problem przy odczycie	
+error saving	błąd przy zapisie	
+export translation	wyeksportuj tłumaczenie	
+export translation memories folder	folder wyeksportowanych plików pamięci tłumaczeniowych	
+export translation memory folder	folder wyeksportowanego pliku pamięci tłumaczeniowej	
+external program	zewnętrzny program	
+external search	wyszukiwanie zewnętrzne	
+fallback	bazowa	(w przypadku czcionki)	
+fallback	rezerwa	(w przypadku identyfikatora)	
+false start of comment tag	błędne otwarcie znacznika komentarza	
+file encode	kodowanie pliku	
+file filter	filtr pliku	
+file folder	folder pliku	
+file language	język pliku	
+filename	nazwa pliku	
+filename pattern	wzór nazwy pliku	
+files	pliki	
+files folder	folder plików	
+files language	język plików	
+filter setting	ustawienie filtru	
+filters configuration	konfiguracja filtrów	
+filters configuration file	plik zawierający konfigurację filtrów	
+folder	folder	
+Foo vs foo	FOO i foo	
+fuzzy match	dopasowanie rozmyte	
+fuzzy matching	dopasowywanie rozmyte	
+global file filter	globalny filtr pliku	
+glossary	glosariusz	
+glossary entry	wpis do glosariusza	
+glossary file	plik glosariusza	
+glossary folder	folder glosariusza	
+gpg	GPG	
+help page	strona pomocnicza	
+history completion	uzupełniane słowa	
+history prediction	podpowiadanie kolejnego słowa	
+html file	plik HTML	
+identical translation	identyczne tłumaczenie	
+individual file statistics	statystyka poszczególnych plików	
+infix	Infix	
+insert match	wstaw dopasowanie	
+jar file	plik jar	
+java resource bundle	pakiet zasobów java	
+keyword search	Wyszukiwania słów-kluczowych	
+language code	kod języka	
+language tokenizer	tokenizator języka	https://www.guru99.com/pl/tokenize-words-sentences-nltk.html
+left-to-right mark	Znacznik od lewej do prawej	
+line length	długość linii	
+local dla projektu (dla aktualnie otwartego projektu) 
+local file	plik lokalny	
+local project	projekt lokalny	
+local segmentation rule	lokalna zasada segmentacji
+location	lokalizacja	
+LRM	Znacznik od lewej do prawej (ZLP)	
+machine translation	tłumaczenie maszynowe	
+master password	hasło główne	
+match	dopasowanie
+fuzzy match	dopasowanie rozmyte
+matching segment	pasujący segment	
+med project	projekt MED	
+mediawiki page	strona mediawiki	
+memory folder	folder pamięci	
+missing tag	brakujący znacznik	
+modification info	informacja o modyfikacji	
+next segment	następny segment	
+non-breakable space	spacja nierozdzielna	
+non-unique segment	nieunikalny segment	
+number of segments	liczba segmentów	
+omegat	OmegaT	
+omegat default	docelowy motyw OmegaT	
+omegat option	opcja omegat	
+orphan segment	segment osierocony 	
+paragraph delimitation	rozgraniczenie akapitów	
+PO filter	filtr plików PO	
+post-processing	po przetwarzaniu	
+post-processing command	polecenie po przetwarzaniu	
+preferences > machine translation	preferencje > tłumaczenie maszynowe 	
+previous segment	poprzedni segment 	
+project content	zawartość projektu	
+project file	plik projektu	
+project folder	folder projektu	
+project path	ścieżka projektu	
+regular expression	wyrażenie regularne	
+reload	załaduj ponownie 	
+remaining characters	pozostałe znaki	
+remaining segments	pozostałe segmenty	
+remaining words	pozostałe wyrazy	
+remote project	projekt zdalny	
+remote repository	repozytorium zdalne	
+remote server	serwer zdalny	
+repeated segment	powtórzony segment 	
+right-to-left	od prawej do lewej	
+saving project	zapisywanie projektu	
+scripts folder	folder skryptów	
+search string	ciąg wyszukiwania	
+segment	segment	
+segment marker text	tekst znacznika segmentów	
+segment source	tekst źródłowy segmentu	
+segment target text	tekst docelowy segmentu	
+segmentation	segmentacja	
+segmentation rule	zasada segmentacji	
+segments text	tekst segmentów	
+select issue type	wybierz typ problemu	
+selected script file	wybrany plik skryptu	
+set of segmentation rules	zbiór zasad segmentacji	
+source file	plik źródłowy	
+source file language	język pliku źródłowego	
+source file name	nazwa pliku źródłowego	
+source file name pattern	wzór nazwy pliku źródłowego	
+source files	pliki źródłowe	
+source files folder	folder plików źródłowych	
+source folder	folder źródłowy	
+source language	język źródłowy	
+source language tokenizer	tokenizator języka źródłowego	https://www.guru99.com/pl/tokenize-words-sentences-nltk.html
+source segment	segment źródłowy	
+source term	termin źródłowy	
+source text	tekst źródłowy	
+specified folder	wybrany folder	
+specified project	wybrany projekt	
+specified spellchecking dictionary folder	wybrany folder słownika sprawdzania pisowni	
+spellchecker	sprawdzanie pisowni	
+spellchecking dictionary	słownik sprawdzania pisowni	
+start of comment tag	otwarcie znacznika komentarza	
+stemming	stemming	
+TaaS collection	kolekcja TaaS	
+TaaS terminology	terminologia TaaS	
+TaaS terminology lookup	wyszukiwanie terminologii TaaS	
+tag in statistics	znacznik w statystykach	
+tag issue	problem ze znacznikiem	
+tag shortcut	skrót znacznika	
+target file	plik docelowy	
+target files	pliki docelowe	
+target language	język docelowy	
+target language tokenizer	tokenizator języka docelowego	https://www.guru99.com/pl/tokenize-words-sentences-nltk.html
+target segment	segment tekstu docelowego	
+target term	termin docelowy	
+target text	tekst docelowy	
+TBX glossary	glosariusz TBX	
+team project	projekt zespołowy	
+tmx file	plik TMX	
+tmx header	nagłówek TMX	
+tmx level	TMX level	
+total characters	całkowita liczba znaków	
+total number of segments	całkowita liczba segmentów	
+translated document	przetłumaczony dokument	
+translated file	przetłumaczony plik	
+translated files language	język przetłumaczonych plików	
+translated files folder	folder przetłumaczonych plików 	
+translated segment	przetłumaczony segment	
+translated unique segment	przetłumaczony niepowtarzający się segment	
+translation	tłumaczenie	
+translation memory	pamięć tłumaczeniowa	
+translation memory folder	folder pamięci tłumaczeniowej	
+translation unit	jednostka tłumaczeniowa	
+unique character	unikalny znak	
+unique remaining characters	pozostałe unikalne znaki	
+unique segment	niepowtarzający się segment	
+unknown plugin type	nieznany typ wtyczki	
+untranslated segment	nieprzetłumaczony segment 	
+use TAB	użyj klawisza TAB	
+user manual	podręcznik użytkownika	
+w / o space	bez spacji	
+whitespace	białe znaki	
+writable glossary file	edytowalny plik glosariusza	
+writeable glossary	edytowalny glosariusz	

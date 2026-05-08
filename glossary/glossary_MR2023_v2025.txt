@@ -1,0 +1,171 @@
+﻿access project contents	dostęp do treści projektu
+adres url	the url
+align files	wyrównywanie plików
+appearance	wygląd
+assign	przypisać
+back in history	poprzedni segment w historii
+backup file	kopia zapasowa
+check issues	wyświetlanie błędów
+check issues for current document	wyświetlanie błędów dla bieżącego dokumentu
+clear menu	wyczyść menu
+clipboard	schowek
+close	zamknij
+command	polecenie
+command delimiter	separator polecenia
+command string	ciąg poleceń
+comments	komentarze
+commit source files	wyślij pliki źródłowe
+commit target files	wyślij pliki docelowe
+copy files to source folder	kopiuj pliki do foldera źródłowego
+create current translated document	utwórz aktualnie tłumaczony dokument
+create glossary entry	wprowadź hasło do glosariusza
+create med project	utwórz projekt med
+create translated documents	utwórz przetłumaczone dokumenty
+current source document	bieżący dokument źródłowy
+current target document	bieżący dokument docelowy
+custom	niestandardowy
+default	domyślny
+delimiter	separator
+dictionaries	słowniki
+display context description for tbx glossaries	wyświetl opis kontekstu dla glosariuszy tbx
+dock	złącz
+download mediawiki page	pobierz stronę mediawiki
+download team project	pobierz projekt zespołowy
+edit	edycja
+editor	edytor
+encoding	kodowanie
+encoding declaration	deklaracja kodowania
+error	błąd
+exit code	kod wyjścia
+export selection	eksportuj zaznaczenie
+external command	polecenie zewnętrzne
+fatal error	błąd krytyczny
+file copy failed	kopiowanie plików nie powiodło się.
+file filters	filtry plików
+folder hierarchy	struktura folderów
+forward in history	następny segment w historii
+fuzzy matches	dopasowania rozmyte
+fuzzy matching	dopasowanie rozmyte
+global external searches	zewnętrzne wyszukiwanie globalne
+glossaries	glosariusze
+glossary	glosariusz
+go to	przejdź do
+gpg key	gpg
+id	identyfikator
+importing wiki page failed	importowanie strony wiki nie powiodło się.
+insert match or selection	wstaw dopasowanie lub zaznaczenie
+insert missing source tags	wprowadź brakujący znacznik źródłowy
+insert next missing tag	wprowadź następny brakujący znacznik
+insert source	wstaw tekst źródłowy
+insert tag	wprowadź znacznik
+insert unicode control character	wstaw znak kontrolny unicode
+io (input/output)	wejście/wyjście
+issue	problem
+key	klucz
+language pattern	wzorzec języka
+launch	uruchomić
+layout	układ
+left-to-right embedding (lre u+202a)	osadzanie od lewej do prawej (lre u+202a)
+left-to-right mark (lrm u+200e)	znak od lewej do prawej (lrm u+200e)
+machine translate	tłumaczenie maszynowe
+machine translation	tłumaczenie maszynowe
+mark paragraph delimitations	zaznacz granice akapitów
+mark translated segments	zaznacz przetłumaczone segmenty
+mark untranslated segments	zaznacz nieprzetłumaczone segmenty
+master password	hasło główne
+match	dopasowanie
+match statistics	statystyki dopasowań
+match statistics per file	statystyki dopasowań dla pliku
+maximize	maksymalizuj
+maximum number of finds	maksymalna liczba wyników wyszukiwania
+options menu	menu opcji
+minimize	minimalizuj
+modification info	informacje o modyfikacji
+name	nazwa
+new	nowy
+next note	następna notatka
+next segment	następny segment
+next translated segment	następny przetłumaczony segment
+next unique segment	następny unikalny segment
+next untranslated segment	następny nieprzetłumaczony segment
+non-unique	powtarzający się
+notepad	notatnik
+open	otwórz
+open med project	otwórz projekt med
+open recent project	otwórz ostatni projekt
+operating system	system operacyjny
+options	opcje
+orphan segment	segment osierocony
+path	ścieżka
+please type or paste the url of the mediawiki page	wpisz lub wklej adres url strony mediawiki
+plugin installer	instalator wtyczek
+plugins	wtyczki
+pop directional formatting (pdf u+202c)	formatowanie pop-kierunkowe (pdf u+202c)
+preferences	preferencje
+previous note	poprzednia notatka
+previous segment	poprzedni segment
+project	projekt
+project dir	katalog projektu
+project files	pliki projektu
+project is empty	projekt jest pusty lub nie zawiera żadnych plików rozpoznawanych przez omegat.
+properties	właściwości
+provider	dostawca
+quit	zamknij
+redo last action	ponów ostatnią czynność
+register identical translation	oznacz jako identyczne tłumaczenie
+reload	załaduj ponownie
+remove translation	usuń tłumaczenie
+replace glossary hits when inserting source text	zastąp hasła glosariusza podczas wstawiania tekstu źródłowego
+replace with machine translation	zamień używając tłumaczenia maszynowego
+replace with match or selection	zastąp dopasowaniem lub zaznaczeniem
+replace with source	zastąp tekstem źródłowym
+reset	resetuj
+restart	uruchom ponownie
+restore	przywróć
+right-to-left embedding (rle u+202b)	osadzanie od prawej do lewej (rle u+202b)
+right-to-left mark (rlm u+200f)	znak od prawej do lewej (rlm u+200f)
+root	root
+root	folder główny projektu
+save	zapisz
+script engines	silniki skryptowe
+scripting	skrypty
+search and replace	szukaj i zastąp
+search project	przeszukaj projekt
+secure store	bezpieczne przechowywanie danych
+segment	segment
+segment number	numer segmentu
+segmentation	segmentacja
+select match	wybierz dopasowanie
+select next match	wybierz następne dopasowanie
+select previous match	wybierz poprzednie dopasowanie
+serwer	server
+set empty translation	oznacz tłumaczenie jako puste
+settings	ustawienia
+slot	gniazdo
+source	źródło
+source files	pliki źródłowe
+source of selected match	źródło wybranego dopasowania
+source segment	segment źródłowy
+standard	standard
+statistics	statystyki
+summary	podsumowanie
+tag	znacznik
+target	tłumaczenie
+target files	pliki docelowe
+template	wyświetlanie
+term	termin
+terminology	terminologia
+tms	pamięci tłumaczeniowe
+tools	narzędzia
+translated file	przetłumaczony plik
+translation	tłumaczenie
+undo last action	cofnij ostatnią czynność
+undock	rozłącz
+unique segment	segment niepowtarzający się
+unsupported	nieobsługiwane
+url	adres url
+user manual	podręcznik użytkownika
+warning	ostrzeżenie
+wildcards	symbole wieloznaczne
+word	wyraz
+writeable glossary	zapisywalny glosariusz

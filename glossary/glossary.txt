@@ -1,0 +1,8 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+Insert Bidi Control Character	Wstaw znak sterujący kierunkiem tekst
+Writable Glossary	Edytowalny glosariusz
+Writable Glossary	edytowalny glosariusz
+Clear	Wyczyść
+Add	Dodaj
+credentials	dane logowania
+remote repository	repozytorium zdalne
