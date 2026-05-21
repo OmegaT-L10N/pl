@@ -4680,6 +4680,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure you have the correct permissions or that you can access the files if they are stored in the cloud.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260521T102902Z" creationid="kh" creationdate="20260521T102902Z">
+        <seg>Upewnij się, że masz odpowiednie uprawnienia lub że możesz uzyskać dostęp do plików, jeśli są one przechowywane w chmurze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mapping of local folders to remote folders in repositories</seg>
       </tuv>
       <tuv lang="pl" changeid="M_Kossak" changedate="20250506T063347Z" creationid="M_Kossak" creationdate="20250506T063347Z">
