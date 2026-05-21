@@ -3301,6 +3301,22 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project due to a file access issue.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260521T102454Z" creationid="kh" creationdate="20260521T102454Z">
+        <seg>Nie udało się załadować projektu z powodu problemu z dostępem do pliku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the specified project!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260521T102356Z" creationid="kh" creationdate="20260521T102356Z">
+        <seg>Wczytanie podanego projektu nie powiodło się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load translation memory {0} for the project!</seg>
       </tuv>
       <tuv lang="pl" changeid="kh" changedate="20260521T102337Z" creationid="kh" creationdate="20260521T102337Z">
