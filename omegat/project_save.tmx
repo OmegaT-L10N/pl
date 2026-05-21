@@ -1837,6 +1837,14 @@ Kup jeszcze drinka</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Przeglądaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Browse&amp;...</seg>
       </tuv>
       <tuv lang="pl" changeid="M_Kossak" changedate="20250415T072239Z" creationid="M_Kossak" creationdate="20250415T072239Z">
@@ -2184,6 +2192,22 @@ Groß-, Kleinschreibung</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Commit Source Files</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230303T092841Z" creationid="d55" creationdate="20230303T092841Z">
+        <seg>Potwierdź pliki źródłowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Commit Target Files</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230303T092853Z" creationid="d55" creationdate="20230303T092853Z">
+        <seg>Potwierdź pliki docelowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Committing source files</seg>
       </tuv>
       <tuv lang="pl" changeid="BZ" changedate="20250613T103541Z" creationid="fw" creationdate="20240513T161916Z">
@@ -2333,6 +2357,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="pl" changeid="kh" changedate="20260326T113102Z" creationid="mmstaw" creationdate="20240505T173105Z">
         <seg>Utwórz tłumaczenie &amp;alternatywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Alternative Translation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Utwórz alternatywne tłumaczenie</seg>
       </tuv>
     </tu>
     <tu>
@@ -3357,6 +3389,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File Filters</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Filtry plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File Name</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -3789,6 +3829,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go To</seg>
+      </tuv>
+      <tuv lang="pl" changeid="simon.kleist" changedate="20260514T100855Z" creationid="simon.kleist" creationdate="20260514T100855Z">
+        <seg>Przejdź &amp;do</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to Segment</seg>
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240423T063456Z" creationid="KJ" creationdate="20240423T063456Z">
@@ -3873,6 +3921,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Na&amp;główki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="pl" changeid="simon.kleist" changedate="20260514T100856Z" creationid="simon.kleist" creationdate="20260514T100856Z">
+        <seg>Po&amp;moc</seg>
       </tuv>
     </tu>
     <tu>
@@ -4163,6 +4219,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="kh" changedate="20260326T113440Z" creationid="mmstaw" creationdate="20240505T150923Z">
         <seg>Wstaw następny brakujący znacznik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Next Missing Tag</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Wprowadź następny brakujący znacznik</seg>
       </tuv>
     </tu>
     <tu>
@@ -4504,10 +4568,26 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Left-to-Right Embedding (LRE U+202A)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="akossek" changedate="20230414T082209Z" creationid="akossek" creationdate="20230414T082209Z">
+        <seg>Osadzanie od lewej do prawej (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240505T164800Z" creationid="mmstaw" creationdate="20240505T164800Z">
         <seg>Znak od lewej do prawej (LRM U+200&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="akossek" changedate="20230414T082133Z" creationid="akossek" creationdate="20230414T082133Z">
+        <seg>Znacznik od lewej do prawej (LRM U+200E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4716,6 +4796,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="d5548" changedate="20240611T071641Z" creationid="KJ" creationdate="20240513T090758Z">
         <seg>&amp;Zaznacz dopasowania z glosariuszy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Glossary Matches</seg>
+      </tuv>
+      <tuv lang="pl" changeid="d55" changedate="20230303T095844Z" creationid="d55" creationdate="20230303T095844Z">
+        <seg>Zaznacz dopasowania z glosariusza</seg>
       </tuv>
     </tu>
     <tu>
@@ -5665,6 +5753,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other Options:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pozostałe opcje:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other plugins are available online.</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T154816Z" creationid="mmstaw" creationdate="20240506T154816Z">
@@ -5851,6 +5947,14 @@ Znika niczym mgła
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240520T195247Z" creationid="mmstaw" creationdate="20240505T170601Z">
         <seg>Zakończ zmianę kierunku tekstu (PDF U+202&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="akossek" changedate="20230414T082303Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Pokaż formatowanie kierunkowe (PDF U+202C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6133,6 +6237,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="pl" changeid="klaud" changedate="20260414T121227Z" creationid="klaud" creationdate="20260414T121227Z">
         <seg>Wyszukiwania wyrażeń regularnych odpowiadają wyrażeniom regularnym w języku Java, określonych w podręczniku użytkownika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular expressions</seg>
+      </tuv>
+      <tuv lang="pl" changeid="simon.kleist" changedate="20260514T100842Z" creationid="simon.kleist" creationdate="20260514T100842Z">
+        <seg>Wyrażenia &amp;regularne</seg>
       </tuv>
     </tu>
     <tu>
@@ -6457,10 +6569,26 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-to-Left Embedding (RLE U+202B)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="akossek" changedate="20230414T082220Z" creationid="akossek" creationdate="20230414T082220Z">
+        <seg>Osadzanie od prawej do lewej (RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240505T164815Z" creationid="mmstaw" creationdate="20240505T164815Z">
         <seg>Znak od prawej do lewej (RLM U+200&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-to-Left Mark (RLM U+200F)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="akossek" changedate="20230414T082140Z" creationid="akossek" creationdate="20230414T082140Z">
+        <seg>Znacznik od prawej do lewej (RLM U+200F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6775,6 +6903,14 @@ Wyszukiwania dotyczą projektu i domyślnie obejmują jego tekst źródłowy i d
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20231009T211913Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
         <seg>Znacznik segmentu – tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="simon.kleist" changedate="20260514T100331Z" creationid="simon.kleist" creationdate="20260514T100331Z">
+        <seg>Segment</seg>
       </tuv>
     </tu>
     <tu>
