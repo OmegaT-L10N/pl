@@ -8119,6 +8119,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add files to the project you can:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T104718Z" creationid="JZ" creationdate="20260521T104718Z">
+        <seg>Aby dodać pliki do projektu, możesz:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Characters (w/ spaces)</seg>
       </tuv>
       <tuv lang="pl">
@@ -9051,6 +9059,14 @@ a strony nie ma</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Your project does not seem to contain translatable files.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T104649Z" creationid="JZ" creationdate="20260521T104649Z">
+        <seg>Twój projekt zdaje się nie zawierać plików do przetłumaczenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your version</seg>
       </tuv>
       <tuv lang="pl" changeid="A. Sośnicka" changedate="20250603T061202Z" creationid="A. Sośnicka" creationdate="20250603T061202Z">
@@ -9175,6 +9191,14 @@ a strony nie ma</seg>
       </tuv>
       <tuv lang="pl" changeid="klaud" changedate="20260414T122640Z" creationid="klaud" creationdate="20260414T122640Z">
         <seg>symbole wieloznaczne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T104538Z" creationid="JZ" creationdate="20260521T104538Z">
+        <seg>{0}</seg>
       </tuv>
     </tu>
     <tu>
