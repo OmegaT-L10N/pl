@@ -3375,8 +3375,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Failed to load last changes file</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260319T113415Z" creationid="kh" creationdate="20260319T113415Z">
-        <seg>Nie udało się załadować ostatnich zmian</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260521T105648Z" creationid="kh" creationdate="20260319T113415Z">
+        <seg>Nie można załadować ostatnich zmian</seg>
       </tuv>
     </tu>
     <tu>
