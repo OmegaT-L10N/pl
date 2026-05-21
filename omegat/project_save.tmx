@@ -3301,6 +3301,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project because the specified source folder contains a symbolic or hard link that points back to itself or one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260521T103508Z" creationid="kh" creationdate="20260521T103508Z">
+        <seg>Nie udało się załadować projektu, ponieważ określony folder źródłowy zawiera symboliczny lub twardy link, który wskazuje na niego samego lub jeden z jego podfolderów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load the project due to a file access issue.</seg>
       </tuv>
       <tuv lang="pl" changeid="kh" changedate="20260521T102454Z" creationid="kh" creationdate="20260521T102454Z">
@@ -4682,8 +4690,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Make sure you have the correct permissions or that you can access the files if they are stored in the cloud.</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260521T102902Z" creationid="kh" creationdate="20260521T102902Z">
-        <seg>Upewnij się, że masz odpowiednie uprawnienia lub że możesz uzyskać dostęp do plików, jeśli są one przechowywane w chmurze.</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260521T103016Z" creationid="kh" creationdate="20260521T102902Z">
+        <seg>Upewnij się, że masz odpowiednie uprawnienia lub że masz dostęp do plików, jeśli są one przechowywane w chmurze.</seg>
       </tuv>
     </tu>
     <tu>
