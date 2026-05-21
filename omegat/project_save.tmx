@@ -377,6 +377,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Find Next</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T101221Z" creationid="JZ" creationdate="20260521T101221Z">
+        <seg>&amp;Szukaj Dalej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Find...</seg>
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250429T065515Z" creationid="DK" creationdate="20250429T065515Z">
@@ -642,6 +650,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;OK</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T100741Z" creationid="JZ" creationdate="20260521T100741Z">
+        <seg>&amp;OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Open Script...</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -766,6 +782,14 @@
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
         <seg>&amp;Zastąp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Replace and Find Next</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T101252Z" creationid="JZ" creationdate="20260521T101252Z">
+        <seg>&amp;Zastąp i Szukaj Dalej</seg>
       </tuv>
     </tu>
     <tu>
@@ -902,6 +926,14 @@
       </tuv>
       <tuv lang="pl" changeid="KJ" changedate="20240513T092040Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>&amp;Pokaż istotne sugestie automatycznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show Replacements</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T100732Z" creationid="JZ" creationdate="20260521T100732Z">
+        <seg>&amp;Pokaż zmiany</seg>
       </tuv>
     </tu>
     <tu>
