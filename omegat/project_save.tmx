@@ -5512,6 +5512,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT ran out of memory and will close when you click OK.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T102847Z" creationid="JZ" creationdate="20260521T102720Z">
+        <seg>OmegaT ma zbyt mało pamięci i zakończy pracę, gdy wciśniesz OK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT {0} is now available.</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T172203Z" creationid="mmstaw" creationdate="20240506T172203Z">
@@ -5835,6 +5843,14 @@ Znika niczym mgła
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240520T195247Z" creationid="mmstaw" creationdate="20240505T170601Z">
         <seg>Zakończ zmianę kierunku tekstu (PDF U+202&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Possible solutions:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T102858Z" creationid="JZ" creationdate="20260521T102858Z">
+        <seg>Możliwe rozwiązania:</seg>
       </tuv>
     </tu>
     <tu>
