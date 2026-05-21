@@ -3293,10 +3293,26 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to commit source files!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260521T104857Z" creationid="kh" creationdate="20260521T104726Z">
+        <seg>Nie udało się wysłać plików źródłowych! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to commit source files.</seg>
       </tuv>
       <tuv lang="pl" changeid="kh" changedate="20260319T113514Z" creationid="fw" creationdate="20240513T161614Z">
         <seg>Nie udało się potwierdzić plików źródłowych </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to commit target files!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260521T104905Z" creationid="kh" creationdate="20260521T104727Z">
+        <seg>Nie udało się wysłać plików docelowych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7501,8 +7517,8 @@ Wyszukiwania dotyczą projektu i domyślnie obejmują jego tekst źródłowy i d
       <tuv lang="en">
         <seg>Source files committed</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240513T161935Z" creationid="fw" creationdate="20240513T161935Z">
-        <seg>pliki żródłowe potwierdzone</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260521T105031Z" creationid="fw" creationdate="20240513T161935Z">
+        <seg>Pliki żródłowe przesłane</seg>
       </tuv>
     </tu>
     <tu>
