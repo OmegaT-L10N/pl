@@ -9109,8 +9109,8 @@ a strony nie ma</seg>
       <tuv lang="en">
         <seg>You must enter a number between 1 and {0}.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
-        <seg>Musisz wprowadzić numer od 1 do {0}.</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260521T110336Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
+        <seg>Musisz wprowadzić numer między 1 a {0}.</seg>
       </tuv>
     </tu>
     <tu>
