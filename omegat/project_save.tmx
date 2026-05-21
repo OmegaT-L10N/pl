@@ -4127,6 +4127,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How To...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T110527Z" creationid="JZ" creationdate="20260521T110527Z">
+        <seg>Jak...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hyperlinks</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T232330Z" creationid="SIS_aligned" creationdate="20230302T232330Z">
@@ -6699,8 +6707,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Run OmegaT" in the user manual.</seg>
       </tuv>
-      <tuv lang="pl" changeid="JZ" changedate="20260521T104348Z" creationid="JZ" creationdate="20260521T104348Z">
-        <seg>Uruchom OmegaT" w podręczniku użytkownika.</seg>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T110717Z" creationid="JZ" creationdate="20260521T104348Z">
+        <seg>Uruchomić OmegaT" w podręczniku użytkownika.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6975,6 +6983,14 @@ Wyszukiwania dotyczą projektu i domyślnie obejmują jego tekst źródłowy i d
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T190525Z" creationid="mmstaw" creationdate="20240506T190525Z">
         <seg>Bezpieczne przechowywanie danych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See "How To...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T110608Z" creationid="JZ" creationdate="20260521T110608Z">
+        <seg>Zobacz "Jak...</seg>
       </tuv>
     </tu>
     <tu>
