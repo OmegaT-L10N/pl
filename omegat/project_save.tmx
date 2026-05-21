@@ -6497,6 +6497,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repeated segments: {0}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260521T110203Z" creationid="kh" creationdate="20260521T110151Z">
+        <seg>Powtarzające się segmenty {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repetitions from other files:</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -7005,8 +7013,8 @@ Wyszukiwania dotyczą projektu i domyślnie obejmują jego tekst źródłowy i d
       <tuv lang="en">
         <seg>Segment {0,number,#}</seg>
       </tuv>
-      <tuv lang="pl" changeid="simon.kleist" changedate="20260521T104311Z" creationid="simon.kleist" creationdate="20260521T104311Z">
-        <seg>Numer segmentu...</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260521T110248Z" creationid="simon.kleist" creationdate="20260521T104311Z">
+        <seg>Segment {0,number,#}</seg>
       </tuv>
     </tu>
     <tu>
