@@ -3295,8 +3295,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260521T104857Z" creationid="kh" creationdate="20260521T104726Z">
-        <seg>Nie udało się wysłać plików źródłowych! </seg>
+      <tuv lang="pl" changeid="kh" changedate="20260521T105128Z" creationid="kh" creationdate="20260521T104726Z">
+        <seg>Nie można wysłać plików źródłowych! </seg>
       </tuv>
     </tu>
     <tu>
@@ -3311,8 +3311,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Failed to commit target files!</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260521T104905Z" creationid="kh" creationdate="20260521T104727Z">
-        <seg>Nie udało się wysłać plików docelowych.</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260521T105144Z" creationid="kh" creationdate="20260521T104727Z">
+        <seg>Nie można wysłać plików docelowych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3343,8 +3343,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Failed to create the translated files!</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260521T104344Z" creationid="kh" creationdate="20260521T104026Z">
-        <seg>Nie udało się utworzyć przetłumaczonych plików!</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260521T105107Z" creationid="kh" creationdate="20260521T104026Z">
+        <seg>Nie można utworzyć przetłumaczonych plików!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3383,16 +3383,16 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Failed to load the project because the specified source folder contains a symbolic or hard link that points back to itself or one of its subfolders.</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260521T104158Z" creationid="kh" creationdate="20260521T103508Z">
-        <seg>Nie udało się załadować projektu, ponieważ wybrany folder źródłowy zawiera symboliczny lub twardy link, który wskazuje na niego samego lub jeden z jego podfolderów.</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260521T105056Z" creationid="kh" creationdate="20260521T103508Z">
+        <seg>Nie można załadować projektu, ponieważ wybrany folder źródłowy zawiera symboliczny lub twardy link, który wskazuje na niego samego lub jeden z jego podfolderów.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Failed to load the project due to a file access issue.</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260521T102454Z" creationid="kh" creationdate="20260521T102454Z">
-        <seg>Nie udało się załadować projektu z powodu problemu z dostępem do pliku.</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260521T105046Z" creationid="kh" creationdate="20260521T102454Z">
+        <seg>Nie można załadować projektu z powodu problemu z dostępem do pliku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7517,8 +7517,8 @@ Wyszukiwania dotyczą projektu i domyślnie obejmują jego tekst źródłowy i d
       <tuv lang="en">
         <seg>Source files committed</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260521T105031Z" creationid="fw" creationdate="20240513T161935Z">
-        <seg>Pliki żródłowe przesłane</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260521T105211Z" creationid="fw" creationdate="20240513T161935Z">
+        <seg>Pliki żródłowe zostały wysłane</seg>
       </tuv>
     </tu>
     <tu>
