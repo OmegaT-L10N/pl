@@ -1239,6 +1239,14 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T104406Z" creationid="JZ" creationdate="20260521T104406Z">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;br&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250506T065424Z" creationid="DK" creationdate="20250506T065424Z">
@@ -6633,6 +6641,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run OmegaT" in the user manual.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T104348Z" creationid="JZ" creationdate="20260521T104348Z">
+        <seg>Uruchom OmegaT" w podręczniku użytkownika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run script in slot #{0}.</seg>
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250429T065005Z" creationid="DK" creationdate="20250429T065005Z">
@@ -6903,14 +6919,6 @@ Wyszukiwania dotyczą projektu i domyślnie obejmują jego tekst źródłowy i d
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T190525Z" creationid="mmstaw" creationdate="20240506T190525Z">
         <seg>Bezpieczne przechowywanie danych</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>See "How To...</seg>
-      </tuv>
-      <tuv lang="pl" changeid="JZ" changedate="20260521T104140Z" creationid="JZ" creationdate="20260521T104140Z">
-        <seg>Więcej informacji znajdziesz w sekcji "Jak...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9187,10 +9195,50 @@ a strony nie ma</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{0} {1}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T104457Z" creationid="JZ" creationdate="20260521T104457Z">
+        <seg>{0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T104514Z" creationid="JZ" creationdate="20260521T104514Z">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T104453Z" creationid="JZ" creationdate="20260521T104453Z">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{0}.</seg>
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250506T065411Z" creationid="DK" creationdate="20250506T065411Z">
         <seg>{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}_{1}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T104442Z" creationid="JZ" creationdate="20260521T104442Z">
+        <seg>{0}_{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}_{1}_{2}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T104432Z" creationid="JZ" creationdate="20260521T104432Z">
+        <seg>{0}_{1}_{2}</seg>
       </tuv>
     </tu>
     <tu>
