@@ -7446,6 +7446,14 @@ Wyszukiwania dotyczą projektu i domyślnie obejmują jego tekst źródłowy i d
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Switch views with {0} and {1}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260521T101358Z" creationid="kh" creationdate="20260521T101358Z">
+        <seg>Przełącz podgląd za pomocą {0} i {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Synchronization of repositories</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20240521T061810Z" creationid="mmstaw" creationdate="20240519T134411Z">
