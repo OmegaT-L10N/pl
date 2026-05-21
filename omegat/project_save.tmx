@@ -3301,6 +3301,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load translation memory {0} for the project!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260521T102337Z" creationid="kh" creationdate="20260521T102337Z">
+        <seg>Wczytanie pamięci tłumaczeniowej projektu {0} nie powiodło się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fatal error on line {0}, column {1} while parsing:</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20231009T211630Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
@@ -5472,6 +5480,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT needs to reload the project to take the modifications into account.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260521T102129Z" creationid="kh" creationdate="20260521T102129Z">
+        <seg>OmegaT musi załadować ponownie projekt, aby uwzględnić modyfikacje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT {0} is now available.</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T172203Z" creationid="mmstaw" creationdate="20240506T172203Z">
@@ -6077,6 +6093,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T155545Z" creationid="mmstaw" creationdate="20240506T155545Z">
         <seg>Zainstalować ponownie wtyczkę {0}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reload the project now?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260521T102152Z" creationid="kh" creationdate="20260521T102152Z">
+        <seg>Załadować projekt ponownie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7055,6 +7079,14 @@ Wyszukiwania dotyczą projektu i domyślnie obejmują jego tekst źródłowy i d
       </tuv>
       <tuv lang="pl" changeid="A. Sośnicka" changedate="20250506T064216Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
         <seg>Rozmiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipped source file {0} because it could not be loaded.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260521T102245Z" creationid="kh" creationdate="20260521T102245Z">
+        <seg>Pominięto plik źródłowy {0} ponieważ nie można było go załadować.</seg>
       </tuv>
     </tu>
     <tu>
