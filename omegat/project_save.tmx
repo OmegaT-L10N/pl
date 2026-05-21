@@ -1183,6 +1183,22 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1) Reduce the number of files in the source folder;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T103138Z" creationid="JZ" creationdate="20260521T103138Z">
+        <seg>1) Zmniejsz liczbę plików w katalogu źródłowym;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2) Increase the amount of memory available to OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T103148Z" creationid="JZ" creationdate="20260521T103148Z">
+        <seg>2) Zwiększ ilość pamięci dostępnej dla OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>50%-74%:</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20250703T083628Z" creationid="UK" creationdate="20250415T072631Z">
@@ -6875,6 +6891,14 @@ Wyszukiwania dotyczą projektu i domyślnie obejmują jego tekst źródłowy i d
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See "How To...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T104140Z" creationid="JZ" creationdate="20260521T104140Z">
+        <seg>Więcej informacji znajdziesz w sekcji "Jak...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment</seg>
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250506T063222Z" creationid="DK" creationdate="20250506T063222Z">
@@ -8597,6 +8621,18 @@ Wyszukiwania dokładne odpowiadają całemu ciągowi wyszukiwania.</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240506T155412Z" creationid="mmstaw" creationdate="20240506T155412Z">
         <seg>Zaktualizować wtyczkę {0}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" from the command 
+line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260521T103732Z" creationid="JZ" creationdate="20260521T103732Z">
+        <seg>Użyj "java -Xmx&lt;rozmiar-w-MB&gt;M -jar OmegaT.jar" z wiersza 
+polecenia lub w skrypcie startowym OmegaT;
+Bieżące ustawienie to {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
