@@ -6705,6 +6705,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run OmegaT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="simon.kleist" changedate="20260521T110740Z" creationid="simon.kleist" creationdate="20260521T110740Z">
+        <seg>Uruchomić OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run OmegaT" in the user manual.</seg>
       </tuv>
       <tuv lang="pl" changeid="JZ" changedate="20260521T110717Z" creationid="JZ" creationdate="20260521T104348Z">
