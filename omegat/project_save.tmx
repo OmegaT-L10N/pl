@@ -7808,8 +7808,8 @@ Wyszukiwania dotyczą projektu i domyślnie obejmują jego tekst źródłowy i d
       <tuv lang="en">
         <seg>Target files committed</seg>
       </tuv>
-      <tuv lang="pl" changeid="SvK" changedate="20250703T081236Z" creationid="fw" creationdate="20240513T161958Z">
-        <seg>Wysłane pliki docelowe</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260521T105300Z" creationid="fw" creationdate="20240513T161958Z">
+        <seg>Pliki docelowe zostały wysłane</seg>
       </tuv>
     </tu>
     <tu>
