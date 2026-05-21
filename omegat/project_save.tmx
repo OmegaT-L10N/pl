@@ -3317,6 +3317,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to create the translated files!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260521T104344Z" creationid="kh" creationdate="20260521T104026Z">
+        <seg>Nie udało się utworzyć przetłumaczonych plików!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to create the translated files.</seg>
       </tuv>
       <tuv lang="pl" changeid="SvK" changedate="20250703T080802Z" creationid="BZ" creationdate="20250613T100936Z">
@@ -3351,8 +3359,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Failed to load the project because the specified source folder contains a symbolic or hard link that points back to itself or one of its subfolders.</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260521T103508Z" creationid="kh" creationdate="20260521T103508Z">
-        <seg>Nie udało się załadować projektu, ponieważ określony folder źródłowy zawiera symboliczny lub twardy link, który wskazuje na niego samego lub jeden z jego podfolderów.</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260521T104158Z" creationid="kh" creationdate="20260521T103508Z">
+        <seg>Nie udało się załadować projektu, ponieważ wybrany folder źródłowy zawiera symboliczny lub twardy link, który wskazuje na niego samego lub jeden z jego podfolderów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3367,8 +3375,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Failed to load the specified project!</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260521T102356Z" creationid="kh" creationdate="20260521T102356Z">
-        <seg>Wczytanie podanego projektu nie powiodło się!</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260521T104117Z" creationid="kh" creationdate="20260521T102356Z">
+        <seg>Wczytanie wybranego projektu nie powiodło się!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4780,6 +4788,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="kh" changedate="20260416T105121Z" creationid="M_Kossak" creationdate="20250506T063939Z">
         <seg>Główna pamięć &amp;tłumaczeniowa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure all links are outside the source folder and subfolders.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260521T104251Z" creationid="kh" creationdate="20260521T104251Z">
+        <seg>Upewnij się, że wszystkie linki znajdują się poza folderem źródłowym i podfolderami.</seg>
       </tuv>
     </tu>
     <tu>
