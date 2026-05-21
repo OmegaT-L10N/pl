@@ -3303,8 +3303,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Failed to commit source files.</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260319T113514Z" creationid="fw" creationdate="20240513T161614Z">
-        <seg>Nie udało się potwierdzić plików źródłowych </seg>
+      <tuv lang="pl" changeid="kh" changedate="20260521T105557Z" creationid="fw" creationdate="20240513T161614Z">
+        <seg>Nie można wysłać plików źródłowych </seg>
       </tuv>
     </tu>
     <tu>
@@ -3319,8 +3319,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Failed to commit target files.</seg>
       </tuv>
-      <tuv lang="pl" changeid="fw" changedate="20240513T161900Z" creationid="fw" creationdate="20240513T161840Z">
-        <seg>Nie udało się potwierdzić plików docelowych.</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260521T105606Z" creationid="fw" creationdate="20240513T161840Z">
+        <seg>Nie można potwierdzić plików docelowych.</seg>
       </tuv>
     </tu>
     <tu>
