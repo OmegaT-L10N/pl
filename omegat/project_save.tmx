@@ -8725,6 +8725,14 @@ Bieżące ustawienie to {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260521T104615Z" creationid="kh" creationdate="20260521T104615Z">
+        <seg>Wejdź w Narzędzia &gt; Sprawdź błędy... aby poprawić błędne znaczniki i spróbuj ponownie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use as Default Translati&amp;on</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240505T173051Z" creationid="mmstaw" creationdate="20240505T173051Z">
