@@ -2093,6 +2093,14 @@ Kup jeszcze drinka</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check whether this is intentional.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260521T110044Z" creationid="kh" creationdate="20260521T110044Z">
+        <seg>Sprawdź, czy działanie jest zamierzone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check {0}</seg>
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250506T061815Z" creationid="DK" creationdate="20250506T061815Z">
@@ -8100,6 +8108,14 @@ Zamiana tekstu dotyczy segmentów docelowych projektu.</seg>
       </tuv>
       <tuv lang="pl" changeid="d55" changedate="20230303T094512Z" creationid="d55" creationdate="20230303T094512Z">
         <seg>Motyw:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are no Git settings in the remote project file.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260521T105928Z" creationid="kh" creationdate="20260521T105928Z">
+        <seg>Nie ma żadnych ustawień Git w pliku projektu zdalnego.</seg>
       </tuv>
     </tu>
     <tu>
