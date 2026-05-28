@@ -1193,6 +1193,16 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--disable-project-locking
+	  Do not attempt to lock the omegat.project file.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260528T103821Z" creationid="kh" creationdate="20260528T103821Z">
+        <seg>--disable-project-locking
+	  Nie blokuj pliku omegat.project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--no-team
 	  Disable team project functionality.</seg>
       </tuv>
@@ -4189,15 +4199,6 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>If invoked in a git working tree or svn checkout, the results
-	  will be staged/added.</seg>
-      </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260528T103120Z" creationid="kh" creationdate="20260528T103120Z">
-        <seg>Jeśli polecenie zostanie uruchomione</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
       </tuv>
       <tuv lang="pl" changeid="Patryk_Świech" changedate="20250401T070638Z" creationid="Patryk_Świech" creationdate="20250401T070638Z">
@@ -5401,8 +5402,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>No option: Launch GUI.</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260528T101147Z" creationid="kh" creationdate="20260528T100032Z">
-        <seg>Brak opcji: Uruchamianie graficznego interfejsu użytkownika.</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260528T103842Z" creationid="kh" creationdate="20260528T100032Z">
+        <seg>Brak opcji: Uruchamia graficzny interfejs użytkownika.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6258,8 +6259,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Project path only: Launch GUI and load specified project.</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260528T100742Z" creationid="kh" creationdate="20260528T100742Z">
-        <seg>Ścieżka projektu bez dodatkowych opcji: Uruchamianie graficznego interfejsu użytkownika i ładowanie danego projektu.</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260528T103945Z" creationid="kh" creationdate="20260528T100742Z">
+        <seg>Ścieżka projektu bez dodatkowych opcji: Uruchamia graficzny interfejs użytkownika i ładuje dany projekt.</seg>
       </tuv>
     </tu>
     <tu>
