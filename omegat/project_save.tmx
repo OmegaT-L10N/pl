@@ -1236,6 +1236,17 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--remote-project
+	  Download an omegat.project file from the URL given as &lt;project
+	  path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260528T104832Z" creationid="JZ" creationdate="20260528T104832Z">
+        <seg>--remote-project
+	  Pobiera plik projektu zespołowego omegat.project z adresu URL podanego jako &lt;ścieżka projektu&gt; i wczytuje projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-h, --help
 	  Print this help message.</seg>
       </tuv>
