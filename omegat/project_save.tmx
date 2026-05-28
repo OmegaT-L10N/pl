@@ -1183,6 +1183,16 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--disable-location-save
+	  Do not remember the last folder opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260528T103700Z" creationid="JZ" creationdate="20260528T103700Z">
+        <seg>--disable-location-save
+	 Folder ostatnio otwarty w selektorze plików nie zostaje zapamiętany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--no-team
 	  Disable team project functionality.</seg>
       </tuv>
