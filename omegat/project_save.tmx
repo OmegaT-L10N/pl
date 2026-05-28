@@ -1183,6 +1183,19 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+	  Source- or target-language tokenizer to use (overrides project
+	  settings).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260528T104445Z" creationid="JZ" creationdate="20260528T104413Z">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+	 Wskazany do użycia tokenizator języka źródłowego lub docelowego (nadpisuje ustawienia projektu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--disable-location-save
 	  Do not remember the last folder opened in the file picker.</seg>
       </tuv>
