@@ -1186,9 +1186,9 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
         <seg>-h, --help
 	  Print this help message.</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260528T101129Z" creationid="kh" creationdate="20260528T101129Z">
+      <tuv lang="pl" changeid="kh" changedate="20260528T101825Z" creationid="kh" creationdate="20260528T101129Z">
         <seg>-h, --help
-	  Print this help message.</seg>
+	  Wyświetlanie tekstu pomocy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5364,8 +5364,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>No option: Launch GUI.</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260528T100032Z" creationid="kh" creationdate="20260528T100032Z">
-        <seg>Brak opcji: Uruchom graficzny interfejs użytkownika.</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260528T101147Z" creationid="kh" creationdate="20260528T100032Z">
+        <seg>Brak opcji: Uruchamianie graficznego interfejsu użytkownika.</seg>
       </tuv>
     </tu>
     <tu>
