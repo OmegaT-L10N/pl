@@ -1196,6 +1196,16 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The folder used to read or write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260528T105708Z" creationid="kh" creationdate="20260528T105708Z">
+        <seg>--config-dir=&lt;ścieżka&gt;
+	  Folder użyty do odczytu lub zapisu plików konfiguracyjnych OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=&lt;path&gt;
 	  A Java .properties file from which to load default settings.</seg>
       </tuv>
