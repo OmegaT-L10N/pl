@@ -4292,6 +4292,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260528T103025Z" creationid="JZ" creationdate="20260528T103025Z">
+        <seg>Tworzenie projektu zespołowego o minimalnych specyfikacjach z podanymi językami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Bidi Control C&amp;haracter</seg>
       </tuv>
       <tuv lang="pl" changeid="mmstaw" changedate="20240505T163840Z" creationid="mmstaw" creationdate="20240505T163840Z">
