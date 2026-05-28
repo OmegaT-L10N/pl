@@ -1257,6 +1257,16 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="JZ" changedate="20260528T105959Z" creationid="JZ" creationdate="20260528T105959Z">
+        <seg>--resource-bundle=&lt;ścieżka&gt;
+	  Plik Java.properties odpowiadający za tekst interfejsu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-h, --help
 	  Print this help message.</seg>
       </tuv>
