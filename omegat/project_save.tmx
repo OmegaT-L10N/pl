@@ -1183,6 +1183,16 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-h, --help
+	  Print this help message.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260528T101129Z" creationid="kh" creationdate="20260528T101129Z">
+        <seg>-h, --help
+	  Print this help message.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1) Reduce the number of files in the source folder;</seg>
       </tuv>
       <tuv lang="pl" changeid="JZ" changedate="20260521T103138Z" creationid="JZ" creationdate="20260521T103138Z">
