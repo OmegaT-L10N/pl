@@ -4179,6 +4179,15 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If invoked in a git working tree or svn checkout, the results
+	  will be staged/added.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260528T103120Z" creationid="kh" creationdate="20260528T103120Z">
+        <seg>Jeśli polecenie zostanie uruchomione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
       </tuv>
       <tuv lang="pl" changeid="Patryk_Świech" changedate="20250401T070638Z" creationid="Patryk_Świech" creationdate="20250401T070638Z">
