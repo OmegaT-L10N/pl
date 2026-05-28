@@ -7005,8 +7005,8 @@ Wyszukiwania dotyczą projektu i domyślnie obejmują jego tekst źródłowy i d
       <tuv lang="en">
         <seg>See Help &gt; User Manual for details, including available Java options.</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260528T094717Z" creationid="kh" creationdate="20260528T094717Z">
-        <seg>Aby dowiedzieć się więcej, wybierz Pomoc &gt; Podręcznik użytkownika, łącznie z opcjami Java </seg>
+      <tuv lang="pl" changeid="kh" changedate="20260528T095420Z" creationid="kh" creationdate="20260528T094717Z">
+        <seg>Aby dowiedzieć się więcej, również na temat opcji Java, wybierz Pomoc &gt; Podręcznik użytkownika </seg>
       </tuv>
     </tu>
     <tu>
