@@ -1196,9 +1196,9 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
         <seg>--disable-project-locking
 	  Do not attempt to lock the omegat.project file.</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260528T103821Z" creationid="kh" creationdate="20260528T103821Z">
+      <tuv lang="pl" changeid="kh" changedate="20260528T104116Z" creationid="kh" creationdate="20260528T103821Z">
         <seg>--disable-project-locking
-	  Nie blokuj pliku omegat.project.</seg>
+	  Nie blokuje pliku omegat.project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1206,9 +1206,9 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
         <seg>--no-team
 	  Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260528T102246Z" creationid="kh" creationdate="20260528T102246Z">
+      <tuv lang="pl" changeid="kh" changedate="20260528T104021Z" creationid="kh" creationdate="20260528T102246Z">
         <seg>--no-team
-	  Wyłączanie funkcji synchronizacji projektu zespołowego.</seg>
+	  Wyłącza funkcje synchronizacji projektu zespołowego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1216,9 +1216,9 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
         <seg>-h, --help
 	  Print this help message.</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260528T101825Z" creationid="kh" creationdate="20260528T101129Z">
+      <tuv lang="pl" changeid="kh" changedate="20260528T104005Z" creationid="kh" creationdate="20260528T101129Z">
         <seg>-h, --help
-	  Wyświetlanie tekstu pomocy.</seg>
+	  Wyświetla tekst pomocy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4305,8 +4305,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Initialize a minimal team project with the specified languages.</seg>
       </tuv>
-      <tuv lang="pl" changeid="JZ" changedate="20260528T103025Z" creationid="JZ" creationdate="20260528T103025Z">
-        <seg>Tworzenie projektu zespołowego o minimalnych specyfikacjach z podanymi językami.</seg>
+      <tuv lang="pl" changeid="kh" changedate="20260528T104140Z" creationid="JZ" creationdate="20260528T103025Z">
+        <seg>Tworzy projekt zespołowy o minimalnych specyfikacjach z podanymi językami.</seg>
       </tuv>
     </tu>
     <tu>
