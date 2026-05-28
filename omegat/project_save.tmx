@@ -6209,6 +6209,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project path only: Launch GUI and load specified project.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260528T100742Z" creationid="kh" creationdate="20260528T100742Z">
+        <seg>Ścieżka projektu bez dodatkowych opcji: Uruchamianie graficznego interfejsu użytkownika i ładowanie danego projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project saved</seg>
       </tuv>
       <tuv lang="pl" changeid="SIS_aligned" changedate="20230302T233632Z" creationid="SIS_aligned" creationdate="20230302T233632Z">
