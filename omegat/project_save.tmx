@@ -7003,6 +7003,14 @@ Wyszukiwania dotyczą projektu i domyślnie obejmują jego tekst źródłowy i d
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See Help &gt; User Manual for details, including available Java options.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260528T094717Z" creationid="kh" creationdate="20260528T094717Z">
+        <seg>Aby dowiedzieć się więcej, wybierz Pomoc &gt; Podręcznik użytkownika, łącznie z opcjami Java </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment</seg>
       </tuv>
       <tuv lang="pl" changeid="DK" changedate="20250506T063222Z" creationid="DK" creationdate="20250506T063222Z">
