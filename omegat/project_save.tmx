@@ -1199,9 +1199,9 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
         <seg>--config-file=&lt;path&gt;
 	  A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260528T104801Z" creationid="kh" creationdate="20260528T104801Z">
+      <tuv lang="pl" changeid="kh" changedate="20260528T105003Z" creationid="kh" creationdate="20260528T104801Z">
         <seg>--config-file=&lt;ścieżka&gt;
-	  Plik Java.properties, z którego </seg>
+	  Plik Java.properties, z którego mają być załadowane ustawienia domyślne.</seg>
       </tuv>
     </tu>
     <tu>
