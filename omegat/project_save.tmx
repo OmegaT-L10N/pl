@@ -5352,6 +5352,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No option: Launch GUI.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260528T100032Z" creationid="kh" creationdate="20260528T100032Z">
+        <seg>Brak opcji: Uruchom graficzny interfejs użytkownika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No predefined credentials passed.</seg>
       </tuv>
       <tuv lang="pl" changeid="JZ" changedate="20260416T104626Z" creationid="JZ" creationdate="20260416T104626Z">
@@ -5692,6 +5700,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="pl" changeid="kh" changedate="20260521T102129Z" creationid="kh" creationdate="20260521T102129Z">
         <seg>OmegaT musi załadować ponownie projekt, aby uwzględnić modyfikacje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT options:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260528T095508Z" creationid="kh" creationdate="20260528T095508Z">
+        <seg>Opcje OmegaT : </seg>
       </tuv>
     </tu>
     <tu>
@@ -7005,8 +7021,8 @@ Wyszukiwania dotyczą projektu i domyślnie obejmują jego tekst źródłowy i d
       <tuv lang="en">
         <seg>See Help &gt; User Manual for details, including available Java options.</seg>
       </tuv>
-      <tuv lang="pl" changeid="kh" changedate="20260528T095420Z" creationid="kh" creationdate="20260528T094717Z">
-        <seg>Aby dowiedzieć się więcej, również na temat opcji Java, wybierz Pomoc &gt; Podręcznik użytkownika </seg>
+      <tuv lang="pl" changeid="kh" changedate="20260528T095502Z" creationid="kh" creationdate="20260528T094717Z">
+        <seg>Aby dowiedzieć się więcej, również na temat opcji Java, wybierz Pomoc &gt; Podręcznik użytkownika. </seg>
       </tuv>
     </tu>
     <tu>
