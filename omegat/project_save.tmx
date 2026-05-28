@@ -1196,6 +1196,16 @@ Znakowi „?" odpowiada dokładnie jeden znak (na przykład, „tak?" będzie od
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-file=&lt;path&gt;
+	  A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260528T104801Z" creationid="kh" creationdate="20260528T104801Z">
+        <seg>--config-file=&lt;ścieżka&gt;
+	  Plik Java.properties, z którego </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--disable-location-save
 	  Do not remember the last folder opened in the file picker.</seg>
       </tuv>
@@ -7092,6 +7102,14 @@ Wyszukiwania dotyczą projektu i domyślnie obejmują jego tekst źródłowy i d
       </tuv>
       <tuv lang="pl" changeid="kh" changedate="20260528T095502Z" creationid="kh" creationdate="20260528T094717Z">
         <seg>Aby dowiedzieć się więcej, również na temat opcji Java, wybierz Pomoc &gt; Podręcznik użytkownika. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260528T104445Z" creationid="kh" creationdate="20260528T104445Z">
+        <seg>Prawidłowe wartości znajdują się w OmegaT.jar/META-INF/MANIFEST.MF.</seg>
       </tuv>
     </tu>
     <tu>
