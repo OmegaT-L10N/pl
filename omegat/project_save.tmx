@@ -8753,6 +8753,14 @@ Wyszukiwania dokładne odpowiadają całemu ciągowi wyszukiwania.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260528T094218Z" creationid="kh" creationdate="20260528T094218Z">
+        <seg>Zastosowanie: java -jar [&lt;opcje java&gt;] OmegaT.jar [&lt;opcje OmegaT&gt;] [&lt;ścieżka projektu&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" from the command 
 line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
