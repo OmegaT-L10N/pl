@@ -9343,6 +9343,16 @@ a strony nie ma</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>team init &lt;source language&gt; &lt;target language&gt;
+	  Team project tool.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="kh" changedate="20260528T102833Z" creationid="kh" creationdate="20260528T102833Z">
+        <seg>team init &lt;język źródłowy&gt; &lt;język docelowy&gt;
+	  narzędzie dla projektów zespołowych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>wildcards.</seg>
       </tuv>
       <tuv lang="pl" changeid="klaud" changedate="20260414T122640Z" creationid="klaud" creationdate="20260414T122640Z">
